@@ -4,10 +4,10 @@ from pydub.effects import compress_dynamic_range
 
 # Paths
 input_root = "selected_for_context_survey"
-output_root = "selected_feedback"
+output_root = "selected_feedback_rms20"
 
 # Settings
-TARGET_RMS = -18.0      # louder target for short clips
+TARGET_RMS = -20.0      # louder target for short clips
 MAX_GAIN_DB = 8.0       # max boost allowed
 APPLY_COMPRESSION = True # set to False to skip compression
 
