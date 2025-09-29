@@ -2,7 +2,7 @@ import os
 import shutil
 
 source_folder = "/media/liviaq/extraDisk/prosodic_similarity_2/data/feedback_carol/survey/final_files_clipped"
-target_folder = "/media/liviaq/extraDisk/perception_study/selected_for_context_survey"
+target_folder = "/media/liviaq/extraDisk/perception_study/selected_feedback_clipped"
 
 # Walk through source folder
 for root, _, files in os.walk(source_folder):

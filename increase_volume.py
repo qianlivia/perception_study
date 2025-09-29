@@ -3,13 +3,29 @@ from pydub import AudioSegment
 from pydub.effects import compress_dynamic_range
 
 # Paths
-input_root = "selected_for_context_survey"
-output_root = "selected_feedback_rms22"
+input_root = "selected_feedback_clipped"
+output_root = "selected_feedback_clipped_rms30"
 
 # Settings
-TARGET_RMS = -22.0      # louder target for short clips
-MAX_GAIN_DB = 8.0       # max boost allowed
+TARGET_RMS = -30.0      # louder target for short clips
+MAX_GAIN_DB = 6.0       # max boost allowed
 APPLY_COMPRESSION = True # set to False to skip compression
+exception = [
+    "spontA_198_okay.wav",
+    "spontC_134_okay.wav",
+    "spontD_033_okay.wav",
+    "spontD_073_okay.wav",
+    "spontD_089_okay.wav",
+    "spontD_383_okay.wav",
+    "spontE_005_okay.wav",
+    "spontE_071_okay.wav",
+    "spontF_181_okay.wav",
+    "spontF_280_okay.wav",
+    "spontF_317_okay.wav",
+    "spontF_386_okay.wav",
+    "spontF_583_okay.wav"
+]
+active = ["NS_026_huh.wav"]
 
 def normalize_clip(audio, target_rms, max_gain_db, apply_compression=True):
     # 1. Peak normalization: bring loudest sample close to 0 dBFS
@@ -44,9 +60,16 @@ for root, _, files in os.walk(input_root):
             path_out_dir = os.path.join(output_root, rel_path)
             os.makedirs(path_out_dir, exist_ok=True)
             path_out = os.path.join(path_out_dir, file)
+            
+            if active and file not in active:
+                continue  # Skip files not in the active list
 
             audio = AudioSegment.from_wav(path_in)
-            processed = normalize_clip(audio, TARGET_RMS, MAX_GAIN_DB, APPLY_COMPRESSION)
+            if file in exception:
+                processed = audio
+                print(f"Processed {file}: exception, no change ({audio.dBFS:.2f} dBFS)")
+            else:
+                processed = normalize_clip(audio, TARGET_RMS, MAX_GAIN_DB, APPLY_COMPRESSION)
+                print(f"Processed {file}: {audio.dBFS:.2f} → {processed.dBFS:.2f} dBFS")
             processed.export(path_out, format="wav")
 
-            print(f"Processed {file}: {audio.dBFS:.2f} → {processed.dBFS:.2f} dBFS")
