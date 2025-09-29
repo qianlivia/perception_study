@@ -4,7 +4,7 @@ from pydub.effects import compress_dynamic_range
 
 # Paths
 input_root = "selected_feedback_clipped"
-output_root = "selected_feedback_clipped_rms30"
+output_root = "selected_feedback_clipped_rms-30"
 
 # Settings
 TARGET_RMS = -30.0      # louder target for short clips
@@ -26,6 +26,7 @@ exception = [
     "spontF_583_okay.wav"
 ]
 active = ["NS_026_huh.wav"]
+active = []
 
 def normalize_clip(audio, target_rms, max_gain_db, apply_compression=True):
     # 1. Peak normalization: bring loudest sample close to 0 dBFS

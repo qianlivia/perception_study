@@ -74,8 +74,8 @@ print(wav_files_all)
 print(wav_files_all - wav_files)
 
 # Copy unique files to a new folder
-source_folder = "/media/liviaq/extraDisk/perception_study/selected_feedback_clipped_rms30"
-target_folder = "/media/liviaq/extraDisk/perception_study/selected_feedback_clipped_rms30_unique"
+source_folder = "/media/liviaq/extraDisk/perception_study/selected_feedback_clipped_rms-30"
+target_folder = "/media/liviaq/extraDisk/perception_study/selected_feedback_clipped_rms-30_unique"
 os.makedirs(target_folder, exist_ok=True)
 moved_files = copy_unique_files(source=source_folder, target=target_folder, excluded_subfolders=excluded_subfolders)
 print(moved_files)
