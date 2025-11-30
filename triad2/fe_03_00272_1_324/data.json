@@ -1,0 +1,30 @@
+{
+    "name": "fe_03_00272",
+    "context_channel": 0,
+    "context_text": "yeah yeah yeah even though it's very big in new york city uh the bombing in new york city was really very big one",
+    "context_start": 316.08,
+    "context_end": 324.03,
+    "feedback": [
+        {
+            "name": "fe_03_00272",
+            "channel": 1,
+            "start": 324.48,
+            "end": 324.98,
+            "token": "yes"
+        },
+        {
+            "name": "fe_03_02754",
+            "channel": 0,
+            "start": 159.78,
+            "end": 160.26,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_01474",
+            "channel": 1,
+            "start": 57.72,
+            "end": 58.38,
+            "token": "uh-huh"
+        }
+    ]
+}

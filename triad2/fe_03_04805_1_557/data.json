@@ -1,0 +1,30 @@
+{
+    "name": "fe_03_04805",
+    "context_channel": 0,
+    "context_text": "that's a um i i think i think new york has even more stringent regulations on smoking now than california",
+    "context_start": 547.85,
+    "context_end": 556.81,
+    "feedback": [
+        {
+            "name": "fe_03_04805",
+            "channel": 1,
+            "start": 557.21,
+            "end": 558.04,
+            "token": "really"
+        },
+        {
+            "name": "fe_03_05021",
+            "channel": 1,
+            "start": 439.66,
+            "end": 440.15,
+            "token": "yep"
+        },
+        {
+            "name": "fe_03_00750",
+            "channel": 0,
+            "start": 433.7,
+            "end": 434.21,
+            "token": "uh-huh"
+        }
+    ]
+}
