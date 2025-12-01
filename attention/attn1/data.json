@@ -1,0 +1,30 @@
+{
+    "name": "attn1",
+    "context_channel": 1,
+    "context_text": "attention check please select 2 for all three audio files in the question regarding how well they match the context",
+    "context_start": 0,
+    "context_end": 0,
+    "feedback": [
+        {
+            "name": "fe_03_00011",
+            "channel": 0,
+            "start": 67.93,
+            "end": 68.56,
+            "token": "oh"
+        },
+        {
+            "name": "fe_03_02867",
+            "channel": 1,
+            "start": 266.73,
+            "end": 267.39,
+            "token": "right"
+        },
+        {
+            "name": "fe_03_02867",
+            "channel": 1,
+            "start": 266.73,
+            "end": 267.39,
+            "token": "right"
+        }
+    ]
+}

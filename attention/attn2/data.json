@@ -1,0 +1,30 @@
+{
+    "name": "fe_03_00401",
+    "context_channel": 1,
+    "context_text": "attention check please select 3 for all three audio files in the question regarding how well they match the context",
+    "context_start": 549.22,
+    "context_end": 559.96,
+    "feedback": [
+        {
+            "name": "fe_03_00401",
+            "channel": 0,
+            "start": 560.14,
+            "end": 560.63,
+            "token": "yep"
+        },
+        {
+            "name": "fe_03_01655",
+            "channel": 1,
+            "start": 348.69,
+            "end": 349.74,
+            "token": "ah"
+        },
+        {
+            "name": "fe_03_01655",
+            "channel": 1,
+            "start": 348.69,
+            "end": 349.74,
+            "token": "ah"
+        }
+    ]
+}
