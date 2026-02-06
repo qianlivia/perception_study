@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00004",
+    "context_channel": 0,
+    "context_text": "<A> attention check please select 2 for the first backchannel / <B> alright / <A> select 3 for the second backchannel / <B> okay / <A> and select 5 for the last one / <B> sure",
+    "context_start": 0,
+    "context_end": 11.424,
+    "feedback": [
+        {
+            "start": 4.5,
+            "end": 5.294,
+            "token": "alright",
+            "length": 0.794
+        },
+        {
+            "start": 8,
+            "end": 8.718,
+            "token": "okay",
+            "length": 0.718
+        },
+        {
+            "start": 10.8,
+            "end": 11.421,
+            "token": "sure",
+            "length": 0.621
+        }
+    ]
+}

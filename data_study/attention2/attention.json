@@ -1,0 +1,21 @@
+{
+    "name": "fe_03_00004",
+    "context_channel": 0,
+    "context_text": "<A> i'm just saying that this is an attention check and you should choose 3 in the first case / <B> alright / <A> and choose 1 in the second case / <B> sure",
+    "context_start": 0,
+    "context_end": 7.68,
+    "feedback": [
+        {
+            "start": 4.5,
+            "end": 5.294,
+            "token": "alright",
+            "length": 0.794
+        },
+        {
+            "start": 7,
+            "end": 7.621,
+            "token": "sure",
+            "length": 0.621
+        }
+    ]
+}
