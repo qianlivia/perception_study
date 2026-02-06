@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03872",
+    "context_channel": 1,
+    "context_text": "<A> if it's appropriate / <B> definitely / <A> for for whom the comedy / <B> right / <A> is whether it's a movie or / <B> mhm",
+    "context_start": 79.05,
+    "context_end": 88.29,
+    "feedback": [
+        {
+            "name": "fe_03_03872",
+            "start": 79.51,
+            "end": 80.01,
+            "token": "definitely"
+        },
+        {
+            "name": "fe_03_03872",
+            "start": 84.66,
+            "end": 85.21,
+            "token": "right"
+        },
+        {
+            "name": "fe_03_03872",
+            "start": 87.86,
+            "end": 88.29,
+            "token": "mhm"
+        }
+    ]
+}

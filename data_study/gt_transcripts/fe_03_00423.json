@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00423",
+    "context_channel": 1,
+    "context_text": "<A> who is able to stay home i know that you know grandparents { who } / <B> [ mhm ] / <A> are with children / <B> yes / <A> often as caretakers / <B> yes",
+    "context_start": 247.85,
+    "context_end": 257.28,
+    "feedback": [
+        {
+            "name": "fe_03_00423",
+            "start": 252.8,
+            "end": 253.22,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_00423",
+            "start": 254.57,
+            "end": 254.99,
+            "token": "yes"
+        },
+        {
+            "name": "fe_03_00423",
+            "start": 256.88,
+            "end": 257.28,
+            "token": "yes"
+        }
+    ]
+}

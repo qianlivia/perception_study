@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00562",
+    "context_channel": 1,
+    "context_text": "<A> that was really / <B> yeah / <A> you know what is two plus two / <B> yeah / <A> just so that they will win / <B> exactly",
+    "context_start": 234.38,
+    "context_end": 252.73,
+    "feedback": [
+        {
+            "name": "fe_03_00562",
+            "start": 242.71,
+            "end": 243.05,
+            "token": "yeah"
+        },
+        {
+            "name": "fe_03_00562",
+            "start": 249.61,
+            "end": 250.26,
+            "token": "yeah"
+        },
+        {
+            "name": "fe_03_00562",
+            "start": 251.9,
+            "end": 252.73,
+            "token": "exactly"
+        }
+    ]
+}

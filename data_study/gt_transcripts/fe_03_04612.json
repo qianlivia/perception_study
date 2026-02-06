@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04612",
+    "context_channel": 1,
+    "context_text": "<A> ah there are some available but { i } / <B> [ okay ] / <A> just i i tried it a while ago and it just didn't work out very well and { it } / <B> [ okay ] / <A> was hard to get games for it and stuff so { i } / <B> [ okay ]",
+    "context_start": 337.0,
+    "context_end": 346.85,
+    "feedback": [
+        {
+            "name": "fe_03_04612",
+            "start": 339.01,
+            "end": 339.43,
+            "token": "okay"
+        },
+        {
+            "name": "fe_03_04612",
+            "start": 343.85,
+            "end": 344.21,
+            "token": "okay"
+        },
+        {
+            "name": "fe_03_04612",
+            "start": 346.42,
+            "end": 346.85,
+            "token": "okay"
+        }
+    ]
+}

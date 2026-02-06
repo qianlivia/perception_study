@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04020",
+    "context_channel": 1,
+    "context_text": "<A> i i i really i i don't know but i i know that my kids were always saying you know chuck said such and such but { you } / <B> [ mhm ] / <A> know that's not true and { and } / <B> [ mhm ] / <A> i they they understood you { know } / <B> [ yeah ]",
+    "context_start": 362.17,
+    "context_end": 373.35,
+    "feedback": [
+        {
+            "name": "fe_03_04020",
+            "start": 368.18,
+            "end": 368.52,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_04020",
+            "start": 369.55,
+            "end": 370.21,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_04020",
+            "start": 373.01,
+            "end": 373.35,
+            "token": "yeah"
+        }
+    ]
+}
