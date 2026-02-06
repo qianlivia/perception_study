@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_03457",
+    "context_channel": 0,
+    "context_text": "<B> and um i listened to it briefly and then i said okay great they called when i wasn't here / <A> yeah / <B> so tonight they called back and um i said okay let me see how this is gonna go / <A> yeah / <B> and what it's like / <A> yeah / <B> but no someone had told me about it / <A> mhm / <B> so i decided to try it / <A> yeah",
+    "context_start": 269.07,
+    "context_end": 293.2075,
+    "feedback": [
+        {
+            "name": "spontB_371_yeah",
+            "start": 276.88,
+            "end": 277.24825,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_140_yeah",
+            "start": 283.62,
+            "end": 284.43,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_073_yeah",
+            "start": 285.92,
+            "end": 287.07162500000004,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_319_mhm",
+            "start": 290.11,
+            "end": 290.70525000000004,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_251_yeah",
+            "start": 292.46,
+            "end": 293.2075,
+            "token": "yeah"
+        }
+    ]
+}

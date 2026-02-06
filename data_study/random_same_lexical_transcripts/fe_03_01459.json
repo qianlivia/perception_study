@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01459",
+    "context_channel": 1,
+    "context_text": "<A> know such and such my mother in law just got back from new york as a matter of fact last month in march she went up to new york / <B> oh / <A> and she said up there that the people's attitudes were a lot different than what they were down here / <B> okay / <A> because uh you know september eleventh { happened } / <B> [ sure ] / <A> up there / <B> yeah",
+    "context_start": 79.86,
+    "context_end": 100.513625,
+    "feedback": [
+        {
+            "name": "spontD_032_oh",
+            "start": 88.44,
+            "end": 89.126625,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_234_okay",
+            "start": 94.84,
+            "end": 95.467875,
+            "token": "okay"
+        },
+        {
+            "name": "sun_052_sure",
+            "start": 98.05,
+            "end": 98.90775,
+            "token": "sure"
+        },
+        {
+            "name": "spontA_292_yeah",
+            "start": 99.87,
+            "end": 100.513625,
+            "token": "yeah"
+        }
+    ]
+}

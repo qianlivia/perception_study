@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04477",
+    "context_channel": 0,
+    "context_text": "<B> yeah i went to um tenth grade at the public school um personally / <A> yeah / <B> i'm not a huge fan myself just { um } / <A> [ yeah ] / <B> having seen the difference i grew up in uh a suburb of new york city / <A> wow / <B> and um my school was uh it was very mixed demographically really across the board and um i just found that for me personally everything was extremely easy and i don't think that uh most schools at least in most districts have the facilities to properly challenge { all of } / <A> [ yeah ]",
+    "context_start": 24.16,
+    "context_end": 60.649874999999994,
+    "feedback": [
+        {
+            "name": "PR_056_yeah",
+            "start": 28.47,
+            "end": 29.227874999999997,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_327_yeah",
+            "start": 32.57,
+            "end": 33.42525,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_113_wow",
+            "start": 37.39,
+            "end": 38.418625,
+            "token": "wow"
+        },
+        {
+            "name": "PR_047_yeah",
+            "start": 59.94,
+            "end": 60.649874999999994,
+            "token": "yeah"
+        }
+    ]
+}

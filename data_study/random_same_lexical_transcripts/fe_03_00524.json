@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00524",
+    "context_channel": 0,
+    "context_text": "<B> they would not drink / <A> right / <B> of course aversion therapy doesn't really work on alcoholics so / <A> right / <B> you know um because they're used to being ill from the effects of drinking { so } / <A> [ exactly ]",
+    "context_start": 306.04,
+    "context_end": 318.02725,
+    "feedback": [
+        {
+            "name": "sun1_032_right",
+            "start": 307.16,
+            "end": 308.003375,
+            "token": "right"
+        },
+        {
+            "name": "PR_048_right",
+            "start": 311.27,
+            "end": 311.905125,
+            "token": "right"
+        },
+        {
+            "name": "sun_042_exactly",
+            "start": 317.07,
+            "end": 318.02725,
+            "token": "exactly"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03835",
+    "context_channel": 0,
+    "context_text": "<B> jeff foxworthy with his redneck stuff he doesn't / <A> yeah / <B> swear either and / <A> yeah / <B> everything is you know you might be a redneck / <A> yes / <B> and then he tells a story about his family / <A> uh-huh",
+    "context_start": 310.16,
+    "context_end": 322.26025,
+    "feedback": [
+        {
+            "name": "spontE_79_yeah",
+            "start": 314.08,
+            "end": 314.68225,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_015_yeah",
+            "start": 315.69,
+            "end": 316.459875,
+            "token": "yeah"
+        },
+        {
+            "name": "PR_023_yes",
+            "start": 319.02,
+            "end": 320.04024999999996,
+            "token": "yes"
+        },
+        {
+            "name": "spontD_391_uh-huh",
+            "start": 321.77,
+            "end": 322.26025,
+            "token": "uh-huh"
+        }
+    ]
+}

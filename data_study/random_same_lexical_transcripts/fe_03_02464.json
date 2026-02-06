@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02464",
+    "context_channel": 1,
+    "context_text": "<A> one i like because i'm like oh i could do that in my house or it gives me ideas { to be } / <B> [ exactly ] / <A> daring with colors / <B> right / <A> that i would paint my walls or / <B> right",
+    "context_start": 362.82,
+    "context_end": 372.52887499999997,
+    "feedback": [
+        {
+            "name": "sun_016_exactly",
+            "start": 366.78,
+            "end": 367.8135,
+            "token": "exactly"
+        },
+        {
+            "name": "PR_048_right",
+            "start": 369.23,
+            "end": 369.86512500000003,
+            "token": "right"
+        },
+        {
+            "name": "spontC_360_right",
+            "start": 371.95,
+            "end": 372.52887499999997,
+            "token": "right"
+        }
+    ]
+}

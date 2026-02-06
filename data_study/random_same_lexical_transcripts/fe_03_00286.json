@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00286",
+    "context_channel": 0,
+    "context_text": "<B> uh you know who are the maintenance crew that are working / <A> right / <B> on this airplane how many how many um how many drinks has the pilot had / <A> right / <B> you know these are really simple clues that you know maybe i shouldn't fly today { you } / <A> [ yeah ]",
+    "context_start": 384.24,
+    "context_end": 399.6165,
+    "feedback": [
+        {
+            "name": "sun_028_right",
+            "start": 387.12,
+            "end": 387.849375,
+            "token": "right"
+        },
+        {
+            "name": "PR_048_right",
+            "start": 393.16,
+            "end": 393.79512500000004,
+            "token": "right"
+        },
+        {
+            "name": "spontF_294_yeah",
+            "start": 398.88,
+            "end": 399.6165,
+            "token": "yeah"
+        }
+    ]
+}

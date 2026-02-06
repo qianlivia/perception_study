@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03089",
+    "context_channel": 1,
+    "context_text": "<A> well i ah with the cats i had a a allergic reaction to some kittens { that } / <B> [ oh ] / <A> were inside a girlfriend of mine's ah apartment / <B> mhm / <A> and a week after they'd been in there a week a week later my my eyes swelled up and my { nose } / <B> [ oh ] / <A> swelled up and then i ha i had a disease in my eye that developed then it's a genetic disease that i ha that i found out i had { right after } / <B> [ oh ]",
+    "context_start": 74.9,
+    "context_end": 99.621375,
+    "feedback": [
+        {
+            "name": "PS_040_oh",
+            "start": 79.86,
+            "end": 81.75675,
+            "token": "oh"
+        },
+        {
+            "name": "spontA_064_mhm",
+            "start": 83.04,
+            "end": 83.563125,
+            "token": "mhm"
+        },
+        {
+            "name": "spontD_114_oh",
+            "start": 90.2,
+            "end": 90.8265,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_110_oh",
+            "start": 98.72,
+            "end": 99.621375,
+            "token": "oh"
+        }
+    ]
+}

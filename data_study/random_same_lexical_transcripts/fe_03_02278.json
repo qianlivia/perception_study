@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02278",
+    "context_channel": 0,
+    "context_text": "<B> so i'm just sitting here i said watching the news bored i was out earlier / <A> uh-huh / <B> it was nice it was real hot then / <A> yeah / <B> and then it started raining you know i was like i'm not sitting out here in the rain because i'm not trying to get sick / <A> yeah / <B> i'm like i'm not trying to get sick you know / <A> yeah",
+    "context_start": 464.06,
+    "context_end": 487.688875,
+    "feedback": [
+        {
+            "name": "spontF_077_uh-huh",
+            "start": 470.35,
+            "end": 470.93525,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_390_yeah",
+            "start": 473.23,
+            "end": 474.264,
+            "token": "yeah"
+        },
+        {
+            "name": "PR_038_yeah",
+            "start": 480.53,
+            "end": 481.47387499999996,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_200_yeah",
+            "start": 487.02,
+            "end": 487.688875,
+            "token": "yeah"
+        }
+    ]
+}

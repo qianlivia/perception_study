@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02837",
+    "context_channel": 1,
+    "context_text": "<A> know what what the how the school is run / <B> right / <A> you know check check out with the other teachers and see { what } / <B> [ mhm ] / <A> they feel about it / <B> right",
+    "context_start": 408.93,
+    "context_end": 418.939375,
+    "feedback": [
+        {
+            "name": "sun_013_right",
+            "start": 412.7,
+            "end": 413.57349999999997,
+            "token": "right"
+        },
+        {
+            "name": "spontB_324_mhm",
+            "start": 416.34,
+            "end": 417.117375,
+            "token": "mhm"
+        },
+        {
+            "name": "sun_028_right",
+            "start": 418.21,
+            "end": 418.939375,
+            "token": "right"
+        }
+    ]
+}

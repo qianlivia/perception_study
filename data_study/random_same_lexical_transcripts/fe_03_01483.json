@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_01483",
+    "context_channel": 0,
+    "context_text": "<B> something that happened spontaneously / <A> right / <B> and um i do believe that the um the president um had forewarned uh they had um messages that { were } / <A> [ right ] / <B> left and they was forewarned about the destruction / <A> right",
+    "context_start": 238.84,
+    "context_end": 253.47,
+    "feedback": [
+        {
+            "name": "sun1_030_right",
+            "start": 240.34,
+            "end": 241.133625,
+            "token": "right"
+        },
+        {
+            "name": "sun1_032_right",
+            "start": 249.66,
+            "end": 250.503375,
+            "token": "right"
+        },
+        {
+            "name": "PR_043_right",
+            "start": 252.81,
+            "end": 253.47,
+            "token": "right"
+        }
+    ]
+}

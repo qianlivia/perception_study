@@ -1,0 +1,45 @@
+{
+    "name": "fe_03_03611",
+    "context_channel": 0,
+    "context_text": "<B> to live / <A> right / <B> so i know like here well i live in california and i live in the middle of california / <A> mhm / <B> so it's not the most expensive / <A> mhm / <B> but it's not the cheapest / <A> mhm / <B> and for but i my husband and i own our home / <A> mhm / <B> but for a two bedroom one bath apartment which my son and his wife had / <A> mhm",
+    "context_start": 316.84,
+    "context_end": 340.695875,
+    "feedback": [
+        {
+            "name": "sun1_031_right",
+            "start": 317.91,
+            "end": 318.70425,
+            "token": "right"
+        },
+        {
+            "name": "spontF_039_mhm",
+            "start": 324.21,
+            "end": 324.81025,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_184_mhm",
+            "start": 326.51,
+            "end": 327.0865,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_380_mhm",
+            "start": 328.34,
+            "end": 328.874375,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_496_mhm",
+            "start": 333.63,
+            "end": 334.222125,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_298_mhm",
+            "start": 340.16,
+            "end": 340.695875,
+            "token": "mhm"
+        }
+    ]
+}

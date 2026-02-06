@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04853",
+    "context_channel": 0,
+    "context_text": "<B> so when i moved up to school i had to drive from miami to chicago / <A> uh-huh / <B> um because um none of the planes were flying like i { came up here } / <A> [ right ] / <B> like september thirteenth / <A> uh-huh / <B> and ah i just remember like watching the news and thinking oh god going to chicago is crazy and like my mom was concerned about me taking the l and like they're they thought that something would happen to the sears tower and like { all of } / <A> [ right ]",
+    "context_start": 570.79,
+    "context_end": 593.973625,
+    "feedback": [
+        {
+            "name": "spontB_383_uh-huh",
+            "start": 575.64,
+            "end": 576.242375,
+            "token": "uh-huh"
+        },
+        {
+            "name": "sun_007_right",
+            "start": 579.47,
+            "end": 580.3595,
+            "token": "right"
+        },
+        {
+            "name": "spontA_041_uh-huh",
+            "start": 581.44,
+            "end": 582.0037500000001,
+            "token": "uh-huh"
+        },
+        {
+            "name": "sun1_030_right",
+            "start": 593.18,
+            "end": 593.973625,
+            "token": "right"
+        }
+    ]
+}

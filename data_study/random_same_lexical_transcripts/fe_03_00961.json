@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00961",
+    "context_channel": 0,
+    "context_text": "<B> i just don't i'm not comfortable with i guess i don't have enough detail on the security / <A> right / <B> to really be / <A> mhm / <B> confident enough to fly { or } / <A> [ mhm ] / <B> feel safe enough to fly just yet / <A> mhm",
+    "context_start": 172.87,
+    "context_end": 189.36025,
+    "feedback": [
+        {
+            "name": "sun1_032_right",
+            "start": 181.02,
+            "end": 181.86337500000002,
+            "token": "right"
+        },
+        {
+            "name": "spontC_380_mhm",
+            "start": 183.94,
+            "end": 184.474375,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_322_mhm",
+            "start": 186.17,
+            "end": 186.742875,
+            "token": "mhm"
+        },
+        {
+            "name": "spontD_204_mhm",
+            "start": 188.71,
+            "end": 189.36025,
+            "token": "mhm"
+        }
+    ]
+}

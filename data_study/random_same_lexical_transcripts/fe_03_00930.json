@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00930",
+    "context_channel": 1,
+    "context_text": "<A> then they'd be weakened / <B> exactly / <A> they wouldn't have anybody then they cough it's almost like world war two / <B> mhm / <A> we got involved when we weren't going to / <B> mhm",
+    "context_start": 342.32,
+    "context_end": 351.15825,
+    "feedback": [
+        {
+            "name": "sun_026_exactly",
+            "start": 343.55,
+            "end": 344.5795,
+            "token": "exactly"
+        },
+        {
+            "name": "spontB_307_mhm",
+            "start": 347.78,
+            "end": 348.38737499999996,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_330_mhm",
+            "start": 350.48,
+            "end": 351.15825,
+            "token": "mhm"
+        }
+    ]
+}

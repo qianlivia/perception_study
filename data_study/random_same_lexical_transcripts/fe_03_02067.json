@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02067",
+    "context_channel": 1,
+    "context_text": "<A> yeah well cough i like the spring and the autumn best uh the winter's too cold for me and / <B> yeah / <A> the summer gets too hot and i don't wanna be out in the sun and the humidity / <B> yeah / <A> so i i but i do enjoy the spring because it brings a feeling of renewal / <B> yeah / <A> and uh i put i do both inside and out / <B> mhm",
+    "context_start": 38.74,
+    "context_end": 60.053375,
+    "feedback": [
+        {
+            "name": "spontE_258_yeah",
+            "start": 44.43,
+            "end": 45.058125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_107_yeah",
+            "start": 50.02,
+            "end": 50.660625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_338_yeah",
+            "start": 55.42,
+            "end": 56.075375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_351_mhm",
+            "start": 59.61,
+            "end": 60.053375,
+            "token": "mhm"
+        }
+    ]
+}

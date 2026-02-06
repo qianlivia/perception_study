@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01068",
+    "context_channel": 1,
+    "context_text": "<A> and they were making a joke about or whoopi made a joke about um about how we have um th three people making um running the country / <B> uh-huh / <A> um president bush um secretary dick cheney and colin powell / <B> uh-huh / <A> and then but jimmy kimmel 's cohost made the same exact joke his night but there was no way either one of them could see each other's show / <B> right / <A> i mean / <B> yeah",
+    "context_start": 259.12,
+    "context_end": 296.58124999999995,
+    "feedback": [
+        {
+            "name": "spontA_196_uh-huh",
+            "start": 275.59,
+            "end": 276.191125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_566_uh-huh",
+            "start": 282.77,
+            "end": 283.384375,
+            "token": "uh-huh"
+        },
+        {
+            "name": "sun1_031_right",
+            "start": 293.98,
+            "end": 294.77425,
+            "token": "right"
+        },
+        {
+            "name": "spontB_194_yeah",
+            "start": 295.84,
+            "end": 296.58124999999995,
+            "token": "yeah"
+        }
+    ]
+}
