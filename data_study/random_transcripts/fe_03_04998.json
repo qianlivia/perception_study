@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_04998",
+    "context_channel": 0,
+    "context_text": "<B> um f um health and fitness has always been important to me because since i was a young man there's always been something that was emphasized in school / <A> yeah / <B> and um and outside of school as well / <A> mhm / <B> um with sports and things like that i came from because i'm from new jersey originally / <A> yes / <B> i'm from uh south jersey right near philly and uh we come from a big um sports background as far as uh football and basketball has definitely been something { that has } / <A> [ no ] / <B> got a lot of kids off the street and some got to play for big / <A> no",
+    "context_start": 19.96,
+    "context_end": 56.655875,
+    "feedback": [
+        {
+            "name": "spontE_245_yeah",
+            "start": 31.19,
+            "end": 32.010875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_611_mhm",
+            "start": 34.53,
+            "end": 35.083125,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_026_yes",
+            "start": 39.94,
+            "end": 41.029875,
+            "token": "yes"
+        },
+        {
+            "name": "NR_112_no",
+            "start": 50.93,
+            "end": 52.078125,
+            "token": "no"
+        },
+        {
+            "name": "NR_072_no",
+            "start": 55.78,
+            "end": 56.655875,
+            "token": "no"
+        }
+    ]
+}

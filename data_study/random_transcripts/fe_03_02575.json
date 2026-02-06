@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02575",
+    "context_channel": 0,
+    "context_text": "<B> the ah um prior governor was very very unpopular { he } / <A> [ yeah ] / <B> was just he just ah he was very heavy handed ah liked to play a kind of revenge old style gotcha politics / <A> aww / <B> and ah that hurt ah townsend ah you know she got tarred with all the negative aspects of of the incumbent / <A> nuh / <B> but couldn't take any credit for any of the positive aspects so { that ah } / <A> [ wow ]",
+    "context_start": 377.09,
+    "context_end": 413.10400000000004,
+    "feedback": [
+        {
+            "name": "PR_040_yeah",
+            "start": 383.08,
+            "end": 383.6885,
+            "token": "yeah"
+        },
+        {
+            "name": "Sy_046_aww",
+            "start": 395.63,
+            "end": 397.237125,
+            "token": "aww"
+        },
+        {
+            "name": "NR_010_nuh",
+            "start": 406.26,
+            "end": 407.150375,
+            "token": "nuh"
+        },
+        {
+            "name": "PS_141_wow",
+            "start": 411.35,
+            "end": 413.10400000000004,
+            "token": "wow"
+        }
+    ]
+}

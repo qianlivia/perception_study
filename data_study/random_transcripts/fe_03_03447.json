@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03447",
+    "context_channel": 1,
+    "context_text": "<A> and w w w dot shoppers view dot com / <B> mhm / <A> and then most of em i've found by searching for mystery shopper / <B> no / <A> and then you go into the website and if it looks like one of those that's advertising they try to get you to buy something / <B> hm / <A> then it's not the right one / <B> wow",
+    "context_start": 268.09,
+    "context_end": 287.30912500000005,
+    "feedback": [
+        {
+            "name": "PR_045_mhm",
+            "start": 273.58,
+            "end": 274.507125,
+            "token": "mhm"
+        },
+        {
+            "name": "NR_036_no",
+            "start": 278.79,
+            "end": 279.479375,
+            "token": "no"
+        },
+        {
+            "name": "sun2_002_hm",
+            "start": 285.03,
+            "end": 286.0675,
+            "token": "hm"
+        },
+        {
+            "name": "spontA_261_wow",
+            "start": 286.66,
+            "end": 287.30912500000005,
+            "token": "wow"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02588",
+    "context_channel": 1,
+    "context_text": "<A> move there i'm like why / <B> yes / <A> i was there in august one time / <B> yeah / <A> and we were camping down along the uh rural islands there off the gulf / <B> yeah",
+    "context_start": 576.55,
+    "context_end": 590.005375,
+    "feedback": [
+        {
+            "name": "PR_050_yes",
+            "start": 578.29,
+            "end": 579.0927499999999,
+            "token": "yes"
+        },
+        {
+            "name": "spontE_051_yeah",
+            "start": 581.34,
+            "end": 582.1115,
+            "token": "yeah"
+        },
+        {
+            "name": "PR_054_yeah",
+            "start": 589.03,
+            "end": 590.005375,
+            "token": "yeah"
+        }
+    ]
+}

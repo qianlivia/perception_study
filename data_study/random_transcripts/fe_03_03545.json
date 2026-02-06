@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03545",
+    "context_channel": 0,
+    "context_text": "<B> and they they put people out of jobs but yet they don't want to pay people a living wage / <A> ugh / <B> and in san antonio / <A> ah / <B> where i live near san antonio / <A> uh-huh / <B> they have a uh living wage law / <A> wow",
+    "context_start": 205.01,
+    "context_end": 218.612,
+    "feedback": [
+        {
+            "name": "NegS_047_ugh",
+            "start": 209.62,
+            "end": 210.66025,
+            "token": "ugh"
+        },
+        {
+            "name": "spontC_214_ah",
+            "start": 212.74,
+            "end": 213.55312500000002,
+            "token": "ah"
+        },
+        {
+            "name": "spontE_038_uh-huh",
+            "start": 214.61,
+            "end": 215.02887500000003,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PS_132_wow",
+            "start": 217.47,
+            "end": 218.612,
+            "token": "wow"
+        }
+    ]
+}

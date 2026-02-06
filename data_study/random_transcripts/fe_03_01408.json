@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01408",
+    "context_channel": 0,
+    "context_text": "<B> well now now that you say that i live in norfolk virginia / <A> no / <B> where it's kind of like if you look at the center of um well now with the war that's going on you know / <A> oh / <B> um well when the nine eleven happened um i'm in a building where the coastguards are at and the world trade center we have it's like two blocks away the / <A> uh-huh / <B> federal building was uh you know a couple blocks away so i you know we were like in the middle of everything and you know they sent us home and you know a lot of people were nervous and were even thinking that you know this area might get you know hit next because of everything that surrounded we're a naval city basically { all the } / <A> [ huh ]",
+    "context_start": 205.99,
+    "context_end": 257.340125,
+    "feedback": [
+        {
+            "name": "sun2_005_no",
+            "start": 210.76,
+            "end": 211.794625,
+            "token": "no"
+        },
+        {
+            "name": "spontF_125_oh",
+            "start": 219.63,
+            "end": 220.477625,
+            "token": "oh"
+        },
+        {
+            "name": "spontD_079_uh-huh",
+            "start": 233.78,
+            "end": 234.326375,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_048_huh",
+            "start": 256.67,
+            "end": 257.340125,
+            "token": "huh"
+        }
+    ]
+}

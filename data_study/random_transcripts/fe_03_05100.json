@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_05100",
+    "context_channel": 1,
+    "context_text": "<A> yeah huh but uh it's not as glamorous as it { sounds } / <B> [ m-yeah ] / <A> i'm trying to find a different job at the moment um but uh uh yeah i mean it's what i what i want to be in is the um uh film business that's why i came here / <B> yeah / <A> um but uh i i don't know i'm getting a little tired of it too everybody / <B> yeah / <A> out here's very pretentious / <B> yeah / <A> and this whole place has just sucked the life out of ya so { i'd like } / <B> [ yeah ]",
+    "context_start": 213.77,
+    "context_end": 241.10612500000002,
+    "feedback": [
+        {
+            "name": "sun_029_m-yeah",
+            "start": 218.06,
+            "end": 219.0415,
+            "token": "m-yeah"
+        },
+        {
+            "name": "spontE_196_yeah",
+            "start": 229.66,
+            "end": 230.55949999999999,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_306_yeah",
+            "start": 234.01,
+            "end": 234.5615,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_092_yeah",
+            "start": 236.41,
+            "end": 236.878875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_143_yeah",
+            "start": 240.43,
+            "end": 241.10612500000002,
+            "token": "yeah"
+        }
+    ]
+}

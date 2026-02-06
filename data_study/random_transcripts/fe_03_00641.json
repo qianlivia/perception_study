@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_00641",
+    "context_channel": 0,
+    "context_text": "<B> and and uh well i had seen i turned on the news after the first tower had been hit but before / <A> wow / <B> the second one was / <A> yeah / <B> and i remember sitting there watching that second one get hit and just going what in the world you know { because at } / <A> [ yeah ] / <B> first i thought no they were talking about terrorists and stuff and i thought no that's just an accident you { know } / <A> [ yeah ] / <B> some plane just and then to hear on the news oh they got another to the pentagon and then { they had } / <A> [ mmm ]",
+    "context_start": 469.64,
+    "context_end": 489.34250000000003,
+    "feedback": [
+        {
+            "name": "PS_093_wow",
+            "start": 473.99,
+            "end": 474.92225,
+            "token": "wow"
+        },
+        {
+            "name": "spontF_086_yeah",
+            "start": 475.39,
+            "end": 476.10699999999997,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_239_yeah",
+            "start": 479.69,
+            "end": 480.236875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_266_yeah",
+            "start": 484.21,
+            "end": 484.76937499999997,
+            "token": "yeah"
+        },
+        {
+            "name": "sun2_034_mmm",
+            "start": 488.56,
+            "end": 489.34250000000003,
+            "token": "mmm"
+        }
+    ]
+}

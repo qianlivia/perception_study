@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04510",
+    "context_channel": 1,
+    "context_text": "<A> no well i have three grandchildren and all of them are in private schools / <B> mmm / <A> because of what you're talking about so i've seen what can happen in private school you know if the the appropriate resources the support of the parents right and { most of } / <B> [ yes ] / <A> all adequate funds / <B> uh-huh / <A> yeah so / <B> yes",
+    "context_start": 134.98,
+    "context_end": 160.187125,
+    "feedback": [
+        {
+            "name": "spontF_501_mmm",
+            "start": 140.79,
+            "end": 141.5185,
+            "token": "mmm"
+        },
+        {
+            "name": "PR_008_yes",
+            "start": 153.3,
+            "end": 154.15787500000002,
+            "token": "yes"
+        },
+        {
+            "name": "spontD_372_uh-huh",
+            "start": 156.23,
+            "end": 156.69787499999998,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PR_014_yes",
+            "start": 159.22,
+            "end": 160.187125,
+            "token": "yes"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00423",
+    "context_channel": 1,
+    "context_text": "<A> who is able to stay home i know that you know grandparents { who } / <B> [ wow ] / <A> are with children / <B> mhm / <A> often as caretakers / <B> uh-huh",
+    "context_start": 247.85,
+    "context_end": 257.38225,
+    "feedback": [
+        {
+            "name": "PS_060_wow",
+            "start": 252.8,
+            "end": 254.066875,
+            "token": "wow"
+        },
+        {
+            "name": "spontB_377_mhm",
+            "start": 254.57,
+            "end": 255.21949999999998,
+            "token": "mhm"
+        },
+        {
+            "name": "spontB_280_uh-huh",
+            "start": 256.88,
+            "end": 257.38225,
+            "token": "uh-huh"
+        }
+    ]
+}

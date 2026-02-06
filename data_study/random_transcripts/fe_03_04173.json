@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04173",
+    "context_channel": 0,
+    "context_text": "<B> well no i think i think i would start with i think uh i think if i were going to start a business uh a a movie production company would { be } / <A> [ yeah ] / <B> something i'd do maybe after i ran a theatre company cause that's smaller { you know } / <A> [ yeah ] / <B> that's more manageable i mean like here in new york they have small theatre companies that are like / <A> yeah / <B> ninety nine seats and you know in a a actually it's not i just came from an event tonight that had a fundraiser for a theatre company that's sort of / <A> ugh",
+    "context_start": 195.88,
+    "context_end": 220.79625000000001,
+    "feedback": [
+        {
+            "name": "spontB_150_yeah",
+            "start": 202.26,
+            "end": 203.110875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_395_yeah",
+            "start": 206.35,
+            "end": 206.746125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_026_yeah",
+            "start": 211.3,
+            "end": 211.949,
+            "token": "yeah"
+        },
+        {
+            "name": "NegS_017_ugh",
+            "start": 219.83,
+            "end": 220.79625000000001,
+            "token": "ugh"
+        }
+    ]
+}

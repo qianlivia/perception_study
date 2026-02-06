@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04037",
+    "context_channel": 1,
+    "context_text": "<A> that like have their own type of wealth and you { know } / <B> [ yeah ] / <A> freedom i guess so i guess it's / <B> mhm / <A> not it's good and bad they probably asked { the } / <B> [ no ]",
+    "context_start": 174.15,
+    "context_end": 182.69650000000001,
+    "feedback": [
+        {
+            "name": "spontF_137_yeah",
+            "start": 177.33,
+            "end": 177.81400000000002,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_375_mhm",
+            "start": 179.59,
+            "end": 180.162125,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_090_no",
+            "start": 181.99,
+            "end": 182.69650000000001,
+            "token": "no"
+        }
+    ]
+}

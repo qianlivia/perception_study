@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02659",
+    "context_channel": 1,
+    "context_text": "<A> [ yep ] yep it makes a nice long weekend actually we're going down to annapolis maryland for my nephew is in the naval academy so we're going down there they have some goings ons / <B> yeah / <A> so this should be pretty interesting / <B> uh-huh / <A> you know it's it's c pretty neat pretty / <B> yeah / <A> interesting spot / <B> hm",
+    "context_start": 292.9,
+    "context_end": 313.533625,
+    "feedback": [
+        {
+            "name": "spontB_144_yeah",
+            "start": 304.95,
+            "end": 305.541,
+            "token": "yeah"
+        },
+        {
+            "name": "NS_037_uh-huh",
+            "start": 307.28,
+            "end": 308.369625,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontE_331_yeah",
+            "start": 310.96,
+            "end": 311.66075,
+            "token": "yeah"
+        },
+        {
+            "name": "sun2_039_hm",
+            "start": 312.94,
+            "end": 313.533625,
+            "token": "hm"
+        }
+    ]
+}

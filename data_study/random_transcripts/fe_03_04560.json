@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04560",
+    "context_channel": 1,
+    "context_text": "<A> i mean i are you um cough can i ask your race are you a white man i i'm assuming you're a white male / <B> huh / <A> okay i i'm i'm asian / <B> mhm / <A> and i am vehemently opposed to affirmative action primarily in academia but i guess we're talking about business um i'm i'm in working for about uh four years now / <B> yeah / <A> and um and in in in my workplace i don't there there is no um explicit affirmative action program per se / <B> mmm",
+    "context_start": 228.67,
+    "context_end": 276.0165,
+    "feedback": [
+        {
+            "name": "spontF_645_huh",
+            "start": 239.15,
+            "end": 239.74937500000001,
+            "token": "huh"
+        },
+        {
+            "name": "spontE_154_mhm",
+            "start": 243.28,
+            "end": 243.88,
+            "token": "mhm"
+        },
+        {
+            "name": "spontD_134_yeah",
+            "start": 261.24,
+            "end": 262.086875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_264_mmm",
+            "start": 275.49,
+            "end": 276.0165,
+            "token": "mmm"
+        }
+    ]
+}

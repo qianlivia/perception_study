@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_05675",
+    "context_channel": 1,
+    "context_text": "<A> because this is getting us spread thin in areas that we have no knowledge obviously / <B> wow / <A> it's obvious that the president is giving speeches based on information that may or may not be correct / <B> pardon / <A> and it's whatever is politically expedient for him to say rather than the truth / <B> uh-huh",
+    "context_start": 291.58,
+    "context_end": 311.831375,
+    "feedback": [
+        {
+            "name": "PS_131_wow",
+            "start": 297.55,
+            "end": 298.527625,
+            "token": "wow"
+        },
+        {
+            "name": "Nu_033_pardon",
+            "start": 306.32,
+            "end": 307.02325,
+            "token": "pardon"
+        },
+        {
+            "name": "spontA_413_uh-huh",
+            "start": 311.33,
+            "end": 311.831375,
+            "token": "uh-huh"
+        }
+    ]
+}

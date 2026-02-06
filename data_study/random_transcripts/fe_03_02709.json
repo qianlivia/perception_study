@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_02709",
+    "context_channel": 0,
+    "context_text": "<B> some people go the hardware and buy compressors and i just kinda giggled about the whole thing because coming from detroit and living in chicago which is even more so / <A> hm / <B> than detroit with snow / <A> aww / <B> uh and it but it what happens here is that the roads can become very slick and the topography here is on the hilly side / <A> aww / <B> so i mean schools do close down with half an inch of snow which struck me as really strange { but that's still } / <A> [ mhm ] / <B> the way it is here but i have to admit that if i went back to chicago or detroit now and had to drive a car at least the first few times { i would be } / <A> [ yeah ]",
+    "context_start": 145.45,
+    "context_end": 180.36075,
+    "feedback": [
+        {
+            "name": "sun2_027_hm",
+            "start": 154.49,
+            "end": 155.40300000000002,
+            "token": "hm"
+        },
+        {
+            "name": "spontC_086_aww",
+            "start": 156.65,
+            "end": 157.316875,
+            "token": "aww"
+        },
+        {
+            "name": "spontB_319_aww",
+            "start": 165.29,
+            "end": 166.427875,
+            "token": "aww"
+        },
+        {
+            "name": "spontA_407_mhm",
+            "start": 170.2,
+            "end": 170.72062499999998,
+            "token": "mhm"
+        },
+        {
+            "name": "spontE_286_yeah",
+            "start": 179.57,
+            "end": 180.36075,
+            "token": "yeah"
+        }
+    ]
+}

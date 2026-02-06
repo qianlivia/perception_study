@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02067",
+    "context_channel": 1,
+    "context_text": "<A> yeah well cough i like the spring and the autumn best uh the winter's too cold for me and / <B> uh-huh / <A> the summer gets too hot and i don't wanna be out in the sun and the humidity / <B> gosh / <A> so i i but i do enjoy the spring because it brings a feeling of renewal / <B> wow / <A> and uh i put i do both inside and out / <B> hm",
+    "context_start": 38.74,
+    "context_end": 60.610625,
+    "feedback": [
+        {
+            "name": "spontC_132_uh-huh",
+            "start": 44.43,
+            "end": 45.029125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "NegS_006_gosh",
+            "start": 50.02,
+            "end": 51.1505,
+            "token": "gosh"
+        },
+        {
+            "name": "PS_048_wow",
+            "start": 55.42,
+            "end": 56.9525,
+            "token": "wow"
+        },
+        {
+            "name": "spontC_181_hm",
+            "start": 59.61,
+            "end": 60.610625,
+            "token": "hm"
+        }
+    ]
+}

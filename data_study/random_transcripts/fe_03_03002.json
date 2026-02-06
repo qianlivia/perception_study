@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03002",
+    "context_channel": 1,
+    "context_text": "<A> bought this dog for six hundred dollars / <B> yup / <A> and about oh f ah four years ago we heard from pom rescue finally / <B> oh / <A> and they had a dog for us to look at / <B> yes / <A> so we drove over and looked at this dog / <B> huh",
+    "context_start": 174.9,
+    "context_end": 188.74562500000002,
+    "feedback": [
+        {
+            "name": "sun_043_yup",
+            "start": 176.92,
+            "end": 177.643,
+            "token": "yup"
+        },
+        {
+            "name": "PS_104_oh",
+            "start": 183.26,
+            "end": 183.99587499999998,
+            "token": "oh"
+        },
+        {
+            "name": "PR_024_yes",
+            "start": 185.48,
+            "end": 186.4775,
+            "token": "yes"
+        },
+        {
+            "name": "Nu_012_huh",
+            "start": 187.99,
+            "end": 188.74562500000002,
+            "token": "huh"
+        }
+    ]
+}

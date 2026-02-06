@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_02142",
+    "context_channel": 1,
+    "context_text": "<A> cause when i do cook and i do buy groceries i'll be eating the same thing for like five days in a row because you { know } / <B> [ wow ] / <A> i then i have to go out and get like every little spice and it's just / <B> oh / <A> so that's why i and sometimes you know the city like it's cheaper just the same price to go get takeout / <B> huh / <A> um than to cook something and it's faster / <B> oh / <A> granted it's just it's n cooking is always you know better / <B> right",
+    "context_start": 134.49,
+    "context_end": 158.07,
+    "feedback": [
+        {
+            "name": "PS_165_wow",
+            "start": 140.17,
+            "end": 141.40612499999997,
+            "token": "wow"
+        },
+        {
+            "name": "NS_010_oh",
+            "start": 144.61,
+            "end": 145.87187500000002,
+            "token": "oh"
+        },
+        {
+            "name": "PS_058_huh",
+            "start": 151.76,
+            "end": 153.02112499999998,
+            "token": "huh"
+        },
+        {
+            "name": "Sy_022_oh",
+            "start": 153.84,
+            "end": 155.662375,
+            "token": "oh"
+        },
+        {
+            "name": "PR_043_right",
+            "start": 157.41,
+            "end": 158.07,
+            "token": "right"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_03287",
+    "context_channel": 1,
+    "context_text": "<A> he supported my decision that i did not want my kids raised in day care { i did } / <B> [ yeah ] / <A> not want to pay someone to raise my children / <B> wow / <A> and so and you know a lot of people would have told me i was crazy um we needed two incomes you know i mean / <B> hm / <A> i mean once again back to a superficial society where money's everything / <B> yeah / <A> but you know he has been very supportive and i went to school to be a physical therapist and so you know i left something really major behind / <B> okay",
+    "context_start": 356.88,
+    "context_end": 386.95725,
+    "feedback": [
+        {
+            "name": "spontF_362_yeah",
+            "start": 361.55,
+            "end": 362.089375,
+            "token": "yeah"
+        },
+        {
+            "name": "NegS_008_wow",
+            "start": 365.4,
+            "end": 366.35549999999995,
+            "token": "wow"
+        },
+        {
+            "name": "NS_003_hm",
+            "start": 373.05,
+            "end": 373.71837500000004,
+            "token": "hm"
+        },
+        {
+            "name": "spontB_037_yeah",
+            "start": 377.91,
+            "end": 378.61650000000003,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_152_okay",
+            "start": 386.33,
+            "end": 386.95725,
+            "token": "okay"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00642",
+    "context_channel": 0,
+    "context_text": "<B> walk like when i go downtown { i'll } / <A> [ mhm ] / <B> i'll go way around em i know that's i know that's horrible / <A> yeah / <B> and i and i know it's not everybody's fault { it's not } / <A> [ uh-huh ] / <B> their fault but part of me just can't help it did you lose anybody then / <A> yeah",
+    "context_start": 181.84,
+    "context_end": 199.291625,
+    "feedback": [
+        {
+            "name": "spontA_064_mhm",
+            "start": 184.36,
+            "end": 184.883125,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_380_yeah",
+            "start": 189.69,
+            "end": 190.30349999999999,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_191_uh-huh",
+            "start": 193.09,
+            "end": 193.568125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_280_yeah",
+            "start": 198.75,
+            "end": 199.291625,
+            "token": "yeah"
+        }
+    ]
+}

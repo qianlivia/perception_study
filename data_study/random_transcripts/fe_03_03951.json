@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_03951",
+    "context_channel": 1,
+    "context_text": "<A> you know and you know we come from a i come from a very large family and like so like you said like people with handicaps you know my dad only has one arm { from a } / <B> [ mhm ] / <A> farming accident my husband / <B> yeah / <A> has lou gehrig 's disease so he's in a wheelchair / <B> oh / <A> you know so we've dealt with a lot of that in our family the kids are you know i don't want them making fun of people like that / <B> okay / <A> because we we live it / <B> uh-huh",
+    "context_start": 189.96,
+    "context_end": 215.7965,
+    "feedback": [
+        {
+            "name": "spontA_379_mhm",
+            "start": 199.74,
+            "end": 200.257875,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_641_yeah",
+            "start": 201.6,
+            "end": 202.157375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_102_oh",
+            "start": 204.51,
+            "end": 205.1135,
+            "token": "oh"
+        },
+        {
+            "name": "spontE_275_okay",
+            "start": 213.28,
+            "end": 213.84075,
+            "token": "okay"
+        },
+        {
+            "name": "spontA_315_uh-huh",
+            "start": 215.28,
+            "end": 215.7965,
+            "token": "uh-huh"
+        }
+    ]
+}

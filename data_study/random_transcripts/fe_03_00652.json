@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00652",
+    "context_channel": 1,
+    "context_text": "<A> i was at my i have twin boys and they were born { like } / <B> [ hm ] / <A> almost exactly a month before august twelfth on august twelfth / <B> mmm / <A> and i remember my my grandmother was in helping me take care of them came { and woke } / <B> [ right ] / <A> me up and we just sat there in shock all day and you know looking at your new life is going wow i brought them in to this felt so guilty you know that you { know } / <B> [ wow ]",
+    "context_start": 398.73,
+    "context_end": 423.3145,
+    "feedback": [
+        {
+            "name": "spontA_244_hm",
+            "start": 401.69,
+            "end": 402.655625,
+            "token": "hm"
+        },
+        {
+            "name": "spontC_137_mmm",
+            "start": 406.35,
+            "end": 407.41125,
+            "token": "mmm"
+        },
+        {
+            "name": "PR_048_right",
+            "start": 411.43,
+            "end": 412.065125,
+            "token": "right"
+        },
+        {
+            "name": "PS_172_wow",
+            "start": 421.57,
+            "end": 423.3145,
+            "token": "wow"
+        }
+    ]
+}

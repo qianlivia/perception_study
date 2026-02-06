@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_01911",
+    "context_channel": 1,
+    "context_text": "<A> um my my uh cough excuse me my mother recently got married a few years ago / <B> wow / <A> and uh my grandparents are getting older / <B> yeah / <A> and uh i guess they want to be together so / <B> mmm",
+    "context_start": 169.24,
+    "context_end": 184.291625,
+    "feedback": [
+        {
+            "name": "NegS_056_wow",
+            "start": 175.84,
+            "end": 176.94325,
+            "token": "wow"
+        },
+        {
+            "name": "spontB_157_yeah",
+            "start": 179.31,
+            "end": 179.981875,
+            "token": "yeah"
+        },
+        {
+            "name": "sun2_046_mmm",
+            "start": 183.44,
+            "end": 184.291625,
+            "token": "mmm"
+        }
+    ]
+}

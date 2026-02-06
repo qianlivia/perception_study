@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03110",
+    "context_channel": 1,
+    "context_text": "<A> [ yes yes oh how awful well i ] i have lived we we currently live up in cambridge massachusetts and we live in a duplex on the first floor and there are quite a few animals around in the neighborhood dogs and so forth then i remember when my daughter was growing up she wanted a a dog very badly and i told her i didn't think that it was kind to the animals to have to be in the house all day long when we weren't there they were / <B> mmm / <A> all the animal would have to be all alone and / <B> huh / <A> then have to be walked on a leash the only time it was going to be / <B> mhm / <A> outside / <B> aww",
+    "context_start": 239.94,
+    "context_end": 278.0475,
+    "feedback": [
+        {
+            "name": "Sy_029_mmm",
+            "start": 269.26,
+            "end": 270.13124999999997,
+            "token": "mmm"
+        },
+        {
+            "name": "NS_027_huh",
+            "start": 271.79,
+            "end": 272.287125,
+            "token": "huh"
+        },
+        {
+            "name": "spontB_121_mhm",
+            "start": 275.57,
+            "end": 276.1035,
+            "token": "mhm"
+        },
+        {
+            "name": "Sy_032_aww",
+            "start": 276.99,
+            "end": 278.0475,
+            "token": "aww"
+        }
+    ]
+}

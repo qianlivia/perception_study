@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_02368",
+    "context_channel": 1,
+    "context_text": "<A> [ right now when he moves onto them ] and then she's still not gonna be healthy because either she's moving away or overeating and then that cause stress / <B> what / <A> you know and that causes a all other kind of problems too so / <B> pardon / <A> that's probably what i think um not exercising follows in that too / <B> wow / <A> because if you're not getting the proper exercise { and you } / <B> [ okay ] / <A> are overweight you still can come up with some of those other kind of health / <B> nah",
+    "context_start": 465.96,
+    "context_end": 493.03762500000005,
+    "feedback": [
+        {
+            "name": "NegS_048_what",
+            "start": 474.14,
+            "end": 475.342875,
+            "token": "what"
+        },
+        {
+            "name": "Nu_053_pardon",
+            "start": 477.82,
+            "end": 478.511875,
+            "token": "pardon"
+        },
+        {
+            "name": "spontF_097_wow",
+            "start": 483.86,
+            "end": 484.304125,
+            "token": "wow"
+        },
+        {
+            "name": "spontE_152_okay",
+            "start": 487.17,
+            "end": 487.79725,
+            "token": "okay"
+        },
+        {
+            "name": "sun2_003_nah",
+            "start": 492.41,
+            "end": 493.03762500000005,
+            "token": "nah"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04348",
+    "context_channel": 1,
+    "context_text": "<A> and i have done it before i come from up north / <B> aww / <A> so i have done it before / <B> uh-huh / <A> and um i when i moved here the schools weren't as good { and it } / <B> [ ugh ]",
+    "context_start": 369.25,
+    "context_end": 382.87987499999997,
+    "feedback": [
+        {
+            "name": "spontB_308_aww",
+            "start": 373.12,
+            "end": 374.184125,
+            "token": "aww"
+        },
+        {
+            "name": "spontA_103_uh-huh",
+            "start": 375.49,
+            "end": 375.98537500000003,
+            "token": "uh-huh"
+        },
+        {
+            "name": "NegS_031_ugh",
+            "start": 381.78,
+            "end": 382.87987499999997,
+            "token": "ugh"
+        }
+    ]
+}

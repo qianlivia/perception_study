@@ -1,0 +1,51 @@
+{
+    "name": "fe_03_00440",
+    "context_channel": 0,
+    "context_text": "<B> that's true especially with with lower level and you're trusting you're in into a company friendly { getting a } / <A> [ ugh ] / <B> good income and / <A> yeah / <B> trying to raise a family and then being { lied } / <A> [ okay ] / <B> to / <A> yeah / <B> now the ceo 's i have read something on the news about the ceo 's earning exorbitant amounts of money and taking huge vacations / <A> yeah / <B> and having huge bonuses which { they } / <A> [ mhm ] / <B> don't pass on to their employees / <A> mhm",
+    "context_start": 462.84,
+    "context_end": 490.01387500000004,
+    "feedback": [
+        {
+            "name": "NegS_007_ugh",
+            "start": 468.51,
+            "end": 469.5435,
+            "token": "ugh"
+        },
+        {
+            "name": "spontE_379_yeah",
+            "start": 470.95,
+            "end": 471.86475,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_383_okay",
+            "start": 473.75,
+            "end": 474.421375,
+            "token": "okay"
+        },
+        {
+            "name": "spontD_052_yeah",
+            "start": 475.37,
+            "end": 476.132,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_380_yeah",
+            "start": 484.45,
+            "end": 485.0635,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_281_mhm",
+            "start": 487.3,
+            "end": 488.202375,
+            "token": "mhm"
+        },
+        {
+            "name": "spontB_200_mhm",
+            "start": 489.48,
+            "end": 490.01387500000004,
+            "token": "mhm"
+        }
+    ]
+}

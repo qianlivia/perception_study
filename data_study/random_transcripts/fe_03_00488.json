@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00488",
+    "context_channel": 1,
+    "context_text": "<A> wonderful exercise it's called uh i i it's uh i rea i read this incredible book called the the ancient secret of the fountain of youth / <B> oh / <A> and in that book there are certain exercises that this man took from tibet and there / <B> no / <A> um excellent excellent exercises { and } / <B> [ huh ] / <A> it only takes like five to six minutes to do it maybe { s } / <B> [ ugh ]",
+    "context_start": 95.67,
+    "context_end": 117.70712499999999,
+    "feedback": [
+        {
+            "name": "spontF_360_oh",
+            "start": 104.29,
+            "end": 105.232375,
+            "token": "oh"
+        },
+        {
+            "name": "NR_042_no",
+            "start": 110.15,
+            "end": 110.90212500000001,
+            "token": "no"
+        },
+        {
+            "name": "NS_027_huh",
+            "start": 112.57,
+            "end": 113.06712499999999,
+            "token": "huh"
+        },
+        {
+            "name": "NegS_067_ugh",
+            "start": 116.69,
+            "end": 117.70712499999999,
+            "token": "ugh"
+        }
+    ]
+}

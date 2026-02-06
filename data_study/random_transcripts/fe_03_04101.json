@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04101",
+    "context_channel": 0,
+    "context_text": "<B> yeah so probably medium like middle class type of restaurant would be better here / <A> ooh / <B> cause i don't th i mean it would have to be just like for people's special occasions if it was up class or / <A> wow / <B> fancy at all / <A> mhm / <B> so if you wanted that it to be like an everyday thing for / <A> yeah",
+    "context_start": 289.61,
+    "context_end": 309.52125,
+    "feedback": [
+        {
+            "name": "spontB_347_ooh",
+            "start": 296.06,
+            "end": 296.90225,
+            "token": "ooh"
+        },
+        {
+            "name": "PS_075_wow",
+            "start": 303.32,
+            "end": 304.56925,
+            "token": "wow"
+        },
+        {
+            "name": "spontA_068_mhm",
+            "start": 304.76,
+            "end": 305.36062499999997,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_328_yeah",
+            "start": 308.97,
+            "end": 309.52125,
+            "token": "yeah"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00324",
+    "context_channel": 0,
+    "context_text": "<B> pretending like you don't know something or you know when you do know something / <A> ah / <B> so / <A> mhm / <B> um have you done this um conversations before / <A> wow",
+    "context_start": 297.76,
+    "context_end": 311.57575,
+    "feedback": [
+        {
+            "name": "spontC_173_ah",
+            "start": 302.25,
+            "end": 303.314,
+            "token": "ah"
+        },
+        {
+            "name": "spontA_407_mhm",
+            "start": 305.78,
+            "end": 306.30062499999997,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_108_wow",
+            "start": 310.43,
+            "end": 311.57575,
+            "token": "wow"
+        }
+    ]
+}

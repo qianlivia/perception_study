@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_01862",
+    "context_channel": 0,
+    "context_text": "<B> and there was a { bucket of water } / <A> [ uh ] / <B> underneath and there was a hippo and / <A> mhm / <B> ah she had to for example at the beginning she had to it was either you start with simple numbers like one two or three / <A> ooh",
+    "context_start": 241.75,
+    "context_end": 255.77975,
+    "feedback": [
+        {
+            "name": "PS_003_uh",
+            "start": 243.04,
+            "end": 243.57999999999998,
+            "token": "uh"
+        },
+        {
+            "name": "spontC_200_mhm",
+            "start": 246.92,
+            "end": 247.40249999999997,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_153_ooh",
+            "start": 254.88,
+            "end": 255.77975,
+            "token": "ooh"
+        }
+    ]
+}

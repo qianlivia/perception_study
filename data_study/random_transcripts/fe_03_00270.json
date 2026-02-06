@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00270",
+    "context_channel": 0,
+    "context_text": "<B> because my family lives here { i } / <A> [ mhm ] / <B> mean two of my sisters live here and my parents lived here so i yeah i'd spend most of my holidays here / <A> yes / <B> you know i moved back here because of the family and everything be better than staying in denver and you know because { i } / <A> [ uh-huh ] / <B> really had no connection in denver other than you know the people with whom i worked so / <A> yeah",
+    "context_start": 342.45,
+    "context_end": 364.92762500000003,
+    "feedback": [
+        {
+            "name": "spontE_049_mhm",
+            "start": 343.79,
+            "end": 344.38800000000003,
+            "token": "mhm"
+        },
+        {
+            "name": "PR_026_yes",
+            "start": 350.45,
+            "end": 351.044375,
+            "token": "yes"
+        },
+        {
+            "name": "spontF_077_uh-huh",
+            "start": 359.75,
+            "end": 360.33525,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontB_063_yeah",
+            "start": 364.48,
+            "end": 364.92762500000003,
+            "token": "yeah"
+        }
+    ]
+}

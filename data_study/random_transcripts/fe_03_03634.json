@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03634",
+    "context_channel": 0,
+    "context_text": "<B> yeah i feel bad for waiters and waitresses because they have to tip the bartender and the bus boys out / <A> jeez / <B> and taxes out { of } / <A> [ no ] / <B> that and they're only making a dollar twenty five an hour so if someone's or someone's at at a table for hours / <A> uh-huh / <B> having coffee and talking { they're } / <A> [ yes ]",
+    "context_start": 315.94,
+    "context_end": 331.019625,
+    "feedback": [
+        {
+            "name": "PS_174_jeez",
+            "start": 321.05,
+            "end": 322.363,
+            "token": "jeez"
+        },
+        {
+            "name": "NR_002_no",
+            "start": 322.78,
+            "end": 323.54912499999995,
+            "token": "no"
+        },
+        {
+            "name": "spontA_290_uh-huh",
+            "start": 328.43,
+            "end": 328.92975,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_329_yes",
+            "start": 330.3,
+            "end": 331.019625,
+            "token": "yes"
+        }
+    ]
+}

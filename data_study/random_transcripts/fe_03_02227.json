@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02227",
+    "context_channel": 1,
+    "context_text": "<A> cook something at home for my husband and he doesn't really care for it we try a new recipe and it doesn't taste that well you know that's dinner but in { a } / <B> [ no ] / <A> restaurant if something is not prepared to his satisfaction it's nothing on me he { can } / <B> [ uh-huh ] / <A> say you know what i we need to send this back / <B> yes",
+    "context_start": 327.92,
+    "context_end": 341.693625,
+    "feedback": [
+        {
+            "name": "NR_092_no",
+            "start": 333.27,
+            "end": 334.31225,
+            "token": "no"
+        },
+        {
+            "name": "spontE_260_uh-huh",
+            "start": 337.7,
+            "end": 338.25275,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PR_015_yes",
+            "start": 340.7,
+            "end": 341.693625,
+            "token": "yes"
+        }
+    ]
+}

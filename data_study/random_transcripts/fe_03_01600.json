@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_01600",
+    "context_channel": 0,
+    "context_text": "<B> i just huh and i just i don't know i just / <A> yeah / <B> you know clinton clinton had his monica lewinski scandals { and } / <A> [ mhm ] / <B> it was bad { but } / <A> [ jeez ] / <B> you know what he might've been like an an ass of a person / <A> mhm / <B> but at least he ran our country well and { the } / <A> [ uh-huh ]",
+    "context_start": 540.23,
+    "context_end": 562.350125,
+    "feedback": [
+        {
+            "name": "spontB_297_yeah",
+            "start": 547.9,
+            "end": 548.3439999999999,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_063_mhm",
+            "start": 552.85,
+            "end": 553.340875,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_174_jeez",
+            "start": 554.87,
+            "end": 556.183,
+            "token": "jeez"
+        },
+        {
+            "name": "spontB_326_mhm",
+            "start": 559.27,
+            "end": 559.813,
+            "token": "mhm"
+        },
+        {
+            "name": "spontE_040_uh-huh",
+            "start": 561.82,
+            "end": 562.350125,
+            "token": "uh-huh"
+        }
+    ]
+}

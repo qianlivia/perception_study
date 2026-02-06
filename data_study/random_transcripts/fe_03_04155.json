@@ -1,0 +1,51 @@
+{
+    "name": "fe_03_04155",
+    "context_channel": 0,
+    "context_text": "<B> um as far as like the temperature / <A> no / <B> because um i baked some last week and the edges were really really kinda just rough { so } / <A> [ goodness ] / <B> what i also do if it says leave it in for thirty minutes / <A> yeah / <B> well when it's like down to twenty minutes / <A> hm / <B> i begin to say okay now i'm gonna just stand here and just see how where we are { i } / <A> [ mhm ] / <B> check it with a a knife and some uh sometimes we bake brownies with the little chewy um chocolate chunks in it / <A> oh / <B> and i will make sure that i would get past that but i always check the edges to see if it's sticking around the edges itself okay { and then if } / <A> [ no ]",
+    "context_start": 319.7,
+    "context_end": 355.135875,
+    "feedback": [
+        {
+            "name": "NR_016_no",
+            "start": 321.93,
+            "end": 322.664375,
+            "token": "no"
+        },
+        {
+            "name": "NegS_037_goodness",
+            "start": 327.93,
+            "end": 328.868875,
+            "token": "goodness"
+        },
+        {
+            "name": "spontA_233_yeah",
+            "start": 331.82,
+            "end": 332.59575,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_040_hm",
+            "start": 335.03,
+            "end": 336.075875,
+            "token": "hm"
+        },
+        {
+            "name": "spontA_393_mhm",
+            "start": 339.96,
+            "end": 340.663125,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_004_oh",
+            "start": 346.3,
+            "end": 346.937875,
+            "token": "oh"
+        },
+        {
+            "name": "NR_072_no",
+            "start": 354.26,
+            "end": 355.135875,
+            "token": "no"
+        }
+    ]
+}
