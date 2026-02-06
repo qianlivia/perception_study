@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02250",
+    "context_channel": 1,
+    "context_text": "<A> cause a lot of the things that just um springtime you know the sun's out long / <B> yeah / <A> everything's in bloom you { know } / <B> [ yeah ] / <A> less cloudy days / <B> yeah",
+    "context_start": 190.24,
+    "context_end": 200.6025,
+    "feedback": [
+        {
+            "name": "spontB_016_yeah",
+            "start": 195.61,
+            "end": 196.00487500000003,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_063_yeah",
+            "start": 197.6,
+            "end": 198.114,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_485_yeah",
+            "start": 200.0,
+            "end": 200.6025,
+            "token": "yeah"
+        }
+    ]
+}

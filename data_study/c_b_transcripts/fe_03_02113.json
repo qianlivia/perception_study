@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02113",
+    "context_channel": 0,
+    "context_text": "<B> well we go out to restaurants and we have our friends at the rest we go to hotels / <A> yeah / <B> on trips in { the } / <A> [ yeah ] / <B> city we don't go outside the city very much / <A> yeah / <B> we stay in the city when we go to a hotel we stay there but we go back to those places and we have i guess friends there / <A> yeah",
+    "context_start": 367.55,
+    "context_end": 392.45125,
+    "feedback": [
+        {
+            "name": "spontF_380_yeah",
+            "start": 374.19,
+            "end": 374.8035,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_226_yeah",
+            "start": 376.82,
+            "end": 377.269,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_382_yeah",
+            "start": 379.78,
+            "end": 380.354625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_287_yeah",
+            "start": 391.82,
+            "end": 392.45125,
+            "token": "yeah"
+        }
+    ]
+}

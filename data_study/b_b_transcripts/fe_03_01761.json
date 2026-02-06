@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_01761",
+    "context_channel": 1,
+    "context_text": "<A> like okay you go in you do your thing / <B> right / <A> he did it silently / <B> yeah / <A> and that what did that caused our economy not to / <B> yeah",
+    "context_start": 190.02,
+    "context_end": 198.30775,
+    "feedback": [
+        {
+            "name": "spontC_360_right",
+            "start": 191.84,
+            "end": 192.418875,
+            "token": "right"
+        },
+        {
+            "name": "spontB_016_yeah",
+            "start": 193.56,
+            "end": 193.95487500000002,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_287_yeah",
+            "start": 197.85,
+            "end": 198.30775,
+            "token": "yeah"
+        }
+    ]
+}

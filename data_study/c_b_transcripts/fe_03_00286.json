@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00286",
+    "context_channel": 0,
+    "context_text": "<B> uh you know who are the maintenance crew that are working / <A> uh-huh / <B> on this airplane how many how many um how many drinks has the pilot had / <A> right / <B> you know these are really simple clues that you know maybe i shouldn't fly today { you } / <A> [ yeah ]",
+    "context_start": 384.24,
+    "context_end": 399.394,
+    "feedback": [
+        {
+            "name": "spontE_106_uh-huh",
+            "start": 387.12,
+            "end": 387.54925000000003,
+            "token": "uh-huh"
+        },
+        {
+            "name": "sun1_032_right",
+            "start": 393.16,
+            "end": 394.003375,
+            "token": "right"
+        },
+        {
+            "name": "spontC_063_yeah",
+            "start": 398.88,
+            "end": 399.394,
+            "token": "yeah"
+        }
+    ]
+}

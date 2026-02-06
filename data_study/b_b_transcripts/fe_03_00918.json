@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00918",
+    "context_channel": 1,
+    "context_text": "<A> i'm just curious if it's a reality show how real it really is / <B> right / <A> you know they know they're being uh you know filmed / <B> right / <A> is this really what their life is about or { do they } / <B> [ right ]",
+    "context_start": 346.96,
+    "context_end": 359.64000000000004,
+    "feedback": [
+        {
+            "name": "sun1_032_right",
+            "start": 350.53,
+            "end": 351.37337499999995,
+            "token": "right"
+        },
+        {
+            "name": "sun_013_right",
+            "start": 356.36,
+            "end": 357.2335,
+            "token": "right"
+        },
+        {
+            "name": "PR_043_right",
+            "start": 358.98,
+            "end": 359.64000000000004,
+            "token": "right"
+        }
+    ]
+}

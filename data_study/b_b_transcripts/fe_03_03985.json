@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03985",
+    "context_channel": 1,
+    "context_text": "<A> he was classic i mean / <B> yeah / <A> it was many years later that i realized how good he was and then i had to see anything i could with him you know / <B> mhm / <A> and bob hope / <B> yeah",
+    "context_start": 454.08,
+    "context_end": 465.09200000000004,
+    "feedback": [
+        {
+            "name": "spontB_016_yeah",
+            "start": 455.15,
+            "end": 455.544875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_314_mhm",
+            "start": 462.26,
+            "end": 462.800875,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_356_yeah",
+            "start": 464.61,
+            "end": 465.09200000000004,
+            "token": "yeah"
+        }
+    ]
+}

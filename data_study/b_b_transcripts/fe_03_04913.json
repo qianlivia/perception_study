@@ -1,0 +1,45 @@
+{
+    "name": "fe_03_04913",
+    "context_channel": 0,
+    "context_text": "<B> two okay / <A> oh / <B> and uh i have seen uh a lot of uh different drug testing go on uh myself { i have } / <A> [ uh-oh ] / <B> been tested a couple of times but it was only because of random testing within you know our department / <A> yeah / <B> i didn't have any problem with it because i didn't have anything to hide / <A> yeah / <B> uh once again i think that uh it's like a double edged sword i believe if you don't do it you don't have anything to worry about if / <A> uh-huh / <B> you do it that's a choice that you make { and then } / <A> [ uh-oh ]",
+    "context_start": 64.32,
+    "context_end": 99.710375,
+    "feedback": [
+        {
+            "name": "spontF_109_oh",
+            "start": 66.05,
+            "end": 66.3895,
+            "token": "oh"
+        },
+        {
+            "name": "PS_045_uh-oh",
+            "start": 73.51,
+            "end": 74.46887500000001,
+            "token": "uh-oh"
+        },
+        {
+            "name": "spontF_221_yeah",
+            "start": 81.8,
+            "end": 82.285625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_016_yeah",
+            "start": 85.41,
+            "end": 85.804875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_207_uh-huh",
+            "start": 96.14,
+            "end": 96.620875,
+            "token": "uh-huh"
+        },
+        {
+            "name": "NegS_054_uh-oh",
+            "start": 98.73,
+            "end": 99.710375,
+            "token": "uh-oh"
+        }
+    ]
+}

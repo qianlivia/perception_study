@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_05617",
+    "context_channel": 0,
+    "context_text": "<B> cough cough and um to get back to the subject um i thought that was very interesting when / <A> ooh / <B> um when the yankees ah when the yankees were were were winning / <A> oh / <B> almost every year that then the other teams all felt that you know prices the the salary caps had to be lowered / <A> ugh / <B> you know it wasn't so much of a problem before { after } / <A> [ huh ]",
+    "context_start": 327.25,
+    "context_end": 360.73675000000003,
+    "feedback": [
+        {
+            "name": "spontB_352_ooh",
+            "start": 337.25,
+            "end": 338.0155,
+            "token": "ooh"
+        },
+        {
+            "name": "spontF_109_oh",
+            "start": 344.9,
+            "end": 345.23949999999996,
+            "token": "oh"
+        },
+        {
+            "name": "NegS_043_ugh",
+            "start": 354.45,
+            "end": 355.085125,
+            "token": "ugh"
+        },
+        {
+            "name": "sun2_008_huh",
+            "start": 359.86,
+            "end": 360.73675000000003,
+            "token": "huh"
+        }
+    ]
+}

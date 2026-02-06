@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04261",
+    "context_channel": 0,
+    "context_text": "<B> my mid fifties and you know people told me you know when i was in my thirties you know and i was still thinking at that time well you know you know i should really maybe become a lawyer / <A> right / <B> you know i can still do it and people said you can still do it you've got plenty of time plenty of time and i never / <A> oh / <B> did it and i know one guy that was in his thirties and / <A> uh-huh / <B> he went and he did it and he's been really really successful and / <A> what",
+    "context_start": 158.68,
+    "context_end": 183.842375,
+    "feedback": [
+        {
+            "name": "PR_043_right",
+            "start": 169.86,
+            "end": 170.52,
+            "token": "right"
+        },
+        {
+            "name": "spontF_109_oh",
+            "start": 175.8,
+            "end": 176.1395,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_009_uh-huh",
+            "start": 179.12,
+            "end": 179.50275,
+            "token": "uh-huh"
+        },
+        {
+            "name": "Nu_001_what",
+            "start": 183.24,
+            "end": 183.842375,
+            "token": "what"
+        }
+    ]
+}

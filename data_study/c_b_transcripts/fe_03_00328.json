@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00328",
+    "context_channel": 0,
+    "context_text": "<B> like if you knew someone was innocent / <A> yeah / <B> but they didn't have a good alibi maybe there's a lot of circumstantial evidence but / <A> yeah / <B> you know for a fact that they're innocent / <A> yeah / <B> would you lie in that circumstance / <A> no",
+    "context_start": 97.63,
+    "context_end": 108.777125,
+    "feedback": [
+        {
+            "name": "spontC_138_yeah",
+            "start": 99.68,
+            "end": 100.17737500000001,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_192_yeah",
+            "start": 104.1,
+            "end": 104.55175,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_393_yeah",
+            "start": 106.26,
+            "end": 106.761875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_264_no",
+            "start": 108.24,
+            "end": 108.777125,
+            "token": "no"
+        }
+    ]
+}

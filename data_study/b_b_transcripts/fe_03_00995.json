@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00995",
+    "context_channel": 1,
+    "context_text": "<A> and i will get you an invitation to the group / <B> okay / <A> the only rule is you have to post something once a month / <B> okay / <A> either a coupon { a } / <B> [ mhm ] / <A> freebie a you know i mean if you do mary kay / <B> right",
+    "context_start": 343.32,
+    "context_end": 358.28000000000003,
+    "feedback": [
+        {
+            "name": "spontE_005_okay",
+            "start": 346.34,
+            "end": 346.89037499999995,
+            "token": "okay"
+        },
+        {
+            "name": "spontC_511_okay",
+            "start": 352.2,
+            "end": 352.710875,
+            "token": "okay"
+        },
+        {
+            "name": "spontC_355_mhm",
+            "start": 354.48,
+            "end": 355.01800000000003,
+            "token": "mhm"
+        },
+        {
+            "name": "PR_043_right",
+            "start": 357.62,
+            "end": 358.28000000000003,
+            "token": "right"
+        }
+    ]
+}

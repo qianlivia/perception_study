@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03716",
+    "context_channel": 1,
+    "context_text": "<A> a handicapped daughter { they } / <B> [ huh ] / <A> really needed me to stay home with her you know and you can't afford to pay somebody else to take of em / <B> mhm / <A> you know it's just real cost prohibitive / <B> yeah",
+    "context_start": 467.5,
+    "context_end": 478.82287499999995,
+    "feedback": [
+        {
+            "name": "sun2_043_huh",
+            "start": 469.27,
+            "end": 470.252125,
+            "token": "huh"
+        },
+        {
+            "name": "spontD_030_mhm",
+            "start": 474.82,
+            "end": 475.318875,
+            "token": "mhm"
+        },
+        {
+            "name": "spontE_280_yeah",
+            "start": 478.34,
+            "end": 478.82287499999995,
+            "token": "yeah"
+        }
+    ]
+}

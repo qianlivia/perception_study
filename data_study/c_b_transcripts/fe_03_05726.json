@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_05726",
+    "context_channel": 1,
+    "context_text": "<A> yeah see that's that's the only thing / <B> yeah / <A> i'm concerned about if they can get their hands on those biological weapons you know / <B> yeah / <A> i'd be a little concerned about that / <B> yeah",
+    "context_start": 144.83,
+    "context_end": 155.40925000000001,
+    "feedback": [
+        {
+            "name": "spontA_441_yeah",
+            "start": 147.32,
+            "end": 147.75912499999998,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_382_yeah",
+            "start": 151.94,
+            "end": 152.514625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_382_yeah",
+            "start": 154.83,
+            "end": 155.40925000000001,
+            "token": "yeah"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04862",
+    "context_channel": 0,
+    "context_text": "<B> because everything that's been happening you know the past couple of weeks { i was so } / <A> [ okay ] / <B> sure that they were gonna just make us keep going you know circling / <A> right / <B> and uh they didn't i actually sat you know by the arrivals for { a } / <A> [ wow ] / <B> good i'd say fifteen minutes / <A> well",
+    "context_start": 256.4,
+    "context_end": 272.74225,
+    "feedback": [
+        {
+            "name": "spontC_172_okay",
+            "start": 260.11,
+            "end": 260.52112500000004,
+            "token": "okay"
+        },
+        {
+            "name": "sun1_032_right",
+            "start": 264.04,
+            "end": 264.883375,
+            "token": "right"
+        },
+        {
+            "name": "spontF_097_wow",
+            "start": 269.19,
+            "end": 269.634125,
+            "token": "wow"
+        },
+        {
+            "name": "spontD_171_well",
+            "start": 272.3,
+            "end": 272.74225,
+            "token": "well"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_02270",
+    "context_channel": 0,
+    "context_text": "<B> um apparently that really was affecting me and i didn't know / <A> right / <B> um that's what it was but it felt like kinda like a cold or flu you know / <A> oh / <B> but it was allergies it was allergies { cause } / <A> [ what ] / <B> when i when i took the medication { i mean the } / <A> [ right ] / <B> allergy pills it definitely helped / <A> yeah",
+    "context_start": 548.04,
+    "context_end": 567.0039999999999,
+    "feedback": [
+        {
+            "name": "spontC_360_right",
+            "start": 553.23,
+            "end": 553.8088750000001,
+            "token": "right"
+        },
+        {
+            "name": "spontF_109_oh",
+            "start": 558.15,
+            "end": 558.4895,
+            "token": "oh"
+        },
+        {
+            "name": "Nu_001_what",
+            "start": 560.93,
+            "end": 561.532375,
+            "token": "what"
+        },
+        {
+            "name": "PR_043_right",
+            "start": 563.38,
+            "end": 564.04,
+            "token": "right"
+        },
+        {
+            "name": "spontB_297_yeah",
+            "start": 566.56,
+            "end": 567.0039999999999,
+            "token": "yeah"
+        }
+    ]
+}

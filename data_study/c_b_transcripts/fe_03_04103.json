@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04103",
+    "context_channel": 1,
+    "context_text": "<A> yeah well i think that's wonderful i think that's terrific now uh the reason that that i would like to have a music school / <B> oh / <A> of is becau cause i know there are a lot of talented people / <B> yes / <A> that have a very hard time with studies it's very expensive here you need a a teacher a voice teacher and you need somebody well to to help you with languages { and you need } / <B> [ pardon ] / <A> uh somebody to teach us your repertoire { you } / <B> [ okay ]",
+    "context_start": 456.79,
+    "context_end": 489.725125,
+    "feedback": [
+        {
+            "name": "spontF_109_oh",
+            "start": 466.68,
+            "end": 467.0195,
+            "token": "oh"
+        },
+        {
+            "name": "PR_026_yes",
+            "start": 470.84,
+            "end": 471.434375,
+            "token": "yes"
+        },
+        {
+            "name": "Nu_049_pardon",
+            "start": 484.61,
+            "end": 485.4345,
+            "token": "pardon"
+        },
+        {
+            "name": "spontD_089_okay",
+            "start": 488.92,
+            "end": 489.725125,
+            "token": "okay"
+        }
+    ]
+}

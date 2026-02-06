@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04347",
+    "context_channel": 1,
+    "context_text": "<A> we { don't } / <B> [ right ] / <A> respect them anymore { and we g } / <B> [ yeah ] / <A> and we give this we give this white columbus guy a whole day for himself { we got a } / <B> [ yeah ]",
+    "context_start": 375.3,
+    "context_end": 381.562,
+    "feedback": [
+        {
+            "name": "PR_043_right",
+            "start": 375.3,
+            "end": 375.96000000000004,
+            "token": "right"
+        },
+        {
+            "name": "spontB_097_yeah",
+            "start": 376.78,
+            "end": 377.35362499999997,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_595_yeah",
+            "start": 380.95,
+            "end": 381.562,
+            "token": "yeah"
+        }
+    ]
+}

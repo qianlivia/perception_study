@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03785",
+    "context_channel": 1,
+    "context_text": "<A> was i was at a bar and i criticized the movie chorus line and / <B> uh-huh / <A> the person said that's because you're not in theater or you'd appreciate this { you would } / <B> [ ah ] / <A> appreciate the movie { and i } / <B> [ oh ]",
+    "context_start": 137.97,
+    "context_end": 154.845125,
+    "feedback": [
+        {
+            "name": "spontD_070_uh-huh",
+            "start": 145.78,
+            "end": 146.28825,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontE_232_ah",
+            "start": 152.12,
+            "end": 153.10075,
+            "token": "ah"
+        },
+        {
+            "name": "spontE_048_oh",
+            "start": 154.1,
+            "end": 154.845125,
+            "token": "oh"
+        }
+    ]
+}

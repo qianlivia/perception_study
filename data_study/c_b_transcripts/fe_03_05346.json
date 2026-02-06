@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_05346",
+    "context_channel": 0,
+    "context_text": "<B> wow so it's a good dog but yeah he's had little problems { yeah i kind } / <A> [ wow ] / <B> of get that he's sad but that's okay i'm psychic so i pick things up but it's okay he's a good dog he'll work through it you just got to love him so tell me about what you first of all i got two cats / <A> oh / <B> and uh normally they've been outdoor cats but i've been stuck in this apartment for three months cause i had to move from where i was / <A> oh",
+    "context_start": 102.27,
+    "context_end": 126.604375,
+    "feedback": [
+        {
+            "name": "PS_038_wow",
+            "start": 106.86,
+            "end": 108.21575,
+            "token": "wow"
+        },
+        {
+            "name": "spontF_017_oh",
+            "start": 118.96,
+            "end": 119.78937499999999,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_207_oh",
+            "start": 126.22,
+            "end": 126.604375,
+            "token": "oh"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04759",
+    "context_channel": 1,
+    "context_text": "<A> sort of my well not junkie exactly my life is sort of uh revolves around the internet i'm sort of um / <B> really / <A> i play well or excuse me on my computer um { for } / <B> [ mhm ] / <A> different for different reasons i write i'm on the internet i play chess { and and } / <B> [ aww ] / <A> between all those things um { you know those } / <B> [ wow ]",
+    "context_start": 102.16,
+    "context_end": 118.685,
+    "feedback": [
+        {
+            "name": "PS_070_really",
+            "start": 107.01,
+            "end": 107.698625,
+            "token": "really"
+        },
+        {
+            "name": "spontA_343_mhm",
+            "start": 110.07,
+            "end": 110.619625,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_038_aww",
+            "start": 114.86,
+            "end": 115.515875,
+            "token": "aww"
+        },
+        {
+            "name": "PS_155_wow",
+            "start": 116.89,
+            "end": 118.685,
+            "token": "wow"
+        }
+    ]
+}

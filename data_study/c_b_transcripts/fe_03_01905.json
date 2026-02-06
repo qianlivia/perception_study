@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01905",
+    "context_channel": 1,
+    "context_text": "<A> [ that's that's how me and my sister ] i mean my sister still she moved back in with mom my parents and and ah and i remember when my husband's parents had passed away um you know went through all the ordeal of um having to move everything and sell the house and it was a lot of work trying to get rid of all that junk that they had / <B> yeah / <A> and i remember um after you know they had passed and we went through that whole whole ordeal i told my parents um look you all need to try to get rid of some of your junk you have / <B> yeah / <A> because when you pass away it's not going to be fair to leave all that on me and jenny so so we can get your house ready to sell it and i remember my mom saying you're not going to sell my house okay / <B> no / <A> and she said well where where's jenny and ashley going to go her she has daughter { and i } / <B> [ yeah ]",
+    "context_start": 330.02,
+    "context_end": 380.16900000000004,
+    "feedback": [
+        {
+            "name": "spontC_405_yeah",
+            "start": 350.98,
+            "end": 351.59625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_127_yeah",
+            "start": 361.5,
+            "end": 362.202,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_345_no",
+            "start": 372.94,
+            "end": 373.6945,
+            "token": "no"
+        },
+        {
+            "name": "spontB_226_yeah",
+            "start": 379.72,
+            "end": 380.16900000000004,
+            "token": "yeah"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02575",
+    "context_channel": 0,
+    "context_text": "<B> the ah um prior governor was very very unpopular { he } / <A> [ aww ] / <B> was just he just ah he was very heavy handed ah liked to play a kind of revenge old style gotcha politics / <A> oh / <B> and ah that hurt ah townsend ah you know she got tarred with all the negative aspects of of the incumbent / <A> ah / <B> but couldn't take any credit for any of the positive aspects so { that ah } / <A> [ no ]",
+    "context_start": 377.09,
+    "context_end": 412.22312500000004,
+    "feedback": [
+        {
+            "name": "spontF_671_aww",
+            "start": 383.08,
+            "end": 383.7495,
+            "token": "aww"
+        },
+        {
+            "name": "spontF_320_oh",
+            "start": 395.63,
+            "end": 396.332375,
+            "token": "oh"
+        },
+        {
+            "name": "spontE_232_ah",
+            "start": 406.26,
+            "end": 407.24075,
+            "token": "ah"
+        },
+        {
+            "name": "spontA_380_no",
+            "start": 411.35,
+            "end": 412.22312500000004,
+            "token": "no"
+        }
+    ]
+}

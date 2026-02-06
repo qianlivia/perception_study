@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02030",
+    "context_channel": 1,
+    "context_text": "<A> that's a good thing and it's you know if you can if you don't mind paying for it and you know / <B> right / <A> and i don't mind i you know my time is very valuable i i work a you know / <B> yeah / <A> spend a lot of time working in / <B> yeah / <A> and um i feel that you know that that's the least i can do to reward myself / <B> right",
+    "context_start": 533.79,
+    "context_end": 554.143375,
+    "feedback": [
+        {
+            "name": "PR_043_right",
+            "start": 539.2,
+            "end": 539.86,
+            "token": "right"
+        },
+        {
+            "name": "spontB_016_yeah",
+            "start": 544.89,
+            "end": 545.2848749999999,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_356_yeah",
+            "start": 547.05,
+            "end": 547.5319999999999,
+            "token": "yeah"
+        },
+        {
+            "name": "sun1_032_right",
+            "start": 553.3,
+            "end": 554.143375,
+            "token": "right"
+        }
+    ]
+}

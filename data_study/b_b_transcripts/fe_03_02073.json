@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02073",
+    "context_channel": 1,
+    "context_text": "<A> so uh you know i love i we go uh our the little town we live in is a suburb of uh tulsa / <B> okay / <A> and you know they have a really neat christmas thing you know like the week after thanksgiving or / <B> okay / <A> whatever and i love to go down there they have carolers and you know we'll sit out on the patio of one of the restaurants and watch people go by and um you know that's pleasant but you know i'm not i'm not a runner or anything like that / <B> right / <A> so uh but i i enjoy being outside you know i love going to to um you know antique fairs and we have a medieval fair in muskogee / <B> okay",
+    "context_start": 141.74,
+    "context_end": 189.779,
+    "feedback": [
+        {
+            "name": "spontC_511_okay",
+            "start": 152.09,
+            "end": 152.600875,
+            "token": "okay"
+        },
+        {
+            "name": "spontB_195_okay",
+            "start": 161.43,
+            "end": 162.0995,
+            "token": "okay"
+        },
+        {
+            "name": "PR_043_right",
+            "start": 178.41,
+            "end": 179.07,
+            "token": "right"
+        },
+        {
+            "name": "spontE_158_okay",
+            "start": 189.16,
+            "end": 189.779,
+            "token": "okay"
+        }
+    ]
+}

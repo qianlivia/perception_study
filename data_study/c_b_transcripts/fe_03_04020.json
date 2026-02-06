@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04020",
+    "context_channel": 1,
+    "context_text": "<A> i i i really i i don't know but i i know that my kids were always saying you know chuck said such and such but { you } / <B> [ yeah ] / <A> know that's not true and { and } / <B> [ yuh ] / <A> i they they understood you { know } / <B> [ yeah ]",
+    "context_start": 362.17,
+    "context_end": 373.346,
+    "feedback": [
+        {
+            "name": "spontA_441_yeah",
+            "start": 368.18,
+            "end": 368.619125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_089_yuh",
+            "start": 369.55,
+            "end": 370.1015,
+            "token": "yuh"
+        },
+        {
+            "name": "spontB_094_yeah",
+            "start": 373.01,
+            "end": 373.346,
+            "token": "yeah"
+        }
+    ]
+}

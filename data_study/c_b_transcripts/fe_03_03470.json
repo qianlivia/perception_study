@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03470",
+    "context_channel": 1,
+    "context_text": "<A> [ started ] exactly but if if you start one and you don't have chemistry if it if you've got everything else the chemistry will develop but / <B> yeah / <A> uh if you depend on just chemistry you're gonna find like / <B> yeah / <A> my first my first marriage / <B> ugh / <A> you know it lasted five years and / <B> well",
+    "context_start": 216.26,
+    "context_end": 241.01225,
+    "feedback": [
+        {
+            "name": "spontB_226_yeah",
+            "start": 226.35,
+            "end": 226.799,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_016_yeah",
+            "start": 232.48,
+            "end": 232.874875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_389_ugh",
+            "start": 234.9,
+            "end": 235.3095,
+            "token": "ugh"
+        },
+        {
+            "name": "spontD_171_well",
+            "start": 240.57,
+            "end": 241.01225,
+            "token": "well"
+        }
+    ]
+}

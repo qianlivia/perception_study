@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02227",
+    "context_channel": 1,
+    "context_text": "<A> cook something at home for my husband and he doesn't really care for it we try a new recipe and it doesn't taste that well you know that's dinner but in { a } / <B> [ yeah ] / <A> restaurant if something is not prepared to his satisfaction it's nothing on me he { can } / <B> [ yeah ] / <A> say you know what i we need to send this back / <B> yeah",
+    "context_start": 327.92,
+    "context_end": 341.23362499999996,
+    "feedback": [
+        {
+            "name": "spontB_016_yeah",
+            "start": 333.27,
+            "end": 333.664875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_063_yeah",
+            "start": 337.7,
+            "end": 338.214,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_088_yeah",
+            "start": 340.7,
+            "end": 341.23362499999996,
+            "token": "yeah"
+        }
+    ]
+}

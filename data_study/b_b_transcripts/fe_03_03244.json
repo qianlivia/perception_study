@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03244",
+    "context_channel": 1,
+    "context_text": "<A> nobody's buying everybody's holding on / <B> yeah / <A> and i mean that's you know we're built on a kind of a debt economy you go out use your credit card spend a lot of money / <B> yeah / <A> buy stuff and uh you know that's how how we keep growing so if { people } / <B> [ right ] / <A> stop spending it's just a downward spiral / <B> right",
+    "context_start": 505.76,
+    "context_end": 526.695125,
+    "feedback": [
+        {
+            "name": "spontF_221_yeah",
+            "start": 508.13,
+            "end": 508.615625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_094_yeah",
+            "start": 514.98,
+            "end": 515.316,
+            "token": "yeah"
+        },
+        {
+            "name": "PR_043_right",
+            "start": 522.19,
+            "end": 522.85,
+            "token": "right"
+        },
+        {
+            "name": "PR_048_right",
+            "start": 526.06,
+            "end": 526.695125,
+            "token": "right"
+        }
+    ]
+}

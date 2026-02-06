@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02600",
+    "context_channel": 1,
+    "context_text": "<A> well i i think that um that they're i think they're a dangerous country { i don't think } / <B> [ absolutely ] / <A> the people are dangerous i think the leader was dangerous { and } / <B> [ absolutely ] / <A> i think that arms in in responsible countries is a good thing but i don't think he was responsible / <B> no / <A> with uh using you know a lot of country have you have to have some type of weapons program for defense / <B> exactly",
+    "context_start": 39.91,
+    "context_end": 64.103,
+    "feedback": [
+        {
+            "name": "PR_049_absolutely",
+            "start": 46.85,
+            "end": 47.936625,
+            "token": "absolutely"
+        },
+        {
+            "name": "sun_002_absolutely",
+            "start": 49.79,
+            "end": 50.835499999999996,
+            "token": "absolutely"
+        },
+        {
+            "name": "spontA_112_no",
+            "start": 57.07,
+            "end": 57.883125,
+            "token": "no"
+        },
+        {
+            "name": "sun_041_exactly",
+            "start": 63.15,
+            "end": 64.103,
+            "token": "exactly"
+        }
+    ]
+}

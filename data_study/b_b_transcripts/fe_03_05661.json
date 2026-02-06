@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_05661",
+    "context_channel": 1,
+    "context_text": "<A> isn't this the best thing ever i love it all / <B> yeah / <A> right so what's our topic airline security / <B> yeah / <A> it's so political lately first nine eleven and now this / <B> yeah",
+    "context_start": 16.73,
+    "context_end": 27.832,
+    "feedback": [
+        {
+            "name": "spontB_016_yeah",
+            "start": 19.42,
+            "end": 19.814875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_100_yeah",
+            "start": 23.21,
+            "end": 23.88425,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_356_yeah",
+            "start": 27.35,
+            "end": 27.832,
+            "token": "yeah"
+        }
+    ]
+}

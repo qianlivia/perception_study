@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02163",
+    "context_channel": 0,
+    "context_text": "<B> well you know i enjoy if it's if it's what i like { uh } / <A> [ yeah ] / <B> i enjoy it both places { you know } / <A> [ mhm ] / <B> i mean i could i could eat at a restaurant if it's something that i really like uh and / <A> wow / <B> uh and really enjoy { uh } / <A> [ yeah ]",
+    "context_start": 19.92,
+    "context_end": 34.157624999999996,
+    "feedback": [
+        {
+            "name": "spontB_321_yeah",
+            "start": 24.41,
+            "end": 24.856125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_343_mhm",
+            "start": 27.15,
+            "end": 27.699624999999997,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_152_wow",
+            "start": 31.04,
+            "end": 31.635875,
+            "token": "wow"
+        },
+        {
+            "name": "spontC_135_yeah",
+            "start": 33.47,
+            "end": 34.157624999999996,
+            "token": "yeah"
+        }
+    ]
+}

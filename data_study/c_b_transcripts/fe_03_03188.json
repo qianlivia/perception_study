@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03188",
+    "context_channel": 1,
+    "context_text": "<A> you have kids so / <B> yes / <A> for the better / <B> yes / <A> sometimes you wonder but / <B> oh",
+    "context_start": 471.22,
+    "context_end": 476.914125,
+    "feedback": [
+        {
+            "name": "PR_026_yes",
+            "start": 472.69,
+            "end": 473.284375,
+            "token": "yes"
+        },
+        {
+            "name": "spontF_329_yes",
+            "start": 474.56,
+            "end": 475.279625,
+            "token": "yes"
+        },
+        {
+            "name": "spontE_295_oh",
+            "start": 476.17,
+            "end": 476.914125,
+            "token": "oh"
+        }
+    ]
+}

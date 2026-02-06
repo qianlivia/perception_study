@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_05219",
+    "context_channel": 1,
+    "context_text": "<A> and ah i also ah when i was working i worked in a shipping room and there { was a } / <B> [ uh-huh ] / <A> lot of dust from paper and like that / <B> oh / <A> and because i wrapped packages and handled the outgoing mail / <B> uh-huh / <A> and ah we had a a humidifier going during the winter to put more moisture in the air which also helped / <B> yeah / <A> ah / <B> aaw",
+    "context_start": 289.08,
+    "context_end": 316.66450000000003,
+    "feedback": [
+        {
+            "name": "spontA_086_uh-huh",
+            "start": 295.58,
+            "end": 296.090125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_320_oh",
+            "start": 299.25,
+            "end": 299.952375,
+            "token": "oh"
+        },
+        {
+            "name": "spontD_020_uh-huh",
+            "start": 304.13,
+            "end": 304.63462499999997,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_380_yeah",
+            "start": 314.22,
+            "end": 314.8335,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_220_aaw",
+            "start": 316.18,
+            "end": 316.66450000000003,
+            "token": "aaw"
+        }
+    ]
+}

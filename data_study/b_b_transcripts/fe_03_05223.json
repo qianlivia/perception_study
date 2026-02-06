@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_05223",
+    "context_channel": 0,
+    "context_text": "<B> it's not a daily thing / <A> oh / <B> but ah every so often it ah you're i'm about to come down with something and i'll be like okay let me ah let me start let me start ah taking that and it seems to work / <A> mhm / <B> it seems to work um but the o but ah yeah the the fact is is that ah the north east really like i know i was in washington yesterday and ah and um it was beautiful out there / <A> yeah / <B> and i was just walking around in the heat and then ah you walk into an air conditioned room and so it's / <A> mhm",
+    "context_start": 300.29,
+    "context_end": 334.1415,
+    "feedback": [
+        {
+            "name": "spontF_109_oh",
+            "start": 301.24,
+            "end": 301.5795,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_482_mhm",
+            "start": 313.42,
+            "end": 313.85825,
+            "token": "mhm"
+        },
+        {
+            "name": "spontE_280_yeah",
+            "start": 326.92,
+            "end": 327.402875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_111_mhm",
+            "start": 333.71,
+            "end": 334.1415,
+            "token": "mhm"
+        }
+    ]
+}

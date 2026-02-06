@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03057",
+    "context_channel": 1,
+    "context_text": "<A> [ oh yeah ] oh yeah that that's our daily routine even my poodle inside the house { if } / <B> [ uh-huh ] / <A> it's not you know bad weather or anything um it's an everyday thing we go out in the front yard and we throw the ball and you know and she's like i said she's sixteen years old my poodle { and } / <B> [ yeah ] / <A> she's still very very active runs ah we have like a quarter acre property and she runs around she's still just as healthy as can be / <B> uh-huh / <A> um even with the flea the flea problem that we're having right now you know cause { it's the } / <B> [ mhm ]",
+    "context_start": 520.72,
+    "context_end": 552.45325,
+    "feedback": [
+        {
+            "name": "spontF_581_uh-huh",
+            "start": 526.64,
+            "end": 527.125875,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_414_yeah",
+            "start": 537.51,
+            "end": 537.987875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_047_uh-huh",
+            "start": 546.98,
+            "end": 547.430625,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_147_mhm",
+            "start": 551.98,
+            "end": 552.45325,
+            "token": "mhm"
+        }
+    ]
+}

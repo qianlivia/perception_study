@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01737",
+    "context_channel": 1,
+    "context_text": "<A> [ mhm ] mhm you know what i'm always worried like when i hear things about north korea i work for this really small company / <B> yeah / <A> and they make um spent nuclear fuel boxes for power companies / <B> yeah / <A> and it's like we're really struggling for business right now and they're um cough they're some of their customers are in south korea it's wild you know and korea in a whole and north and south korea it's not really a big place / <B> yeah / <A> you know so it's like every time i hear about korea my ears kind of perk up because i you / <B> yeah",
+    "context_start": 264.38,
+    "context_end": 302.539125,
+    "feedback": [
+        {
+            "name": "spontB_016_yeah",
+            "start": 273.32,
+            "end": 273.714875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_195_yeah",
+            "start": 277.71,
+            "end": 278.14262499999995,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_280_yeah",
+            "start": 295.23,
+            "end": 295.712875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_053_yeah",
+            "start": 302.04,
+            "end": 302.539125,
+            "token": "yeah"
+        }
+    ]
+}

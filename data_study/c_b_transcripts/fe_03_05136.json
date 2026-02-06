@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_05136",
+    "context_channel": 1,
+    "context_text": "<A> it's ah it's a gas and it destroys the ozone layer you know / <B> yeah / <A> and and that h i remember ay ah hydrofluorocarbons and / <B> uh-huh / <A> that those are made by refrigerators and / <B> oh",
+    "context_start": 257.23,
+    "context_end": 267.53437499999995,
+    "feedback": [
+        {
+            "name": "spontF_295_yeah",
+            "start": 260.71,
+            "end": 261.22837499999997,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_276_uh-huh",
+            "start": 264.68,
+            "end": 265.121375,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_207_oh",
+            "start": 267.15,
+            "end": 267.53437499999995,
+            "token": "oh"
+        }
+    ]
+}

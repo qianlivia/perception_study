@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04010",
+    "context_channel": 0,
+    "context_text": "<B> i actually missed a few during the first wave of fisher studies / <A> uh-huh / <B> and so then i re i changed the phone number and { the } / <A> [ wow ] / <B> the times and i think that works better for them and the topic 's um / <A> yeah",
+    "context_start": 57.3,
+    "context_end": 72.911,
+    "feedback": [
+        {
+            "name": "spontA_290_uh-huh",
+            "start": 61.85,
+            "end": 62.34975,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PS_164_wow",
+            "start": 66.53,
+            "end": 67.66925,
+            "token": "wow"
+        },
+        {
+            "name": "spontB_252_yeah",
+            "start": 72.29,
+            "end": 72.911,
+            "token": "yeah"
+        }
+    ]
+}

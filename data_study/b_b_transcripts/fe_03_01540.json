@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_01540",
+    "context_channel": 1,
+    "context_text": "<A> yeah we have a soccer league in in america but it's just not it's not it's not as popular at all / <B> mhm / <A> i mean if if you look at the players a lot of the players the europe they have the best leagues of soccer / <B> uh-huh / <A> and i don't think they have salary caps either so they { can pay } / <B> [ no ] / <A> their players as much as they want but a lot of the retired players from europe come over to the states and play in the american league / <B> yeah / <A> because it's not the talent isn't here the talent is in europe or other places / <B> uh-huh",
+    "context_start": 327.53,
+    "context_end": 359.5285,
+    "feedback": [
+        {
+            "name": "spontC_327_mhm",
+            "start": 333.61,
+            "end": 334.12225,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_189_uh-huh",
+            "start": 340.76,
+            "end": 341.24025,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_264_no",
+            "start": 345.5,
+            "end": 346.037125,
+            "token": "no"
+        },
+        {
+            "name": "spontB_063_yeah",
+            "start": 352.78,
+            "end": 353.227625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_091_uh-huh",
+            "start": 359.01,
+            "end": 359.5285,
+            "token": "uh-huh"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00324",
+    "context_channel": 0,
+    "context_text": "<B> pretending like you don't know something or you know when you do know something / <A> mhm / <B> so / <A> yeah / <B> um have you done this um conversations before / <A> no",
+    "context_start": 297.76,
+    "context_end": 311.341,
+    "feedback": [
+        {
+            "name": "spontF_513_mhm",
+            "start": 302.25,
+            "end": 302.7585,
+            "token": "mhm"
+        },
+        {
+            "name": "spontE_355_yeah",
+            "start": 305.78,
+            "end": 306.223125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_093_no",
+            "start": 310.43,
+            "end": 311.341,
+            "token": "no"
+        }
+    ]
+}

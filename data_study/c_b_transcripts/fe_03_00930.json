@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00930",
+    "context_channel": 1,
+    "context_text": "<A> then they'd be weakened / <B> yes / <A> they wouldn't have anybody then they cough it's almost like world war two / <B> yes / <A> we got involved when we weren't going to / <B> goodness",
+    "context_start": 342.32,
+    "context_end": 351.41062500000004,
+    "feedback": [
+        {
+            "name": "spontB_368_yes",
+            "start": 343.55,
+            "end": 344.407625,
+            "token": "yes"
+        },
+        {
+            "name": "spontC_507_yes",
+            "start": 347.78,
+            "end": 348.30249999999995,
+            "token": "yes"
+        },
+        {
+            "name": "NegS_024_goodness",
+            "start": 350.48,
+            "end": 351.41062500000004,
+            "token": "goodness"
+        }
+    ]
+}

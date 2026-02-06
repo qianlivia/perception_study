@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03081",
+    "context_channel": 1,
+    "context_text": "<A> almost never makes a sound { she's } / <B> [ oh ] / <A> very independent like you think of a cat she / <B> yeah / <A> wants attention when she wants it and that's it / <B> yeah",
+    "context_start": 44.36,
+    "context_end": 53.33925,
+    "feedback": [
+        {
+            "name": "spontF_017_oh",
+            "start": 46.37,
+            "end": 47.199374999999996,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_088_yeah",
+            "start": 49.89,
+            "end": 50.423625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_382_yeah",
+            "start": 52.76,
+            "end": 53.33925,
+            "token": "yeah"
+        }
+    ]
+}

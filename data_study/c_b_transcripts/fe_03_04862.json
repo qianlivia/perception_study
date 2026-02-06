@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04862",
+    "context_channel": 0,
+    "context_text": "<B> because everything that's been happening you know the past couple of weeks { i was so } / <A> [ yes ] / <B> sure that they were gonna just make us keep going you know circling / <A> yeah / <B> and uh they didn't i actually sat you know by the arrivals for { a } / <A> [ yeah ] / <B> good i'd say fifteen minutes / <A> well",
+    "context_start": 256.4,
+    "context_end": 272.74225,
+    "feedback": [
+        {
+            "name": "PR_024_yes",
+            "start": 260.11,
+            "end": 261.1075,
+            "token": "yes"
+        },
+        {
+            "name": "spontC_405_yeah",
+            "start": 264.04,
+            "end": 264.65625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_226_yeah",
+            "start": 269.19,
+            "end": 269.639,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_171_well",
+            "start": 272.3,
+            "end": 272.74225,
+            "token": "well"
+        }
+    ]
+}

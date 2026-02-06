@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_02935",
+    "context_channel": 1,
+    "context_text": "<A> um not really i mean my personal opinion is i think a lot of the sports players are paid way too high / <B> mhm / <A> you know that that does kind of disturb me a little bit you { know } / <B> [ yeah ] / <A> especially here in dallas the uh you know i mean the dallas cowboys / <B> uh-huh / <A> are kinda like the definition of criminals / <B> ugh / <A> you know most of the dallas cowboys at one point or another are wanted for some kind of crime { and } / <B> [ yeah ]",
+    "context_start": 425.43,
+    "context_end": 455.17575,
+    "feedback": [
+        {
+            "name": "spontA_395_mhm",
+            "start": 433.62,
+            "end": 434.234625,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_382_yeah",
+            "start": 437.58,
+            "end": 438.154625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_386_uh-huh",
+            "start": 444.04,
+            "end": 444.5865,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_337_ugh",
+            "start": 448.5,
+            "end": 449.105,
+            "token": "ugh"
+        },
+        {
+            "name": "spontC_290_yeah",
+            "start": 454.21,
+            "end": 455.17575,
+            "token": "yeah"
+        }
+    ]
+}

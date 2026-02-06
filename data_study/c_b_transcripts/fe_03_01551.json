@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_01551",
+    "context_channel": 0,
+    "context_text": "<B> yes but i mean like you may you've heard of john elway you know a bronco guy he's retired he does an awful lot for / <A> ugh / <B> oh all kind of organizations / <A> yeah / <B> so i mean he's earned a lot of money but he he spends it well / <A> yeah / <B> and he helps the kids cause he { has } / <A> [ yeah ] / <B> children of his own and you know but i'm like you i'm hoping they do something for us poor old people / <A> yeah",
+    "context_start": 434.09,
+    "context_end": 460.165125,
+    "feedback": [
+        {
+            "name": "spontF_389_ugh",
+            "start": 442.88,
+            "end": 443.2895,
+            "token": "ugh"
+        },
+        {
+            "name": "spontF_485_yeah",
+            "start": 446.33,
+            "end": 446.9325,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_258_yeah",
+            "start": 450.72,
+            "end": 451.21575,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_024_yeah",
+            "start": 453.49,
+            "end": 453.910125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_271_yeah",
+            "start": 459.65,
+            "end": 460.165125,
+            "token": "yeah"
+        }
+    ]
+}

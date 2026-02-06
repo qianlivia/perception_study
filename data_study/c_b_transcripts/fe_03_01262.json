@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01262",
+    "context_channel": 1,
+    "context_text": "<A> [ but ah pretty soon pretty ] soon we'll be down to only four i have well we're down to five right now i have one that's serving a a mission for the mormon church in chicago / <B> oh / <A> for our church and then i have another / <B> uh-huh / <A> and then my second son is going to brazil in may / <B> oh / <A> so but they all love movies i mean it's amazing they um we've we've just grown up you know the family growing up we've just really enjoyed ah watch a movie and it it is it's a it's a an inexpensive form of entertainment especially you know if as i say if you rent videos and stuff it's / <B> yeah",
+    "context_start": 488.44,
+    "context_end": 524.659125,
+    "feedback": [
+        {
+            "name": "spontE_15_oh",
+            "start": 498.24,
+            "end": 498.58325,
+            "token": "oh"
+        },
+        {
+            "name": "spontA_254_uh-huh",
+            "start": 499.95,
+            "end": 500.3485,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_360_oh",
+            "start": 504.43,
+            "end": 505.37237500000003,
+            "token": "oh"
+        },
+        {
+            "name": "spontC_352_yeah",
+            "start": 523.96,
+            "end": 524.659125,
+            "token": "yeah"
+        }
+    ]
+}

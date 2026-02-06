@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_05124",
+    "context_channel": 1,
+    "context_text": "<A> well that's near los angeles and it would have a full tank of gas i guess if they wanted to blow up a building / <B> yeah / <A> that was the main thing they wanted when they hijacked the planes to los angeles on on nine eleven / <B> yeah / <A> they wanted a full tank of gas so it would explode / <B> uh-huh / <A> i don't think any one country was behind that i think that unless it was saudi arabia i was reading in atlanta monthly where saudi arabia's we're not we're turning into not friendly with them now / <B> mhm / <A> the royal family / <B> right",
+    "context_start": 368.13,
+    "context_end": 410.438875,
+    "feedback": [
+        {
+            "name": "spontF_029_yeah",
+            "start": 377.39,
+            "end": 377.96524999999997,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_016_yeah",
+            "start": 385.8,
+            "end": 386.194875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_136_uh-huh",
+            "start": 389.68,
+            "end": 390.183,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_355_mhm",
+            "start": 407.33,
+            "end": 407.868,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_360_right",
+            "start": 409.86,
+            "end": 410.438875,
+            "token": "right"
+        }
+    ]
+}

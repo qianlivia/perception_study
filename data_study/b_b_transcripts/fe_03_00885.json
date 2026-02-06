@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00885",
+    "context_channel": 1,
+    "context_text": "<A> well i should be busy doing other stuff but i think once you kind of get hooked on it / <B> huh / <A> then you have to watch it week to week / <B> ugh / <A> to know what's going on and one reason why i like to watch survivor is to see the country / <B> uh-huh / <A> you know the settings where they're putting them and you { know the } / <B> [ right ]",
+    "context_start": 67.74,
+    "context_end": 83.289375,
+    "feedback": [
+        {
+            "name": "Nu_005_huh",
+            "start": 71.75,
+            "end": 72.466375,
+            "token": "huh"
+        },
+        {
+            "name": "NegS_043_ugh",
+            "start": 74.85,
+            "end": 75.485125,
+            "token": "ugh"
+        },
+        {
+            "name": "spontA_290_uh-huh",
+            "start": 80.02,
+            "end": 80.51975,
+            "token": "uh-huh"
+        },
+        {
+            "name": "sun_028_right",
+            "start": 82.56,
+            "end": 83.289375,
+            "token": "right"
+        }
+    ]
+}

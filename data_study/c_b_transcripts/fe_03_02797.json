@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02797",
+    "context_channel": 1,
+    "context_text": "<A> they take it um do you know what a hockey rink looks like / <B> yes / <A> well they basically take a hockey rink and convert it into a miniature football field / <B> oh / <A> and they play football in there and { they go } / <B> [ oh ] / <A> back and forth and back and forth and um they score like tons and tons of points i don't really get the concept of arena football because i'm used to the regular football fields { which } / <B> [ okay ]",
+    "context_start": 467.34,
+    "context_end": 493.45712499999996,
+    "feedback": [
+        {
+            "name": "spontC_507_yes",
+            "start": 471.34,
+            "end": 471.86249999999995,
+            "token": "yes"
+        },
+        {
+            "name": "spontF_017_oh",
+            "start": 476.68,
+            "end": 477.50937500000003,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_277_oh",
+            "start": 479.89,
+            "end": 480.45824999999996,
+            "token": "oh"
+        },
+        {
+            "name": "spontC_134_okay",
+            "start": 492.65,
+            "end": 493.45712499999996,
+            "token": "okay"
+        }
+    ]
+}

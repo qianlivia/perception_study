@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04119",
+    "context_channel": 0,
+    "context_text": "<B> [ right well you know ] i understand that totally i have four rotties at home yeah / <A> okay / <B> and so um you know we we always when we're preparing things and stuff we um uh like baby gate the kitchen off and / <A> yeah / <B> kinda clean it down with bleach and everything so / <A> mhm / <B> yeah and that is an issue / <A> yeah",
+    "context_start": 504.83,
+    "context_end": 524.9939999999999,
+    "feedback": [
+        {
+            "name": "spontE_005_okay",
+            "start": 509.99,
+            "end": 510.540375,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_383_yeah",
+            "start": 519.71,
+            "end": 520.2141250000001,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_482_mhm",
+            "start": 522.27,
+            "end": 522.70825,
+            "token": "mhm"
+        },
+        {
+            "name": "spontB_297_yeah",
+            "start": 524.55,
+            "end": 524.9939999999999,
+            "token": "yeah"
+        }
+    ]
+}

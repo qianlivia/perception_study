@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04900",
+    "context_channel": 0,
+    "context_text": "<B> because um like i was sore or something / <A> uh-huh / <B> used to get a spec specific medication you could take some kind of we could take / <A> yeah / <B> and you know i beat i always beat that test { i } / <A> [ yeah ]",
+    "context_start": 91.33,
+    "context_end": 101.953625,
+    "feedback": [
+        {
+            "name": "spontC_128_uh-huh",
+            "start": 93.78,
+            "end": 94.280875,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontB_297_yeah",
+            "start": 98.46,
+            "end": 98.904,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_097_yeah",
+            "start": 101.38,
+            "end": 101.953625,
+            "token": "yeah"
+        }
+    ]
+}

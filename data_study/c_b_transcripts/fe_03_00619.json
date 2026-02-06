@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00619",
+    "context_channel": 0,
+    "context_text": "<B> was born in um south carolina usa / <A> okay / <B> um but it's interesting you say you're from france my / <A> yeah / <B> mom um i was adopted but my mom my birth mom i know her really well and she is um and i am are originally from france so we { are } / <A> [ oh ] / <B> like yeah like from france directly to new orleans louisiana / <A> aww",
+    "context_start": 177.91,
+    "context_end": 204.51049999999998,
+    "feedback": [
+        {
+            "name": "spontF_280_okay",
+            "start": 182.61,
+            "end": 183.331625,
+            "token": "okay"
+        },
+        {
+            "name": "spontE_003_yeah",
+            "start": 186.61,
+            "end": 186.99437500000002,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_277_oh",
+            "start": 199.02,
+            "end": 199.58825000000002,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_668_aww",
+            "start": 203.89,
+            "end": 204.51049999999998,
+            "token": "aww"
+        }
+    ]
+}

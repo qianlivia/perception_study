@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00729",
+    "context_channel": 1,
+    "context_text": "<A> [ yeah yeah ] i'm not doing this for money but this is my study my area linguistics / <B> yeah / <A> my area that i'm studying right now / <B> yes / <A> that's why it's very interesting { because my } / <B> [ mmm ] / <A> school they don't have this kind of a system but they wanted to know i'm just ah doing a lot of surveys some asian students some hispanic students { i } / <B> [ ah ]",
+    "context_start": 416.35,
+    "context_end": 438.97525,
+    "feedback": [
+        {
+            "name": "spontB_063_yeah",
+            "start": 423.25,
+            "end": 423.697625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_329_yes",
+            "start": 426.12,
+            "end": 426.839625,
+            "token": "yes"
+        },
+        {
+            "name": "Sy_029_mmm",
+            "start": 428.29,
+            "end": 429.16125,
+            "token": "mmm"
+        },
+        {
+            "name": "spontF_629_ah",
+            "start": 438.31,
+            "end": 438.97525,
+            "token": "ah"
+        }
+    ]
+}

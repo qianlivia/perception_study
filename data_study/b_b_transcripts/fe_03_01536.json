@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01536",
+    "context_channel": 1,
+    "context_text": "<A> [ absolutely not only that but i think ] the strikes are the ones that it hurts the little the little guy { i } / <B> [ right ] / <A> mean it puts everybody out of business the people who are selling the hot dogs { and the tee } / <B> [ mhm ] / <A> shirts and the ticker takers and all the people who clean up the restrooms after the games and / <B> aww / <A> all those people what do they do you { know } / <B> [ uh-huh ]",
+    "context_start": 204.69,
+    "context_end": 221.954375,
+    "feedback": [
+        {
+            "name": "spontC_360_right",
+            "start": 209.66,
+            "end": 210.238875,
+            "token": "right"
+        },
+        {
+            "name": "spontB_356_mhm",
+            "start": 213.52,
+            "end": 214.124875,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_322_aww",
+            "start": 219.34,
+            "end": 219.906,
+            "token": "aww"
+        },
+        {
+            "name": "spontE_065_uh-huh",
+            "start": 221.51,
+            "end": 221.954375,
+            "token": "uh-huh"
+        }
+    ]
+}

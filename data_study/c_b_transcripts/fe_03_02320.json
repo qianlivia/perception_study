@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02320",
+    "context_channel": 0,
+    "context_text": "<B> there's some i'll give you an example my sister is a nurse and she brought her kids up using antibiotics / <A> oh / <B> and i didn't bring up my kids using antibiotics they would take vitamins vitamin c and so on { and } / <A> [ okay ] / <B> then there was they were never sick in fact i think i took uh my son when he fell in a barbecue once and it was um when um barbecue 's on the floor he tripped on the mat and that was the only time i had to take him to a doctor but other than that / <A> aww / <B> you know for uh colds flus and that stuff uh nobody has been my children haven't either or i to be honest with you / <A> wow",
+    "context_start": 112.97,
+    "context_end": 151.40412500000002,
+    "feedback": [
+        {
+            "name": "spontF_109_oh",
+            "start": 120.57,
+            "end": 120.9095,
+            "token": "oh"
+        },
+        {
+            "name": "spontC_020_okay",
+            "start": 128.17,
+            "end": 128.64499999999998,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_296_aww",
+            "start": 142.93,
+            "end": 143.515875,
+            "token": "aww"
+        },
+        {
+            "name": "spontF_097_wow",
+            "start": 150.96,
+            "end": 151.40412500000002,
+            "token": "wow"
+        }
+    ]
+}

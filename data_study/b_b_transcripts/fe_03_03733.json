@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_03733",
+    "context_channel": 1,
+    "context_text": "<A> [ yes i was and and ] ev but even as a grad student now i'm making more than that if you average it all out for { the } / <B> [ right ] / <A> work that i do i make way more than that but i still am just on a shoestring all the time / <B> right / <A> because you know i work probably twenty hours a week or more so if you were to you know work that out with minimum wage that's you know over ten dollars an hour / <B> right / <A> technically if it were being paid you know equivalent { of } / <B> [ oh ] / <A> minimum wage amounts per year and and that's still not enough you know { to } / <B> [ yeah ]",
+    "context_start": 122.56,
+    "context_end": 153.004375,
+    "feedback": [
+        {
+            "name": "PR_043_right",
+            "start": 128.99,
+            "end": 129.65,
+            "token": "right"
+        },
+        {
+            "name": "sun1_032_right",
+            "start": 134.88,
+            "end": 135.723375,
+            "token": "right"
+        },
+        {
+            "name": "spontC_360_right",
+            "start": 144.17,
+            "end": 144.748875,
+            "token": "right"
+        },
+        {
+            "name": "spontC_109_oh",
+            "start": 147.14,
+            "end": 147.70499999999998,
+            "token": "oh"
+        },
+        {
+            "name": "spontE_003_yeah",
+            "start": 152.62,
+            "end": 153.004375,
+            "token": "yeah"
+        }
+    ]
+}

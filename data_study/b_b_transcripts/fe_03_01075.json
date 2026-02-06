@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01075",
+    "context_channel": 1,
+    "context_text": "<A> well again you know i i i'm i'm i belong to the atlanta church of christ / <B> yeah / <A> and i'm really a different kind of person now um / <B> uh-huh / <A> i i really really stick to the ten commandments / <B> right / <A> so i i i'm i just i'm not going to do it i'm see the reason i'm not going to do it is i'm going to um you know i i i'm i'll pray to god that god would save my child's life / <B> yeah",
+    "context_start": 80.79,
+    "context_end": 118.644875,
+    "feedback": [
+        {
+            "name": "spontF_659_yeah",
+            "start": 87.93,
+            "end": 88.36025000000001,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_032_uh-huh",
+            "start": 94.11,
+            "end": 94.680625,
+            "token": "uh-huh"
+        },
+        {
+            "name": "sun1_032_right",
+            "start": 99.8,
+            "end": 100.64337499999999,
+            "token": "right"
+        },
+        {
+            "name": "spontB_016_yeah",
+            "start": 118.25,
+            "end": 118.644875,
+            "token": "yeah"
+        }
+    ]
+}

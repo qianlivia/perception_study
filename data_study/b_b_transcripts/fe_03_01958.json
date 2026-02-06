@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01958",
+    "context_channel": 0,
+    "context_text": "<B> or even in ah the securities and exchange commission which { is } / <A> [ okay ] / <B> supposed to regulate them / <A> what / <B> ah because um they so many of these corporations have ties to the government you know and the vice president ah was doing the transition right after election / <A> right / <B> and ah he had a group of ah people coming in to advise him on what energy policies they should promulgate and what legislation they should ask for / <A> mhm",
+    "context_start": 101.75,
+    "context_end": 134.303125,
+    "feedback": [
+        {
+            "name": "spontC_401_okay",
+            "start": 105.9,
+            "end": 106.42937500000001,
+            "token": "okay"
+        },
+        {
+            "name": "Nu_001_what",
+            "start": 107.81,
+            "end": 108.412375,
+            "token": "what"
+        },
+        {
+            "name": "PR_043_right",
+            "start": 122.05,
+            "end": 122.71,
+            "token": "right"
+        },
+        {
+            "name": "spontA_064_mhm",
+            "start": 133.78,
+            "end": 134.303125,
+            "token": "mhm"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_01112",
+    "context_channel": 1,
+    "context_text": "<A> [ mhm ] that ain't got nothing to do with it because they you got an edge on them you know how to go to the library { most } / <B> [ ugh ] / <A> of these young folks they think the internet has everything but you can't trust the internet for all your information { you have to } / <B> [ no ] / <A> actually go physically and look it up plus you already know being older to don't let your pride get in the way / <B> ugh / <A> if you are getting ready to make a c or fail a class { you } / <B> [ uh-huh ] / <A> know you need to get your butt in that professor's office and start sucking up and asking for extra help / <B> yeah",
+    "context_start": 539.27,
+    "context_end": 569.6388750000001,
+    "feedback": [
+        {
+            "name": "spontC_126_ugh",
+            "start": 546.59,
+            "end": 547.360375,
+            "token": "ugh"
+        },
+        {
+            "name": "spontA_112_no",
+            "start": 551.46,
+            "end": 552.273125,
+            "token": "no"
+        },
+        {
+            "name": "spontC_337_ugh",
+            "start": 559.64,
+            "end": 560.245,
+            "token": "ugh"
+        },
+        {
+            "name": "spontA_051_uh-huh",
+            "start": 564.0,
+            "end": 564.55925,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_562_yeah",
+            "start": 569.07,
+            "end": 569.6388750000001,
+            "token": "yeah"
+        }
+    ]
+}

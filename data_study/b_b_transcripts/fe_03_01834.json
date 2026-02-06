@@ -1,0 +1,57 @@
+{
+    "name": "fe_03_01834",
+    "context_channel": 1,
+    "context_text": "<A> i'm a psychology student / <B> okay / <A> and i haven't seen any data to support that argument i would { have } / <B> [ yeah ] / <A> to see ah what i have seen are um is research to the contrary that it is helping students / <B> wow / <A> yeah so unless i see something that i guess because of my nature as a scientist i i have to see proof / <B> right / <A> before i believe it and i just don't believe that that's true i think that um that it may replace television time ah and i think that it's better than that television because it's more interactive i i don't think the television is bad either i don't think pbs is bad for { kids or the } / <B> [ yeah ] / <A> discovery / <B> right / <A> channel / <B> yeah / <A> but um especially what i've seen is that there is a lot of um programming for children with disabilities / <B> uh-huh",
+    "context_start": 378.31,
+    "context_end": 431.98025,
+    "feedback": [
+        {
+            "name": "spontC_172_okay",
+            "start": 380.04,
+            "end": 380.45112500000005,
+            "token": "okay"
+        },
+        {
+            "name": "spontB_016_yeah",
+            "start": 384.73,
+            "end": 385.12487500000003,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_097_wow",
+            "start": 394.18,
+            "end": 394.624125,
+            "token": "wow"
+        },
+        {
+            "name": "PR_043_right",
+            "start": 403.82,
+            "end": 404.48,
+            "token": "right"
+        },
+        {
+            "name": "spontF_221_yeah",
+            "start": 421.73,
+            "end": 422.21562500000005,
+            "token": "yeah"
+        },
+        {
+            "name": "PR_048_right",
+            "start": 422.42,
+            "end": 423.05512500000003,
+            "token": "right"
+        },
+        {
+            "name": "spontB_094_yeah",
+            "start": 423.75,
+            "end": 424.086,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_189_uh-huh",
+            "start": 431.5,
+            "end": 431.98025,
+            "token": "uh-huh"
+        }
+    ]
+}

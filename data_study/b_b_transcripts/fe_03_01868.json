@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_01868",
+    "context_channel": 1,
+    "context_text": "<A> my son and { that's the only child i will ever } / <B> [ yeah ] / <A> have / <B> yeah / <A> but my family my personal family is also not not very involved because my well i'm thirty two and both my mother and father / <B> uh-huh / <A> remarried when they got divorced { and } / <B> [ mmm ] / <A> they i was a single child until i was eighteen until i was seventeen years old { so } / <B> [ ah ]",
+    "context_start": 189.46,
+    "context_end": 213.1875,
+    "feedback": [
+        {
+            "name": "spontA_111_yeah",
+            "start": 190.27,
+            "end": 190.90125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_659_yeah",
+            "start": 191.73,
+            "end": 192.16025,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_386_uh-huh",
+            "start": 204.14,
+            "end": 204.6865,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_137_mmm",
+            "start": 206.41,
+            "end": 207.47125,
+            "token": "mmm"
+        },
+        {
+            "name": "spontA_275_ah",
+            "start": 212.36,
+            "end": 213.1875,
+            "token": "ah"
+        }
+    ]
+}

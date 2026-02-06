@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02028",
+    "context_channel": 1,
+    "context_text": "<A> my um son's grandparents you know they want him to get into this cause my my husband used to do it when you know he was younger / <B> yeah / <A> so they're like oh this is something good experience good experience now so we should take him camping / <B> yeah / <A> and the very first time that i did it we all went like an eight man tent { there } / <B> [ yeah ] / <A> was like six three five of us in that one tent and { it } / <B> [ oh ]",
+    "context_start": 425.53,
+    "context_end": 452.20512499999995,
+    "feedback": [
+        {
+            "name": "spontF_287_yeah",
+            "start": 433.16,
+            "end": 433.79125000000005,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_485_yeah",
+            "start": 438.79,
+            "end": 439.39250000000004,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_139_yeah",
+            "start": 445.6,
+            "end": 446.20637500000004,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_048_oh",
+            "start": 451.46,
+            "end": 452.20512499999995,
+            "token": "oh"
+        }
+    ]
+}

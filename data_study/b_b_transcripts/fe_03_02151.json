@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02151",
+    "context_channel": 0,
+    "context_text": "<B> our perfect meal / <A> okay / <B> all right um i'll tell you one little thing about why i'm having to and really prefer to eat at home lately um my husband is has um being trying to really cut back cause the doctor told him he had to / <A> uh-huh / <B> and you can't eat out / <A> yeah",
+    "context_start": 100.73,
+    "context_end": 120.498125,
+    "feedback": [
+        {
+            "name": "spontC_134_okay",
+            "start": 102.46,
+            "end": 103.267125,
+            "token": "okay"
+        },
+        {
+            "name": "spontA_290_uh-huh",
+            "start": 117.61,
+            "end": 118.10975,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_157_yeah",
+            "start": 119.81,
+            "end": 120.498125,
+            "token": "yeah"
+        }
+    ]
+}

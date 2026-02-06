@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04485",
+    "context_channel": 1,
+    "context_text": "<A> you know it just is going great at home i mean that seems to be very rare / <B> hm / <A> you know and then they get to school and you know mom's here and dad's there and i mean they just come in they're so frazzled and so vulnerable and to to expect a teacher to just be able to handle all of that especially / <B> yeah / <A> for a low wage / <B> hm / <A> you know when we play pay baseball players and basketball players { and } / <B> [ yeah ]",
+    "context_start": 373.61,
+    "context_end": 406.04312500000003,
+    "feedback": [
+        {
+            "name": "spontA_040_hm",
+            "start": 379.81,
+            "end": 380.855875,
+            "token": "hm"
+        },
+        {
+            "name": "spontB_292_yeah",
+            "start": 396.85,
+            "end": 397.42150000000004,
+            "token": "yeah"
+        },
+        {
+            "name": "NS_090_hm",
+            "start": 399.02,
+            "end": 399.87375,
+            "token": "hm"
+        },
+        {
+            "name": "PR_055_yeah",
+            "start": 405.35,
+            "end": 406.04312500000003,
+            "token": "yeah"
+        }
+    ]
+}

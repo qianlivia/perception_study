@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00364",
+    "context_channel": 1,
+    "context_text": "<A> because usually i sit and ride the house / <B> right / <A> yeah actually i went to meditation center / <B> uh-huh / <A> mm maybe for eight months / <B> yeah / <A> ah maybe it was five years ago / <B> mhm",
+    "context_start": 109.37,
+    "context_end": 125.5315,
+    "feedback": [
+        {
+            "name": "spontC_360_right",
+            "start": 112.97,
+            "end": 113.548875,
+            "token": "right"
+        },
+        {
+            "name": "spontE_065_uh-huh",
+            "start": 117.79,
+            "end": 118.234375,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontB_252_yeah",
+            "start": 120.94,
+            "end": 121.56099999999999,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_111_mhm",
+            "start": 125.1,
+            "end": 125.5315,
+            "token": "mhm"
+        }
+    ]
+}

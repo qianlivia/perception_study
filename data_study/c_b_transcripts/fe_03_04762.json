@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04762",
+    "context_channel": 0,
+    "context_text": "<B> when i came to college you know try something new { and ah } / <A> [ jeez ] / <B> everybody / <A> yeah / <B> else was smoking so { i } / <A> [ ugh ]",
+    "context_start": 374.4,
+    "context_end": 381.660375,
+    "feedback": [
+        {
+            "name": "NegS_069_jeez",
+            "start": 377.23,
+            "end": 378.474375,
+            "token": "jeez"
+        },
+        {
+            "name": "spontB_016_yeah",
+            "start": 378.21,
+            "end": 378.604875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_126_ugh",
+            "start": 380.89,
+            "end": 381.660375,
+            "token": "ugh"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03135",
+    "context_channel": 0,
+    "context_text": "<B> and then you know since the bird can't move any more cause its spinal cord is broken / <A> right / <B> it just sucks out the insides / <A> uh-huh / <B> so yeah there is um unsightly scooping needed / <A> yeah",
+    "context_start": 413.41,
+    "context_end": 424.674875,
+    "feedback": [
+        {
+            "name": "spontC_360_right",
+            "start": 417.69,
+            "end": 418.268875,
+            "token": "right"
+        },
+        {
+            "name": "spontD_040_uh-huh",
+            "start": 419.61,
+            "end": 420.0675,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontB_016_yeah",
+            "start": 424.28,
+            "end": 424.674875,
+            "token": "yeah"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "name": "fe_03_03206",
+    "context_channel": 0,
+    "context_text": "<B> uh it's good i used to have also a my parents had a cocker spaniel / <A> uh-huh / <B> and uh that was a good dog that was a nice dog it was blind / <A> oh / <B> but uh it would love to play ball it would love it just take the ball and { and it } / <A> [ oh ] / <B> would take it a long time to find the ball because it was blind like i said / <A> ah / <B> like it it would smell you know the scent it would { smell the } / <A> [ yeah ] / <B> ball out and go find it and it would love bringing it back up to you and do it all over and over and over and over { for } / <A> [ yeah ]",
+    "context_start": 178.3,
+    "context_end": 204.31237499999997,
+    "feedback": [
+        {
+            "name": "spontC_128_uh-huh",
+            "start": 183.16,
+            "end": 183.660875,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_017_oh",
+            "start": 186.87,
+            "end": 187.699375,
+            "token": "oh"
+        },
+        {
+            "name": "spontE_048_oh",
+            "start": 191.63,
+            "end": 192.375125,
+            "token": "oh"
+        },
+        {
+            "name": "spontE_232_ah",
+            "start": 194.87,
+            "end": 195.85075,
+            "token": "ah"
+        },
+        {
+            "name": "spontF_140_yeah",
+            "start": 197.59,
+            "end": 198.4,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_324_yeah",
+            "start": 203.45,
+            "end": 204.31237499999997,
+            "token": "yeah"
+        }
+    ]
+}

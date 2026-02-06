@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03872",
+    "context_channel": 1,
+    "context_text": "<A> if it's appropriate / <B> really / <A> for for whom the comedy / <B> right / <A> is whether it's a movie or / <B> mhm",
+    "context_start": 79.05,
+    "context_end": 88.400375,
+    "feedback": [
+        {
+            "name": "PS_070_really",
+            "start": 79.51,
+            "end": 80.198625,
+            "token": "really"
+        },
+        {
+            "name": "PR_043_right",
+            "start": 84.66,
+            "end": 85.32,
+            "token": "right"
+        },
+        {
+            "name": "spontB_225_mhm",
+            "start": 87.86,
+            "end": 88.400375,
+            "token": "mhm"
+        }
+    ]
+}

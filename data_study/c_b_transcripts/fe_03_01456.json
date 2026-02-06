@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_01456",
+    "context_channel": 1,
+    "context_text": "<A> thing and uh but m um my travel plans have not changed and / <B> no / <A> things like that that people say well it was affected this this this and / <B> yeah / <A> this and really i've gone on with my life and { my } / <B> [ okay ] / <A> plans and what i should you know do / <B> uh-huh / <A> i might think about a little bit okay now what if i was cut off with my water and my / <B> yeah",
+    "context_start": 422.69,
+    "context_end": 445.432,
+    "feedback": [
+        {
+            "name": "spontF_264_no",
+            "start": 428.09,
+            "end": 428.627125,
+            "token": "no"
+        },
+        {
+            "name": "spontA_382_yeah",
+            "start": 432.14,
+            "end": 432.714625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_028_okay",
+            "start": 436.19,
+            "end": 436.62325,
+            "token": "okay"
+        },
+        {
+            "name": "spontE_070_uh-huh",
+            "start": 438.76,
+            "end": 439.23474999999996,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_127_yeah",
+            "start": 444.73,
+            "end": 445.432,
+            "token": "yeah"
+        }
+    ]
+}

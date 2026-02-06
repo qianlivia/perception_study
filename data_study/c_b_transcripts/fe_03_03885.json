@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03885",
+    "context_channel": 1,
+    "context_text": "<A> and it's a shame because uh when i think of my parents watching show and many / <B> uh-huh / <A> other programs you know that they came on and they were clean and the whole family could watch them and you { still } / <B> [ yeah ] / <A> laughed and it was hysterical yet um now i see how things have changed and { it's } / <B> [ mmm ] / <A> really sad { i don't } / <B> [ yup ]",
+    "context_start": 308.89,
+    "context_end": 329.82300000000004,
+    "feedback": [
+        {
+            "name": "spontE_065_uh-huh",
+            "start": 314.17,
+            "end": 314.614375,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_140_yeah",
+            "start": 321.43,
+            "end": 322.24,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_107_mmm",
+            "start": 327.54,
+            "end": 328.35225,
+            "token": "mmm"
+        },
+        {
+            "name": "sun_043_yup",
+            "start": 329.1,
+            "end": 329.82300000000004,
+            "token": "yup"
+        }
+    ]
+}

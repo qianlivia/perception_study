@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_04062",
+    "context_channel": 1,
+    "context_text": "<A> yeah if you go by yourself yes but i i think if you go with a travel agent it's the same as if you go to an airline with a travel agent / <B> mhm / <A> you can get a price / <B> yeah / <A> because you say okay i will try to get let's just put put a number a thousand passengers a year or two thousand passengers a year / <B> uh-huh / <A> yeah you should you should be able to get a price { and i } / <B> [ yeah ] / <A> know from the airline industry / <B> uh-huh",
+    "context_start": 514.67,
+    "context_end": 536.7835,
+    "feedback": [
+        {
+            "name": "spontB_200_mhm",
+            "start": 521.0,
+            "end": 521.533875,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_319_yeah",
+            "start": 522.62,
+            "end": 523.1095,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_040_uh-huh",
+            "start": 530.72,
+            "end": 531.1775,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_225_yeah",
+            "start": 534.17,
+            "end": 534.7696249999999,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_286_uh-huh",
+            "start": 536.26,
+            "end": 536.7835,
+            "token": "uh-huh"
+        }
+    ]
+}

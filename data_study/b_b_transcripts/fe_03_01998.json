@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01998",
+    "context_channel": 1,
+    "context_text": "<A> well and the other way that they're affected too is the fact that people like you and me ah typically become more ah more distrusting / <B> right / <A> of corporate america in general i know i'm more distrusting that alone with the fact that we know that well along with the fact that i was reading not long ago that a lot of the ah the top level managers in corporations get these huge bonuses besides already being paid really really well in addition to that they get these big big big bonuses for / <B> ooh / <A> meeting certain goals / <B> right / <A> and even when their when their jobs are eliminated they're the first ones who are um provided for i mean it's like screw all the rest of you { you know all } / <B> [ right ]",
+    "context_start": 272.69,
+    "context_end": 323.40887499999997,
+    "feedback": [
+        {
+            "name": "sun1_032_right",
+            "start": 282.78,
+            "end": 283.62337499999995,
+            "token": "right"
+        },
+        {
+            "name": "spontB_350_ooh",
+            "start": 309.05,
+            "end": 309.6295,
+            "token": "ooh"
+        },
+        {
+            "name": "PR_043_right",
+            "start": 310.61,
+            "end": 311.27000000000004,
+            "token": "right"
+        },
+        {
+            "name": "spontC_360_right",
+            "start": 322.83,
+            "end": 323.40887499999997,
+            "token": "right"
+        }
+    ]
+}

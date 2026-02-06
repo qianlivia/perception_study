@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03173",
+    "context_channel": 1,
+    "context_text": "<A> you know they're more aware of how how to treat it and / <B> mhm / <A> how to act around it / <B> right / <A> you know and it's good to get you know like probably a puppy when they're small too { so } / <B> [ yeah ] / <A> they can get used to each other's size together and / <B> yeah",
+    "context_start": 164.57,
+    "context_end": 180.65025,
+    "feedback": [
+        {
+            "name": "spontA_390_mhm",
+            "start": 168.26,
+            "end": 169.03212499999998,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_360_right",
+            "start": 170.72,
+            "end": 171.298875,
+            "token": "right"
+        },
+        {
+            "name": "spontB_276_yeah",
+            "start": 176.86,
+            "end": 177.171875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_659_yeah",
+            "start": 180.22,
+            "end": 180.65025,
+            "token": "yeah"
+        }
+    ]
+}

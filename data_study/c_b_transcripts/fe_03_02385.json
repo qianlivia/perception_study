@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02385",
+    "context_channel": 0,
+    "context_text": "<B> cartons here are over thirty dollars i { smoke } / <A> [ wow ] / <B> really the cheapest cigarettes i can find and i you know because they're always coming out with new ones / <A> yeah / <B> i go into the store i just say what's your cheapest carton of cigarettes / <A> yeah",
+    "context_start": 523.33,
+    "context_end": 537.99125,
+    "feedback": [
+        {
+            "name": "PS_038_wow",
+            "start": 527.22,
+            "end": 528.57575,
+            "token": "wow"
+        },
+        {
+            "name": "spontF_485_yeah",
+            "start": 532.78,
+            "end": 533.3824999999999,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_287_yeah",
+            "start": 537.36,
+            "end": 537.99125,
+            "token": "yeah"
+        }
+    ]
+}

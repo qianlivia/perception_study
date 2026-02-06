@@ -1,0 +1,45 @@
+{
+    "name": "fe_03_04302",
+    "context_channel": 1,
+    "context_text": "<A> [ so oh i know ] so that's kind of what i i feel like well had i just done it right from the beginning { we } / <B> [ uh-oh ] / <A> wouldn't be paying student loans / <B> right / <A> you know we i'd be making a lot more money at this point / <B> yeah / <A> you know things would just be further along / <B> right / <A> than they are but you know a lesson learned you know i don't think uh kids should be pushed that hard { but i think you know } / <B> [ exactly ] / <A> like what you did is g going into the military / <B> uh-huh",
+    "context_start": 532.12,
+    "context_end": 558.266125,
+    "feedback": [
+        {
+            "name": "PS_168_uh-oh",
+            "start": 538.24,
+            "end": 539.176125,
+            "token": "uh-oh"
+        },
+        {
+            "name": "sun1_032_right",
+            "start": 540.9,
+            "end": 541.743375,
+            "token": "right"
+        },
+        {
+            "name": "spontF_491_yeah",
+            "start": 544.07,
+            "end": 544.836625,
+            "token": "yeah"
+        },
+        {
+            "name": "PR_043_right",
+            "start": 547.18,
+            "end": 547.8399999999999,
+            "token": "right"
+        },
+        {
+            "name": "sun_041_exactly",
+            "start": 554.98,
+            "end": 555.933,
+            "token": "exactly"
+        },
+        {
+            "name": "spontD_380_uh-huh",
+            "start": 557.75,
+            "end": 558.266125,
+            "token": "uh-huh"
+        }
+    ]
+}

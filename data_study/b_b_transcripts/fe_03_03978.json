@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_03978",
+    "context_channel": 1,
+    "context_text": "<A> well actually they don't they they have quite a volume i mean we've got an enormous uh area here in texas that's called the hill country / <B> ooh / <A> and what it is is it's basically uh oh kind of a geological band between what in in uh east texas is very flat including the houston area { and then } / <B> [ huh ] / <A> when you move out to west texas you actually get some mountains that go up to seven eight and nine thousand feet / <B> uh-huh / <A> but transiting between these two plains you've got what we call the hill country and everybody and their mother's trying to grow wine there / <B> uh-huh / <A> and there are actually about six or seven uh what do you call vintner someone that sells / <B> yeah",
+    "context_start": 340.84,
+    "context_end": 388.734875,
+    "feedback": [
+        {
+            "name": "spontC_377_ooh",
+            "start": 350.08,
+            "end": 350.93025,
+            "token": "ooh"
+        },
+        {
+            "name": "Nu_012_huh",
+            "start": 363.82,
+            "end": 364.575625,
+            "token": "huh"
+        },
+        {
+            "name": "spontC_136_uh-huh",
+            "start": 370.85,
+            "end": 371.353,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_347_uh-huh",
+            "start": 380.71,
+            "end": 381.25325,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontB_016_yeah",
+            "start": 388.34,
+            "end": 388.734875,
+            "token": "yeah"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00562",
+    "context_channel": 1,
+    "context_text": "<A> that was really / <B> yeah / <A> you know what is two plus two / <B> yeah / <A> just so that they will win / <B> yeah",
+    "context_start": 234.38,
+    "context_end": 252.418375,
+    "feedback": [
+        {
+            "name": "spontA_195_yeah",
+            "start": 242.71,
+            "end": 243.142625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_287_yeah",
+            "start": 249.61,
+            "end": 250.06775000000002,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_295_yeah",
+            "start": 251.9,
+            "end": 252.418375,
+            "token": "yeah"
+        }
+    ]
+}

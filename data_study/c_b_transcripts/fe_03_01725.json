@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_01725",
+    "context_channel": 0,
+    "context_text": "<B> you know / <A> yeah / <B> we have everything and they don't have those countries that don't have anything cough / <A> yeah / <B> that's why everybody { wants to } / <A> [ yuh ]",
+    "context_start": 182.24,
+    "context_end": 189.3915,
+    "feedback": [
+        {
+            "name": "spontB_226_yeah",
+            "start": 183.35,
+            "end": 183.799,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_295_yeah",
+            "start": 186.71,
+            "end": 187.228375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_089_yuh",
+            "start": 188.84,
+            "end": 189.3915,
+            "token": "yuh"
+        }
+    ]
+}

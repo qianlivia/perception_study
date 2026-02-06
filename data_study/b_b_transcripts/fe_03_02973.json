@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02973",
+    "context_channel": 1,
+    "context_text": "<A> up there what let me see what else and i like the uh the dodgers at times / <B> uh-huh / <A> you know and i like it when they play the san francisco giants / <B> yeah / <A> um that's kinda fun and then different teams um you know just sometimes i watch the angels it { just } / <B> [ yeah ] / <A> depends if there's nothing else on i'll watch for five minutes i don't really get into football tennis i can do that uh { for a little } / <B> [ uh-huh ]",
+    "context_start": 153.82,
+    "context_end": 184.527875,
+    "feedback": [
+        {
+            "name": "spontC_095_uh-huh",
+            "start": 159.62,
+            "end": 160.155875,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontB_016_yeah",
+            "start": 164.46,
+            "end": 164.85487500000002,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_382_yeah",
+            "start": 174.72,
+            "end": 175.149375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_372_uh-huh",
+            "start": 184.06,
+            "end": 184.527875,
+            "token": "uh-huh"
+        }
+    ]
+}

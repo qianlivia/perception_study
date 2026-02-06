@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00110",
+    "context_channel": 1,
+    "context_text": "<A> [ um my concern ] is that um europe or at least before the um arms inspection were going in when the us was talking about attacking it in october / <B> oh / <A> um europe had kind of said as a whole that they would not support an invasion of iraq / <B> mhm / <A> and that it would be a us led attack / <B> uh-huh / <A> and that kind of gets me concerned about um you know whether or not that this is really a a legitimate thing if if other you know world powers are not willing to step in / <B> yes",
+    "context_start": 424.31,
+    "context_end": 455.487625,
+    "feedback": [
+        {
+            "name": "spontF_109_oh",
+            "start": 433.26,
+            "end": 433.5995,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_311_mhm",
+            "start": 439.19,
+            "end": 439.690125,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_037_uh-huh",
+            "start": 441.2,
+            "end": 441.76625,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontB_368_yes",
+            "start": 454.63,
+            "end": 455.487625,
+            "token": "yes"
+        }
+    ]
+}

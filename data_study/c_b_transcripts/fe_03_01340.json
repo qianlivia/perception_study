@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_01340",
+    "context_channel": 0,
+    "context_text": "<B> and they're reading a book { that } / <A> [ uh-huh ] / <B> um you know either the librarian or the teacher said you know ever so often you know come by on me and kind of acknowledge the kind of book they're reading / <A> uh-huh / <B> and what it's about / <A> yeah",
+    "context_start": 451.58,
+    "context_end": 466.0035,
+    "feedback": [
+        {
+            "name": "spontA_086_uh-huh",
+            "start": 452.89,
+            "end": 453.400125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_128_uh-huh",
+            "start": 463.88,
+            "end": 464.380875,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_380_yeah",
+            "start": 465.39,
+            "end": 466.0035,
+            "token": "yeah"
+        }
+    ]
+}

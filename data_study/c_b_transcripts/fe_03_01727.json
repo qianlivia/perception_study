@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01727",
+    "context_channel": 0,
+    "context_text": "<B> yes military bases there's camp pendleton which is marines we have a navy base / <A> oh / <B> we um have you know a norfolk terminal which all the aircraft carriers come into / <A> uh-huh / <B> so it's very military down here and so i sup sup support the war and i support our troops / <A> mhm / <B> um you know i feel bad for the people over there in iraq / <A> mhm",
+    "context_start": 220.28,
+    "context_end": 248.897875,
+    "feedback": [
+        {
+            "name": "spontF_109_oh",
+            "start": 226.72,
+            "end": 227.05949999999999,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_559_uh-huh",
+            "start": 234.82,
+            "end": 235.30075,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_115_mhm",
+            "start": 242.99,
+            "end": 243.47987500000002,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_379_mhm",
+            "start": 248.38,
+            "end": 248.897875,
+            "token": "mhm"
+        }
+    ]
+}

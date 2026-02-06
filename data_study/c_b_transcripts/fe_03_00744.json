@@ -1,0 +1,51 @@
+{
+    "name": "fe_03_00744",
+    "context_channel": 1,
+    "context_text": "<A> i work with cancer patients on a daily basis / <B> oh / <A> i work in hospice usually / <B> wow / <A> and i tell people you you can make this the worst thing in your life or the best thing in your life it's really up to you / <B> yeah / <A> you know well give me an example okay uh nurses came in one day you know mr hansen your blood pressure is way out of control your sugar's out of control you're dying i thought oh crap i hate dying you know it ruins your whole day / <B> yeah / <A> and i'm like aren't you worried about it i'm very concerned but i'm not going to panic about it okay panic is not my middle name any more used to you know but through cancer i've learned a you know life really dos doesn't matter all that much / <B> yeah / <A> in forty years who really cares if you were vice president of operations who really cares if you developed a new system for nuc who really cares / <B> yeah / <A> that's my point now you know does it really matter i was in taking chemotherapy one day and a guy a guy was just raising hell about if he dies he's okay his wife won't get those damned dishes and i thought who cares about the dishes you're dying okay make this the best thing or the worst thing of your life / <B> yeah",
+    "context_start": 371.21,
+    "context_end": 444.43925,
+    "feedback": [
+        {
+            "name": "spontF_017_oh",
+            "start": 373.26,
+            "end": 374.089375,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_097_wow",
+            "start": 375.53,
+            "end": 375.97412499999996,
+            "token": "wow"
+        },
+        {
+            "name": "spontF_485_yeah",
+            "start": 382.76,
+            "end": 383.3625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_287_yeah",
+            "start": 399.28,
+            "end": 399.91125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_382_yeah",
+            "start": 415.95,
+            "end": 416.524625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_025_yeah",
+            "start": 424.48,
+            "end": 425.005875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_382_yeah",
+            "start": 443.86,
+            "end": 444.43925,
+            "token": "yeah"
+        }
+    ]
+}

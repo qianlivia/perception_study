@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_02133",
+    "context_channel": 0,
+    "context_text": "<B> about going they'd been advertising their steak / <A> uh-huh / <B> and um we were driving by yesterday and ah we'll have to stop in and see what they've got / <A> yeah / <B> and i s looked at the thing and they had a special menu for um for steak and shrim shrimp / <A> uh-huh / <B> they also had f fillet mignon and new york strip / <A> aww / <B> but i though i'd try i like sirloin very much / <A> yeah",
+    "context_start": 231.22,
+    "context_end": 262.92125000000004,
+    "feedback": [
+        {
+            "name": "spontC_128_uh-huh",
+            "start": 234.69,
+            "end": 235.190875,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_380_yeah",
+            "start": 244.47,
+            "end": 245.0835,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_132_uh-huh",
+            "start": 252.82,
+            "end": 253.41912499999998,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_296_aww",
+            "start": 258.63,
+            "end": 259.215875,
+            "token": "aww"
+        },
+        {
+            "name": "spontF_287_yeah",
+            "start": 262.29,
+            "end": 262.92125000000004,
+            "token": "yeah"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03263",
+    "context_channel": 1,
+    "context_text": "<A> yeah yeah and watching too do / <B> ugh / <A> you watch / <B> no / <A> in uh pnt / <B> no / <A> yeah i watch that too { i } / <B> [ yeah ]",
+    "context_start": 508.91,
+    "context_end": 521.034625,
+    "feedback": [
+        {
+            "name": "spontF_389_ugh",
+            "start": 513.42,
+            "end": 513.8294999999999,
+            "token": "ugh"
+        },
+        {
+            "name": "spontF_264_no",
+            "start": 516.15,
+            "end": 516.6871249999999,
+            "token": "no"
+        },
+        {
+            "name": "spontE_345_no",
+            "start": 518.46,
+            "end": 519.2145,
+            "token": "no"
+        },
+        {
+            "name": "spontA_382_yeah",
+            "start": 520.46,
+            "end": 521.034625,
+            "token": "yeah"
+        }
+    ]
+}

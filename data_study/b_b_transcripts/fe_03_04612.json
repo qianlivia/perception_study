@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04612",
+    "context_channel": 1,
+    "context_text": "<A> ah there are some available but { i } / <B> [ okay ] / <A> just i i tried it a while ago and it just didn't work out very well and { it } / <B> [ okay ] / <A> was hard to get games for it and stuff so { i } / <B> [ okay ]",
+    "context_start": 337.0,
+    "context_end": 346.85325,
+    "feedback": [
+        {
+            "name": "spontE_391_okay",
+            "start": 339.01,
+            "end": 339.526875,
+            "token": "okay"
+        },
+        {
+            "name": "spontD_022_okay",
+            "start": 343.85,
+            "end": 344.319,
+            "token": "okay"
+        },
+        {
+            "name": "spontB_028_okay",
+            "start": 346.42,
+            "end": 346.85325,
+            "token": "okay"
+        }
+    ]
+}

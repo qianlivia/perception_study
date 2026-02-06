@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03903",
+    "context_channel": 1,
+    "context_text": "<A> you know with the like i said with like the blowing up or like they're cussing / <B> ugh / <A> you know and / <B> yeah / <A> i like the i don't know whether you remember the beavis and butthead / <B> yeah",
+    "context_start": 353.89,
+    "context_end": 363.415,
+    "feedback": [
+        {
+            "name": "spontF_389_ugh",
+            "start": 358.15,
+            "end": 358.55949999999996,
+            "token": "ugh"
+        },
+        {
+            "name": "spontE_067_yeah",
+            "start": 359.73,
+            "end": 360.324875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_043_yeah",
+            "start": 362.88,
+            "end": 363.415,
+            "token": "yeah"
+        }
+    ]
+}

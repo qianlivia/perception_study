@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02961",
+    "context_channel": 0,
+    "context_text": "<B> cause it's oklahoma doesn't have an nfl team { and the } / <A> [ no ] / <B> closest we have is kansas city chiefs to the north of us / <A> yeah / <B> the arizona cardinals to the west of us / <A> yeah",
+    "context_start": 189.86,
+    "context_end": 202.824625,
+    "feedback": [
+        {
+            "name": "spontA_112_no",
+            "start": 193.42,
+            "end": 194.233125,
+            "token": "no"
+        },
+        {
+            "name": "spontC_405_yeah",
+            "start": 198.79,
+            "end": 199.40625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_382_yeah",
+            "start": 202.25,
+            "end": 202.824625,
+            "token": "yeah"
+        }
+    ]
+}

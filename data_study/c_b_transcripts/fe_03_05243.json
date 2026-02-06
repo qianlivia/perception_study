@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_05243",
+    "context_channel": 0,
+    "context_text": "<B> think it's in bars / <A> yeah / <B> um in restaurants certainly / <A> yeah / <B> and um the city council just voted to make it illegal / <A> okay",
+    "context_start": 138.82,
+    "context_end": 148.16199999999998,
+    "feedback": [
+        {
+            "name": "spontF_562_yeah",
+            "start": 139.97,
+            "end": 140.538875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_485_yeah",
+            "start": 143.13,
+            "end": 143.7325,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_286_okay",
+            "start": 147.51,
+            "end": 148.16199999999998,
+            "token": "okay"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03758",
+    "context_channel": 1,
+    "context_text": "<A> you know they have all those commercials about american made clothes and you can get / <B> yeah / <A> children i mean it's just horrible / <B> yeah / <A> you know it's it's horrible for children to have to work slave labor { you } / <B> [ yeah ] / <A> know and / <B> yeah",
+    "context_start": 494.05,
+    "context_end": 508.231875,
+    "feedback": [
+        {
+            "name": "spontB_016_yeah",
+            "start": 497.74,
+            "end": 498.134875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_382_yeah",
+            "start": 500.09,
+            "end": 500.66925,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_300_yeah",
+            "start": 506.32,
+            "end": 506.810625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_393_yeah",
+            "start": 507.73,
+            "end": 508.231875,
+            "token": "yeah"
+        }
+    ]
+}

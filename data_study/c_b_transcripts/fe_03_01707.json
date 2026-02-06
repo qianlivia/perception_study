@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_01707",
+    "context_channel": 0,
+    "context_text": "<B> i think they could be a threat to us / <A> yes / <B> cause they didn't like what we did but again i don't feel i think they could maybe hit us with something / <A> yeah / <B> but i don't think they could win a war either / <A> no",
+    "context_start": 210.4,
+    "context_end": 222.283125,
+    "feedback": [
+        {
+            "name": "spontB_368_yes",
+            "start": 212.32,
+            "end": 213.177625,
+            "token": "yes"
+        },
+        {
+            "name": "spontA_382_yeah",
+            "start": 218.65,
+            "end": 219.224625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_112_no",
+            "start": 221.47,
+            "end": 222.283125,
+            "token": "no"
+        }
+    ]
+}

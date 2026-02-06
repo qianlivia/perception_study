@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_05013",
+    "context_channel": 1,
+    "context_text": "<A> and uh we're we're uh senior citizens / <B> okay / <A> so we don't really do that much uh travelling or anything but we have uh we have gone we we went on a vacation a couple of times we took our grandkids to uh disneyworld { and we } / <B> [ okay ] / <A> were a little scared of that uh so we that's the only time we've flown is when we went to disneyworld / <B> okay / <A> and uh you know the s the security and everything is just scary with the how they handle everything but they do a good job but all in all i would say we really haven't changed our lifestyle you know we're concerned { but } / <B> [ okay ]",
+    "context_start": 83.59,
+    "context_end": 120.70512500000001,
+    "feedback": [
+        {
+            "name": "spontC_172_okay",
+            "start": 86.54,
+            "end": 86.951125,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_317_okay",
+            "start": 99.73,
+            "end": 100.58200000000001,
+            "token": "okay"
+        },
+        {
+            "name": "spontC_134_okay",
+            "start": 106.11,
+            "end": 106.917125,
+            "token": "okay"
+        },
+        {
+            "name": "spontD_089_okay",
+            "start": 119.9,
+            "end": 120.70512500000001,
+            "token": "okay"
+        }
+    ]
+}

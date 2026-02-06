@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02686",
+    "context_channel": 0,
+    "context_text": "<B> well because i mean first of all it's it's like i live in new york city i live in { manhattan } / <A> [ uh-oh ] / <B> and holidays is when i don't do anything / <A> oh / <B> because everyone wants to do something you know i mean i won't travel on holidays cause everybody else travels / <A> yeah / <B> and i don't go out drinking like on new year's or fourth of july or any of those cause that's when amateurs go out and drink / <A> yeah",
+    "context_start": 15.69,
+    "context_end": 34.94499999999999,
+    "feedback": [
+        {
+            "name": "NegS_054_uh-oh",
+            "start": 19.7,
+            "end": 20.680374999999998,
+            "token": "uh-oh"
+        },
+        {
+            "name": "spontF_017_oh",
+            "start": 23.36,
+            "end": 24.189375,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_287_yeah",
+            "start": 28.31,
+            "end": 28.94125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_043_yeah",
+            "start": 34.41,
+            "end": 34.94499999999999,
+            "token": "yeah"
+        }
+    ]
+}

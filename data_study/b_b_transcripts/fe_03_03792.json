@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03792",
+    "context_channel": 1,
+    "context_text": "<A> and it's just not funny any more / <B> no / <A> bu she watches nick at night too when we come over and sometimes you know catch the i think those / <B> uh-huh / <A> are pretty funny but / <B> yeah / <A> we don't have that station where we are so / <B> okay",
+    "context_start": 256.5,
+    "context_end": 272.437625,
+    "feedback": [
+        {
+            "name": "NR_036_no",
+            "start": 260.76,
+            "end": 261.449375,
+            "token": "no"
+        },
+        {
+            "name": "spontB_002_uh-huh",
+            "start": 267.05,
+            "end": 267.53025,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontB_097_yeah",
+            "start": 269.37,
+            "end": 269.943625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_018_okay",
+            "start": 271.87,
+            "end": 272.437625,
+            "token": "okay"
+        }
+    ]
+}

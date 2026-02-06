@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03465",
+    "context_channel": 1,
+    "context_text": "<A> um they're talking about what's the most important thing in a life partner / <B> okay / <A> and i'm thirty about to be thirty five i've been { with } / <B> [ okay ] / <A> the same girl for more than twelve years { and we're } / <B> [ what ] / <A> still not married / <B> okay",
+    "context_start": 13.35,
+    "context_end": 29.347625,
+    "feedback": [
+        {
+            "name": "spontC_134_okay",
+            "start": 18.9,
+            "end": 19.707124999999998,
+            "token": "okay"
+        },
+        {
+            "name": "spontC_286_okay",
+            "start": 23.27,
+            "end": 23.922,
+            "token": "okay"
+        },
+        {
+            "name": "NegS_063_what",
+            "start": 26.99,
+            "end": 27.91425,
+            "token": "what"
+        },
+        {
+            "name": "spontB_018_okay",
+            "start": 28.78,
+            "end": 29.347625,
+            "token": "okay"
+        }
+    ]
+}

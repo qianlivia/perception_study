@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04805",
+    "context_channel": 1,
+    "context_text": "<A> i don't like smoking when i'm eating / <B> yeah / <A> and the smell of it if it's right on top of me / <B> yeah / <A> kind of bothers me when i'm eating / <B> yeah / <A> but i know after i've eaten i want that cigarette { actually i } / <B> [ uh-huh ]",
+    "context_start": 198.38,
+    "context_end": 211.199125,
+    "feedback": [
+        {
+            "name": "spontD_382_yeah",
+            "start": 200.79,
+            "end": 201.21937499999999,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_016_yeah",
+            "start": 204.87,
+            "end": 205.26487500000002,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_300_yeah",
+            "start": 207.41,
+            "end": 207.900625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_081_uh-huh",
+            "start": 210.69,
+            "end": 211.199125,
+            "token": "uh-huh"
+        }
+    ]
+}

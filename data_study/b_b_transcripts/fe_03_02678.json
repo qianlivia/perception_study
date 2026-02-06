@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02678",
+    "context_channel": 0,
+    "context_text": "<B> kids run out and get candy and adults dress up and go out in / <A> yeah / <B> costumes / <A> yeah / <B> so yeah that's a good one my favorite one is christmas / <A> yeah",
+    "context_start": 37.32,
+    "context_end": 47.769125,
+    "feedback": [
+        {
+            "name": "spontB_097_yeah",
+            "start": 40.62,
+            "end": 41.193625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_168_yeah",
+            "start": 42.93,
+            "end": 43.636125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_053_yeah",
+            "start": 47.27,
+            "end": 47.769125,
+            "token": "yeah"
+        }
+    ]
+}

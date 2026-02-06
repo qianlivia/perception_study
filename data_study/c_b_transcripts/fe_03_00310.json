@@ -1,0 +1,45 @@
+{
+    "name": "fe_03_00310",
+    "context_channel": 1,
+    "context_text": "<A> but i i guess what i was trying to get at was that if there was a tiered process / <B> oh / <A> the technology should be in place / <B> uh-huh / <A> to be able to screen you if you do have traces of um / <B> right / <A> explosives on you or / <B> yeah / <A> contraband or whatever the case may be / <B> mhm / <A> um and i i i think that if you are going into a public arena / <B> ooh",
+    "context_start": 666.28,
+    "context_end": 689.79725,
+    "feedback": [
+        {
+            "name": "spontF_109_oh",
+            "start": 671.73,
+            "end": 672.0695000000001,
+            "token": "oh"
+        },
+        {
+            "name": "spontE_227_uh-huh",
+            "start": 674.17,
+            "end": 674.5916249999999,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_360_right",
+            "start": 678.22,
+            "end": 678.7988750000001,
+            "token": "right"
+        },
+        {
+            "name": "spontB_276_yeah",
+            "start": 679.89,
+            "end": 680.201875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_311_mhm",
+            "start": 682.66,
+            "end": 683.160125,
+            "token": "mhm"
+        },
+        {
+            "name": "spontE_237_ooh",
+            "start": 689.42,
+            "end": 689.79725,
+            "token": "ooh"
+        }
+    ]
+}

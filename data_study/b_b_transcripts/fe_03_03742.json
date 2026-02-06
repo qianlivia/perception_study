@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03742",
+    "context_channel": 0,
+    "context_text": "<B> well i make minimum wage uh uh officially as / <A> right / <B> part of my waitress job { but yeah } / <A> [ right ] / <B> you get tips on top of that but the restaurant will only pay you minimum wage so i know / <A> right / <B> it's seventy five / <A> yeah",
+    "context_start": 36.82,
+    "context_end": 48.731875,
+    "feedback": [
+        {
+            "name": "spontC_360_right",
+            "start": 41.27,
+            "end": 41.84887500000001,
+            "token": "right"
+        },
+        {
+            "name": "sun1_032_right",
+            "start": 43.35,
+            "end": 44.193375,
+            "token": "right"
+        },
+        {
+            "name": "PR_043_right",
+            "start": 46.82,
+            "end": 47.48,
+            "token": "right"
+        },
+        {
+            "name": "spontB_276_yeah",
+            "start": 48.42,
+            "end": 48.731875,
+            "token": "yeah"
+        }
+    ]
+}

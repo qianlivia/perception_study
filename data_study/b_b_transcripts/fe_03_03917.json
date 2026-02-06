@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03917",
+    "context_channel": 0,
+    "context_text": "<B> i'm fifty two so i've / <A> yeah / <B> seen the when comedy first came on / <A> right / <B> television and i was younger where my kids are now / <A> right / <B> and what they're showing now and ah there's quite a swing / <A> yeah",
+    "context_start": 137.15,
+    "context_end": 152.65787500000002,
+    "feedback": [
+        {
+            "name": "spontD_397_yeah",
+            "start": 138.64,
+            "end": 139.02137499999998,
+            "token": "yeah"
+        },
+        {
+            "name": "PR_043_right",
+            "start": 143.3,
+            "end": 143.96,
+            "token": "right"
+        },
+        {
+            "name": "spontC_360_right",
+            "start": 147.28,
+            "end": 147.858875,
+            "token": "right"
+        },
+        {
+            "name": "spontA_414_yeah",
+            "start": 152.18,
+            "end": 152.65787500000002,
+            "token": "yeah"
+        }
+    ]
+}

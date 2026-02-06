@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04244",
+    "context_channel": 0,
+    "context_text": "<B> and then nobody called again so i went back onto the internet and looked / <A> right / <B> at the directions and it said that you can call in there and you just { punch in } / <A> [ uh-huh ] / <B> your pin number and then they they uh they do you a a you know prompts { on the } / <A> [ right ]",
+    "context_start": 509.66,
+    "context_end": 521.66,
+    "feedback": [
+        {
+            "name": "spontC_360_right",
+            "start": 512.89,
+            "end": 513.468875,
+            "token": "right"
+        },
+        {
+            "name": "spontA_290_uh-huh",
+            "start": 515.65,
+            "end": 516.1497499999999,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PR_043_right",
+            "start": 521.0,
+            "end": 521.66,
+            "token": "right"
+        }
+    ]
+}

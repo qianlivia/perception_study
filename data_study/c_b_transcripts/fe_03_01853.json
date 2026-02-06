@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_01853",
+    "context_channel": 1,
+    "context_text": "<A> i have a two and a half year old and i just keep i go let her go to the nickelodeon website / <B> yeah / <A> because there are coloring pages and things that / <B> yeah / <A> that's about all she uses it now / <B> yeah / <A> um but i i teach english classes um at a university for freshmen / <B> okay / <A> and we use computers in the classroom once a week / <B> okay",
+    "context_start": 66.57,
+    "context_end": 89.23725,
+    "feedback": [
+        {
+            "name": "spontC_043_yeah",
+            "start": 71.59,
+            "end": 72.125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_287_yeah",
+            "start": 75.19,
+            "end": 75.82124999999999,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_405_yeah",
+            "start": 77.79,
+            "end": 78.40625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_401_okay",
+            "start": 84.95,
+            "end": 85.479375,
+            "token": "okay"
+        },
+        {
+            "name": "spontE_152_okay",
+            "start": 88.61,
+            "end": 89.23725,
+            "token": "okay"
+        }
+    ]
+}

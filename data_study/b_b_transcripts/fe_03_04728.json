@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04728",
+    "context_channel": 0,
+    "context_text": "<B> yeah yeah i i think that'd be a hobby i { think } / <A> [ okay ] / <B> anything you do outside your regular work { i would consider as } / <A> [ uh-oh ] / <B> hobby you know / <A> yeah",
+    "context_start": 18.21,
+    "context_end": 27.642,
+    "feedback": [
+        {
+            "name": "spontC_172_okay",
+            "start": 20.42,
+            "end": 20.831125,
+            "token": "okay"
+        },
+        {
+            "name": "NegS_059_uh-oh",
+            "start": 24.15,
+            "end": 25.030749999999998,
+            "token": "uh-oh"
+        },
+        {
+            "name": "spontA_356_yeah",
+            "start": 27.16,
+            "end": 27.642,
+            "token": "yeah"
+        }
+    ]
+}

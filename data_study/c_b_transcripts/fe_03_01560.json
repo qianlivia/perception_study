@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_01560",
+    "context_channel": 1,
+    "context_text": "<A> are you really i'm not / <B> no / <A> obviously in indiana it's just something i found on the internet / <B> oh / <A> but a way to make a little money i know um this is my second call the other one i had a university of penn student as well / <B> yeah",
+    "context_start": 48.93,
+    "context_end": 61.8335,
+    "feedback": [
+        {
+            "name": "spontE_345_no",
+            "start": 50.01,
+            "end": 50.7645,
+            "token": "no"
+        },
+        {
+            "name": "spontF_017_oh",
+            "start": 54.31,
+            "end": 55.139375,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_380_yeah",
+            "start": 61.22,
+            "end": 61.8335,
+            "token": "yeah"
+        }
+    ]
+}

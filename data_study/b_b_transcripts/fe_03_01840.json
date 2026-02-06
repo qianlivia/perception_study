@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01840",
+    "context_channel": 0,
+    "context_text": "<B> yes i had a discussion board you got to choose your group that you were in { and } / <A> [ mhm ] / <B> one group had to make products like brochures { you know } / <A> [ okay ] / <B> about services / <A> yeah / <B> one group had to do different activities and then one had to get online and talk about stuff { i } / <A> [ okay ]",
+    "context_start": 411.85,
+    "context_end": 427.829,
+    "feedback": [
+        {
+            "name": "spontC_356_mhm",
+            "start": 416.03,
+            "end": 416.62575,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_172_okay",
+            "start": 419.92,
+            "end": 420.33112500000004,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_300_yeah",
+            "start": 421.36,
+            "end": 421.85062500000004,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_022_okay",
+            "start": 427.36,
+            "end": 427.829,
+            "token": "okay"
+        }
+    ]
+}

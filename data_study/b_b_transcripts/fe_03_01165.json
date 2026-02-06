@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_01165",
+    "context_channel": 0,
+    "context_text": "<B> obviously but / <A> uh-huh / <B> it's it's fun though it's an experience { i } / <A> [ yeah ] / <B> wouldn't i wouldn't change it / <A> mhm",
+    "context_start": 378.79,
+    "context_end": 386.038,
+    "feedback": [
+        {
+            "name": "spontF_581_uh-huh",
+            "start": 379.93,
+            "end": 380.415875,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontB_100_yeah",
+            "start": 383.4,
+            "end": 384.07424999999995,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_355_mhm",
+            "start": 385.5,
+            "end": 386.038,
+            "token": "mhm"
+        }
+    ]
+}

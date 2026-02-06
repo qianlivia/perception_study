@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04447",
+    "context_channel": 1,
+    "context_text": "<A> uh terrible / <B> yeah / <A> um i um feel strongly about it / <B> uh-huh / <A> um in fact i strong enough that i vote and i vote along one or two lines of the / <B> oh",
+    "context_start": 294.89,
+    "context_end": 304.4595,
+    "feedback": [
+        {
+            "name": "spontF_295_yeah",
+            "start": 296.01,
+            "end": 296.528375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_191_uh-huh",
+            "start": 299.48,
+            "end": 299.958125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_109_oh",
+            "start": 304.12,
+            "end": 304.4595,
+            "token": "oh"
+        }
+    ]
+}

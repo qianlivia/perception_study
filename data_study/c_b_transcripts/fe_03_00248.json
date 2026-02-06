@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00248",
+    "context_channel": 1,
+    "context_text": "<A> [ yeah i guess ] uh i actually i flew for the first time since uh a couple of months ago / <B> mhm / <A> i i took a trip a road trip to california with a friend of mine / <B> uh-huh / <A> and i knew i got i only had a short amount of time to go so we drove out there and then i flew back a couple of days later / <B> oh / <A> and i didn't uh actually i mean i think that it seems that you know with all the precautions that have been taken it seems like it's probably safer now to fly than it was before i mean if not only because people are being much more watchful and much more strict about you know checking people / <B> yeah",
+    "context_start": 312.7,
+    "context_end": 343.84187499999996,
+    "feedback": [
+        {
+            "name": "spontF_311_mhm",
+            "start": 317.81,
+            "end": 318.310125,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_060_uh-huh",
+            "start": 321.37,
+            "end": 321.837125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_109_oh",
+            "start": 327.53,
+            "end": 327.86949999999996,
+            "token": "oh"
+        },
+        {
+            "name": "spontB_276_yeah",
+            "start": 343.53,
+            "end": 343.84187499999996,
+            "token": "yeah"
+        }
+    ]
+}

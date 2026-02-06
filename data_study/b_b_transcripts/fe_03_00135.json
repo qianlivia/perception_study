@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00135",
+    "context_channel": 1,
+    "context_text": "<A> [ yeah ] i'm mean i don't know what i'd say like if that was like my son or my brother or somebody that was going you know to iraq / <B> yeah / <A> now like maybe i'd feel differently / <B> uh-huh / <A> but i don't know i feel like you can't sit by and ignore things i mean that's how the holocaust happened you know { you } / <B> [ yeah ] / <A> can't just sit there and be like that's not our business / <B> yeah",
+    "context_start": 163.05,
+    "context_end": 184.031875,
+    "feedback": [
+        {
+            "name": "spontB_094_yeah",
+            "start": 169.89,
+            "end": 170.226,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_065_uh-huh",
+            "start": 172.32,
+            "end": 172.764375,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontB_016_yeah",
+            "start": 180.54,
+            "end": 180.934875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_229_yeah",
+            "start": 183.59,
+            "end": 184.031875,
+            "token": "yeah"
+        }
+    ]
+}

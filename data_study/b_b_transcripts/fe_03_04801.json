@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_04801",
+    "context_channel": 1,
+    "context_text": "<A> but i mean like for me to go a few days without smoking that's a big deal / <B> mmm / <A> cause i been smoking daily for a long time / <B> uh-huh / <A> and you know you go through withdrawal syndromes { uh } / <B> [ mhm ] / <A> some people start to shake / <B> mhm / <A> you get really splitting headaches and the only thing that really cures the headache is to actually smoke a cigarette and get some nicotine inside your body / <B> hm",
+    "context_start": 297.08,
+    "context_end": 320.746375,
+    "feedback": [
+        {
+            "name": "spontD_141_mmm",
+            "start": 301.09,
+            "end": 301.7675,
+            "token": "mmm"
+        },
+        {
+            "name": "spontB_099_uh-huh",
+            "start": 304.89,
+            "end": 305.58275,
+            "token": "uh-huh"
+        },
+        {
+            "name": "sun1_002_mhm",
+            "start": 308.21,
+            "end": 308.999875,
+            "token": "mhm"
+        },
+        {
+            "name": "sun1_007_mhm",
+            "start": 310.79,
+            "end": 311.6385,
+            "token": "mhm"
+        },
+        {
+            "name": "sun2_015_hm",
+            "start": 320.0,
+            "end": 320.746375,
+            "token": "hm"
+        }
+    ]
+}

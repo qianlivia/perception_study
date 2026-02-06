@@ -1,0 +1,45 @@
+{
+    "name": "fe_03_03507",
+    "context_channel": 1,
+    "context_text": "<A> well around here with nafta clinton doing the nafta thing { uh } / <B> [ mmm ] / <A> most of the people around here work in sewing factories / <B> oh / <A> and things like that and those factories are closing because they're going to mexico or some other country where they / <B> oh / <A> don't have to to pay / <B> ah / <A> uh you know as much money to for em to work as they do around here / <B> yeah / <A> we've had about eight plants close within the last two years and / <B> oh",
+    "context_start": 88.64,
+    "context_end": 124.29237499999999,
+    "feedback": [
+        {
+            "name": "spontF_052_mmm",
+            "start": 94.29,
+            "end": 95.595875,
+            "token": "mmm"
+        },
+        {
+            "name": "spontF_017_oh",
+            "start": 101.1,
+            "end": 101.929375,
+            "token": "oh"
+        },
+        {
+            "name": "spontE_043_oh",
+            "start": 109.57,
+            "end": 110.22824999999999,
+            "token": "oh"
+        },
+        {
+            "name": "spontE_232_ah",
+            "start": 112.26,
+            "end": 113.24075,
+            "token": "ah"
+        },
+        {
+            "name": "spontD_083_yeah",
+            "start": 116.61,
+            "end": 117.556375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_360_oh",
+            "start": 123.35,
+            "end": 124.29237499999999,
+            "token": "oh"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03900",
+    "context_channel": 1,
+    "context_text": "<A> and i and you're right you can't really call it comedy but some things are very comical / <B> yeah / <A> and and it is the writing but / <B> yeah / <A> that's good comedy to me and good / <B> yeah",
+    "context_start": 321.06,
+    "context_end": 331.99487500000004,
+    "feedback": [
+        {
+            "name": "spontA_382_yeah",
+            "start": 326.08,
+            "end": 326.654625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_337_yeah",
+            "start": 329.09,
+            "end": 329.490375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_016_yeah",
+            "start": 331.6,
+            "end": 331.99487500000004,
+            "token": "yeah"
+        }
+    ]
+}

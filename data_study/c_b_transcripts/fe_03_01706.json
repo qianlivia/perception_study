@@ -1,0 +1,57 @@
+{
+    "name": "fe_03_01706",
+    "context_channel": 0,
+    "context_text": "<B> we do have some experience at this i mean you look at japan { you look } / <A> [ absolutely ] / <B> at germany / <A> well / <B> uh you look at south korea / <A> uh-huh / <B> our military has done this before { and } / <A> [ absolutely ] / <B> you know we and we don't stay i mean we stayed in europe because of the threat of russia / <A> right / <B> uh but europeans allowed us i mean it wasn't { that they } / <A> [ absolutely ] / <B> wanted us out because { we } / <A> [ yeah ] / <B> for a p part of their economy by then / <A> yeah",
+    "context_start": 236.83,
+    "context_end": 262.824375,
+    "feedback": [
+        {
+            "name": "sun_002_absolutely",
+            "start": 240.17,
+            "end": 241.2155,
+            "token": "absolutely"
+        },
+        {
+            "name": "spontD_171_well",
+            "start": 241.65,
+            "end": 242.09225,
+            "token": "well"
+        },
+        {
+            "name": "spontD_276_uh-huh",
+            "start": 243.6,
+            "end": 244.041375,
+            "token": "uh-huh"
+        },
+        {
+            "name": "sun_044_absolutely",
+            "start": 246.61,
+            "end": 247.697875,
+            "token": "absolutely"
+        },
+        {
+            "name": "sun1_032_right",
+            "start": 254.04,
+            "end": 254.883375,
+            "token": "right"
+        },
+        {
+            "name": "sun_027_absolutely",
+            "start": 257.83,
+            "end": 258.964,
+            "token": "absolutely"
+        },
+        {
+            "name": "spontD_397_yeah",
+            "start": 259.73,
+            "end": 260.111375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_003_yeah",
+            "start": 262.44,
+            "end": 262.824375,
+            "token": "yeah"
+        }
+    ]
+}
