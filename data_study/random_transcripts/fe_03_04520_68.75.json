@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04520",
+    "context_channel": 0,
+    "context_text": "<B> the school system here and { i } / <A> [ mmm ] / <B> thought at the time the school system i think at that time was better / <A> wow / <B> than it is now / <A> no",
+    "context_start": 68.75,
+    "context_end": 79.6815,
+    "feedback": [
+        {
+            "name": "spontC_310_mmm",
+            "start": 71.57,
+            "end": 72.584125,
+            "token": "mmm"
+        },
+        {
+            "name": "PS_101_wow",
+            "start": 77.31,
+            "end": 78.248375,
+            "token": "wow"
+        },
+        {
+            "name": "NR_074_no",
+            "start": 78.81,
+            "end": 79.6815,
+            "token": "no"
+        }
+    ]
+}

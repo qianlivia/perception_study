@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04111",
+    "context_channel": 1,
+    "context_text": "<A> you know i think i would like to to do some traveling too / <B> yeah / <A> i don't know where i'd like to go i'm here in upstate new york / <B> uh-huh / <A> and uh yeah i don't care for it too much / <B> yeah",
+    "context_start": 133.18,
+    "context_end": 143.6635,
+    "feedback": [
+        {
+            "name": "spontA_287_yeah",
+            "start": 135.95,
+            "end": 136.78574999999998,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_076_uh-huh",
+            "start": 139.82,
+            "end": 140.342375,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_213_yeah",
+            "start": 143.06,
+            "end": 143.6635,
+            "token": "yeah"
+        }
+    ]
+}

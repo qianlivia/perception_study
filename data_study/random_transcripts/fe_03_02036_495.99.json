@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02036",
+    "context_channel": 0,
+    "context_text": "<B> like it's not as ex i don't think it's as ex it's as expensive as new york / <A> ugh / <B> but man i it's just weird going from a place where i can depend more on the public transportation and being { here and it's } / <A> [ ooh ] / <B> just like forget it / <A> hm / <B> but this is a relatively small city like the way it's laid out / <A> mmm",
+    "context_start": 495.99,
+    "context_end": 514.2212499999999,
+    "feedback": [
+        {
+            "name": "spontC_126_ugh",
+            "start": 499.94,
+            "end": 500.710375,
+            "token": "ugh"
+        },
+        {
+            "name": "PS_059_ooh",
+            "start": 506.58,
+            "end": 507.69425,
+            "token": "ooh"
+        },
+        {
+            "name": "spontD_154_hm",
+            "start": 508.35,
+            "end": 508.9925,
+            "token": "hm"
+        },
+        {
+            "name": "spontC_329_mmm",
+            "start": 513.53,
+            "end": 514.2212499999999,
+            "token": "mmm"
+        }
+    ]
+}

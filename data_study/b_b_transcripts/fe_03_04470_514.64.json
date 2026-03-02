@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_04470",
+    "context_channel": 1,
+    "context_text": "<A> [ sure that you can't ] say the you know the pledge of allegiance or you can't say you know have a moment of prayer or something / <B> right / <A> like that that that's really i just that's what i think definitely this country has gone off and / <B> right / <A> and i don't know they do it in other countries but like you said we were founded in god we trust we were founded with those religious beliefs i mean this was a country of religious freedom because / <B> right / <A> people came wherever they were they were you know put upon { by } / <B> [ yeah ] / <A> the king of england or whatever they couldn't practise certain things or whatever country the people / <B> yeah",
+    "context_start": 514.64,
+    "context_end": 542.6856250000001,
+    "feedback": [
+        {
+            "name": "sun1_032_right",
+            "start": 520.12,
+            "end": 520.963375,
+            "token": "right"
+        },
+        {
+            "name": "PR_043_right",
+            "start": 525.09,
+            "end": 525.75,
+            "token": "right"
+        },
+        {
+            "name": "spontC_360_right",
+            "start": 534.36,
+            "end": 534.938875,
+            "token": "right"
+        },
+        {
+            "name": "spontB_016_yeah",
+            "start": 537.79,
+            "end": 538.1848749999999,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_221_yeah",
+            "start": 542.2,
+            "end": 542.6856250000001,
+            "token": "yeah"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_02868",
+    "context_channel": 0,
+    "context_text": "<B> okay well it's basically uh uh before they had free agency it was you'd get you'd get drafted from the uh from the uh college draft / <A> yeah / <B> and you'd be with a team / <A> uh-huh / <B> basically that was that was your team you { were } / <A> [ hm ] / <B> with the team for the for the rest of your career unless { they } / <A> [ gosh ] / <B> unless they traded ya / <A> mmm",
+    "context_start": 526.03,
+    "context_end": 545.872375,
+    "feedback": [
+        {
+            "name": "sun_011_yeah",
+            "start": 535.87,
+            "end": 536.54075,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_075_uh-huh",
+            "start": 537.94,
+            "end": 538.6578750000001,
+            "token": "uh-huh"
+        },
+        {
+            "name": "Sy_028_hm",
+            "start": 540.45,
+            "end": 541.5166250000001,
+            "token": "hm"
+        },
+        {
+            "name": "NegS_071_gosh",
+            "start": 543.07,
+            "end": 544.2845000000001,
+            "token": "gosh"
+        },
+        {
+            "name": "Sy_042_mmm",
+            "start": 544.86,
+            "end": 545.872375,
+            "token": "mmm"
+        }
+    ]
+}

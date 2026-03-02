@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_01023",
+    "context_channel": 0,
+    "context_text": "<B> and it's funny because all the smallest countries are the ones that are supporting / <A> right / <B> supporting us you've got these tiny countries like er i thing guana and ah / <A> mhm / <B> what the other countries are mexico { just a } / <A> [ mhm ]",
+    "context_start": 505.43,
+    "context_end": 517.114375,
+    "feedback": [
+        {
+            "name": "sun1_030_right",
+            "start": 508.89,
+            "end": 509.683625,
+            "token": "right"
+        },
+        {
+            "name": "spontB_302_mhm",
+            "start": 513.59,
+            "end": 514.149,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_180_mhm",
+            "start": 516.57,
+            "end": 517.114375,
+            "token": "mhm"
+        }
+    ]
+}

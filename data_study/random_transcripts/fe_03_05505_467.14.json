@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_05505",
+    "context_channel": 0,
+    "context_text": "<B> right right i agree actually i grew i grew up uh in a band as well so i was { so i } / <A> [ jeez ] / <B> was in marching band and concert band in junior high and high school / <A> yup / <B> and uh so we went through some of the same things at at that time it wasn't as much i mean that was a good ten to fifteen years ago and it wasn't so much uh uh usually things related to religion as much as it was i i went to a private school / <A> yeah / <B> and my school would have had problems for example uh playing uh one of the songs we played was uh the song tequila that { we } / <A> [ mhm ] / <B> did at prep rallies cough / <A> yeah",
+    "context_start": 467.14,
+    "context_end": 508.400125,
+    "feedback": [
+        {
+            "name": "NegS_002_jeez",
+            "start": 471.67,
+            "end": 472.92012500000004,
+            "token": "jeez"
+        },
+        {
+            "name": "sun_025_yup",
+            "start": 476.13,
+            "end": 476.921125,
+            "token": "yup"
+        },
+        {
+            "name": "spontB_192_yeah",
+            "start": 494.66,
+            "end": 495.21475000000004,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_400_mhm",
+            "start": 506.08,
+            "end": 506.90049999999997,
+            "token": "mhm"
+        },
+        {
+            "name": "spontE_274_yeah",
+            "start": 507.67,
+            "end": 508.400125,
+            "token": "yeah"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "name": "fe_03_03377",
+    "context_channel": 1,
+    "context_text": "<A> stupid fights but i'm / <B> yeah / <A> i'm the man of the house um when it comes { to if } / <B> [ yeah ] / <A> something / <B> pardon / <A> breaks or { or } / <B> [ no ] / <A> whatever and sometimes i'd like it if he would he's al he's been so used to me just kinda taking over / <B> mhm / <A> and and fixing things but / <B> hm / <A> sometimes i'd like him to { just you know } / <B> [ uh-oh ]",
+    "context_start": 337.6,
+    "context_end": 357.878375,
+    "feedback": [
+        {
+            "name": "sun1_021_yeah",
+            "start": 339.14,
+            "end": 339.873875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_110_yeah",
+            "start": 341.8,
+            "end": 342.732125,
+            "token": "yeah"
+        },
+        {
+            "name": "Nu_023_pardon",
+            "start": 342.96,
+            "end": 343.54112499999997,
+            "token": "pardon"
+        },
+        {
+            "name": "spontA_095_no",
+            "start": 344.62,
+            "end": 345.455375,
+            "token": "no"
+        },
+        {
+            "name": "sun1_007_mhm",
+            "start": 350.43,
+            "end": 351.2785,
+            "token": "mhm"
+        },
+        {
+            "name": "sun2_035_hm",
+            "start": 353.74,
+            "end": 354.642375,
+            "token": "hm"
+        },
+        {
+            "name": "NegS_055_uh-oh",
+            "start": 356.8,
+            "end": 357.878375,
+            "token": "uh-oh"
+        }
+    ]
+}

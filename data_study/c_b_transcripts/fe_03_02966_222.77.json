@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02966",
+    "context_channel": 0,
+    "context_text": "<B> yeah well my daughter really gets into basketball and hollers { and } / <A> [ uh-huh ] / <B> but / <A> yeah / <B> she i i don't know a lot about it she's teaching me / <A> yeah / <B> but uh i know uh the spurs are a home team and i know the team members and uh / <A> yeah",
+    "context_start": 222.77,
+    "context_end": 241.017875,
+    "feedback": [
+        {
+            "name": "spontC_186_uh-huh",
+            "start": 226.99,
+            "end": 227.46525,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontB_016_yeah",
+            "start": 228.13,
+            "end": 228.524875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_331_yeah",
+            "start": 233.6,
+            "end": 234.30075,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_116_yeah",
+            "start": 240.46,
+            "end": 241.017875,
+            "token": "yeah"
+        }
+    ]
+}

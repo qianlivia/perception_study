@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_05098",
+    "context_channel": 1,
+    "context_text": "<A> well i just think that having very good airport security will just lessen uh lessen the use of airports and planes as a viable venue / <B> wow / <A> but however that'll just i guess shunt the the intentions of of terrorism towards other venues like for example let's say freeways / <B> hm / <A> or let's say uh common public squares { you know } / <B> [ mhm ] / <A> the more you tighten up on one area it just makes it you just uh you're just uh dampening their resolve but i mean providing more obstacles but { i } / <B> [ oh ]",
+    "context_start": 77.02,
+    "context_end": 115.804875,
+    "feedback": [
+        {
+            "name": "PS_094_wow",
+            "start": 87.86,
+            "end": 88.8945,
+            "token": "wow"
+        },
+        {
+            "name": "NS_053_hm",
+            "start": 100.7,
+            "end": 101.48125,
+            "token": "hm"
+        },
+        {
+            "name": "spontA_358_mhm",
+            "start": 105.99,
+            "end": 106.488625,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_248_oh",
+            "start": 115.16,
+            "end": 115.804875,
+            "token": "oh"
+        }
+    ]
+}

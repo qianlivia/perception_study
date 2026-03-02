@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02158",
+    "context_channel": 0,
+    "context_text": "<B> tofu and seeds and nuts and there's quite a few uh restaurants like that / <A> mhm / <B> that are you know in our area because we're close to the movie studio / <A> okay / <B> uh but yeah my husband eats a lot of meat { so } / <A> [ mhm ] / <B> we'll wind up you know a lot of times at a mexican restaurant where at least they have the the other things you know and if they don't cook in lard that's / <A> mhm",
+    "context_start": 103.67,
+    "context_end": 126.13487500000001,
+    "feedback": [
+        {
+            "name": "PR_057_mhm",
+            "start": 108.87,
+            "end": 109.60225,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_518_okay",
+            "start": 113.29,
+            "end": 113.99600000000001,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_257_mhm",
+            "start": 116.96,
+            "end": 117.45237499999999,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_120_mhm",
+            "start": 125.68,
+            "end": 126.13487500000001,
+            "token": "mhm"
+        }
+    ]
+}

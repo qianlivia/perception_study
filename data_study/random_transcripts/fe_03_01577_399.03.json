@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_01577",
+    "context_channel": 0,
+    "context_text": "<B> [ oh wow ] wow goodness well middle of the night at least you could sleep but i think that's the best time to fly to europe / <A> yeah / <B> is at night you get on { the } / <A> [ what ] / <B> plane and you can go to sleep / <A> ooh / <B> wake up with the sun in your eyes the next morning / <A> mhm / <B> mhm i normally well i i used to fly out of um the west chester airport uh it was closer because i live in connecticut / <A> yeah",
+    "context_start": 399.03,
+    "context_end": 426.09,
+    "feedback": [
+        {
+            "name": "spontE_355_yeah",
+            "start": 407.4,
+            "end": 407.843125,
+            "token": "yeah"
+        },
+        {
+            "name": "Nu_048_what",
+            "start": 408.99,
+            "end": 409.784625,
+            "token": "what"
+        },
+        {
+            "name": "NegS_004_ooh",
+            "start": 411.03,
+            "end": 412.10499999999996,
+            "token": "ooh"
+        },
+        {
+            "name": "spontE_120_mhm",
+            "start": 414.56,
+            "end": 415.09425,
+            "token": "mhm"
+        },
+        {
+            "name": "spontD_336_yeah",
+            "start": 425.09,
+            "end": 426.09,
+            "token": "yeah"
+        }
+    ]
+}

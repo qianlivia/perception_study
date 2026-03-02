@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_03456",
+    "context_channel": 1,
+    "context_text": "<A> you know one thing i learned recently too is i'm never gonna get it all { and } / <B> [ mhm ] / <A> i don't have to settle you know for way lower or way below my i i don't mean to say below my standards but / <B> right / <A> something completely out there that wouldn't go along with my own beliefs { i don't have } / <B> [ mhm ] / <A> to settle for way out there but i'm never gonna get it all / <B> yeah / <A> and i like i have a boyfriend now and he isn't good looking { and } / <B> [ mhm ]",
+    "context_start": 302.09,
+    "context_end": 329.42650000000003,
+    "feedback": [
+        {
+            "name": "spontB_240_mhm",
+            "start": 306.65,
+            "end": 307.135875,
+            "token": "mhm"
+        },
+        {
+            "name": "sun_028_right",
+            "start": 314.56,
+            "end": 315.289375,
+            "token": "right"
+        },
+        {
+            "name": "PR_045_mhm",
+            "start": 319.84,
+            "end": 320.76712499999996,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_389_yeah",
+            "start": 325.24,
+            "end": 325.758,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_496_mhm",
+            "start": 328.92,
+            "end": 329.42650000000003,
+            "token": "mhm"
+        }
+    ]
+}

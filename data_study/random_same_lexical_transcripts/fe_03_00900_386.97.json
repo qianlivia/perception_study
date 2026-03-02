@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00900",
+    "context_channel": 0,
+    "context_text": "<B> but um like the nicer restaurants they will pay you like forty dollars which is i mean not nice like a family style restaurant / <A> wow / <B> which is enough to get uh / <A> right / <B> you know like two adult dinners and two kid dinners / <A> right / <B> or roughly in there and and then you know after you finish they you you write up a report and they want to know different things like people's names how much spend how long did it take you to sit how did they treat you were they friendly and then like time frame / <A> really",
+    "context_start": 386.97,
+    "context_end": 418.56949999999995,
+    "feedback": [
+        {
+            "name": "PS_165_wow",
+            "start": 393.95,
+            "end": 395.186125,
+            "token": "wow"
+        },
+        {
+            "name": "spontC_360_right",
+            "start": 397.53,
+            "end": 398.10887499999995,
+            "token": "right"
+        },
+        {
+            "name": "sun_013_right",
+            "start": 400.49,
+            "end": 401.3635,
+            "token": "right"
+        },
+        {
+            "name": "PS_019_really",
+            "start": 417.78,
+            "end": 418.56949999999995,
+            "token": "really"
+        }
+    ]
+}

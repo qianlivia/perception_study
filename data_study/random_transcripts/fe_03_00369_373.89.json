@@ -1,0 +1,45 @@
+{
+    "name": "fe_03_00369",
+    "context_channel": 1,
+    "context_text": "<A> um they yeah it's kind of frustrating sometimes to think man their just playing a game and their getting / <B> ah / <A> paid millions you know / <B> wow / <A> um and yeah it's you know it's really hard to get there whatever but yeah i am i'm not in th i'm not so sure about the whole just um how it's so commercialized now / <B> yes / <A> you know like the world series behind the play is this big blue screen that they can put up you know a uh an advertisement for your area or whatever { and } / <B> [ no ] / <A> it's just so advertised that gets kind of you know a pay everything every uniform you know is uh has a name or every field has { you know } / <B> [ what ] / <A> coors field or / <B> mhm",
+    "context_start": 373.89,
+    "context_end": 418.594875,
+    "feedback": [
+        {
+            "name": "Sy_026_ah",
+            "start": 380.69,
+            "end": 381.69825,
+            "token": "ah"
+        },
+        {
+            "name": "PS_065_wow",
+            "start": 382.71,
+            "end": 383.52349999999996,
+            "token": "wow"
+        },
+        {
+            "name": "PR_006_yes",
+            "start": 395.8,
+            "end": 397.27162500000003,
+            "token": "yes"
+        },
+        {
+            "name": "NR_011_no",
+            "start": 406.02,
+            "end": 406.934375,
+            "token": "no"
+        },
+        {
+            "name": "Nu_056_what",
+            "start": 416.28,
+            "end": 416.917625,
+            "token": "what"
+        },
+        {
+            "name": "spontB_356_mhm",
+            "start": 417.99,
+            "end": 418.594875,
+            "token": "mhm"
+        }
+    ]
+}

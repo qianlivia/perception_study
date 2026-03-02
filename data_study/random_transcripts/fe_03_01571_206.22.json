@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_01571",
+    "context_channel": 0,
+    "context_text": "<B> he was very very talented / <A> wow / <B> and he was like top in basketball and top in baseball / <A> uh-huh / <B> and it went to his head i mean he was always first picked every season and everything / <A> yeah",
+    "context_start": 206.22,
+    "context_end": 218.104,
+    "feedback": [
+        {
+            "name": "PS_079_wow",
+            "start": 207.79,
+            "end": 208.84199999999998,
+            "token": "wow"
+        },
+        {
+            "name": "sun1_038_uh-huh",
+            "start": 212.72,
+            "end": 213.4265,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_063_yeah",
+            "start": 217.59,
+            "end": 218.104,
+            "token": "yeah"
+        }
+    ]
+}

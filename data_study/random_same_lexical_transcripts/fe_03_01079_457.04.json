@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_01079",
+    "context_channel": 0,
+    "context_text": "<B> i said i try to emphasize my life in one the way i live { and } / <A> [ yeah ] / <B> i was their boss / <A> yeah / <B> even the minister's boss / <A> yeah / <B> and i told him you know i have certain responsibilities on the job / <A> right / <B> and uh for me being the supervisor um / <A> yeah",
+    "context_start": 457.04,
+    "context_end": 472.63525,
+    "feedback": [
+        {
+            "name": "spontE_243_yeah",
+            "start": 461.31,
+            "end": 461.934375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_306_yeah",
+            "start": 462.9,
+            "end": 463.45149999999995,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_124_yeah",
+            "start": 464.46,
+            "end": 465.34687499999995,
+            "token": "yeah"
+        },
+        {
+            "name": "PR_043_right",
+            "start": 468.81,
+            "end": 469.47,
+            "token": "right"
+        },
+        {
+            "name": "spontB_327_yeah",
+            "start": 471.78,
+            "end": 472.63525,
+            "token": "yeah"
+        }
+    ]
+}

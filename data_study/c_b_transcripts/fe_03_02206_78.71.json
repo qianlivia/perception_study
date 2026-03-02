@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_02206",
+    "context_channel": 0,
+    "context_text": "<B> and we ate out then um last week i did a lot of it cause we were out of town / <A> yeah / <B> on vacation for a spring break / <A> yeah / <B> so we did a lot of eating out my son loves to eat out he loves like mcdonalds and all these things / <A> yeah / <B> um but i'm tired of that { so i } / <A> [ yeah ] / <B> prefer the sit down dinners / <A> yeah",
+    "context_start": 78.71,
+    "context_end": 99.75687500000001,
+    "feedback": [
+        {
+            "name": "spontF_380_yeah",
+            "start": 84.6,
+            "end": 85.2135,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_485_yeah",
+            "start": 87.42,
+            "end": 88.02250000000001,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_287_yeah",
+            "start": 93.99,
+            "end": 94.62124999999999,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_405_yeah",
+            "start": 96.32,
+            "end": 96.93624999999999,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_047_yeah",
+            "start": 99.15,
+            "end": 99.75687500000001,
+            "token": "yeah"
+        }
+    ]
+}

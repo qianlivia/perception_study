@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_02221",
+    "context_channel": 1,
+    "context_text": "<A> [ i don't ] really care for fish at uh mcdonald 's because ah i like i like like um salmon or a stuffed a su uh a fish that's stuffed / <B> mmm / <A> like you like you can have it like stuffed with spinach or stuffed { with } / <B> [ yeah ] / <A> crab meat { but } / <B> [ no ] / <A> i don't really like a lot of breading on my fish / <B> yeah / <A> i don't like i don't like sandwiches in fact i um when i eat like a hamburger or or something like that a sandwich i don't i don't use i don't eat the bread / <B> hm",
+    "context_start": 387.83,
+    "context_end": 427.926625,
+    "feedback": [
+        {
+            "name": "spontC_137_mmm",
+            "start": 401.24,
+            "end": 402.30125,
+            "token": "mmm"
+        },
+        {
+            "name": "spontB_376_yeah",
+            "start": 404.97,
+            "end": 405.693375,
+            "token": "yeah"
+        },
+        {
+            "name": "NR_072_no",
+            "start": 406.66,
+            "end": 407.53587500000003,
+            "token": "no"
+        },
+        {
+            "name": "spontA_416_yeah",
+            "start": 410.65,
+            "end": 411.159625,
+            "token": "yeah"
+        },
+        {
+            "name": "Sy_028_hm",
+            "start": 426.86,
+            "end": 427.926625,
+            "token": "hm"
+        }
+    ]
+}

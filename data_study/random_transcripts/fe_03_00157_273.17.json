@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00157",
+    "context_channel": 1,
+    "context_text": "<A> yeah i feel a little bit now that it it seems to be mostly un / <B> uh-huh / <A> stuff instead of us like / <B> mmm / <A> barking at like everybody / <B> no / <A> else you know / <B> gosh",
+    "context_start": 273.17,
+    "context_end": 284.29675000000003,
+    "feedback": [
+        {
+            "name": "spontC_097_uh-huh",
+            "start": 277.64,
+            "end": 278.097625,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_235_mmm",
+            "start": 279.81,
+            "end": 280.604625,
+            "token": "mmm"
+        },
+        {
+            "name": "NR_078_no",
+            "start": 281.45,
+            "end": 282.17337499999996,
+            "token": "no"
+        },
+        {
+            "name": "PS_122_gosh",
+            "start": 283.17,
+            "end": 284.29675000000003,
+            "token": "gosh"
+        }
+    ]
+}

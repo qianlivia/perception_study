@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01161",
+    "context_channel": 0,
+    "context_text": "<B> my gallbladder out / <A> mhm / <B> i wish i would've known that they could have looked at other places / <A> oh / <B> because they didn't tell me till afterwards that they could've looked like you know this is a guy i'm talking too but they could've looked at my tubes and told me if there was something wrong while they { had } / <A> [ right ] / <B> my while they were in there doing my gallbladder { but i } / <A> [ right ]",
+    "context_start": 343.93,
+    "context_end": 360.375125,
+    "feedback": [
+        {
+            "name": "spontC_392_mhm",
+            "start": 345.3,
+            "end": 345.923375,
+            "token": "mhm"
+        },
+        {
+            "name": "sun1_012_oh",
+            "start": 349.45,
+            "end": 350.21375,
+            "token": "oh"
+        },
+        {
+            "name": "spontC_360_right",
+            "start": 357.85,
+            "end": 358.428875,
+            "token": "right"
+        },
+        {
+            "name": "PR_048_right",
+            "start": 359.74,
+            "end": 360.375125,
+            "token": "right"
+        }
+    ]
+}

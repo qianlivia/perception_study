@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_01012",
+    "context_channel": 0,
+    "context_text": "<B> and i saw the um the one jet liner go into one world trade centre and i just looked and i thought you know what the heck is this and i heard a bunch of talking and all and it's the first time my wife never brought her cell phone with her so / <A> yeah / <B> here she is going to a park which is only like about two miles away but she { yeah } / <A> [ uh-huh ] / <B> dover delaware is only an hour and a half from washington dc an hour and a half from philadelphia and then we had the big air force base here / <A> mhm / <B> and new york is only three hours from here three and a half hours so so { this } / <A> [ yeah ] / <B> happened and i sat down and i'm thinking holy jeeze what the hell is going on here so { i'm } / <A> [ no ]",
+    "context_start": 247.52,
+    "context_end": 282.98325,
+    "feedback": [
+        {
+            "name": "spontB_374_yeah",
+            "start": 260.55,
+            "end": 261.23537500000003,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_070_uh-huh",
+            "start": 264.19,
+            "end": 264.66474999999997,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_304_mhm",
+            "start": 272.25,
+            "end": 272.768,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_101_yeah",
+            "start": 276.96,
+            "end": 277.568375,
+            "token": "yeah"
+        },
+        {
+            "name": "NR_061_no",
+            "start": 282.05,
+            "end": 282.98325,
+            "token": "no"
+        }
+    ]
+}

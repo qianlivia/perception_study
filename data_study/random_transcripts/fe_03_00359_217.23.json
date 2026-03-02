@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00359",
+    "context_channel": 0,
+    "context_text": "<B> you know because i always move around i'm / <A> yeah / <B> i i uh i come from china / <A> yeah / <B> and i always move around i i have stayed in the united states for four years right now / <A> mhm",
+    "context_start": 217.23,
+    "context_end": 232.4535,
+    "feedback": [
+        {
+            "name": "spontE_258_yeah",
+            "start": 220.37,
+            "end": 220.99812500000002,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_370_yeah",
+            "start": 223.75,
+            "end": 224.379375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_121_mhm",
+            "start": 231.92,
+            "end": 232.4535,
+            "token": "mhm"
+        }
+    ]
+}

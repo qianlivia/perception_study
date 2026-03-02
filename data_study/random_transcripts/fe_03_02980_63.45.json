@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02980",
+    "context_channel": 0,
+    "context_text": "<B> i leave the heater on in my office so the dogs don't come in / <A> no / <B> um i mean i don't mind if it's kept up clean but { they don't } / <A> [ wow ] / <B> clean up after them too well { there's a lot of } / <A> [ mmm ]",
+    "context_start": 63.45,
+    "context_end": 75.777625,
+    "feedback": [
+        {
+            "name": "NR_075_no",
+            "start": 66.68,
+            "end": 67.47262500000001,
+            "token": "no"
+        },
+        {
+            "name": "NegS_065_wow",
+            "start": 72.08,
+            "end": 72.994,
+            "token": "wow"
+        },
+        {
+            "name": "NegS_034_mmm",
+            "start": 74.62,
+            "end": 75.777625,
+            "token": "mmm"
+        }
+    ]
+}

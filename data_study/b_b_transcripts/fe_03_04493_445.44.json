@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04493",
+    "context_channel": 1,
+    "context_text": "<A> my youngest daughter went to special ed / <B> uh-huh / <A> and she's um she's got cerebral palsy / <B> okay / <A> so she and now you know in michigan you're entitled to an education from birth to twenty five / <B> right / <A> and she's twenty three now but had i stayed in michigan she would of still been going to the public school system / <B> right",
+    "context_start": 445.44,
+    "context_end": 476.208875,
+    "feedback": [
+        {
+            "name": "spontF_206_uh-huh",
+            "start": 450.71,
+            "end": 451.138375,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_022_okay",
+            "start": 455.38,
+            "end": 455.849,
+            "token": "okay"
+        },
+        {
+            "name": "PR_043_right",
+            "start": 463.31,
+            "end": 463.97,
+            "token": "right"
+        },
+        {
+            "name": "spontC_360_right",
+            "start": 475.63,
+            "end": 476.208875,
+            "token": "right"
+        }
+    ]
+}

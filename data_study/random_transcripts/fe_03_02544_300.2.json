@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02544",
+    "context_channel": 1,
+    "context_text": "<A> enough that you see every day that's that's so real especially with um you know the reporting and things up close and in your face there's enough reality / <B> wow / <A> on day to day life and just / <B> ah / <A> getting through that { other } / <B> [ mhm ] / <A> than watching other people who aren't like you and i / <B> oh",
+    "context_start": 300.2,
+    "context_end": 317.325,
+    "feedback": [
+        {
+            "name": "PS_061_wow",
+            "start": 309.65,
+            "end": 310.91249999999997,
+            "token": "wow"
+        },
+        {
+            "name": "spontA_148_ah",
+            "start": 311.45,
+            "end": 312.515625,
+            "token": "ah"
+        },
+        {
+            "name": "spontA_343_mhm",
+            "start": 312.91,
+            "end": 313.459625,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_109_oh",
+            "start": 316.76,
+            "end": 317.325,
+            "token": "oh"
+        }
+    ]
+}

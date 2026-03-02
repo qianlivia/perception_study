@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03623",
+    "context_channel": 1,
+    "context_text": "<A> or you know they need to pay the insurance on the car their parents bought for em or { who knows you } / <B> [ ugh ] / <A> know knows whatever but uh i mean if you're actually supporting yourself or god / <B> yeah / <A> forbid you're supporting a family { i } / <B> [ yeah ]",
+    "context_start": 269.86,
+    "context_end": 282.15137500000003,
+    "feedback": [
+        {
+            "name": "NegS_020_ugh",
+            "start": 274.03,
+            "end": 275.29437499999995,
+            "token": "ugh"
+        },
+        {
+            "name": "spontB_016_yeah",
+            "start": 280.01,
+            "end": 280.404875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_051_yeah",
+            "start": 281.61,
+            "end": 282.15137500000003,
+            "token": "yeah"
+        }
+    ]
+}

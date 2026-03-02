@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_01449",
+    "context_channel": 0,
+    "context_text": "<B> it's always nice to go back to your own home / <A> right / <B> because i tried that i tried moving to that place that i really really liked and then it just wasn't really really special any more { it } / <A> [ right ] / <B> was like you know i really liked this better when it was a vacation spot / <A> right / <B> so that's what happened when i moved to tracey i missed southern california cause / <A> uh-huh / <B> i'd been here my entire life lived in the same city most of my life until i was like eighteen and then / <A> uh-huh",
+    "context_start": 504.22,
+    "context_end": 526.734375,
+    "feedback": [
+        {
+            "name": "sun1_032_right",
+            "start": 506.36,
+            "end": 507.203375,
+            "token": "right"
+        },
+        {
+            "name": "PR_043_right",
+            "start": 511.82,
+            "end": 512.48,
+            "token": "right"
+        },
+        {
+            "name": "spontC_360_right",
+            "start": 516.14,
+            "end": 516.718875,
+            "token": "right"
+        },
+        {
+            "name": "spontD_047_uh-huh",
+            "start": 519.94,
+            "end": 520.390625,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontE_065_uh-huh",
+            "start": 526.29,
+            "end": 526.734375,
+            "token": "uh-huh"
+        }
+    ]
+}

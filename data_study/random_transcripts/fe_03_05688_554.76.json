@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_05688",
+    "context_channel": 1,
+    "context_text": "<A> if you look at the uh if you look at the cabinet if you look at the uh bush's government / <B> uh / <A> ah most of those guys are oil barons / <B> oh / <A> they're all oil barons { so } / <B> [ really ] / <A> it's you know and it seems like kind of a kind of something a little sketchy going on there / <B> wow / <A> could be a little shystey / <B> nuh",
+    "context_start": 554.76,
+    "context_end": 574.369,
+    "feedback": [
+        {
+            "name": "NegS_010_uh",
+            "start": 560.4,
+            "end": 561.747375,
+            "token": "uh"
+        },
+        {
+            "name": "spontD_032_oh",
+            "start": 563.13,
+            "end": 563.816625,
+            "token": "oh"
+        },
+        {
+            "name": "PS_019_really",
+            "start": 565.35,
+            "end": 566.1395,
+            "token": "really"
+        },
+        {
+            "name": "PS_112_wow",
+            "start": 571.63,
+            "end": 572.841625,
+            "token": "wow"
+        },
+        {
+            "name": "NR_108_nuh",
+            "start": 573.38,
+            "end": 574.369,
+            "token": "nuh"
+        }
+    ]
+}

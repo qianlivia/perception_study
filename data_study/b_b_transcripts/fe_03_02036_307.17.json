@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_02036",
+    "context_channel": 0,
+    "context_text": "<B> indoor um yeah i mean um i i i just watch a lot of movies basically and { and i i } / <A> [ uh-oh ] / <B> dance in my bedroom a lot / <A> right / <B> those kind of and then i read i read m magazines i should read more books but { anyhow } / <A> [ yeah ] / <B> i i do all the things that keep me just inside basically and / <A> yeah / <B> i don't i it's good and it's bad because then once i go outside especially when it is nicer out i just sort { of } / <A> [ uh-huh ]",
+    "context_start": 307.17,
+    "context_end": 333.28025,
+    "feedback": [
+        {
+            "name": "PS_123_uh-oh",
+            "start": 314.84,
+            "end": 315.8845,
+            "token": "uh-oh"
+        },
+        {
+            "name": "spontC_360_right",
+            "start": 317.68,
+            "end": 318.258875,
+            "token": "right"
+        },
+        {
+            "name": "spontA_229_yeah",
+            "start": 322.88,
+            "end": 323.321875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_252_yeah",
+            "start": 327.4,
+            "end": 328.02099999999996,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_189_uh-huh",
+            "start": 332.8,
+            "end": 333.28025,
+            "token": "uh-huh"
+        }
+    ]
+}

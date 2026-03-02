@@ -1,0 +1,57 @@
+{
+    "name": "fe_03_01454",
+    "context_channel": 1,
+    "context_text": "<A> thing that they might target the / <B> right / <A> only thing i have out here is i have palaverde { which is the } / <B> [ mhm ] / <A> largest nuclear facility / <B> yep / <A> but from what i know that thing is the heaviest guarded facility there is / <B> mhm / <A> in the area and i have luke air force base here too / <B> yeah / <A> and they have a no fly zone if anything flies in their zone { they're basically } / <B> [ mhm ] / <A> even ordered to shoot it down / <B> yeah / <A> so even in any and they tell me even if something hits it / <B> mhm",
+    "context_start": 529.3,
+    "context_end": 558.013125,
+    "feedback": [
+        {
+            "name": "PR_048_right",
+            "start": 530.73,
+            "end": 531.365125,
+            "token": "right"
+        },
+        {
+            "name": "spontE_049_mhm",
+            "start": 534.68,
+            "end": 535.2779999999999,
+            "token": "mhm"
+        },
+        {
+            "name": "PR_028_yep",
+            "start": 537.03,
+            "end": 537.8145,
+            "token": "yep"
+        },
+        {
+            "name": "sun1_006_mhm",
+            "start": 543.86,
+            "end": 544.5600000000001,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_239_yeah",
+            "start": 546.64,
+            "end": 547.62675,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_122_mhm",
+            "start": 550.54,
+            "end": 551.2613749999999,
+            "token": "mhm"
+        },
+        {
+            "name": "spontE_240_yeah",
+            "start": 552.85,
+            "end": 553.852125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_393_mhm",
+            "start": 557.31,
+            "end": 558.013125,
+            "token": "mhm"
+        }
+    ]
+}

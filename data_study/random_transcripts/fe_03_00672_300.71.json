@@ -1,0 +1,45 @@
+{
+    "name": "fe_03_00672",
+    "context_channel": 1,
+    "context_text": "<A> well i i think that some of it is you know old fashioned just leg work / <B> yeah / <A> you know like old fashioned police work i don't think that you know and i am a librarian and i really don't like the idea of them being able to you know because what if i check out a book on making bombs just so i can find out what to look for the { next } / <B> [ mhm ] / <A> time i'm on a plane you know does that make me a terrorist i'm not a terrorist / <B> yeah / <A> you know but the thing of it is you know on the other hand if you have informants you know or have your sources and you're an fbi agent and you know your one source comes to you and says hey you know that guy mohammed has just moved down the street from me and he's you know he's into all this stuff and he's going to this mosque and he's you know yelled at my wife the other day and said you know she should be in the house and you know america's such a horrible place and everything well you know maybe that guy bears a little bit more checking out / <B> uh-huh / <A> you know or maybe the guy down the street who's saying the same thing only his name is john smith and who he's he has some kind of white survivalist guy / <B> mmm / <A> you know cause they're equally both terrorists / <B> uh-huh",
+    "context_start": 300.71,
+    "context_end": 366.6155,
+    "feedback": [
+        {
+            "name": "spontB_393_yeah",
+            "start": 306.47,
+            "end": 306.87275000000005,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_275_mhm",
+            "start": 318.97,
+            "end": 319.491625,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_336_yeah",
+            "start": 323.34,
+            "end": 323.95462499999996,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_040_uh-huh",
+            "start": 354.75,
+            "end": 355.2075,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_201_mmm",
+            "start": 362.77,
+            "end": 363.561875,
+            "token": "mmm"
+        },
+        {
+            "name": "spontF_118_uh-huh",
+            "start": 366.09,
+            "end": 366.6155,
+            "token": "uh-huh"
+        }
+    ]
+}

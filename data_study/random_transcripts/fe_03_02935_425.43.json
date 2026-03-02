@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_02935",
+    "context_channel": 1,
+    "context_text": "<A> um not really i mean my personal opinion is i think a lot of the sports players are paid way too high / <B> ugh / <A> you know that that does kind of disturb me a little bit you { know } / <B> [ hm ] / <A> especially here in dallas the uh you know i mean the dallas cowboys / <B> uh-huh / <A> are kinda like the definition of criminals / <B> yeah-m / <A> you know most of the dallas cowboys at one point or another are wanted for some kind of crime { and } / <B> [ jeez ]",
+    "context_start": 425.43,
+    "context_end": 455.259125,
+    "feedback": [
+        {
+            "name": "NegS_030_ugh",
+            "start": 433.62,
+            "end": 434.600375,
+            "token": "ugh"
+        },
+        {
+            "name": "NS_028_hm",
+            "start": 437.58,
+            "end": 438.100375,
+            "token": "hm"
+        },
+        {
+            "name": "spontF_467_uh-huh",
+            "start": 444.04,
+            "end": 444.597125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_342_yeah-m",
+            "start": 448.5,
+            "end": 449.09525,
+            "token": "yeah-m"
+        },
+        {
+            "name": "NegS_015_jeez",
+            "start": 454.21,
+            "end": 455.259125,
+            "token": "jeez"
+        }
+    ]
+}

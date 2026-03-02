@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00369",
+    "context_channel": 0,
+    "context_text": "<B> [ um for ] soccer here we have the milwaukee wave and i read up on that / <A> gosh / <B> um that's about it { like } / <A> [ aww ] / <B> i don't really like grab the sports section of the / <A> ugh / <B> newspaper / <A> yeah",
+    "context_start": 221.31,
+    "context_end": 236.431375,
+    "feedback": [
+        {
+            "name": "NegS_066_gosh",
+            "start": 226.5,
+            "end": 227.648125,
+            "token": "gosh"
+        },
+        {
+            "name": "Sy_034_aww",
+            "start": 229.83,
+            "end": 231.23675,
+            "token": "aww"
+        },
+        {
+            "name": "NegS_031_ugh",
+            "start": 233.68,
+            "end": 234.779875,
+            "token": "ugh"
+        },
+        {
+            "name": "spontE_059_yeah",
+            "start": 235.55,
+            "end": 236.431375,
+            "token": "yeah"
+        }
+    ]
+}

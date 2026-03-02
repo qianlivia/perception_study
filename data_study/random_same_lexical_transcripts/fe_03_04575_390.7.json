@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04575",
+    "context_channel": 1,
+    "context_text": "<A> and what happened was i wrote down the model number i wanted / <B> mhm / <A> but when i went to order it i forgot i forgot to bring the piece of paper { but } / <B> [ mhm ] / <A> i kinda remembered the number / <B> mhm",
+    "context_start": 390.7,
+    "context_end": 403.873875,
+    "feedback": [
+        {
+            "name": "spontE_154_mhm",
+            "start": 395.12,
+            "end": 395.72,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_388_mhm",
+            "start": 400.9,
+            "end": 401.44649999999996,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_315_mhm",
+            "start": 403.17,
+            "end": 403.873875,
+            "token": "mhm"
+        }
+    ]
+}

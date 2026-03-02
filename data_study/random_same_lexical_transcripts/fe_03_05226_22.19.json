@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_05226",
+    "context_channel": 1,
+    "context_text": "<A> this ah this last season / <B> mhm / <A> i got this i don't know this horrible allergy / <B> really / <A> yeah / <B> yeah",
+    "context_start": 22.19,
+    "context_end": 30.17625,
+    "feedback": [
+        {
+            "name": "spontB_187_mhm",
+            "start": 23.7,
+            "end": 24.251125,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_070_really",
+            "start": 27.37,
+            "end": 28.058625,
+            "token": "really"
+        },
+        {
+            "name": "spontF_512_yeah",
+            "start": 29.19,
+            "end": 30.17625,
+            "token": "yeah"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04565",
+    "context_channel": 1,
+    "context_text": "<A> you at your own convenience and you can watch it more than more than once you can rewind fast forward and do anything you want to do / <B> yeah / <A> i like after i think when you rent the movie in blockbuster they have this offer when you return the movie you can buy it for nine ninety nine / <B> yeah / <A> so you can see it is lots lots cheaper / <B> jeez / <A> uh like when you're in the movie theatres people will be talking people will be laughing i like they are just as what's the worlds to do if like you last night you're home you're watching a movie you can make it a little bit dull or a little bit loud / <B> no",
+    "context_start": 45.7,
+    "context_end": 82.9715,
+    "feedback": [
+        {
+            "name": "spontA_421_yeah",
+            "start": 52.49,
+            "end": 53.216625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_037_yeah",
+            "start": 61.02,
+            "end": 61.7265,
+            "token": "yeah"
+        },
+        {
+            "name": "NegS_028_jeez",
+            "start": 64.6,
+            "end": 65.931,
+            "token": "jeez"
+        },
+        {
+            "name": "NR_034_no",
+            "start": 82.15,
+            "end": 82.9715,
+            "token": "no"
+        }
+    ]
+}

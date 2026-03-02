@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02799",
+    "context_channel": 0,
+    "context_text": "<B> well we're in tennessee over here you probably can tell by my accent { but } / <A> [ yeah ] / <B> but we um we watch ah the pacers ah in / <A> hm / <B> indiana cause my husband's from indiana / <A> hm / <B> and um we'll watch indiana of course / <A> uh-huh",
+    "context_start": 70.05,
+    "context_end": 87.60525,
+    "feedback": [
+        {
+            "name": "spontD_051_yeah",
+            "start": 74.79,
+            "end": 75.33137500000001,
+            "token": "yeah"
+        },
+        {
+            "name": "NS_032_hm",
+            "start": 81.08,
+            "end": 81.684375,
+            "token": "hm"
+        },
+        {
+            "name": "Sy_028_hm",
+            "start": 83.5,
+            "end": 84.566625,
+            "token": "hm"
+        },
+        {
+            "name": "spontC_379_uh-huh",
+            "start": 87.14,
+            "end": 87.60525,
+            "token": "uh-huh"
+        }
+    ]
+}

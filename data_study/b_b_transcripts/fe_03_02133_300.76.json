@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02133",
+    "context_channel": 1,
+    "context_text": "<A> yeah that's the problem it's like you wind up eating stuff that's not always so good for you like cheese like eating a lot of it but it it's fine i mean living / <B> yeah / <A> here in new york there's so many options and like i said there's so many restaurants that cater { to } / <B> [ right ] / <A> it so it works out okay i'm not like one of those like obnoxious vegetarians that if someone is eating steak in in front of me i'll be like oh my god do you know what you're you know i / <B> yeah / <A> keep it to myself cause i know when i ate it nobody really could have changed my mind until i made the decision for myself / <B> right",
+    "context_start": 300.76,
+    "context_end": 330.68,
+    "feedback": [
+        {
+            "name": "spontE_280_yeah",
+            "start": 308.63,
+            "end": 309.112875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_360_right",
+            "start": 313.03,
+            "end": 313.60887499999995,
+            "token": "right"
+        },
+        {
+            "name": "spontF_324_yeah",
+            "start": 323.14,
+            "end": 324.002375,
+            "token": "yeah"
+        },
+        {
+            "name": "PR_043_right",
+            "start": 330.02,
+            "end": 330.68,
+            "token": "right"
+        }
+    ]
+}

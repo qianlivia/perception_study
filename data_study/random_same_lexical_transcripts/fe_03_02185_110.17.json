@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_02185",
+    "context_channel": 1,
+    "context_text": "<A> [ yeah well ] when i get you know when we like say we make swedish meat balls at home / <B> mhm / <A> we'll end up buying enough stuff to make like five pounds worth of swedish meat balls / <B> okay / <A> so we can eat it for like four or five days between me my wife and out son / <B> right / <A> you know that way it's cheaper to buy in bulk than it is to just buy like one pound of meat when you can buy a big five pound thing and get the discount so / <B> right / <A> so we end up just usually buying in bulk i'll { end } / <B> [ mhm ]",
+    "context_start": 110.17,
+    "context_end": 138.88424999999998,
+    "feedback": [
+        {
+            "name": "spontA_390_mhm",
+            "start": 115.56,
+            "end": 116.332125,
+            "token": "mhm"
+        },
+        {
+            "name": "spontB_028_okay",
+            "start": 121.55,
+            "end": 121.98325,
+            "token": "okay"
+        },
+        {
+            "name": "sun1_029_right",
+            "start": 126.17,
+            "end": 126.862,
+            "token": "right"
+        },
+        {
+            "name": "sun_013_right",
+            "start": 135.07,
+            "end": 135.9435,
+            "token": "right"
+        },
+        {
+            "name": "spontE_120_mhm",
+            "start": 138.35,
+            "end": 138.88424999999998,
+            "token": "mhm"
+        }
+    ]
+}

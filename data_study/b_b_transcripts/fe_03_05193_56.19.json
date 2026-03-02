@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_05193",
+    "context_channel": 1,
+    "context_text": "<A> oh my well the only one who who cooks around here is me i'm i'm i'm just by myself so i i make my own food / <B> ooh / <A> um i don't really cook as such i eat a lot of food that doesn't require much cooking um so the main so the main difference for me between eating at home and eating out i mean i mean the food i would get at a restaurant is a lot better better more elegantly prepared than the food i would make myself but really i i i like all sorts of food so i'm perfectly fine i'm perfectly happy eating my own stuff but the { main } / <B> [ right ] / <A> value in eating out for me is the ah the social value of going { out } / <B> [ oh ] / <A> with with a friend or or wot / <B> right",
+    "context_start": 56.19,
+    "context_end": 102.993375,
+    "feedback": [
+        {
+            "name": "NegS_001_ooh",
+            "start": 65.16,
+            "end": 66.30425,
+            "token": "ooh"
+        },
+        {
+            "name": "PR_043_right",
+            "start": 94.76,
+            "end": 95.42,
+            "token": "right"
+        },
+        {
+            "name": "spontF_109_oh",
+            "start": 100.04,
+            "end": 100.37950000000001,
+            "token": "oh"
+        },
+        {
+            "name": "sun1_032_right",
+            "start": 102.15,
+            "end": 102.993375,
+            "token": "right"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_05691",
+    "context_channel": 0,
+    "context_text": "<B> a better answer / <A> yeah / <B> you know so there's this blurring of stuff { you know } / <A> [ mhm ] / <B> you know there's ah but the i think the threat is as much of an internal thing as an external thing / <A> sure / <B> and i think that our politicians can fan the concept of threat / <A> mhm",
+    "context_start": 563.27,
+    "context_end": 581.793875,
+    "feedback": [
+        {
+            "name": "spontA_052_yeah",
+            "start": 566.28,
+            "end": 566.877625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_122_mhm",
+            "start": 569.29,
+            "end": 570.0113749999999,
+            "token": "mhm"
+        },
+        {
+            "name": "sun_030_sure",
+            "start": 577.16,
+            "end": 578.107125,
+            "token": "sure"
+        },
+        {
+            "name": "spontA_058_mhm",
+            "start": 581.29,
+            "end": 581.793875,
+            "token": "mhm"
+        }
+    ]
+}

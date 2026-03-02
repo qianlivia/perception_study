@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03195",
+    "context_channel": 1,
+    "context_text": "<A> yeah { and } / <B> [ wow ] / <A> hamsters and guinea pigs are not supposed to carry diseases / <B> no / <A> and this one got a disease { that } / <B> [ ah ]",
+    "context_start": 487.06,
+    "context_end": 495.34749999999997,
+    "feedback": [
+        {
+            "name": "PS_155_wow",
+            "start": 488.14,
+            "end": 489.935,
+            "token": "wow"
+        },
+        {
+            "name": "NR_095_no",
+            "start": 491.95,
+            "end": 493.014375,
+            "token": "no"
+        },
+        {
+            "name": "spontA_275_ah",
+            "start": 494.52,
+            "end": 495.34749999999997,
+            "token": "ah"
+        }
+    ]
+}

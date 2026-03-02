@@ -1,0 +1,51 @@
+{
+    "name": "fe_03_00005",
+    "context_channel": 1,
+    "context_text": "<A> well uh everything tends to be uh stews of various sorts / <B> oh / <A> um kind of like kind of like people get a strange idea of what chinese food is like { from } / <B> [ ooh ] / <A> eating in in american chinese restaurants / <B> wow / <A> um russian food tends to be uh fairly simple um but they make a number of lush / <B> mhm / <A> uh stew served over noodles um beef uh cooked in various ways usually in sauces / <B> ooh / <A> uh they pickle a lot of things uh your probably you've probably eaten uh various types of of of oshinko { i've } / <B> [ mhm ] / <A> pronounced that right uh russian pickles tend to be uh cucumbers and onions / <B> oh",
+    "context_start": 349.19,
+    "context_end": 401.358625,
+    "feedback": [
+        {
+            "name": "Sy_071_oh",
+            "start": 354.79,
+            "end": 355.809125,
+            "token": "oh"
+        },
+        {
+            "name": "PS_162_ooh",
+            "start": 361.83,
+            "end": 362.8385,
+            "token": "ooh"
+        },
+        {
+            "name": "PS_145_wow",
+            "start": 364.55,
+            "end": 365.44350000000003,
+            "token": "wow"
+        },
+        {
+            "name": "spontB_377_mhm",
+            "start": 375.92,
+            "end": 376.5695,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_377_ooh",
+            "start": 384.47,
+            "end": 385.32025000000004,
+            "token": "ooh"
+        },
+        {
+            "name": "spontC_180_mhm",
+            "start": 393.76,
+            "end": 394.304375,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_008_oh",
+            "start": 400.75,
+            "end": 401.358625,
+            "token": "oh"
+        }
+    ]
+}

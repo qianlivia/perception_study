@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_02006",
+    "context_channel": 1,
+    "context_text": "<A> i mean i i haven't heard i haven't heard her even get a slap on the wrist i know her stuff is still in kmart / <B> yeah / <A> and people still buy it so obviously you know it's it's just i don't know i don't know if this has to be regulated in some way or stiffer penalties or stiffer fines or something but / <B> no / <A> does it really work or doesn't it / <B> oh / <A> that that's my question / <B> yeah / <A> and it basically affects me to the point where if if i get a uh annual performance review and i get a raise do i want to dump some of that money into my 401k or do i want to buy more stock in the company but then how i do know that's safe / <B> okay",
+    "context_start": 273.68,
+    "context_end": 312.27825,
+    "feedback": [
+        {
+            "name": "spontB_345_yeah",
+            "start": 279.48,
+            "end": 279.91700000000003,
+            "token": "yeah"
+        },
+        {
+            "name": "NR_053_no",
+            "start": 290.8,
+            "end": 291.60375,
+            "token": "no"
+        },
+        {
+            "name": "Sy_054_oh",
+            "start": 293.01,
+            "end": 294.693125,
+            "token": "oh"
+        },
+        {
+            "name": "spontE_094_yeah",
+            "start": 295.43,
+            "end": 296.197875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_053_okay",
+            "start": 311.45,
+            "end": 312.27825,
+            "token": "okay"
+        }
+    ]
+}

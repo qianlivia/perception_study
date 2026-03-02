@@ -1,0 +1,45 @@
+{
+    "name": "fe_03_03276",
+    "context_channel": 1,
+    "context_text": "<A> that's so important um i met my husband when i was sixteen like twenty years ago { and we were just friends } / <B> [ mmm ] / <A> and um we were you know i was like drawn to him as a friend at first so i { guess } / <B> [ mhm ] / <A> that's why like we're still together because there was that foundation before { and um most of my } / <B> [ mhm ] / <A> friends went away to college and i stayed home and i cause i wasn't sure what i wanted to do i went to community and he went to community also and we would just like would hang out or we'd go to the movies it was like a comfort zone / <B> no / <A> and um i found myself just falling in love like that you know like he was always there for me whether { you know it was like } / <B> [ uh-huh ] / <A> stupid little old things like you know like i needed a lift to school or you know like { if there was } / <B> [ uh-huh ]",
+    "context_start": 83.85,
+    "context_end": 127.14,
+    "feedback": [
+        {
+            "name": "spontE_107_mmm",
+            "start": 90.61,
+            "end": 91.42225,
+            "token": "mmm"
+        },
+        {
+            "name": "spontC_375_mhm",
+            "start": 97.39,
+            "end": 97.962125,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_281_mhm",
+            "start": 102.42,
+            "end": 103.32237500000001,
+            "token": "mhm"
+        },
+        {
+            "name": "NR_109_no",
+            "start": 115.11,
+            "end": 115.8945,
+            "token": "no"
+        },
+        {
+            "name": "spontA_158_uh-huh",
+            "start": 120.96,
+            "end": 121.48237499999999,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_243_uh-huh",
+            "start": 126.6,
+            "end": 127.14,
+            "token": "uh-huh"
+        }
+    ]
+}

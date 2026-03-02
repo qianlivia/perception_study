@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00160",
+    "context_channel": 1,
+    "context_text": "<A> you know we are all surrounded by the arabic countries / <B> mhm / <A> so like ah turkey doesn't want to be involved in it because it already has a lot of political problems and economical problems / <B> yes / <A> saddam hussein is going to do is to bomb turkey you know because um america has lots of bases in turkey / <B> yeah",
+    "context_start": 237.77,
+    "context_end": 263.148125,
+    "feedback": [
+        {
+            "name": "spontB_377_mhm",
+            "start": 240.69,
+            "end": 241.3395,
+            "token": "mhm"
+        },
+        {
+            "name": "PR_014_yes",
+            "start": 249.77,
+            "end": 250.73712500000002,
+            "token": "yes"
+        },
+        {
+            "name": "spontA_387_yeah",
+            "start": 262.61,
+            "end": 263.148125,
+            "token": "yeah"
+        }
+    ]
+}

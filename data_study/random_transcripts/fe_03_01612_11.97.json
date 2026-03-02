@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_01612",
+    "context_channel": 1,
+    "context_text": "<A> do you want me to go first / <B> yeah / <A> okay um well i um i'm not sure that it does that much because i i'm not real sure that they um well i i flew um last month and well i flew actually end of february march and um they check your bags and sometimes it doesn't seem like they they check em really really that good like they see all the maybe the littler things you could put in em / <B> uh-huh / <A> you know like they were saying that some people are being stopped for you know nail files and / <B> yeah",
+    "context_start": 11.97,
+    "context_end": 49.8285,
+    "feedback": [
+        {
+            "name": "spontD_375_yeah",
+            "start": 12.78,
+            "end": 13.204625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_091_uh-huh",
+            "start": 42.58,
+            "end": 43.0985,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PR_040_yeah",
+            "start": 49.22,
+            "end": 49.8285,
+            "token": "yeah"
+        }
+    ]
+}

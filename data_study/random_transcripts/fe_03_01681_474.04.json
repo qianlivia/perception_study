@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_01681",
+    "context_channel": 1,
+    "context_text": "<A> mean they may not necessarily know that he's there you know / <B> what / <A> so { i } / <B> [ ugh ] / <A> mean he could be anywhere for / <B> pardon",
+    "context_start": 474.04,
+    "context_end": 481.50100000000003,
+    "feedback": [
+        {
+            "name": "Nu_003_what",
+            "start": 476.99,
+            "end": 477.558125,
+            "token": "what"
+        },
+        {
+            "name": "NegS_043_ugh",
+            "start": 479.08,
+            "end": 479.715125,
+            "token": "ugh"
+        },
+        {
+            "name": "Nu_046_pardon",
+            "start": 480.86,
+            "end": 481.50100000000003,
+            "token": "pardon"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_01530",
+    "context_channel": 1,
+    "context_text": "<A> so i guess that's that is what what the news is { in } / <B> [ uh-oh ] / <A> regards to baseball players and i read you know in history that i am aware of i cannot recall anything um to my knowledge of hearing about any other players besides baseball players striking / <B> ooh / <A> and i don't know where that comes from any different in regards to basketball or football hockey or / <B> yeah",
+    "context_start": 161.63,
+    "context_end": 183.259125,
+    "feedback": [
+        {
+            "name": "Sy_005_uh-oh",
+            "start": 164.76,
+            "end": 165.6105,
+            "token": "uh-oh"
+        },
+        {
+            "name": "NegS_038_ooh",
+            "start": 176.79,
+            "end": 177.803125,
+            "token": "ooh"
+        },
+        {
+            "name": "spontC_346_yeah",
+            "start": 182.83,
+            "end": 183.259125,
+            "token": "yeah"
+        }
+    ]
+}

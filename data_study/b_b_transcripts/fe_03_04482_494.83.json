@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04482",
+    "context_channel": 1,
+    "context_text": "<A> and you know they they'd post uh at the end of the summer who your next teacher was and if you passed you / <B> right / <A> know and you you know you'd run up to the school window and take a look you know i passed thank god you know um maybe if there wasn't such a negative stigmata you know on failing you know { cause } / <B> [ right ] / <A> it is that the beginning of a downward spiral for that child you know and say at third grade you know you / <B> yeah / <A> you're labelled a mcdonald 's worker as a lifer um you know or maybe summer schools you know for students that didn't pass you know in / <B> oh",
+    "context_start": 494.83,
+    "context_end": 526.9595,
+    "feedback": [
+        {
+            "name": "PR_043_right",
+            "start": 499.42,
+            "end": 500.08000000000004,
+            "token": "right"
+        },
+        {
+            "name": "spontC_360_right",
+            "start": 510.92,
+            "end": 511.498875,
+            "token": "right"
+        },
+        {
+            "name": "spontB_373_yeah",
+            "start": 517.4,
+            "end": 517.8115,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_109_oh",
+            "start": 526.62,
+            "end": 526.9595,
+            "token": "oh"
+        }
+    ]
+}

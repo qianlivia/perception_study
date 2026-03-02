@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01001",
+    "context_channel": 1,
+    "context_text": "<A> um you are right you are right and then you just you are just at high alert and a lot of / <B> yeah / <A> yeah you really are so that is the way to go and i don't know life is life is life you know / <B> aww / <A> you live one day at a time and you keep going / <B> uh-huh / <A> and that's the way i guess that is the way i guess life works / <B> hm",
+    "context_start": 371.56,
+    "context_end": 403.06237500000003,
+    "feedback": [
+        {
+            "name": "PR_047_yeah",
+            "start": 387.16,
+            "end": 387.86987500000004,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_277_aww",
+            "start": 394.39,
+            "end": 395.135875,
+            "token": "aww"
+        },
+        {
+            "name": "spontF_571_uh-huh",
+            "start": 398.52,
+            "end": 399.05787499999997,
+            "token": "uh-huh"
+        },
+        {
+            "name": "sun2_035_hm",
+            "start": 402.16,
+            "end": 403.06237500000003,
+            "token": "hm"
+        }
+    ]
+}

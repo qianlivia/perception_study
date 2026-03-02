@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02889",
+    "context_channel": 0,
+    "context_text": "<B> actually it's a sports club not really a bar / <A> okay / <B> they go in there to sign the books and everything / <A> aww / <B> and uh they do raffles for all the sporting events and everything / <A> yeah",
+    "context_start": 296.01,
+    "context_end": 307.08737499999995,
+    "feedback": [
+        {
+            "name": "spontE_071_okay",
+            "start": 298.74,
+            "end": 299.394,
+            "token": "okay"
+        },
+        {
+            "name": "spontB_277_aww",
+            "start": 301.63,
+            "end": 302.375875,
+            "token": "aww"
+        },
+        {
+            "name": "spontC_138_yeah",
+            "start": 306.59,
+            "end": 307.08737499999995,
+            "token": "yeah"
+        }
+    ]
+}

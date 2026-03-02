@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_00124",
+    "context_channel": 0,
+    "context_text": "<B> and they wrote to the newspaper you know letters to the editor it's a big thing in a small town / <A> goodness / <B> they wrote letters to the editor ah describing this activity and and giving her name and for weeks people wrote letters about what a terrible person she was and she should go to afghanistan if she didn't like it here and uh jeeze / <A> wow / <B> and i understood her sentiment you know / <A> uh-huh / <B> i i personally complained to the grocery store you know after a week i said you know could we go back to you know elvis presley and the beatles as some muzak i've had enough of patriotic music { it's } / <A> [ uh-huh ] / <B> beginning to get on my nerves / <A> oh",
+    "context_start": 481.12,
+    "context_end": 524.26325,
+    "feedback": [
+        {
+            "name": "NegS_024_goodness",
+            "start": 486.97,
+            "end": 487.90062500000005,
+            "token": "goodness"
+        },
+        {
+            "name": "PS_129_wow",
+            "start": 504.1,
+            "end": 505.04237500000005,
+            "token": "wow"
+        },
+        {
+            "name": "spontE_249_uh-huh",
+            "start": 507.3,
+            "end": 507.813125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "sun1_034_uh-huh",
+            "start": 521.19,
+            "end": 522.0032500000001,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontE_15_oh",
+            "start": 523.92,
+            "end": 524.26325,
+            "token": "oh"
+        }
+    ]
+}

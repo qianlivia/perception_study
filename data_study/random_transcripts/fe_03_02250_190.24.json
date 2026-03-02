@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02250",
+    "context_channel": 1,
+    "context_text": "<A> cause a lot of the things that just um springtime you know the sun's out long / <B> goodness / <A> everything's in bloom you { know } / <B> [ wow ] / <A> less cloudy days / <B> no",
+    "context_start": 190.24,
+    "context_end": 200.638625,
+    "feedback": [
+        {
+            "name": "NegS_024_goodness",
+            "start": 195.61,
+            "end": 196.540625,
+            "token": "goodness"
+        },
+        {
+            "name": "PS_108_wow",
+            "start": 197.6,
+            "end": 198.74575,
+            "token": "wow"
+        },
+        {
+            "name": "NR_076_no",
+            "start": 200.0,
+            "end": 200.638625,
+            "token": "no"
+        }
+    ]
+}

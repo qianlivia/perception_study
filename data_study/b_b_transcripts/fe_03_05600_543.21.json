@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_05600",
+    "context_channel": 1,
+    "context_text": "<A> russell hitchcock / <B> huh / <A> and i'm a the most i'm i'm a i'm a i'm kind of a good fan of theirs / <B> uh-huh / <A> a real good like i collect i collect all their albums / <B> yeah",
+    "context_start": 543.21,
+    "context_end": 554.1815,
+    "feedback": [
+        {
+            "name": "Nu_005_huh",
+            "start": 544.89,
+            "end": 545.606375,
+            "token": "huh"
+        },
+        {
+            "name": "spontD_047_uh-huh",
+            "start": 550.25,
+            "end": 550.700625,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_127_yeah",
+            "start": 553.53,
+            "end": 554.1815,
+            "token": "yeah"
+        }
+    ]
+}

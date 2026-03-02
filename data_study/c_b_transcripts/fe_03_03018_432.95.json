@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03018",
+    "context_channel": 1,
+    "context_text": "<A> it's a really funky dog smell { i mean you } / <B> [ yeah ] / <A> can you can definitely in my building where i live / <B> yeah / <A> there are a couple of people that have dogs and every now and again when they've walked them after it's rained i can smell it { and i i } / <B> [ yeah ] / <A> can smell it in the hall and i can smell it in the elevator { it } / <B> [ yeah ]",
+    "context_start": 432.95,
+    "context_end": 447.605625,
+    "feedback": [
+        {
+            "name": "spontA_073_yeah",
+            "start": 435.09,
+            "end": 436.241625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_287_yeah",
+            "start": 438.86,
+            "end": 439.49125000000004,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_336_yeah",
+            "start": 443.55,
+            "end": 444.55,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_101_yeah",
+            "start": 446.84,
+            "end": 447.605625,
+            "token": "yeah"
+        }
+    ]
+}

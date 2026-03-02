@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_01494",
+    "context_channel": 1,
+    "context_text": "<A> [ yeah i ] i i am now am american citizen but i i was born in panama { and i } / <B> [ yeah ] / <A> wa and i was there with the things with noriega / <B> ah / <A> so i i was careful you know over there and th the you know and always watching at things and i think it does carry over t when i came over here / <B> pardon / <A> seventeen years ago you / <B> no / <A> know and then i i'm always careful of what i'm doing so like and and now always you know and what me some time is that when i was in panama the news will say like something's happened / <B> hm",
+    "context_start": 171.73,
+    "context_end": 202.85725,
+    "feedback": [
+        {
+            "name": "spontC_122_yeah",
+            "start": 177.19,
+            "end": 177.951875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_148_ah",
+            "start": 180.6,
+            "end": 181.552875,
+            "token": "ah"
+        },
+        {
+            "name": "Nu_045_pardon",
+            "start": 189.34,
+            "end": 189.9635,
+            "token": "pardon"
+        },
+        {
+            "name": "NR_092_no",
+            "start": 190.76,
+            "end": 191.80225,
+            "token": "no"
+        },
+        {
+            "name": "sun2_011_hm",
+            "start": 201.92,
+            "end": 202.85725,
+            "token": "hm"
+        }
+    ]
+}

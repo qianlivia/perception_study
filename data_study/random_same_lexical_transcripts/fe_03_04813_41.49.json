@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04813",
+    "context_channel": 1,
+    "context_text": "<A> yeah like when i was little my dad you know i had like bronchitis cause / <B> uh-huh / <A> my dad smoked in the house and made it { worse } / <B> [ oh ] / <A> like every day / <B> yeah / <A> he had to quit / <B> okay",
+    "context_start": 41.49,
+    "context_end": 52.814375,
+    "feedback": [
+        {
+            "name": "spontF_359_uh-huh",
+            "start": 45.69,
+            "end": 46.34225,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_320_oh",
+            "start": 48.38,
+            "end": 49.59525,
+            "token": "oh"
+        },
+        {
+            "name": "PR_036_yeah",
+            "start": 50.55,
+            "end": 51.354375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_405_okay",
+            "start": 52.14,
+            "end": 52.814375,
+            "token": "okay"
+        }
+    ]
+}

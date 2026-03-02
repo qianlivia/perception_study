@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_05688",
+    "context_channel": 1,
+    "context_text": "<A> the most horrifying thing i've ever witnessed with my own two eyes in my life / <B> right / <A> probably ever will / <B> right / <A> um but you know i think that that uh when events like that happen and getting back to the topic of foreign relations / <B> yeah / <A> ah it turns into a free for all i mean / <B> right / <A> ah if you can see what happened after september eleventh uh immediately uh the united states really went onto this unilateral ah campaign across the world and / <B> right",
+    "context_start": 319.49,
+    "context_end": 350.625125,
+    "feedback": [
+        {
+            "name": "PR_043_right",
+            "start": 322.85,
+            "end": 323.51000000000005,
+            "token": "right"
+        },
+        {
+            "name": "spontC_360_right",
+            "start": 324.33,
+            "end": 324.90887499999997,
+            "token": "right"
+        },
+        {
+            "name": "spontB_094_yeah",
+            "start": 333.66,
+            "end": 333.99600000000004,
+            "token": "yeah"
+        },
+        {
+            "name": "sun1_029_right",
+            "start": 336.62,
+            "end": 337.312,
+            "token": "right"
+        },
+        {
+            "name": "PR_048_right",
+            "start": 349.99,
+            "end": 350.625125,
+            "token": "right"
+        }
+    ]
+}

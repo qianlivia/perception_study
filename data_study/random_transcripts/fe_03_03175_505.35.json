@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03175",
+    "context_channel": 1,
+    "context_text": "<A> i was trying to put her cause i just went over a couple of times a day and put her inside or outside to the garage / <B> mhm / <A> and so i was trying to take her from inside and put her into the garage and she wouldn't let me near her { and } / <B> [ ooh ] / <A> she'd never been like that before but it's funny she got her hair cut that day / <B> yeah / <A> it was so weird like no fur on her / <B> yeah",
+    "context_start": 505.35,
+    "context_end": 522.85125,
+    "feedback": [
+        {
+            "name": "spontF_281_mhm",
+            "start": 510.66,
+            "end": 511.56237500000003,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_118_ooh",
+            "start": 515.03,
+            "end": 516.0325,
+            "token": "ooh"
+        },
+        {
+            "name": "spontD_364_yeah",
+            "start": 519.28,
+            "end": 520.130375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_287_yeah",
+            "start": 522.22,
+            "end": 522.85125,
+            "token": "yeah"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02776",
+    "context_channel": 0,
+    "context_text": "<B> although i have a set of clubs / <A> ugh / <B> um my whole family watches golf / <A> oh / <B> my parents my husband our friends watch all the professional golf / <A> oh",
+    "context_start": 208.16,
+    "context_end": 221.222375,
+    "feedback": [
+        {
+            "name": "spontF_389_ugh",
+            "start": 210.14,
+            "end": 210.5495,
+            "token": "ugh"
+        },
+        {
+            "name": "spontF_017_oh",
+            "start": 214.07,
+            "end": 214.899375,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_320_oh",
+            "start": 220.52,
+            "end": 221.222375,
+            "token": "oh"
+        }
+    ]
+}

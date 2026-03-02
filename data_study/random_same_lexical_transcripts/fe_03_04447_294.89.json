@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04447",
+    "context_channel": 1,
+    "context_text": "<A> uh terrible / <B> right / <A> um i um feel strongly about it / <B> right / <A> um in fact i strong enough that i vote and i vote along one or two lines of the / <B> right",
+    "context_start": 294.89,
+    "context_end": 304.91425,
+    "feedback": [
+        {
+            "name": "sun1_030_right",
+            "start": 296.01,
+            "end": 296.803625,
+            "token": "right"
+        },
+        {
+            "name": "spontC_360_right",
+            "start": 299.48,
+            "end": 300.058875,
+            "token": "right"
+        },
+        {
+            "name": "sun1_031_right",
+            "start": 304.12,
+            "end": 304.91425,
+            "token": "right"
+        }
+    ]
+}

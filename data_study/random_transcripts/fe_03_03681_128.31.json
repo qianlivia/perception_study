@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_03681",
+    "context_channel": 0,
+    "context_text": "<B> there you go lie down okay i got it okay see over here we can live off of minimum wage { like } / <A> [ wow ] / <B> like a three i'm renting a three bedroom house for three hundred and seventy five dollars / <A> yeah / <B> yeah and that was a good deal for me i was like wow i'll take it it's usually / <A> uh-huh / <B> about five hundred you know cause around here it's not going to become a city it's a small town it was it was whenever i was younger and now it's not / <A> yeah / <B> so ah everything kinda went up all the prices they're going up and and they'll be about five hundred six hundred for a two bedroom three bedroom but { this one's } / <A> [ uh-huh ]",
+    "context_start": 128.31,
+    "context_end": 168.997875,
+    "feedback": [
+        {
+            "name": "PS_149_wow",
+            "start": 139.24,
+            "end": 140.46450000000002,
+            "token": "wow"
+        },
+        {
+            "name": "PR_039_yeah",
+            "start": 144.89,
+            "end": 145.71937499999999,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_116_uh-huh",
+            "start": 150.81,
+            "end": 151.407625,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontB_016_yeah",
+            "start": 159.0,
+            "end": 159.394875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_367_uh-huh",
+            "start": 168.42,
+            "end": 168.997875,
+            "token": "uh-huh"
+        }
+    ]
+}

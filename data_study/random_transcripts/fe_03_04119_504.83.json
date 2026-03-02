@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04119",
+    "context_channel": 0,
+    "context_text": "<B> [ right well you know ] i understand that totally i have four rotties at home yeah / <A> okay / <B> and so um you know we we always when we're preparing things and stuff we um uh like baby gate the kitchen off and / <A> wow / <B> kinda clean it down with bleach and everything so / <A> huh / <B> yeah and that is an issue / <A> uh-huh",
+    "context_start": 504.83,
+    "context_end": 525.0576249999999,
+    "feedback": [
+        {
+            "name": "sun1_017_okay",
+            "start": 509.99,
+            "end": 510.902875,
+            "token": "okay"
+        },
+        {
+            "name": "PS_078_wow",
+            "start": 519.71,
+            "end": 520.7966250000001,
+            "token": "wow"
+        },
+        {
+            "name": "sun2_049_huh",
+            "start": 522.27,
+            "end": 523.129375,
+            "token": "huh"
+        },
+        {
+            "name": "spontF_463_uh-huh",
+            "start": 524.55,
+            "end": 525.0576249999999,
+            "token": "uh-huh"
+        }
+    ]
+}

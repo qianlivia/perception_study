@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_02409",
+    "context_channel": 1,
+    "context_text": "<A> i know and people are starting to get summonses do you know what the latest thing with smoking here in new york / <B> mhm / <A> ah a the latest thing is if you own a restaurant or a bar / <B> mhm / <A> and your customer smokes now you cannot be on top of everybody at the same time { you } / <B> [ wow ] / <A> have to run the place / <B> no / <A> but it said in the newspaper that if you are let's say a restaurant owner / <B> yeah",
+    "context_start": 220.78,
+    "context_end": 242.547125,
+    "feedback": [
+        {
+            "name": "spontA_345_mhm",
+            "start": 226.78,
+            "end": 227.4755,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_257_mhm",
+            "start": 231.73,
+            "end": 232.222375,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_112_wow",
+            "start": 236.58,
+            "end": 237.791625,
+            "token": "wow"
+        },
+        {
+            "name": "NR_066_no",
+            "start": 238.4,
+            "end": 239.039375,
+            "token": "no"
+        },
+        {
+            "name": "spontA_335_yeah",
+            "start": 241.88,
+            "end": 242.547125,
+            "token": "yeah"
+        }
+    ]
+}

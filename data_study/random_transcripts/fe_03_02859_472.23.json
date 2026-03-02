@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02859",
+    "context_channel": 1,
+    "context_text": "<A> i don't know why some people do other / <B> ah / <A> than it's been men for so long that some { people } / <B> [ well ] / <A> don't like change / <B> yeah",
+    "context_start": 472.23,
+    "context_end": 478.204875,
+    "feedback": [
+        {
+            "name": "spontF_629_ah",
+            "start": 473.84,
+            "end": 474.50525,
+            "token": "ah"
+        },
+        {
+            "name": "spontD_171_well",
+            "start": 476.08,
+            "end": 476.52225,
+            "token": "well"
+        },
+        {
+            "name": "spontF_432_yeah",
+            "start": 477.55,
+            "end": 478.204875,
+            "token": "yeah"
+        }
+    ]
+}

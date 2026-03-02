@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02353",
+    "context_channel": 1,
+    "context_text": "<A> you know i do all those things i have a husband who's a stroke victim { so you know } / <B> [ yeah ] / <A> all that is on me / <B> yeah / <A> so yeah i i it doesn't show in my weight { but i still } / <B> [ really ]",
+    "context_start": 519.03,
+    "context_end": 528.9306250000001,
+    "feedback": [
+        {
+            "name": "spontC_007_yeah",
+            "start": 522.42,
+            "end": 522.87725,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_376_yeah",
+            "start": 524.44,
+            "end": 525.1633750000001,
+            "token": "yeah"
+        },
+        {
+            "name": "sun2_001_really",
+            "start": 528.2,
+            "end": 528.9306250000001,
+            "token": "really"
+        }
+    ]
+}

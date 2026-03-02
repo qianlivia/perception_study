@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00930",
+    "context_channel": 1,
+    "context_text": "<A> then they'd be weakened / <B> huh / <A> they wouldn't have anybody then they cough it's almost like world war two / <B> uh-huh / <A> we got involved when we weren't going to / <B> yeah",
+    "context_start": 342.32,
+    "context_end": 351.232375,
+    "feedback": [
+        {
+            "name": "NS_027_huh",
+            "start": 343.55,
+            "end": 344.047125,
+            "token": "huh"
+        },
+        {
+            "name": "spontA_060_uh-huh",
+            "start": 347.78,
+            "end": 348.247125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontE_121_yeah",
+            "start": 350.48,
+            "end": 351.232375,
+            "token": "yeah"
+        }
+    ]
+}

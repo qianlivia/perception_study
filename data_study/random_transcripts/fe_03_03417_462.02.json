@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03417",
+    "context_channel": 0,
+    "context_text": "<B> well uh i'm a a navy retiree / <A> uh-oh / <B> and my children are scattered all the way across the country / <A> wow / <B> my son is the only one that's close to me here / <A> hm / <B> i have uh one in atlanta and one in virginia / <A> yeah",
+    "context_start": 462.02,
+    "context_end": 481.948375,
+    "feedback": [
+        {
+            "name": "Sy_081_uh-oh",
+            "start": 467.39,
+            "end": 468.25025,
+            "token": "uh-oh"
+        },
+        {
+            "name": "PS_118_wow",
+            "start": 471.55,
+            "end": 473.2095,
+            "token": "wow"
+        },
+        {
+            "name": "NS_044_hm",
+            "start": 475.45,
+            "end": 476.028375,
+            "token": "hm"
+        },
+        {
+            "name": "spontF_101_yeah",
+            "start": 481.34,
+            "end": 481.948375,
+            "token": "yeah"
+        }
+    ]
+}

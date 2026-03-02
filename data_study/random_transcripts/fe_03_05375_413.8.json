@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_05375",
+    "context_channel": 0,
+    "context_text": "<B> custom printed gift items { you } / <A> [ wow ] / <B> know to corporations usually and they'll put their logo on { you know } / <A> [ yeah ] / <B> it could be calendars or pens or { a } / <A> [ huh ]",
+    "context_start": 413.8,
+    "context_end": 422.562125,
+    "feedback": [
+        {
+            "name": "PS_192_wow",
+            "start": 415.74,
+            "end": 416.399875,
+            "token": "wow"
+        },
+        {
+            "name": "spontA_284_yeah",
+            "start": 419.35,
+            "end": 420.10150000000004,
+            "token": "yeah"
+        },
+        {
+            "name": "sun2_043_huh",
+            "start": 421.58,
+            "end": 422.562125,
+            "token": "huh"
+        }
+    ]
+}

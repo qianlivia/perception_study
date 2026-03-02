@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00677",
+    "context_channel": 1,
+    "context_text": "<A> put federal marshalls all over the place / <B> wow / <A> and if anybody has a gun or ah or even dogs / <B> wow / <A> dogs are the best security because of their smell sense of smell / <B> oh / <A> their sense of smell is so so great i mean they could sniff out they can sniff out anything / <B> uh-huh",
+    "context_start": 493.25,
+    "context_end": 513.9478750000001,
+    "feedback": [
+        {
+            "name": "PS_024_wow",
+            "start": 495.02,
+            "end": 496.54724999999996,
+            "token": "wow"
+        },
+        {
+            "name": "PS_156_wow",
+            "start": 500.9,
+            "end": 501.84074999999996,
+            "token": "wow"
+        },
+        {
+            "name": "PS_193_oh",
+            "start": 507.04,
+            "end": 508.847125,
+            "token": "oh"
+        },
+        {
+            "name": "spontD_026_uh-huh",
+            "start": 513.48,
+            "end": 513.9478750000001,
+            "token": "uh-huh"
+        }
+    ]
+}

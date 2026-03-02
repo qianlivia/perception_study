@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00291",
+    "context_channel": 1,
+    "context_text": "<A> it's really a nuisance to use a keyboard you know you know a mouse is pretty easy to use / <B> mhm / <A> and speech recognition always has the problem of you know if somebody's in your office talking or something like that there's background noise that kind of thing / <B> right / <A> so you know if you really want to ah really want to definitely you know tell your computer do this / <B> mhm / <A> pointing and clicking is easier but but with a handheld device if you want to enter then you know enter the name boston as your destination you know / <B> right",
+    "context_start": 198.04,
+    "context_end": 225.543625,
+    "feedback": [
+        {
+            "name": "spontB_212_mhm",
+            "start": 202.8,
+            "end": 203.57775,
+            "token": "mhm"
+        },
+        {
+            "name": "sun1_031_right",
+            "start": 209.8,
+            "end": 210.59425000000002,
+            "token": "right"
+        },
+        {
+            "name": "spontC_200_mhm",
+            "start": 216.04,
+            "end": 216.52249999999998,
+            "token": "mhm"
+        },
+        {
+            "name": "sun1_030_right",
+            "start": 224.75,
+            "end": 225.543625,
+            "token": "right"
+        }
+    ]
+}

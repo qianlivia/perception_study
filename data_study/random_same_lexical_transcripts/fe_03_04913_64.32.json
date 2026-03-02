@@ -1,0 +1,45 @@
+{
+    "name": "fe_03_04913",
+    "context_channel": 0,
+    "context_text": "<B> two okay / <A> okay / <B> and uh i have seen uh a lot of uh different drug testing go on uh myself { i have } / <A> [ mhm ] / <B> been tested a couple of times but it was only because of random testing within you know our department / <A> yeah / <B> i didn't have any problem with it because i didn't have anything to hide / <A> yeah / <B> uh once again i think that uh it's like a double edged sword i believe if you don't do it you don't have anything to worry about if / <A> mhm / <B> you do it that's a choice that you make { and then } / <A> [ mhm ]",
+    "context_start": 64.32,
+    "context_end": 99.519875,
+    "feedback": [
+        {
+            "name": "spontD_383_okay",
+            "start": 66.05,
+            "end": 66.721375,
+            "token": "okay"
+        },
+        {
+            "name": "spontC_330_mhm",
+            "start": 73.51,
+            "end": 73.99362500000001,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_383_yeah",
+            "start": 81.8,
+            "end": 82.304125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_323_yeah",
+            "start": 85.41,
+            "end": 86.21549999999999,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_311_mhm",
+            "start": 96.14,
+            "end": 96.665125,
+            "token": "mhm"
+        },
+        {
+            "name": "sun1_002_mhm",
+            "start": 98.73,
+            "end": 99.519875,
+            "token": "mhm"
+        }
+    ]
+}

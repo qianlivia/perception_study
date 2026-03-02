@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_03315",
+    "context_channel": 1,
+    "context_text": "<A> yeah i i mean we don't know what's a scam or what's not and { that } / <B> [ yep ] / <A> that's the problem i got a company i'm working global work solutions you know and you place ads around the internet / <B> huh / <A> you know and if people click on your ad and people sign up to do the same thing you're doing or { buy } / <B> [ uh-huh ] / <A> the product then you get the commission i've started this about almost two weeks ago / <B> yeah / <A> i have not got any click ons you know / <B> yeah",
+    "context_start": 552.73,
+    "context_end": 581.8847499999999,
+    "feedback": [
+        {
+            "name": "PR_020_yep",
+            "start": 556.62,
+            "end": 557.271625,
+            "token": "yep"
+        },
+        {
+            "name": "PS_021_huh",
+            "start": 564.52,
+            "end": 565.199875,
+            "token": "huh"
+        },
+        {
+            "name": "spontA_310_uh-huh",
+            "start": 571.07,
+            "end": 571.5395000000001,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_335_yeah",
+            "start": 577.15,
+            "end": 578.3015,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_062_yeah",
+            "start": 581.16,
+            "end": 581.8847499999999,
+            "token": "yeah"
+        }
+    ]
+}

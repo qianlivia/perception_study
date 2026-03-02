@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03776",
+    "context_channel": 1,
+    "context_text": "<A> i wasn't i was in the i h program / <B> yeah / <A> i'm a biochemist / <B> uh-huh / <A> well that's what my back my educational background { 's been } / <B> [ right ]",
+    "context_start": 341.42,
+    "context_end": 348.813375,
+    "feedback": [
+        {
+            "name": "spontB_297_yeah",
+            "start": 343.5,
+            "end": 343.944,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_183_uh-huh",
+            "start": 344.88,
+            "end": 345.573625,
+            "token": "uh-huh"
+        },
+        {
+            "name": "sun1_032_right",
+            "start": 347.97,
+            "end": 348.813375,
+            "token": "right"
+        }
+    ]
+}

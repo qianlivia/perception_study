@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00286",
+    "context_channel": 0,
+    "context_text": "<B> uh you know who are the maintenance crew that are working / <A> wow / <B> on this airplane how many how many um how many drinks has the pilot had / <A> yeah / <B> you know these are really simple clues that you know maybe i shouldn't fly today { you } / <A> [ no ]",
+    "context_start": 384.24,
+    "context_end": 399.350625,
+    "feedback": [
+        {
+            "name": "PS_097_wow",
+            "start": 387.12,
+            "end": 388.76775,
+            "token": "wow"
+        },
+        {
+            "name": "spontA_287_yeah",
+            "start": 393.16,
+            "end": 393.99575000000004,
+            "token": "yeah"
+        },
+        {
+            "name": "NR_037_no",
+            "start": 398.88,
+            "end": 399.350625,
+            "token": "no"
+        }
+    ]
+}

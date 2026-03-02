@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01325",
+    "context_channel": 1,
+    "context_text": "<A> well before i moved i'm in kentucky and before i moved to kentucky i lived in charleston and south carolina i'm { sorry } / <B> [ okay ] / <A> and in charleston south carolina by myself i probably brought home between thirty five and forty and i was married and so you know with a combined income that was decent money for the area / <B> mhm / <A> and then i got divorced and moved to kentucky well my eyes got opened real wide because the job market here is not anything like it was in charleston the pay is very low and it took a little while to get everything adjusted because the cost of living here is a lot lower also but the bills i had made you know credit card bills { or car } / <B> [ huh ] / <A> payments i had made on charleston money / <B> okay",
+    "context_start": 194.09,
+    "context_end": 250.475125,
+    "feedback": [
+        {
+            "name": "spontC_286_okay",
+            "start": 202.81,
+            "end": 203.462,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_257_mhm",
+            "start": 217.04,
+            "end": 217.532375,
+            "token": "mhm"
+        },
+        {
+            "name": "sun2_008_huh",
+            "start": 246.17,
+            "end": 247.04674999999997,
+            "token": "huh"
+        },
+        {
+            "name": "spontD_089_okay",
+            "start": 249.67,
+            "end": 250.475125,
+            "token": "okay"
+        }
+    ]
+}

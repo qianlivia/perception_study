@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_04348",
+    "context_channel": 1,
+    "context_text": "<A> a well see i i i've had a i've had a few in my lifetime / <B> uh-huh / <A> but it depends for me it d would depend maybe on who the best friend might be / <B> okay / <A> but / <B> no / <A> and in some ways i probably wouldn't because / <B> uh-huh / <A> my i'm very loyal / <B> yeah",
+    "context_start": 100.18,
+    "context_end": 119.84637500000001,
+    "feedback": [
+        {
+            "name": "spontC_358_uh-huh",
+            "start": 106.04,
+            "end": 106.625,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_074_okay",
+            "start": 111.36,
+            "end": 112.004125,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_264_no",
+            "start": 112.25,
+            "end": 112.787125,
+            "token": "no"
+        },
+        {
+            "name": "spontE_065_uh-huh",
+            "start": 115.88,
+            "end": 116.32437499999999,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_083_yeah",
+            "start": 118.9,
+            "end": 119.84637500000001,
+            "token": "yeah"
+        }
+    ]
+}

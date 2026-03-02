@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03002",
+    "context_channel": 1,
+    "context_text": "<A> bought this dog for six hundred dollars / <B> right / <A> and about oh f ah four years ago we heard from pom rescue finally / <B> yeah / <A> and they had a dog for us to look at / <B> yeah / <A> so we drove over and looked at this dog / <B> yeah",
+    "context_start": 174.9,
+    "context_end": 188.8795,
+    "feedback": [
+        {
+            "name": "spontC_360_right",
+            "start": 176.92,
+            "end": 177.498875,
+            "token": "right"
+        },
+        {
+            "name": "spontF_054_yeah",
+            "start": 183.26,
+            "end": 183.854875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_049_yeah",
+            "start": 185.48,
+            "end": 186.119125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_310_yeah",
+            "start": 187.99,
+            "end": 188.8795,
+            "token": "yeah"
+        }
+    ]
+}

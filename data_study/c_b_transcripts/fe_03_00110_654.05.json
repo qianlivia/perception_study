@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00110",
+    "context_channel": 1,
+    "context_text": "<A> like war in this age would necessarily involve like very schem scary chemicals and very / <B> yeah / <A> like explosive things { i mean } / <B> [ absolutely ] / <A> i'm a chemistry major and i know like all these things that it can do to you and { that's } / <B> [ absolutely ] / <A> it's not pleasant / <B> no",
+    "context_start": 654.05,
+    "context_end": 668.737125,
+    "feedback": [
+        {
+            "name": "spontB_094_yeah",
+            "start": 659.69,
+            "end": 660.0260000000001,
+            "token": "yeah"
+        },
+        {
+            "name": "PR_049_absolutely",
+            "start": 661.27,
+            "end": 662.356625,
+            "token": "absolutely"
+        },
+        {
+            "name": "sun_036_absolutely",
+            "start": 665.85,
+            "end": 666.888875,
+            "token": "absolutely"
+        },
+        {
+            "name": "spontF_264_no",
+            "start": 668.2,
+            "end": 668.737125,
+            "token": "no"
+        }
+    ]
+}

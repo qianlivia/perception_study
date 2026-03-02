@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02067",
+    "context_channel": 1,
+    "context_text": "<A> it's the you get almost addicted to it it's hard for me to drag myself away sometimes { but i } / <B> [ mhm ] / <A> do set a time limit i tell myself at such and such a time i'm shutting it down / <B> yeah / <A> and uh but it's it's fun you know i have grandchildren / <B> mhm / <A> and they send me emails all the time { about little } / <B> [ yeah ]",
+    "context_start": 307.5,
+    "context_end": 326.12462500000004,
+    "feedback": [
+        {
+            "name": "spontA_318_mhm",
+            "start": 313.14,
+            "end": 313.816875,
+            "token": "mhm"
+        },
+        {
+            "name": "spontE_091_yeah",
+            "start": 318.42,
+            "end": 319.000125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_410_mhm",
+            "start": 323.04,
+            "end": 323.531,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_075_yeah",
+            "start": 325.47,
+            "end": 326.12462500000004,
+            "token": "yeah"
+        }
+    ]
+}

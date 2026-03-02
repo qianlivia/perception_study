@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_00161",
+    "context_channel": 1,
+    "context_text": "<A> you know and i mean if the un as a whole decides you know to to go to war then i guess it's a good decision / <B> gosh / <A> um and i know not everybody in the un is friendly with the us so they might just want to vote against the us / <B> ooh / <A> i think we have to respect the un i mean we became part of it because we believed in it / <B> mmm / <A> and that's how our country works you know by having this kind of system / <B> ugh / <A> you know just like the court system not everybody believes in it but we still follow it and / <B> sure",
+    "context_start": 215.03,
+    "context_end": 242.77775,
+    "feedback": [
+        {
+            "name": "PS_073_gosh",
+            "start": 220.47,
+            "end": 221.4305,
+            "token": "gosh"
+        },
+        {
+            "name": "NegS_011_ooh",
+            "start": 227.58,
+            "end": 228.50900000000001,
+            "token": "ooh"
+        },
+        {
+            "name": "spontD_039_mmm",
+            "start": 232.5,
+            "end": 233.07525,
+            "token": "mmm"
+        },
+        {
+            "name": "NegS_043_ugh",
+            "start": 238.18,
+            "end": 238.815125,
+            "token": "ugh"
+        },
+        {
+            "name": "sun_052_sure",
+            "start": 241.92,
+            "end": 242.77775,
+            "token": "sure"
+        }
+    ]
+}

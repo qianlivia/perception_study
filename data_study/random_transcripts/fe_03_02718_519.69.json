@@ -1,0 +1,45 @@
+{
+    "name": "fe_03_02718",
+    "context_channel": 1,
+    "context_text": "<A> right and didn't and it didn't right when the war started they found ricin gas in um in paris / <B> huh / <A> in a paris subway / <B> yeah / <A> you know i it it just really you know you well you know first of all i think what is important is that the government recognizes that you know with bioterrorism that there there's that when and something does happen it is happening and you know i think about what what's happened with the troops i remember when they first originally came back from from iraq um a lot of them were complaining of of symptoms and had really bad symptoms and the government was { like } / <B> [ yeah ] / <A> oh that's nothing that's nothing we're not going to treat { them } / <B> [ okay ] / <A> the da is not going to do it and they did the same thing in vietnam they you { know people came } / <B> [ yeah ] / <A> back exposed to agent orange and they said uh uh you know you're making it up it's nothing and / <B> uh-huh",
+    "context_start": 519.69,
+    "context_end": 572.42175,
+    "feedback": [
+        {
+            "name": "spontA_241_huh",
+            "start": 526.51,
+            "end": 527.179875,
+            "token": "huh"
+        },
+        {
+            "name": "sun_046_yeah",
+            "start": 528.66,
+            "end": 529.0682499999999,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_146_yeah",
+            "start": 560.34,
+            "end": 561.0382500000001,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_019_okay",
+            "start": 562.73,
+            "end": 563.423125,
+            "token": "okay"
+        },
+        {
+            "name": "spontB_144_yeah",
+            "start": 566.25,
+            "end": 566.841,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_113_uh-huh",
+            "start": 571.79,
+            "end": 572.42175,
+            "token": "uh-huh"
+        }
+    ]
+}

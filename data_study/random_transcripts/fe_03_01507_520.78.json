@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01507",
+    "context_channel": 1,
+    "context_text": "<A> that's good i'm glad you know that you you didn't let it you know get you well like me / <B> wow / <A> you know it just basically changed my my whole way of travel / <B> yeah / <A> anymore you know whereas that was the quickest way to get somewhere / <B> yeah / <A> it's not anymore / <B> uh-huh",
+    "context_start": 520.78,
+    "context_end": 540.9485,
+    "feedback": [
+        {
+            "name": "PS_135_wow",
+            "start": 526.83,
+            "end": 528.070375,
+            "token": "wow"
+        },
+        {
+            "name": "spontA_211_yeah",
+            "start": 532.61,
+            "end": 533.280125,
+            "token": "yeah"
+        },
+        {
+            "name": "PR_062_yeah",
+            "start": 537.93,
+            "end": 538.44225,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_091_uh-huh",
+            "start": 540.43,
+            "end": 540.9485,
+            "token": "uh-huh"
+        }
+    ]
+}

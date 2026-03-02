@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01437",
+    "context_channel": 0,
+    "context_text": "<B> you know it makes you kinda think that one day they might not be there you know i wo / <A> yeah / <B> sometimes planes scare me { i know } / <A> [ yeah ] / <B> it may sound kinda funny but sometimes i hear a plane coming especially now with the war also you know / <A> mhm / <B> you hear a plane and you like look out to make sure that it's not going to crash cause i'm real close to new orleans / <A> mhm",
+    "context_start": 54.98,
+    "context_end": 71.051125,
+    "feedback": [
+        {
+            "name": "spontF_261_yeah",
+            "start": 58.1,
+            "end": 58.658750000000005,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_130_yeah",
+            "start": 60.46,
+            "end": 61.301875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_380_mhm",
+            "start": 65.46,
+            "end": 65.99437499999999,
+            "token": "mhm"
+        },
+        {
+            "name": "spontB_187_mhm",
+            "start": 70.5,
+            "end": 71.051125,
+            "token": "mhm"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03195",
+    "context_channel": 1,
+    "context_text": "<A> but i know what it's like being a single mother because i was for a while / <B> mhm / <A> and um until my kids were they was ten and eleven { until } / <B> [ yeah ] / <A> they was out of high school before i got remarried / <B> okay / <A> and um so but when she's about five / <B> uh-huh",
+    "context_start": 429.96,
+    "context_end": 451.76025000000004,
+    "feedback": [
+        {
+            "name": "spontA_330_mhm",
+            "start": 435.2,
+            "end": 435.87825,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_192_yeah",
+            "start": 441.82,
+            "end": 442.27175,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_071_okay",
+            "start": 444.56,
+            "end": 445.214,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_258_uh-huh",
+            "start": 451.17,
+            "end": 451.76025000000004,
+            "token": "uh-huh"
+        }
+    ]
+}

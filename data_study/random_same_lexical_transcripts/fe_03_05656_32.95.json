@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_05656",
+    "context_channel": 1,
+    "context_text": "<A> um well airport security well um honestly in the past ah i flew plenty of ah you know flights in my life um before nine eleven um it in other words you would never in my opinion see a dog / <B> right / <A> like i used to smoke pot / <B> right / <A> i didn't think twice about like you know bringing some pot with me on { on } / <B> [ sure ] / <A> like my carry on bag i'm / <B> right",
+    "context_start": 32.95,
+    "context_end": 56.153625,
+    "feedback": [
+        {
+            "name": "sun1_032_right",
+            "start": 48.64,
+            "end": 49.483375,
+            "token": "right"
+        },
+        {
+            "name": "sun1_033_right",
+            "start": 50.26,
+            "end": 51.113125,
+            "token": "right"
+        },
+        {
+            "name": "sun_052_sure",
+            "start": 53.7,
+            "end": 54.557750000000006,
+            "token": "sure"
+        },
+        {
+            "name": "sun1_030_right",
+            "start": 55.36,
+            "end": 56.153625,
+            "token": "right"
+        }
+    ]
+}

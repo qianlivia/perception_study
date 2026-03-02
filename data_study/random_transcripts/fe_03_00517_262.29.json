@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00517",
+    "context_channel": 1,
+    "context_text": "<A> see because it don't know how long it's supposed to be for something ask about each other's experience and opinions / <B> uh-huh / <A> their operator will call you back in the next forty eight hours topic / <B> yes / <A> doesn't say for how long / <B> yeah / <A> so it just says if you choose not to talk hang up / <B> mhm",
+    "context_start": 262.29,
+    "context_end": 280.03024999999997,
+    "feedback": [
+        {
+            "name": "spontD_153_uh-huh",
+            "start": 269.62,
+            "end": 270.20425,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PR_003_yes",
+            "start": 275.18,
+            "end": 276.76187500000003,
+            "token": "yes"
+        },
+        {
+            "name": "spontE_366_yeah",
+            "start": 276.67,
+            "end": 277.637,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_133_mhm",
+            "start": 279.39,
+            "end": 280.03024999999997,
+            "token": "mhm"
+        }
+    ]
+}

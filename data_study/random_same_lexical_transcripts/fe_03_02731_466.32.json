@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02731",
+    "context_channel": 0,
+    "context_text": "<B> to be a terrorist / <A> yep / <B> you don't need an army / <A> mhm / <B> you can just you know be { a } / <A> [ exactly ] / <B> terrorist yourself i don't know these terrorist camps are freaky / <A> yeah",
+    "context_start": 466.32,
+    "context_end": 481.09612500000003,
+    "feedback": [
+        {
+            "name": "PR_028_yep",
+            "start": 467.55,
+            "end": 468.3345,
+            "token": "yep"
+        },
+        {
+            "name": "spontA_288_mhm",
+            "start": 469.17,
+            "end": 469.76662500000003,
+            "token": "mhm"
+        },
+        {
+            "name": "sun_016_exactly",
+            "start": 473.23,
+            "end": 474.2635,
+            "token": "exactly"
+        },
+        {
+            "name": "spontF_289_yeah",
+            "start": 480.29,
+            "end": 481.09612500000003,
+            "token": "yeah"
+        }
+    ]
+}

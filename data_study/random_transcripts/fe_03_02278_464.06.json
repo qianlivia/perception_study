@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02278",
+    "context_channel": 0,
+    "context_text": "<B> so i'm just sitting here i said watching the news bored i was out earlier / <A> mhm / <B> it was nice it was real hot then / <A> oh / <B> and then it started raining you know i was like i'm not sitting out here in the rain because i'm not trying to get sick / <A> mhm / <B> i'm like i'm not trying to get sick you know / <A> oh",
+    "context_start": 464.06,
+    "context_end": 487.799625,
+    "feedback": [
+        {
+            "name": "spontA_286_mhm",
+            "start": 470.35,
+            "end": 470.961875,
+            "token": "mhm"
+        },
+        {
+            "name": "Sy_008_oh",
+            "start": 473.23,
+            "end": 474.49100000000004,
+            "token": "oh"
+        },
+        {
+            "name": "sun1_002_mhm",
+            "start": 480.53,
+            "end": 481.31987499999997,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_018_oh",
+            "start": 487.02,
+            "end": 487.799625,
+            "token": "oh"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00066",
+    "context_channel": 0,
+    "context_text": "<B> then the caffeine i i really hardly ever drink more than one or two cups of coffee and that's it i can't drink too much more than that otherwise / <A> mhm / <B> i get really jittery { so } / <A> [ oh ] / <B> and i don't drink coffee after uh noon either because { it'll } / <A> [ mhm ] / <B> keep me up / <A> yeah",
+    "context_start": 302.04,
+    "context_end": 321.016875,
+    "feedback": [
+        {
+            "name": "spontC_350_mhm",
+            "start": 311.52,
+            "end": 312.085,
+            "token": "mhm"
+        },
+        {
+            "name": "Sy_051_oh",
+            "start": 313.6,
+            "end": 314.98375000000004,
+            "token": "oh"
+        },
+        {
+            "name": "spontA_061_mhm",
+            "start": 318.69,
+            "end": 319.215375,
+            "token": "mhm"
+        },
+        {
+            "name": "spontD_134_yeah",
+            "start": 320.17,
+            "end": 321.016875,
+            "token": "yeah"
+        }
+    ]
+}

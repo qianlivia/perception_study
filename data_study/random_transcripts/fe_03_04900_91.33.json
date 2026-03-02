@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04900",
+    "context_channel": 0,
+    "context_text": "<B> because um like i was sore or something / <A> hm / <B> used to get a spec specific medication you could take some kind of we could take / <A> uh-oh / <B> and you know i beat i always beat that test { i } / <A> [ oh ]",
+    "context_start": 91.33,
+    "context_end": 103.20237499999999,
+    "feedback": [
+        {
+            "name": "NS_044_hm",
+            "start": 93.78,
+            "end": 94.358375,
+            "token": "hm"
+        },
+        {
+            "name": "PS_168_uh-oh",
+            "start": 98.46,
+            "end": 99.396125,
+            "token": "uh-oh"
+        },
+        {
+            "name": "Sy_022_oh",
+            "start": 101.38,
+            "end": 103.20237499999999,
+            "token": "oh"
+        }
+    ]
+}

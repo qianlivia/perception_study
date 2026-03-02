@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03197",
+    "context_channel": 1,
+    "context_text": "<A> cat is um my cat is like she's a well it's called siberian she's like really fluffy / <B> oh / <A> hairy uh but she's yeah she's moody but she like actually our neighbors have a siamese cat and / <B> okay / <A> their siamese cat she's a darling i mean she's like she's so nice she's like an aristocrat like she's very kind of gentle and like she you know wouldn't like do kind of stupid shit but like she she like she wouldn't say a word like if you can like do anything with her / <B> okay / <A> which which is kind of not my cat my cat would always / <B> okay",
+    "context_start": 346.84,
+    "context_end": 378.28112500000003,
+    "feedback": [
+        {
+            "name": "spontF_017_oh",
+            "start": 352.84,
+            "end": 353.669375,
+            "token": "oh"
+        },
+        {
+            "name": "spontD_411_okay",
+            "start": 359.44,
+            "end": 359.90387499999997,
+            "token": "okay"
+        },
+        {
+            "name": "spontA_198_okay",
+            "start": 374.19,
+            "end": 374.859625,
+            "token": "okay"
+        },
+        {
+            "name": "spontC_172_okay",
+            "start": 377.87,
+            "end": 378.28112500000003,
+            "token": "okay"
+        }
+    ]
+}

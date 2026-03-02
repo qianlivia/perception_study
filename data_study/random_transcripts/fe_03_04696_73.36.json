@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_04696",
+    "context_channel": 1,
+    "context_text": "<A> actual ah you know the points is one twenty five and i was about one forty / <B> uh-huh / <A> and ah i i my doctor said well tom you are over weight and you should do exercise and lose weight / <B> oh / <A> and until then i belonged to the bali for give or take fifteen years / <B> oh / <A> i go sporadic you know / <B> yeah / <A> and then i started going here in ah atlanta / <B> pardon",
+    "context_start": 73.36,
+    "context_end": 110.06725,
+    "feedback": [
+        {
+            "name": "spontA_199_uh-huh",
+            "start": 78.67,
+            "end": 79.27525,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_248_oh",
+            "start": 93.15,
+            "end": 93.794875,
+            "token": "oh"
+        },
+        {
+            "name": "Sy_022_oh",
+            "start": 100.24,
+            "end": 102.06237499999999,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_221_yeah",
+            "start": 103.21,
+            "end": 103.69562499999999,
+            "token": "yeah"
+        },
+        {
+            "name": "Nu_009_pardon",
+            "start": 109.43,
+            "end": 110.06725,
+            "token": "pardon"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00562",
+    "context_channel": 1,
+    "context_text": "<A> that was really / <B> no / <A> you know what is two plus two / <B> hm / <A> just so that they will win / <B> mmm",
+    "context_start": 234.38,
+    "context_end": 252.896125,
+    "feedback": [
+        {
+            "name": "NR_012_no",
+            "start": 242.71,
+            "end": 243.513375,
+            "token": "no"
+        },
+        {
+            "name": "sun2_038_hm",
+            "start": 249.61,
+            "end": 250.25500000000002,
+            "token": "hm"
+        },
+        {
+            "name": "spontD_063_mmm",
+            "start": 251.9,
+            "end": 252.896125,
+            "token": "mmm"
+        }
+    ]
+}

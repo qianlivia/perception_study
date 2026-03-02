@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02044",
+    "context_channel": 0,
+    "context_text": "<B> yeah we've we've snorkeled in bermuda and um went to grand cayman / <A> aww / <B> and um i just got married like two years ago and we went to hawaii and so that wasn't that wasn't as easy as grand cayman and that just because the water's really rough / <A> oh / <B> in hawaii but / <A> aww / <B> ah it's cool / <A> yeah",
+    "context_start": 401.94,
+    "context_end": 420.90625,
+    "feedback": [
+        {
+            "name": "spontF_668_aww",
+            "start": 406.13,
+            "end": 406.7505,
+            "token": "aww"
+        },
+        {
+            "name": "spontF_320_oh",
+            "start": 415.93,
+            "end": 416.632375,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_363_aww",
+            "start": 418.15,
+            "end": 418.722625,
+            "token": "aww"
+        },
+        {
+            "name": "spontD_365_yeah",
+            "start": 420.05,
+            "end": 420.90625,
+            "token": "yeah"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_01866",
+    "context_channel": 1,
+    "context_text": "<A> yeah see they don't know if she committed it was a drug overdose like we don't know if she committed suicide or { if } / <B> [ right ] / <A> it how it was you know and i've had a couple you know living in new orleans it's not that common to have drug overdoses { and there's been a } / <B> [ right ] / <A> couple in my life / <B> right / <A> you know and i'm fortunate enough to not have to draw myself out of that when it got that bad { when things } / <B> [ yeah ] / <A> started getting bad that i walked { because } / <B> [ mhm ]",
+    "context_start": 375.61,
+    "context_end": 398.3115,
+    "feedback": [
+        {
+            "name": "PR_043_right",
+            "start": 380.4,
+            "end": 381.06,
+            "token": "right"
+        },
+        {
+            "name": "PR_048_right",
+            "start": 386.19,
+            "end": 386.825125,
+            "token": "right"
+        },
+        {
+            "name": "sun1_032_right",
+            "start": 388.21,
+            "end": 389.05337499999996,
+            "token": "right"
+        },
+        {
+            "name": "spontB_143_yeah",
+            "start": 394.99,
+            "end": 395.666125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_111_mhm",
+            "start": 397.88,
+            "end": 398.3115,
+            "token": "mhm"
+        }
+    ]
+}

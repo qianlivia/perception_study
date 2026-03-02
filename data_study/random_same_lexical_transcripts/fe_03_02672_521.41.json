@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02672",
+    "context_channel": 1,
+    "context_text": "<A> yeah that's great um most of my family we're all pretty much on the west side / <B> mhm / <A> so it's not too bad my parents still live in san diego and i have an uncle in la so you know we're only five hours away so it's not too hard to get together but / <B> yeah / <A> i spent some time in florida and so i was so far away from my family that you know it was hard to get together even for holidays you { know you } / <B> [ uh-huh ] / <A> have to buy a plane ticket and you know have all that time off of work to make { it } / <B> [ mhm ]",
+    "context_start": 521.41,
+    "context_end": 550.03775,
+    "feedback": [
+        {
+            "name": "spontA_061_mhm",
+            "start": 527.49,
+            "end": 528.0153750000001,
+            "token": "mhm"
+        },
+        {
+            "name": "spontB_022_yeah",
+            "start": 537.44,
+            "end": 538.316,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_303_uh-huh",
+            "start": 544.17,
+            "end": 544.6993749999999,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontB_212_mhm",
+            "start": 549.26,
+            "end": 550.03775,
+            "token": "mhm"
+        }
+    ]
+}

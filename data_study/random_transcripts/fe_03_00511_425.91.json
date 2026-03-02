@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00511",
+    "context_channel": 0,
+    "context_text": "<B> i teach critical thinking one and two i teach um expository writing and i teach research writing at marymount manhattan / <A> no / <B> college which is um a private liberal arts coed school in the upper east side so / <A> yeah / <B> uh kind of like what used to be except it's / <A> mhm / <B> like marymount used to be a catholic all girls school but / <A> oh",
+    "context_start": 425.91,
+    "context_end": 448.68100000000004,
+    "feedback": [
+        {
+            "name": "NR_031_no",
+            "start": 432.2,
+            "end": 433.07925,
+            "token": "no"
+        },
+        {
+            "name": "spontF_512_yeah",
+            "start": 439.58,
+            "end": 440.56624999999997,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_331_mhm",
+            "start": 443.88,
+            "end": 444.538875,
+            "token": "mhm"
+        },
+        {
+            "name": "Sy_008_oh",
+            "start": 447.42,
+            "end": 448.68100000000004,
+            "token": "oh"
+        }
+    ]
+}

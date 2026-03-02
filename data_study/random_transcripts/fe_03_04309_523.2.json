@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_04309",
+    "context_channel": 1,
+    "context_text": "<A> eight years of prosperity and no you know eight years going with the clinton administration in which he did his fair share of wrong but / <B> uh / <A> it just seems like and since bush got in office nothing against him { but we } / <B> [ jeez ] / <A> went from eight years of record breaking numbers the stock market climbing to ultimate highs the dot com business you know before the bubble busted was just / <B> yeah / <A> raving people were making a killing { more } / <B> [ mhm ] / <A> self make millionaires than ever / <B> wow",
+    "context_start": 523.2,
+    "context_end": 546.373875,
+    "feedback": [
+        {
+            "name": "NegS_010_uh",
+            "start": 528.68,
+            "end": 530.027375,
+            "token": "uh"
+        },
+        {
+            "name": "NegS_002_jeez",
+            "start": 533.05,
+            "end": 534.300125,
+            "token": "jeez"
+        },
+        {
+            "name": "spontD_240_yeah",
+            "start": 541.31,
+            "end": 541.9727499999999,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_180_mhm",
+            "start": 543.63,
+            "end": 544.1743749999999,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_077_wow",
+            "start": 545.57,
+            "end": 546.373875,
+            "token": "wow"
+        }
+    ]
+}

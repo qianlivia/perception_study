@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_01011",
+    "context_channel": 0,
+    "context_text": "<B> our company i worked for a wireless company and um they closed down the chicago location that's where i'm from they closed / <A> uh-huh / <B> that down back in late august / <A> aww / <B> and um i did start a business after that but it didn't take off and so i've been looking for the last probably two months three months but two months more digilent diligently / <A> yeah / <B> so um yeah i'm still i'm still looking the economy's just so poor people are looking at to try and get me to take ten thousand dollars less than / <A> yeah / <B> than i'd worked for for the last thirteen years and i just you know / <A> yeah",
+    "context_start": 368.05,
+    "context_end": 401.742125,
+    "feedback": [
+        {
+            "name": "spontC_186_uh-huh",
+            "start": 374.56,
+            "end": 375.03525,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_296_aww",
+            "start": 376.32,
+            "end": 376.905875,
+            "token": "aww"
+        },
+        {
+            "name": "spontF_380_yeah",
+            "start": 388.23,
+            "end": 388.8435,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_059_yeah",
+            "start": 396.67,
+            "end": 397.551375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_110_yeah",
+            "start": 400.81,
+            "end": 401.742125,
+            "token": "yeah"
+        }
+    ]
+}

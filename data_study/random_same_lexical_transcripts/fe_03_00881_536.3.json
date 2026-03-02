@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00881",
+    "context_channel": 1,
+    "context_text": "<A> is it really i just thought it was bizarre i'm like uh i don't know about that one did you like it though / <B> yeah / <A> you did / <B> yeah / <A> oh that's cool you know cough i don't i really don't think that's very chick flicky though / <B> no",
+    "context_start": 536.3,
+    "context_end": 554.1343750000001,
+    "feedback": [
+        {
+            "name": "spontB_132_yeah",
+            "start": 544.24,
+            "end": 545.147125,
+            "token": "yeah"
+        },
+        {
+            "name": "PR_035_yeah",
+            "start": 545.64,
+            "end": 546.438625,
+            "token": "yeah"
+        },
+        {
+            "name": "NR_095_no",
+            "start": 553.07,
+            "end": 554.1343750000001,
+            "token": "no"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02062",
+    "context_channel": 1,
+    "context_text": "<A> really humid and um i didn't think it was going to be that bad / <B> aww / <A> um because i was like you know coming from sort of the northeast i figured that well philadelphia's still in the northeast but { it's } / <B> [ yeah ] / <A> haven't because of sort of like the currents of air i don't even know i don't think it's gulf stream at that point but { um } / <B> [ uh-huh ] / <A> you know because of everything else it was just it just gets so so muggy to the point that there's this um sort of distinct philadelphia style / <B> mhm",
+    "context_start": 210.56,
+    "context_end": 238.72787499999998,
+    "feedback": [
+        {
+            "name": "Sy_046_aww",
+            "start": 214.77,
+            "end": 216.377125,
+            "token": "aww"
+        },
+        {
+            "name": "spontB_323_yeah",
+            "start": 221.29,
+            "end": 222.27675,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_195_uh-huh",
+            "start": 228.41,
+            "end": 228.96075,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontE_268_mhm",
+            "start": 238.16,
+            "end": 238.72787499999998,
+            "token": "mhm"
+        }
+    ]
+}

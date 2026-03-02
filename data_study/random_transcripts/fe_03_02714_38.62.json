@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_02714",
+    "context_channel": 0,
+    "context_text": "<B> i think uh north korea is uh an issue that needs to be addressed you know however uh you need to tread lightly with uh what that country and their dictator a / <A> no / <B> very dangerous uh country { seeing } / <A> [ sorry ] / <B> that they have uh one missile pointing at south korea and one in tokyo / <A> wow / <B> you know it's really yeah really dangerous more dangerous than uh the issue with iraq / <A> uh-huh / <B> so / <A> uh-huh",
+    "context_start": 38.62,
+    "context_end": 69.529375,
+    "feedback": [
+        {
+            "name": "NR_080_no",
+            "start": 50.1,
+            "end": 50.97475,
+            "token": "no"
+        },
+        {
+            "name": "Nu_030_sorry",
+            "start": 53.21,
+            "end": 53.970375000000004,
+            "token": "sorry"
+        },
+        {
+            "name": "spontF_097_wow",
+            "start": 59.19,
+            "end": 59.634125,
+            "token": "wow"
+        },
+        {
+            "name": "spontD_199_uh-huh",
+            "start": 66.93,
+            "end": 67.4375,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_321_uh-huh",
+            "start": 68.97,
+            "end": 69.529375,
+            "token": "uh-huh"
+        }
+    ]
+}

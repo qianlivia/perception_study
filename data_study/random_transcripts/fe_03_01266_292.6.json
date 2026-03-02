@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_01266",
+    "context_channel": 0,
+    "context_text": "<B> ah pretty meg meg ryan and { you know those } / <A> [ ooh ] / <B> ah pretty light light / <A> mmm / <B> romantic comedy those are you know those i like too and then suspense and then i well i i like action too { one } / <A> [ no ]",
+    "context_start": 292.6,
+    "context_end": 307.205625,
+    "feedback": [
+        {
+            "name": "spontF_486_ooh",
+            "start": 295.11,
+            "end": 296.101875,
+            "token": "ooh"
+        },
+        {
+            "name": "spontD_201_mmm",
+            "start": 297.06,
+            "end": 297.851875,
+            "token": "mmm"
+        },
+        {
+            "name": "sun2_021_no",
+            "start": 306.28,
+            "end": 307.205625,
+            "token": "no"
+        }
+    ]
+}

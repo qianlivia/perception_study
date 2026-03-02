@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_00736",
+    "context_channel": 1,
+    "context_text": "<A> have you ever seen izzi izard / <B> no / <A> oh he is really really cool he's an / <B> okay / <A> intelligent and wise comedian as well he talks about the history and { he } / <B> [ uh-huh ] / <A> doesn't go over the line / <B> uh-huh / <A> you know as far as like sexual or pointing like fingers at certain social or ethnic groups and stuff like that yeah he's really cool / <B> yeah",
+    "context_start": 119.46,
+    "context_end": 135.94312499999998,
+    "feedback": [
+        {
+            "name": "NR_109_no",
+            "start": 121.46,
+            "end": 122.24449999999999,
+            "token": "no"
+        },
+        {
+            "name": "spontF_317_okay",
+            "start": 123.66,
+            "end": 124.512,
+            "token": "okay"
+        },
+        {
+            "name": "spontE_304_uh-huh",
+            "start": 127.24,
+            "end": 127.72762499999999,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_380_uh-huh",
+            "start": 128.59,
+            "end": 129.106125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_299_yeah",
+            "start": 135.42,
+            "end": 135.94312499999998,
+            "token": "yeah"
+        }
+    ]
+}

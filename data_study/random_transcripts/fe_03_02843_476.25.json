@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02843",
+    "context_channel": 0,
+    "context_text": "<B> you see them like appear at charities like oh you know uh be i i helped donate like two thousand dollars and please people call in and just give us your money for to help these poor kids it's like hello um why don't you donate more money { cause } / <A> [ pardon ] / <B> you obviously can afford it half the people here are you know out of jobs or trying to pay off their mortgage or what not { so what do you do are } / <A> [ wow ] / <B> you just buying another mansion / <A> okay / <B> yeah uh i don't like it like all there's a lotta those people today they're / <A> uh-huh",
+    "context_start": 476.25,
+    "context_end": 504.368,
+    "feedback": [
+        {
+            "name": "Nu_047_pardon",
+            "start": 489.0,
+            "end": 489.621,
+            "token": "pardon"
+        },
+        {
+            "name": "PS_190_wow",
+            "start": 495.05,
+            "end": 496.406875,
+            "token": "wow"
+        },
+        {
+            "name": "spontF_181_okay",
+            "start": 498.42,
+            "end": 499.161875,
+            "token": "okay"
+        },
+        {
+            "name": "spontB_140_uh-huh",
+            "start": 503.83,
+            "end": 504.368,
+            "token": "uh-huh"
+        }
+    ]
+}

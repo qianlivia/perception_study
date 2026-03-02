@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04044",
+    "context_channel": 0,
+    "context_text": "<B> we used to think that but boy the economy is so bad up here in oregon that i mean it's mostly a tech uh techtronic type i mean a lot of technology places { and that } / <A> [ wow ] / <B> has just really caused the unemployment to be unreal so there's { a lot } / <A> [ huh ] / <B> of competition for every little jo even the funny thing was they had a a job offer for people to take movie tickets and they had { a } / <A> [ exactly ] / <B> hundred and fifty people standing in line the least of which you know had four year degrees / <A> uh-huh",
+    "context_start": 234.38,
+    "context_end": 267.169375,
+    "feedback": [
+        {
+            "name": "PS_078_wow",
+            "start": 246.33,
+            "end": 247.416625,
+            "token": "wow"
+        },
+        {
+            "name": "NS_012__huh",
+            "start": 251.53,
+            "end": 252.464125,
+            "token": "huh"
+        },
+        {
+            "name": "sun_015_exactly",
+            "start": 259.82,
+            "end": 260.92175,
+            "token": "exactly"
+        },
+        {
+            "name": "spontA_321_uh-huh",
+            "start": 266.61,
+            "end": 267.169375,
+            "token": "uh-huh"
+        }
+    ]
+}

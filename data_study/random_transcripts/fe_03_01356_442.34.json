@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01356",
+    "context_channel": 1,
+    "context_text": "<A> well i i'm with you and it's kinda dumb because my girlfriend got one / <B> yeah / <A> uh she's starting she started working kind of across town and she doesn't like to ever running out of gas or whatever / <B> mhm / <A> well so then it was okay and it was kinda neat to call her if she was at the store or something well then we had verizon it was twenty bucks more and they gave you a free phone twenty bucks more a month / <B> wow / <A> and we could share the deal / <B> uh-huh",
+    "context_start": 442.34,
+    "context_end": 468.54887499999995,
+    "feedback": [
+        {
+            "name": "spontE_067_yeah",
+            "start": 446.62,
+            "end": 447.214875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_285_mhm",
+            "start": 453.23,
+            "end": 453.7755,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_112_wow",
+            "start": 465.42,
+            "end": 466.63162500000004,
+            "token": "wow"
+        },
+        {
+            "name": "spontA_037_uh-huh",
+            "start": 467.96,
+            "end": 468.54887499999995,
+            "token": "uh-huh"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02108",
+    "context_channel": 0,
+    "context_text": "<B> and i can't afford to eat out / <A> right / <B> but that that's her thing / <A> right / <B> and um she still wants half the refrigerator she's now on weight watchers and / <A> uh-huh / <B> she's counting points / <A> yeah",
+    "context_start": 282.02,
+    "context_end": 295.509375,
+    "feedback": [
+        {
+            "name": "sun1_032_right",
+            "start": 283.94,
+            "end": 284.783375,
+            "token": "right"
+        },
+        {
+            "name": "PR_043_right",
+            "start": 287.03,
+            "end": 287.69,
+            "token": "right"
+        },
+        {
+            "name": "spontA_290_uh-huh",
+            "start": 293.51,
+            "end": 294.00975,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_382_yeah",
+            "start": 295.08,
+            "end": 295.509375,
+            "token": "yeah"
+        }
+    ]
+}

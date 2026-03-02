@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03435",
+    "context_channel": 0,
+    "context_text": "<B> about yourse well think / <A> right / <B> about yourself but don't think / <A> yes / <B> about just yourself you have { to think } / <A> [ right ]",
+    "context_start": 149.4,
+    "context_end": 155.003625,
+    "feedback": [
+        {
+            "name": "sun1_033_right",
+            "start": 150.46,
+            "end": 151.313125,
+            "token": "right"
+        },
+        {
+            "name": "PR_015_yes",
+            "start": 152.14,
+            "end": 153.133625,
+            "token": "yes"
+        },
+        {
+            "name": "sun1_030_right",
+            "start": 154.21,
+            "end": 155.003625,
+            "token": "right"
+        }
+    ]
+}

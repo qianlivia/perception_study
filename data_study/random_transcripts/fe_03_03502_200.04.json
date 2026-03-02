@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_03502",
+    "context_channel": 1,
+    "context_text": "<A> and i remember working behind the ice cream counter i i used to be the ice cream guy { and } / <B> [ pardon ] / <A> i used to um have this one customer that would in and be very rude and he would expect and demand so one day he looked at me and he says oh don't worry you'll be all right you know you you'll one of these days you'll get a real job and i and i looked at him straight in the face and said you know you don't understand i'm not here i'm not here for a career i'm here to make to make money so i can have money in my pocket / <B> no / <A> okay um the difference between you and me is is what i told this guy the the difference between you and me is is that i don't need this money to survive off i live with my parents and you know i mean at the time you know of course / <B> mhm / <A> when i in my twenties / <B> mmm / <A> uh i'm much older now i'm i'm thirty three but / <B> ooh",
+    "context_start": 200.04,
+    "context_end": 240.25975000000003,
+    "feedback": [
+        {
+            "name": "Nu_036_pardon",
+            "start": 203.85,
+            "end": 204.475625,
+            "token": "pardon"
+        },
+        {
+            "name": "NR_059_no",
+            "start": 223.02,
+            "end": 223.895375,
+            "token": "no"
+        },
+        {
+            "name": "spontF_311_mhm",
+            "start": 235.12,
+            "end": 235.620125,
+            "token": "mhm"
+        },
+        {
+            "name": "Sy_058_mmm",
+            "start": 236.87,
+            "end": 238.086875,
+            "token": "mmm"
+        },
+        {
+            "name": "PS_153_ooh",
+            "start": 239.36,
+            "end": 240.25975000000003,
+            "token": "ooh"
+        }
+    ]
+}

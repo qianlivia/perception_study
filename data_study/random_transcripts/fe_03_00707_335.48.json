@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00707",
+    "context_channel": 1,
+    "context_text": "<A> like no matter what you do to try to prevent it someone else comes up with another way to you're like okay you / <B> sure / <A> should of thought about it you know the possibility of of that occurring / <B> no / <A> right / <B> oh / <A> for other things but i think things have just gotten so advanced / <B> yeah",
+    "context_start": 335.48,
+    "context_end": 389.53612499999997,
+    "feedback": [
+        {
+            "name": "sun_050_sure",
+            "start": 358.14,
+            "end": 359.15575,
+            "token": "sure"
+        },
+        {
+            "name": "NR_043_no",
+            "start": 363.8,
+            "end": 364.5855,
+            "token": "no"
+        },
+        {
+            "name": "PS_015_oh",
+            "start": 370.07,
+            "end": 371.1315,
+            "token": "oh"
+        },
+        {
+            "name": "spontE_168_yeah",
+            "start": 388.83,
+            "end": 389.53612499999997,
+            "token": "yeah"
+        }
+    ]
+}

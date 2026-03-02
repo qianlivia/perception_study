@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00448",
+    "context_channel": 1,
+    "context_text": "<A> and they don't have that handle on the top or anything { and i mean they } / <B> [ uh ] / <A> go really fast { but you } / <B> [ yeah ] / <A> just don't see it and and it's such a big deal because the weather people get all bent out of shape / <B> yeah / <A> and they assume that we're having some sort of a catastrophe { and } / <B> [ okay ]",
+    "context_start": 174.18,
+    "context_end": 190.13825,
+    "feedback": [
+        {
+            "name": "PS_003_uh",
+            "start": 176.21,
+            "end": 176.75,
+            "token": "uh"
+        },
+        {
+            "name": "spontC_405_yeah",
+            "start": 178.36,
+            "end": 178.97625000000002,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_229_yeah",
+            "start": 184.74,
+            "end": 185.18187500000002,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_053_okay",
+            "start": 189.31,
+            "end": 190.13825,
+            "token": "okay"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03188",
+    "context_channel": 1,
+    "context_text": "<A> you have kids so / <B> oh / <A> for the better / <B> uh-huh / <A> sometimes you wonder but / <B> no",
+    "context_start": 471.22,
+    "context_end": 477.190875,
+    "feedback": [
+        {
+            "name": "spontF_614_oh",
+            "start": 472.69,
+            "end": 473.546625,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_092_uh-huh",
+            "start": 474.56,
+            "end": 475.239125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "NR_094_no",
+            "start": 476.17,
+            "end": 477.190875,
+            "token": "no"
+        }
+    ]
+}

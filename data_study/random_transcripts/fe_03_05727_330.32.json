@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_05727",
+    "context_channel": 1,
+    "context_text": "<A> they can show they're computer literate and { that } / <B> [ no ] / <A> kinda stuff i mean i can't / <B> uh-huh / <A> imagine being anywhere in any job or any / <B> wow / <A> field of study and not be exposed to computers { or be } / <B> [ no ] / <A> expected to have some minimal / <B> oh",
+    "context_start": 330.32,
+    "context_end": 346.07475,
+    "feedback": [
+        {
+            "name": "NR_081_no",
+            "start": 333.36,
+            "end": 334.20825,
+            "token": "no"
+        },
+        {
+            "name": "spontF_581_uh-huh",
+            "start": 335.55,
+            "end": 336.03587500000003,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PS_095_wow",
+            "start": 338.9,
+            "end": 339.93537499999996,
+            "token": "wow"
+        },
+        {
+            "name": "NR_002_no",
+            "start": 342.57,
+            "end": 343.33912499999997,
+            "token": "no"
+        },
+        {
+            "name": "Sy_077_oh",
+            "start": 345.04,
+            "end": 346.07475,
+            "token": "oh"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_02108",
+    "context_channel": 0,
+    "context_text": "<B> [ i have a ] yeah well i have a room mate situation and i've known her for about fifteen years and um thank god she spends six months in florida / <A> yeah / <B> i'm actually renting a room in her house but { i get } / <A> [ yeah ] / <B> the whole house for six months / <A> wow / <B> she's due back the fifteenth of may / <A> yeah / <B> with her three dogs and two cats / <A> yeah",
+    "context_start": 178.0,
+    "context_end": 201.447625,
+    "feedback": [
+        {
+            "name": "spontC_053_yeah",
+            "start": 189.8,
+            "end": 190.299125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_016_yeah",
+            "start": 193.23,
+            "end": 193.624875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_097_wow",
+            "start": 195.34,
+            "end": 195.78412500000002,
+            "token": "wow"
+        },
+        {
+            "name": "spontD_365_yeah",
+            "start": 198.37,
+            "end": 199.22625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_153_yeah",
+            "start": 200.85,
+            "end": 201.447625,
+            "token": "yeah"
+        }
+    ]
+}

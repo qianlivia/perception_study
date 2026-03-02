@@ -1,0 +1,45 @@
+{
+    "name": "fe_03_01786",
+    "context_channel": 1,
+    "context_text": "<A> yeah i know it's grown tremendously just in the last five years / <B> right / <A> and i think i first went on the internet in ninety seven / <B> hm / <A> ninety six yeah might've been ninety six and you know a friend of mine had been talking about it for a couple of years you know he knew all about it he was very up on that / <B> yeah / <A> and yeah it was it was pretty interesting and i think my nieces started having it you know when they first started school / <B> uh-huh / <A> you know now they i mean they're using it / <B> yeah / <A> all the time they they know an awful lot cause they are learning younger and i think they are a lot more adept with the mouse / <B> mhm",
+    "context_start": 496.03,
+    "context_end": 536.3969999999999,
+    "feedback": [
+        {
+            "name": "sun1_030_right",
+            "start": 501.36,
+            "end": 502.15362500000003,
+            "token": "right"
+        },
+        {
+            "name": "sun2_024_hm",
+            "start": 505.74,
+            "end": 507.10175,
+            "token": "hm"
+        },
+        {
+            "name": "spontB_192_yeah",
+            "start": 516.15,
+            "end": 516.70475,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_189_uh-huh",
+            "start": 526.56,
+            "end": 527.0402499999999,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_145_yeah",
+            "start": 529.54,
+            "end": 530.213625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_271_mhm",
+            "start": 535.8,
+            "end": 536.3969999999999,
+            "token": "mhm"
+        }
+    ]
+}

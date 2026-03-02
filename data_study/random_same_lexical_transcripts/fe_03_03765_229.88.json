@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03765",
+    "context_channel": 1,
+    "context_text": "<A> and they kind of like uh think that you're from nowhere / <B> yeah / <A> e especially way up in the rustic county / <B> mhm / <A> and there's a lot of uh french intermit you know like canadian french and / <B> mhm / <A> and the call it the valley the french of the valley / <B> mhm",
+    "context_start": 229.88,
+    "context_end": 251.0345,
+    "feedback": [
+        {
+            "name": "spontB_384_yeah",
+            "start": 236.32,
+            "end": 237.00125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_191_mhm",
+            "start": 239.11,
+            "end": 239.83537500000003,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_330_mhm",
+            "start": 246.17,
+            "end": 246.65362499999998,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_415_mhm",
+            "start": 250.5,
+            "end": 251.0345,
+            "token": "mhm"
+        }
+    ]
+}

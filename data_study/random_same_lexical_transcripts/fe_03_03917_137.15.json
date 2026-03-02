@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03917",
+    "context_channel": 0,
+    "context_text": "<B> i'm fifty two so i've / <A> uh-huh / <B> seen the when comedy first came on / <A> right / <B> television and i was younger where my kids are now / <A> right / <B> and what they're showing now and ah there's quite a swing / <A> yeah",
+    "context_start": 137.15,
+    "context_end": 152.777625,
+    "feedback": [
+        {
+            "name": "spontB_129_uh-huh",
+            "start": 138.64,
+            "end": 139.12337499999998,
+            "token": "uh-huh"
+        },
+        {
+            "name": "sun1_032_right",
+            "start": 143.3,
+            "end": 144.14337500000002,
+            "token": "right"
+        },
+        {
+            "name": "sun1_031_right",
+            "start": 147.28,
+            "end": 148.07425,
+            "token": "right"
+        },
+        {
+            "name": "spontA_052_yeah",
+            "start": 152.18,
+            "end": 152.777625,
+            "token": "yeah"
+        }
+    ]
+}

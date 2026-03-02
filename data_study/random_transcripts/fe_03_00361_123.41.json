@@ -1,0 +1,45 @@
+{
+    "name": "fe_03_00361",
+    "context_channel": 0,
+    "context_text": "<B> yeah yeah yeah i know that so i think mm there's some advantages and disadvantages / <A> mmm / <B> and recently i read a students in california you know in california there some affirmative actions in the enrollment of college students / <A> hm / <B> because in california there's more latinos i'm maybe more then half in / <A> uh-huh / <B> total population / <A> yeah / <B> but you know but asia students got higher score then even latinos so if they enroll student according to the scores so we are more asia students would be enrolled then the latino students / <A> yeah / <B> so you you know i'm i'm a chinese so i really and news for chinese newspaper and uh some chinese students in california complain about that because even though they got very very higher score then then latino especially mexicans / <A> mhm",
+    "context_start": 123.41,
+    "context_end": 200.091625,
+    "feedback": [
+        {
+            "name": "Sy_067_mmm",
+            "start": 132.88,
+            "end": 134.142125,
+            "token": "mmm"
+        },
+        {
+            "name": "sun2_032_hm",
+            "start": 147.24,
+            "end": 148.01125000000002,
+            "token": "hm"
+        },
+        {
+            "name": "spontA_406_uh-huh",
+            "start": 155.4,
+            "end": 156.00637500000002,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontB_239_yeah",
+            "start": 157.0,
+            "end": 157.546875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_346_yeah",
+            "start": 175.34,
+            "end": 175.769125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_275_mhm",
+            "start": 199.57,
+            "end": 200.091625,
+            "token": "mhm"
+        }
+    ]
+}

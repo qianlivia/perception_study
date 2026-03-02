@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_02618",
+    "context_channel": 1,
+    "context_text": "<A> um i have to say that i'm not fully my ex husband is a marine corps reserve and has / <B> hm / <A> um a history with the marine corps was you know an officer with the marine corps and { has been called } / <B> [ mmm ] / <A> back up for fulltime duty and { like i } / <B> [ yeah ] / <A> say he is my ex so we don't believe you know we don't we don't / <B> wow / <A> believe all the same things um / <B> no",
+    "context_start": 176.4,
+    "context_end": 199.53312499999998,
+    "feedback": [
+        {
+            "name": "NS_006_hm",
+            "start": 183.15,
+            "end": 183.638375,
+            "token": "hm"
+        },
+        {
+            "name": "spontE_395_mmm",
+            "start": 188.49,
+            "end": 189.494875,
+            "token": "mmm"
+        },
+        {
+            "name": "spontB_323_yeah",
+            "start": 191.62,
+            "end": 192.60675,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_057_wow",
+            "start": 196.34,
+            "end": 197.077375,
+            "token": "wow"
+        },
+        {
+            "name": "spontA_380_no",
+            "start": 198.66,
+            "end": 199.53312499999998,
+            "token": "no"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "name": "fe_03_03377",
+    "context_channel": 1,
+    "context_text": "<A> stupid fights but i'm / <B> yeah / <A> i'm the man of the house um when it comes { to if } / <B> [ uh-huh ] / <A> something / <B> mhm / <A> breaks or { or } / <B> [ right ] / <A> whatever and sometimes i'd like it if he would he's al he's been so used to me just kinda taking over / <B> uh-huh / <A> and and fixing things but / <B> right / <A> sometimes i'd like him to { just you know } / <B> [ mhm ]",
+    "context_start": 337.6,
+    "context_end": 357.323125,
+    "feedback": [
+        {
+            "name": "PS_042_yeah",
+            "start": 339.14,
+            "end": 340.506625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_107_uh-huh",
+            "start": 341.8,
+            "end": 342.42650000000003,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PR_051_mhm",
+            "start": 342.96,
+            "end": 343.78274999999996,
+            "token": "mhm"
+        },
+        {
+            "name": "PR_048_right",
+            "start": 344.62,
+            "end": 345.255125,
+            "token": "right"
+        },
+        {
+            "name": "spontC_386_uh-huh",
+            "start": 350.43,
+            "end": 350.9765,
+            "token": "uh-huh"
+        },
+        {
+            "name": "sun_013_right",
+            "start": 353.74,
+            "end": 354.6135,
+            "token": "right"
+        },
+        {
+            "name": "spontA_064_mhm",
+            "start": 356.8,
+            "end": 357.323125,
+            "token": "mhm"
+        }
+    ]
+}

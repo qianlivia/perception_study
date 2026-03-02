@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_04447",
+    "context_channel": 1,
+    "context_text": "<A> so the medical field uh / <B> right / <A> for women / <B> yep / <A> is is a tremendous tremendous field in opportunity / <B> right / <A> and and it's basic i have a son that has special needs / <B> okay / <A> and so one of us had had to be around twenty four seven { and and it } / <B> [ okay ]",
+    "context_start": 540.58,
+    "context_end": 554.788,
+    "feedback": [
+        {
+            "name": "spontC_360_right",
+            "start": 541.88,
+            "end": 542.458875,
+            "token": "right"
+        },
+        {
+            "name": "PR_027_yep",
+            "start": 543.53,
+            "end": 544.0727499999999,
+            "token": "yep"
+        },
+        {
+            "name": "PR_048_right",
+            "start": 546.64,
+            "end": 547.275125,
+            "token": "right"
+        },
+        {
+            "name": "spontC_172_okay",
+            "start": 549.66,
+            "end": 550.0711249999999,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_583_okay",
+            "start": 553.61,
+            "end": 554.788,
+            "token": "okay"
+        }
+    ]
+}

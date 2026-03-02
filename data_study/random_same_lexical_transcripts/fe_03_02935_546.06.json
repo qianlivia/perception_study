@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_02935",
+    "context_channel": 1,
+    "context_text": "<A> ye yeah i mean you can watch i do i will i do like to watch the olympics you know when / <B> mhm / <A> those are on cause i i like to watch that type of sport you { know } / <B> [ yes ] / <A> diving and uh now the figure skatin figure skating i used to like it and it's gotten a little annoying over the last couple of years but / <B> yeah / <A> all a bunch of prima donnas but i don't know my wife actually used to work for uh us swimming we used to live in colorado springs / <B> okay / <A> and she worked for um us swimming at the uh us olympic training center / <B> mhm",
+    "context_start": 546.06,
+    "context_end": 578.550125,
+    "feedback": [
+        {
+            "name": "spontB_121_mhm",
+            "start": 550.2,
+            "end": 550.7335,
+            "token": "mhm"
+        },
+        {
+            "name": "PR_026_yes",
+            "start": 553.45,
+            "end": 554.0443750000001,
+            "token": "yes"
+        },
+        {
+            "name": "spontC_024_yeah",
+            "start": 561.17,
+            "end": 561.909625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_071_okay",
+            "start": 571.34,
+            "end": 571.994,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_311_mhm",
+            "start": 578.05,
+            "end": 578.550125,
+            "token": "mhm"
+        }
+    ]
+}

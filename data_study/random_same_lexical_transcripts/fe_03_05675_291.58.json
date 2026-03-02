@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_05675",
+    "context_channel": 1,
+    "context_text": "<A> because this is getting us spread thin in areas that we have no knowledge obviously / <B> right / <A> it's obvious that the president is giving speeches based on information that may or may not be correct / <B> right / <A> and it's whatever is politically expedient for him to say rather than the truth / <B> right",
+    "context_start": 291.58,
+    "context_end": 312.12424999999996,
+    "feedback": [
+        {
+            "name": "sun_007_right",
+            "start": 297.55,
+            "end": 298.4395,
+            "token": "right"
+        },
+        {
+            "name": "PR_048_right",
+            "start": 306.32,
+            "end": 306.955125,
+            "token": "right"
+        },
+        {
+            "name": "sun1_031_right",
+            "start": 311.33,
+            "end": 312.12424999999996,
+            "token": "right"
+        }
+    ]
+}

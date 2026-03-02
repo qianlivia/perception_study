@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00772",
+    "context_channel": 1,
+    "context_text": "<A> there's a lot of um there is a lot of wealth / <B> yeah / <A> extreme wealth too / <B> yeah / <A> ah at one time florida's number one crop were oranges you know that's what was the thing / <B> right",
+    "context_start": 448.35,
+    "context_end": 460.89000000000004,
+    "feedback": [
+        {
+            "name": "spontD_365_yeah",
+            "start": 451.91,
+            "end": 452.76625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_282_yeah",
+            "start": 454.23,
+            "end": 455.03562500000004,
+            "token": "yeah"
+        },
+        {
+            "name": "PR_043_right",
+            "start": 460.23,
+            "end": 460.89000000000004,
+            "token": "right"
+        }
+    ]
+}

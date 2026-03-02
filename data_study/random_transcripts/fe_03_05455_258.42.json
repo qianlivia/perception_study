@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_05455",
+    "context_channel": 0,
+    "context_text": "<B> then you can play like the x box over the internet or something like that / <A> yep / <B> or maybe the ps two too but / <A> hm / <B> ah i don't really like to fiddle with stuff like that / <A> mhm",
+    "context_start": 258.42,
+    "context_end": 266.98949999999996,
+    "feedback": [
+        {
+            "name": "PR_028_yep",
+            "start": 261.23,
+            "end": 262.0145,
+            "token": "yep"
+        },
+        {
+            "name": "spontC_181_hm",
+            "start": 263.3,
+            "end": 264.300625,
+            "token": "hm"
+        },
+        {
+            "name": "spontB_377_mhm",
+            "start": 266.34,
+            "end": 266.98949999999996,
+            "token": "mhm"
+        }
+    ]
+}

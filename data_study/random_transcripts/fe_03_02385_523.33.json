@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02385",
+    "context_channel": 0,
+    "context_text": "<B> cartons here are over thirty dollars i { smoke } / <A> [ right ] / <B> really the cheapest cigarettes i can find and i you know because they're always coming out with new ones / <A> what / <B> i go into the store i just say what's your cheapest carton of cigarettes / <A> yeah",
+    "context_start": 523.33,
+    "context_end": 538.166125,
+    "feedback": [
+        {
+            "name": "sun1_031_right",
+            "start": 527.22,
+            "end": 528.0142500000001,
+            "token": "right"
+        },
+        {
+            "name": "Nu_065_what",
+            "start": 532.78,
+            "end": 533.521875,
+            "token": "what"
+        },
+        {
+            "name": "spontF_289_yeah",
+            "start": 537.36,
+            "end": 538.166125,
+            "token": "yeah"
+        }
+    ]
+}

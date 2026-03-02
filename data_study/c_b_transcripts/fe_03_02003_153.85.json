@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02003",
+    "context_channel": 1,
+    "context_text": "<A> and and you just don't know and then you also don't know whether it's even if it is not 401k you know { like the } / <B> [ yeah ] / <A> place i work at has stock options / <B> okay / <A> will i take that too / <B> yeah / <A> and you don't know { i } / <B> [ well ]",
+    "context_start": 153.85,
+    "context_end": 168.42225,
+    "feedback": [
+        {
+            "name": "spontA_441_yeah",
+            "start": 161.68,
+            "end": 162.119125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_286_okay",
+            "start": 164.2,
+            "end": 164.85199999999998,
+            "token": "okay"
+        },
+        {
+            "name": "spontC_035_yeah",
+            "start": 166.14,
+            "end": 166.71587499999998,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_171_well",
+            "start": 167.98,
+            "end": 168.42225,
+            "token": "well"
+        }
+    ]
+}

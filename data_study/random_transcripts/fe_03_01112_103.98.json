@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01112",
+    "context_channel": 1,
+    "context_text": "<A> didn't get a chance to stay home when they were little and and i miss it { i } / <B> [ uh-huh ] / <A> tell you i i'm going to tell you and and i did i didn't get to stay home until they were older { and } / <B> [ mhm ] / <A> by then they just didn't even care / <B> yeah / <A> but you miss it { you } / <B> [ wow ]",
+    "context_start": 103.98,
+    "context_end": 120.736625,
+    "feedback": [
+        {
+            "name": "spontF_118_uh-huh",
+            "start": 109.64,
+            "end": 110.1655,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_137_mhm",
+            "start": 114.7,
+            "end": 115.21362500000001,
+            "token": "mhm"
+        },
+        {
+            "name": "spontE_196_yeah",
+            "start": 116.8,
+            "end": 117.6995,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_049_wow",
+            "start": 118.93,
+            "end": 120.736625,
+            "token": "wow"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04242",
+    "context_channel": 1,
+    "context_text": "<A> well i know her i i met her she's from nor um norway i was going to say she's / <B> right / <A> norwegian and um i work with her so { we } / <B> [ okay ] / <A> were talking one time and i was saying something about spanish and i loved to learn languages and stuff and she goes oh i have this book and i have this video so now i have the tape { the } / <B> [ okay ] / <A> tape learn how to speak the like the first thousand words / <B> yeah",
+    "context_start": 555.89,
+    "context_end": 576.9670000000001,
+    "feedback": [
+        {
+            "name": "sun1_032_right",
+            "start": 560.37,
+            "end": 561.213375,
+            "token": "right"
+        },
+        {
+            "name": "sun1_017_okay",
+            "start": 563.78,
+            "end": 564.692875,
+            "token": "okay"
+        },
+        {
+            "name": "spontE_391_okay",
+            "start": 572.9,
+            "end": 573.416875,
+            "token": "okay"
+        },
+        {
+            "name": "spontE_329_yeah",
+            "start": 576.32,
+            "end": 576.9670000000001,
+            "token": "yeah"
+        }
+    ]
+}

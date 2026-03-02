@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04553",
+    "context_channel": 0,
+    "context_text": "<B> or bob or tyrone / <A> yeah / <B> that's what your gpa / <A> mhm / <B> but there's a whole lot of emphasis on this many uh on numbers very / <A> wow",
+    "context_start": 382.49,
+    "context_end": 392.97249999999997,
+    "feedback": [
+        {
+            "name": "PR_062_yeah",
+            "start": 385.47,
+            "end": 385.98225,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_030_mhm",
+            "start": 387.56,
+            "end": 388.058875,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_187_wow",
+            "start": 391.96,
+            "end": 392.97249999999997,
+            "token": "wow"
+        }
+    ]
+}

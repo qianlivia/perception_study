@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04666",
+    "context_channel": 1,
+    "context_text": "<A> yeah i mean it's nice to kinda know what's going on we don't have kids and most of the people around here have kids / <B> no / <A> so we sort of feel you know sometimes we feel like we're not really in the main stream / <B> yeah / <A> with all the you know going to kindergarten and everything that { you } / <B> [ yeah ] / <A> know the parents do / <B> uh-huh",
+    "context_start": 216.69,
+    "context_end": 234.70237500000002,
+    "feedback": [
+        {
+            "name": "NR_083_no",
+            "start": 222.46,
+            "end": 223.63925,
+            "token": "no"
+        },
+        {
+            "name": "spontB_223_yeah",
+            "start": 229.07,
+            "end": 229.876125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_313_yeah",
+            "start": 232.76,
+            "end": 233.742875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_158_uh-huh",
+            "start": 234.18,
+            "end": 234.70237500000002,
+            "token": "uh-huh"
+        }
+    ]
+}

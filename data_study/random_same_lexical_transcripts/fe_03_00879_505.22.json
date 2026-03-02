@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00879",
+    "context_channel": 0,
+    "context_text": "<B> oh anyway i'm i'm looking forward to seeing the second half of the ernest hemingway movie / <A> oh / <B> um yeah i saw the first half and now i'm going to i have to go see the second half the uh it was ernest hemingway is played by stacy / <A> uh-huh / <B> which uh he is a pretty good actor he hasn't done much lately i think this is an older an older movie / <A> mhm / <B> and uh yeah the first half of the movie was um ri just as ernest hemingway was starting out writing and he moved to paris / <A> mhm",
+    "context_start": 505.22,
+    "context_end": 537.178875,
+    "feedback": [
+        {
+            "name": "spontE_017_oh",
+            "start": 509.96,
+            "end": 510.546,
+            "token": "oh"
+        },
+        {
+            "name": "spontD_372_uh-huh",
+            "start": 518.88,
+            "end": 519.347875,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_314_mhm",
+            "start": 526.94,
+            "end": 527.5338750000001,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_331_mhm",
+            "start": 536.52,
+            "end": 537.178875,
+            "token": "mhm"
+        }
+    ]
+}

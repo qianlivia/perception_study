@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_04586",
+    "context_channel": 1,
+    "context_text": "<A> i think it's like you know um more convenient too you know you don't have to be running all around looking for a um a seat you know and uh you don't have people annoying you { uh } / <B> [ yeah-m ] / <A> with cell phone calls and / <B> uh-huh / <A> all the rest of that so uh i i really like that not only that if you wanna have you know your popcorn you can have it ready before ya / <B> what / <A> watch the movie and you don't have to be running out there and have somebody save your seat { and } / <B> [ yeah ] / <A> stand in line / <B> pardon",
+    "context_start": 67.2,
+    "context_end": 98.475625,
+    "feedback": [
+        {
+            "name": "spontA_342_yeah-m",
+            "start": 80.7,
+            "end": 81.29525,
+            "token": "yeah-m"
+        },
+        {
+            "name": "spontF_306_uh-huh",
+            "start": 82.93,
+            "end": 83.37950000000001,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_577_what",
+            "start": 90.19,
+            "end": 91.22525,
+            "token": "what"
+        },
+        {
+            "name": "spontF_127_yeah",
+            "start": 95.33,
+            "end": 96.032,
+            "token": "yeah"
+        },
+        {
+            "name": "Nu_022_pardon",
+            "start": 97.74,
+            "end": 98.475625,
+            "token": "pardon"
+        }
+    ]
+}

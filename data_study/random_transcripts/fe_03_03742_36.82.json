@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03742",
+    "context_channel": 0,
+    "context_text": "<B> well i make minimum wage uh uh officially as / <A> yeah / <B> part of my waitress job { but yeah } / <A> [ yes ] / <B> you get tips on top of that but the restaurant will only pay you minimum wage so i know / <A> uh-huh / <B> it's seventy five / <A> yeah",
+    "context_start": 36.82,
+    "context_end": 49.087125,
+    "feedback": [
+        {
+            "name": "spontA_422_yeah",
+            "start": 41.27,
+            "end": 41.8335,
+            "token": "yeah"
+        },
+        {
+            "name": "PR_006_yes",
+            "start": 43.35,
+            "end": 44.821625000000004,
+            "token": "yes"
+        },
+        {
+            "name": "spontA_103_uh-huh",
+            "start": 46.82,
+            "end": 47.315375,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_335_yeah",
+            "start": 48.42,
+            "end": 49.087125,
+            "token": "yeah"
+        }
+    ]
+}

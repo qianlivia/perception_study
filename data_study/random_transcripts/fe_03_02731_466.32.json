@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02731",
+    "context_channel": 0,
+    "context_text": "<B> to be a terrorist / <A> uh-huh / <B> you don't need an army / <A> ooh / <B> you can just you know be { a } / <A> [ yeah ] / <B> terrorist yourself i don't know these terrorist camps are freaky / <A> mhm",
+    "context_start": 466.32,
+    "context_end": 480.817,
+    "feedback": [
+        {
+            "name": "spontD_084_uh-huh",
+            "start": 467.55,
+            "end": 468.110875,
+            "token": "uh-huh"
+        },
+        {
+            "name": "NegS_060_ooh",
+            "start": 469.17,
+            "end": 470.23400000000004,
+            "token": "ooh"
+        },
+        {
+            "name": "spontF_048_yeah",
+            "start": 473.23,
+            "end": 474.0045,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_054_mhm",
+            "start": 480.29,
+            "end": 480.817,
+            "token": "mhm"
+        }
+    ]
+}

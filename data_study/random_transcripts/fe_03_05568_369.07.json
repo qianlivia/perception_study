@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_05568",
+    "context_channel": 1,
+    "context_text": "<A> it last week sometime we some news reporter had left her car parked right outside our building / <B> oh / <A> and um it just looked suspicious / <B> yeah / <A> and they evacuated the whole building i mean this happens like every other week / <B> uh-huh / <A> so that's that's my life has changed / <B> yeah / <A> um they evacuated the whole building / <B> jeez",
+    "context_start": 369.07,
+    "context_end": 391.1045,
+    "feedback": [
+        {
+            "name": "NS_097_oh",
+            "start": 376.84,
+            "end": 377.51,
+            "token": "oh"
+        },
+        {
+            "name": "spontE_023_yeah",
+            "start": 379.87,
+            "end": 380.405625,
+            "token": "yeah"
+        },
+        {
+            "name": "PR_053_uh-huh",
+            "start": 384.72,
+            "end": 385.58750000000003,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_562_yeah",
+            "start": 387.01,
+            "end": 387.578875,
+            "token": "yeah"
+        },
+        {
+            "name": "NegS_035_jeez",
+            "start": 389.88,
+            "end": 391.1045,
+            "token": "jeez"
+        }
+    ]
+}

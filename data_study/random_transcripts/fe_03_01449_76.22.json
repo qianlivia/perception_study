@@ -1,0 +1,45 @@
+{
+    "name": "fe_03_01449",
+    "context_channel": 0,
+    "context_text": "<B> um i'm not flying right now i was going to go back to missouri and see my grandparents / <A> ooh / <B> and i am not flying because of the terrorist attacks because not for myself i wouldn't be so hesitant for myself but i'm taking all my kids / <A> no / <B> and i just i don't feel comfortable putting their life in jeopardy { in a in } / <A> [ yeah ] / <B> a tumultuous time like this { now } / <A> [ uh-huh ] / <B> that the war's over you know i probably feel a little safer / <A> yeah / <B> but i don't know it still makes me nervous / <A> yeah",
+    "context_start": 76.22,
+    "context_end": 103.41125,
+    "feedback": [
+        {
+            "name": "PS_121_ooh",
+            "start": 81.32,
+            "end": 82.49,
+            "token": "ooh"
+        },
+        {
+            "name": "spontB_093_no",
+            "start": 87.89,
+            "end": 88.801,
+            "token": "no"
+        },
+        {
+            "name": "spontB_135_yeah",
+            "start": 92.68,
+            "end": 93.156,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_401_uh-huh",
+            "start": 94.96,
+            "end": 95.6185,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontE_245_yeah",
+            "start": 98.4,
+            "end": 99.220875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_236_yeah",
+            "start": 102.66,
+            "end": 103.41125,
+            "token": "yeah"
+        }
+    ]
+}

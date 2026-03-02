@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02067",
+    "context_channel": 1,
+    "context_text": "<A> and um we have a rooftop pool i live in an apartment building { so } / <B> [ oh ] / <A> in the summer uh i go up i swim a little bit but we also have water exercises { and } / <B> [ okay ] / <A> i enjoy that but walking is my main outdoor activity { there's } / <B> [ no ]",
+    "context_start": 73.28,
+    "context_end": 91.25349999999999,
+    "feedback": [
+        {
+            "name": "PS_053_oh",
+            "start": 78.29,
+            "end": 79.95100000000001,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_280_okay",
+            "start": 84.6,
+            "end": 85.321625,
+            "token": "okay"
+        },
+        {
+            "name": "sun_021_no",
+            "start": 90.46,
+            "end": 91.25349999999999,
+            "token": "no"
+        }
+    ]
+}

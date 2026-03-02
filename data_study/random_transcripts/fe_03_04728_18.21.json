@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04728",
+    "context_channel": 0,
+    "context_text": "<B> yeah yeah i i think that'd be a hobby i { think } / <A> [ gosh ] / <B> anything you do outside your regular work { i would consider as } / <A> [ ooh ] / <B> hobby you know / <A> wow",
+    "context_start": 18.21,
+    "context_end": 28.287,
+    "feedback": [
+        {
+            "name": "PS_102_gosh",
+            "start": 20.42,
+            "end": 22.25625,
+            "token": "gosh"
+        },
+        {
+            "name": "NegS_014_ooh",
+            "start": 24.15,
+            "end": 25.27225,
+            "token": "ooh"
+        },
+        {
+            "name": "PS_082_wow",
+            "start": 27.16,
+            "end": 28.287,
+            "token": "wow"
+        }
+    ]
+}

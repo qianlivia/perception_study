@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02441",
+    "context_channel": 0,
+    "context_text": "<B> turn on the tv and the past season was las vegas and my roommate she was into it so i watched it and i kind of enjoyed it a little / <A> yeah / <B> just to find out like what they were doing you know { and } / <A> [ yeah ] / <B> seeing it like the commercials actually is what gets you into it cause they're like oh no what's going to happen and { you } / <A> [ mmm ] / <B> see these other t random two people making out or like somebody hitting somebody { and you're } / <A> [ uh-huh ]",
+    "context_start": 419.67,
+    "context_end": 443.98325,
+    "feedback": [
+        {
+            "name": "spontF_088_yeah",
+            "start": 429.14,
+            "end": 429.67362499999996,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_051_yeah",
+            "start": 431.94,
+            "end": 432.481375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_297_mmm",
+            "start": 438.53,
+            "end": 439.539875,
+            "token": "mmm"
+        },
+        {
+            "name": "spontC_347_uh-huh",
+            "start": 443.44,
+            "end": 443.98325,
+            "token": "uh-huh"
+        }
+    ]
+}

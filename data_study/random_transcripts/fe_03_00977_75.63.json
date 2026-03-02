@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00977",
+    "context_channel": 0,
+    "context_text": "<B> um i'm line in in line with you i was i don't think that we're going to be able to resolve this until we did have an all out war and go after saddam hussein / <A> pardon / <B> and that's most unfortunate but the attack has been made on the us and i don't think that we'll ever be able to rest easy again / <A> no / <B> because we know that we're all vulnerable / <A> uh-huh / <B> until we let people like him know that we are serious in defending our country from these terrorists / <A> no",
+    "context_start": 75.63,
+    "context_end": 112.435875,
+    "feedback": [
+        {
+            "name": "Nu_057_pardon",
+            "start": 87.43,
+            "end": 88.243875,
+            "token": "pardon"
+        },
+        {
+            "name": "spontA_090_no",
+            "start": 99.8,
+            "end": 100.5065,
+            "token": "no"
+        },
+        {
+            "name": "spontD_152_uh-huh",
+            "start": 102.47,
+            "end": 103.026375,
+            "token": "uh-huh"
+        },
+        {
+            "name": "NR_072_no",
+            "start": 111.56,
+            "end": 112.435875,
+            "token": "no"
+        }
+    ]
+}

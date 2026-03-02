@@ -1,0 +1,45 @@
+{
+    "name": "fe_03_04253",
+    "context_channel": 1,
+    "context_text": "<A> um i was i went to um uh i was born in a in the city and i was going to school in the city / <B> mmm / <A> um i had the opportunity to go to a special school that was um away from my neighborhood { um } / <B> [ ooh ] / <A> i went and did that and i think i would not do that again i think i would stay in my neighborhood school because it it would have been i would have stayed more with my friends and / <B> hm / <A> like they still go back to the old um reunions and stuff / <B> mhm / <A> um wh where i went to school uh people came from like all over the place { so that } / <B> [ pardon ] / <A> when once you left school there was you know everybody got either got well we didn't have school buses in those days but everybody got on a trolley or a train or a bus and / <B> yeah",
+    "context_start": 32.64,
+    "context_end": 86.60737499999999,
+    "feedback": [
+        {
+            "name": "Sy_058_mmm",
+            "start": 42.19,
+            "end": 43.406875,
+            "token": "mmm"
+        },
+        {
+            "name": "NegS_053_ooh",
+            "start": 50.97,
+            "end": 52.1385,
+            "token": "ooh"
+        },
+        {
+            "name": "spontD_154_hm",
+            "start": 63.13,
+            "end": 63.7725,
+            "token": "hm"
+        },
+        {
+            "name": "spontC_388_mhm",
+            "start": 69.02,
+            "end": 69.56649999999999,
+            "token": "mhm"
+        },
+        {
+            "name": "Nu_011_pardon",
+            "start": 75.04,
+            "end": 75.90275000000001,
+            "token": "pardon"
+        },
+        {
+            "name": "spontF_641_yeah",
+            "start": 86.05,
+            "end": 86.60737499999999,
+            "token": "yeah"
+        }
+    ]
+}

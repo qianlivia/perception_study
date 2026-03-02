@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02833",
+    "context_channel": 1,
+    "context_text": "<A> you you university of colorado / <B> yeah / <A> that's cool { i } / <B> [ yeah ] / <A> have a lot of friends in boulder it's a great town but it's a little bit too uh suburban strip { malls for } / <B> [ yeah ]",
+    "context_start": 245.37,
+    "context_end": 255.1775,
+    "feedback": [
+        {
+            "name": "spontF_362_yeah",
+            "start": 247.61,
+            "end": 248.14937500000002,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_228_yeah",
+            "start": 249.15,
+            "end": 249.761125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_041_yeah",
+            "start": 254.31,
+            "end": 255.1775,
+            "token": "yeah"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_01737",
+    "context_channel": 1,
+    "context_text": "<A> [ i hear you saudi arabia ] also do you know what the whole world is crazy now it's / <B> yeah / <A> spooky / <B> yeah / <A> you know / <B> uh-huh / <A> it's downright spooky i don't { know } / <B> [ ugh ] / <A> i don't know it it's awful / <B> aww",
+    "context_start": 441.86,
+    "context_end": 458.12512499999997,
+    "feedback": [
+        {
+            "name": "spontF_262_yeah",
+            "start": 447.77,
+            "end": 448.400125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_295_yeah",
+            "start": 449.11,
+            "end": 449.628375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_329_uh-huh",
+            "start": 450.34,
+            "end": 451.068,
+            "token": "uh-huh"
+        },
+        {
+            "name": "NegS_007_ugh",
+            "start": 453.88,
+            "end": 454.9135,
+            "token": "ugh"
+        },
+        {
+            "name": "spontA_420_aww",
+            "start": 457.53,
+            "end": 458.12512499999997,
+            "token": "aww"
+        }
+    ]
+}

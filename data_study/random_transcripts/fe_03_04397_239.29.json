@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04397",
+    "context_channel": 1,
+    "context_text": "<A> i i'm a college graduate i have um my major was sociology and psychology / <B> nuh / <A> and i w i'm i'm employed as a business ah researcher i evaluate customer services um like i do ace hardware stores throughout michigan and / <B> mmm / <A> restaurants and mcdonald restaurants those are very consuming cause they they're like time and motion studies / <B> pardon / <A> where you time the car from the first time it drives until the time they leave the drive through / <B> uh-huh",
+    "context_start": 239.29,
+    "context_end": 271.127625,
+    "feedback": [
+        {
+            "name": "NR_010_nuh",
+            "start": 246.25,
+            "end": 247.140375,
+            "token": "nuh"
+        },
+        {
+            "name": "spontC_137_mmm",
+            "start": 258.05,
+            "end": 259.11125,
+            "token": "mmm"
+        },
+        {
+            "name": "Nu_058_pardon",
+            "start": 265.12,
+            "end": 265.752625,
+            "token": "pardon"
+        },
+        {
+            "name": "spontC_097_uh-huh",
+            "start": 270.67,
+            "end": 271.127625,
+            "token": "uh-huh"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_04155",
+    "context_channel": 0,
+    "context_text": "<B> and um matter of fact yesterday we we baked cookies and um i used to burn up cookies believe it or not { i } / <A> [ really ] / <B> could not get the timing right and / <A> uh-huh / <B> when you put cookies in to bake / <A> right / <B> okay you're supposed to leave em in for a certain length of time / <A> uh-huh / <B> i would take em out too soon and i'm like gosh you know okay now this isn't gonna taste good then i leave em in too long then i like yesterday i smelled them like oh { god we're } / <A> [ mhm ]",
+    "context_start": 219.61,
+    "context_end": 243.37937499999998,
+    "feedback": [
+        {
+            "name": "PS_019_really",
+            "start": 226.78,
+            "end": 227.5695,
+            "token": "really"
+        },
+        {
+            "name": "spontF_316_uh-huh",
+            "start": 229.6,
+            "end": 230.15087499999998,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PR_043_right",
+            "start": 232.11,
+            "end": 232.77,
+            "token": "right"
+        },
+        {
+            "name": "spontA_279_uh-huh",
+            "start": 235.23,
+            "end": 235.86262499999998,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontE_361_mhm",
+            "start": 242.92,
+            "end": 243.37937499999998,
+            "token": "mhm"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_05600",
+    "context_channel": 1,
+    "context_text": "<A> [ yeah mhm ] but they used they still used to be they used to be a duo at one time a long time ago / <B> pardon / <A> they used to be a duo / <B> yeah / <A> then they became three they got back together and became three and now that one died they're two again / <B> ugh / <A> back to a duo like air supply air { supply } / <B> [ no ]",
+    "context_start": 515.71,
+    "context_end": 533.463125,
+    "feedback": [
+        {
+            "name": "Nu_057_pardon",
+            "start": 522.06,
+            "end": 522.873875,
+            "token": "pardon"
+        },
+        {
+            "name": "spontB_345_yeah",
+            "start": 524.15,
+            "end": 524.587,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_126_ugh",
+            "start": 530.22,
+            "end": 530.990375,
+            "token": "ugh"
+        },
+        {
+            "name": "spontA_380_no",
+            "start": 532.59,
+            "end": 533.463125,
+            "token": "no"
+        }
+    ]
+}

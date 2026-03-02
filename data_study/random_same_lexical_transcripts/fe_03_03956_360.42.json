@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03956",
+    "context_channel": 1,
+    "context_text": "<A> and peter pan / <B> right / <A> and there's just you know all of the disney ones if you keep you know get { the } / <B> [ right ] / <A> children's disney ones a lot of { it's } / <B> [ mhm ]",
+    "context_start": 360.42,
+    "context_end": 371.230875,
+    "feedback": [
+        {
+            "name": "sun_013_right",
+            "start": 362.19,
+            "end": 363.0635,
+            "token": "right"
+        },
+        {
+            "name": "sun1_029_right",
+            "start": 368.82,
+            "end": 369.512,
+            "token": "right"
+        },
+        {
+            "name": "spontA_063_mhm",
+            "start": 370.74,
+            "end": 371.230875,
+            "token": "mhm"
+        }
+    ]
+}

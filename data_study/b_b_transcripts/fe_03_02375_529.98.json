@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_02375",
+    "context_channel": 0,
+    "context_text": "<B> but um don't ever oh you know i remember the first time i took a puff / <A> mhm / <B> and i inhaled and my head was so light / <A> yeah / <B> it was i got very dizzy / <A> yeah / <B> and i don't know why i mean after that experience i just should have stopped / <A> yeah / <B> but for some reason everybody smoked you know / <A> yeah",
+    "context_start": 529.98,
+    "context_end": 553.2676250000001,
+    "feedback": [
+        {
+            "name": "spontF_611_mhm",
+            "start": 534.83,
+            "end": 535.3831250000001,
+            "token": "mhm"
+        },
+        {
+            "name": "spontB_016_yeah",
+            "start": 539.79,
+            "end": 540.1848749999999,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_053_yeah",
+            "start": 542.73,
+            "end": 543.2291250000001,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_414_yeah",
+            "start": 549.0,
+            "end": 549.477875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_063_yeah",
+            "start": 552.82,
+            "end": 553.2676250000001,
+            "token": "yeah"
+        }
+    ]
+}

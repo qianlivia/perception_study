@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03905",
+    "context_channel": 1,
+    "context_text": "<A> it's someone that i don't know well i won't say anything but if it's someone i know then i don't mind telling them that i don't think that's funny you know that's really not a joke you know / <B> sorry / <A> and um especially because you know i've got grandchildren that every once in a while you know i've got one that's ten and occasionally does this because that's what his friends do / <B> hm / <A> and so i was just joking well no it's not a joke / <B> uh-huh",
+    "context_start": 99.55,
+    "context_end": 127.00975000000001,
+    "feedback": [
+        {
+            "name": "Nu_030_sorry",
+            "start": 110.96,
+            "end": 111.72037499999999,
+            "token": "sorry"
+        },
+        {
+            "name": "NS_006_hm",
+            "start": 122.63,
+            "end": 123.118375,
+            "token": "hm"
+        },
+        {
+            "name": "spontA_290_uh-huh",
+            "start": 126.51,
+            "end": 127.00975000000001,
+            "token": "uh-huh"
+        }
+    ]
+}

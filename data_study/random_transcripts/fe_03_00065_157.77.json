@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00065",
+    "context_channel": 1,
+    "context_text": "<A> i and then i moved and i went to grad school / <B> yep / <A> and i met all these people that smoked and it was just so easy to { just } / <B> [ no ] / <A> go right back into it / <B> ah",
+    "context_start": 157.77,
+    "context_end": 166.07075,
+    "feedback": [
+        {
+            "name": "PR_027_yep",
+            "start": 160.06,
+            "end": 160.60275000000001,
+            "token": "yep"
+        },
+        {
+            "name": "NR_120_no",
+            "start": 163.31,
+            "end": 163.97475,
+            "token": "no"
+        },
+        {
+            "name": "spontE_232_ah",
+            "start": 165.09,
+            "end": 166.07075,
+            "token": "ah"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04244",
+    "context_channel": 0,
+    "context_text": "<B> and then nobody called again so i went back onto the internet and looked / <A> right / <B> at the directions and it said that you can call in there and you just { punch in } / <A> [ oh ] / <B> your pin number and then they they uh they do you a a you know prompts { on the } / <A> [ right ]",
+    "context_start": 509.66,
+    "context_end": 521.692,
+    "feedback": [
+        {
+            "name": "PR_048_right",
+            "start": 512.89,
+            "end": 513.525125,
+            "token": "right"
+        },
+        {
+            "name": "Sy_044_oh",
+            "start": 515.65,
+            "end": 516.769875,
+            "token": "oh"
+        },
+        {
+            "name": "sun1_029_right",
+            "start": 521.0,
+            "end": 521.692,
+            "token": "right"
+        }
+    ]
+}

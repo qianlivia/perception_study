@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_00714",
+    "context_channel": 1,
+    "context_text": "<A> yeah my husband he worked at one time he worked for a medical supply company / <B> uh-huh / <A> and when i asked when i told him about the explosion which i didn't know to much about he said you know did they do cleaning there you know doing the cleaning of the instruments did they make / <B> no / <A> the instruments and i said i don't know / <B> mmm / <A> you know and he says cause if the got that do you know if they're doing that part of it explosions can happen very easily / <B> uh-huh / <A> um you know i don't know what they were doing so / <B> yeah",
+    "context_start": 137.37,
+    "context_end": 166.11925,
+    "feedback": [
+        {
+            "name": "spontB_234_uh-huh",
+            "start": 141.88,
+            "end": 142.35925,
+            "token": "uh-huh"
+        },
+        {
+            "name": "NR_102_no",
+            "start": 152.85,
+            "end": 153.51874999999998,
+            "token": "no"
+        },
+        {
+            "name": "PS_086_mmm",
+            "start": 155.61,
+            "end": 156.71450000000002,
+            "token": "mmm"
+        },
+        {
+            "name": "spontF_470_uh-huh",
+            "start": 162.74,
+            "end": 163.264125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_552_yeah",
+            "start": 165.66,
+            "end": 166.11925,
+            "token": "yeah"
+        }
+    ]
+}

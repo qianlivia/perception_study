@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01075",
+    "context_channel": 1,
+    "context_text": "<A> but i'm like i said you know i i'm trying to live a really good christian life now / <B> oh / <A> leah / <B> okay / <A> and i'm trying to you know imitate jesus as / <B> okay / <A> much as i can / <B> okay",
+    "context_start": 154.8,
+    "context_end": 175.60712500000002,
+    "feedback": [
+        {
+            "name": "spontF_109_oh",
+            "start": 164.17,
+            "end": 164.50949999999997,
+            "token": "oh"
+        },
+        {
+            "name": "spontB_018_okay",
+            "start": 165.69,
+            "end": 166.257625,
+            "token": "okay"
+        },
+        {
+            "name": "spontC_286_okay",
+            "start": 172.81,
+            "end": 173.462,
+            "token": "okay"
+        },
+        {
+            "name": "spontC_134_okay",
+            "start": 174.8,
+            "end": 175.60712500000002,
+            "token": "okay"
+        }
+    ]
+}

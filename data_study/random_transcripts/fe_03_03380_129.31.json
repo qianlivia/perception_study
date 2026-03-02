@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03380",
+    "context_channel": 1,
+    "context_text": "<A> [ trust trust i think the most important ] thing is is trust if you don't trust each other if you have to even wonder about it { i } / <B> [ mhm ] / <A> think you have a problem / <B> pardon / <A> whether it's a problem within your own self for feeling that way or whether / <B> oh / <A> there's really i mean there are signals / <B> oh",
+    "context_start": 129.31,
+    "context_end": 147.13975000000002,
+    "feedback": [
+        {
+            "name": "spontB_351_mhm",
+            "start": 136.41,
+            "end": 136.853375,
+            "token": "mhm"
+        },
+        {
+            "name": "Nu_049_pardon",
+            "start": 138.27,
+            "end": 139.0945,
+            "token": "pardon"
+        },
+        {
+            "name": "spontC_018_oh",
+            "start": 142.78,
+            "end": 143.559625,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_582_oh",
+            "start": 145.24,
+            "end": 147.13975000000002,
+            "token": "oh"
+        }
+    ]
+}

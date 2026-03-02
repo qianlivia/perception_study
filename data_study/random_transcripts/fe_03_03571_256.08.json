@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03571",
+    "context_channel": 0,
+    "context_text": "<B> [ well ] it's not you know that's not always true because like i'm i'm older / <A> wow / <B> and um i've i mean i've been a mom since i was nineteen / <A> oh / <B> and so all i've i i haven't i've been a stay at home mom / <A> uh-huh / <B> and if i wanted to go into the workforce the only kind of job i'm going to be able to get is a minimum wage job / <A> aww",
+    "context_start": 256.08,
+    "context_end": 276.97950000000003,
+    "feedback": [
+        {
+            "name": "PS_152_wow",
+            "start": 260.39,
+            "end": 260.98587499999996,
+            "token": "wow"
+        },
+        {
+            "name": "spontF_614_oh",
+            "start": 265.42,
+            "end": 266.276625,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_180_uh-huh",
+            "start": 270.26,
+            "end": 270.846875,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_671_aww",
+            "start": 276.31,
+            "end": 276.97950000000003,
+            "token": "aww"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00647",
+    "context_channel": 0,
+    "context_text": "<B> uh i read a lot on ashcroft before he became attorney general { and } / <A> [ uh-oh ] / <B> it's like this is so strange that all these / <A> yeah / <B> things sort of fit in you know not that i really believe { the } / <A> [ hm ] / <B> government would have something to do with it but / <A> hm",
+    "context_start": 253.16,
+    "context_end": 269.447375,
+    "feedback": [
+        {
+            "name": "NegS_059_uh-oh",
+            "start": 257.93,
+            "end": 258.81075,
+            "token": "uh-oh"
+        },
+        {
+            "name": "spontE_245_yeah",
+            "start": 262.06,
+            "end": 262.880875,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_046_hm",
+            "start": 266.17,
+            "end": 267.0115,
+            "token": "hm"
+        },
+        {
+            "name": "NS_076_hm",
+            "start": 268.62,
+            "end": 269.447375,
+            "token": "hm"
+        }
+    ]
+}

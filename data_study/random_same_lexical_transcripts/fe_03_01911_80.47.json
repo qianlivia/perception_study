@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01911",
+    "context_channel": 1,
+    "context_text": "<A> uh i lived there for sixteen years with uh just my mother and my grandparents / <B> wow / <A> um a few years ago moved to wisconsin uh the whole family did um / <B> yeah / <A> after a few years after that the whole family split apart / <B> really / <A> yeah and uh everyone went their separate way i myself went to uh to college / <B> mhm",
+    "context_start": 80.47,
+    "context_end": 104.392125,
+    "feedback": [
+        {
+            "name": "PS_135_wow",
+            "start": 85.21,
+            "end": 86.450375,
+            "token": "wow"
+        },
+        {
+            "name": "spontC_024_yeah",
+            "start": 92.53,
+            "end": 93.269625,
+            "token": "yeah"
+        },
+        {
+            "name": "sun2_001_really",
+            "start": 96.89,
+            "end": 97.620625,
+            "token": "really"
+        },
+        {
+            "name": "spontC_375_mhm",
+            "start": 103.82,
+            "end": 104.392125,
+            "token": "mhm"
+        }
+    ]
+}

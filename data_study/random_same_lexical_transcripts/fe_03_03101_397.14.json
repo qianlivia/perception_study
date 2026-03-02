@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03101",
+    "context_channel": 1,
+    "context_text": "<A> and he was like well there's nothing we can do till we hear back from that guy / <B> yeah / <A> and i gave the guy our name and number { and i mean i can only } / <B> [ mhm ] / <A> say i'm sorry a hundred times / <B> yeah",
+    "context_start": 397.14,
+    "context_end": 407.443625,
+    "feedback": [
+        {
+            "name": "spontE_121_yeah",
+            "start": 400.95,
+            "end": 401.70237499999996,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_392_mhm",
+            "start": 403.22,
+            "end": 403.84337500000004,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_088_yeah",
+            "start": 406.91,
+            "end": 407.443625,
+            "token": "yeah"
+        }
+    ]
+}

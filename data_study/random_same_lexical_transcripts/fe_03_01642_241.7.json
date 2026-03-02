@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01642",
+    "context_channel": 0,
+    "context_text": "<B> what vietnam ah where you had life magazine and the media really there like look look { what we're doing to these } / <A> [ right ] / <B> people / <A> yeah / <B> so there was a outcry even from our people like you know we need to stop / <A> yeah / <B> there's no reason for this no reason / <A> yeah",
+    "context_start": 241.7,
+    "context_end": 254.27712499999998,
+    "feedback": [
+        {
+            "name": "sun1_031_right",
+            "start": 247.03,
+            "end": 247.82425,
+            "token": "right"
+        },
+        {
+            "name": "spontC_247_yeah",
+            "start": 248.24,
+            "end": 248.91262500000002,
+            "token": "yeah"
+        },
+        {
+            "name": "sun_045_yeah",
+            "start": 251.81,
+            "end": 252.249125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_023_yeah",
+            "start": 253.41,
+            "end": 254.27712499999998,
+            "token": "yeah"
+        }
+    ]
+}

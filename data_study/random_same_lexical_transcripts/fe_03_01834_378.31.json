@@ -1,0 +1,57 @@
+{
+    "name": "fe_03_01834",
+    "context_channel": 1,
+    "context_text": "<A> i'm a psychology student / <B> okay / <A> and i haven't seen any data to support that argument i would { have } / <B> [ really ] / <A> to see ah what i have seen are um is research to the contrary that it is helping students / <B> really / <A> yeah so unless i see something that i guess because of my nature as a scientist i i have to see proof / <B> right / <A> before i believe it and i just don't believe that that's true i think that um that it may replace television time ah and i think that it's better than that television because it's more interactive i i don't think the television is bad either i don't think pbs is bad for { kids or the } / <B> [ right ] / <A> discovery / <B> right / <A> channel / <B> right / <A> but um especially what i've seen is that there is a lot of um programming for children with disabilities / <B> mhm",
+    "context_start": 378.31,
+    "context_end": 432.027,
+    "feedback": [
+        {
+            "name": "spontE_071_okay",
+            "start": 380.04,
+            "end": 380.694,
+            "token": "okay"
+        },
+        {
+            "name": "PS_070_really",
+            "start": 384.73,
+            "end": 385.418625,
+            "token": "really"
+        },
+        {
+            "name": "NS_002_really",
+            "start": 394.18,
+            "end": 395.0365,
+            "token": "really"
+        },
+        {
+            "name": "sun1_031_right",
+            "start": 403.82,
+            "end": 404.61424999999997,
+            "token": "right"
+        },
+        {
+            "name": "PR_043_right",
+            "start": 421.73,
+            "end": 422.39000000000004,
+            "token": "right"
+        },
+        {
+            "name": "sun_013_right",
+            "start": 422.42,
+            "end": 423.2935,
+            "token": "right"
+        },
+        {
+            "name": "PR_048_right",
+            "start": 423.75,
+            "end": 424.385125,
+            "token": "right"
+        },
+        {
+            "name": "spontA_054_mhm",
+            "start": 431.5,
+            "end": 432.027,
+            "token": "mhm"
+        }
+    ]
+}

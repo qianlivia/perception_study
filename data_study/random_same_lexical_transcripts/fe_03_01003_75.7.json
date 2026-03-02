@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_01003",
+    "context_channel": 1,
+    "context_text": "<A> i / <B> yeah / <A> have three children so i know what you mean by you'd be more protective / <B> right / <A> and more concerned about the children / <B> right",
+    "context_start": 75.7,
+    "context_end": 83.153375,
+    "feedback": [
+        {
+            "name": "spontF_570_yeah",
+            "start": 75.85,
+            "end": 76.73112499999999,
+            "token": "yeah"
+        },
+        {
+            "name": "PR_048_right",
+            "start": 79.44,
+            "end": 80.075125,
+            "token": "right"
+        },
+        {
+            "name": "sun1_032_right",
+            "start": 82.31,
+            "end": 83.153375,
+            "token": "right"
+        }
+    ]
+}

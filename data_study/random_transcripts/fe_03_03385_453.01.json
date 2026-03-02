@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03385",
+    "context_channel": 0,
+    "context_text": "<B> we just went down to myrtle beach and he was looking for real estate because my parents are retiring soon they're looking { to } / <A> [ no ] / <B> get some you know hobbies cause they they own and run a business together so { they're } / <A> [ yeah ] / <B> obviously you know very involved through that but they're really / <A> hm / <B> looking to do some things outside of it { so } / <A> [ mmm ]",
+    "context_start": 453.01,
+    "context_end": 467.95325,
+    "feedback": [
+        {
+            "name": "NR_081_no",
+            "start": 457.86,
+            "end": 458.70825,
+            "token": "no"
+        },
+        {
+            "name": "spontB_064_yeah",
+            "start": 462.24,
+            "end": 463.31225,
+            "token": "yeah"
+        },
+        {
+            "name": "NS_090_hm",
+            "start": 465.05,
+            "end": 465.90375,
+            "token": "hm"
+        },
+        {
+            "name": "spontE_160_mmm",
+            "start": 467.43,
+            "end": 467.95325,
+            "token": "mmm"
+        }
+    ]
+}

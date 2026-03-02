@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03765",
+    "context_channel": 1,
+    "context_text": "<A> even uh i have a web tv { and } / <B> [ mmm ] / <A> all there's so many jokes that come through on on you know laughing about people { or } / <B> [ no ] / <A> i mean uh there's one like bomb iraq about the uh saddam / <B> uh-huh / <A> uh well we all know / <B> absolutely",
+    "context_start": 367.47,
+    "context_end": 393.91037500000004,
+    "feedback": [
+        {
+            "name": "spontC_196_mmm",
+            "start": 370.23,
+            "end": 370.96475000000004,
+            "token": "mmm"
+        },
+        {
+            "name": "NR_060_no",
+            "start": 376.83,
+            "end": 377.304125,
+            "token": "no"
+        },
+        {
+            "name": "spontF_494_uh-huh",
+            "start": 386.21,
+            "end": 386.76237499999996,
+            "token": "uh-huh"
+        },
+        {
+            "name": "sun_004_absolutely",
+            "start": 392.48,
+            "end": 393.91037500000004,
+            "token": "absolutely"
+        }
+    ]
+}

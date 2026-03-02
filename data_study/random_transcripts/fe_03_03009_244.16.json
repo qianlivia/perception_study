@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03009",
+    "context_channel": 1,
+    "context_text": "<A> yeah they do have cats / <B> yeah / <A> yeah they do and that should correspond to the time that the jews were in israel or i mean in ah egypt / <B> mhm / <A> and i don't un i don't understand it myself and you can double check me on this cause you're obviously on the internet / <B> oh",
+    "context_start": 244.16,
+    "context_end": 259.81512499999997,
+    "feedback": [
+        {
+            "name": "spontB_132_yeah",
+            "start": 245.5,
+            "end": 246.407125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_239_mhm",
+            "start": 252.49,
+            "end": 253.002375,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_087_oh",
+            "start": 259.09,
+            "end": 259.81512499999997,
+            "token": "oh"
+        }
+    ]
+}

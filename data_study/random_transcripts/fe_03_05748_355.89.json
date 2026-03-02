@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_05748",
+    "context_channel": 1,
+    "context_text": "<A> got all the encyclopedias online / <B> mhm / <A> so she can just go to you know encyclopedia britannica / <B> oh / <A> type up her subject and find out about things and not have to worry about spending / <B> what",
+    "context_start": 355.89,
+    "context_end": 368.942875,
+    "feedback": [
+        {
+            "name": "spontB_187_mhm",
+            "start": 358.19,
+            "end": 358.741125,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_025_oh",
+            "start": 362.21,
+            "end": 363.234375,
+            "token": "oh"
+        },
+        {
+            "name": "NegS_048_what",
+            "start": 367.74,
+            "end": 368.942875,
+            "token": "what"
+        }
+    ]
+}

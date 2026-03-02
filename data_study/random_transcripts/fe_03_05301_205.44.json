@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_05301",
+    "context_channel": 1,
+    "context_text": "<A> when it when this stuff is so fine ah it goes through a envelope { it's } / <B> [ hm ] / <A> amazing how fine this stuff is { but all } / <B> [ uh-huh ] / <A> you have to do is shake the envelope and the stuff that comes out through the ah envelope / <B> oh / <A> it's amazing how this stuff is so fine how it how small it can ah be hidden from / <B> yeah",
+    "context_start": 205.44,
+    "context_end": 224.0745,
+    "feedback": [
+        {
+            "name": "Sy_072_hm",
+            "start": 209.75,
+            "end": 210.82775,
+            "token": "hm"
+        },
+        {
+            "name": "spontA_254_uh-huh",
+            "start": 212.27,
+            "end": 212.66850000000002,
+            "token": "uh-huh"
+        },
+        {
+            "name": "Sy_003_oh",
+            "start": 217.4,
+            "end": 218.30700000000002,
+            "token": "oh"
+        },
+        {
+            "name": "spontE_162_yeah",
+            "start": 223.1,
+            "end": 224.0745,
+            "token": "yeah"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01873",
+    "context_channel": 1,
+    "context_text": "<A> and if i were to have a child it would be very very complicated / <B> mhm / <A> so it's because i would have to stop all my medications / <B> mmm / <A> i would have to be drug free completely for like six months before i even try / <B> ooh / <A> to have a baby and / <B> aww",
+    "context_start": 442.56,
+    "context_end": 457.85025,
+    "feedback": [
+        {
+            "name": "spontA_408_mhm",
+            "start": 446.23,
+            "end": 446.747875,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_381_mmm",
+            "start": 449.51,
+            "end": 450.260375,
+            "token": "mmm"
+        },
+        {
+            "name": "NegS_041_ooh",
+            "start": 455.49,
+            "end": 456.7095,
+            "token": "ooh"
+        },
+        {
+            "name": "spontF_170_aww",
+            "start": 457.06,
+            "end": 457.85025,
+            "token": "aww"
+        }
+    ]
+}

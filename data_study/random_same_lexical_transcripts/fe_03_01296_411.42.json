@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_01296",
+    "context_channel": 1,
+    "context_text": "<A> dot obscure o b s c u r e store s t o r e dot com / <B> okay / <A> and they have all the strange news / <B> oh / <A> that people send in some of it is pretty awful some of it is nice / <B> uh-huh / <A> but there are just silly crazy things it says one of them the titles is americans have gone absolutely crazy for the word absolutely um oh here's another one that has to do with the business today and it's really some of these are stupid but french cleaners goes up in flames fire chief won't call it arson because it's got the name french { i } / <B> [ okay ] / <A> mean but there are just other ones uh here's another woman that she survives a second uh twister in other words um not a cyclone it's a i can't even tornado to hit her home in { three } / <B> [ uh-huh ]",
+    "context_start": 411.42,
+    "context_end": 473.576125,
+    "feedback": [
+        {
+            "name": "spontB_120_okay",
+            "start": 420.07,
+            "end": 420.771,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_070_oh",
+            "start": 423.34,
+            "end": 423.80312499999997,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_511_uh-huh",
+            "start": 428.55,
+            "end": 429.17325,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_033_okay",
+            "start": 457.19,
+            "end": 457.886625,
+            "token": "okay"
+        },
+        {
+            "name": "spontD_380_uh-huh",
+            "start": 473.06,
+            "end": 473.576125,
+            "token": "uh-huh"
+        }
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "name": "fe_03_01454",
+    "context_channel": 1,
+    "context_text": "<A> and um like around four o'clock my boss called and said you know do you want you workers to go home and i'm like why / <B> uh / <A> you know what we got a full day here we stay there up until seven i'm well my workers are staying till seven why would they go home early / <B> yeah / <A> he said oh well you guys don't have your tv on and i'm like no we're moving why would i have my tv { on and } / <B> [ huh ] / <A> i'm in the middle of boxes here i'm not going to sit down { and watch } / <B> [ uh-huh ] / <A> tv he goes oh well you know you know the world trade center that's how i actually found out you know { like my } / <B> [ mmm ] / <A> boss told me and i'm like oh wow { he's like well } / <B> [ oh ] / <A> we're letting people off early if they if they're affected by this and i'm like well i don't think anyone's affected but i'll ask and none of my workers had any like i have like over four hundred workers / <B> mhm / <A> and out of four hundred workers not a single one of them knew { about it } / <B> [ uh-huh ]",
+    "context_start": 346.9,
+    "context_end": 388.56,
+    "feedback": [
+        {
+            "name": "NS_011_uh",
+            "start": 352.59,
+            "end": 354.21187499999996,
+            "token": "uh"
+        },
+        {
+            "name": "spontF_595_yeah",
+            "start": 358.82,
+            "end": 359.432,
+            "token": "yeah"
+        },
+        {
+            "name": "NS_013_huh",
+            "start": 363.36,
+            "end": 363.87687500000004,
+            "token": "huh"
+        },
+        {
+            "name": "spontC_091_uh-huh",
+            "start": 366.09,
+            "end": 366.6085,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontB_387_mmm",
+            "start": 371.97,
+            "end": 372.78762500000005,
+            "token": "mmm"
+        },
+        {
+            "name": "spontC_018_oh",
+            "start": 374.4,
+            "end": 375.179625,
+            "token": "oh"
+        },
+        {
+            "name": "spontA_390_mhm",
+            "start": 384.31,
+            "end": 385.082125,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_079_uh-huh",
+            "start": 387.92,
+            "end": 388.56,
+            "token": "uh-huh"
+        }
+    ]
+}

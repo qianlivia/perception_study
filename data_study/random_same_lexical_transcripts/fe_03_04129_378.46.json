@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04129",
+    "context_channel": 0,
+    "context_text": "<B> [ yeah you're right i never ] thought of that you're right maybe you should do that i was gonna if you open up a store / <A> yes / <B> like you said it's / <A> uh-huh / <B> gonna you don't need a lot of money up front you're just { gonna } / <A> [ exactly ] / <B> get some clothes from other people and then you just open the store whenever you you know you you have time to do it and you're { gonna } / <A> [ yeah ]",
+    "context_start": 378.46,
+    "context_end": 395.38424999999995,
+    "feedback": [
+        {
+            "name": "PR_003_yes",
+            "start": 383.56,
+            "end": 385.141875,
+            "token": "yes"
+        },
+        {
+            "name": "spontA_035_uh-huh",
+            "start": 385.28,
+            "end": 385.754125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "sun_016_exactly",
+            "start": 387.85,
+            "end": 388.8835,
+            "token": "exactly"
+        },
+        {
+            "name": "spontB_100_yeah",
+            "start": 394.71,
+            "end": 395.38424999999995,
+            "token": "yeah"
+        }
+    ]
+}

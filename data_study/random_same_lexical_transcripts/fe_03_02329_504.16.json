@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02329",
+    "context_channel": 1,
+    "context_text": "<A> know it's just all the all the stuff in the { air } / <B> [ yeah ] / <A> you know i can deal with it so i sneeze i { don't } / <B> [ right ] / <A> take medication i don't take any allergy stuff or / <B> right",
+    "context_start": 504.16,
+    "context_end": 514.393625,
+    "feedback": [
+        {
+            "name": "spontF_177_yeah",
+            "start": 507.48,
+            "end": 507.98900000000003,
+            "token": "yeah"
+        },
+        {
+            "name": "sun_007_right",
+            "start": 510.22,
+            "end": 511.1095,
+            "token": "right"
+        },
+        {
+            "name": "sun1_030_right",
+            "start": 513.6,
+            "end": 514.393625,
+            "token": "right"
+        }
+    ]
+}

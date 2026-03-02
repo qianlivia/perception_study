@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_02270",
+    "context_channel": 0,
+    "context_text": "<B> um apparently that really was affecting me and i didn't know / <A> right / <B> um that's what it was but it felt like kinda like a cold or flu you know / <A> right / <B> but it was allergies it was allergies { cause } / <A> [ wow ] / <B> when i when i took the medication { i mean the } / <A> [ right ] / <B> allergy pills it definitely helped / <A> really",
+    "context_start": 548.04,
+    "context_end": 567.4164999999999,
+    "feedback": [
+        {
+            "name": "sun1_032_right",
+            "start": 553.23,
+            "end": 554.073375,
+            "token": "right"
+        },
+        {
+            "name": "sun1_029_right",
+            "start": 558.15,
+            "end": 558.842,
+            "token": "right"
+        },
+        {
+            "name": "PS_075_wow",
+            "start": 560.93,
+            "end": 562.1792499999999,
+            "token": "wow"
+        },
+        {
+            "name": "sun1_033_right",
+            "start": 563.38,
+            "end": 564.233125,
+            "token": "right"
+        },
+        {
+            "name": "NS_002_really",
+            "start": 566.56,
+            "end": 567.4164999999999,
+            "token": "really"
+        }
+    ]
+}

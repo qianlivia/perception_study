@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03426",
+    "context_channel": 1,
+    "context_text": "<A> well you know it's it's it's two things we're into instant gratification / <B> huh / <A> everyone wants everything right now / <B> yes / <A> give it to me now and then the other thing is that we kinda live in a disposable society from disposable pens to disposable marriages / <B> goodness / <A> my sister god bless her got married they went to the justice of the peace to get married because he's a teacher and it was a small town and they said well you can't live together and not be married you / <B> oh",
+    "context_start": 221.5,
+    "context_end": 249.68099999999998,
+    "feedback": [
+        {
+            "name": "PS_058_huh",
+            "start": 225.67,
+            "end": 226.93112499999998,
+            "token": "huh"
+        },
+        {
+            "name": "PR_014_yes",
+            "start": 227.49,
+            "end": 228.45712500000002,
+            "token": "yes"
+        },
+        {
+            "name": "NegS_037_goodness",
+            "start": 235.37,
+            "end": 236.308875,
+            "token": "goodness"
+        },
+        {
+            "name": "Sy_008_oh",
+            "start": 248.42,
+            "end": 249.68099999999998,
+            "token": "oh"
+        }
+    ]
+}

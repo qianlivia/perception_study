@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03835",
+    "context_channel": 0,
+    "context_text": "<B> jeff foxworthy with his redneck stuff he doesn't / <A> wow / <B> swear either and / <A> eh / <B> everything is you know you might be a redneck / <A> wow / <B> and then he tells a story about his family / <A> mhm",
+    "context_start": 310.16,
+    "context_end": 322.46999999999997,
+    "feedback": [
+        {
+            "name": "PS_105_wow",
+            "start": 314.08,
+            "end": 314.728,
+            "token": "wow"
+        },
+        {
+            "name": "NS_074_eh",
+            "start": 315.69,
+            "end": 316.343125,
+            "token": "eh"
+        },
+        {
+            "name": "NegS_056_wow",
+            "start": 319.02,
+            "end": 320.12325,
+            "token": "wow"
+        },
+        {
+            "name": "sun1_006_mhm",
+            "start": 321.77,
+            "end": 322.46999999999997,
+            "token": "mhm"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03402",
+    "context_channel": 1,
+    "context_text": "<A> um one one that you might look out i don't know if they're in your area best mark just / <B> yeah / <A> best and mark they um they've been my favorite cause they just have great restaurants / <B> yeah / <A> and they give a pretty high reimbursement like { from } / <B> [ yeah ] / <A> twenty to fifty dollars / <B> no",
+    "context_start": 562.61,
+    "context_end": 578.154375,
+    "feedback": [
+        {
+            "name": "spontB_194_yeah",
+            "start": 567.53,
+            "end": 568.27125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_390_yeah",
+            "start": 572.51,
+            "end": 573.544,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_375_yeah",
+            "start": 575.17,
+            "end": 575.8717499999999,
+            "token": "yeah"
+        },
+        {
+            "name": "NR_019_no",
+            "start": 577.12,
+            "end": 578.154375,
+            "token": "no"
+        }
+    ]
+}

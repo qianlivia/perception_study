@@ -1,0 +1,45 @@
+{
+    "name": "fe_03_02462",
+    "context_channel": 1,
+    "context_text": "<A> [ and then ] it's also you know what it is it's easier sometimes when i watch tv { because } / <B> [ hm ] / <A> if i want to watch like a movie / <B> ah / <A> or something like this if i like kind of like like start watching it after it's been been on for like { half } / <B> [ uh-huh ] / <A> an hour or so { it's } / <B> [ yeah ] / <A> kind of hard for me to get into it plus i really have to watch closely / <B> mhm / <A> to um you know to be able to follow the movie / <B> aww",
+    "context_start": 375.2,
+    "context_end": 400.30424999999997,
+    "feedback": [
+        {
+            "name": "spontA_154_hm",
+            "start": 380.27,
+            "end": 381.216,
+            "token": "hm"
+        },
+        {
+            "name": "spontC_214_ah",
+            "start": 382.55,
+            "end": 383.363125,
+            "token": "ah"
+        },
+        {
+            "name": "spontE_282_uh-huh",
+            "start": 389.23,
+            "end": 389.70725000000004,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontE_161_yeah",
+            "start": 390.7,
+            "end": 391.55449999999996,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_350_mhm",
+            "start": 395.7,
+            "end": 396.265,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_141_aww",
+            "start": 399.63,
+            "end": 400.30424999999997,
+            "token": "aww"
+        }
+    ]
+}

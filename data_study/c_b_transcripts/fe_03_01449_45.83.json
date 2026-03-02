@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01449",
+    "context_channel": 0,
+    "context_text": "<B> my life isn't quite as hard as yours but um it really hit home for me i was actually / <A> uh-huh / <B> um i never watch the news ever { and i } / <A> [ aww ] / <B> happened to have the news on and saw the second han uh plane hit live / <A> oh / <B> and that just totally freaked me out and um when i was a little kid my mom always said you know i know exactly what i was doing the day that jfk was shot / <A> yeah",
+    "context_start": 45.83,
+    "context_end": 68.492625,
+    "feedback": [
+        {
+            "name": "spontE_321_uh-huh",
+            "start": 50.12,
+            "end": 50.615624999999994,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_671_aww",
+            "start": 53.24,
+            "end": 53.9095,
+            "token": "aww"
+        },
+        {
+            "name": "spontF_572_oh",
+            "start": 57.9,
+            "end": 59.022124999999996,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_243_yeah",
+            "start": 67.65,
+            "end": 68.492625,
+            "token": "yeah"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00328",
+    "context_channel": 0,
+    "context_text": "<B> like if you knew someone was innocent / <A> ooh / <B> but they didn't have a good alibi maybe there's a lot of circumstantial evidence but / <A> uh-huh / <B> you know for a fact that they're innocent / <A> wow / <B> would you lie in that circumstance / <A> no",
+    "context_start": 97.63,
+    "context_end": 109.2845,
+    "feedback": [
+        {
+            "name": "NegS_060_ooh",
+            "start": 99.68,
+            "end": 100.744,
+            "token": "ooh"
+        },
+        {
+            "name": "spontA_406_uh-huh",
+            "start": 104.1,
+            "end": 104.706375,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PS_071_wow",
+            "start": 106.26,
+            "end": 107.16175000000001,
+            "token": "wow"
+        },
+        {
+            "name": "NR_110_no",
+            "start": 108.24,
+            "end": 109.2845,
+            "token": "no"
+        }
+    ]
+}

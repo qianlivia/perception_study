@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02568",
+    "context_channel": 1,
+    "context_text": "<A> france had a lot of those contracts that's why we're so against the french { you } / <B> [ no ] / <A> know so that's like six hundred billion dollars worth of oil / <B> hm / <A> that now he has complete control over / <B> yeah / <A> and even like you were saying about you know daddy bush well daddy bush was you know they asked his opinion and he was like well i'm not really sure that we should be invading iraq at this time / <B> uh-oh",
+    "context_start": 461.56,
+    "context_end": 488.10912499999995,
+    "feedback": [
+        {
+            "name": "sun2_028_no",
+            "start": 466.31,
+            "end": 467.328625,
+            "token": "no"
+        },
+        {
+            "name": "sun2_010_hm",
+            "start": 471.31,
+            "end": 472.092875,
+            "token": "hm"
+        },
+        {
+            "name": "spontA_422_yeah",
+            "start": 474.86,
+            "end": 475.4235,
+            "token": "yeah"
+        },
+        {
+            "name": "Sy_085_uh-oh",
+            "start": 487.28,
+            "end": 488.10912499999995,
+            "token": "uh-oh"
+        }
+    ]
+}

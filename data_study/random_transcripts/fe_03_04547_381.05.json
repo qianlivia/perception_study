@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_04547",
+    "context_channel": 1,
+    "context_text": "<A> it's exactly like martin luther king okay / <B> wow / <A> all right now he got so far and he march i was i was born in sixty eight which is the year that he was / <B> yeah / <A> that he had passed but my uh mother and grandmother and the little bit that i get from where i you know was from he / <B> aww / <A> was a very powerful colored black person { you know } / <B> [ no ] / <A> and they had someone had to get it knock him right on out of this world because he had all creeds and colors / <B> mhm",
+    "context_start": 381.05,
+    "context_end": 410.4825,
+    "feedback": [
+        {
+            "name": "PS_097_wow",
+            "start": 384.22,
+            "end": 385.86775,
+            "token": "wow"
+        },
+        {
+            "name": "spontC_197_yeah",
+            "start": 390.93,
+            "end": 391.493625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_310_aww",
+            "start": 397.84,
+            "end": 398.813625,
+            "token": "aww"
+        },
+        {
+            "name": "NR_113_no",
+            "start": 400.71,
+            "end": 401.363,
+            "token": "no"
+        },
+        {
+            "name": "spontC_200_mhm",
+            "start": 410.0,
+            "end": 410.4825,
+            "token": "mhm"
+        }
+    ]
+}

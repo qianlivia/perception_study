@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00085",
+    "context_channel": 1,
+    "context_text": "<A> i mean basically uh a documentary about gun control in the us / <B> goodness / <A> and use it was really interesting and in a documentary to a reality show / <B> yeah / <A> and i found god that documentary was interesting because he was discussing something interesting like / <B> yeah",
+    "context_start": 265.69,
+    "context_end": 285.655125,
+    "feedback": [
+        {
+            "name": "NS_098_goodness",
+            "start": 270.3,
+            "end": 271.31625,
+            "token": "goodness"
+        },
+        {
+            "name": "spontE_003_yeah",
+            "start": 277.55,
+            "end": 277.934375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_057_yeah",
+            "start": 285.11,
+            "end": 285.655125,
+            "token": "yeah"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04482",
+    "context_channel": 0,
+    "context_text": "<B> um it's a it's named for a plan they take from our richer public schools / <A> mhm / <B> um we actually give money to the poorer public schools / <A> okay / <B> um within the area to kinda even everything out / <A> sure / <B> but that doesn't necessarily work either we've had / <A> no",
+    "context_start": 226.14,
+    "context_end": 241.99925000000002,
+    "feedback": [
+        {
+            "name": "PR_032_mhm",
+            "start": 230.63,
+            "end": 231.361375,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_286_okay",
+            "start": 234.49,
+            "end": 235.142,
+            "token": "okay"
+        },
+        {
+            "name": "sun_051_sure",
+            "start": 237.88,
+            "end": 238.647625,
+            "token": "sure"
+        },
+        {
+            "name": "NR_031_no",
+            "start": 241.12,
+            "end": 241.99925000000002,
+            "token": "no"
+        }
+    ]
+}

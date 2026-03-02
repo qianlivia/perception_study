@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_02693",
+    "context_channel": 1,
+    "context_text": "<A> well my uh our tradition with my in laws is they take us on a birthday shopping trip / <B> yeah / <A> and we can buy whatever we want / <B> mhm / <A> and they take us out to a special birthday lunch / <B> no / <A> we can pick whatever restaurant we want / <B> mmm / <A> and if we want a homemade cake or if we want um if we want um you know a store bought cake or if we just want desert at the restaurant and / <B> uh-oh",
+    "context_start": 375.45,
+    "context_end": 403.448125,
+    "feedback": [
+        {
+            "name": "PR_056_yeah",
+            "start": 381.26,
+            "end": 382.017875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_081_mhm",
+            "start": 383.95,
+            "end": 384.5955,
+            "token": "mhm"
+        },
+        {
+            "name": "NR_061_no",
+            "start": 386.85,
+            "end": 387.78325,
+            "token": "no"
+        },
+        {
+            "name": "Sy_037_mmm",
+            "start": 390.85,
+            "end": 391.997875,
+            "token": "mmm"
+        },
+        {
+            "name": "Sy_049_uh-oh",
+            "start": 402.56,
+            "end": 403.448125,
+            "token": "uh-oh"
+        }
+    ]
+}

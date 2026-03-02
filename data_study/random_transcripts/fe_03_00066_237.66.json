@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00066",
+    "context_channel": 1,
+    "context_text": "<A> oh that's good well i think i i seldom do exercise but well i i i'm not a beast or yeah { but } / <B> [ yeah ] / <A> i think that's okay and i i didn't i do or do not exercise / <B> no / <A> yeah i think it's just a matter of time because sometimes i i they deal with other things or / <B> yeah / <A> and didn't think about doing exercise / <B> yeah",
+    "context_start": 237.66,
+    "context_end": 272.73949999999996,
+    "feedback": [
+        {
+            "name": "spontF_380_yeah",
+            "start": 251.71,
+            "end": 252.3235,
+            "token": "yeah"
+        },
+        {
+            "name": "NR_100_no",
+            "start": 262.31,
+            "end": 263.04075,
+            "token": "no"
+        },
+        {
+            "name": "spontE_228_yeah",
+            "start": 269.41,
+            "end": 270.02112500000004,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_194_yeah",
+            "start": 272.08,
+            "end": 272.73949999999996,
+            "token": "yeah"
+        }
+    ]
+}

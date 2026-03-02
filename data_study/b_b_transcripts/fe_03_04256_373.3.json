@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04256",
+    "context_channel": 1,
+    "context_text": "<A> um in college when i should have been doing a lot more than what i i could have done / <B> uh-huh / <A> and not kept focus and um could have / <B> uh-huh / <A> kept a better focus so / <B> hm / <A> um / <B> right",
+    "context_start": 373.3,
+    "context_end": 388.409375,
+    "feedback": [
+        {
+            "name": "spontA_277_uh-huh",
+            "start": 379.99,
+            "end": 380.54525,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_306_uh-huh",
+            "start": 383.82,
+            "end": 384.2695,
+            "token": "uh-huh"
+        },
+        {
+            "name": "sun2_038_hm",
+            "start": 385.84,
+            "end": 386.48499999999996,
+            "token": "hm"
+        },
+        {
+            "name": "sun_028_right",
+            "start": 387.68,
+            "end": 388.409375,
+            "token": "right"
+        }
+    ]
+}

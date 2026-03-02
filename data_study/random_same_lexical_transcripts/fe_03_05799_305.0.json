@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_05799",
+    "context_channel": 0,
+    "context_text": "<B> yeah you know um i was talking to ah someone ah ah yesterday that was from california / <A> wow / <B> so it's kind of neat you know you / <A> yes / <B> you meet up with all your different states ah my sister was just talking to ah a woman from georgia / <A> okay / <B> so it's kind of neat / <A> yes",
+    "context_start": 305.0,
+    "context_end": 327.783375,
+    "feedback": [
+        {
+            "name": "PS_119_wow",
+            "start": 312.05,
+            "end": 313.8925,
+            "token": "wow"
+        },
+        {
+            "name": "spontC_507_yes",
+            "start": 314.36,
+            "end": 314.8825,
+            "token": "yes"
+        },
+        {
+            "name": "spontE_005_okay",
+            "start": 323.26,
+            "end": 323.81037499999996,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_214_yes",
+            "start": 326.94,
+            "end": 327.783375,
+            "token": "yes"
+        }
+    ]
+}

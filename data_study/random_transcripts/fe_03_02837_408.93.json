@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02837",
+    "context_channel": 1,
+    "context_text": "<A> know what what the how the school is run / <B> yeah / <A> you know check check out with the other teachers and see { what } / <B> [ ooh ] / <A> they feel about it / <B> no",
+    "context_start": 408.93,
+    "context_end": 418.83662499999997,
+    "feedback": [
+        {
+            "name": "spontB_051_yeah",
+            "start": 412.7,
+            "end": 413.191375,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_059_ooh",
+            "start": 416.34,
+            "end": 417.45425,
+            "token": "ooh"
+        },
+        {
+            "name": "NR_004_no",
+            "start": 418.21,
+            "end": 418.83662499999997,
+            "token": "no"
+        }
+    ]
+}

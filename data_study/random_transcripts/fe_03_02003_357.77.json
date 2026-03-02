@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02003",
+    "context_channel": 1,
+    "context_text": "<A> it's just back then they they kept it sort of hush hush and they didn't want you to know about it but / <B> wow / <A> now as soon as somebody finds out and lets the cat out of the bag so to speak / <B> no / <A> look out because { the } / <B> [ nuh ] / <A> media is all over it / <B> yeah",
+    "context_start": 357.77,
+    "context_end": 370.84125,
+    "feedback": [
+        {
+            "name": "PS_157_wow",
+            "start": 362.23,
+            "end": 363.694,
+            "token": "wow"
+        },
+        {
+            "name": "NR_067_no",
+            "start": 367.03,
+            "end": 367.96574999999996,
+            "token": "no"
+        },
+        {
+            "name": "sun_005_nuh",
+            "start": 368.55,
+            "end": 369.2705,
+            "token": "nuh"
+        },
+        {
+            "name": "spontB_384_yeah",
+            "start": 370.16,
+            "end": 370.84125,
+            "token": "yeah"
+        }
+    ]
+}

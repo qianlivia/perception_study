@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_04348",
+    "context_channel": 1,
+    "context_text": "<A> a well see i i i've had a i've had a few in my lifetime / <B> wow / <A> but it depends for me it d would depend maybe on who the best friend might be / <B> no / <A> but / <B> uh-huh / <A> and in some ways i probably wouldn't because / <B> wow / <A> my i'm very loyal / <B> no",
+    "context_start": 100.18,
+    "context_end": 119.85825000000001,
+    "feedback": [
+        {
+            "name": "PS_115_wow",
+            "start": 106.04,
+            "end": 107.131,
+            "token": "wow"
+        },
+        {
+            "name": "NR_061_no",
+            "start": 111.36,
+            "end": 112.29325,
+            "token": "no"
+        },
+        {
+            "name": "spontF_286_uh-huh",
+            "start": 112.25,
+            "end": 112.7735,
+            "token": "uh-huh"
+        },
+        {
+            "name": "NegS_056_wow",
+            "start": 115.88,
+            "end": 116.98325,
+            "token": "wow"
+        },
+        {
+            "name": "NR_099_no",
+            "start": 118.9,
+            "end": 119.85825000000001,
+            "token": "no"
+        }
+    ]
+}

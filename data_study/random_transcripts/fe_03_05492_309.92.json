@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_05492",
+    "context_channel": 1,
+    "context_text": "<A> you know we talk from you know we come from a very open part of the country / <B> goodness / <A> and you know you can go to the south in in t i remember when i was your age / <B> goodness / <A> i went to texas in southern texas brownsville and { they } / <B> [ uh-huh ] / <A> had never seen a jew / <B> ooh",
+    "context_start": 309.92,
+    "context_end": 328.56325,
+    "feedback": [
+        {
+            "name": "NS_094_goodness",
+            "start": 315.69,
+            "end": 316.703125,
+            "token": "goodness"
+        },
+        {
+            "name": "NegS_024_goodness",
+            "start": 322.45,
+            "end": 323.380625,
+            "token": "goodness"
+        },
+        {
+            "name": "spontC_186_uh-huh",
+            "start": 326.12,
+            "end": 326.59525,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontE_031_ooh",
+            "start": 327.82,
+            "end": 328.56325,
+            "token": "ooh"
+        }
+    ]
+}

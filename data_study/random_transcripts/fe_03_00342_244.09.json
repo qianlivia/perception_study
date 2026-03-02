@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00342",
+    "context_channel": 0,
+    "context_text": "<B> took a course a couple years back and it took me almost four semesters to get the course { you go on } / <A> [ wow ] / <B> a big waiting list and he's very he he knows a lot about motorcycles he's been racing and he could teach potentially if we had { the } / <A> [ mhm ] / <B> property it would be very lucrative i don't know / <A> yeah / <B> if it would make me happy but it i'm in school for psychology and i think that may be / <A> ugh",
+    "context_start": 244.09,
+    "context_end": 267.12987499999997,
+    "feedback": [
+        {
+            "name": "PS_151_wow",
+            "start": 248.7,
+            "end": 249.87474999999998,
+            "token": "wow"
+        },
+        {
+            "name": "spontA_075_mhm",
+            "start": 257.82,
+            "end": 258.42825,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_405_yeah",
+            "start": 260.79,
+            "end": 261.40625,
+            "token": "yeah"
+        },
+        {
+            "name": "NegS_031_ugh",
+            "start": 266.03,
+            "end": 267.12987499999997,
+            "token": "ugh"
+        }
+    ]
+}

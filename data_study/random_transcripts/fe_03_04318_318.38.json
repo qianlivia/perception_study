@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04318",
+    "context_channel": 0,
+    "context_text": "<B> right yeah i could i know i can do a better job this time right { with all of } / <A> [ oh ] / <B> the / <A> yeah / <B> things you've learned and yeah and all the experiences we we've had it's it's kind of a way of looking at things { but } / <A> [ uh-huh ] / <B> it / <A> no",
+    "context_start": 318.38,
+    "context_end": 335.299,
+    "feedback": [
+        {
+            "name": "spontF_360_oh",
+            "start": 322.09,
+            "end": 323.032375,
+            "token": "oh"
+        },
+        {
+            "name": "spontB_297_yeah",
+            "start": 323.22,
+            "end": 323.66400000000004,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_303_uh-huh",
+            "start": 332.46,
+            "end": 332.989375,
+            "token": "uh-huh"
+        },
+        {
+            "name": "NR_079_no",
+            "start": 334.32,
+            "end": 335.299,
+            "token": "no"
+        }
+    ]
+}
