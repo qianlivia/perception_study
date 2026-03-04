@@ -1,39 +1,39 @@
 {
     "name": "fe_03_04447",
     "context_channel": 1,
-    "context_text": "<A> so the medical field uh / <B> yeah / <A> for women / <B> ugh / <A> is is a tremendous tremendous field in opportunity / <B> uh-huh / <A> and and it's basic i have a son that has special needs / <B> uh-huh / <A> and so one of us had had to be around twenty four seven { and and it } / <B> [ ah ]",
+    "context_text": "<A> so the medical field { uh } / <B> [ okay ] / <A> for women / <B> okay / <A> is is a tremendous tremendous field in opportunity / <B> mhm / <A> and and it's basic i have a son that has special needs / <B> okay / <A> and so one of us had had to be around twenty four seven { and and it } / <B> [ okay ]",
     "context_start": 540.58,
-    "context_end": 554.59075,
+    "context_end": 554.522875,
     "feedback": [
         {
-            "name": "spontB_226_yeah",
+            "name": "spontC_017_okay",
             "start": 541.88,
-            "end": 542.329,
-            "token": "yeah"
+            "end": 542.685625,
+            "token": "okay"
         },
         {
-            "name": "spontF_389_ugh",
+            "name": "spontD_022_okay",
             "start": 543.53,
-            "end": 543.9395,
-            "token": "ugh"
+            "end": 543.999,
+            "token": "okay"
         },
         {
-            "name": "spontE_070_uh-huh",
+            "name": "spontF_257_mhm",
             "start": 546.64,
-            "end": 547.11475,
-            "token": "uh-huh"
+            "end": 547.132375,
+            "token": "mhm"
         },
         {
-            "name": "spontC_128_uh-huh",
+            "name": "spontC_511_okay",
             "start": 549.66,
-            "end": 550.1608749999999,
-            "token": "uh-huh"
+            "end": 550.170875,
+            "token": "okay"
         },
         {
-            "name": "spontE_232_ah",
+            "name": "sun1_017_okay",
             "start": 553.61,
-            "end": 554.59075,
-            "token": "ah"
+            "end": 554.522875,
+            "token": "okay"
         }
     ]
 }

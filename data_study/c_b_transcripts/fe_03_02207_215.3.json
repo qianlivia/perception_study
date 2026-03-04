@@ -1,9 +1,9 @@
 {
     "name": "fe_03_02207",
     "context_channel": 0,
-    "context_text": "<B> food um my room mate made chicken parmesan she likes she is a meat eater mostly so she / <A> uh-huh / <B> only cooks meat / <A> okay / <B> so i started eating more meat / <A> okay / <B> even though i still like veggies / <A> okay",
+    "context_text": "<B> food um my room mate made chicken parmesan she likes she is a meat eater mostly so she / <A> uh-huh / <B> only cooks meat / <A> aww / <B> so i started eating more meat / <A> yeah / <B> even though i still like veggies / <A> yeah",
     "context_start": 215.3,
-    "context_end": 230.59725,
+    "context_end": 230.579125,
     "feedback": [
         {
             "name": "spontC_128_uh-huh",
@@ -12,22 +12,22 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontC_134_okay",
+            "name": "spontF_671_aww",
             "start": 225.02,
-            "end": 225.82712500000002,
-            "token": "okay"
+            "end": 225.6895,
+            "token": "aww"
         },
         {
-            "name": "spontA_198_okay",
+            "name": "spontE_331_yeah",
             "start": 228.05,
-            "end": 228.719625,
-            "token": "okay"
+            "end": 228.75075,
+            "token": "yeah"
         },
         {
-            "name": "spontE_152_okay",
+            "name": "spontA_355_yeah",
             "start": 229.97,
-            "end": 230.59725,
-            "token": "okay"
+            "end": 230.579125,
+            "token": "yeah"
         }
     ]
 }

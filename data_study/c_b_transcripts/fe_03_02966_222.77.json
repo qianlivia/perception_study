@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02966",
     "context_channel": 0,
-    "context_text": "<B> yeah well my daughter really gets into basketball and hollers { and } / <A> [ uh-huh ] / <B> but / <A> yeah / <B> she i i don't know a lot about it she's teaching me / <A> yeah / <B> but uh i know uh the spurs are a home team and i know the team members and uh / <A> yeah",
+    "context_text": "<B> yeah well my daughter really gets into basketball and hollers { and } / <A> [ oh ] / <B> but / <A> okay / <B> she i i don't know a lot about it she's teaching me / <A> okay / <B> but uh i know uh the spurs are a home team and i know the team members and uh / <A> okay",
     "context_start": 222.77,
-    "context_end": 241.017875,
+    "context_end": 241.26712500000002,
     "feedback": [
         {
-            "name": "spontC_186_uh-huh",
+            "name": "spontF_017_oh",
             "start": 226.99,
-            "end": 227.46525,
-            "token": "uh-huh"
+            "end": 227.819375,
+            "token": "oh"
         },
         {
-            "name": "spontB_016_yeah",
+            "name": "spontC_172_okay",
             "start": 228.13,
-            "end": 228.524875,
-            "token": "yeah"
+            "end": 228.541125,
+            "token": "okay"
         },
         {
-            "name": "spontE_331_yeah",
+            "name": "spontF_074_okay",
             "start": 233.6,
-            "end": 234.30075,
-            "token": "yeah"
+            "end": 234.244125,
+            "token": "okay"
         },
         {
-            "name": "spontC_116_yeah",
+            "name": "spontC_134_okay",
             "start": 240.46,
-            "end": 241.017875,
-            "token": "yeah"
+            "end": 241.26712500000002,
+            "token": "okay"
         }
     ]
 }

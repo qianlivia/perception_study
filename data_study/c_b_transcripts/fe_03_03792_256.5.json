@@ -1,7 +1,7 @@
 {
     "name": "fe_03_03792",
     "context_channel": 1,
-    "context_text": "<A> and it's just not funny any more / <B> no / <A> bu she watches nick at night too when we come over and sometimes you know catch the i think those / <B> uh-huh / <A> are pretty funny but / <B> yeah / <A> we don't have that station where we are so / <B> yeah",
+    "context_text": "<A> and it's just not funny anymore / <B> no / <A> but she watches nick at nite too when we come over and sometimes you know catch the dick clark and mary { tyler moore } / <B> yeah / <A> and i think those are pretty funny but / <B> yeah / <A> we don't have that station where we are so / <B> yeah",
     "context_start": 256.5,
     "context_end": 272.44462500000003,
     "feedback": [
@@ -12,15 +12,15 @@
             "token": "no"
         },
         {
-            "name": "spontE_321_uh-huh",
+            "name": "spontF_547_yeah",
             "start": 267.05,
-            "end": 267.54562500000003,
-            "token": "uh-huh"
+            "end": 267.443625,
+            "token": "yeah"
         },
         {
-            "name": "spontF_088_yeah",
+            "name": "spontE_197_yeah",
             "start": 269.37,
-            "end": 269.903625,
+            "end": 270.029375,
             "token": "yeah"
         },
         {

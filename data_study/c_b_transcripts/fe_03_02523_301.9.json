@@ -1,27 +1,27 @@
 {
     "name": "fe_03_02523",
     "context_channel": 0,
-    "context_text": "<B> yes yeah i think i think the one i watched most was road rules australia you know { the } / <A> [ yeah ] / <B> one that it was really fun about road rules australia but no i saw i try to see the other ones once in a while / <A> yeah / <B> but that's the last one that um real world las vegas there / <A> yeah / <B> was uh there was a lot of they slept with each other a lot / <A> yeah / <B> more than more than more than in any other one of the series / <A> yeah / <B> they were a little extreme and loose with each other / <A> yeah",
+    "context_text": "<B> yes yeah i think i think the one i watched most was road rules australia { you know the one } / <A> [ ah ] / <B> that it was really fun to watch road rules australia but no i saw i try to see the other ones once in a while / <A> yeah / <B> but that's the last one that um real world las vegas { it was uh } / <A> [ oh ] / <B> there was a lot of they slept with each other a lot / <A> yeah / <B> more than more than more than in any other one of the { series } / <A> [ yeah ] / <B> they were a little extreme and loose with each other { but uh } / <A> yeah",
     "context_start": 301.9,
-    "context_end": 332.62775,
+    "context_end": 332.404875,
     "feedback": [
         {
-            "name": "spontF_222_yeah",
+            "name": "spontE_232_ah",
             "start": 306.74,
-            "end": 307.395,
-            "token": "yeah"
+            "end": 307.72075,
+            "token": "ah"
         },
         {
-            "name": "spontA_382_yeah",
+            "name": "spontF_380_yeah",
             "start": 313.5,
-            "end": 314.074625,
+            "end": 314.1135,
             "token": "yeah"
         },
         {
-            "name": "spontC_135_yeah",
+            "name": "spontE_048_oh",
             "start": 318.87,
-            "end": 319.55762500000003,
-            "token": "yeah"
+            "end": 319.615125,
+            "token": "oh"
         },
         {
             "name": "spontF_287_yeah",
@@ -30,15 +30,15 @@
             "token": "yeah"
         },
         {
-            "name": "spontC_382_yeah",
+            "name": "spontE_059_yeah",
             "start": 326.56,
-            "end": 327.13925,
+            "end": 327.441375,
             "token": "yeah"
         },
         {
-            "name": "spontD_184_yeah",
+            "name": "spontB_016_yeah",
             "start": 332.01,
-            "end": 332.62775,
+            "end": 332.404875,
             "token": "yeah"
         }
     ]

@@ -1,7 +1,7 @@
 {
     "name": "fe_03_00348",
     "context_channel": 0,
-    "context_text": "<B> and everything and it's like um you know how girls go on toe shoes / <A> yes / <B> ballerinas go on toe shoes um in american ballet they they wait till they're twelve but in russian ballet um girls with ped pediatrician approval and that know the moves and { have strong ankles can go } / <A> [ sorry ] / <B> on toe shoes at eight and lauren went on her toes at eight / <A> wow",
+    "context_text": "<B> and everything and it's like um you know how girls go on toe shoes / <A> yes / <B> ballerinas go on toe shoes um in american ballet they they wait till they're twelve but in russian ballet um girls with ped uhm pediatrician approval { and that } / <A> [ pardon ] / <B> know the moves and have strong ankles can go on toe shoes at eight and lauren went on her toes at eight / <A> wow",
     "context_start": 337.51,
     "context_end": 359.424125,
     "feedback": [
@@ -12,10 +12,10 @@
             "token": "yes"
         },
         {
-            "name": "Nu_037_sorry",
+            "name": "Nu_061_pardon",
             "start": 352.69,
-            "end": 353.80174999999997,
-            "token": "sorry"
+            "end": 353.343125,
+            "token": "pardon"
         },
         {
             "name": "spontF_097_wow",

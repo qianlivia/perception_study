@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00129",
     "context_channel": 0,
-    "context_text": "<B> said cough the guy was just ignorant / <A> yeah / <B> he um he talked about how going to tel aviv is just like going to some places in california which is true tel aviv is a really modern city / <A> yeah / <B> but he comp compared it cough sorry to um to the um palestinian camps which are / <A> yah / <B> really are not in good condition / <A> no / <B> um definitely not up to first world stan standards / <A> no",
+    "context_text": "<B> said the guy was just ignorant / <A> yeah / <B> he um he talked about how going to tel aviv is just like going to some places in california which is true tel aviv is a really modern city / <A> yeah / <B> but he comp compared it sorry to um to the um palestinian camps which are / <A> yeah / <B> really are not in good condition / <A> yeah / <B> um definitely not up to first world stan standards / <A> yah",
     "context_start": 616.83,
-    "context_end": 650.373125,
+    "context_end": 650.017625,
     "feedback": [
         {
             "name": "spontC_117_yeah",
@@ -18,22 +18,22 @@
             "token": "yeah"
         },
         {
-            "name": "spontF_284_yah",
+            "name": "spontF_547_yeah",
             "start": 641.13,
-            "end": 641.587625,
-            "token": "yah"
+            "end": 641.523625,
+            "token": "yeah"
         },
         {
-            "name": "spontF_264_no",
+            "name": "spontD_250_yeah",
             "start": 645.04,
-            "end": 645.5771249999999,
-            "token": "no"
+            "end": 645.455875,
+            "token": "yeah"
         },
         {
-            "name": "spontA_112_no",
+            "name": "spontF_284_yah",
             "start": 649.56,
-            "end": 650.373125,
-            "token": "no"
+            "end": 650.017625,
+            "token": "yah"
         }
     ]
 }

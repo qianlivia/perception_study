@@ -1,15 +1,15 @@
 {
     "name": "fe_03_02577",
     "context_channel": 1,
-    "context_text": "<A> uh-huh uh-huh yeah a lot of em uh the media says that a lot of em that was in his army was forced to be there even his / <B> uh-huh / <A> upper people but his his head people he saddam hussein had killed like their parents or { their } / <B> [ ah ] / <A> children or something to force em to be in the { in } / <B> [ oh ] / <A> their army and threatened to kill someone else in their family if they didn't you know that / <B> yeah / <A> type thing so um it's just been really interesting what's / <B> yeah",
+    "context_text": "<A> uh-huh uh-huh yeah a lot of 'em they uh the media says that a lot of 'em that was in his army was forced to be there even { his } / <B> [ yeah ] / <A> upper people but his his head people he saddam hussein had killed like their parents or { their } / <B> [ ah ] / <A> children or something to force 'em to be in the { in } / <B> [ oh ] / <A> their army and threatened to kill someone else in their family if they didn't you know { that } / <B> [ yeah ] / <A> type thing so um it's just been really interesting { what's } / <B> [ yeah ]",
     "context_start": 545.46,
-    "context_end": 575.15325,
+    "context_end": 575.281125,
     "feedback": [
         {
-            "name": "spontF_009_uh-huh",
+            "name": "spontA_046_yeah",
             "start": 552.93,
-            "end": 553.3127499999999,
-            "token": "uh-huh"
+            "end": 553.62275,
+            "token": "yeah"
         },
         {
             "name": "spontE_232_ah",
@@ -30,9 +30,9 @@
             "token": "yeah"
         },
         {
-            "name": "spontE_026_yeah",
+            "name": "spontF_570_yeah",
             "start": 574.4,
-            "end": 575.15325,
+            "end": 575.281125,
             "token": "yeah"
         }
     ]

@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03195",
     "context_channel": 1,
-    "context_text": "<A> but i know what it's like being a single mother because i was for a while / <B> yeah / <A> and um until my kids were they was ten and eleven { until } / <B> [ what ] / <A> they was out of high school before i got remarried / <B> wow / <A> and um so but when she's about five / <B> aww",
+    "context_text": "<A> but i know what it's like being a single mother because i was for a while / <B> yeah / <A> and um until my kids were they was ten and eleven { until } / <B> [ yeah ] / <A> they was out of high school before i got remarried / <B> wow / <A> and um so but when she's about five / <B> yeah",
     "context_start": 429.96,
-    "context_end": 451.755875,
+    "context_end": 451.747,
     "feedback": [
         {
             "name": "spontC_405_yeah",
@@ -12,10 +12,10 @@
             "token": "yeah"
         },
         {
-            "name": "Nu_001_what",
+            "name": "spontA_015_yeah",
             "start": 441.82,
-            "end": 442.422375,
-            "token": "what"
+            "end": 442.589875,
+            "token": "yeah"
         },
         {
             "name": "spontF_097_wow",
@@ -24,10 +24,10 @@
             "token": "wow"
         },
         {
-            "name": "spontF_296_aww",
+            "name": "spontB_186_yeah",
             "start": 451.17,
-            "end": 451.755875,
-            "token": "aww"
+            "end": 451.747,
+            "token": "yeah"
         }
     ]
 }

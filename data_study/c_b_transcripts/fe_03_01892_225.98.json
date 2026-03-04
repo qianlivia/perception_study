@@ -1,9 +1,9 @@
 {
     "name": "fe_03_01892",
     "context_channel": 0,
-    "context_text": "<B> right right but i mean i know that i strongly you know i did you know i mean i had a child out of wed lock and i kind of went against my parents you know i had to drop out of college and then i ended up i'm back in it now / <A> uh-huh / <B> but they supported me through everything you know / <A> uh-huh / <B> they're really really good parents and i have to always thank them for that you know at first they weren't all there for me but i mean they came through / <A> yeah / <B> they handled it better than i thought they would and now you know this is their grandbaby you know { they want } / <A> [ oh ] / <B> her all of the time and you can have her you know but i i love my daughter she's she's wild and i stay home during the day with her / <A> oh",
+    "context_text": "<B> right right but i mean i know that i strongly you know i did you know i mean i had a child out of wedlock and i kind of went against my parents you know i had to drop out of college and then i ended up i'm back in it now / <A> uh-huh / <B> but they supported me through everything you know { they } / <A> [ well ] / <B> they're really really good parents and i have to always thank them for that you know at first they weren't all there for me but i mean they came through / <A> yeah / <B> they handled it better than i thought they would and now you know this is their grandbaby you know { they want } / <A> [ oh ] / <B> her all of the time and you can have her you know but i i love my daughter she's she's wild and i stay home during the day with her / <A> ah",
     "context_start": 225.98,
-    "context_end": 265.649375,
+    "context_end": 265.80075,
     "feedback": [
         {
             "name": "spontC_128_uh-huh",
@@ -12,15 +12,15 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontF_009_uh-huh",
+            "name": "spontD_171_well",
             "start": 242.24,
-            "end": 242.62275,
-            "token": "uh-huh"
+            "end": 242.68225,
+            "token": "well"
         },
         {
-            "name": "spontF_380_yeah",
+            "name": "spontF_295_yeah",
             "start": 251.06,
-            "end": 251.6735,
+            "end": 251.578375,
             "token": "yeah"
         },
         {
@@ -30,10 +30,10 @@
             "token": "oh"
         },
         {
-            "name": "spontF_017_oh",
+            "name": "spontE_232_ah",
             "start": 264.82,
-            "end": 265.649375,
-            "token": "oh"
+            "end": 265.80075,
+            "token": "ah"
         }
     ]
 }

@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03518",
     "context_channel": 1,
-    "context_text": "<A> goes a lot further than / <B> yeah / <A> minimum wage up north it really does and that's why i think so many people are willing to move here and especially people bring their whole families and they get a house the size of my house and have three different families living in it extended / <B> wow / <A> family and they all work minimum wage jobs but they're all doing fine because they're all living together and that's enough to take care of it but you { couldn't } / <B> [ well ] / <A> pay twelve hundred dollars for a two bedroom apartment and make five fifteen an hour and here the law is if you have a child you have to have a two bedroom apartment / <B> oh",
+    "context_text": "<A> goes a lot further { than } / <B> [ yeah ] / <A> minimum wage up north it really does and that's why i think so many people are willing to move here and especially people bring their whole families and they get a house the size of my house and have three different families living in it extended { family } / <B> [ yeah ] / <A> and they all work minimum wage jobs but they're all doing fine because they're all living together and that's enough to take care of it but you { couldn't } / <B> [ yeah ] / <A> pay twelve hundred dollars for a two bedroom apartment and make five fifteen an hour and here the law is if you have a child you have to have a two bedroom apartment / <B> yeah",
     "context_start": 445.7,
-    "context_end": 475.06237500000003,
+    "context_end": 474.96250000000003,
     "feedback": [
         {
             "name": "spontB_226_yeah",
@@ -12,22 +12,22 @@
             "token": "yeah"
         },
         {
-            "name": "spontF_097_wow",
+            "name": "spontF_324_yeah",
             "start": 458.75,
-            "end": 459.194125,
-            "token": "wow"
+            "end": 459.612375,
+            "token": "yeah"
         },
         {
-            "name": "spontD_171_well",
+            "name": "spontD_049_yeah",
             "start": 465.63,
-            "end": 466.07225,
-            "token": "well"
+            "end": 466.269125,
+            "token": "yeah"
         },
         {
-            "name": "spontF_320_oh",
+            "name": "spontF_485_yeah",
             "start": 474.36,
-            "end": 475.06237500000003,
-            "token": "oh"
+            "end": 474.96250000000003,
+            "token": "yeah"
         }
     ]
 }

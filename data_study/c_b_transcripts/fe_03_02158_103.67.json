@@ -1,9 +1,9 @@
 {
     "name": "fe_03_02158",
     "context_channel": 0,
-    "context_text": "<B> tofu and seeds and nuts and there's quite a few uh restaurants like that / <A> yeah / <B> that are you know in our area because we're close to the movie studio / <A> yeah / <B> uh but yeah my husband eats a lot of meat { so } / <A> [ oh ] / <B> we'll wind up you know a lot of times at a mexican restaurant where at least they have the the other things you know and if they don't cook in lard that's / <A> yeah",
+    "context_text": "<B> tofu and seeds and nuts and there's quite a few uh restaurants like that / <A> yeah / <B> that are you know in our area because we're close to the movie studio / <A> yeah / <B> uh but yeah my husband eats a lot of meat / <A> yeah / <B> so we'll wind up you know a lot of times at a mexican restaurant where at least they have the the other things you know and if they don't cook in lard { that's } / <A> [ yeah ]",
     "context_start": 103.67,
-    "context_end": 126.194,
+    "context_end": 126.37825000000001,
     "feedback": [
         {
             "name": "spontE_170_yeah",
@@ -18,15 +18,15 @@
             "token": "yeah"
         },
         {
-            "name": "spontE_048_oh",
+            "name": "spontC_405_yeah",
             "start": 116.96,
-            "end": 117.705125,
-            "token": "oh"
+            "end": 117.57624999999999,
+            "token": "yeah"
         },
         {
-            "name": "spontC_063_yeah",
+            "name": "spontA_146_yeah",
             "start": 125.68,
-            "end": 126.194,
+            "end": 126.37825000000001,
             "token": "yeah"
         }
     ]

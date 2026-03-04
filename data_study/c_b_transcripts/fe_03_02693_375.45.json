@@ -1,21 +1,21 @@
 {
     "name": "fe_03_02693",
     "context_channel": 1,
-    "context_text": "<A> well my uh our tradition with my in laws is they take us on a birthday shopping trip / <B> uh-huh / <A> and we can buy whatever we want / <B> oh / <A> and they take us out to a special birthday lunch / <B> uh-huh / <A> we can pick whatever restaurant we want / <B> uh-huh / <A> and if we want a homemade cake or if we want um if we want um you know a store bought cake or if we just want desert at the restaurant and / <B> yeah",
+    "context_text": "<A> well my uh our tradition with my in laws is they take us on a birthday shopping trip / <B> oh / <A> and we can buy whatever we want / <B> uh-huh / <A> and they take us out to a special birthday lunch / <B> uh-huh / <A> we can pick whatever restaurant we want / <B> uh-huh / <A> and if we want a homemade cake or if we want um if we want um you know a store bought cake or if we just want desert at the restaurant { and } / <B> [ ah ]",
     "context_start": 375.45,
-    "context_end": 403.26075000000003,
+    "context_end": 403.54075,
     "feedback": [
         {
-            "name": "spontC_132_uh-huh",
+            "name": "spontF_017_oh",
             "start": 381.26,
-            "end": 381.859125,
-            "token": "uh-huh"
+            "end": 382.089375,
+            "token": "oh"
         },
         {
-            "name": "spontF_017_oh",
+            "name": "spontC_132_uh-huh",
             "start": 383.95,
-            "end": 384.779375,
-            "token": "oh"
+            "end": 384.549125,
+            "token": "uh-huh"
         },
         {
             "name": "spontF_183_uh-huh",
@@ -30,10 +30,10 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontE_331_yeah",
+            "name": "spontE_232_ah",
             "start": 402.56,
-            "end": 403.26075000000003,
-            "token": "yeah"
+            "end": 403.54075,
+            "token": "ah"
         }
     ]
 }

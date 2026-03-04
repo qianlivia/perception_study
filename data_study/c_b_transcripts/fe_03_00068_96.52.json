@@ -1,27 +1,27 @@
 {
     "name": "fe_03_00068",
     "context_channel": 0,
-    "context_text": "<B> [ yeah an and it's it's just so ] hard because people you know try to cold turkey then nicotine patches you name it an and you know they still can't stop / <A> yeah / <B> smoking and and it's it's uh it's a dangerous thing for just / <A> yeah / <B> even the environment the people { around } / <A> [ yeah ] / <B> them children / <A> yes / <B> e especially themselves and um i i try to tell my friends to quit smoking but it's not working / <A> no",
+    "context_text": "<B> yeah an and it's it's just so hard because people you know try to cold turkey the nicotine patches you name it an and you know they still can't stop { smoking } / <A> [ absolutely ] / <B> and and it's it's uh it's a dangerous thing for { just } / <A> [ mmm ] / <B> even the environment the people { around } / <A> [ hm ] / <B> them children / <A> yes / <B> e especially themselves and um i i try to tell my friends to quit smoking but it's not working / <A> no",
     "context_start": 96.52,
     "context_end": 123.073125,
     "feedback": [
         {
-            "name": "spontA_382_yeah",
+            "name": "PR_049_absolutely",
             "start": 104.34,
-            "end": 104.914625,
-            "token": "yeah"
+            "end": 105.426625,
+            "token": "absolutely"
         },
         {
-            "name": "spontD_024_yeah",
+            "name": "spontF_558_mmm",
             "start": 109.94,
-            "end": 110.360125,
-            "token": "yeah"
+            "end": 111.20224999999999,
+            "token": "mmm"
         },
         {
-            "name": "spontB_132_yeah",
+            "name": "NS_009_hm",
             "start": 112.07,
-            "end": 112.97712499999999,
-            "token": "yeah"
+            "end": 113.62474999999999,
+            "token": "hm"
         },
         {
             "name": "PR_026_yes",

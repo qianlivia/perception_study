@@ -1,7 +1,7 @@
 {
     "name": "fe_03_02725",
     "context_channel": 0,
-    "context_text": "<B> um and that uh that the post offices and / <A> oh / <B> um should should definitely be equipped with them and uh i think subways are definitely um you know frequently mentioned as a target and that's an area where i really don't mind having um you know the cameras like you know every three feet if necessary i mean so you / <A> yeah / <B> really see if somebody uh acting suspiciously or leaving something behind and and uh you know they could close off the area / <A> yeah",
+    "context_text": "<B> um and that uh that the post offices and / <A> oh / <B> um should should definitely be equipped with them and uh i think subways are definitely um you know frequently mentioned as a target and that's an area where i really don't mind having um you know the cameras like you know every three feet if necessary i mean so you { really } / <A> [ uh-huh ] / <B> see if somebody was uh acting suspiciously or leaving something behind and and uh you know they could close off the area / <A> yeah",
     "context_start": 125.35,
     "context_end": 159.458375,
     "feedback": [
@@ -12,10 +12,10 @@
             "token": "oh"
         },
         {
-            "name": "spontB_276_yeah",
+            "name": "spontE_227_uh-huh",
             "start": 148.9,
-            "end": 149.211875,
-            "token": "yeah"
+            "end": 149.321625,
+            "token": "uh-huh"
         },
         {
             "name": "spontF_295_yeah",

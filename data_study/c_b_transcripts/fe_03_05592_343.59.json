@@ -1,9 +1,9 @@
 {
     "name": "fe_03_05592",
     "context_channel": 0,
-    "context_text": "<B> they actually um i saw that they actually recovered they seem to think about ninety percent of uh what was looted / <A> wow / <B> through yeah through intelligent sources through um people turning other people in basically not for any other incentive but just to the pride of the iraqi { people which is you know } / <A> [ oh ] / <B> you know you kinda think and i can't i really can't blame the iraqi people for you know now even the violence that's going on towards our soldiers every day you hear two soldiers killed three soldiers killed / <A> oh",
+    "context_text": "<B> they actually um i saw that they actually recovered they seem to think about ninety percent of uh what was looted / <A> wow / <B> through yeah through intelligent sources through um people turning other people in basically not for any other incentive but just to the pride of the iraqi { people } / <A> [ what ] / <B> which is you know you know i you kinda think and i can't i really can't blame the iraqi people for you know now even the violence that's going on towards our soldiers every day you hear two soldiers killed three soldiers killed / <A> uh-huh",
     "context_start": 343.59,
-    "context_end": 376.764125,
+    "context_end": 376.40274999999997,
     "feedback": [
         {
             "name": "spontF_097_wow",
@@ -12,16 +12,16 @@
             "token": "wow"
         },
         {
-            "name": "Sy_016_oh",
+            "name": "NegS_063_what",
             "start": 362.01,
-            "end": 363.48924999999997,
-            "token": "oh"
+            "end": 362.93424999999996,
+            "token": "what"
         },
         {
-            "name": "spontE_295_oh",
+            "name": "spontF_009_uh-huh",
             "start": 376.02,
-            "end": 376.764125,
-            "token": "oh"
+            "end": 376.40274999999997,
+            "token": "uh-huh"
         }
     ]
 }

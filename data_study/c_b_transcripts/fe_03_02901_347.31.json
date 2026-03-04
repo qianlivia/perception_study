@@ -1,32 +1,32 @@
 {
     "name": "fe_03_02901",
     "context_channel": 1,
-    "context_text": "<A> [ yeah and yeah ] we know we just baseball doesn't have any performers any more / <B> no / <A> not like babe ruth or carlee strumsky or anything / <B> no / <A> actually appeal to the crowd nowadays players / <B> yeah / <A> just / <B> yeah",
+    "context_text": "<A> yeah and yeah we know we just baseball doesn't have any performers anymore / <B> no / <A> not like babe ruth or carl yastrzemski or anything / <B> no / <A> you know who actually actually appeal to the crowd / <B> oh / <A> { nowadays } / <B> [ yeah ]",
     "context_start": 347.31,
-    "context_end": 358.902625,
+    "context_end": 359.28000000000003,
     "feedback": [
         {
-            "name": "spontE_345_no",
-            "start": 351.75,
-            "end": 352.5045,
-            "token": "no"
-        },
-        {
             "name": "spontF_264_no",
-            "start": 355.09,
-            "end": 355.627125,
+            "start": 351.75,
+            "end": 352.287125,
             "token": "no"
         },
         {
-            "name": "spontA_382_yeah",
-            "start": 357.9,
-            "end": 358.474625,
-            "token": "yeah"
+            "name": "spontE_345_no",
+            "start": 355.09,
+            "end": 355.8445,
+            "token": "no"
         },
         {
-            "name": "spontA_195_yeah",
+            "name": "spontE_295_oh",
+            "start": 357.9,
+            "end": 358.644125,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_140_yeah",
             "start": 358.47,
-            "end": 358.902625,
+            "end": 359.28000000000003,
             "token": "yeah"
         }
     ]

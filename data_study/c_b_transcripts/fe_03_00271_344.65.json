@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00271",
     "context_channel": 1,
-    "context_text": "<A> and that just you know not just that day and that just you know what happened that day i mean what happened that day has certainly shaped it shaped it but you know just this feeling of you know like disorientation { you } / <B> [ yeah ] / <A> know this feeling of wow where am i and where { do i fit } / <B> [ absolutely ] / <A> into this and where do we all fit into this / <B> mhm / <A> you know trying to sort through like the / <B> yeah",
+    "context_text": "<A> and that just you know not just that day and that just you know what happened that day i mean what happened that day certainly shaped it but you know just this feeling of you know like disorientation { you } / <B> [ yeah ] / <A> know this feeling of wow where am i and where { do i fit } / <B> [ absolutely ] / <A> into this and where do we all fit into this and / <B> yeah / <A> you know who's to blame and you know trying to sort through like this crazy media and { you know like } / <B> [ absolutely ]",
     "context_start": 344.65,
-    "context_end": 368.886,
+    "context_end": 369.684,
     "feedback": [
         {
             "name": "spontC_352_yeah",
@@ -18,16 +18,16 @@
             "token": "absolutely"
         },
         {
-            "name": "spontE_294_mhm",
+            "name": "spontB_276_yeah",
             "start": 362.24,
-            "end": 362.838125,
-            "token": "mhm"
+            "end": 362.551875,
+            "token": "yeah"
         },
         {
-            "name": "spontB_094_yeah",
+            "name": "sun_027_absolutely",
             "start": 368.55,
-            "end": 368.886,
-            "token": "yeah"
+            "end": 369.684,
+            "token": "absolutely"
         }
     ]
 }

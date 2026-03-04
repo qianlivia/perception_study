@@ -1,15 +1,15 @@
 {
     "name": "fe_03_01454",
     "context_channel": 1,
-    "context_text": "<A> thing that they might target the / <B> oh / <A> only thing i have out here is i have palaverde { which is the } / <B> [ okay ] / <A> largest nuclear facility / <B> okay / <A> but from what i know that thing is the heaviest guarded facility there is / <B> okay / <A> in the area and i have luke air force base here too / <B> okay / <A> and they have a no fly zone if anything flies in their zone { they're basically } / <B> [ okay ] / <A> even ordered to shoot it down / <B> okay / <A> so even in any and they tell me even if something hits it / <B> okay",
+    "context_text": "<A> thing that they might target / <B> yeah / <A> the only thing i have out here is i have palaverde { which is the } / <B> [ okay ] / <A> largest nuclear facility / <B> okay / <A> but from what i know that thing is the heaviest guarded facility there is / <B> okay / <A> in the area and i have luke air force base here too / <B> okay / <A> and they have a no fly zone if anything flies in their zone { they're basically } / <B> [ okay ] / <A> even ordered to shoot it down / <B> okay / <A> so even in any and they tell me even if something hits it / <B> oh",
     "context_start": 529.3,
-    "context_end": 557.820875,
+    "context_end": 557.6495,
     "feedback": [
         {
-            "name": "spontF_207_oh",
+            "name": "spontC_138_yeah",
             "start": 530.73,
-            "end": 531.114375,
-            "token": "oh"
+            "end": 531.227375,
+            "token": "yeah"
         },
         {
             "name": "spontC_286_okay",
@@ -48,10 +48,10 @@
             "token": "okay"
         },
         {
-            "name": "spontC_511_okay",
+            "name": "spontF_109_oh",
             "start": 557.31,
-            "end": 557.820875,
-            "token": "okay"
+            "end": 557.6495,
+            "token": "oh"
         }
     ]
 }

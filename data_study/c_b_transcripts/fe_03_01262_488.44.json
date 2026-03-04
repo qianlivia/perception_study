@@ -1,9 +1,9 @@
 {
     "name": "fe_03_01262",
     "context_channel": 1,
-    "context_text": "<A> [ but ah pretty soon pretty ] soon we'll be down to only four i have well we're down to five right now i have one that's serving a a mission for the mormon church in chicago / <B> oh / <A> for our church and then i have another / <B> uh-huh / <A> and then my second son is going to brazil in may / <B> oh / <A> so but they all love movies i mean it's amazing they um we've we've just grown up you know the family growing up we've just really enjoyed ah watch a movie and it it is it's a it's a an inexpensive form of entertainment especially you know if as i say if you rent videos and stuff it's / <B> yeah",
+    "context_text": "<A> but ah pretty soon pretty soon we'll be down to only four i have well we're down to five right now i have one that's serving a a mission for the mormon church in chicago / <B> oh / <A> for our church and then i have { another } / <B> [ what ] / <A> and then my second son is going to brazil in may / <B> oh / <A> so but they all love movies i mean it's amazing they um we've we've just grown up you know the family growing up we've just really enjoyed ah watch a movie and it it is it's a it's a an inexpensive form of entertainment especially you know if as i say if you rent videos and stuff it's / <B> yeah",
     "context_start": 488.44,
-    "context_end": 524.659125,
+    "context_end": 524.566875,
     "feedback": [
         {
             "name": "spontE_15_oh",
@@ -12,10 +12,10 @@
             "token": "oh"
         },
         {
-            "name": "spontA_254_uh-huh",
+            "name": "Nu_065_what",
             "start": 499.95,
-            "end": 500.3485,
-            "token": "uh-huh"
+            "end": 500.691875,
+            "token": "what"
         },
         {
             "name": "spontF_360_oh",
@@ -24,9 +24,9 @@
             "token": "oh"
         },
         {
-            "name": "spontC_352_yeah",
+            "name": "spontF_047_yeah",
             "start": 523.96,
-            "end": 524.659125,
+            "end": 524.566875,
             "token": "yeah"
         }
     ]

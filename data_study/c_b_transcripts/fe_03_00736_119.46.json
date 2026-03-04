@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00736",
     "context_channel": 1,
-    "context_text": "<A> have you ever seen izzi izard / <B> no / <A> oh he is really really cool he's an / <B> okay / <A> intelligent and wise comedian as well he talks about the history and { he } / <B> [ okay ] / <A> doesn't go over the line / <B> okay / <A> you know as far as like sexual or pointing like fingers at certain social or ethnic groups and stuff like that yeah he's really cool / <B> okay",
+    "context_text": "<A> have you ever uh seen eddie izzard / <B> no / <A> oh he is really really cool he's { an intelligent } / <B> [ wow ] / <A> and wise comedian as well he talks about the history and { he's not } / <B> [ wow ] / <A> he doesn't go over the line / <B> okay / <A> you know as far as like sexual or pointing like fingers at certain social or ethnic groups and stuff like that yeah he's really cool / <B> okay",
     "context_start": 119.46,
-    "context_end": 136.07399999999998,
+    "context_end": 136.14162499999998,
     "feedback": [
         {
             "name": "spontF_264_no",
@@ -12,27 +12,27 @@
             "token": "no"
         },
         {
-            "name": "spontD_410_okay",
+            "name": "PS_038_wow",
             "start": 123.66,
-            "end": 124.08375,
-            "token": "okay"
+            "end": 125.01575,
+            "token": "wow"
         },
         {
-            "name": "spontD_383_okay",
+            "name": "PS_061_wow",
             "start": 127.24,
-            "end": 127.91137499999999,
-            "token": "okay"
+            "end": 128.5025,
+            "token": "wow"
         },
         {
-            "name": "spontC_134_okay",
+            "name": "spontD_033_okay",
             "start": 128.59,
-            "end": 129.39712500000002,
+            "end": 129.28662500000002,
             "token": "okay"
         },
         {
-            "name": "spontE_071_okay",
+            "name": "spontF_280_okay",
             "start": 135.42,
-            "end": 136.07399999999998,
+            "end": 136.14162499999998,
             "token": "okay"
         }
     ]

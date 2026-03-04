@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00879",
     "context_channel": 0,
-    "context_text": "<B> oh anyway i'm i'm looking forward to seeing the second half of the ernest hemingway movie / <A> oh / <B> um yeah i saw the first half and now i'm going to i have to go see the second half the uh it was ernest hemingway is played by stacy / <A> uh-huh / <B> which uh he is a pretty good actor he hasn't done much lately i think this is an older an older movie / <A> yeah / <B> and uh yeah the first half of the movie was um ri just as ernest hemingway was starting out writing and he moved to paris / <A> uh-huh",
+    "context_text": "<B> well i'm i'm looking forward to seeing the second half of the ernest hemingway movie / <A> oh / <B> um yeah i saw the first half and now i'm going to i have to go see the second half the uh it was ernest hemingway is played by stacy keach / <A> okay / <B> which uh he is a pretty good actor he hasn't done much lately i think this is an older an older movie / <A> okay / <B> and uh yeah the first half of the movie was um ri just as ernest hemingway was starting out writing and he moved to paris / <A> okay",
     "context_start": 505.22,
-    "context_end": 537.024625,
+    "context_end": 536.989,
     "feedback": [
         {
             "name": "spontF_017_oh",
@@ -12,22 +12,22 @@
             "token": "oh"
         },
         {
-            "name": "spontC_132_uh-huh",
+            "name": "spontD_410_okay",
             "start": 518.88,
-            "end": 519.479125,
-            "token": "uh-huh"
+            "end": 519.30375,
+            "token": "okay"
         },
         {
-            "name": "spontF_380_yeah",
+            "name": "spontC_134_okay",
             "start": 526.94,
-            "end": 527.5535000000001,
-            "token": "yeah"
+            "end": 527.7471250000001,
+            "token": "okay"
         },
         {
-            "name": "spontD_020_uh-huh",
+            "name": "spontD_022_okay",
             "start": 536.52,
-            "end": 537.024625,
-            "token": "uh-huh"
+            "end": 536.989,
+            "token": "okay"
         }
     ]
 }

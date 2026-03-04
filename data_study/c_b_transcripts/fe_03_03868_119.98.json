@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03868",
     "context_channel": 1,
-    "context_text": "<A> and then um oh just when they pay gave that man the rat poisoning / <B> yeah / <A> and thought it was his ulcer medicine / <B> yeah / <A> but anyway i love that movie { and } / <B> [ yeah ] / <A> uh i like that type of humor and if i were to go out and go to a movie that's one one thing i would look at is just comedy / <B> yeah / <A> but then i'd have to compromise that if i'm going with someone else to the movies usually / <B> yeah",
+    "context_text": "<A> and then um oh just when they pay gave that man the rat poisoning / <B> yeah / <A> and thought it was his ulcer medicine / <B> ah / <A> but anyway i love that movie { and } / <B> [ yeah ] / <A> uh i like that type of humor and if i were to go out and go to a movie that's one one thing i would look at is just comedy / <B> yeah / <A> but then i'd have to compromise that if i'm going with someone else to the movies usually / <B> yeah",
     "context_start": 119.98,
-    "context_end": 148.106875,
+    "context_end": 147.999125,
     "feedback": [
         {
             "name": "spontA_043_yeah",
@@ -12,10 +12,10 @@
             "token": "yeah"
         },
         {
-            "name": "spontD_364_yeah",
+            "name": "spontE_232_ah",
             "start": 128.31,
-            "end": 129.16037500000002,
-            "token": "yeah"
+            "end": 129.29075,
+            "token": "ah"
         },
         {
             "name": "spontE_059_yeah",
@@ -30,9 +30,9 @@
             "token": "yeah"
         },
         {
-            "name": "spontF_047_yeah",
+            "name": "spontC_053_yeah",
             "start": 147.5,
-            "end": 148.106875,
+            "end": 147.999125,
             "token": "yeah"
         }
     ]

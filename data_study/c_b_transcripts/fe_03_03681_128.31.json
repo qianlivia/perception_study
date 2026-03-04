@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03681",
     "context_channel": 0,
-    "context_text": "<B> there you go lie down okay i got it okay see over here we can live off of minimum wage { like } / <A> [ yeah ] / <B> like a three i'm renting a three bedroom house for three hundred and seventy five dollars / <A> wow / <B> yeah and that was a good deal for me i was like wow i'll take it it's usually / <A> yeah / <B> about five hundred you know cause around here it's not going to become a city it's a small town it was it was whenever i was younger and now it's not / <A> yeah / <B> so ah everything kinda went up all the prices they're going up and and they'll be about five hundred six hundred for a two bedroom three bedroom but { this one's } / <A> [ well ]",
+    "context_text": "<B> there you go lie down okay i got it okay see over here we can live off of minimum wage { like } / <A> [ yeah ] / <B> like a three i'm renting a three bedroom house for three hundred and seventy five dollars / <A> wow / <B> yeah and that was a good deal for me i was like wow i'll take it it's { usually about } / <A> [ oh ] / <B> five hundred you know 'cause around here it's not going to become a city it's a small town it was it was whenever i was younger and now it's not / <A> okay / <B> so ah everything kinda went up all the prices they're going up and and they'll be about five hundred six hundred for a two bedroom three bedroom but { this one's } / <A> [ what ]",
     "context_start": 128.31,
-    "context_end": 168.86225,
+    "context_end": 169.02237499999998,
     "feedback": [
         {
             "name": "spontC_139_yeah",
@@ -18,22 +18,22 @@
             "token": "wow"
         },
         {
-            "name": "spontB_016_yeah",
+            "name": "spontE_048_oh",
             "start": 150.81,
-            "end": 151.20487500000002,
-            "token": "yeah"
+            "end": 151.555125,
+            "token": "oh"
         },
         {
-            "name": "spontD_140_yeah",
+            "name": "spontD_073_okay",
             "start": 159.0,
-            "end": 159.54025,
-            "token": "yeah"
+            "end": 159.741125,
+            "token": "okay"
         },
         {
-            "name": "spontD_171_well",
+            "name": "Nu_001_what",
             "start": 168.42,
-            "end": 168.86225,
-            "token": "well"
+            "end": 169.02237499999998,
+            "token": "what"
         }
     ]
 }

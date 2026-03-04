@@ -1,21 +1,21 @@
 {
     "name": "fe_03_03567",
     "context_channel": 1,
-    "context_text": "<A> mhm yeah yeah that dilemma of feeling that that you're you're being fairly compensated for the work you do hate to tell { you it } / <B> [ mhm ] / <A> people don't feel that they are even when they're making a whole lot more than five fifteen an hour / <B> yeah / <A> i'm not sure it gets any better but but i mean just thinking about the the unskilled workers that are that are taking th these jobs you know beyond being a teenager where okay you gotta start somewhere / <B> okay / <A> but um you know the people that are in their thirties and forties that it's the only job they can get because maybe they're a new immigrant or or they've lived here for a while but they just don't have a lot of skill or can't work in the the the industry they want to because they don't speak english very well or or you { know for } / <B> [ yuh ]",
+    "context_text": "<A> mhm yeah yeah that dilemma of feeling that that you're you're being fairly compensated for the work you do hate to tell { you it } / <B> [ hm ] / <A> people don't feel that they are even when they're making a whole lot more than five fifteen an hour / <B> no / <A> i'm not sure it gets any better but but i mean just thinking about the the unskilled workers that are that are taking th these jobs you know beyond being a teenager where okay you gotta start somewhere / <B> okay / <A> but um you know the people that are in their thirties and forties that it's the only job they can get because maybe they're a new immigrant or or they've lived here for a while but they just don't have a lot of skill or can't work in the the the industry they want to because they don't speak english very well or or you { know for } / <B> [ oh ]",
     "context_start": 229.81,
-    "context_end": 274.9715,
+    "context_end": 275.07825,
     "feedback": [
         {
-            "name": "spontA_400_mhm",
+            "name": "NS_80_hm",
             "start": 236.4,
-            "end": 237.22050000000002,
-            "token": "mhm"
+            "end": 236.981375,
+            "token": "hm"
         },
         {
-            "name": "spontA_382_yeah",
+            "name": "spontA_112_no",
             "start": 241.99,
-            "end": 242.564625,
-            "token": "yeah"
+            "end": 242.80312500000002,
+            "token": "no"
         },
         {
             "name": "spontB_028_okay",
@@ -24,10 +24,10 @@
             "token": "okay"
         },
         {
-            "name": "spontA_089_yuh",
+            "name": "spontE_043_oh",
             "start": 274.42,
-            "end": 274.9715,
-            "token": "yuh"
+            "end": 275.07825,
+            "token": "oh"
         }
     ]
 }

@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00342",
     "context_channel": 0,
-    "context_text": "<B> took a course a couple years back and it took me almost four semesters to get the course { you go on } / <A> [ really ] / <B> a big waiting list and he's very he he knows a lot about motorcycles he's been racing and he could teach potentially if we had { the } / <A> [ uh-huh ] / <B> property it would be very lucrative i don't know / <A> well / <B> if it would make me happy but it i'm in school for psychology and i think that may be / <A> oh",
+    "context_text": "<B> took a course a couple years back and it took me almost four semesters to get the course { you go on } / <A> [ really ] / <B> a big waiting list and he's very he he knows a lot about motorcycles and he's he's been racing and he could teach potentially if we had { the } / <A> [ uh-huh ] / <B> property and everything it would be very lucrative { i don't know } / <A> [ really ] / <B> if it would make me happy i think that i'm in school for psychology and i think that may be / <A> okay",
     "context_start": 244.09,
-    "context_end": 266.59499999999997,
+    "context_end": 266.54087499999997,
     "feedback": [
         {
             "name": "NS_082_really",
@@ -18,16 +18,16 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontD_171_well",
+            "name": "PS_019_really",
             "start": 260.79,
-            "end": 261.23225,
-            "token": "well"
+            "end": 261.5795,
+            "token": "really"
         },
         {
-            "name": "spontC_109_oh",
+            "name": "spontC_511_okay",
             "start": 266.03,
-            "end": 266.59499999999997,
-            "token": "oh"
+            "end": 266.54087499999997,
+            "token": "okay"
         }
     ]
 }

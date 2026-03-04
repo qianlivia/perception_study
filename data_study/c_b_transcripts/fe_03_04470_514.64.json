@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04470",
     "context_channel": 1,
-    "context_text": "<A> [ sure that you can't ] say the you know the pledge of allegiance or you can't say you know have a moment of prayer or something / <B> right / <A> like that that that's really i just that's what i think definitely this country has gone off and / <B> yeah / <A> and i don't know they do it in other countries but like you said we were founded in god we trust we were founded with those religious beliefs i mean this was a country of religious freedom because / <B> uh-huh / <A> people came wherever they were they were you know put upon { by } / <B> [ what ] / <A> the king of england or whatever they couldn't practise certain things or whatever country the people / <B> uh-huh",
+    "context_text": "<A> [ sure that you can't ] say the you know the pledge of allegiance or you can't say you know have a moment of prayer or something / <B> right / <A> like that that that's really i just that's what i think definitely this country has gone off and / <B> yeah / <A> and i don't know they do it in other countries but like you said we were founded in god we trust we were founded with those religious beliefs i mean this was a country of religious freedom because / <B> uh-huh / <A> people came wherever they were they were you know put upon { by } / <B> [ uh-huh ] / <A> the king of england or whatever they couldn't practise certain things or whatever country the people / <B> yeah",
     "context_start": 514.64,
-    "context_end": 542.58275,
+    "context_end": 542.511875,
     "feedback": [
         {
             "name": "spontC_360_right",
@@ -24,16 +24,16 @@
             "token": "uh-huh"
         },
         {
-            "name": "Nu_048_what",
+            "name": "spontA_268_uh-huh",
             "start": 537.79,
-            "end": 538.584625,
-            "token": "what"
+            "end": 538.294125,
+            "token": "uh-huh"
         },
         {
-            "name": "spontF_009_uh-huh",
+            "name": "spontB_276_yeah",
             "start": 542.2,
-            "end": 542.58275,
-            "token": "uh-huh"
+            "end": 542.511875,
+            "token": "yeah"
         }
     ]
 }

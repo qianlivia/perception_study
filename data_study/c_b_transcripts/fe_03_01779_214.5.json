@@ -1,9 +1,9 @@
 {
     "name": "fe_03_01779",
     "context_channel": 1,
-    "context_text": "<A> and wants to further their education you / <B> yeah / <A> know advance in terms of getting another degree or whatever / <B> yeah / <A> um that they wouldn't have to worry about maybe travelling { you know } / <B> [ right ] / <A> travel time is the big thing you know / <B> yeah / <A> working nine maybe eight nine ten hours a day / <B> yeah / <A> and then having to go and sit in a class for another hour and a half / <B> yeah / <A> or you know something of that sort { i mean } / <B> [ exactly ]",
+    "context_text": "<A> and wants to further their education you / <B> yeah / <A> know advance in terms of getting another degree or whatever / <B> yeah / <A> um that they wouldn't have to worry about maybe travelling { you know } / <B> [ exactly ] / <A> travel time is the big thing you know / <B> yeah / <A> working nine maybe eight nine ten hours a day / <B> yes / <A> and then having to go and sit in a class for another hour and a half / <B> yeah / <A> or you know something of that sort { i mean } / <B> [ absolutely ]",
     "context_start": 214.5,
-    "context_end": 236.35175,
+    "context_end": 236.680375,
     "feedback": [
         {
             "name": "spontB_276_yeah",
@@ -18,10 +18,10 @@
             "token": "yeah"
         },
         {
-            "name": "sun_013_right",
+            "name": "sun_015_exactly",
             "start": 223.77,
-            "end": 224.64350000000002,
-            "token": "right"
+            "end": 224.87175000000002,
+            "token": "exactly"
         },
         {
             "name": "spontC_251_yeah",
@@ -30,22 +30,22 @@
             "token": "yeah"
         },
         {
-            "name": "spontF_142_yeah",
+            "name": "spontB_368_yes",
             "start": 229.43,
-            "end": 229.895125,
-            "token": "yeah"
+            "end": 230.28762500000002,
+            "token": "yes"
         },
         {
-            "name": "spontF_294_yeah",
+            "name": "spontC_335_yeah",
             "start": 233.83,
-            "end": 234.56650000000002,
+            "end": 234.9815,
             "token": "yeah"
         },
         {
-            "name": "sun_015_exactly",
+            "name": "sun_004_absolutely",
             "start": 235.25,
-            "end": 236.35175,
-            "token": "exactly"
+            "end": 236.680375,
+            "token": "absolutely"
         }
     ]
 }

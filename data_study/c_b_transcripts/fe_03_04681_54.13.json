@@ -1,7 +1,7 @@
 {
     "name": "fe_03_04681",
     "context_channel": 0,
-    "context_text": "<B> well we have a newspaper in philadelphia called metro / <A> uh-huh / <B> it's a free paper and they pass it out at all of the ah terminals and trolley stations and train stations / <A> yeah / <B> and it's it runs twenty four to thirty pages it / <A> uh-huh / <B> encapsulates the news / <A> uh-huh / <B> and you can actually run through that paper and see all that's set to print in about twenty minutes / <A> what / <B> and you also have two jokes so that is the main source of my news in the morning / <A> oh / <B> and then at night i watch the ten o'clock news for fox / <A> okay",
+    "context_text": "<B> well we have a newspaper in philadelphia called metro / <A> uh-huh / <B> it's a free paper and they pass it out at all of the ah terminals and trolley stations and train stations / <A> yeah / <B> and it's it runs twenty four to thirty pages { it } / <A> [ uh-huh ] / <B> encapsulates the news / <A> yeah / <B> and you can actually run through that paper and see all that's set to print in about twenty minutes / <A> oh / <B> and you also have two jokes so that is the main source of my news in the morning / <A> oh / <B> and then at night i watch the ten o'clock news for fox / <A> okay",
     "context_start": 54.13,
     "context_end": 94.51112499999999,
     "feedback": [
@@ -18,22 +18,22 @@
             "token": "yeah"
         },
         {
-            "name": "spontF_009_uh-huh",
-            "start": 72.24,
-            "end": 72.62275,
-            "token": "uh-huh"
-        },
-        {
             "name": "spontD_276_uh-huh",
-            "start": 74.17,
-            "end": 74.611375,
+            "start": 72.24,
+            "end": 72.68137499999999,
             "token": "uh-huh"
         },
         {
-            "name": "spontF_577_what",
+            "name": "spontF_029_yeah",
+            "start": 74.17,
+            "end": 74.74525,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_017_oh",
             "start": 82.73,
-            "end": 83.76525000000001,
-            "token": "what"
+            "end": 83.559375,
+            "token": "oh"
         },
         {
             "name": "spontC_248_oh",

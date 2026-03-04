@@ -1,15 +1,15 @@
 {
     "name": "fe_03_00374",
     "context_channel": 0,
-    "context_text": "<B> yeah th that's cool yeah i know i know the city quite well although { i'm not sure } / <A> [ oh ] / <B> that ah i'd like to live there i don't think / <A> no / <B> but um i've gotten too used to the ah too used to the sunshine / <A> yeah / <B> oh very good yeah we have um we have ah down here we actually live out in the country so we're { we're } / <A> [ okay ] / <B> out out in the west almost out in the everglades so we've { got plenty of } / <A> [ sorry ]",
+    "context_text": "<B> yeah th that's cool yeah i know i know the city quite well { although } / <A> [ yeah ] / <B> i'm not sure that ah i'd like to live there i don't think / <A> no / <B> but um i've go gotten too used to the ah too used to the sunshine / <A> yeah / <B> oh very good yeah we have um we have ah down here we actually live out in the country so { we're } / <A> [ okay ] / <B> we're out out in the west almost out in the everglades so we've { got plenty of 'em } / <A> [ okay ]",
     "context_start": 213.77,
-    "context_end": 238.56175,
+    "context_end": 238.143125,
     "feedback": [
         {
-            "name": "spontE_048_oh",
+            "name": "spontF_268_yeah",
             "start": 217.49,
-            "end": 218.235125,
-            "token": "oh"
+            "end": 218.047875,
+            "token": "yeah"
         },
         {
             "name": "spontE_345_no",
@@ -18,9 +18,9 @@
             "token": "no"
         },
         {
-            "name": "spontF_127_yeah",
+            "name": "spontF_088_yeah",
             "start": 225.7,
-            "end": 226.402,
+            "end": 226.233625,
             "token": "yeah"
         },
         {
@@ -30,10 +30,10 @@
             "token": "okay"
         },
         {
-            "name": "Nu_037_sorry",
+            "name": "spontB_019_okay",
             "start": 237.45,
-            "end": 238.56175,
-            "token": "sorry"
+            "end": 238.143125,
+            "token": "okay"
         }
     ]
 }

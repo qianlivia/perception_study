@@ -1,32 +1,32 @@
 {
     "name": "fe_03_01681",
     "context_channel": 1,
-    "context_text": "<A> their own issues and the other thing is / <B> oh / <A> it's like america operates with their own agenda / <B> yes / <A> and i mean they claim they're freeing the iraq people but they make all these accusations / <B> mhm / <A> and it's almost like a lot of them are unfounded like they talk about the weapons { of } / <B> [ yeah ]",
+    "context_text": "<A> their own issues and the other thing is / <B> yeah / <A> it's like america operates with their own agenda / <B> yeah / <A> and i mean they claim they're freeing the iraq people but they make all these accusations / <B> yeah / <A> and it's almost like a lot of them are unfounded like they talk about the weapons { of } / <B> [ yeah ]",
     "context_start": 73.37,
-    "context_end": 89.10825,
+    "context_end": 89.241375,
     "feedback": [
         {
-            "name": "spontF_207_oh",
+            "name": "spontB_226_yeah",
             "start": 75.8,
-            "end": 76.184375,
-            "token": "oh"
+            "end": 76.249,
+            "token": "yeah"
         },
         {
-            "name": "spontC_507_yes",
+            "name": "spontC_138_yeah",
             "start": 78.49,
-            "end": 79.01249999999999,
-            "token": "yes"
+            "end": 78.987375,
+            "token": "yeah"
         },
         {
-            "name": "spontA_379_mhm",
+            "name": "spontD_024_yeah",
             "start": 83.56,
-            "end": 84.077875,
-            "token": "mhm"
+            "end": 83.980125,
+            "token": "yeah"
         },
         {
-            "name": "sun_046_yeah",
+            "name": "spontD_051_yeah",
             "start": 88.7,
-            "end": 89.10825,
+            "end": 89.241375,
             "token": "yeah"
         }
     ]

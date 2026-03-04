@@ -1,9 +1,9 @@
 {
     "name": "fe_03_05691",
     "context_channel": 0,
-    "context_text": "<B> a better answer / <A> no / <B> you know so there's this blurring of stuff { you know } / <A> [ absolutely ] / <B> you know there's ah but the i think the threat is as much of an internal thing as an external thing / <A> yeah / <B> and i think that our politicians can fan the concept of threat / <A> absolutely",
+    "context_text": "<B> 'cause i don't have a better answer / <A> no / <B> you know so there's this blurring of stuff you { know } / <A> [ yeah ] / <B> you know there's ah but the i think the threat is as much of an internal thing as an external thing / <A> yeah / <B> and i think that our politicians can fan the concept of threat / <A> yes",
     "context_start": 563.27,
-    "context_end": 582.3288749999999,
+    "context_end": 582.147625,
     "feedback": [
         {
             "name": "spontF_264_no",
@@ -12,22 +12,22 @@
             "token": "no"
         },
         {
-            "name": "sun_027_absolutely",
+            "name": "spontD_024_yeah",
             "start": 569.29,
-            "end": 570.424,
-            "token": "absolutely"
-        },
-        {
-            "name": "spontA_387_yeah",
-            "start": 577.16,
-            "end": 577.698125,
+            "end": 569.710125,
             "token": "yeah"
         },
         {
-            "name": "sun_036_absolutely",
+            "name": "spontD_250_yeah",
+            "start": 577.16,
+            "end": 577.575875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_368_yes",
             "start": 581.29,
-            "end": 582.3288749999999,
-            "token": "absolutely"
+            "end": 582.147625,
+            "token": "yes"
         }
     ]
 }
