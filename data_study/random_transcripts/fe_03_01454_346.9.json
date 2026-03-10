@@ -1,57 +1,57 @@
 {
     "name": "fe_03_01454",
     "context_channel": 1,
-    "context_text": "<A> and um like around four o'clock my boss called and said you know do you want you workers to go home and i'm like why / <B> uh / <A> you know what we got a full day here we stay there up until seven i'm well my workers are staying till seven why would they go home early / <B> yeah / <A> he said oh well you guys don't have your tv on and i'm like no we're moving why would i have my tv { on and } / <B> [ huh ] / <A> i'm in the middle of boxes here i'm not going to sit { down and } / <B> [ uh-huh ] / <A> watch tv he goes oh well you know you know the world trade center that's how i actually found out you know { like my } / <B> [ mmm ] / <A> boss told me and i'm like oh wow / <B> oh / <A> he's like well we're letting people off early if they if they're affected by this and i'm like well i don't think anyone's affected but i'll ask and none of my workers had any like i have like over four hundred workers / <B> mhm / <A> and out of four hundred workers not a single one of them { knew about it } / <B> [ uh-huh ]",
+    "context_text": "<A> and um like around four o'clock my boss called and said you know do you want you workers to go home and i'm like why / <B> yeah / <A> you know what we got a full day here we stay there up until seven i'm well my workers are staying till seven why would they go home early / <B> wow / <A> he said oh well you guys don't have your tv on and i'm like no we're moving why would i have my tv { on and } / <B> [ uh-huh ] / <A> i'm in the middle of boxes here i'm not going to sit { down and } / <B> [ mhm ] / <A> watch tv he goes oh well you know you know the world trade center that's how i actually found out you know { like my } / <B> [ mhm ] / <A> boss told me and i'm like oh wow / <B> uh-huh / <A> he's like well we're letting people off early if they if they're affected by this and i'm like well i don't think anyone's affected but i'll ask and none of my workers had any like i have like over four hundred workers / <B> yeah / <A> and out of four hundred workers not a single one of them { knew about it } / <B> [ ah ]",
     "context_start": 346.9,
-    "context_end": 388.56,
+    "context_end": 388.872875,
     "feedback": [
         {
-            "name": "NS_011_uh",
+            "name": "spontC_290_yeah",
             "start": 352.59,
-            "end": 354.21187499999996,
-            "token": "uh"
-        },
-        {
-            "name": "spontF_595_yeah",
-            "start": 358.82,
-            "end": 359.432,
+            "end": 353.55575,
             "token": "yeah"
         },
         {
-            "name": "NS_013_huh",
-            "start": 363.36,
-            "end": 363.87687500000004,
-            "token": "huh"
+            "name": "PS_115_wow",
+            "start": 358.82,
+            "end": 359.911,
+            "token": "wow"
         },
         {
-            "name": "spontC_091_uh-huh",
-            "start": 366.09,
-            "end": 366.6085,
+            "name": "spontD_113_uh-huh",
+            "start": 363.36,
+            "end": 363.99175,
             "token": "uh-huh"
         },
         {
-            "name": "spontB_387_mmm",
-            "start": 371.97,
-            "end": 372.78762500000005,
-            "token": "mmm"
-        },
-        {
-            "name": "spontC_018_oh",
-            "start": 374.4,
-            "end": 375.179625,
-            "token": "oh"
-        },
-        {
-            "name": "spontA_390_mhm",
-            "start": 384.31,
-            "end": 385.082125,
+            "name": "spontA_209_mhm",
+            "start": 366.09,
+            "end": 366.66875,
             "token": "mhm"
         },
         {
-            "name": "spontF_079_uh-huh",
-            "start": 387.92,
-            "end": 388.56,
+            "name": "spontC_304_mhm",
+            "start": 371.97,
+            "end": 372.488,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_183_uh-huh",
+            "start": 374.4,
+            "end": 375.093625,
             "token": "uh-huh"
+        },
+        {
+            "name": "spontA_340_yeah",
+            "start": 384.31,
+            "end": 384.7325,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_148_ah",
+            "start": 387.92,
+            "end": 388.872875,
+            "token": "ah"
         }
     ]
 }

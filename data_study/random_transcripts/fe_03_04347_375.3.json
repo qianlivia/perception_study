@@ -1,27 +1,27 @@
 {
     "name": "fe_03_04347",
     "context_channel": 1,
-    "context_text": "<A> we { don't } / <B> [ hm ] / <A> respect them anymore { and we g } / <B> [ yeah ] / <A> and we give this we give this white columbus guy a whole day for himself { we got a } / <B> [ mhm ]",
+    "context_text": "<A> we { don't } / <B> [ ooh ] / <A> respect them anymore { and we g } / <B> [ wow ] / <A> and we give this we give this white columbus guy a whole day for himself { we got a } / <B> [ okay ]",
     "context_start": 375.3,
-    "context_end": 381.48425,
+    "context_end": 381.624375,
     "feedback": [
         {
-            "name": "NS_054_hm",
+            "name": "spontF_252_ooh",
             "start": 375.3,
-            "end": 376.1865,
-            "token": "hm"
+            "end": 376.38662500000004,
+            "token": "ooh"
         },
         {
-            "name": "spontF_221_yeah",
+            "name": "PS_031_wow",
             "start": 376.78,
-            "end": 377.265625,
-            "token": "yeah"
+            "end": 377.54175,
+            "token": "wow"
         },
         {
-            "name": "spontE_120_mhm",
+            "name": "spontE_405_okay",
             "start": 380.95,
-            "end": 381.48425,
-            "token": "mhm"
+            "end": 381.624375,
+            "token": "okay"
         }
     ]
 }

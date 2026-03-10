@@ -1,38 +1,38 @@
 {
     "name": "fe_03_05007",
     "context_channel": 1,
-    "context_text": "<A> two i'm not um um i'm not even uh arabic i'm i'm i'm puerto rican { and i } / <B> [ nuh-uh ] / <A> was born in manhattan so i'm a i'm a us citizen thank { you ver } / <B> [ yeah ] / <A> and number three there was this little thing about you know freedom of of religion i think that our forefathers had a little issue with you know and it's just like you know and and it's n it turned then all of a sudden it turned into you i i it's us versus them / <B> yeah / <A> and what w w what people aren't realizing is that um it was all i don't know it just it's so much politics and and religion and the biggest thing about it is it's just like why if if it's come on if you're using religion why i mean more people have died over religion { than } / <B> [ oh ] / <A> in anything else in the world and i'm like why is it if if if every religion is supposed to be preaching this idea of love and and humanity and and caring for one another and of forgiveness / <B> yeah",
+    "context_text": "<A> two i'm not um um i'm not even uh arabic i'm i'm i'm puerto rican { and i } / <B> [ wow ] / <A> was born in manhattan so i'm a i'm a us citizen thank { you ver } / <B> [ yeah ] / <A> and number three there was this little thing about you know freedom of of religion i think that our forefathers had a little issue with you know and it's just like you know and and it's n it turned then all of a sudden it turned into you i i it's us versus them / <B> yeah / <A> and what w w what people aren't realizing is that um it was all i don't know it just it's so much politics and and religion and the biggest thing about it is it's just like why if if it's come on if you're using religion why i mean more people have died over religion { than } / <B> [ wow ] / <A> in anything else in the world and i'm like why is it if if if every religion is supposed to be preaching this idea of love and and humanity and and caring for one another and of forgiveness / <B> yeah",
     "context_start": 334.91,
-    "context_end": 386.765625,
+    "context_end": 386.429375,
     "feedback": [
         {
-            "name": "NR_029_nuh-uh",
+            "name": "NegS_065_wow",
             "start": 339.53,
-            "end": 340.19237499999997,
-            "token": "nuh-uh"
+            "end": 340.44399999999996,
+            "token": "wow"
         },
         {
-            "name": "spontB_292_yeah",
+            "name": "sun1_023_yeah",
             "start": 342.41,
-            "end": 342.98150000000004,
+            "end": 342.791875,
             "token": "yeah"
         },
         {
-            "name": "spontE_366_yeah",
+            "name": "spontF_552_yeah",
             "start": 357.16,
-            "end": 358.127,
+            "end": 357.61925,
             "token": "yeah"
         },
         {
-            "name": "Sy_012_oh",
+            "name": "PS_093_wow",
             "start": 374.54,
-            "end": 375.763125,
-            "token": "oh"
+            "end": 375.47225000000003,
+            "token": "wow"
         },
         {
-            "name": "spontD_101_yeah",
+            "name": "spontD_382_yeah",
             "start": 386.0,
-            "end": 386.765625,
+            "end": 386.429375,
             "token": "yeah"
         }
     ]

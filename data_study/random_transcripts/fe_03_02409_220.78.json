@@ -1,39 +1,39 @@
 {
     "name": "fe_03_02409",
     "context_channel": 1,
-    "context_text": "<A> i know and people are starting to get summonses do you know what the latest thing with smoking here in new york / <B> mhm / <A> ah a the latest thing is if you own a restaurant or a bar / <B> mhm / <A> and your customer smokes now you cannot be on top of everybody at the same time { you } / <B> [ wow ] / <A> have to run the place / <B> no / <A> but it said in the newspaper that if you are let's say a restaurant owner / <B> yeah",
+    "context_text": "<A> i know and people are starting to get summonses do you know what the latest thing with smoking here in new york / <B> uh-huh / <A> ah a the latest thing is if you own a restaurant or a bar / <B> mhm / <A> and your customer smokes now you cannot be on top of everybody at the same time { you } / <B> [ uh-huh ] / <A> have to run the place / <B> yeah / <A> but it said in the newspaper that if you are let's say a restaurant owner / <B> oh",
     "context_start": 220.78,
-    "context_end": 242.547125,
+    "context_end": 242.524875,
     "feedback": [
         {
-            "name": "spontA_345_mhm",
+            "name": "spontD_084_uh-huh",
             "start": 226.78,
-            "end": 227.4755,
-            "token": "mhm"
+            "end": 227.340875,
+            "token": "uh-huh"
         },
         {
-            "name": "spontF_257_mhm",
+            "name": "spontA_209_mhm",
             "start": 231.73,
-            "end": 232.222375,
+            "end": 232.30875,
             "token": "mhm"
         },
         {
-            "name": "PS_112_wow",
+            "name": "spontE_089_uh-huh",
             "start": 236.58,
-            "end": 237.791625,
-            "token": "wow"
+            "end": 237.05062500000003,
+            "token": "uh-huh"
         },
         {
-            "name": "NR_066_no",
+            "name": "spontB_132_yeah",
             "start": 238.4,
-            "end": 239.039375,
-            "token": "no"
+            "end": 239.307125,
+            "token": "yeah"
         },
         {
-            "name": "spontA_335_yeah",
+            "name": "spontC_248_oh",
             "start": 241.88,
-            "end": 242.547125,
-            "token": "yeah"
+            "end": 242.524875,
+            "token": "oh"
         }
     ]
 }

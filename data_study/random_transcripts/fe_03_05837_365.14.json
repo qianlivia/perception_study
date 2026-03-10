@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05837",
     "context_channel": 1,
-    "context_text": "<A> doesn't it doesn't try to it doesn't try to stop it at all i don't i think i don't know { h } / <B> [ uh-huh ] / <A> uh if you have a theory behind that because also i think the main people who are running the / <B> yeah / <A> the country the main people who are actually contributing to politicians who run the countr the country are all these companies { who are } / <B> [ mhm ] / <A> so rich and have all this money and so if they you know if they embezzle a few million dollars it doesn't hurt anyone cause we're still in power { th } / <B> [ wow ]",
+    "context_text": "<A> doesn't it doesn't try to it doesn't try to stop it at all i don't i think i don't know { h } / <B> [ no ] / <A> uh if you have a theory behind that because also i think the main people who are running the / <B> oh / <A> the country the main people who are actually contributing to politicians who run the countr the country are all these companies { who are } / <B> [ yeah ] / <A> so rich and have all this money and so if they you know if they embezzle a few million dollars it doesn't hurt anyone cause we're still in power { th } / <B> [ yeah ]",
     "context_start": 365.14,
-    "context_end": 392.69875,
+    "context_end": 391.888375,
     "feedback": [
         {
-            "name": "spontC_133_uh-huh",
+            "name": "NR_079_no",
             "start": 370.14,
-            "end": 370.6005,
-            "token": "uh-huh"
+            "end": 371.11899999999997,
+            "token": "no"
         },
         {
-            "name": "spontD_267_yeah",
+            "name": "spontB_181_oh",
             "start": 375.95,
-            "end": 376.69962499999997,
+            "end": 376.552375,
+            "token": "oh"
+        },
+        {
+            "name": "spontA_452_yeah",
+            "start": 383.32,
+            "end": 383.785375,
             "token": "yeah"
         },
         {
-            "name": "spontA_054_mhm",
-            "start": 383.32,
-            "end": 383.847,
-            "token": "mhm"
-        },
-        {
-            "name": "PS_142_wow",
+            "name": "spontF_295_yeah",
             "start": 391.37,
-            "end": 392.69875,
-            "token": "wow"
+            "end": 391.888375,
+            "token": "yeah"
         }
     ]
 }

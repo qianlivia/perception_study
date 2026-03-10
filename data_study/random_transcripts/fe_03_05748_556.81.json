@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05748",
     "context_channel": 0,
-    "context_text": "<B> yeah versus looking at a looking at a computer screen that after a while hurts your eyes you know um the you know the glowing light { so } / <A> [ yeah ] / <B> yeah i mean i hope that doesn't i i doubt it i mean i know um card catalogues have been basically replaced um / <A> mhm / <B> by computers and that to me makes a lot of sense it's / <A> wow / <B> much easier to just type something in the computer than go through card catalogues / <A> wow",
+    "context_text": "<B> yeah versus looking at a looking at a computer screen that after a while hurts your eyes you know um the you know the glowing light { so } / <A> [ ah ] / <B> yeah i mean i hope that doesn't i i doubt it i mean i know um card catalogues have been basically replaced um / <A> yeah / <B> by computers and that to me makes a lot of sense it's / <A> mhm / <B> much easier to just type something in the computer than go through card catalogues / <A> yeah",
     "context_start": 556.81,
-    "context_end": 580.005875,
+    "context_end": 580.18575,
     "feedback": [
         {
-            "name": "spontD_267_yeah",
+            "name": "spontC_173_ah",
             "start": 564.61,
-            "end": 565.359625,
+            "end": 565.674,
+            "token": "ah"
+        },
+        {
+            "name": "spontE_073_yeah",
+            "start": 572.4,
+            "end": 572.966,
             "token": "yeah"
         },
         {
-            "name": "spontA_343_mhm",
-            "start": 572.4,
-            "end": 572.949625,
+            "name": "spontD_204_mhm",
+            "start": 575.58,
+            "end": 576.2302500000001,
             "token": "mhm"
         },
         {
-            "name": "PS_130_wow",
-            "start": 575.58,
-            "end": 576.994625,
-            "token": "wow"
-        },
-        {
-            "name": "PS_152_wow",
+            "name": "spontA_233_yeah",
             "start": 579.41,
-            "end": 580.005875,
-            "token": "wow"
+            "end": 580.18575,
+            "token": "yeah"
         }
     ]
 }

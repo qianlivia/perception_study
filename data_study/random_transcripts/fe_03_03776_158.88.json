@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03776",
     "context_channel": 1,
-    "context_text": "<A> hadethists they're they don't um they're a little more mainstream there's there's it's it's a very complicated thing cause like you can generally uh you can generally cleave islam into two groups shiite and sunni / <B> mhm / <A> but there's another camp called reform / <B> pardon / <A> um which kind of are neither { they } / <B> [ yeah ] / <A> they exist on either side of the schism / <B> yeah",
+    "context_text": "<A> hadethists they're they don't um they're a little more mainstream there's there's it's it's a very complicated thing cause like you can generally uh you can generally cleave islam into two groups shiite and sunni / <B> oh / <A> but there's another camp called reform / <B> oh / <A> um which kind of are neither { they } / <B> [ yeah ] / <A> they exist on either side of the schism / <B> okay",
     "context_start": 158.88,
-    "context_end": 185.56412500000002,
+    "context_end": 185.4395,
     "feedback": [
         {
-            "name": "spontE_142_mhm",
+            "name": "PS_104_oh",
             "start": 176.31,
-            "end": 176.78537500000002,
-            "token": "mhm"
+            "end": 177.045875,
+            "token": "oh"
         },
         {
-            "name": "Nu_011_pardon",
+            "name": "Sy_054_oh",
             "start": 179.71,
-            "end": 180.57275,
-            "token": "pardon"
-        },
-        {
-            "name": "spontE_117_yeah",
-            "start": 182.03,
-            "end": 183.2415,
-            "token": "yeah"
+            "end": 181.393125,
+            "token": "oh"
         },
         {
             "name": "spontE_269_yeah",
-            "start": 184.77,
-            "end": 185.56412500000002,
+            "start": 182.03,
+            "end": 182.824125,
             "token": "yeah"
+        },
+        {
+            "name": "spontB_195_okay",
+            "start": 184.77,
+            "end": 185.4395,
+            "token": "okay"
         }
     ]
 }

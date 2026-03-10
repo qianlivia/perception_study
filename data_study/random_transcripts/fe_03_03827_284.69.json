@@ -1,27 +1,27 @@
 {
     "name": "fe_03_03827",
     "context_channel": 0,
-    "context_text": "<B> i thought it was real interesting saying that um they drew the line at they could make fun of a what what a person did / <A> yup / <B> because if this politician you know chose to say something stupid / <A> gosh / <B> in public well that's different but they wouldn't make fun of ah how they looked or what religion they were or where { they } / <A> [ mhm ]",
+    "context_text": "<B> i thought it was real interesting saying that um they drew the line at they could make fun of a what what a person did / <A> yeah / <B> because if this politician you know chose to say something stupid / <A> oh / <B> in public well that's different but they wouldn't make fun of ah how they looked or what religion they were or where { they } / <A> [ yeah ]",
     "context_start": 284.69,
-    "context_end": 306.1555,
+    "context_end": 306.11975,
     "feedback": [
         {
-            "name": "PR_002_yup",
+            "name": "spontB_373_yeah",
             "start": 292.57,
-            "end": 293.406625,
-            "token": "yup"
+            "end": 292.9815,
+            "token": "yeah"
         },
         {
-            "name": "PS_102_gosh",
+            "name": "spontF_360_oh",
             "start": 296.99,
-            "end": 298.82625,
-            "token": "gosh"
+            "end": 297.93237500000004,
+            "token": "oh"
         },
         {
-            "name": "spontA_285_mhm",
+            "name": "spontF_625_yeah",
             "start": 305.61,
-            "end": 306.1555,
-            "token": "mhm"
+            "end": 306.11975,
+            "token": "yeah"
         }
     ]
 }

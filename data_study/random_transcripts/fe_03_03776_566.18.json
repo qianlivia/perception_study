@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03776",
     "context_channel": 1,
-    "context_text": "<A> [ um ] oh okay um i i rarely do myself but i do watch the daily show whenever i get a chance it's like a news program / <B> uh-huh / <A> and it's really a news program but / <B> uh-huh / <A> it's kind of irreverent / <B> hm / <A> you know it's not really politically aligned it just makes fun of whoever's running it running the show / <B> uh-huh",
+    "context_text": "<A> [ um ] oh okay um i i rarely do myself but i do watch the daily show whenever i get a chance it's like a news program / <B> yeah / <A> and it's really a news program but / <B> okay / <A> it's kind of irreverent / <B> no / <A> you know it's not really politically aligned it just makes fun of whoever's running it running the show / <B> no",
     "context_start": 566.18,
-    "context_end": 583.997625,
+    "context_end": 584.19425,
     "feedback": [
         {
-            "name": "spontA_296_uh-huh",
+            "name": "spontF_047_yeah",
             "start": 573.97,
-            "end": 574.5515,
-            "token": "uh-huh"
+            "end": 574.576875,
+            "token": "yeah"
         },
         {
-            "name": "spontD_405_uh-huh",
+            "name": "spontC_020_okay",
             "start": 576.13,
-            "end": 576.54875,
-            "token": "uh-huh"
+            "end": 576.605,
+            "token": "okay"
         },
         {
-            "name": "NS_073_hm",
+            "name": "NR_039_no",
             "start": 577.74,
-            "end": 578.673125,
-            "token": "hm"
+            "end": 578.369875,
+            "token": "no"
         },
         {
-            "name": "spontF_116_uh-huh",
+            "name": "NR_097_no",
             "start": 583.4,
-            "end": 583.997625,
-            "token": "uh-huh"
+            "end": 584.19425,
+            "token": "no"
         }
     ]
 }

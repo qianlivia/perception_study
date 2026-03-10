@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00885",
     "context_channel": 1,
-    "context_text": "<A> well i should be busy doing other stuff but i think once you kind of get hooked on it / <B> yeah / <A> then you have to watch it week to week / <B> yeah / <A> to know what's going on and one reason why i like to watch survivor is to see the country / <B> uh-huh / <A> you know the settings where they're putting them and you { know the } / <B> [ mhm ]",
+    "context_text": "<A> well i should be busy doing other stuff but i think once you kind of get hooked on it / <B> uh-huh / <A> then you have to watch it week to week / <B> uh-huh / <A> to know what's going on and one reason why i like to watch survivor is to see the country / <B> mhm / <A> you know the settings where they're putting them and you { know the } / <B> [ uh-huh ]",
     "context_start": 67.74,
-    "context_end": 83.29975,
+    "context_end": 83.097125,
     "feedback": [
         {
-            "name": "spontC_224_yeah",
+            "name": "spontB_140_uh-huh",
             "start": 71.75,
-            "end": 72.55175,
-            "token": "yeah"
-        },
-        {
-            "name": "spontE_023_yeah",
-            "start": 74.85,
-            "end": 75.38562499999999,
-            "token": "yeah"
-        },
-        {
-            "name": "spontE_166_uh-huh",
-            "start": 80.02,
-            "end": 80.561375,
+            "end": 72.288,
             "token": "uh-huh"
         },
         {
-            "name": "spontA_344_mhm",
-            "start": 82.56,
-            "end": 83.29975,
+            "name": "spontF_359_uh-huh",
+            "start": 74.85,
+            "end": 75.50224999999999,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontB_187_mhm",
+            "start": 80.02,
+            "end": 80.571125,
             "token": "mhm"
+        },
+        {
+            "name": "spontF_309_uh-huh",
+            "start": 82.56,
+            "end": 83.097125,
+            "token": "uh-huh"
         }
     ]
 }

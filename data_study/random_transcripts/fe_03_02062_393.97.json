@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02062",
     "context_channel": 1,
-    "context_text": "<A> like i used to my parents are actually they're both teachers um when we were little like they've always been really good at like making a buck stretch / <B> mhm / <A> and they used to um gather students and go skiing with students in the french alps / <B> aww / <A> um but they would do it so that like you know if if you buy ten tickets you get one free kinda thing like { with all } / <B> [ no ] / <A> these airlines so basically we would go skiing through the french alps for three weeks for for { like two } / <B> [ ah ]",
+    "context_text": "<A> like i used to my parents are actually they're both teachers um when we were little like they've always been really good at like making a buck stretch / <B> yeah / <A> and they used to um gather students and go skiing with students in the french alps / <B> yeah / <A> um but they would do it so that like you know if if you buy ten tickets you get one free kinda thing like { with all } / <B> [ yeah ] / <A> these airlines so basically we would go skiing through the french alps for three weeks for for { like two } / <B> [ no ]",
     "context_start": 393.97,
-    "context_end": 419.70399999999995,
+    "context_end": 419.41024999999996,
     "feedback": [
         {
-            "name": "spontA_318_mhm",
+            "name": "spontC_255_yeah",
             "start": 402.18,
-            "end": 402.856875,
-            "token": "mhm"
+            "end": 402.757875,
+            "token": "yeah"
         },
         {
-            "name": "spontA_293_aww",
+            "name": "spontC_043_yeah",
             "start": 408.15,
-            "end": 408.837875,
-            "token": "aww"
+            "end": 408.685,
+            "token": "yeah"
         },
         {
-            "name": "spontA_381_no",
+            "name": "spontB_226_yeah",
             "start": 413.95,
-            "end": 414.70625,
-            "token": "no"
+            "end": 414.399,
+            "token": "yeah"
         },
         {
-            "name": "PS_051_ah",
+            "name": "NR_119_no",
             "start": 418.65,
-            "end": 419.70399999999995,
-            "token": "ah"
+            "end": 419.41024999999996,
+            "token": "no"
         }
     ]
 }

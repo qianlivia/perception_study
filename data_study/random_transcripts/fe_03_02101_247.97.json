@@ -1,39 +1,39 @@
 {
     "name": "fe_03_02101",
     "context_channel": 1,
-    "context_text": "<A> well it it did cut up because we had the first weekend after it we had probably twenty something folks show up to help us clean up the house / <B> hm / <A> you know to clear out stuff that was burned out because it was really hard for us to do it we lost / <B> wow / <A> you know we lost everything we lost a bunch of animals / <B> oh / <A> uh it was uh real hard uh barbara couldn't even go down there { you } / <B> [ mhm ] / <A> know it was just so so much for her but here i somebody had to go down there cause i had these people coming down to help / <B> hm",
+    "context_text": "<A> well it it did cut up because we had the first weekend after it we had probably twenty something folks show up to help us clean up the house / <B> mhm / <A> you know to clear out stuff that was burned out because it was really hard for us to do it we lost / <B> mhm / <A> you know we lost everything we lost a bunch of animals / <B> uh-huh / <A> uh it was uh real hard uh barbara couldn't even go down there { you } / <B> [ oh ] / <A> know it was just so so much for her but here i somebody had to go down there cause i had these people coming down to help / <B> mhm",
     "context_start": 247.97,
-    "context_end": 278.85625000000005,
+    "context_end": 278.539375,
     "feedback": [
         {
-            "name": "sun2_010_hm",
+            "name": "spontE_241_mhm",
             "start": 256.93,
-            "end": 257.712875,
-            "token": "hm"
-        },
-        {
-            "name": "PS_142_wow",
-            "start": 263.03,
-            "end": 264.35875,
-            "token": "wow"
-        },
-        {
-            "name": "spontB_365_oh",
-            "start": 266.56,
-            "end": 267.15425,
-            "token": "oh"
-        },
-        {
-            "name": "spontA_200_mhm",
-            "start": 272.24,
-            "end": 272.8145,
+            "end": 257.479,
             "token": "mhm"
         },
         {
-            "name": "NS_005_hm",
+            "name": "PR_063_mhm",
+            "start": 263.03,
+            "end": 263.7175,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_183_uh-huh",
+            "start": 266.56,
+            "end": 267.253625,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PS_170_oh",
+            "start": 272.24,
+            "end": 274.48900000000003,
+            "token": "oh"
+        },
+        {
+            "name": "spontA_403_mhm",
             "start": 277.98,
-            "end": 278.85625000000005,
-            "token": "hm"
+            "end": 278.539375,
+            "token": "mhm"
         }
     ]
 }

@@ -1,32 +1,32 @@
 {
     "name": "fe_03_01236",
     "context_channel": 1,
-    "context_text": "<A> work for i don't own a business at all and ah it the way i feel about it is i i'm sure that there's people in the past particularly who were hired to fill a quota / <B> yeah / <A> but and if you look at the big picture { like } / <B> [ mhm ] / <A> like the big picture of the united states and the people who are afro american we were descended from slaves / <B> uh-huh / <A> um that unless you continually churn people and have an upwardly mobile that where it's possible to to go up / <B> mhm",
+    "context_text": "<A> work for i don't own a business at all and ah it the way i feel about it is i i'm sure that there's people in the past particularly who were hired to fill a quota / <B> yeah / <A> but and if you look at the big picture { like } / <B> [ ah ] / <A> like the big picture of the united states and the people who are afro american we were descended from slaves / <B> mhm / <A> um that unless you continually churn people and have an upwardly mobile that where it's possible to to go up / <B> mhm",
     "context_start": 236.02,
-    "context_end": 278.84175,
+    "context_end": 279.398375,
     "feedback": [
         {
-            "name": "spontD_365_yeah",
+            "name": "spontA_208_yeah",
             "start": 251.79,
-            "end": 252.64624999999998,
+            "end": 252.584125,
             "token": "yeah"
         },
         {
-            "name": "spontF_311_mhm",
+            "name": "spontB_190_ah",
             "start": 256.56,
-            "end": 257.060125,
+            "end": 257.7745,
+            "token": "ah"
+        },
+        {
+            "name": "spontA_331_mhm",
+            "start": 265.6,
+            "end": 266.25887500000005,
             "token": "mhm"
         },
         {
-            "name": "spontC_189_uh-huh",
-            "start": 265.6,
-            "end": 266.08025000000004,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontC_235_mhm",
+            "name": "sun_012_mhm",
             "start": 278.39,
-            "end": 278.84175,
+            "end": 279.398375,
             "token": "mhm"
         }
     ]

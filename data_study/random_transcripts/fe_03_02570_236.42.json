@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02570",
     "context_channel": 1,
-    "context_text": "<A> [ yeah ] i know we were talking um earlier about making sure that they have the necessities of life you know that the united states is making sure that they have their water and their / <B> pardon / <A> electric and and things like that and if they can get their food and it's not going to be a situation where they're going to be afraid to go and get something / <B> mmm / <A> um that their family needs / <B> uh-huh / <A> and i think that probably will help a lot to make it possible to continue to disarm where they find something / <B> oh",
+    "context_text": "<A> [ yeah ] i know we were talking um earlier about making sure that they have the necessities of life you know that the united states is making sure that they have their water and their / <B> yeah / <A> electric and and things like that and if they can get their food and it's not going to be a situation where they're going to be afraid to go and get something / <B> right / <A> um that their family needs / <B> yeah / <A> and i think that probably will help a lot to make it possible to continue to disarm where they find something / <B> wow",
     "context_start": 236.42,
-    "context_end": 268.9975,
+    "context_end": 269.784625,
     "feedback": [
         {
-            "name": "Nu_024_pardon",
+            "name": "spontE_125_yeah",
             "start": 247.61,
-            "end": 248.33300000000003,
-            "token": "pardon"
+            "end": 248.38525,
+            "token": "yeah"
         },
         {
-            "name": "sun2_034_mmm",
+            "name": "sun1_031_right",
             "start": 256.47,
-            "end": 257.25250000000005,
-            "token": "mmm"
+            "end": 257.26425,
+            "token": "right"
         },
         {
-            "name": "spontE_378_uh-huh",
+            "name": "spontD_231_yeah",
             "start": 258.4,
-            "end": 258.92137499999995,
-            "token": "uh-huh"
+            "end": 258.980375,
+            "token": "yeah"
         },
         {
-            "name": "spontE_356_oh",
+            "name": "PS_130_wow",
             "start": 268.37,
-            "end": 268.9975,
-            "token": "oh"
+            "end": 269.784625,
+            "token": "wow"
         }
     ]
 }

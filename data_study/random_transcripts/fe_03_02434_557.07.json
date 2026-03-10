@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02434",
     "context_channel": 0,
-    "context_text": "<B> yeah it well i mean i don't know it's it's like you said it's hard / <A> no / <B> and i finally like dealt with the fact that i have some positive things and going off in myself cause i feel like i have nothing you know / <A> pardon / <B> to show for myself cause all my friends they're like about to graduate from college / <A> yeah / <B> and i didn't even finish college / <A> yeah",
+    "context_text": "<B> yeah it well i mean i don't know it's it's like you said it's hard / <A> no / <B> and i finally like dealt with the fact that i have some positive things and going off in myself cause i feel like i have nothing you know / <A> oh / <B> to show for myself cause all my friends they're like about to graduate from college / <A> yes / <B> and i didn't even finish college / <A> wow",
     "context_start": 557.07,
-    "context_end": 588.1296249999999,
+    "context_end": 588.5269999999999,
     "feedback": [
         {
-            "name": "NR_063_no",
+            "name": "NR_094_no",
             "start": 564.99,
-            "end": 565.75,
+            "end": 566.010875,
             "token": "no"
         },
         {
-            "name": "Nu_023_pardon",
+            "name": "spontF_616_oh",
             "start": 576.8,
-            "end": 577.381125,
-            "token": "pardon"
+            "end": 577.570875,
+            "token": "oh"
         },
         {
-            "name": "spontB_297_yeah",
+            "name": "PR_009_yes",
             "start": 583.2,
-            "end": 583.644,
-            "token": "yeah"
+            "end": 583.981125,
+            "token": "yes"
         },
         {
-            "name": "spontF_508_yeah",
+            "name": "NegS_044_wow",
             "start": 587.42,
-            "end": 588.1296249999999,
-            "token": "yeah"
+            "end": 588.5269999999999,
+            "token": "wow"
         }
     ]
 }

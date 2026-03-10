@@ -1,27 +1,27 @@
 {
     "name": "fe_03_04470",
     "context_channel": 1,
-    "context_text": "<A> i ah i don't know that there's anything inherently wrong with public schools i think that they have their work cut out with them with today's the way the kids are today ah / <B> pardon / <A> you know they're have so many different ah external forces like go you know obviously when i grew up we had television and stuff but it wasn't the kind of tv you see now we don't you know there's not as much multimedia the computers all that kind of stuff the computer games so kids have a little bit less attention span i believe and so i think that's that's a hard thing for / <B> ugh / <A> teachers to to to grapple with and so they have to find new ways to educate kids / <B> yuh",
+    "context_text": "<A> i ah i don't know that there's anything inherently wrong with public schools i think that they have their work cut out with them with today's the way the kids are today ah / <B> oh / <A> you know they're have so many different ah external forces like go you know obviously when i grew up we had television and stuff but it wasn't the kind of tv you see now we don't you know there's not as much multimedia the computers all that kind of stuff the computer games so kids have a little bit less attention span i believe and so i think that's that's a hard thing for / <B> wow / <A> teachers to to to grapple with and so they have to find new ways to educate kids / <B> uh-huh",
     "context_start": 40.31,
-    "context_end": 75.92150000000001,
+    "context_end": 75.883125,
     "feedback": [
         {
-            "name": "Nu_050_pardon",
+            "name": "spontF_320_oh",
             "start": 50.5,
-            "end": 51.15025,
-            "token": "pardon"
+            "end": 51.202375,
+            "token": "oh"
         },
         {
-            "name": "NegS_031_ugh",
+            "name": "PS_135_wow",
             "start": 69.86,
-            "end": 70.959875,
-            "token": "ugh"
+            "end": 71.100375,
+            "token": "wow"
         },
         {
-            "name": "spontA_089_yuh",
+            "name": "spontE_249_uh-huh",
             "start": 75.37,
-            "end": 75.92150000000001,
-            "token": "yuh"
+            "end": 75.883125,
+            "token": "uh-huh"
         }
     ]
 }

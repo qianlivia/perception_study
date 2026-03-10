@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00134",
     "context_channel": 1,
-    "context_text": "<A> on the ground in sierra leone and we're going to put people on the ground in congo and we're going to put people { on the ground } / <B> [ uh-huh ] / <A> everywhere / <B> no / <A> but you know obviously we can't over commit our troops and so i think i mean it feels to me like you know we're we're driven to do something about iraq because of oil { you } / <B> [ uh-huh ] / <A> know and i don't know it just it just seems so strange like bush doesn't even want / <B> ah",
+    "context_text": "<A> on the ground in sierra leone and we're going to put people on the ground in congo and we're going to put people { on the ground } / <B> [ wow ] / <A> everywhere / <B> yeah / <A> but you know obviously we can't over commit our troops and so i think i mean it feels to me like you know we're we're driven to do something about iraq because of oil { you } / <B> [ uh-huh ] / <A> know and i don't know it just it just seems so strange like bush doesn't even want / <B> oh",
     "context_start": 210.38,
-    "context_end": 241.35962500000002,
+    "context_end": 241.3795,
     "feedback": [
         {
-            "name": "spontA_312_uh-huh",
+            "name": "PS_101_wow",
             "start": 214.07,
-            "end": 214.63,
-            "token": "uh-huh"
+            "end": 215.008375,
+            "token": "wow"
         },
         {
-            "name": "spontC_400_no",
+            "name": "spontE_073_yeah",
             "start": 214.96,
-            "end": 215.584875,
-            "token": "no"
+            "end": 215.526,
+            "token": "yeah"
         },
         {
-            "name": "spontF_470_uh-huh",
+            "name": "spontE_106_uh-huh",
             "start": 224.07,
-            "end": 224.594125,
+            "end": 224.49925,
             "token": "uh-huh"
         },
         {
-            "name": "NS_095_ah",
+            "name": "PS_197_oh",
             "start": 240.3,
-            "end": 241.35962500000002,
-            "token": "ah"
+            "end": 241.3795,
+            "token": "oh"
         }
     ]
 }

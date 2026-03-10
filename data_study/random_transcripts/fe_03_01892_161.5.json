@@ -1,39 +1,39 @@
 {
     "name": "fe_03_01892",
     "context_channel": 0,
-    "context_text": "<B> wrong time and even myself travelling with my daughter just going to the grocery i mean you never know and it's like i think everybody is suspicious to me { now } / <A> [ no ] / <B> i always look at people and think you know i wonder if this person is about to pull upfront you know and i mean i remember driving on september eleventh 'cause i had to go return a movie and people were driving like they were crazy / <A> yeah / <B> and i'm like calm down you know i mean / <A> oh / <B> why do you have to act like this and and curse me out or whatever and you know you don't i mean everybody thought the world was ending / <A> right / <B> and there was no peace / <A> pardon",
+    "context_text": "<B> wrong time and even myself travelling with my daughter just going to the grocery i mean you never know and it's like i think everybody is suspicious to me { now } / <A> [ yes ] / <B> i always look at people and think you know i wonder if this person is about to pull upfront you know and i mean i remember driving on september eleventh 'cause i had to go return a movie and people were driving like they were crazy / <A> wow / <B> and i'm like calm down you know i mean / <A> yeah / <B> why do you have to act like this and and curse me out or whatever and you know you don't i mean everybody thought the world was ending / <A> oh / <B> and there was no peace / <A> ooh",
     "context_start": 161.5,
-    "context_end": 196.70025,
+    "context_end": 197.02937500000002,
     "feedback": [
         {
-            "name": "sun_018_no",
+            "name": "PR_059_yes",
             "start": 171.63,
-            "end": 172.35887499999998,
-            "token": "no"
+            "end": 172.690125,
+            "token": "yes"
         },
         {
-            "name": "spontD_236_yeah",
+            "name": "PS_064_wow",
             "start": 183.69,
-            "end": 184.44125,
+            "end": 184.577875,
+            "token": "wow"
+        },
+        {
+            "name": "spontC_352_yeah",
+            "start": 186.34,
+            "end": 187.039125,
             "token": "yeah"
         },
         {
-            "name": "spontA_122_oh",
-            "start": 186.34,
-            "end": 187.10175,
+            "name": "PS_111_oh",
+            "start": 193.88,
+            "end": 194.664375,
             "token": "oh"
         },
         {
-            "name": "sun1_033_right",
-            "start": 193.88,
-            "end": 194.733125,
-            "token": "right"
-        },
-        {
-            "name": "Nu_050_pardon",
+            "name": "PS_166_ooh",
             "start": 196.05,
-            "end": 196.70025,
-            "token": "pardon"
+            "end": 197.02937500000002,
+            "token": "ooh"
         }
     ]
 }

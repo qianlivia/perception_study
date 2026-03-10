@@ -1,45 +1,45 @@
 {
     "name": "fe_03_01151",
     "context_channel": 1,
-    "context_text": "<A> said it definitely you know it's definitely not easy i mean i can make a lot of things easy namely if i could go back in time if i could go back to like nineteen fifty / <B> yeah / <A> with the things i know now and and and all the you know all the new innovations of today / <B> right / <A> i could be bill gates you could be anybody you wanted to be with the stuff you know today i mean { you } / <B> [ yeah ] / <A> could be the richest person in the fifties / <B> uh-hah / <A> if you could you know just the simple things i mean like you know i mean satellite tv / <B> ugh / <A> you know cordless phones / <B> yeah",
+    "context_text": "<A> said it definitely you know it's definitely not easy i mean i can make a lot of things easy namely if i could go back in time if i could go back to like nineteen fifty / <B> wow / <A> with the things i know now and and and all the you know all the new innovations of today / <B> uh-huh / <A> i could be bill gates you could be anybody you wanted to be with the stuff you know today i mean { you } / <B> [ mhm ] / <A> could be the richest person in the fifties / <B> oh / <A> if you could you know just the simple things i mean like you know i mean satellite tv / <B> yep / <A> you know cordless phones / <B> wow",
     "context_start": 500.06,
-    "context_end": 532.025375,
+    "context_end": 532.44075,
     "feedback": [
         {
-            "name": "spontB_393_yeah",
+            "name": "PS_189_wow",
             "start": 509.6,
-            "end": 510.00275000000005,
-            "token": "yeah"
+            "end": 510.70887500000003,
+            "token": "wow"
         },
         {
-            "name": "spontC_360_right",
+            "name": "spontD_277_uh-huh",
             "start": 516.01,
-            "end": 516.588875,
-            "token": "right"
+            "end": 516.48325,
+            "token": "uh-huh"
         },
         {
-            "name": "spontF_157_yeah",
+            "name": "spontF_482_mhm",
             "start": 520.9,
-            "end": 521.588125,
-            "token": "yeah"
+            "end": 521.33825,
+            "token": "mhm"
         },
         {
-            "name": "sun1_013_uh-hah",
+            "name": "spontD_032_oh",
             "start": 523.1,
-            "end": 524.1108750000001,
-            "token": "uh-hah"
+            "end": 523.7866250000001,
+            "token": "oh"
         },
         {
-            "name": "spontF_389_ugh",
+            "name": "PR_027_yep",
             "start": 529.43,
-            "end": 529.8394999999999,
-            "token": "ugh"
+            "end": 529.9727499999999,
+            "token": "yep"
         },
         {
-            "name": "spontA_155_yeah",
+            "name": "PS_156_wow",
             "start": 531.5,
-            "end": 532.025375,
-            "token": "yeah"
+            "end": 532.44075,
+            "token": "wow"
         }
     ]
 }

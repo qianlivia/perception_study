@@ -1,57 +1,57 @@
 {
     "name": "fe_03_01834",
     "context_channel": 1,
-    "context_text": "<A> i'm a psychology student { and } / <B> [ wow ] / <A> i haven't seen any data to support that argument i would { have } / <B> [ oh ] / <A> to see ah what i have seen are um is research to the contrary that it is helping students / <B> uh-huh / <A> yeah so uh unless i see something that i guess because of my nature as a scientist i i have to see proof / <B> hm / <A> before i believe it and i just don't believe that that's true i think that um that it may replace television time ah and i think that it's better than that television because it's more interactive i i don't think the television is bad either i don't think pbs is bad { for kids } / <B> [ yeah ] / <A> or the { discovery } / <B> [ yeah ] / <A> channel / <B> yeah / <A> but um especially what i've seen is that there is a lot of um programming for children with disabilities / <B> yeah",
+    "context_text": "<A> i'm a psychology student { and } / <B> [ no ] / <A> i haven't seen any data to support that argument i would { have } / <B> [ yeah ] / <A> to see ah what i have seen are um is research to the contrary that it is helping students / <B> mhm / <A> yeah so uh unless i see something that i guess because of my nature as a scientist i i have to see proof / <B> sure / <A> before i believe it and i just don't believe that that's true i think that um that it may replace television time ah and i think that it's better than that television because it's more interactive i i don't think the television is bad either i don't think pbs is bad { for kids } / <B> [ mhm ] / <A> or the { discovery } / <B> [ oh ] / <A> channel / <B> mhm / <A> but um especially what i've seen is that there is a lot of um programming for children with disabilities / <B> mhm",
     "context_start": 378.31,
-    "context_end": 431.987375,
+    "context_end": 432.013125,
     "feedback": [
         {
-            "name": "PS_165_wow",
+            "name": "NR_059_no",
             "start": 380.04,
-            "end": 381.27612500000004,
-            "token": "wow"
+            "end": 380.91537500000004,
+            "token": "no"
         },
         {
-            "name": "Sy_023_oh",
+            "name": "spontE_245_yeah",
             "start": 384.73,
-            "end": 385.830375,
+            "end": 385.550875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_184_mhm",
+            "start": 394.18,
+            "end": 394.7565,
+            "token": "mhm"
+        },
+        {
+            "name": "sun_051_sure",
+            "start": 403.82,
+            "end": 404.587625,
+            "token": "sure"
+        },
+        {
+            "name": "spontB_154_mhm",
+            "start": 421.73,
+            "end": 422.32912500000003,
+            "token": "mhm"
+        },
+        {
+            "name": "spontE_048_oh",
+            "start": 422.42,
+            "end": 423.165125,
             "token": "oh"
         },
         {
-            "name": "spontA_243_uh-huh",
-            "start": 394.18,
-            "end": 394.72,
-            "token": "uh-huh"
-        },
-        {
-            "name": "NS_032_hm",
-            "start": 403.82,
-            "end": 404.424375,
-            "token": "hm"
-        },
-        {
-            "name": "spontD_172_yeah",
-            "start": 421.73,
-            "end": 422.5235,
-            "token": "yeah"
-        },
-        {
-            "name": "spontA_133_yeah",
-            "start": 422.42,
-            "end": 423.05287500000003,
-            "token": "yeah"
-        },
-        {
-            "name": "spontC_135_yeah",
+            "name": "PR_046_mhm",
             "start": 423.75,
-            "end": 424.437625,
-            "token": "yeah"
+            "end": 424.68975,
+            "token": "mhm"
         },
         {
-            "name": "spontC_504_yeah",
+            "name": "spontA_107_mhm",
             "start": 431.5,
-            "end": 431.987375,
-            "token": "yeah"
+            "end": 432.013125,
+            "token": "mhm"
         }
     ]
 }

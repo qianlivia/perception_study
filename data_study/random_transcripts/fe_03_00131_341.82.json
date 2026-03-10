@@ -1,39 +1,39 @@
 {
     "name": "fe_03_00131",
     "context_channel": 1,
-    "context_text": "<A> know because sometimes our people have access to say satellite photos / <B> uh-huh / <A> that the others aren't allowed to see and you can't you also can't tell them in a way you can't tell them what we know because we don't want anyone to know how much we know because we use the same satellites to track say troop movements and { whatever but it's } / <B> [ yeah ] / <A> like hey guys why don't we go to this town { come } / <B> [ yeah ] / <A> on come on tell me you want to / <B> mmm / <A> why ah ah i i hear the food there is great / <B> okay",
+    "context_text": "<A> know because sometimes our people have access to say satellite photos / <B> yes / <A> that the others aren't allowed to see and you can't you also can't tell them in a way you can't tell them what we know because we don't want anyone to know how much we know because we use the same satellites to track say troop movements and { whatever but it's } / <B> [ yeah ] / <A> like hey guys why don't we go to this town { come } / <B> [ okay ] / <A> on come on tell me you want to / <B> no / <A> why ah ah i i hear the food there is great / <B> yeah",
     "context_start": 341.82,
-    "context_end": 373.39512499999995,
+    "context_end": 373.26675,
     "feedback": [
         {
-            "name": "spontA_051_uh-huh",
+            "name": "spontB_368_yes",
             "start": 346.06,
-            "end": 346.61925,
-            "token": "uh-huh"
+            "end": 346.917625,
+            "token": "yes"
         },
         {
-            "name": "spontF_506_yeah",
+            "name": "spontC_385_yeah",
             "start": 360.55,
-            "end": 361.43425,
+            "end": 361.127875,
             "token": "yeah"
         },
         {
-            "name": "spontF_630_yeah",
+            "name": "spontD_411_okay",
             "start": 365.01,
-            "end": 365.627125,
-            "token": "yeah"
-        },
-        {
-            "name": "spontD_234_mmm",
-            "start": 367.69,
-            "end": 368.27,
-            "token": "mmm"
-        },
-        {
-            "name": "spontD_089_okay",
-            "start": 372.59,
-            "end": 373.39512499999995,
+            "end": 365.47387499999996,
             "token": "okay"
+        },
+        {
+            "name": "sun_006_no",
+            "start": 367.69,
+            "end": 368.50775,
+            "token": "no"
+        },
+        {
+            "name": "spontD_273_yeah",
+            "start": 372.59,
+            "end": 373.26675,
+            "token": "yeah"
         }
     ]
 }

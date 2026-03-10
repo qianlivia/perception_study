@@ -1,27 +1,27 @@
 {
     "name": "fe_03_01054",
     "context_channel": 1,
-    "context_text": "<A> people out there that still watch it even though they don't like it / <B> yeah / <A> just to have something to watch / <B> wow / <A> and you should just not watch it or um you know buy things that are involved with it like a com a comic you don't like well don't go out and buy his videotapes or anything { then } / <B> [ mhm ]",
+    "context_text": "<A> people out there that still watch it even though they don't like it / <B> okay / <A> just to have something to watch / <B> yeah / <A> and you should just not watch it or um you know buy things that are involved with it like a com a comic you don't like well don't go out and buy his videotapes or anything { then } / <B> [ yeah ]",
     "context_start": 407.85,
-    "context_end": 423.336,
+    "context_end": 423.837,
     "feedback": [
         {
-            "name": "spontB_321_yeah",
+            "name": "spontC_134_okay",
             "start": 410.24,
-            "end": 410.686125,
+            "end": 411.047125,
+            "token": "okay"
+        },
+        {
+            "name": "spontC_323_yeah",
+            "start": 412.38,
+            "end": 413.245125,
             "token": "yeah"
         },
         {
-            "name": "PS_063_wow",
-            "start": 412.38,
-            "end": 413.76675,
-            "token": "wow"
-        },
-        {
-            "name": "spontE_225_mhm",
+            "name": "spontE_366_yeah",
             "start": 422.87,
-            "end": 423.336,
-            "token": "mhm"
+            "end": 423.837,
+            "token": "yeah"
         }
     ]
 }

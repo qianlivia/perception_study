@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04044",
     "context_channel": 0,
-    "context_text": "<B> we used to think that but boy the economy is so bad up here in oregon that i mean it's mostly a tech uh techtronic type i mean a lot of technology places { and that } / <A> [ wow ] / <B> has just really caused the unemployment to be unreal so there's { a lot } / <A> [ huh ] / <B> of competition for every little jo even the funny thing was they had a a job offer for people to take movie tickets and they had { a } / <A> [ exactly ] / <B> hundred and fifty people standing in line the least of which you know had four year degrees / <A> uh-huh",
+    "context_text": "<B> we used to think that but boy the economy is so bad up here in oregon that i mean it's mostly a tech uh techtronic type i mean a lot of technology places { and that } / <A> [ oh ] / <B> has just really caused the unemployment to be unreal so there's { a lot } / <A> [ oh ] / <B> of competition for every little jo even the funny thing was they had a a job offer for people to take movie tickets and they had { a } / <A> [ really ] / <B> hundred and fifty people standing in line the least of which you know had four year degrees / <A> yeah",
     "context_start": 234.38,
-    "context_end": 267.169375,
+    "context_end": 267.475125,
     "feedback": [
         {
-            "name": "PS_078_wow",
+            "name": "spontA_071_oh",
             "start": 246.33,
-            "end": 247.416625,
-            "token": "wow"
+            "end": 246.94750000000002,
+            "token": "oh"
         },
         {
-            "name": "NS_012__huh",
+            "name": "spontE_301_oh",
             "start": 251.53,
-            "end": 252.464125,
-            "token": "huh"
+            "end": 252.54525,
+            "token": "oh"
         },
         {
-            "name": "sun_015_exactly",
+            "name": "sun2_001_really",
             "start": 259.82,
-            "end": 260.92175,
-            "token": "exactly"
+            "end": 260.55062499999997,
+            "token": "really"
         },
         {
-            "name": "spontA_321_uh-huh",
+            "name": "spontC_323_yeah",
             "start": 266.61,
-            "end": 267.169375,
-            "token": "uh-huh"
+            "end": 267.475125,
+            "token": "yeah"
         }
     ]
 }

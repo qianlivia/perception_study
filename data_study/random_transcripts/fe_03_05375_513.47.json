@@ -1,39 +1,39 @@
 {
     "name": "fe_03_05375",
     "context_channel": 0,
-    "context_text": "<B> oh yeah a very bad one and not only were were there layoffs and high unemployment but unlike now inflation was runaway / <A> uh-huh / <B> i mean i it was like prime rate was up to twenty percent / <A> wow / <B> i i mean interest rates were just crazy you know { the } / <A> [ uh-huh ] / <B> housing market was shot and and uh { it was } / <A> [ uh-oh ] / <B> just people don't don't remember very much / <A> uh-huh",
+    "context_text": "<B> oh yeah a very bad one and not only were were there layoffs and high unemployment but unlike now inflation was runaway / <A> oh / <B> i mean i it was like prime rate was up to twenty percent / <A> mhm / <B> i i mean interest rates were just crazy you know { the } / <A> [ yeah ] / <B> housing market was shot and and uh { it was } / <A> [ yep ] / <B> just people don't don't remember very much / <A> mhm",
     "context_start": 513.47,
-    "context_end": 537.960875,
+    "context_end": 538.205375,
     "feedback": [
         {
-            "name": "spontE_065_uh-huh",
+            "name": "spontE_15_oh",
             "start": 523.49,
-            "end": 523.934375,
-            "token": "uh-huh"
+            "end": 523.83325,
+            "token": "oh"
         },
         {
-            "name": "PS_107_wow",
+            "name": "spontE_241_mhm",
             "start": 527.96,
-            "end": 529.256125,
-            "token": "wow"
+            "end": 528.509,
+            "token": "mhm"
         },
         {
-            "name": "spontE_282_uh-huh",
+            "name": "spontF_383_yeah",
             "start": 531.14,
-            "end": 531.61725,
-            "token": "uh-huh"
+            "end": 531.644125,
+            "token": "yeah"
         },
         {
-            "name": "PS_168_uh-oh",
+            "name": "PR_027_yep",
             "start": 533.93,
-            "end": 534.8661249999999,
-            "token": "uh-oh"
+            "end": 534.4727499999999,
+            "token": "yep"
         },
         {
-            "name": "spontC_207_uh-huh",
+            "name": "spontB_191_mhm",
             "start": 537.48,
-            "end": 537.960875,
-            "token": "uh-huh"
+            "end": 538.205375,
+            "token": "mhm"
         }
     ]
 }

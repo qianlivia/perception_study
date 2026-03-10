@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01668",
     "context_channel": 0,
-    "context_text": "<B> like in a fog and finally i was like you know what i have got to get on { so i } / <A> [ yeah ] / <B> stopped watching the news and i really haven't gone back to it / <A> aww / <B> i mean when they started the bombing / <A> yeah / <B> then i was watching more but like i said it made me sick / <A> yeah",
+    "context_text": "<B> like in a fog and finally i was like you know what i have got to get on { so i } / <A> [ oh ] / <B> stopped watching the news and i really haven't gone back to it / <A> yeah / <B> i mean when they started the bombing / <A> ooh / <B> then i was watching more but like i said it made me sick / <A> wow",
     "context_start": 576.17,
-    "context_end": 591.235,
+    "context_end": 591.807,
     "feedback": [
         {
-            "name": "spontE_121_yeah",
+            "name": "PS_001_oh",
             "start": 580.52,
-            "end": 581.272375,
-            "token": "yeah"
+            "end": 581.60175,
+            "token": "oh"
         },
         {
-            "name": "spontE_029_aww",
+            "name": "spontA_347_yeah",
             "start": 583.95,
-            "end": 584.5517500000001,
-            "token": "aww"
+            "end": 584.5715,
+            "token": "yeah"
         },
         {
-            "name": "spontF_047_yeah",
+            "name": "PS_153_ooh",
             "start": 586.06,
-            "end": 586.6668749999999,
-            "token": "yeah"
+            "end": 586.95975,
+            "token": "ooh"
         },
         {
-            "name": "spontC_043_yeah",
+            "name": "NegS_044_wow",
             "start": 590.7,
-            "end": 591.235,
-            "token": "yeah"
+            "end": 591.807,
+            "token": "wow"
         }
     ]
 }

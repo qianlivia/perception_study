@@ -1,45 +1,45 @@
 {
     "name": "fe_03_02371",
     "context_channel": 1,
-    "context_text": "<A> um that person just decided on their own they were going to be like my mom and they didn't care / <B> oh / <A> ah me i saw the smoking i saw the ah alcohol i saw so many different things i mean even in my times i saw people taking lsd / <B> yeah / <A> and ah you know i just felt that i didn't want anything to control me and i wasn't going to look stupid like you know and do stupid things that i was going to regret the next day / <B> mmm / <A> so i i was fortunate enough ah never to touch the stuff and / <B> wow / <A> in my household we just don't do it now i have a daughter who is twenty seven and because i never knew she smoked because in my house she just would never pull out a cigarette and just recently ah she got very ill and debilitated for a while ah because it did something to her blood flow and it did / <B> yeah / <A> something to her lungs / <B> mhm",
+    "context_text": "<A> um that person just decided on their own they were going to be like my mom and they didn't care / <B> no / <A> ah me i saw the smoking i saw the ah alcohol i saw so many different things i mean even in my times i saw people taking lsd / <B> no / <A> and ah you know i just felt that i didn't want anything to control me and i wasn't going to look stupid like you know and do stupid things that i was going to regret the next day / <B> no / <A> so i i was fortunate enough ah never to touch the stuff and / <B> uh-huh / <A> in my household we just don't do it now i have a daughter who is twenty seven and because i never knew she smoked because in my house she just would never pull out a cigarette and just recently ah she got very ill and debilitated for a while ah because it did something to her blood flow and it did / <B> yeah / <A> something to her lungs / <B> yep",
     "context_start": 314.34,
-    "context_end": 385.48725,
+    "context_end": 385.563,
     "feedback": [
         {
-            "name": "PS_111_oh",
+            "name": "NR_066_no",
             "start": 321.85,
-            "end": 322.63437500000003,
-            "token": "oh"
+            "end": 322.489375,
+            "token": "no"
         },
         {
-            "name": "PR_056_yeah",
+            "name": "NR_120_no",
             "start": 336.16,
-            "end": 336.91787500000004,
-            "token": "yeah"
+            "end": 336.82475000000005,
+            "token": "no"
         },
         {
-            "name": "NS_036_mmm",
+            "name": "sun2_044_no",
             "start": 350.83,
-            "end": 351.777625,
-            "token": "mmm"
+            "end": 351.7125,
+            "token": "no"
         },
         {
-            "name": "PS_067_wow",
+            "name": "spontA_254_uh-huh",
             "start": 357.96,
-            "end": 359.02462499999996,
-            "token": "wow"
+            "end": 358.3585,
+            "token": "uh-huh"
         },
         {
-            "name": "spontD_172_yeah",
+            "name": "spontC_024_yeah",
             "start": 382.88,
-            "end": 383.6735,
+            "end": 383.619625,
             "token": "yeah"
         },
         {
-            "name": "spontD_347_mhm",
+            "name": "sun_019_yep",
             "start": 384.81,
-            "end": 385.48725,
-            "token": "mhm"
+            "end": 385.563,
+            "token": "yep"
         }
     ]
 }

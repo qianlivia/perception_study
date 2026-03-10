@@ -1,32 +1,32 @@
 {
     "name": "fe_03_02062",
     "context_channel": 1,
-    "context_text": "<A> well i'm in philadelphia where it's really rainy um and it's and it's the beginning of may so we're sort of done with winter { like } / <B> [ yeah ] / <A> emotionally and theoretically and it's not funny any more / <B> mhm / <A> um but it's kind of cold and rainy so / <B> oh / <A> i don't know but it was kind of nice actually to uh have a day unexpectedly where i would just take like sort of doing wintery things like cooking and reading and relaxing { as } / <B> [ yeah ]",
+    "context_text": "<A> well i'm in philadelphia where it's really rainy um and it's and it's the beginning of may so we're sort of done with winter { like } / <B> [ yeah ] / <A> emotionally and theoretically and it's not funny any more / <B> absolutely / <A> um but it's kind of cold and rainy so / <B> mhm / <A> i don't know but it was kind of nice actually to uh have a day unexpectedly where i would just take like sort of doing wintery things like cooking and reading and relaxing { as } / <B> [ yeah ]",
     "context_start": 29.65,
-    "context_end": 52.233999999999995,
+    "context_end": 52.311499999999995,
     "feedback": [
         {
-            "name": "PR_010_yeah",
+            "name": "spontB_309_yeah",
             "start": 36.09,
-            "end": 36.822625,
+            "end": 37.055375000000005,
             "token": "yeah"
         },
         {
-            "name": "spontA_075_mhm",
+            "name": "PR_049_absolutely",
             "start": 39.1,
-            "end": 39.70825,
+            "end": 40.186625,
+            "token": "absolutely"
+        },
+        {
+            "name": "spontE_154_mhm",
+            "start": 41.89,
+            "end": 42.49,
             "token": "mhm"
         },
         {
-            "name": "Sy_055_oh",
-            "start": 41.89,
-            "end": 42.715875000000004,
-            "token": "oh"
-        },
-        {
-            "name": "spontB_275_yeah",
+            "name": "spontA_347_yeah",
             "start": 51.69,
-            "end": 52.233999999999995,
+            "end": 52.311499999999995,
             "token": "yeah"
         }
     ]

@@ -1,27 +1,27 @@
 {
     "name": "fe_03_05476",
     "context_channel": 1,
-    "context_text": "<A> i'd say that if if we get under attack by terrorists man that that means it's time for us to die if they got all the way over here you know / <B> mmm / <A> inside the united states being able to do this this time it's time / <B> yeah / <A> you know they got no business getting all the way over here to the point where we're under attack / <B> oh",
+    "context_text": "<A> i'd say that if if we get under attack by terrorists man that that means it's time for us to die if they got all the way over here you know / <B> yeah / <A> inside the united states being able to do this this time it's time / <B> ooh / <A> you know they got no business getting all the way over here to the point where we're under attack / <B> yeah",
     "context_start": 424.09,
-    "context_end": 443.15587500000004,
+    "context_end": 443.3145,
     "feedback": [
         {
-            "name": "spontD_090_mmm",
+            "name": "spontD_180_yeah",
             "start": 432.65,
-            "end": 433.73137499999996,
-            "token": "mmm"
-        },
-        {
-            "name": "spontF_625_yeah",
-            "start": 437.74,
-            "end": 438.24975,
+            "end": 433.293125,
             "token": "yeah"
         },
         {
-            "name": "PS_104_oh",
+            "name": "PS_153_ooh",
+            "start": 437.74,
+            "end": 438.63975,
+            "token": "ooh"
+        },
+        {
+            "name": "spontC_232_yeah",
             "start": 442.42,
-            "end": 443.15587500000004,
-            "token": "oh"
+            "end": 443.3145,
+            "token": "yeah"
         }
     ]
 }

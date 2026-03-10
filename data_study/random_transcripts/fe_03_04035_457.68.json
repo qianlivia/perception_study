@@ -1,63 +1,63 @@
 {
     "name": "fe_03_04035",
     "context_channel": 1,
-    "context_text": "<A> yeah well there are situations that come up that are just totally totally obvious to everyone that it was a deliberate cruel thing / <B> yeah / <A> and then there are other situations that come up that it in actuality was an accident / <B> yeah / <A> but there was a law like a child that wasn't fastened in their seat belt / <B> yeah / <A> everybody knows they're supposed to fasten those children in those seat belts / <B> ooh / <A> and when one does get killed it is involuntary manslaughter { but } / <B> [ okay ] / <A> it was actually failure to belt buckle the seat belt / <B> what / <A> you know and morally which one is are there you know is the good lord gonna come down on em for you know / <B> oh / <A> and sometimes i i you know i've seen a man on tv i don't know of any of the factual parts except what the tv said but where a man did just that his two year old was killed because it was not in a seat belt and he's in prison right now for mur or ah involuntary manslaughter i think they got him for / <B> mhm / <A> and that you know he should of done something for it but this man left a wife and three other children and he's in prison for like twenty five years / <B> yeah",
+    "context_text": "<A> yeah well there are situations that come up that are just totally totally obvious to everyone that it was a deliberate cruel thing / <B> yeah / <A> and then there are other situations that come up that it in actuality was an accident / <B> uh-huh / <A> but there was a law like a child that wasn't fastened in their seat belt / <B> no / <A> everybody knows they're supposed to fasten those children in those seat belts / <B> yeah / <A> and when one does get killed it is involuntary manslaughter { but } / <B> [ wow ] / <A> it was actually failure to belt buckle the seat belt / <B> oh / <A> you know and morally which one is are there you know is the good lord gonna come down on em for you know / <B> mhm / <A> and sometimes i i you know i've seen a man on tv i don't know of any of the factual parts except what the tv said but where a man did just that his two year old was killed because it was not in a seat belt and he's in prison right now for mur or ah involuntary manslaughter i think they got him for / <B> yeah / <A> and that you know he should of done something for it but this man left a wife and three other children and he's in prison for like twenty five years / <B> mhm",
     "context_start": 457.68,
-    "context_end": 529.0572500000001,
+    "context_end": 529.225625,
     "feedback": [
         {
-            "name": "spontD_339_yeah",
+            "name": "spontF_491_yeah",
             "start": 467.08,
-            "end": 467.933875,
+            "end": 467.84662499999996,
             "token": "yeah"
         },
         {
-            "name": "spontD_134_yeah",
+            "name": "spontE_304_uh-huh",
             "start": 473.69,
-            "end": 474.536875,
-            "token": "yeah"
+            "end": 474.177625,
+            "token": "uh-huh"
         },
         {
-            "name": "spontB_275_yeah",
+            "name": "NR_045_no",
             "start": 478.65,
-            "end": 479.19399999999996,
+            "end": 479.59,
+            "token": "no"
+        },
+        {
+            "name": "spontF_029_yeah",
+            "start": 482.69,
+            "end": 483.26525,
             "token": "yeah"
         },
         {
-            "name": "spontE_157_ooh",
-            "start": 482.69,
-            "end": 483.8345,
-            "token": "ooh"
-        },
-        {
-            "name": "spontE_405_okay",
+            "name": "PS_118_wow",
             "start": 487.75,
-            "end": 488.424375,
-            "token": "okay"
+            "end": 489.4095,
+            "token": "wow"
         },
         {
-            "name": "Nu_001_what",
+            "name": "Sy_071_oh",
             "start": 491.91,
-            "end": 492.512375,
-            "token": "what"
-        },
-        {
-            "name": "spontF_514_oh",
-            "start": 498.96,
-            "end": 499.745125,
+            "end": 492.929125,
             "token": "oh"
         },
         {
-            "name": "spontC_348_mhm",
-            "start": 516.91,
-            "end": 517.5,
+            "name": "spontC_178_mhm",
+            "start": 498.96,
+            "end": 499.523625,
             "token": "mhm"
         },
         {
-            "name": "spontB_390_yeah",
-            "start": 528.33,
-            "end": 529.0572500000001,
+            "name": "spontF_101_yeah",
+            "start": 516.91,
+            "end": 517.518375,
             "token": "yeah"
+        },
+        {
+            "name": "spontD_195_mhm",
+            "start": 528.33,
+            "end": 529.225625,
+            "token": "mhm"
         }
     ]
 }

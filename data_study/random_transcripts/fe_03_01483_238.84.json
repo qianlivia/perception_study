@@ -1,27 +1,27 @@
 {
     "name": "fe_03_01483",
     "context_channel": 0,
-    "context_text": "<B> something that happened spontaneously / <A> mhm / <B> and um i do believe that the um the president um had forewarned uh they had um messages that { were } / <A> [ yeah ] / <B> left and they was forewarned about the destruction / <A> uh-huh",
+    "context_text": "<B> something that happened spontaneously / <A> yeah / <B> and um i do believe that the um the president um had forewarned uh they had um messages that { were } / <A> [ yeah ] / <B> left and they was forewarned about the destruction / <A> mhm",
     "context_start": 238.84,
-    "context_end": 253.319125,
+    "context_end": 253.293625,
     "feedback": [
         {
-            "name": "spontB_183_mhm",
+            "name": "spontB_097_yeah",
             "start": 240.34,
-            "end": 240.894,
-            "token": "mhm"
-        },
-        {
-            "name": "PR_031_yeah",
-            "start": 249.66,
-            "end": 250.06312499999999,
+            "end": 240.913625,
             "token": "yeah"
         },
         {
-            "name": "spontE_081_uh-huh",
+            "name": "spontD_162_yeah",
+            "start": 249.66,
+            "end": 250.36225,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_330_mhm",
             "start": 252.81,
-            "end": 253.319125,
-            "token": "uh-huh"
+            "end": 253.293625,
+            "token": "mhm"
         }
     ]
 }

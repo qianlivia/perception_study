@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01986",
     "context_channel": 0,
-    "context_text": "<B> yeah yeah i would think so too i i think ah one of the biggest industries that probably should do that is the telcom industries telecommunication / <A> hm / <B> they really should because their top people are always uh well-compensated for a job not so well done it doesn't you know and the employees are the ones that really get the shaft on that always 'cause { they } / <A> [ uh-huh ] / <B> come in with these horrendous b uh like they call it um uh bonuses to come / <A> yeah / <B> and then if they do you know so well then they get additional bonuses and um meanwhile the employees aren't getting anything they're paying more they pay more for their own benefits { they } / <A> [ mmm ]",
+    "context_text": "<B> yeah yeah i would think so too i i think ah one of the biggest industries that probably should do that is the telcom industries telecommunication / <A> yeah / <B> they really should because their top people are always uh well-compensated for a job not so well done it doesn't you know and the employees are the ones that really get the shaft on that always 'cause { they } / <A> [ mhm ] / <B> come in with these horrendous b uh like they call it um uh bonuses to come / <A> ah / <B> and then if they do you know so well then they get additional bonuses and um meanwhile the employees aren't getting anything they're paying more they pay more for their own benefits { they } / <A> [ uh-huh ]",
     "context_start": 472.36,
-    "context_end": 517.39125,
+    "context_end": 517.1186250000001,
     "feedback": [
         {
-            "name": "NS_015_hm",
+            "name": "spontC_060_yeah",
             "start": 481.1,
-            "end": 482.092375,
-            "token": "hm"
-        },
-        {
-            "name": "spontF_573_uh-huh",
-            "start": 497.71,
-            "end": 498.498625,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontF_243_yeah",
-            "start": 503.29,
-            "end": 504.132625,
+            "end": 481.55762500000003,
             "token": "yeah"
         },
         {
-            "name": "spontC_137_mmm",
+            "name": "spontF_311_mhm",
+            "start": 497.71,
+            "end": 498.210125,
+            "token": "mhm"
+        },
+        {
+            "name": "spontB_009_ah",
+            "start": 503.29,
+            "end": 503.876375,
+            "token": "ah"
+        },
+        {
+            "name": "spontF_573_uh-huh",
             "start": 516.33,
-            "end": 517.39125,
-            "token": "mmm"
+            "end": 517.1186250000001,
+            "token": "uh-huh"
         }
     ]
 }

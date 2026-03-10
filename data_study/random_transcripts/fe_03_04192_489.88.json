@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04192",
     "context_channel": 1,
-    "context_text": "<A> i think that if you really have a passion for something the returns on owning your own business are so much greater than like / <B> yeah / <A> for instance if you're working for someone { you know } / <B> [ no ] / <A> you can't necessarily do exactly what you wanna do with the business you you / <B> yeah / <A> really have to go along with their model and their business plan and their vision and / <B> mhm",
+    "context_text": "<A> i think that if you really have a passion for something the returns on owning your own business are so much greater than like / <B> yeah / <A> for instance if you're working for someone { you know } / <B> [ mhm ] / <A> you can't necessarily do exactly what you wanna do with the business you you / <B> yeah / <A> really have to go along with their model and their business plan and their vision and / <B> wow",
     "context_start": 489.88,
-    "context_end": 506.7265,
+    "context_end": 507.69849999999997,
     "feedback": [
         {
-            "name": "spontD_051_yeah",
+            "name": "spontE_252_yeah",
             "start": 495.27,
-            "end": 495.811375,
+            "end": 495.90574999999995,
             "token": "yeah"
         },
         {
-            "name": "NR_046_no",
+            "name": "spontC_392_mhm",
             "start": 498.27,
-            "end": 499.05025,
-            "token": "no"
+            "end": 498.893375,
+            "token": "mhm"
         },
         {
-            "name": "spontC_266_yeah",
+            "name": "spontD_397_yeah",
             "start": 501.93,
-            "end": 502.489375,
+            "end": 502.311375,
             "token": "yeah"
         },
         {
-            "name": "spontA_269_mhm",
+            "name": "PS_154_wow",
             "start": 506.21,
-            "end": 506.7265,
-            "token": "mhm"
+            "end": 507.69849999999997,
+            "token": "wow"
         }
     ]
 }

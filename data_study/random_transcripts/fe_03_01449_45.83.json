@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01449",
     "context_channel": 0,
-    "context_text": "<B> my life isn't quite as hard as yours but um it really hit home for me i was actually / <A> ooh / <B> um i never watch the news ever { and i } / <A> [ nuh ] / <B> happened to have the news on and saw the second han uh plane hit live / <A> yeah / <B> and that just totally freaked me out and um when i was a little kid my mom always said you know i know exactly what i was doing the day that jfk was shot / <A> ah",
+    "context_text": "<B> my life isn't quite as hard as yours but um it really hit home for me i was actually / <A> yeah / <B> um i never watch the news ever { and i } / <A> [ oh ] / <B> happened to have the news on and saw the second han uh plane hit live / <A> mhm / <B> and that just totally freaked me out and um when i was a little kid my mom always said you know i know exactly what i was doing the day that jfk was shot / <A> wow",
     "context_start": 45.83,
-    "context_end": 68.23525000000001,
+    "context_end": 68.87450000000001,
     "feedback": [
         {
-            "name": "spontC_377_ooh",
+            "name": "spontB_313_yeah",
             "start": 50.12,
-            "end": 50.97025,
-            "token": "ooh"
-        },
-        {
-            "name": "NR_108_nuh",
-            "start": 53.24,
-            "end": 54.229,
-            "token": "nuh"
-        },
-        {
-            "name": "spontB_100_yeah",
-            "start": 57.9,
-            "end": 58.57425,
+            "end": 51.102875,
             "token": "yeah"
         },
         {
-            "name": "spontA_245_ah",
+            "name": "PS_028_oh",
+            "start": 53.24,
+            "end": 55.000875,
+            "token": "oh"
+        },
+        {
+            "name": "PR_032_mhm",
+            "start": 57.9,
+            "end": 58.631375,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_149_wow",
             "start": 67.65,
-            "end": 68.23525000000001,
-            "token": "ah"
+            "end": 68.87450000000001,
+            "token": "wow"
         }
     ]
 }

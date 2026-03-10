@@ -1,57 +1,57 @@
 {
     "name": "fe_03_00747",
     "context_channel": 1,
-    "context_text": "<A> to tell you the truth i don't know a whole lot about tv because ah the only show that i ever watch is fox news / <B> mhm / <A> i love fox news down here it's channel thirty three on cable and ah i i love fox news because it really keeps me well informed and i guess being at my age now i'm more interested in world affairs whereas { when i } / <B> [ yeah ] / <A> was younger i couldn't have cared less / <B> okay / <A> i was busy making a living / <B> wow / <A> and um now i'm i really am interested and i want to know what's going on all around me and i { wanna } / <B> [ oh ] / <A> be informed and i honest to god never watch another show except fox news / <B> mhm / <A> i've looked at some of the um sitcoms that they have now and i told my husband i said every single one of them makes me sick / <B> aww / <A> i i i don't even watch regular tv at all / <B> right",
+    "context_text": "<A> to tell you the truth i don't know a whole lot about tv because ah the only show that i ever watch is fox news / <B> yeah / <A> i love fox news down here it's channel thirty three on cable and ah i i love fox news because it really keeps me well informed and i guess being at my age now i'm more interested in world affairs whereas { when i } / <B> [ mhm ] / <A> was younger i couldn't have cared less / <B> mhm / <A> i was busy making a living / <B> oh / <A> and um now i'm i really am interested and i want to know what's going on all around me and i { wanna } / <B> [ ah ] / <A> be informed and i honest to god never watch another show except fox news / <B> oh / <A> i've looked at some of the um sitcoms that they have now and i told my husband i said every single one of them makes me sick / <B> uh-huh / <A> i i i don't even watch regular tv at all / <B> uh-huh",
     "context_start": 433.57,
-    "context_end": 481.903125,
+    "context_end": 481.50175,
     "feedback": [
         {
-            "name": "spontB_356_mhm",
+            "name": "spontA_375_yeah",
             "start": 441.48,
-            "end": 442.084875,
-            "token": "mhm"
-        },
-        {
-            "name": "spontF_512_yeah",
-            "start": 453.99,
-            "end": 454.97625,
+            "end": 442.18175,
             "token": "yeah"
         },
         {
-            "name": "spontD_411_okay",
-            "start": 455.84,
-            "end": 456.30387499999995,
-            "token": "okay"
-        },
-        {
-            "name": "PS_178_wow",
-            "start": 457.74,
-            "end": 458.833,
-            "token": "wow"
-        },
-        {
-            "name": "PS_008_oh",
-            "start": 464.51,
-            "end": 465.118625,
-            "token": "oh"
-        },
-        {
-            "name": "spontB_183_mhm",
-            "start": 470.06,
-            "end": 470.614,
+            "name": "spontA_200_mhm",
+            "start": 453.99,
+            "end": 454.5645,
             "token": "mhm"
         },
         {
-            "name": "spontE_029_aww",
-            "start": 477.72,
-            "end": 478.32175,
-            "token": "aww"
+            "name": "spontA_286_mhm",
+            "start": 455.84,
+            "end": 456.451875,
+            "token": "mhm"
         },
         {
-            "name": "sun1_033_right",
+            "name": "spontD_378_oh",
+            "start": 457.74,
+            "end": 458.4325,
+            "token": "oh"
+        },
+        {
+            "name": "NS_095_ah",
+            "start": 464.51,
+            "end": 465.569625,
+            "token": "ah"
+        },
+        {
+            "name": "spontD_193_oh",
+            "start": 470.06,
+            "end": 470.81125000000003,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_286_uh-huh",
+            "start": 477.72,
+            "end": 478.24350000000004,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_021_uh-huh",
             "start": 481.05,
-            "end": 481.903125,
-            "token": "right"
+            "end": 481.50175,
+            "token": "uh-huh"
         }
     ]
 }

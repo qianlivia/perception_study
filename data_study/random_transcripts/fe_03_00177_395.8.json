@@ -1,27 +1,27 @@
 {
     "name": "fe_03_00177",
     "context_channel": 1,
-    "context_text": "<A> and uh cinco de mayo and dia uh septemb yeah yeah september / <B> yeah / <A> are the two uh sort of like mexican uh uh independence holidays / <B> yes / <A> where they celebrated their independence and those days could be i growing up on the northern side of the border / <B> yup",
+    "context_text": "<A> and uh cinco de mayo and dia uh septemb yeah yeah september / <B> oh / <A> are the two uh sort of like mexican uh uh independence holidays / <B> no / <A> where they celebrated their independence and those days could be i growing up on the northern side of the border / <B> yeah",
     "context_start": 395.8,
-    "context_end": 421.95662500000003,
+    "context_end": 421.7435,
     "feedback": [
         {
-            "name": "spontF_243_yeah",
+            "name": "Sy_008_oh",
             "start": 405.5,
-            "end": 406.342625,
-            "token": "yeah"
+            "end": 406.761,
+            "token": "oh"
         },
         {
-            "name": "sun1_026_yes",
+            "name": "NR_076_no",
             "start": 412.82,
-            "end": 413.39525,
-            "token": "yes"
+            "end": 413.458625,
+            "token": "no"
         },
         {
-            "name": "sun1_018_yup",
+            "name": "spontA_422_yeah",
             "start": 421.18,
-            "end": 421.95662500000003,
-            "token": "yup"
+            "end": 421.7435,
+            "token": "yeah"
         }
     ]
 }

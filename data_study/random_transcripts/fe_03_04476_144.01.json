@@ -1,39 +1,39 @@
 {
     "name": "fe_03_04476",
     "context_channel": 1,
-    "context_text": "<A> yes well she had thirty two in a class by herself seven of whom uh were seriously disturbed or um learning disabled children one of them picked up a desk and threw it at her they're about sh he was that big and that strong / <B> gosh / <A> and i mean she's she she loved teaching and she was initially a first grade teacher and they promoted her but e even in the school system in philadelphia the buildings themselves at certain times they had no hot water uh they certainly weren't fit for warm weather classes they had heat but warm weather / <B> mmm / <A> and they had no books hardly any books and you know not enough of the teachers um needs were met she used to buy a lot of things herself and bring them to class { and } / <B> [ yeah ] / <A> i just don't know like i know that the philadelphia school system is heavy in administration / <B> mhm / <A> and not so heavy in um you know the actual teachers aides or something like that in a classroom { because } / <B> [ aww ]",
+    "context_text": "<A> yes well she had thirty two in a class by herself seven of whom uh were seriously disturbed or um learning disabled children one of them picked up a desk and threw it at her they're about sh he was that big and that strong / <B> mhm / <A> and i mean she's she she loved teaching and she was initially a first grade teacher and they promoted her but e even in the school system in philadelphia the buildings themselves at certain times they had no hot water uh they certainly weren't fit for warm weather classes they had heat but warm weather / <B> uh-huh / <A> and they had no books hardly any books and you know not enough of the teachers um needs were met she used to buy a lot of things herself and bring them to class { and } / <B> [ yeah ] / <A> i just don't know like i know that the philadelphia school system is heavy in administration / <B> oh / <A> and not so heavy in um you know the actual teachers aides or something like that in a classroom { because } / <B> [ wow ]",
     "context_start": 144.01,
-    "context_end": 219.5195,
+    "context_end": 219.653875,
     "feedback": [
         {
-            "name": "NegS_066_gosh",
+            "name": "spontC_200_mhm",
             "start": 161.72,
-            "end": 162.868125,
-            "token": "gosh"
-        },
-        {
-            "name": "spontA_252_mmm",
-            "start": 185.67,
-            "end": 186.78775,
-            "token": "mmm"
-        },
-        {
-            "name": "spontE_162_yeah",
-            "start": 202.23,
-            "end": 203.2045,
-            "token": "yeah"
-        },
-        {
-            "name": "spontC_284_mhm",
-            "start": 209.4,
-            "end": 209.917875,
+            "end": 162.2025,
             "token": "mhm"
         },
         {
-            "name": "spontF_671_aww",
+            "name": "sun1_036_uh-huh",
+            "start": 185.67,
+            "end": 186.65175,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontB_141_yeah",
+            "start": 202.23,
+            "end": 202.960375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_043_oh",
+            "start": 209.4,
+            "end": 210.05825000000002,
+            "token": "oh"
+        },
+        {
+            "name": "PS_077_wow",
             "start": 218.85,
-            "end": 219.5195,
-            "token": "aww"
+            "end": 219.653875,
+            "token": "wow"
         }
     ]
 }

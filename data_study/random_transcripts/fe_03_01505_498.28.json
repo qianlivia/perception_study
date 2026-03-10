@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01505",
     "context_channel": 0,
-    "context_text": "<B> no he really doesn't know much of what's going on uh he kinda asked me something today / <A> yeah / <B> he he ga he asked he's very observant you know he asked about the yellow ribbons / <A> yeah / <B> that everyone has out and he is like why are they there what are they p what are they for you know so { i } / <A> [ uh-oh ] / <B> explained th to him as best i could { and } / <A> [ oh ]",
+    "context_text": "<B> no he really doesn't know much of what's going on uh he kinda asked me something today / <A> yeah / <B> he he ga he asked he's very observant you know he asked about the yellow ribbons / <A> ooh / <B> that everyone has out and he is like why are they there what are they p what are they for you know so { i } / <A> [ ooh ] / <B> explained th to him as best i could { and } / <A> [ yeah ]",
     "context_start": 498.28,
-    "context_end": 519.624375,
+    "context_end": 519.515625,
     "feedback": [
         {
-            "name": "spontB_321_yeah",
+            "name": "spontA_422_yeah",
             "start": 505.25,
-            "end": 505.696125,
+            "end": 505.8135,
             "token": "yeah"
         },
         {
-            "name": "spontC_365_yeah",
+            "name": "spontE_283_ooh",
             "start": 510.05,
-            "end": 510.553,
-            "token": "yeah"
+            "end": 511.02225,
+            "token": "ooh"
         },
         {
-            "name": "Sy_005_uh-oh",
+            "name": "spontC_185_ooh",
             "start": 515.51,
-            "end": 516.3605,
-            "token": "uh-oh"
+            "end": 516.276875,
+            "token": "ooh"
         },
         {
-            "name": "PS_025_oh",
+            "name": "PR_061_yeah",
             "start": 518.6,
-            "end": 519.624375,
-            "token": "oh"
+            "end": 519.515625,
+            "token": "yeah"
         }
     ]
 }

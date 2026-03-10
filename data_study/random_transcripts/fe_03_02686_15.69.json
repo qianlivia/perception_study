@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02686",
     "context_channel": 0,
-    "context_text": "<B> well because i mean first of all it's it's like i live in new york city i live in { manhattan } / <A> [ aww ] / <B> and holidays is when i don't do anything / <A> uh-huh / <B> because everyone wants to do something you know i mean i won't travel on holidays cause everybody else travels / <A> ugh / <B> and i don't go out drinking like on new year's or fourth of july or any of those cause that's when amateurs go out and drink / <A> hm",
+    "context_text": "<B> well because i mean first of all it's it's like i live in new york city i live in { manhattan } / <A> [ yeah ] / <B> and holidays is when i don't do anything / <A> uh-huh / <B> because everyone wants to do something you know i mean i won't travel on holidays cause everybody else travels / <A> uh-huh / <B> and i don't go out drinking like on new year's or fourth of july or any of those cause that's when amateurs go out and drink / <A> wow",
     "context_start": 15.69,
-    "context_end": 35.251749999999994,
+    "context_end": 35.8985,
     "feedback": [
         {
-            "name": "spontF_263_aww",
+            "name": "spontE_117_yeah",
             "start": 19.7,
-            "end": 20.446375,
-            "token": "aww"
+            "end": 20.9115,
+            "token": "yeah"
         },
         {
-            "name": "spontC_133_uh-huh",
+            "name": "spontA_158_uh-huh",
             "start": 23.36,
-            "end": 23.8205,
+            "end": 23.882375,
             "token": "uh-huh"
         },
         {
-            "name": "spontF_389_ugh",
+            "name": "spontF_092_uh-huh",
             "start": 28.31,
-            "end": 28.7195,
-            "token": "ugh"
+            "end": 28.989124999999998,
+            "token": "uh-huh"
         },
         {
-            "name": "spontB_369_hm",
+            "name": "PS_154_wow",
             "start": 34.41,
-            "end": 35.251749999999994,
-            "token": "hm"
+            "end": 35.8985,
+            "token": "wow"
         }
     ]
 }

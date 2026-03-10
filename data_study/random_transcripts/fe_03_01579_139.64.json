@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01579",
     "context_channel": 1,
-    "context_text": "<A> you know unless you travel abroad the way you say you have and then you know you saw the difference / <B> no / <A> but most people who travel domestically they do not know the difference and if the difference was imposed back then they would've called it such a big problem and made this big deal out of it and everything but to me even now it is not tight enough { but } / <B> [ mhm ] / <A> then you have to look at the question how tight is uncomfortable / <B> yeah / <A> you understand as { far } / <B> [ oh ]",
+    "context_text": "<A> you know unless you travel abroad the way you say you have and then you know you saw the difference / <B> uh-huh / <A> but most people who travel domestically they do not know the difference and if the difference was imposed back then they would've called it such a big problem and made this big deal out of it and everything but to me even now it is not tight enough { but } / <B> [ oh ] / <A> then you have to look at the question how tight is uncomfortable / <B> yeah / <A> you understand as { far } / <B> [ no ]",
     "context_start": 139.64,
-    "context_end": 170.041625,
+    "context_end": 170.0035,
     "feedback": [
         {
-            "name": "NR_111_no",
+            "name": "spontF_286_uh-huh",
             "start": 144.52,
-            "end": 145.267625,
-            "token": "no"
+            "end": 145.04350000000002,
+            "token": "uh-huh"
         },
         {
-            "name": "sun1_005_mhm",
+            "name": "spontF_102_oh",
             "start": 162.7,
-            "end": 163.47,
-            "token": "mhm"
+            "end": 163.30349999999999,
+            "token": "oh"
         },
         {
-            "name": "spontB_097_yeah",
+            "name": "spontA_421_yeah",
             "start": 167.77,
-            "end": 168.343625,
+            "end": 168.49662500000002,
             "token": "yeah"
         },
         {
-            "name": "PS_035_oh",
+            "name": "sun_021_no",
             "start": 169.21,
-            "end": 170.041625,
-            "token": "oh"
+            "end": 170.0035,
+            "token": "no"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03398",
     "context_channel": 1,
-    "context_text": "<A> that's too funny cause my husband's active duty also and the first you know four years we were married and he was always deployed / <B> okay / <A> six months at a time and it's it's hard it's so hard even even though you know you have email now and you have have the telephone when they're in port it's not the same as being face to face and / <B> mhm / <A> having that communication / <B> yeah / <A> another thing you know i was didn't really consider before you know i think when you're young and and you fall in love you don't consider things for the future but as you hear my child screaming um you know one thing is you know do you do you want the same things for as far as children you know { are you } / <B> [ uh-huh ]",
+    "context_text": "<A> that's too funny cause my husband's active duty also and the first you know four years we were married and he was always deployed / <B> no / <A> six months at a time and it's it's hard it's so hard even even though you know you have email now and you have have the telephone when they're in port it's not the same as being face to face and / <B> yeah / <A> having that communication / <B> yeah / <A> another thing you know i was didn't really consider before you know i think when you're young and and you fall in love you don't consider things for the future but as you hear my child screaming um you know one thing is you know do you do you want the same things for as far as children you know { are you } / <B> [ oh ]",
     "context_start": 329.47,
-    "context_end": 378.42650000000003,
+    "context_end": 378.41062500000004,
     "feedback": [
         {
-            "name": "spontD_383_okay",
+            "name": "NR_063_no",
             "start": 339.46,
-            "end": 340.131375,
-            "token": "okay"
+            "end": 340.21999999999997,
+            "token": "no"
         },
         {
-            "name": "sun1_002_mhm",
+            "name": "spontE_288_yeah",
             "start": 353.85,
-            "end": 354.639875,
-            "token": "mhm"
-        },
-        {
-            "name": "spontF_136_yeah",
-            "start": 355.88,
-            "end": 356.37475,
+            "end": 354.47762500000005,
             "token": "yeah"
         },
         {
-            "name": "spontD_107_uh-huh",
+            "name": "spontE_197_yeah",
+            "start": 355.88,
+            "end": 356.539375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_612_oh",
             "start": 377.8,
-            "end": 378.42650000000003,
-            "token": "uh-huh"
+            "end": 378.41062500000004,
+            "token": "oh"
         }
     ]
 }

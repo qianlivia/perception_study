@@ -1,32 +1,32 @@
 {
     "name": "fe_03_03382",
     "context_channel": 1,
-    "context_text": "<A> oh okay okay i belong to a uh a deal board { uh } / <B> [ yeah ] / <A> on the internet and that's how i found out about it a friend of mine had had been participating in this for a while / <B> uh-huh / <A> and uh she had told me about it so / <B> yeah / <A> uh this is only my uh my second time actually talking to somebody though i've been uh the first time was about three months ago and and you're right it was a current event then so { this } / <B> [ yeah ]",
+    "context_text": "<A> oh okay okay i belong to a uh a deal board { uh } / <B> [ no ] / <A> on the internet and that's how i found out about it a friend of mine had had been participating in this for a while / <B> yeah / <A> and uh she had told me about it so / <B> really / <A> uh this is only my uh my second time actually talking to somebody though i've been uh the first time was about three months ago and and you're right it was a current event then so { this } / <B> [ yeah ]",
     "context_start": 136.53,
-    "context_end": 163.309,
+    "context_end": 163.45125000000002,
     "feedback": [
         {
-            "name": "spontA_110_yeah",
+            "name": "NR_055_no",
             "start": 142.18,
-            "end": 143.11212500000002,
-            "token": "yeah"
+            "end": 143.0505,
+            "token": "no"
         },
         {
-            "name": "NS_037_uh-huh",
+            "name": "spontE_023_yeah",
             "start": 149.12,
-            "end": 150.20962500000002,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontF_136_yeah",
-            "start": 152.32,
-            "end": 152.81475,
+            "end": 149.65562500000001,
             "token": "yeah"
         },
         {
-            "name": "spontF_177_yeah",
+            "name": "NS_082_really",
+            "start": 152.32,
+            "end": 153.07225,
+            "token": "really"
+        },
+        {
+            "name": "spontA_109_yeah",
             "start": 162.8,
-            "end": 163.309,
+            "end": 163.45125000000002,
             "token": "yeah"
         }
     ]

@@ -1,39 +1,39 @@
 {
     "name": "fe_03_00258",
     "context_channel": 0,
-    "context_text": "<B> well my own you know my own thoughts on that situation is that that long before this terrorism thing i've always felt that there will never be peace in the middle east / <A> mhm / <B> you know there wasn't there ha there hasn't been peace in the middle east you know you know uhm it's always been a uh uh uh a boiling cauldron / <A> pardon / <B> and um and i and i see these religious differences and and um i still think that because of the lack of education / <A> uh-huh / <B> in those areas that you know uh that people are easily brainwashed both sides / <A> no / <B> by uh by the local propaganda people / <A> nuh",
+    "context_text": "<B> well my own you know my own thoughts on that situation is that that long before this terrorism thing i've always felt that there will never be peace in the middle east / <A> no / <B> you know there wasn't there ha there hasn't been peace in the middle east you know you know uhm it's always been a uh uh uh a boiling cauldron / <A> wow / <B> and um and i and i see these religious differences and and um i still think that because of the lack of education / <A> wow / <B> in those areas that you know uh that people are easily brainwashed both sides / <A> wow / <B> by uh by the local propaganda people / <A> mhm",
     "context_start": 419.66,
-    "context_end": 472.32050000000004,
+    "context_end": 472.1345,
     "feedback": [
         {
-            "name": "spontA_409_mhm",
+            "name": "NR_060_no",
             "start": 432.63,
-            "end": 433.19625,
-            "token": "mhm"
-        },
-        {
-            "name": "Nu_047_pardon",
-            "start": 445.67,
-            "end": 446.291,
-            "token": "pardon"
-        },
-        {
-            "name": "spontD_069_uh-huh",
-            "start": 459.29,
-            "end": 459.88825,
-            "token": "uh-huh"
-        },
-        {
-            "name": "NR_063_no",
-            "start": 467.11,
-            "end": 467.87,
+            "end": 433.104125,
             "token": "no"
         },
         {
-            "name": "sun_005_nuh",
+            "name": "PS_183_wow",
+            "start": 445.67,
+            "end": 446.47525,
+            "token": "wow"
+        },
+        {
+            "name": "PS_034_wow",
+            "start": 459.29,
+            "end": 460.10762500000004,
+            "token": "wow"
+        },
+        {
+            "name": "PS_120_wow",
+            "start": 467.11,
+            "end": 468.207875,
+            "token": "wow"
+        },
+        {
+            "name": "spontA_415_mhm",
             "start": 471.6,
-            "end": 472.32050000000004,
-            "token": "nuh"
+            "end": 472.1345,
+            "token": "mhm"
         }
     ]
 }

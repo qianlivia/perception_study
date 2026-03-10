@@ -1,39 +1,39 @@
 {
     "name": "fe_03_03745",
     "context_channel": 0,
-    "context_text": "<B> mhm you don't wanna argue { i } / <A> [ uh-huh ] / <B> like to argue i am getting that from my husband i used to not be so argumentative but i picked it up from him and get myself in trouble / <A> mmm / <B> he grew up in california go figure / <A> no / <B> i grew up in utah / <A> ooh / <B> i'm mormon so and he's not and so it's kinda like / <A> hm",
+    "context_text": "<B> mhm you don't wanna argue { i } / <A> [ yeah ] / <B> like to argue i am getting that from my husband i used to not be so argumentative but i picked it up from him and get myself in trouble / <A> yeah / <B> he grew up in california go figure / <A> uh-huh / <B> i grew up in utah / <A> yeah / <B> i'm mormon so and he's not and so it's kinda like / <A> yeah",
     "context_start": 457.32,
-    "context_end": 484.265625,
+    "context_end": 483.801875,
     "feedback": [
         {
-            "name": "spontF_478_uh-huh",
+            "name": "spontA_174_yeah",
             "start": 461.73,
-            "end": 462.25412500000004,
+            "end": 462.226125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_205_yeah",
+            "start": 471.62,
+            "end": 472.36325,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_092_uh-huh",
+            "start": 475.55,
+            "end": 476.093125,
             "token": "uh-huh"
         },
         {
-            "name": "spontA_346_mmm",
-            "start": 471.62,
-            "end": 472.493125,
-            "token": "mmm"
-        },
-        {
-            "name": "spontA_112_no",
-            "start": 475.55,
-            "end": 476.363125,
-            "token": "no"
-        },
-        {
-            "name": "PS_087_ooh",
+            "name": "spontB_366_yeah",
             "start": 479.29,
-            "end": 480.45875,
-            "token": "ooh"
+            "end": 479.94625,
+            "token": "yeah"
         },
         {
-            "name": "spontA_244_hm",
+            "name": "spontD_393_yeah",
             "start": 483.3,
-            "end": 484.265625,
-            "token": "hm"
+            "end": 483.801875,
+            "token": "yeah"
         }
     ]
 }

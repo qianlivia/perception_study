@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03398",
     "context_channel": 1,
-    "context_text": "<A> you know seven years later you kinda figure out that's not the best way so that's that's definitely / <B> oh / <A> that's definitely important definitely you know trust / <B> oh / <A> before you ever ever commit to someone you know you just you have to trust them / <B> yeah / <A> i've had so many friends end up you know getting divorced and that kinda thing because of you know the husband cheating or boyfriend cheating and it's { like you } / <B> [ uh-huh ]",
+    "context_text": "<A> you know seven years later you kinda figure out that's not the best way so that's that's definitely / <B> yeah / <A> that's definitely important definitely you know trust / <B> wow / <A> before you ever ever commit to someone you know you just you have to trust them / <B> yeah / <A> i've had so many friends end up you know getting divorced and that kinda thing because of you know the husband cheating or boyfriend cheating and it's { like you } / <B> [ ah ]",
     "context_start": 62.27,
-    "context_end": 94.656375,
+    "context_end": 95.2645,
     "feedback": [
         {
-            "name": "spontE_356_oh",
+            "name": "spontC_035_yeah",
             "start": 69.63,
-            "end": 70.2575,
-            "token": "oh"
-        },
-        {
-            "name": "spontD_379_oh",
-            "start": 75.32,
-            "end": 76.417125,
-            "token": "oh"
-        },
-        {
-            "name": "spontB_141_yeah",
-            "start": 81.03,
-            "end": 81.760375,
+            "end": 70.20587499999999,
             "token": "yeah"
         },
         {
-            "name": "spontA_406_uh-huh",
+            "name": "PS_156_wow",
+            "start": 75.32,
+            "end": 76.26074999999999,
+            "token": "wow"
+        },
+        {
+            "name": "spontA_426_yeah",
+            "start": 81.03,
+            "end": 81.697125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_190_ah",
             "start": 94.05,
-            "end": 94.656375,
-            "token": "uh-huh"
+            "end": 95.2645,
+            "token": "ah"
         }
     ]
 }

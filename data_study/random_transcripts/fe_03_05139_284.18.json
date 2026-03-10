@@ -1,39 +1,39 @@
 {
     "name": "fe_03_05139",
     "context_channel": 1,
-    "context_text": "<A> and his concept of the computer was taking it apart a and not being able to put it back together / <B> ooh / <A> but we had an old one around along with a printer { and he } / <B> [ okay ] / <A> wasn't afraid of the technology he { grew up } / <B> [ mhm ] / <A> with it and then he started to go on the internet but he started to learn his basics as far as reading and arithmetic even before kindergarten / <B> yes / <A> and then ah he goes to public school and he does very well at school and then he supplements you know the usual games on the computer / <B> wow",
+    "context_text": "<A> and his concept of the computer was taking it apart a and not being able to put it back together / <B> wow / <A> but we had an old one around along with a printer { and he } / <B> [ uh-huh ] / <A> wasn't afraid of the technology he { grew up } / <B> [ yeah ] / <A> with it and then he started to go on the internet but he started to learn his basics as far as reading and arithmetic even before kindergarten / <B> uh-huh / <A> and then ah he goes to public school and he does very well at school and then he supplements you know the usual games on the computer / <B> uh-huh",
     "context_start": 284.18,
-    "context_end": 318.71325,
+    "context_end": 318.18175,
     "feedback": [
         {
-            "name": "spontC_185_ooh",
+            "name": "PS_018_wow",
             "start": 290.07,
-            "end": 290.836875,
-            "token": "ooh"
-        },
-        {
-            "name": "spontC_401_okay",
-            "start": 292.85,
-            "end": 293.37937500000004,
-            "token": "okay"
-        },
-        {
-            "name": "spontD_254_mhm",
-            "start": 295.58,
-            "end": 296.09499999999997,
-            "token": "mhm"
-        },
-        {
-            "name": "PR_007_yes",
-            "start": 305.89,
-            "end": 306.80899999999997,
-            "token": "yes"
-        },
-        {
-            "name": "NegS_056_wow",
-            "start": 317.61,
-            "end": 318.71325,
+            "end": 291.075625,
             "token": "wow"
+        },
+        {
+            "name": "spontD_276_uh-huh",
+            "start": 292.85,
+            "end": 293.291375,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_240_yeah",
+            "start": 295.58,
+            "end": 296.149875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_180_uh-huh",
+            "start": 305.89,
+            "end": 306.476875,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontE_265_uh-huh",
+            "start": 317.61,
+            "end": 318.18175,
+            "token": "uh-huh"
         }
     ]
 }

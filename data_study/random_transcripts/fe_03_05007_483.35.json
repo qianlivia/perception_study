@@ -1,27 +1,27 @@
 {
     "name": "fe_03_05007",
     "context_channel": 1,
-    "context_text": "<A> and the uh um that's why i was i went to canada because there was more there was more chance for me getting { a } / <B> [ yeah ] / <A> an it position um however as soon as i came over here almost an anti-americanism everywhere / <B> oh / <A> yeah you see there's there's two different factions it's more fifty-fifty / <B> hm",
+    "context_text": "<A> and the uh um that's why i was i went to canada because there was more there was more chance for me getting { a } / <B> [ no ] / <A> an it position um however as soon as i came over here almost an anti-americanism everywhere / <B> yeah / <A> yeah you see there's there's two different factions it's more fifty-fifty / <B> mhm",
     "context_start": 483.35,
-    "context_end": 501.69075000000004,
+    "context_end": 501.33,
     "feedback": [
         {
-            "name": "spontD_184_yeah",
+            "name": "NR_094_no",
             "start": 489.57,
-            "end": 490.18775,
+            "end": 490.590875,
+            "token": "no"
+        },
+        {
+            "name": "spontF_140_yeah",
+            "start": 496.73,
+            "end": 497.54,
             "token": "yeah"
         },
         {
-            "name": "Sy_061_oh",
-            "start": 496.73,
-            "end": 497.779125,
-            "token": "oh"
-        },
-        {
-            "name": "NS_059_hm",
+            "name": "spontA_070_mhm",
             "start": 500.8,
-            "end": 501.69075000000004,
-            "token": "hm"
+            "end": 501.33,
+            "token": "mhm"
         }
     ]
 }

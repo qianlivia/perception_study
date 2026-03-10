@@ -1,32 +1,32 @@
 {
     "name": "fe_03_05020",
     "context_channel": 0,
-    "context_text": "<B> yeah uh no means a lot of people think that because all like you know the way for new york's to make some money you know and / <A> pardon / <B> an excuse to decide that the economy's bad because of this but it was already bad / <A> mhm / <B> uh w you can also add you know the enron stuff and all this crap you know the financial you know / <A> oh / <B> uh in companies and if you think about it you know dick cheney h himself you know is involved you know and / <A> yeah",
+    "context_text": "<B> yeah uh no means a lot of people think that because all like you know the way for new york's to make some money you know and / <A> mhm / <B> an excuse to decide that the economy's bad because of this but it was already bad / <A> yeah / <B> uh w you can also add you know the enron stuff and all this crap you know the financial you know / <A> yeah / <B> uh in companies and if you think about it you know dick cheney h himself you know is involved you know and / <A> yeah",
     "context_start": 499.94,
-    "context_end": 536.67325,
+    "context_end": 536.7938750000001,
     "feedback": [
         {
-            "name": "Nu_023_pardon",
+            "name": "spontE_294_mhm",
             "start": 511.11,
-            "end": 511.691125,
-            "token": "pardon"
-        },
-        {
-            "name": "spontE_361_mhm",
-            "start": 518.22,
-            "end": 518.679375,
+            "end": 511.708125,
             "token": "mhm"
         },
         {
-            "name": "PS_025_oh",
-            "start": 526.32,
-            "end": 527.344375,
-            "token": "oh"
+            "name": "spontA_382_yeah",
+            "start": 518.22,
+            "end": 518.794625,
+            "token": "yeah"
         },
         {
-            "name": "spontC_125_yeah",
+            "name": "spontB_292_yeah",
+            "start": 526.32,
+            "end": 526.8915000000001,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_339_yeah",
             "start": 535.94,
-            "end": 536.67325,
+            "end": 536.7938750000001,
             "token": "yeah"
         }
     ]

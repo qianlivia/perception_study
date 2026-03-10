@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00202",
     "context_channel": 1,
-    "context_text": "<A> yeah one of my roommates is uh from canada / <B> oh / <A> and they have thanksgiving also but they do it in october / <B> mhm / <A> a and i really think it's kinda funny because they don't really have a the story like with the pilgrims and everything i mean i i guess that's why they started celebrating thanksgiving it's probably the same reason that we do but it's just different because we put a lot of emphasis i think on the history behind it and everything and { she } / <B> [ no ] / <A> doesn't even really know the history behind canadian thanksgiving you know it's just kind of a nice time to give thanks and / <B> wow",
+    "context_text": "<A> yeah one of my roommates is uh from canada / <B> yeah / <A> and they have thanksgiving also but they do it in october / <B> ooh / <A> a and i really think it's kinda funny because they don't really have a the story like with the pilgrims and everything i mean i i guess that's why they started celebrating thanksgiving it's probably the same reason that we do but it's just different because we put a lot of emphasis i think on the history behind it and everything and { she } / <B> [ yeah ] / <A> doesn't even really know the history behind canadian thanksgiving you know it's just kind of a nice time to give thanks and / <B> oh",
     "context_start": 331.51,
-    "context_end": 366.3295,
+    "context_end": 365.783125,
     "feedback": [
         {
-            "name": "spontF_125_oh",
+            "name": "spontA_421_yeah",
             "start": 336.63,
-            "end": 337.477625,
-            "token": "oh"
+            "end": 337.356625,
+            "token": "yeah"
         },
         {
-            "name": "spontB_225_mhm",
+            "name": "spontE_174_ooh",
             "start": 340.55,
-            "end": 341.090375,
-            "token": "mhm"
+            "end": 341.17375,
+            "token": "ooh"
         },
         {
-            "name": "NR_031_no",
+            "name": "spontF_294_yeah",
             "start": 358.52,
-            "end": 359.39925,
-            "token": "no"
+            "end": 359.25649999999996,
+            "token": "yeah"
         },
         {
-            "name": "PS_020_wow",
+            "name": "spontF_070_oh",
             "start": 365.32,
-            "end": 366.3295,
-            "token": "wow"
+            "end": 365.783125,
+            "token": "oh"
         }
     ]
 }

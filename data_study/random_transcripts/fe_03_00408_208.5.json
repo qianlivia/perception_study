@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00408",
     "context_channel": 1,
-    "context_text": "<A> it's um undergr no it's in a university level { it's an } / <B> [ ooh ] / <A> undergrad class but i'm { a } / <B> [ oh ] / <A> graduate student / <B> mhm / <A> so basically i mean i i i like computers as as a tool of communication um but i am skeptical in the sense that it's always good for us to ah create some realities through the computers like / <B> hm",
+    "context_text": "<A> it's um undergr no it's in a university level { it's an } / <B> [ no ] / <A> undergrad class but i'm { a } / <B> [ mhm ] / <A> graduate student / <B> yeah / <A> so basically i mean i i i like computers as as a tool of communication um but i am skeptical in the sense that it's always good for us to ah create some realities through the computers like / <B> uh-huh",
     "context_start": 208.5,
-    "context_end": 234.38049999999998,
+    "context_end": 233.72687499999998,
     "feedback": [
         {
-            "name": "spontE_034_ooh",
+            "name": "spontA_381_no",
             "start": 213.16,
-            "end": 214.382375,
-            "token": "ooh"
+            "end": 213.91625,
+            "token": "no"
         },
         {
-            "name": "PS_148_oh",
+            "name": "spontC_111_mhm",
             "start": 214.93,
-            "end": 216.21475,
-            "token": "oh"
-        },
-        {
-            "name": "spontA_061_mhm",
-            "start": 216.36,
-            "end": 216.885375,
+            "end": 215.3615,
             "token": "mhm"
         },
         {
-            "name": "NS_057_hm",
+            "name": "spontF_261_yeah",
+            "start": 216.36,
+            "end": 216.91875000000002,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_180_uh-huh",
             "start": 233.14,
-            "end": 234.38049999999998,
-            "token": "hm"
+            "end": 233.72687499999998,
+            "token": "uh-huh"
         }
     ]
 }

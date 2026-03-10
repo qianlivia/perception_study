@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04982",
     "context_channel": 0,
-    "context_text": "<B> yeah yeah i didn't i didn't jump into it real hard if i got tired i just you know quit you know i i worked my way into it you know but / <A> yeah / <B> i then uh it i went through a spell where i wasn't able to do it for a while like when i got back on it i was able to get back up to the ten minutes within couple of days / <A> mmm / <B> which ki kinda surprised me you know that it came back that quickly / <A> aww / <B> you know but uh i think a lot of it is breathing as well as the lifting { and things like } / <A> [ aww ]",
+    "context_text": "<B> yeah yeah i didn't i didn't jump into it real hard if i got tired i just you know quit you know i i worked my way into it you know but / <A> no / <B> i then uh it i went through a spell where i wasn't able to do it for a while like when i got back on it i was able to get back up to the ten minutes within couple of days / <A> yeah / <B> which ki kinda surprised me you know that it came back that quickly / <A> wow / <B> you know but uh i think a lot of it is breathing as well as the lifting { and things like } / <A> [ no ]",
     "context_start": 319.25,
-    "context_end": 342.695625,
+    "context_end": 342.399875,
     "feedback": [
         {
-            "name": "spontE_067_yeah",
+            "name": "NR_070_no",
             "start": 325.61,
-            "end": 326.204875,
+            "end": 326.474375,
+            "token": "no"
+        },
+        {
+            "name": "spontA_356_yeah",
+            "start": 334.39,
+            "end": 334.872,
             "token": "yeah"
         },
         {
-            "name": "NS_036_mmm",
-            "start": 334.39,
-            "end": 335.337625,
-            "token": "mmm"
-        },
-        {
-            "name": "spontB_277_aww",
+            "name": "PS_077_wow",
             "start": 337.25,
-            "end": 337.995875,
-            "token": "aww"
+            "end": 338.053875,
+            "token": "wow"
         },
         {
-            "name": "Sy_083_aww",
+            "name": "NR_039_no",
             "start": 341.77,
-            "end": 342.695625,
-            "token": "aww"
+            "end": 342.399875,
+            "token": "no"
         }
     ]
 }

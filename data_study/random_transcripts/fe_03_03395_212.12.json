@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03395",
     "context_channel": 0,
-    "context_text": "<B> well you know what my boyfriend says is the funny thing about excuses is they always sound like excuses { and } / <A> [ ooh ] / <B> i've used that on him a couple times so but but no but you know at least it you know it shows that he is he doesn't try to make excuses for himself you know / <A> oh / <B> he accepts you know he has mistakes in the past and you { know } / <A> [ no ] / <B> some things you know i say or well you know there was one time when he was in his a low period in his life and he had a lot of his belongings in a storage shed / <A> mhm",
+    "context_text": "<B> well you know what my boyfriend says is the funny thing about excuses is they always sound like excuses { and } / <A> [ absolutely ] / <B> i've used that on him a couple times so but but no but you know at least it you know it shows that he is he doesn't try to make excuses for himself you know / <A> yeah / <B> he accepts you know he has mistakes in the past and you { know } / <A> [ yeah ] / <B> some things you know i say or well you know there was one time when he was in his a low period in his life and he had a lot of his belongings in a storage shed / <A> uh-huh",
     "context_start": 212.12,
-    "context_end": 243.634625,
+    "context_end": 243.59787500000002,
     "feedback": [
         {
-            "name": "spontE_157_ooh",
+            "name": "sun_037_absolutely",
             "start": 218.14,
-            "end": 219.28449999999998,
-            "token": "ooh"
+            "end": 219.29924999999997,
+            "token": "absolutely"
         },
         {
-            "name": "spontE_301_oh",
+            "name": "spontF_300_yeah",
             "start": 228.96,
-            "end": 229.97525000000002,
-            "token": "oh"
+            "end": 229.450625,
+            "token": "yeah"
         },
         {
-            "name": "NR_069_no",
+            "name": "spontE_243_yeah",
             "start": 232.83,
-            "end": 233.58925000000002,
-            "token": "no"
+            "end": 233.454375,
+            "token": "yeah"
         },
         {
-            "name": "spontA_395_mhm",
+            "name": "spontC_367_uh-huh",
             "start": 243.02,
-            "end": 243.634625,
-            "token": "mhm"
+            "end": 243.59787500000002,
+            "token": "uh-huh"
         }
     ]
 }

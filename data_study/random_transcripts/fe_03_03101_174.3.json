@@ -1,39 +1,39 @@
 {
     "name": "fe_03_03101",
     "context_channel": 1,
-    "context_text": "<A> oh okay cause i've been a mystery shopper for about six years now / <B> uh-huh / <A> uh-huh and i've had really good luck with it it was real slow at first but um i just kind of kept hitting it and it finally we got our regular companies that we work for / <B> sorry / <A> and it's worked out really well it's been a great extra income for us / <B> yeah / <A> but it took a long time to get it going / <B> yeah / <A> and to figure out who we wanted to work for and what was going to be worth our time / <B> uh-huh",
+    "context_text": "<A> oh okay cause i've been a mystery shopper for about six years now / <B> uh-huh / <A> uh-huh and i've had really good luck with it it was real slow at first but um i just kind of kept hitting it and it finally we got our regular companies that we work for / <B> exactly / <A> and it's worked out really well it's been a great extra income for us / <B> no / <A> but it took a long time to get it going / <B> no / <A> and to figure out who we wanted to work for and what was going to be worth our time / <B> oh",
     "context_start": 174.3,
-    "context_end": 200.973125,
+    "context_end": 201.89600000000002,
     "feedback": [
         {
-            "name": "spontA_277_uh-huh",
+            "name": "spontA_361_uh-huh",
             "start": 178.58,
-            "end": 179.13525,
+            "end": 179.09512500000002,
             "token": "uh-huh"
         },
         {
-            "name": "Sy_79_sorry",
+            "name": "sun_015_exactly",
             "start": 188.02,
-            "end": 188.936375,
-            "token": "sorry"
+            "end": 189.12175000000002,
+            "token": "exactly"
         },
         {
-            "name": "spontC_135_yeah",
+            "name": "sun2_029_no",
             "start": 192.35,
-            "end": 193.037625,
-            "token": "yeah"
+            "end": 193.089125,
+            "token": "no"
         },
         {
-            "name": "spontE_019_yeah",
+            "name": "NR_109_no",
             "start": 195.02,
-            "end": 195.7845,
-            "token": "yeah"
+            "end": 195.80450000000002,
+            "token": "no"
         },
         {
-            "name": "spontE_249_uh-huh",
+            "name": "PS_010_oh",
             "start": 200.46,
-            "end": 200.973125,
-            "token": "uh-huh"
+            "end": 201.89600000000002,
+            "token": "oh"
         }
     ]
 }

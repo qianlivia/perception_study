@@ -1,45 +1,45 @@
 {
     "name": "fe_03_01528",
     "context_channel": 1,
-    "context_text": "<A> [ yeah yeah ] well i guess you know i guess my feeling is like i would never tell em they can't strike / <B> yeah / <A> um i certainly think they should have the right to but i mean in philadelphia for example we um we the philly's baseball team / <B> yeah / <A> and they're actually fairly good { but the } / <B> [ uh-huh ] / <A> stands are empty they are empty { and what it } / <B> [ mhm ] / <A> is is that the last time they went on strike people said we don't feel sympathetic for you we're not going to watch this anymore / <B> hm / <A> and so i guess i would never say that they shouldn't be able to strike i mean certainly go for it i mean / <B> yeah",
+    "context_text": "<A> [ yeah yeah ] well i guess you know i guess my feeling is like i would never tell em they can't strike / <B> okay / <A> um i certainly think they should have the right to but i mean in philadelphia for example we um we the philly's baseball team / <B> wow / <A> and they're actually fairly good { but the } / <B> [ mhm ] / <A> stands are empty they are empty { and what it } / <B> [ yeah ] / <A> is is that the last time they went on strike people said we don't feel sympathetic for you we're not going to watch this anymore / <B> no / <A> and so i guess i would never say that they shouldn't be able to strike i mean certainly go for it i mean / <B> sure",
     "context_start": 403.99,
-    "context_end": 432.3875,
+    "context_end": 432.287625,
     "feedback": [
         {
-            "name": "spontD_143_yeah",
+            "name": "spontC_134_okay",
             "start": 408.86,
-            "end": 409.548375,
-            "token": "yeah"
+            "end": 409.667125,
+            "token": "okay"
         },
         {
-            "name": "spontF_432_yeah",
+            "name": "PS_011_wow",
             "start": 415.64,
-            "end": 416.294875,
-            "token": "yeah"
+            "end": 416.884,
+            "token": "wow"
         },
         {
-            "name": "spontF_116_uh-huh",
+            "name": "spontA_286_mhm",
             "start": 417.97,
-            "end": 418.567625,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontC_314_mhm",
-            "start": 420.44,
-            "end": 420.980875,
+            "end": 418.581875,
             "token": "mhm"
         },
         {
-            "name": "Sy_075_hm",
-            "start": 426.61,
-            "end": 427.94675,
-            "token": "hm"
+            "name": "spontE_073_yeah",
+            "start": 420.44,
+            "end": 421.006,
+            "token": "yeah"
         },
         {
-            "name": "spontF_041_yeah",
+            "name": "NR_047_no",
+            "start": 426.61,
+            "end": 427.82800000000003,
+            "token": "no"
+        },
+        {
+            "name": "sun_051_sure",
             "start": 431.52,
-            "end": 432.3875,
-            "token": "yeah"
+            "end": 432.287625,
+            "token": "sure"
         }
     ]
 }

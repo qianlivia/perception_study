@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01668",
     "context_channel": 0,
-    "context_text": "<B> i mean i believe that it's iraqi citizens that are going in and doing it { and } / <A> [ yeah ] / <B> yet they're blaming the us { yes } / <A> [ yeah ] / <B> we took out who was in power so / <A> no / <B> that the museums were not guarded but / <A> uh-huh",
+    "context_text": "<B> i mean i believe that it's iraqi citizens that are going in and doing it { and } / <A> [ wow ] / <B> yet they're blaming the us { yes } / <A> [ okay ] / <B> we took out who was in power so / <A> okay / <B> that the museums were not guarded but / <A> wow",
     "context_start": 284.13,
-    "context_end": 296.93975,
+    "context_end": 297.9285,
     "feedback": [
         {
-            "name": "spontB_362_yeah",
+            "name": "PS_085_wow",
             "start": 288.69,
-            "end": 289.328625,
-            "token": "yeah"
+            "end": 289.559,
+            "token": "wow"
         },
         {
-            "name": "spontB_323_yeah",
+            "name": "spontF_583_okay",
             "start": 290.64,
-            "end": 291.62674999999996,
-            "token": "yeah"
+            "end": 291.818,
+            "token": "okay"
         },
         {
-            "name": "NR_003_no",
+            "name": "spontD_410_okay",
             "start": 293.63,
-            "end": 294.259875,
-            "token": "no"
+            "end": 294.05375,
+            "token": "okay"
         },
         {
-            "name": "spontA_290_uh-huh",
+            "name": "PS_154_wow",
             "start": 296.44,
-            "end": 296.93975,
-            "token": "uh-huh"
+            "end": 297.9285,
+            "token": "wow"
         }
     ]
 }

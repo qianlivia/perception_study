@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04666",
     "context_channel": 0,
-    "context_text": "<B> yeah i i don't always either because like on the main screen like for instance it comes on it'll tell you you know the latest news { but i } / <A> [ huh ] / <B> never i never usually log on for that reason / <A> ooh / <B> so i always bypass it / <A> oh / <B> you know i um hardly ever ah get it that way um / <A> yeah",
+    "context_text": "<B> yeah i i don't always either because like on the main screen like for instance it comes on it'll tell you you know the latest news { but i } / <A> [ mhm ] / <B> never i never usually log on for that reason / <A> yeah / <B> so i always bypass it / <A> yeah / <B> you know i um hardly ever ah get it that way um / <A> exactly",
     "context_start": 152.65,
-    "context_end": 171.14575000000002,
+    "context_end": 171.60950000000003,
     "feedback": [
         {
-            "name": "PS_047_huh",
+            "name": "spontD_139_mhm",
             "start": 159.44,
-            "end": 160.227375,
-            "token": "huh"
+            "end": 160.126,
+            "token": "mhm"
         },
         {
-            "name": "spontC_377_ooh",
+            "name": "spontD_233_yeah",
             "start": 162.74,
-            "end": 163.59025,
-            "token": "ooh"
-        },
-        {
-            "name": "Sy_054_oh",
-            "start": 165.04,
-            "end": 166.72312499999998,
-            "token": "oh"
-        },
-        {
-            "name": "spontA_273_yeah",
-            "start": 170.58,
-            "end": 171.14575000000002,
+            "end": 163.672875,
             "token": "yeah"
+        },
+        {
+            "name": "spontC_192_yeah",
+            "start": 165.04,
+            "end": 165.49175,
+            "token": "yeah"
+        },
+        {
+            "name": "sun_026_exactly",
+            "start": 170.58,
+            "end": 171.60950000000003,
+            "token": "exactly"
         }
     ]
 }

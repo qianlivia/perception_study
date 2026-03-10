@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03655",
     "context_channel": 0,
-    "context_text": "<B> yeah it it's terrible an and they used to tell me oh you don't owe a co pay it's a well visit i'm like trust me i owe a co pay { so } / <A> [ oh ] / <B> i could just imagine these these single parents and they might have an i a young infant like that where they're supposed to go in every three { months } / <A> [ hm ] / <B> and they are not going to want to because they can't afford the shots { they can't } / <A> [ no ] / <B> afford to have these well visits because their their kid isn't sick so now the kids aren't getting their shots { and then } / <A> [ uh-huh ]",
+    "context_text": "<B> yeah it it's terrible an and they used to tell me oh you don't owe a co pay it's a well visit i'm like trust me i owe a co pay { so } / <A> [ yeah ] / <B> i could just imagine these these single parents and they might have an i a young infant like that where they're supposed to go in every three { months } / <A> [ yeah ] / <B> and they are not going to want to because they can't afford the shots { they can't } / <A> [ yeah ] / <B> afford to have these well visits because their their kid isn't sick so now the kids aren't getting their shots { and then } / <A> [ yeah ]",
     "context_start": 517.23,
-    "context_end": 538.312375,
+    "context_end": 538.5147499999999,
     "feedback": [
         {
-            "name": "PS_050_oh",
+            "name": "spontF_508_yeah",
             "start": 522.28,
-            "end": 522.9465,
-            "token": "oh"
+            "end": 522.9896249999999,
+            "token": "yeah"
         },
         {
-            "name": "NS_059_hm",
+            "name": "spontA_174_yeah",
             "start": 528.34,
-            "end": 529.2307500000001,
-            "token": "hm"
+            "end": 528.836125,
+            "token": "yeah"
         },
         {
-            "name": "sun2_029_no",
+            "name": "PR_039_yeah",
             "start": 532.75,
-            "end": 533.489125,
-            "token": "no"
+            "end": 533.579375,
+            "token": "yeah"
         },
         {
-            "name": "spontA_158_uh-huh",
+            "name": "spontC_062_yeah",
             "start": 537.79,
-            "end": 538.312375,
-            "token": "uh-huh"
+            "end": 538.5147499999999,
+            "token": "yeah"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01068",
     "context_channel": 1,
-    "context_text": "<A> and they were making a joke about or whoopi made a joke about um about how we have um th three people making um running the country / <B> uh-huh / <A> um president bush um secretary dick cheney and colin powell / <B> yeah / <A> and then but jimmy kimmel's cohost made the same exact joke his night but there was no way either one of them could see each other's show / <B> oh / <A> i mean / <B> no",
+    "context_text": "<A> and they were making a joke about or whoopi made a joke about um about how we have um th three people making um running the country / <B> no / <A> um president bush um secretary dick cheney and colin powell / <B> yeah / <A> and then but jimmy kimmel's cohost made the same exact joke his night but there was no way either one of them could see each other's show / <B> yeah / <A> i mean / <B> oh",
     "context_start": 259.12,
-    "context_end": 296.770625,
+    "context_end": 297.73974999999996,
     "feedback": [
         {
-            "name": "spontF_566_uh-huh",
+            "name": "NR_081_no",
             "start": 275.59,
-            "end": 276.20437499999997,
-            "token": "uh-huh"
+            "end": 276.43825,
+            "token": "no"
         },
         {
-            "name": "spontE_245_yeah",
+            "name": "spontF_491_yeah",
             "start": 282.77,
-            "end": 283.590875,
+            "end": 283.53662499999996,
             "token": "yeah"
         },
         {
-            "name": "spontE_176_oh",
+            "name": "spontA_335_yeah",
             "start": 293.98,
-            "end": 294.46075,
-            "token": "oh"
+            "end": 294.647125,
+            "token": "yeah"
         },
         {
-            "name": "NR_009_no",
+            "name": "spontF_582_oh",
             "start": 295.84,
-            "end": 296.770625,
-            "token": "no"
+            "end": 297.73974999999996,
+            "token": "oh"
         }
     ]
 }

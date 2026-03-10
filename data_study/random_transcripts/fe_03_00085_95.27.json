@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00085",
     "context_channel": 1,
-    "context_text": "<A> that's right no i i i don't have tv because i i mean i don't pay for cable because first of all it's expensive but most importantly because if i have the channels i know that i'm going to watch tv { and a } / <B> [ ooh ] / <A> lot so i prefer not to have it but whenever i have to go to someone place { someone } / <B> [ hm ] / <A> else place i i don't watch tv { and } / <B> [ uh-huh ] / <A> i i think that at the beginning i liked i like reality shows / <B> wow",
+    "context_text": "<A> that's right no i i i don't have tv because i i mean i don't pay for cable because first of all it's expensive but most importantly because if i have the channels i know that i'm going to watch tv { and a } / <B> [ oh ] / <A> lot so i prefer not to have it but whenever i have to go to someone place { someone } / <B> [ oh ] / <A> else place i i don't watch tv { and } / <B> [ yeah ] / <A> i i think that at the beginning i liked i like reality shows / <B> mhm",
     "context_start": 95.27,
-    "context_end": 124.94675000000001,
+    "context_end": 124.100875,
     "feedback": [
         {
-            "name": "spontA_094_ooh",
+            "name": "spontE_293_oh",
             "start": 108.12,
-            "end": 109.093625,
-            "token": "ooh"
+            "end": 108.63875,
+            "token": "oh"
         },
         {
-            "name": "NS_019_hm",
+            "name": "PS_194_oh",
             "start": 114.08,
-            "end": 114.67675,
-            "token": "hm"
+            "end": 114.88374999999999,
+            "token": "oh"
         },
         {
-            "name": "spontB_383_uh-huh",
+            "name": "spontB_051_yeah",
             "start": 117.29,
-            "end": 117.892375,
-            "token": "uh-huh"
+            "end": 117.78137500000001,
+            "token": "yeah"
         },
         {
-            "name": "PS_063_wow",
+            "name": "spontC_314_mhm",
             "start": 123.56,
-            "end": 124.94675000000001,
-            "token": "wow"
+            "end": 124.100875,
+            "token": "mhm"
         }
     ]
 }

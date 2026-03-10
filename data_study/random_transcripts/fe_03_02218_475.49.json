@@ -1,39 +1,39 @@
 {
     "name": "fe_03_02218",
     "context_channel": 0,
-    "context_text": "<B> yeah yeah it's it was one of the worst like it it he didn't say like this was the absolute worst but at least the one in glendale they they said that they um they said that they um they called him up and they called the health inspector up and they were like how can we improve blah blah blah will you help us / <A> yeah / <B> so like they at least they got help but / <A> wow / <B> a lot people like kicked them out wouldn't let them in { wouldn't } / <A> [ mmm ] / <B> like wouldn't take any advice { and } / <A> [ mhm ] / <B> i mean i remember last year it was i have been in west hollywood which i have been to once that year so i was gagging / <A> mmm",
+    "context_text": "<B> yeah yeah it's it was one of the worst like it it he didn't say like this was the absolute worst but at least the one in glendale they they said that they um they said that they um they called him up and they called the health inspector up and they were like how can we improve blah blah blah will you help us / <A> yeah / <B> so like they at least they got help but / <A> uh-huh / <B> a lot people like kicked them out wouldn't let them in { wouldn't } / <A> [ yeah ] / <B> like wouldn't take any advice { and } / <A> [ no ] / <B> i mean i remember last year it was i have been in west hollywood which i have been to once that year so i was gagging / <A> ooh",
     "context_start": 475.49,
-    "context_end": 514.841625,
+    "context_end": 514.36725,
     "feedback": [
         {
-            "name": "spont_220_yeah",
+            "name": "spontB_381_yeah",
             "start": 495.61,
-            "end": 496.316625,
+            "end": 496.059375,
             "token": "yeah"
         },
         {
-            "name": "PS_065_wow",
+            "name": "spontA_268_uh-huh",
             "start": 499.14,
-            "end": 499.95349999999996,
-            "token": "wow"
+            "end": 499.644125,
+            "token": "uh-huh"
         },
         {
-            "name": "NS_045_mmm",
+            "name": "spontB_051_yeah",
             "start": 503.01,
-            "end": 503.88275,
-            "token": "mmm"
+            "end": 503.501375,
+            "token": "yeah"
         },
         {
-            "name": "sun1_005_mhm",
+            "name": "NR_099_no",
             "start": 505.35,
-            "end": 506.12,
-            "token": "mhm"
+            "end": 506.30825000000004,
+            "token": "no"
         },
         {
-            "name": "sun2_046_mmm",
+            "name": "spontE_237_ooh",
             "start": 513.99,
-            "end": 514.841625,
-            "token": "mmm"
+            "end": 514.36725,
+            "token": "ooh"
         }
     ]
 }

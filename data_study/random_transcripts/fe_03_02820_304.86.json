@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02820",
     "context_channel": 0,
-    "context_text": "<B> th uh i mean the final score was only four to one but it was weird because of those two moments where they actually had the bases loaded / <A> what / <B> and and and what was also strange is that the phillies brought in like every time the bases were loaded they brought in a different pitcher and i've never seen that before because when i was a real baseball fan i was a mets fan you know about ten years ago probably / <A> aww / <B> and uh they huh they never replaced the pitchers and if they did it was in the ninth inning { and } / <A> [ yeah ] / <B> now the phillies brought in four pitchers and they were ahead by three runs and they still had four different pitchers { and one } / <A> [ ooh ]",
+    "context_text": "<B> th uh i mean the final score was only four to one but it was weird because of those two moments where they actually had the bases loaded / <A> yeah / <B> and and and what was also strange is that the phillies brought in like every time the bases were loaded they brought in a different pitcher and i've never seen that before because when i was a real baseball fan i was a mets fan you know about ten years ago probably / <A> uh-huh / <B> and uh they huh they never replaced the pitchers and if they did it was in the ninth inning { and } / <A> [ mhm ] / <B> now the phillies brought in four pitchers and they were ahead by three runs and they still had four different pitchers { and one } / <A> [ uh-huh ]",
     "context_start": 304.86,
-    "context_end": 338.7455,
+    "context_end": 338.61175000000003,
     "feedback": [
         {
-            "name": "Nu_003_what",
+            "name": "spontA_146_yeah",
             "start": 310.68,
-            "end": 311.248125,
-            "token": "what"
-        },
-        {
-            "name": "spontB_392_aww",
-            "start": 324.88,
-            "end": 325.59075,
-            "token": "aww"
-        },
-        {
-            "name": "spontD_280_yeah",
-            "start": 331.21,
-            "end": 331.94725,
+            "end": 311.37825,
             "token": "yeah"
         },
         {
-            "name": "spontB_352_ooh",
+            "name": "spontC_378_uh-huh",
+            "start": 324.88,
+            "end": 325.38675,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_054_mhm",
+            "start": 331.21,
+            "end": 331.73699999999997,
+            "token": "mhm"
+        },
+        {
+            "name": "spontD_113_uh-huh",
             "start": 337.98,
-            "end": 338.7455,
-            "token": "ooh"
+            "end": 338.61175000000003,
+            "token": "uh-huh"
         }
     ]
 }

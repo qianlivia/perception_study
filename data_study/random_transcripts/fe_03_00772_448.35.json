@@ -1,27 +1,27 @@
 {
     "name": "fe_03_00772",
     "context_channel": 1,
-    "context_text": "<A> there's a lot of um there is a lot of wealth / <B> okay / <A> extreme wealth too / <B> wow / <A> ah at one time florida's number one crop were oranges you know that's { what was the thing } / <B> [ no ]",
+    "context_text": "<A> there's a lot of um there is a lot of wealth / <B> wow / <A> extreme wealth too / <B> okay / <A> ah at one time florida's number one crop were oranges you know that's { what was the thing } / <B> [ yeah ]",
     "context_start": 448.35,
-    "context_end": 460.98625000000004,
+    "context_end": 460.796,
     "feedback": [
         {
-            "name": "spontF_181_okay",
+            "name": "PS_074_wow",
             "start": 451.91,
-            "end": 452.651875,
-            "token": "okay"
-        },
-        {
-            "name": "PS_084_wow",
-            "start": 454.23,
-            "end": 455.254875,
+            "end": 452.74725,
             "token": "wow"
         },
         {
-            "name": "spontA_381_no",
+            "name": "spontF_518_okay",
+            "start": 454.23,
+            "end": 454.93600000000004,
+            "token": "okay"
+        },
+        {
+            "name": "spontE_073_yeah",
             "start": 460.23,
-            "end": 460.98625000000004,
-            "token": "no"
+            "end": 460.796,
+            "token": "yeah"
         }
     ]
 }

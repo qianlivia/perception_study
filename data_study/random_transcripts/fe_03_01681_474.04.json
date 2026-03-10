@@ -1,27 +1,27 @@
 {
     "name": "fe_03_01681",
     "context_channel": 1,
-    "context_text": "<A> mean they may not necessarily know that he's there you know / <B> what / <A> so { i } / <B> [ ugh ] / <A> mean he could be anywhere for / <B> pardon",
+    "context_text": "<A> mean they may not necessarily know that he's there you know / <B> yeah / <A> so { i } / <B> [ oh ] / <A> mean he could be anywhere for / <B> okay",
     "context_start": 474.04,
-    "context_end": 481.50100000000003,
+    "context_end": 481.47900000000004,
     "feedback": [
         {
-            "name": "Nu_003_what",
+            "name": "spontD_231_yeah",
             "start": 476.99,
-            "end": 477.558125,
-            "token": "what"
+            "end": 477.570375,
+            "token": "yeah"
         },
         {
-            "name": "NegS_043_ugh",
+            "name": "spontE_293_oh",
             "start": 479.08,
-            "end": 479.715125,
-            "token": "ugh"
+            "end": 479.59875,
+            "token": "oh"
         },
         {
-            "name": "Nu_046_pardon",
+            "name": "spontE_158_okay",
             "start": 480.86,
-            "end": 481.50100000000003,
-            "token": "pardon"
+            "end": 481.47900000000004,
+            "token": "okay"
         }
     ]
 }

@@ -1,32 +1,32 @@
 {
     "name": "fe_03_05644",
     "context_channel": 1,
-    "context_text": "<A> yeah well i mean like like supposedly like they the the guys who hijacked the planes on september eleventh like i mean obviously like we don't really know what happened i don't even know how they know that they had box cutters { but } / <B> [ uh ] / <A> um so like i mean you could sneak some like plastic knife through like i've seen like / <B> mhm / <A> places that sell like stuff that you could totally get through like airport security like / <B> mmm / <A> you know it doesn't really seem like they're doing that much more i mean i haven't been flying that much lately but / <B> yes",
+    "context_text": "<A> yeah well i mean like like supposedly like they the the guys who hijacked the planes on september eleventh like i mean obviously like we don't really know what happened i don't even know how they know that they had box cutters { but } / <B> [ ooh ] / <A> um so like i mean you could sneak some like plastic knife through like i've seen like / <B> yeah / <A> places that sell like stuff that you could totally get through like airport security like / <B> yes / <A> you know it doesn't really seem like they're doing that much more i mean i haven't been flying that much lately but / <B> yes",
     "context_start": 39.59,
-    "context_end": 66.6005,
+    "context_end": 66.63012499999999,
     "feedback": [
         {
-            "name": "PS_196_uh",
+            "name": "spontE_034_ooh",
             "start": 50.27,
-            "end": 51.478750000000005,
-            "token": "uh"
+            "end": 51.492375,
+            "token": "ooh"
         },
         {
-            "name": "spontF_496_mhm",
+            "name": "spontF_630_yeah",
             "start": 55.94,
-            "end": 56.4465,
-            "token": "mhm"
+            "end": 56.557125,
+            "token": "yeah"
         },
         {
-            "name": "spontD_239_mmm",
+            "name": "PR_023_yes",
             "start": 60.41,
-            "end": 61.086749999999995,
-            "token": "mmm"
+            "end": 61.430249999999994,
+            "token": "yes"
         },
         {
-            "name": "PR_060_yes",
+            "name": "sun1_028_yes",
             "start": 65.66,
-            "end": 66.6005,
+            "end": 66.63012499999999,
             "token": "yes"
         }
     ]

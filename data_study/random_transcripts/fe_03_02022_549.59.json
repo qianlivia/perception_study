@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02022",
     "context_channel": 1,
-    "context_text": "<A> [ well it's not ] something that it affects me somehow some / <B> mmm / <A> way down the line but / <B> uh-ho / <A> like right around here we had ah jake butcher / <B> oh / <A> owned a banking system and he got a lot of the people around here when we had the um eighty no ninety two world fair i / <B> wow",
+    "context_text": "<A> [ well it's not ] something that it affects me somehow some / <B> yeah / <A> way down the line but / <B> no / <A> like right around here we had ah jake butcher / <B> yeah / <A> owned a banking system and he got a lot of the people around here when we had the um eighty no ninety two world fair i / <B> ooh",
     "context_start": 549.59,
-    "context_end": 570.2495,
+    "context_end": 570.070875,
     "feedback": [
         {
-            "name": "spontD_039_mmm",
+            "name": "spontE_331_yeah",
             "start": 553.48,
-            "end": 554.05525,
-            "token": "mmm"
+            "end": 554.18075,
+            "token": "yeah"
         },
         {
-            "name": "NS_049_uh-ho",
+            "name": "NR_072_no",
             "start": 555.21,
-            "end": 556.090375,
-            "token": "uh-ho"
+            "end": 556.085875,
+            "token": "no"
         },
         {
-            "name": "Sy_061_oh",
+            "name": "spontF_140_yeah",
             "start": 559.2,
-            "end": 560.249125,
-            "token": "oh"
+            "end": 560.01,
+            "token": "yeah"
         },
         {
-            "name": "PS_023_wow",
+            "name": "PS_134_ooh",
             "start": 569.46,
-            "end": 570.2495,
-            "token": "wow"
+            "end": 570.070875,
+            "token": "ooh"
         }
     ]
 }

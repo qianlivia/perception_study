@@ -1,32 +1,32 @@
 {
     "name": "fe_03_01325",
     "context_channel": 1,
-    "context_text": "<A> yeah well now i mean now things are it's different you know we've got vehicles paid off and you know don't use credit cards because the places just aren't here / <B> mhm / <A> so but it so it's different so we're making it now whereas if we'd have done if if i'd you know done the move maybe seven eight years ago there would've been no way no way but it just goes to show the differences that they pay / <B> hm / <A> in well cause here you know the amount you make here and then in charleston you're making twenty three dollars an hour / <B> what / <A> so it's a big cut it makes you just swallow { before you } / <B> [ yeah ]",
+    "context_text": "<A> yeah well now i mean now things are it's different you know we've got vehicles paid off and you know don't use credit cards because the places just aren't here / <B> yeah / <A> so but it so it's different so we're making it now whereas if we'd have done if if i'd you know done the move maybe seven eight years ago there would've been no way no way but it just goes to show the differences that they pay / <B> no / <A> in well cause here you know the amount you make here and then in charleston you're making twenty three dollars an hour / <B> uh-huh / <A> so it's a big cut it makes you just swallow { before you } / <B> [ yeah ]",
     "context_start": 470.82,
-    "context_end": 515.584625,
+    "context_end": 516.142875,
     "feedback": [
         {
-            "name": "spontC_235_mhm",
+            "name": "spontE_267_yeah",
             "start": 481.53,
-            "end": 481.98175,
-            "token": "mhm"
+            "end": 482.21187499999996,
+            "token": "yeah"
         },
         {
-            "name": "spontA_276_hm",
+            "name": "NR_031_no",
             "start": 502.2,
-            "end": 503.192,
-            "token": "hm"
+            "end": 503.07925,
+            "token": "no"
         },
         {
-            "name": "Nu_017_what",
+            "name": "spontD_206_uh-huh",
             "start": 510.02,
-            "end": 510.66999999999996,
-            "token": "what"
+            "end": 510.64849999999996,
+            "token": "uh-huh"
         },
         {
-            "name": "spontD_375_yeah",
+            "name": "spontB_313_yeah",
             "start": 515.16,
-            "end": 515.584625,
+            "end": 516.142875,
             "token": "yeah"
         }
     ]

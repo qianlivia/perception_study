@@ -1,26 +1,26 @@
 {
     "name": "fe_03_02325",
     "context_channel": 1,
-    "context_text": "<A> half and half so they { wouldn't } / <B> [ wow ] / <A> know it you know they don't care everybody's family / <B> yeah / <A> so we're all part of the same family we all know what's going on / <B> yeah",
+    "context_text": "<A> half and half so they { wouldn't } / <B> [ ah ] / <A> know it you know they don't care everybody's family / <B> yes / <A> so we're all part of the same family we all know what's going on / <B> yeah",
     "context_start": 511.62,
-    "context_end": 521.359125,
+    "context_end": 521.736,
     "feedback": [
         {
-            "name": "PS_065_wow",
+            "name": "spontD_387_ah",
             "start": 512.96,
-            "end": 513.7735,
-            "token": "wow"
+            "end": 514.119125,
+            "token": "ah"
         },
         {
-            "name": "spontC_382_yeah",
+            "name": "spontF_214_yes",
             "start": 516.81,
-            "end": 517.38925,
-            "token": "yeah"
+            "end": 517.653375,
+            "token": "yes"
         },
         {
-            "name": "spontC_346_yeah",
+            "name": "spontD_340_yeah",
             "start": 520.93,
-            "end": 521.359125,
+            "end": 521.736,
             "token": "yeah"
         }
     ]

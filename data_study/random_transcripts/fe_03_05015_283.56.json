@@ -1,45 +1,45 @@
 {
     "name": "fe_03_05015",
     "context_channel": 0,
-    "context_text": "<B> have um i'd won a cruise and it left from fort lauderdale port everglades and i was not aware of all this stuff before i went but that is a high risk um / <A> ooh / <B> area because apparently that's the major um port for for um cruises / <A> uh-hah / <B> and uh uh we were on high alert when i left and we were on high alert when i got back i had driven with a relative there so i didn't fly to get there but um uh i i didn't really notice any extra security for my end you know you're not allowed to go certain areas at certain times well that's true of an airport too but uh i got to do a couple of things i was a little surprised that security let me do even not knowing it was a high risk area { i } / <A> [ uh-huh ] / <B> had to leave my baggage at a certain point but i mean that's not if i am a terrorist i'm going to find other ways to you { know } / <A> [ yeah ] / <B> i would expect that / <A> mhm / <B> but i did hear uh later that uh we're the only country that sends divers under the boats and they're checked um uh they're scrutinized for bombs and other types of terrorists / <A> mmm",
+    "context_text": "<B> have um i'd won a cruise and it left from fort lauderdale port everglades and i was not aware of all this stuff before i went but that is a high risk um / <A> mhm / <B> area because apparently that's the major um port for for um cruises / <A> wow / <B> and uh uh we were on high alert when i left and we were on high alert when i got back i had driven with a relative there so i didn't fly to get there but um uh i i didn't really notice any extra security for my end you know you're not allowed to go certain areas at certain times well that's true of an airport too but uh i got to do a couple of things i was a little surprised that security let me do even not knowing it was a high risk area { i } / <A> [ oh ] / <B> had to leave my baggage at a certain point but i mean that's not if i am a terrorist i'm going to find other ways to you { know } / <A> [ yeah ] / <B> i would expect that / <A> mhm / <B> but i did hear uh later that uh we're the only country that sends divers under the boats and they're checked um uh they're scrutinized for bombs and other types of terrorists / <A> oh",
     "context_start": 283.56,
-    "context_end": 365.567625,
+    "context_end": 365.575875,
     "feedback": [
         {
-            "name": "NegS_064_ooh",
+            "name": "spontB_187_mhm",
             "start": 297.89,
-            "end": 298.91024999999996,
-            "token": "ooh"
-        },
-        {
-            "name": "sun1_013_uh-hah",
-            "start": 305.15,
-            "end": 306.160875,
-            "token": "uh-hah"
-        },
-        {
-            "name": "spontB_198_uh-huh",
-            "start": 339.01,
-            "end": 339.50325,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontB_157_yeah",
-            "start": 346.81,
-            "end": 347.481875,
-            "token": "yeah"
-        },
-        {
-            "name": "PR_063_mhm",
-            "start": 348.54,
-            "end": 349.2275,
+            "end": 298.441125,
             "token": "mhm"
         },
         {
-            "name": "spontB_387_mmm",
+            "name": "PS_065_wow",
+            "start": 305.15,
+            "end": 305.96349999999995,
+            "token": "wow"
+        },
+        {
+            "name": "spontE_285_oh",
+            "start": 339.01,
+            "end": 339.605125,
+            "token": "oh"
+        },
+        {
+            "name": "spontA_109_yeah",
+            "start": 346.81,
+            "end": 347.46125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_254_mhm",
+            "start": 348.54,
+            "end": 349.055,
+            "token": "mhm"
+        },
+        {
+            "name": "Sy_055_oh",
             "start": 364.75,
-            "end": 365.567625,
-            "token": "mmm"
+            "end": 365.575875,
+            "token": "oh"
         }
     ]
 }

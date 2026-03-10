@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02101",
     "context_channel": 1,
-    "context_text": "<A> right yeah we found out about friends uh our house burned down in august / <B> huh / <A> and we had no insurance and we had no you know no nothing and uh we i was surprised at the number of people that said okay / <B> uh-huh / <A> here here you know we had some some neighbors that we didn't really even think of as close friends { that } / <B> [ yeah ] / <A> said no you're not going any you're staying here at our place for a couple of days at least until we figure out what's going on / <B> yes",
+    "context_text": "<A> right yeah we found out about friends uh our house burned down in august / <B> mhm / <A> and we had no insurance and we had no you know no nothing and uh we i was surprised at the number of people that said okay / <B> yeah / <A> here here you know we had some some neighbors that we didn't really even think of as close friends { that } / <B> [ uh-huh ] / <A> said no you're not going any you're staying here at our place for a couple of days at least until we figure out what's going on / <B> uh-huh",
     "context_start": 180.45,
-    "context_end": 218.07962500000002,
+    "context_end": 217.86825000000002,
     "feedback": [
         {
-            "name": "Nu_010_huh",
+            "name": "spontE_156_mhm",
             "start": 186.17,
-            "end": 186.906375,
-            "token": "huh"
+            "end": 186.77612499999998,
+            "token": "mhm"
         },
         {
-            "name": "spontE_106_uh-huh",
+            "name": "spontC_084_yeah",
             "start": 201.07,
-            "end": 201.49925,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontD_365_yeah",
-            "start": 208.44,
-            "end": 209.29625,
+            "end": 201.4975,
             "token": "yeah"
         },
         {
-            "name": "spontF_329_yes",
+            "name": "spontF_058_uh-huh",
+            "start": 208.44,
+            "end": 208.9505,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_070_uh-huh",
             "start": 217.36,
-            "end": 218.07962500000002,
-            "token": "yes"
+            "end": 217.86825000000002,
+            "token": "uh-huh"
         }
     ]
 }

@@ -1,32 +1,32 @@
 {
     "name": "fe_03_01761",
     "context_channel": 1,
-    "context_text": "<A> yeah definitely to the world / <B> yeah / <A> i i think that they're just waiting / <B> aww / <A> um i you know maybe not soon that they will do anything soon but i'm sure that soon enough they will do something to either us or to south korea / <B> wow / <A> or one of their neighboring states / <B> wow",
+    "context_text": "<A> yeah definitely to the world / <B> oh / <A> i i think that they're just waiting / <B> uh-huh / <A> um i you know maybe not soon that they will do anything soon but i'm sure that soon enough they will do something to either us or to south korea / <B> okay / <A> or one of their neighboring states / <B> wow",
     "context_start": 35.28,
-    "context_end": 51.561,
+    "context_end": 52.127250000000004,
     "feedback": [
         {
-            "name": "spontF_520_yeah",
+            "name": "Sy_061_oh",
             "start": 36.3,
-            "end": 36.975125,
-            "token": "yeah"
+            "end": 37.349125,
+            "token": "oh"
         },
         {
-            "name": "spontA_423_aww",
+            "name": "spontC_378_uh-huh",
             "start": 40.93,
-            "end": 41.530125,
-            "token": "aww"
+            "end": 41.436749999999996,
+            "token": "uh-huh"
         },
         {
-            "name": "PS_092_wow",
+            "name": "spontC_286_okay",
             "start": 48.73,
-            "end": 49.647124999999996,
-            "token": "wow"
+            "end": 49.382,
+            "token": "okay"
         },
         {
-            "name": "PS_116_wow",
+            "name": "PS_024_wow",
             "start": 50.6,
-            "end": 51.561,
+            "end": 52.127250000000004,
             "token": "wow"
         }
     ]

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01075",
     "context_channel": 1,
-    "context_text": "<A> but i'm like i said you know i i'm trying to live a really good christian life now / <B> yeah / <A> leah / <B> ooh / <A> and i'm trying to you know imitate jesus as / <B> yeah / <A> much as i can / <B> no",
+    "context_text": "<A> but i'm like i said you know i i'm trying to live a really good christian life now / <B> yeah / <A> leah / <B> yeah / <A> and i'm trying to you know imitate jesus as / <B> yeah / <A> much as i can / <B> yeah",
     "context_start": 154.8,
-    "context_end": 175.534375,
+    "context_end": 175.596875,
     "feedback": [
         {
-            "name": "spontE_073_yeah",
+            "name": "spontE_258_yeah",
             "start": 164.17,
-            "end": 164.736,
+            "end": 164.798125,
             "token": "yeah"
         },
         {
-            "name": "spontF_454_ooh",
+            "name": "spontE_228_yeah",
             "start": 165.69,
-            "end": 166.1945,
-            "token": "ooh"
-        },
-        {
-            "name": "spontF_157_yeah",
-            "start": 172.81,
-            "end": 173.49812500000002,
+            "end": 166.30112499999998,
             "token": "yeah"
         },
         {
-            "name": "NR_016_no",
+            "name": "spontE_051_yeah",
+            "start": 172.81,
+            "end": 173.5815,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_136_yeah",
             "start": 174.8,
-            "end": 175.534375,
-            "token": "no"
+            "end": 175.596875,
+            "token": "yeah"
         }
     ]
 }

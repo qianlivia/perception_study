@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01628",
     "context_channel": 1,
-    "context_text": "<A> i i you know you just who knows who that their um their government who is still alive who is dead and you know will we ever know who knows / <B> yeah / <A> and i really feel that there's going to be some retaliation somehow against us / <B> wow / <A> whether it's like th the nine eleven attacks or you know s s some way i think something's going to happen hopefully not as horrible as that but you just don't know / <B> wow / <A> and i mean i know one thing um the us is trying to do over there is find find their weapons { i mean } / <B> [ mmm ]",
+    "context_text": "<A> i i you know you just who knows who that their um their government who is still alive who is dead and you know will we ever know who knows / <B> oh / <A> and i really feel that there's going to be some retaliation somehow against us / <B> yeah / <A> whether it's like th the nine eleven attacks or you know s s some way i think something's going to happen hopefully not as horrible as that but you just don't know / <B> yeah / <A> and i mean i know one thing um the us is trying to do over there is find find their weapons { i mean } / <B> [ yeah ]",
     "context_start": 387.39,
-    "context_end": 428.713125,
+    "context_end": 428.33887500000003,
     "feedback": [
         {
-            "name": "spontE_088_yeah",
+            "name": "spontC_018_oh",
             "start": 399.07,
-            "end": 399.70625,
+            "end": 399.849625,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_101_yeah",
+            "start": 404.79,
+            "end": 405.39837500000004,
             "token": "yeah"
         },
         {
-            "name": "PS_142_wow",
-            "start": 404.79,
-            "end": 406.11875000000003,
-            "token": "wow"
-        },
-        {
-            "name": "PS_079_wow",
+            "name": "spontB_323_yeah",
             "start": 418.02,
-            "end": 419.072,
-            "token": "wow"
+            "end": 419.00674999999995,
+            "token": "yeah"
         },
         {
-            "name": "spontA_113_mmm",
+            "name": "spontC_092_yeah",
             "start": 427.87,
-            "end": 428.713125,
-            "token": "mmm"
+            "end": 428.33887500000003,
+            "token": "yeah"
         }
     ]
 }

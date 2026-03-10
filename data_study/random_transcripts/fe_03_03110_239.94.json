@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03110",
     "context_channel": 1,
-    "context_text": "<A> [ yes yes oh how awful well i ] i have lived we we currently live up in cambridge massachusetts and we live in a duplex on the first floor and there are quite a few animals around in the neighborhood dogs and so forth then i remember when my daughter was growing up she wanted a a dog very badly and i told her i didn't think that it was kind to the animals to have to be in the house all day long when we weren't there they were / <B> mmm / <A> all the animal would have to be all alone and / <B> huh / <A> then have to be walked on a leash the only time it was going to be / <B> mhm / <A> outside / <B> aww",
+    "context_text": "<A> [ yes yes oh how awful well i ] i have lived we we currently live up in cambridge massachusetts and we live in a duplex on the first floor and there are quite a few animals around in the neighborhood dogs and so forth then i remember when my daughter was growing up she wanted a a dog very badly and i told her i didn't think that it was kind to the animals to have to be in the house all day long when we weren't there they were / <B> ah / <A> all the animal would have to be all alone and / <B> yeah / <A> then have to be walked on a leash the only time it was going to be / <B> uh-huh / <A> outside / <B> yeah",
     "context_start": 239.94,
-    "context_end": 278.0475,
+    "context_end": 277.515375,
     "feedback": [
         {
-            "name": "Sy_029_mmm",
+            "name": "spontC_173_ah",
             "start": 269.26,
-            "end": 270.13124999999997,
-            "token": "mmm"
+            "end": 270.324,
+            "token": "ah"
         },
         {
-            "name": "NS_027_huh",
+            "name": "spontA_106_yeah",
             "start": 271.79,
-            "end": 272.287125,
-            "token": "huh"
+            "end": 272.30462500000004,
+            "token": "yeah"
         },
         {
-            "name": "spontB_121_mhm",
+            "name": "spontD_106_uh-huh",
             "start": 275.57,
-            "end": 276.1035,
-            "token": "mhm"
+            "end": 276.0075,
+            "token": "uh-huh"
         },
         {
-            "name": "Sy_032_aww",
+            "name": "spontA_155_yeah",
             "start": 276.99,
-            "end": 278.0475,
-            "token": "aww"
+            "end": 277.515375,
+            "token": "yeah"
         }
     ]
 }

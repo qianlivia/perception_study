@@ -1,27 +1,27 @@
 {
     "name": "fe_03_00065",
     "context_channel": 1,
-    "context_text": "<A> i and then i moved and i went to grad school / <B> yep / <A> and i met all these people that smoked and it was just so easy to { just } / <B> [ no ] / <A> go right back into it / <B> ah",
+    "context_text": "<A> i and then i moved and i went to grad school / <B> uh-huh / <A> and i met all these people that smoked and it was just so easy to { just } / <B> [ ah ] / <A> go right back into it / <B> yes",
     "context_start": 157.77,
-    "context_end": 166.07075,
+    "context_end": 166.179875,
     "feedback": [
         {
-            "name": "PR_027_yep",
+            "name": "spontA_361_uh-huh",
             "start": 160.06,
-            "end": 160.60275000000001,
-            "token": "yep"
+            "end": 160.575125,
+            "token": "uh-huh"
         },
         {
-            "name": "NR_120_no",
+            "name": "PS_051_ah",
             "start": 163.31,
-            "end": 163.97475,
-            "token": "no"
+            "end": 164.364,
+            "token": "ah"
         },
         {
-            "name": "spontE_232_ah",
+            "name": "PS_026_yes",
             "start": 165.09,
-            "end": 166.07075,
-            "token": "ah"
+            "end": 166.179875,
+            "token": "yes"
         }
     ]
 }

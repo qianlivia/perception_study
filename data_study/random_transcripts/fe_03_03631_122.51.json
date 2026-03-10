@@ -1,27 +1,27 @@
 {
     "name": "fe_03_03631",
     "context_channel": 1,
-    "context_text": "<A> but um in order to have the money for uh to just get by you have like seven teenagers not even thinking of a family or having a single parent / <B> no / <A> you need a lot more than five dollars / <B> no / <A> but also where we live we're very fortunate because most jobs even for the students and that start at least at eight dollars / <B> pardon",
+    "context_text": "<A> but um in order to have the money for uh to just get by you have like seven teenagers not even thinking of a family or having a single parent / <B> uh-huh / <A> you need a lot more than five dollars / <B> oh / <A> but also where we live we're very fortunate because most jobs even for the students and that start at least at eight dollars / <B> yeah",
     "context_start": 122.51,
-    "context_end": 145.3435,
+    "context_end": 145.573875,
     "feedback": [
         {
-            "name": "NR_077_no",
+            "name": "spontF_309_uh-huh",
             "start": 133.46,
-            "end": 134.62550000000002,
-            "token": "no"
+            "end": 133.997125,
+            "token": "uh-huh"
         },
         {
-            "name": "NR_043_no",
+            "name": "spontC_315_oh",
             "start": 136.75,
-            "end": 137.5355,
-            "token": "no"
+            "end": 137.51775,
+            "token": "oh"
         },
         {
-            "name": "Nu_045_pardon",
+            "name": "spontD_339_yeah",
             "start": 144.72,
-            "end": 145.3435,
-            "token": "pardon"
+            "end": 145.573875,
+            "token": "yeah"
         }
     ]
 }

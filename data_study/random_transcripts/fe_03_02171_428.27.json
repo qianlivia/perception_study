@@ -1,27 +1,27 @@
 {
     "name": "fe_03_02171",
     "context_channel": 0,
-    "context_text": "<B> they're kind of like you know what like at this point you got into a good school like you have proven that like you know what you're doing so like { just figure } / <A> [ yeah ] / <B> it out for yourself you know / <A> huh / <B> you know i'm still concerned with becoming a teacher 'cause that's what both my parents do so / <A> pardon",
+    "context_text": "<B> they're kind of like you know what like at this point you got into a good school like you have proven that like you know what you're doing so like { just figure } / <A> [ okay ] / <B> it out for yourself you know / <A> uh-huh / <B> you know i'm still concerned with becoming a teacher 'cause that's what both my parents do so / <A> yeah",
     "context_start": 428.27,
-    "context_end": 441.733125,
+    "context_end": 441.82325,
     "feedback": [
         {
-            "name": "spontD_049_yeah",
+            "name": "sun1_017_okay",
             "start": 435.16,
-            "end": 435.799125,
-            "token": "yeah"
+            "end": 436.072875,
+            "token": "okay"
         },
         {
-            "name": "NS_062_huh",
+            "name": "spontF_079_uh-huh",
             "start": 436.92,
-            "end": 437.96375,
-            "token": "huh"
+            "end": 437.56,
+            "token": "uh-huh"
         },
         {
-            "name": "Nu_061_pardon",
+            "name": "spontC_205_yeah",
             "start": 441.08,
-            "end": 441.733125,
-            "token": "pardon"
+            "end": 441.82325,
+            "token": "yeah"
         }
     ]
 }

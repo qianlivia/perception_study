@@ -1,39 +1,39 @@
 {
     "name": "fe_03_04348",
     "context_channel": 1,
-    "context_text": "<A> a well see i i i've had a i've had a few in my lifetime / <B> wow / <A> but it depends for me it d would depend maybe on who the best friend might be / <B> no / <A> but / <B> uh-huh / <A> and in some ways i probably wouldn't because / <B> wow / <A> my i'm very loyal / <B> no",
+    "context_text": "<A> a well see i i i've had a i've had a few in my lifetime / <B> uh-huh / <A> but it depends for me it d would depend maybe on who the best friend might be / <B> no / <A> but / <B> uh-huh / <A> and in some ways i probably wouldn't because / <B> exactly / <A> my i'm very loyal / <B> uh-huh",
     "context_start": 100.18,
-    "context_end": 119.85825000000001,
+    "context_end": 119.394875,
     "feedback": [
         {
-            "name": "PS_115_wow",
+            "name": "spontA_406_uh-huh",
             "start": 106.04,
-            "end": 107.131,
-            "token": "wow"
-        },
-        {
-            "name": "NR_061_no",
-            "start": 111.36,
-            "end": 112.29325,
-            "token": "no"
-        },
-        {
-            "name": "spontF_286_uh-huh",
-            "start": 112.25,
-            "end": 112.7735,
+            "end": 106.646375,
             "token": "uh-huh"
         },
         {
-            "name": "NegS_056_wow",
-            "start": 115.88,
-            "end": 116.98325,
-            "token": "wow"
+            "name": "sun2_030_no",
+            "start": 111.36,
+            "end": 112.59275,
+            "token": "no"
         },
         {
-            "name": "NR_099_no",
+            "name": "PR_053_uh-huh",
+            "start": 112.25,
+            "end": 113.1175,
+            "token": "uh-huh"
+        },
+        {
+            "name": "sun_015_exactly",
+            "start": 115.88,
+            "end": 116.98174999999999,
+            "token": "exactly"
+        },
+        {
+            "name": "spontC_013_uh-huh",
             "start": 118.9,
-            "end": 119.85825000000001,
-            "token": "no"
+            "end": 119.394875,
+            "token": "uh-huh"
         }
     ]
 }

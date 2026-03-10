@@ -1,39 +1,39 @@
 {
     "name": "fe_03_03338",
     "context_channel": 0,
-    "context_text": "<B> doesn't make any sense but there are people like that / <A> no / <B> unfortunately so uh yeah but i i think that once stung though it's it's it's hard for the other person / <A> mhm / <B> i but i do i guess it can work i guess it can help but um yeah i think that counseling is important those people are trained that's their job to / <A> yeah / <B> to help sort out one's thinking they don't it's not that they're putting their two cents in they're just taking your thoughts and sorting them out / <A> okay / <B> in a clear and uh in a you know smart way / <A> nah",
+    "context_text": "<B> doesn't make any sense but there are people like that / <A> yeah / <B> unfortunately so uh yeah but i i think that once stung though it's it's it's hard for the other person / <A> yes / <B> i but i do i guess it can work i guess it can help but um yeah i think that counseling is important those people are trained that's their job to / <A> mhm / <B> to help sort out one's thinking they don't it's not that they're putting their two cents in they're just taking your thoughts and sorting them out / <A> yeah / <B> in a clear and uh in a you know smart way / <A> wow",
     "context_start": 368.22,
-    "context_end": 406.74674999999996,
+    "context_end": 407.14,
     "feedback": [
         {
-            "name": "NR_117_no",
+            "name": "spontF_662_yeah",
             "start": 371.09,
-            "end": 371.83712499999996,
-            "token": "no"
-        },
-        {
-            "name": "spontF_281_mhm",
-            "start": 381.51,
-            "end": 382.412375,
-            "token": "mhm"
-        },
-        {
-            "name": "spontB_309_yeah",
-            "start": 391.99,
-            "end": 392.955375,
+            "end": 371.79449999999997,
             "token": "yeah"
         },
         {
-            "name": "spontB_195_okay",
-            "start": 400.18,
-            "end": 400.84950000000003,
-            "token": "okay"
+            "name": "PR_023_yes",
+            "start": 381.51,
+            "end": 382.53024999999997,
+            "token": "yes"
         },
         {
-            "name": "NR_073_nah",
+            "name": "spontD_038_mhm",
+            "start": 391.99,
+            "end": 392.523375,
+            "token": "mhm"
+        },
+        {
+            "name": "spontB_097_yeah",
+            "start": 400.18,
+            "end": 400.753625,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_169_wow",
             "start": 405.7,
-            "end": 406.74674999999996,
-            "token": "nah"
+            "end": 407.14,
+            "token": "wow"
         }
     ]
 }

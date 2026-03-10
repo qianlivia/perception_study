@@ -1,39 +1,39 @@
 {
     "name": "fe_03_01866",
     "context_channel": 1,
-    "context_text": "<A> yeah see they don't know if she committed it was a drug overdose like we don't know if she committed suicide or { if } / <B> [ yeah ] / <A> it how it was you know and i've had a couple you know living in new orleans it's not that common to have drug overdoses { and there's been a } / <B> [ uh-huh ] / <A> couple in my life / <B> no / <A> you know and i'm fortunate enough to not have to draw myself out of that when it got that bad { when things } / <B> [ gosh ] / <A> started getting bad that i walked { because } / <B> [ mmm ]",
+    "context_text": "<A> yeah see they don't know if she committed it was a drug overdose like we don't know if she committed suicide or { if } / <B> [ oh ] / <A> it how it was you know and i've had a couple you know living in new orleans it's not that common to have drug overdoses { and there's been a } / <B> [ wow ] / <A> couple in my life / <B> no / <A> you know and i'm fortunate enough to not have to draw myself out of that when it got that bad { when things } / <B> [ yeah ] / <A> started getting bad that i walked { because } / <B> [ uh-huh ]",
     "context_start": 375.61,
-    "context_end": 398.806,
+    "context_end": 398.457875,
     "feedback": [
         {
-            "name": "spontD_198_yeah",
+            "name": "spontF_514_oh",
             "start": 380.4,
-            "end": 381.0875,
-            "token": "yeah"
+            "end": 381.18512499999997,
+            "token": "oh"
         },
         {
-            "name": "spontD_405_uh-huh",
+            "name": "NegS_065_wow",
             "start": 386.19,
-            "end": 386.60875,
-            "token": "uh-huh"
+            "end": 387.104,
+            "token": "wow"
         },
         {
-            "name": "NR_056_no",
+            "name": "NR_011_no",
             "start": 388.21,
-            "end": 388.99062499999997,
+            "end": 389.124375,
             "token": "no"
         },
         {
-            "name": "NegS_046_gosh",
+            "name": "spontF_029_yeah",
             "start": 394.99,
-            "end": 396.07,
-            "token": "gosh"
+            "end": 395.56525,
+            "token": "yeah"
         },
         {
-            "name": "Sy_024_mmm",
+            "name": "spontC_367_uh-huh",
             "start": 397.88,
-            "end": 398.806,
-            "token": "mmm"
+            "end": 398.457875,
+            "token": "uh-huh"
         }
     ]
 }

@@ -1,57 +1,57 @@
 {
     "name": "fe_03_03539",
     "context_channel": 1,
-    "context_text": "<A> of those that have a real strong a real strong feeling on um i think getting it changed is going to would be would be a major hassle { um i i } / <B> [ yep ] / <A> don't know that anybody i don't know that anybody who has the control of that really feels that it's worthwhile / <B> yeah / <A> because for one thing the people who are making minimum wage aren't really their constituents so much that you know they're not that pop the the the people that are young / <B> yeah / <A> or they're in economically depressed areas like { inner } / <B> [ wow ] / <A> cities and stuff and they're not the people that get out and vote they're not { the people } / <B> [ yeah ] / <A> that write to congress men so i don't { see } / <B> [ oh ] / <A> i don't see it changing any time soon because i believe it took an act of congress to get it raised / <B> huh / <A> but cause it was at three thirty five for a long time / <B> gosh",
+    "context_text": "<A> of those that have a real strong a real strong feeling on um i think getting it changed is going to would be would be a major hassle { um i i } / <B> [ mhm ] / <A> don't know that anybody i don't know that anybody who has the control of that really feels that it's worthwhile / <B> yeah / <A> because for one thing the people who are making minimum wage aren't really their constituents so much that you know they're not that pop the the the people that are young / <B> yeah / <A> or they're in economically depressed areas like { inner } / <B> [ wow ] / <A> cities and stuff and they're not the people that get out and vote they're not { the people } / <B> [ yeah ] / <A> that write to congress men so i don't { see } / <B> [ yeah ] / <A> i don't see it changing any time soon because i believe it took an act of congress to get it raised / <B> no / <A> but cause it was at three thirty five for a long time / <B> wow",
     "context_start": 486.73,
-    "context_end": 537.96,
+    "context_end": 537.68525,
     "feedback": [
         {
-            "name": "PR_020_yep",
+            "name": "spontC_355_mhm",
             "start": 496.39,
-            "end": 497.041625,
-            "token": "yep"
+            "end": 496.928,
+            "token": "mhm"
         },
         {
-            "name": "spontA_292_yeah",
+            "name": "spontF_324_yeah",
             "start": 503.15,
-            "end": 503.79362499999996,
+            "end": 504.01237499999996,
             "token": "yeah"
         },
         {
-            "name": "spontF_441_yeah",
+            "name": "spontB_051_yeah",
             "start": 514.59,
-            "end": 515.083875,
+            "end": 515.081375,
             "token": "yeah"
         },
         {
-            "name": "PS_074_wow",
+            "name": "PS_187_wow",
             "start": 518.15,
-            "end": 518.98725,
+            "end": 519.1625,
             "token": "wow"
         },
         {
-            "name": "spontF_239_yeah",
+            "name": "spontC_139_yeah",
             "start": 521.7,
-            "end": 522.6867500000001,
+            "end": 522.306375,
             "token": "yeah"
         },
         {
-            "name": "Sy_044_oh",
+            "name": "spontC_092_yeah",
             "start": 524.13,
-            "end": 525.249875,
-            "token": "oh"
+            "end": 524.598875,
+            "token": "yeah"
         },
         {
-            "name": "NS_050_huh",
+            "name": "sun_018_no",
             "start": 533.97,
-            "end": 534.970375,
-            "token": "huh"
+            "end": 534.698875,
+            "token": "no"
         },
         {
-            "name": "NegS_046_gosh",
+            "name": "PS_183_wow",
             "start": 536.88,
-            "end": 537.96,
-            "token": "gosh"
+            "end": 537.68525,
+            "token": "wow"
         }
     ]
 }

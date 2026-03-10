@@ -1,27 +1,27 @@
 {
     "name": "fe_03_03716",
     "context_channel": 1,
-    "context_text": "<A> a handicapped daughter { they } / <B> [ uh ] / <A> really needed me to stay home with her you know and you can't afford to pay somebody else to take of em / <B> hm / <A> you know it's just real cost prohibitive / <B> uh-huh",
+    "context_text": "<A> a handicapped daughter { they } / <B> [ yeah ] / <A> really needed me to stay home with her you know and you can't afford to pay somebody else to take of em / <B> right / <A> you know it's just real cost prohibitive / <B> no",
     "context_start": 467.5,
-    "context_end": 478.84412499999996,
+    "context_end": 479.50762499999996,
     "feedback": [
         {
-            "name": "PS_195_uh",
+            "name": "spontC_138_yeah",
             "start": 469.27,
-            "end": 470.217875,
-            "token": "uh"
+            "end": 469.76737499999996,
+            "token": "yeah"
         },
         {
-            "name": "Sy_038_hm",
+            "name": "sun_013_right",
             "start": 474.82,
-            "end": 475.860875,
-            "token": "hm"
+            "end": 475.6935,
+            "token": "right"
         },
         {
-            "name": "spontA_268_uh-huh",
+            "name": "NR_022_no",
             "start": 478.34,
-            "end": 478.84412499999996,
-            "token": "uh-huh"
+            "end": 479.50762499999996,
+            "token": "no"
         }
     ]
 }

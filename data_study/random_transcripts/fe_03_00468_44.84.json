@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00468",
     "context_channel": 0,
-    "context_text": "<B> i i like to eat a lot of variety o -ties of of fruit and vegetable and meat and fish / <A> yeah / <B> um i very mm i really try to keep a diet you know correct diet but uh you know the society and the medias / <A> no / <B> do not go this way and i found myself eating uh sometimes a way that i would like not to eat / <A> oh / <B> and we we get we get in in in the this eating habit uh we it's with not healthy we { don't } / <A> [ ah ]",
+    "context_text": "<B> i i like to eat a lot of variety o -ties of of fruit and vegetable and meat and fish / <A> uh-huh / <B> um i very mm i really try to keep a diet you know correct diet but uh you know the society and the medias / <A> yeah / <B> do not go this way and i found myself eating uh sometimes a way that i would like not to eat / <A> no / <B> and we we get we get in in in the this eating habit uh we it's with not healthy we { don't } / <A> [ yeah ]",
     "context_start": 44.84,
-    "context_end": 83.73400000000001,
+    "context_end": 83.429625,
     "feedback": [
         {
-            "name": "spontC_026_yeah",
+            "name": "spontF_082_uh-huh",
             "start": 52.38,
-            "end": 53.029,
+            "end": 53.2395,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_506_yeah",
+            "start": 63.14,
+            "end": 64.02425,
             "token": "yeah"
         },
         {
-            "name": "NR_034_no",
-            "start": 63.14,
-            "end": 63.9615,
+            "name": "NR_083_no",
+            "start": 72.15,
+            "end": 73.32925,
             "token": "no"
         },
         {
-            "name": "spontF_569_oh",
-            "start": 72.15,
-            "end": 73.22625000000001,
-            "token": "oh"
-        },
-        {
-            "name": "PS_051_ah",
+            "name": "spontD_267_yeah",
             "start": 82.68,
-            "end": 83.73400000000001,
-            "token": "ah"
+            "end": 83.429625,
+            "token": "yeah"
         }
     ]
 }

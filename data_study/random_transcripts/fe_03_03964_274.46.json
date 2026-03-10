@@ -1,32 +1,32 @@
 {
     "name": "fe_03_03964",
     "context_channel": 1,
-    "context_text": "<A> you know we've all just learned that sometimes you're going to be the butt of the joke that's just the way it is / <B> really / <A> um but as far as talking about strangers and / <B> ooh / <A> the way they do it on television and broadcast things about certain people's weight or whatever / <B> hm / <A> is that's kind of i would think that you'd have to run into those people those same people at some point { you } / <B> [ yeah ]",
+    "context_text": "<A> you know we've all just learned that sometimes you're going to be the butt of the joke that's just the way it is / <B> uh-huh / <A> um but as far as talking about strangers and / <B> wow / <A> the way they do it on television and broadcast things about certain people's weight or whatever / <B> yeah / <A> is that's kind of i would think that you'd have to run into those people those same people at some point { you } / <B> [ yeah ]",
     "context_start": 274.46,
-    "context_end": 301.643875,
+    "context_end": 301.294875,
     "feedback": [
         {
-            "name": "PS_019_really",
+            "name": "spontD_069_uh-huh",
             "start": 280.29,
-            "end": 281.0795,
-            "token": "really"
+            "end": 280.88825,
+            "token": "uh-huh"
         },
         {
-            "name": "spontE_298_ooh",
+            "name": "PS_038_wow",
             "start": 285.89,
-            "end": 286.74562499999996,
-            "token": "ooh"
+            "end": 287.24575,
+            "token": "wow"
         },
         {
-            "name": "sun2_047_hm",
+            "name": "spontC_075_yeah",
             "start": 292.35,
-            "end": 293.01500000000004,
-            "token": "hm"
+            "end": 293.00462500000003,
+            "token": "yeah"
         },
         {
-            "name": "PR_038_yeah",
+            "name": "spontE_067_yeah",
             "start": 300.7,
-            "end": 301.643875,
+            "end": 301.294875,
             "token": "yeah"
         }
     ]

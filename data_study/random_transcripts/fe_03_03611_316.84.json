@@ -1,44 +1,44 @@
 {
     "name": "fe_03_03611",
     "context_channel": 0,
-    "context_text": "<B> to live / <A> pardon / <B> so i know like here well i live in california and i live in the middle of california / <A> pardon / <B> so it's not the most expensive / <A> uh-huh / <B> but it's not the cheapest / <A> uh-huh / <B> and for but i my husband and i own our home / <A> wow / <B> but for a two bedroom one bath apartment which my son and his wife had / <A> yeah",
+    "context_text": "<B> to live / <A> ah / <B> so i know like here well i live in california and i live in the middle of california / <A> yeah / <B> so it's not the most expensive / <A> exactly / <B> but it's not the cheapest / <A> right / <B> and for but i my husband and i own our home / <A> yeah / <B> but for a two bedroom one bath apartment which my son and his wife had / <A> yeah",
     "context_start": 316.84,
-    "context_end": 340.84537500000005,
+    "context_end": 340.647375,
     "feedback": [
         {
-            "name": "Nu_047_pardon",
+            "name": "spontB_190_ah",
             "start": 317.91,
-            "end": 318.531,
-            "token": "pardon"
+            "end": 319.1245,
+            "token": "ah"
         },
         {
-            "name": "Nu_045_pardon",
+            "name": "spontC_307_yeah",
             "start": 324.21,
-            "end": 324.83349999999996,
-            "token": "pardon"
+            "end": 324.797875,
+            "token": "yeah"
         },
         {
-            "name": "spontE_081_uh-huh",
+            "name": "sun_038_exactly",
             "start": 326.51,
-            "end": 327.019125,
-            "token": "uh-huh"
+            "end": 327.5955,
+            "token": "exactly"
         },
         {
-            "name": "spontC_371_uh-huh",
+            "name": "sun_028_right",
             "start": 328.34,
-            "end": 328.81812499999995,
-            "token": "uh-huh"
+            "end": 329.069375,
+            "token": "right"
         },
         {
-            "name": "PS_076_wow",
+            "name": "spontD_281_yeah",
             "start": 333.63,
-            "end": 334.9715,
-            "token": "wow"
+            "end": 334.138375,
+            "token": "yeah"
         },
         {
-            "name": "spontB_374_yeah",
+            "name": "spontC_504_yeah",
             "start": 340.16,
-            "end": 340.84537500000005,
+            "end": 340.647375,
             "token": "yeah"
         }
     ]

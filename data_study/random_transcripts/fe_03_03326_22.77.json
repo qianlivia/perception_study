@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03326",
     "context_channel": 0,
-    "context_text": "<B> and what we would look for / <A> yeah / <B> i guess um i don't know for me i think um similar uh values would be important / <A> yeah / <B> like um values on families um i think it'd be important um that you both have the same wants as far as children or not / <A> uh-huh / <B> and maybe uh religious beliefs i think may be important / <A> yeah",
+    "context_text": "<B> and what we would look for / <A> no / <B> i guess um i don't know for me i think um similar uh values would be important / <A> uh-huh / <B> like um values on families um i think it'd be important um that you both have the same wants as far as children or not / <A> yeah / <B> and maybe uh religious beliefs i think may be important / <A> exactly",
     "context_start": 22.77,
-    "context_end": 52.18675,
+    "context_end": 52.2295,
     "feedback": [
         {
-            "name": "spontF_086_yeah",
+            "name": "NR_078_no",
             "start": 24.53,
-            "end": 25.247,
-            "token": "yeah"
+            "end": 25.253375000000002,
+            "token": "no"
         },
         {
-            "name": "spontC_075_yeah",
+            "name": "spontA_158_uh-huh",
             "start": 33.63,
-            "end": 34.284625000000005,
-            "token": "yeah"
-        },
-        {
-            "name": "spontA_093_uh-huh",
-            "start": 44.75,
-            "end": 45.291375,
+            "end": 34.152375,
             "token": "uh-huh"
         },
         {
-            "name": "spontF_239_yeah",
-            "start": 51.2,
-            "end": 52.18675,
+            "name": "spontC_062_yeah",
+            "start": 44.75,
+            "end": 45.47475,
             "token": "yeah"
+        },
+        {
+            "name": "sun_026_exactly",
+            "start": 51.2,
+            "end": 52.2295,
+            "token": "exactly"
         }
     ]
 }

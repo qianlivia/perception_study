@@ -1,27 +1,27 @@
 {
     "name": "fe_03_01216",
     "context_channel": 1,
-    "context_text": "<A> and it's because it's such a wonderful alternative to um traditional education { the the } / <B> [ mhm ] / <A> resources that are out there now it's incredible / <B> exactly / <A> when you have satellite connections you have uh videos / <B> ah",
+    "context_text": "<A> and it's because it's such a wonderful alternative to um traditional education { the the } / <B> [ oh ] / <A> resources that are out there now it's incredible / <B> yeah / <A> when you have satellite connections you have uh videos / <B> no",
     "context_start": 408.1,
-    "context_end": 421.156375,
+    "context_end": 421.0345,
     "feedback": [
         {
-            "name": "spontF_315_mhm",
+            "name": "spontF_099_oh",
             "start": 414.01,
-            "end": 414.713875,
-            "token": "mhm"
+            "end": 414.6135,
+            "token": "oh"
         },
         {
-            "name": "sun_015_exactly",
+            "name": "spontB_037_yeah",
             "start": 417.23,
-            "end": 418.33175,
-            "token": "exactly"
+            "end": 417.9365,
+            "token": "yeah"
         },
         {
-            "name": "NS_039_ah",
+            "name": "NR_109_no",
             "start": 420.25,
-            "end": 421.156375,
-            "token": "ah"
+            "end": 421.0345,
+            "token": "no"
         }
     ]
 }

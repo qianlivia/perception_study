@@ -1,27 +1,27 @@
 {
     "name": "fe_03_00686",
     "context_channel": 0,
-    "context_text": "<B> just i'm really a lot more comfortable now that they got these um the machines that screen for bombs / <A> aww / <B> and all the luggage cause i / <A> oh / <B> think that you know that's one of the things i thought about you know that would be easy to do / <A> ooh",
+    "context_text": "<B> just i'm really a lot more comfortable now that they got these um the machines that screen for bombs / <A> ooh / <B> and all the luggage cause i / <A> no / <B> think that you know that's one of the things i thought about you know that would be easy to do / <A> yeah",
     "context_start": 68.03,
-    "context_end": 82.947125,
+    "context_end": 82.495125,
     "feedback": [
         {
-            "name": "spontA_293_aww",
+            "name": "NegS_038_ooh",
             "start": 75.4,
-            "end": 76.08787500000001,
-            "token": "aww"
-        },
-        {
-            "name": "PS_148_oh",
-            "start": 76.76,
-            "end": 78.04475000000001,
-            "token": "oh"
-        },
-        {
-            "name": "spontF_032_ooh",
-            "start": 81.95,
-            "end": 82.947125,
+            "end": 76.41312500000001,
             "token": "ooh"
+        },
+        {
+            "name": "NR_088_no",
+            "start": 76.76,
+            "end": 77.57525000000001,
+            "token": "no"
+        },
+        {
+            "name": "spontB_057_yeah",
+            "start": 81.95,
+            "end": 82.495125,
+            "token": "yeah"
         }
     ]
 }

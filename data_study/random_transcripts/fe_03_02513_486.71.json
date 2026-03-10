@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02513",
     "context_channel": 0,
-    "context_text": "<B> oh okay yeah like we have a large hispanic population here and you know they all tend to live with their grandparents { or } / <A> [ oh ] / <B> whatever and you know they wouldn't put their grandparents in a nursing home you { know it's } / <A> [ oh ] / <B> just not their culture they don't think that way / <A> mmm / <B> and you know it's kind of refreshing to see people who actually spend a lot of time with their family and you know that's more the focus they don't drop their kids at day care you { know } / <A> [ yup ]",
+    "context_text": "<B> oh okay yeah like we have a large hispanic population here and you know they all tend to live with their grandparents { or } / <A> [ wow ] / <B> whatever and you know they wouldn't put their grandparents in a nursing home you { know it's } / <A> [ right ] / <B> just not their culture they don't think that way / <A> uh-huh / <B> and you know it's kind of refreshing to see people who actually spend a lot of time with their family and you know that's more the focus they don't drop their kids at day care you { know } / <A> [ yeah ]",
     "context_start": 486.71,
-    "context_end": 515.006625,
+    "context_end": 514.671875,
     "feedback": [
         {
-            "name": "PS_027_oh",
+            "name": "PS_065_wow",
             "start": 496.28,
-            "end": 497.55062499999997,
-            "token": "oh"
+            "end": 497.09349999999995,
+            "token": "wow"
         },
         {
-            "name": "Sy_003_oh",
+            "name": "sun1_032_right",
             "start": 500.55,
-            "end": 501.457,
-            "token": "oh"
+            "end": 501.393375,
+            "token": "right"
         },
         {
-            "name": "spontC_137_mmm",
+            "name": "spontE_260_uh-huh",
             "start": 503.74,
-            "end": 504.80125,
-            "token": "mmm"
+            "end": 504.29275,
+            "token": "uh-huh"
         },
         {
-            "name": "sun1_018_yup",
+            "name": "spontA_229_yeah",
             "start": 514.23,
-            "end": 515.006625,
-            "token": "yup"
+            "end": 514.671875,
+            "token": "yeah"
         }
     ]
 }

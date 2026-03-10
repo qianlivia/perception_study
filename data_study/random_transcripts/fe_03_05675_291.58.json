@@ -1,27 +1,27 @@
 {
     "name": "fe_03_05675",
     "context_channel": 1,
-    "context_text": "<A> because this is getting us spread thin in areas that we have no knowledge obviously / <B> wow / <A> it's obvious that the president is giving speeches based on information that may or may not be correct / <B> pardon / <A> and it's whatever is politically expedient for him to say rather than the truth / <B> uh-huh",
+    "context_text": "<A> because this is getting us spread thin in areas that we have no knowledge obviously / <B> oh / <A> it's obvious that the president is giving speeches based on information that may or may not be correct / <B> ah / <A> and it's whatever is politically expedient for him to say rather than the truth / <B> yeah",
     "context_start": 291.58,
-    "context_end": 311.831375,
+    "context_end": 312.06649999999996,
     "feedback": [
         {
-            "name": "PS_131_wow",
+            "name": "spontA_071_oh",
             "start": 297.55,
-            "end": 298.527625,
-            "token": "wow"
+            "end": 298.1675,
+            "token": "oh"
         },
         {
-            "name": "Nu_033_pardon",
+            "name": "PS_051_ah",
             "start": 306.32,
-            "end": 307.02325,
-            "token": "pardon"
+            "end": 307.37399999999997,
+            "token": "ah"
         },
         {
-            "name": "spontA_413_uh-huh",
+            "name": "spontF_294_yeah",
             "start": 311.33,
-            "end": 311.831375,
-            "token": "uh-huh"
+            "end": 312.06649999999996,
+            "token": "yeah"
         }
     ]
 }

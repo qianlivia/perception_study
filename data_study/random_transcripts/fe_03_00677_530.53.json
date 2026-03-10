@@ -1,38 +1,38 @@
 {
     "name": "fe_03_00677",
     "context_channel": 1,
-    "context_text": "<A> and but know what i don't care what you do { i } / <B> [ hm ] / <A> don't care what kind of security you got i don't care what they do how much money they spend you can't prevent it / <B> mhm / <A> you cannot prevent it / <B> wow / <A> you know so if if if you let even if they have security at the airport and / <B> yeah / <A> everything and everybody feels safe and everything / <B> yeah",
+    "context_text": "<A> and but know what i don't care what you do { i } / <B> [ yes ] / <A> don't care what kind of security you got i don't care what they do how much money they spend you can't prevent it / <B> no / <A> you cannot prevent it / <B> ooh / <A> you know so if if if you let even if they have security at the airport and / <B> yeah / <A> everything and everybody feels safe and everything / <B> yeah",
     "context_start": 530.53,
-    "context_end": 552.5405000000001,
+    "context_end": 552.26125,
     "feedback": [
         {
-            "name": "NS_102_hm",
+            "name": "PR_024_yes",
             "start": 533.34,
-            "end": 534.193,
-            "token": "hm"
+            "end": 534.3375,
+            "token": "yes"
         },
         {
-            "name": "spontD_204_mhm",
+            "name": "sun2_033_no",
             "start": 540.19,
-            "end": 540.8402500000001,
-            "token": "mhm"
+            "end": 541.44275,
+            "token": "no"
         },
         {
-            "name": "spontA_261_wow",
+            "name": "NegS_060_ooh",
             "start": 542.07,
-            "end": 542.7191250000001,
-            "token": "wow"
+            "end": 543.134,
+            "token": "ooh"
         },
         {
-            "name": "spontF_243_yeah",
+            "name": "spontC_194_yeah",
             "start": 547.87,
-            "end": 548.712625,
+            "end": 548.5295,
             "token": "yeah"
         },
         {
-            "name": "spontA_016_yeah",
+            "name": "spontB_384_yeah",
             "start": 551.58,
-            "end": 552.5405000000001,
+            "end": 552.26125,
             "token": "yeah"
         }
     ]

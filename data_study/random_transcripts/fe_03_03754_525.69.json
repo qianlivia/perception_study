@@ -1,27 +1,27 @@
 {
     "name": "fe_03_03754",
     "context_channel": 0,
-    "context_text": "<B> you can make an okay income but it is a lot of leg work and i guess i've just been doing it for about a year { and } / <A> [ no ] / <B> what's made it worthwhile for me i mean i'm making to keep to keep this in the realm of minimum wage i'm making more than minimum wage um { but } / <A> [ hm ] / <B> i am not making a lot and it is it does take quite a bit of time but i am so glad to be free of being tied to a desk in an office { it } / <A> [ uh-hah ]",
+    "context_text": "<B> you can make an okay income but it is a lot of leg work and i guess i've just been doing it for about a year { and } / <A> [ uh-huh ] / <B> what's made it worthwhile for me i mean i'm making to keep to keep this in the realm of minimum wage i'm making more than minimum wage um { but } / <A> [ ooh ] / <B> i am not making a lot and it is it does take quite a bit of time but i am so glad to be free of being tied to a desk in an office { it } / <A> [ yeah ]",
     "context_start": 525.69,
-    "context_end": 553.060875,
+    "context_end": 552.8198749999999,
     "feedback": [
         {
-            "name": "NR_083_no",
+            "name": "spontA_254_uh-huh",
             "start": 532.76,
-            "end": 533.93925,
-            "token": "no"
+            "end": 533.1585,
+            "token": "uh-huh"
         },
         {
-            "name": "NS_073_hm",
+            "name": "NegS_060_ooh",
             "start": 540.47,
-            "end": 541.403125,
-            "token": "hm"
+            "end": 541.534,
+            "token": "ooh"
         },
         {
-            "name": "sun1_013_uh-hah",
+            "name": "spontA_015_yeah",
             "start": 552.05,
-            "end": 553.060875,
-            "token": "uh-hah"
+            "end": 552.8198749999999,
+            "token": "yeah"
         }
     ]
 }

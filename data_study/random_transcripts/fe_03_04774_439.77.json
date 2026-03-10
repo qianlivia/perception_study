@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04774",
     "context_channel": 0,
-    "context_text": "<B> and i used to go to clubs all the time and to talk to someone who had that stinking smoke breath / <A> okay / <B> you know or anything like that or to go in someone's car { that smells like } / <A> [ yes ] / <B> an ashtray like my sister used my car one day and i told her not to smoke in my car { and whenever she } / <A> [ oh ] / <B> comes in my car i tell her she can't smoke / <A> wow",
+    "context_text": "<B> and i used to go to clubs all the time and to talk to someone who had that stinking smoke breath / <A> oh / <B> you know or anything like that or to go in someone's car { that smells like } / <A> [ ooh ] / <B> an ashtray like my sister used my car one day and i told her not to smoke in my car { and whenever she } / <A> [ no ] / <B> comes in my car i tell her she can't smoke / <A> yeah",
     "context_start": 439.77,
-    "context_end": 459.743625,
+    "context_end": 459.506875,
     "feedback": [
         {
-            "name": "spontD_089_okay",
+            "name": "spontC_320_oh",
             "start": 446.05,
-            "end": 446.855125,
-            "token": "okay"
-        },
-        {
-            "name": "PR_009_yes",
-            "start": 450.0,
-            "end": 450.781125,
-            "token": "yes"
-        },
-        {
-            "name": "spontD_379_oh",
-            "start": 455.83,
-            "end": 456.927125,
+            "end": 447.26525000000004,
             "token": "oh"
         },
         {
-            "name": "PS_173_wow",
+            "name": "PS_138_ooh",
+            "start": 450.0,
+            "end": 451.123,
+            "token": "ooh"
+        },
+        {
+            "name": "sun_018_no",
+            "start": 455.83,
+            "end": 456.558875,
+            "token": "no"
+        },
+        {
+            "name": "spontE_124_yeah",
             "start": 458.62,
-            "end": 459.743625,
-            "token": "wow"
+            "end": 459.506875,
+            "token": "yeah"
         }
     ]
 }

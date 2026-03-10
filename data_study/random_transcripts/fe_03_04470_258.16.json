@@ -1,39 +1,39 @@
 {
     "name": "fe_03_04470",
     "context_channel": 1,
-    "context_text": "<A> realize that if you have a face that everybody is you know created equal or has { the same } / <B> [ yes ] / <A> whatever it's exact same beliefs you / <B> uh-huh / <A> you believe that you know for you to hold these beliefs that everyone else has has their own and you ought to respect { them } / <B> [ gosh ] / <A> and you ought to use that as your your basis for you know relating to others / <B> yeah / <A> and and you know the schools that kinda get in trouble that you know that they don't want people to you know there there's a whether it's you know the aclu or whether it's the you know the religious read or any of these you know certain interest groups that are putting pressure on the educators to to force them to to not offend anybody or to not you know and so in which case it's totally been homogenized and there's there's nothing there any more / <B> oh",
+    "context_text": "<A> realize that if you have a face that everybody is you know created equal or has { the same } / <B> [ yeah ] / <A> whatever it's exact same beliefs you / <B> wow / <A> you believe that you know for you to hold these beliefs that everyone else has has their own and you ought to respect { them } / <B> [ uh-huh ] / <A> and you ought to use that as your your basis for you know relating to others / <B> no / <A> and and you know the schools that kinda get in trouble that you know that they don't want people to you know there there's a whether it's you know the aclu or whether it's the you know the religious read or any of these you know certain interest groups that are putting pressure on the educators to to force them to to not offend anybody or to not you know and so in which case it's totally been homogenized and there's there's nothing there any more / <B> okay",
     "context_start": 258.16,
-    "context_end": 300.81875,
+    "context_end": 300.944125,
     "feedback": [
         {
-            "name": "PR_022_yes",
+            "name": "spontF_238_yeah",
             "start": 263.04,
-            "end": 264.058625,
-            "token": "yes"
-        },
-        {
-            "name": "spontB_002_uh-huh",
-            "start": 265.38,
-            "end": 265.86025,
-            "token": "uh-huh"
-        },
-        {
-            "name": "NegS_066_gosh",
-            "start": 271.21,
-            "end": 272.358125,
-            "token": "gosh"
-        },
-        {
-            "name": "spontB_143_yeah",
-            "start": 275.44,
-            "end": 276.116125,
+            "end": 263.630875,
             "token": "yeah"
         },
         {
-            "name": "spontE_293_oh",
+            "name": "PS_115_wow",
+            "start": 265.38,
+            "end": 266.471,
+            "token": "wow"
+        },
+        {
+            "name": "spontD_107_uh-huh",
+            "start": 271.21,
+            "end": 271.8365,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_267_no",
+            "start": 275.44,
+            "end": 276.235,
+            "token": "no"
+        },
+        {
+            "name": "spontF_074_okay",
             "start": 300.3,
-            "end": 300.81875,
-            "token": "oh"
+            "end": 300.944125,
+            "token": "okay"
         }
     ]
 }

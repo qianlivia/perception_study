@@ -1,39 +1,39 @@
 {
     "name": "fe_03_02066",
     "context_channel": 0,
-    "context_text": "<B> that are asked because you and i may have a opinion and someone else may have another / <A> aww / <B> totally different from what w uh we're talking about they move people move to different cities for jobs and things of that sort / <A> no / <B> what is -ever 's available in that city i moved here b because i retired { but you're } / <A> [ huh ] / <B> here because you're in the military / <A> uh-huh / <B> there's always a reason / <A> pardon",
+    "context_text": "<B> that are asked because you and i may have a opinion and someone else may have another / <A> yeah / <B> totally different from what w uh we're talking about they move people move to different cities for jobs and things of that sort / <A> mhm / <B> what is -ever 's available in that city i moved here b because i retired { but you're } / <A> [ oh ] / <B> here because you're in the military / <A> uh-huh / <B> there's always a reason / <A> yeah",
     "context_start": 513.27,
-    "context_end": 536.086625,
+    "context_end": 536.0796250000001,
     "feedback": [
         {
-            "name": "spontF_363_aww",
+            "name": "spontC_266_yeah",
             "start": 518.42,
-            "end": 518.992625,
-            "token": "aww"
+            "end": 518.979375,
+            "token": "yeah"
         },
         {
-            "name": "NR_027_no",
+            "name": "spontB_307_mhm",
             "start": 525.96,
-            "end": 526.780375,
-            "token": "no"
+            "end": 526.5673750000001,
+            "token": "mhm"
         },
         {
-            "name": "PS_021_huh",
+            "name": "spontD_379_oh",
             "start": 531.05,
-            "end": 531.729875,
-            "token": "huh"
+            "end": 532.147125,
+            "token": "oh"
         },
         {
-            "name": "spontB_318_uh-huh",
+            "name": "spontD_276_uh-huh",
             "start": 533.53,
-            "end": 534.206375,
+            "end": 533.971375,
             "token": "uh-huh"
         },
         {
-            "name": "Nu_052_pardon",
+            "name": "spontD_267_yeah",
             "start": 535.33,
-            "end": 536.086625,
-            "token": "pardon"
+            "end": 536.0796250000001,
+            "token": "yeah"
         }
     ]
 }

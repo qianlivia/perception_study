@@ -1,57 +1,57 @@
 {
     "name": "fe_03_00648",
     "context_channel": 1,
-    "context_text": "<A> um yes and i forget who c oh i know i was i was on my way to a county about twenty five miles and when i had my radio on / <B> oh / <A> and they were talking about it but i didn't think it was a real thing you know / <B> right / <A> because i think when i when it was on there it was when uh the plane hit the second building / <B> yeah / <A> and he an the weather i mean the news guy was saying that another plane had hit the other tower and i wasn't sure what he was talking about / <B> wow / <A> and uh you know i listened a bit and then when i got back i stopped at my sister's and she was watching it on tv / <B> yeah / <A> but i didn't know you know what it was or anything till i got back because i thought it was just some kind of story on the radio i didn't think it was something was really happening / <B> mmm / <A> but no i i don't guess it's affected my life much except um really don't want to do again and / <B> yeah / <A> then after every time you hear a plane / <B> pardon",
+    "context_text": "<A> um yes and i forget who c oh i know i was i was on my way to a county about twenty five miles and when i had my radio on / <B> uh-huh / <A> and they were talking about it but i didn't think it was a real thing you know / <B> yeah / <A> because i think when i when it was on there it was when uh the plane hit the second building / <B> mhm / <A> and he an the weather i mean the news guy was saying that another plane had hit the other tower and i wasn't sure what he was talking about / <B> uh-huh / <A> and uh you know i listened a bit and then when i got back i stopped at my sister's and she was watching it on tv / <B> yeah / <A> but i didn't know you know what it was or anything till i got back because i thought it was just some kind of story on the radio i didn't think it was something was really happening / <B> oh / <A> but no i i don't guess it's affected my life much except um really don't want to do again and / <B> yes / <A> then after every time you hear a plane / <B> okay",
     "context_start": 344.98,
-    "context_end": 406.86775,
+    "context_end": 406.609,
     "feedback": [
         {
-            "name": "spontE_301_oh",
+            "name": "spontC_303_uh-huh",
             "start": 355.76,
-            "end": 356.77524999999997,
+            "end": 356.289375,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontB_373_yeah",
+            "start": 361.53,
+            "end": 361.94149999999996,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_348_mhm",
+            "start": 367.5,
+            "end": 368.09,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_069_uh-huh",
+            "start": 377.26,
+            "end": 377.75487499999997,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontE_150_yeah",
+            "start": 385.02,
+            "end": 385.427125,
+            "token": "yeah"
+        },
+        {
+            "name": "Sy_016_oh",
+            "start": 395.32,
+            "end": 396.79925,
             "token": "oh"
         },
         {
-            "name": "sun_028_right",
-            "start": 361.53,
-            "end": 362.259375,
-            "token": "right"
-        },
-        {
-            "name": "PR_035_yeah",
-            "start": 367.5,
-            "end": 368.298625,
-            "token": "yeah"
-        },
-        {
-            "name": "PS_139_wow",
-            "start": 377.26,
-            "end": 378.53175,
-            "token": "wow"
-        },
-        {
-            "name": "spontB_052_yeah",
-            "start": 385.02,
-            "end": 385.51737499999996,
-            "token": "yeah"
-        },
-        {
-            "name": "Sy_048_mmm",
-            "start": 395.32,
-            "end": 396.201375,
-            "token": "mmm"
-        },
-        {
-            "name": "PR_052_yeah",
+            "name": "sun1_027_yes",
             "start": 402.99,
-            "end": 403.840875,
-            "token": "yeah"
+            "end": 403.7305,
+            "token": "yes"
         },
         {
-            "name": "Nu_016_pardon",
+            "name": "spontD_022_okay",
             "start": 406.14,
-            "end": 406.86775,
-            "token": "pardon"
+            "end": 406.609,
+            "token": "okay"
         }
     ]
 }

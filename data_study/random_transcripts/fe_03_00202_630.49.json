@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00202",
     "context_channel": 1,
-    "context_text": "<A> um so that was really really great so everyone would always just go home for easter or whatever / <B> wow / <A> and then now um i'm at a different school and we don't get any time off at all for easter / <B> right / <A> and i remember i had class like on good friday and i was thinking you know i really don't wanna go to class like i and i'm sure i probably could've gotten out of it and it probably wouldn't have been a big deal at all but i ended up going after all just 'cause you know it's kind of a pain if you have to miss and especially that late in the semester { i } / <B> [ yeah ] / <A> would've gotten behind it was a math class so / <B> ooh",
+    "context_text": "<A> um so that was really really great so everyone would always just go home for easter or whatever / <B> uh-huh / <A> and then now um i'm at a different school and we don't get any time off at all for easter / <B> oh / <A> and i remember i had class like on good friday and i was thinking you know i really don't wanna go to class like i and i'm sure i probably could've gotten out of it and it probably wouldn't have been a big deal at all but i ended up going after all just 'cause you know it's kind of a pain if you have to miss and especially that late in the semester { i } / <B> [ yeah ] / <A> would've gotten behind it was a math class so / <B> mhm",
     "context_start": 630.49,
-    "context_end": 664.1256249999999,
+    "context_end": 663.5498749999999,
     "feedback": [
         {
-            "name": "PS_145_wow",
+            "name": "spontA_279_uh-huh",
             "start": 635.02,
-            "end": 635.9135,
-            "token": "wow"
+            "end": 635.652625,
+            "token": "uh-huh"
         },
         {
-            "name": "spontC_360_right",
+            "name": "Sy_011_oh",
             "start": 641.05,
-            "end": 641.628875,
-            "token": "right"
+            "end": 642.2881249999999,
+            "token": "oh"
         },
         {
-            "name": "spontB_238_yeah",
+            "name": "spontE_272_yeah",
             "start": 660.23,
-            "end": 661.2085000000001,
+            "end": 660.9523750000001,
             "token": "yeah"
         },
         {
-            "name": "spontA_050_ooh",
+            "name": "spontD_115_mhm",
             "start": 663.06,
-            "end": 664.1256249999999,
-            "token": "ooh"
+            "end": 663.5498749999999,
+            "token": "mhm"
         }
     ]
 }

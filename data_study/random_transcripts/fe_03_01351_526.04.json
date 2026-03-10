@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01351",
     "context_channel": 0,
-    "context_text": "<B> the home school i i'm not saying i'm against home schooling { i'm } / <A> [ yeah ] / <B> you know uh if you can get the education get it you { know i } / <A> [ uh-huh ] / <B> went to parochial school also um and that was pretty cool versus public school so i've got that you know that experience of having both / <A> oh / <B> um but there's nothing like that bonding that { i } / <A> [ hm ]",
+    "context_text": "<B> the home school i i'm not saying i'm against home schooling { i'm } / <A> [ okay ] / <B> you know uh if you can get the education get it you { know i } / <A> [ yeah ] / <B> went to parochial school also um and that was pretty cool versus public school so i've got that you know that experience of having both / <A> uh-huh / <B> um but there's nothing like that bonding that { i } / <A> [ no ]",
     "context_start": 526.04,
-    "context_end": 549.443,
+    "context_end": 549.1598749999999,
     "feedback": [
         {
-            "name": "spontC_389_yeah",
+            "name": "spontF_518_okay",
             "start": 529.65,
-            "end": 530.168,
+            "end": 530.356,
+            "token": "okay"
+        },
+        {
+            "name": "spont_220_yeah",
+            "start": 533.37,
+            "end": 534.076625,
             "token": "yeah"
         },
         {
-            "name": "spontF_206_uh-huh",
-            "start": 533.37,
-            "end": 533.798375,
+            "name": "spontC_097_uh-huh",
+            "start": 542.65,
+            "end": 543.107625,
             "token": "uh-huh"
         },
         {
-            "name": "PS_027_oh",
-            "start": 542.65,
-            "end": 543.920625,
-            "token": "oh"
-        },
-        {
-            "name": "sun2_027_hm",
+            "name": "NR_039_no",
             "start": 548.53,
-            "end": 549.443,
-            "token": "hm"
+            "end": 549.1598749999999,
+            "token": "no"
         }
     ]
 }

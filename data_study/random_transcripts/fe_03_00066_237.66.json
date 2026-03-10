@@ -1,32 +1,32 @@
 {
     "name": "fe_03_00066",
     "context_channel": 1,
-    "context_text": "<A> oh that's good well i think i i seldom do exercise but well i i i'm not a beast or yeah { but } / <B> [ yeah ] / <A> yeah i think that's okay and i i didn't feel any uhm uncomfortable if i do or do not exercise / <B> no / <A> yeah i think it's just a matter of time because sometimes i i just too busy with other things or / <B> yeah / <A> and didn't think about doing exercise / <B> yeah",
+    "context_text": "<A> oh that's good well i think i i seldom do exercise but well i i i'm not a beast or yeah { but } / <B> [ yeah ] / <A> yeah i think that's okay and i i didn't feel any uhm uncomfortable if i do or do not exercise / <B> mhm / <A> yeah i think it's just a matter of time because sometimes i i just too busy with other things or / <B> no / <A> and didn't think about doing exercise / <B> yeah",
     "context_start": 237.66,
-    "context_end": 272.73949999999996,
+    "context_end": 272.806625,
     "feedback": [
         {
-            "name": "spontF_380_yeah",
+            "name": "spontA_414_yeah",
             "start": 251.71,
-            "end": 252.3235,
+            "end": 252.18787500000002,
             "token": "yeah"
         },
         {
-            "name": "NR_100_no",
+            "name": "spontA_393_mhm",
             "start": 262.31,
-            "end": 263.04075,
+            "end": 263.013125,
+            "token": "mhm"
+        },
+        {
+            "name": "sun_040_no",
+            "start": 269.41,
+            "end": 270.05187500000005,
             "token": "no"
         },
         {
-            "name": "spontE_228_yeah",
-            "start": 269.41,
-            "end": 270.02112500000004,
-            "token": "yeah"
-        },
-        {
-            "name": "spontC_194_yeah",
+            "name": "spontA_421_yeah",
             "start": 272.08,
-            "end": 272.73949999999996,
+            "end": 272.806625,
             "token": "yeah"
         }
     ]

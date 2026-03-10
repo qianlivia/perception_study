@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01616",
     "context_channel": 1,
-    "context_text": "<A> yeah i saw that last on last night on fox news that some of the like suicide bombers are are trying to attack soldiers there and but maybe that's just remnants of what's been going on in iraq / <B> no / <A> yeah i think for the most part afghanistan i think the afghan afghanistan people are much more happy with what the change in their government and stuff / <B> yeah / <A> than what's going on with iraq right now i don't know if they really have any particular group of people that really want to run iraq / <B> uh-huh / <A> a lot of them want to but i don't know if they if much of em know what it's like especially to have a democratic society / <B> yeah",
+    "context_text": "<A> yeah i saw that last on last night on fox news that some of the like suicide bombers are are trying to attack soldiers there and but maybe that's just remnants of what's been going on in iraq / <B> uh-huh / <A> yeah i think for the most part afghanistan i think the afghan afghanistan people are much more happy with what the change in their government and stuff / <B> no / <A> than what's going on with iraq right now i don't know if they really have any particular group of people that really want to run iraq / <B> ooh / <A> a lot of them want to but i don't know if they if much of em know what it's like especially to have a democratic society / <B> oh",
     "context_start": 443.66,
-    "context_end": 503.7055,
+    "context_end": 503.986625,
     "feedback": [
         {
-            "name": "NR_119_no",
+            "name": "spontA_406_uh-huh",
             "start": 461.99,
-            "end": 462.75025,
-            "token": "no"
-        },
-        {
-            "name": "spontE_062_yeah",
-            "start": 476.72,
-            "end": 477.38212500000003,
-            "token": "yeah"
-        },
-        {
-            "name": "spontE_166_uh-huh",
-            "start": 493.23,
-            "end": 493.77137500000003,
+            "end": 462.596375,
             "token": "uh-huh"
         },
         {
-            "name": "spontF_020_yeah",
+            "name": "NR_046_no",
+            "start": 476.72,
+            "end": 477.50025000000005,
+            "token": "no"
+        },
+        {
+            "name": "NegS_052_ooh",
+            "start": 493.23,
+            "end": 493.938125,
+            "token": "ooh"
+        },
+        {
+            "name": "NS_014_oh",
             "start": 503.19,
-            "end": 503.7055,
-            "token": "yeah"
+            "end": 503.986625,
+            "token": "oh"
         }
     ]
 }

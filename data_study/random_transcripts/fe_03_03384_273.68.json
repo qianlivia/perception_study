@@ -1,39 +1,39 @@
 {
     "name": "fe_03_03384",
     "context_channel": 1,
-    "context_text": "<A> exa exactly and one of the things too i was i was uh one of my markers i was looking for a life partner is someone who when who'd be fidel / <B> oh / <A> okay uh that wouldn't cheat / <B> yeah / <A> because i mean that's the that's the core of it { but } / <B> [ okay ] / <A> i'm looking out uh i was looking around and you know like you could see in advance that no they're not going to you know they may be uh for a while but they will not be for a lifetime / <B> yes / <A> and it's really really hard to to thin through the the smokescreens / <B> no",
+    "context_text": "<A> exa exactly and one of the things too i was i was uh one of my markers i was looking for a life partner is someone who when who'd be fidel / <B> oh / <A> okay uh that wouldn't cheat / <B> no / <A> because i mean that's the that's the core of it { but } / <B> [ yeah ] / <A> i'm looking out uh i was looking around and you know like you could see in advance that no they're not going to you know they may be uh for a while but they will not be for a lifetime / <B> oh / <A> and it's really really hard to to thin through the the smokescreens / <B> oh",
     "context_start": 273.68,
-    "context_end": 308.67925,
+    "context_end": 309.61775,
     "feedback": [
         {
-            "name": "spontF_277_oh",
+            "name": "spontB_365_oh",
             "start": 284.71,
-            "end": 285.27824999999996,
+            "end": 285.30424999999997,
             "token": "oh"
         },
         {
-            "name": "spontA_127_yeah",
+            "name": "NR_063_no",
             "start": 287.26,
-            "end": 287.9115,
+            "end": 288.02,
+            "token": "no"
+        },
+        {
+            "name": "spontD_230_yeah",
+            "start": 290.73,
+            "end": 291.3555,
             "token": "yeah"
         },
         {
-            "name": "spontA_257_okay",
-            "start": 290.73,
-            "end": 291.3585,
-            "token": "okay"
-        },
-        {
-            "name": "PR_050_yes",
+            "name": "PS_040_oh",
             "start": 302.21,
-            "end": 303.01275,
-            "token": "yes"
+            "end": 304.10675,
+            "token": "oh"
         },
         {
-            "name": "NR_069_no",
+            "name": "PS_012_oh",
             "start": 307.92,
-            "end": 308.67925,
-            "token": "no"
+            "end": 309.61775,
+            "token": "oh"
         }
     ]
 }

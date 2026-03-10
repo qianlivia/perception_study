@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00202",
     "context_channel": 0,
-    "context_text": "<B> because i i had always known about hanukkah { but i'd } / <A> [ wow ] / <B> but i'd never known that that was kind of secondary in that these two holidays were much more important { and } / <A> [ mhm ] / <B> um kind of when they started giving them off it was something that um i realized and that / <A> wow / <B> i saw but { that was just one } / <A> [ wow ]",
+    "context_text": "<B> because i i had always known about hanukkah { but i'd } / <A> [ no ] / <B> but i'd never known that that was kind of secondary in that these two holidays were much more important { and } / <A> [ absolutely ] / <B> um kind of when they started giving them off it was something that um i realized and that / <A> uh-huh / <B> i saw but { that was just one } / <A> [ no ]",
     "context_start": 535.29,
-    "context_end": 556.1669999999999,
+    "context_end": 555.70475,
     "feedback": [
         {
-            "name": "PS_075_wow",
+            "name": "NR_002_no",
             "start": 539.24,
-            "end": 540.48925,
-            "token": "wow"
+            "end": 540.009125,
+            "token": "no"
         },
         {
-            "name": "spontC_496_mhm",
+            "name": "sun_002_absolutely",
             "start": 544.92,
-            "end": 545.512125,
-            "token": "mhm"
+            "end": 545.9654999999999,
+            "token": "absolutely"
         },
         {
-            "name": "PS_101_wow",
+            "name": "spontE_090_uh-huh",
             "start": 551.95,
-            "end": 552.888375,
-            "token": "wow"
+            "end": 552.491625,
+            "token": "uh-huh"
         },
         {
-            "name": "PS_082_wow",
+            "name": "NR_120_no",
             "start": 555.04,
-            "end": 556.1669999999999,
-            "token": "wow"
+            "end": 555.70475,
+            "token": "no"
         }
     ]
 }

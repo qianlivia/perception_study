@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01459",
     "context_channel": 1,
-    "context_text": "<A> know such and such my mother in law just got back from new york as a matter of fact uh last month in march she went up to new york / <B> okay / <A> and she said up there that the people's attitudes were a lot different than what they were down here / <B> no / <A> because uh you know september eleventh { happened } / <B> [ uh-huh ] / <A> up there { and } / <B> [ oh ]",
+    "context_text": "<A> know such and such my mother in law just got back from new york as a matter of fact uh last month in march she went up to new york / <B> right / <A> and she said up there that the people's attitudes were a lot different than what they were down here / <B> yes / <A> because uh you know september eleventh { happened } / <B> [ yeah ] / <A> up there { and } / <B> [ okay ]",
     "context_start": 79.86,
-    "context_end": 100.61025000000001,
+    "context_end": 100.539625,
     "feedback": [
         {
-            "name": "spontC_401_okay",
+            "name": "sun_013_right",
             "start": 88.44,
-            "end": 88.969375,
-            "token": "okay"
+            "end": 89.3135,
+            "token": "right"
         },
         {
-            "name": "sun_040_no",
+            "name": "PS_026_yes",
             "start": 94.84,
-            "end": 95.481875,
-            "token": "no"
+            "end": 95.92987500000001,
+            "token": "yes"
         },
         {
-            "name": "spontF_635_uh-huh",
+            "name": "spontC_117_yeah",
             "start": 98.05,
-            "end": 98.51774999999999,
-            "token": "uh-huh"
+            "end": 98.742625,
+            "token": "yeah"
         },
         {
-            "name": "spontA_065_oh",
+            "name": "spontA_198_okay",
             "start": 99.87,
-            "end": 100.61025000000001,
-            "token": "oh"
+            "end": 100.539625,
+            "token": "okay"
         }
     ]
 }

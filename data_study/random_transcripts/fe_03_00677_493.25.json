@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00677",
     "context_channel": 1,
-    "context_text": "<A> put federal marshalls all over the place / <B> wow / <A> and if anybody has a gun or ah or even dogs / <B> wow / <A> dogs are the best security because of their smell sense of smell / <B> oh / <A> their sense of smell is so so great i mean they could sniff out they can sniff out anything / <B> uh-huh",
+    "context_text": "<A> put federal marshalls all over the place / <B> oh / <A> and if anybody has a gun or ah or even dogs / <B> uh-huh / <A> dogs are the best security because of their smell sense of smell / <B> yeah / <A> their sense of smell is so so great i mean they could sniff out they can sniff out anything / <B> yeah",
     "context_start": 493.25,
-    "context_end": 513.9478750000001,
+    "context_end": 514.2545,
     "feedback": [
         {
-            "name": "PS_024_wow",
+            "name": "Sy_023_oh",
             "start": 495.02,
-            "end": 496.54724999999996,
-            "token": "wow"
-        },
-        {
-            "name": "PS_156_wow",
-            "start": 500.9,
-            "end": 501.84074999999996,
-            "token": "wow"
-        },
-        {
-            "name": "PS_193_oh",
-            "start": 507.04,
-            "end": 508.847125,
+            "end": 496.12037499999997,
             "token": "oh"
         },
         {
-            "name": "spontD_026_uh-huh",
-            "start": 513.48,
-            "end": 513.9478750000001,
+            "name": "spontA_361_uh-huh",
+            "start": 500.9,
+            "end": 501.415125,
             "token": "uh-huh"
+        },
+        {
+            "name": "spontC_255_yeah",
+            "start": 507.04,
+            "end": 507.617875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_048_yeah",
+            "start": 513.48,
+            "end": 514.2545,
+            "token": "yeah"
         }
     ]
 }

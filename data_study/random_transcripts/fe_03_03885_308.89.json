@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03885",
     "context_channel": 1,
-    "context_text": "<A> and it's a shame because uh when i think of my parents watching show and many / <B> yeah / <A> other programs you know that they came on and they were clean and the whole family could watch them and you { still } / <B> [ mhm ] / <A> laughed and it was hysterical yet um now i see how things have changed and { it's } / <B> [ yeah ] / <A> really sad { i don't } / <B> [ oh ]",
+    "context_text": "<A> and it's a shame because uh when i think of my parents watching show and many / <B> ooh / <A> other programs you know that they came on and they were clean and the whole family could watch them and you { still } / <B> [ no ] / <A> laughed and it was hysterical yet um now i see how things have changed and { it's } / <B> [ wow ] / <A> really sad { i don't } / <B> [ no ]",
     "context_start": 308.89,
-    "context_end": 330.860875,
+    "context_end": 330.185125,
     "feedback": [
         {
-            "name": "spontC_352_yeah",
+            "name": "spontE_283_ooh",
             "start": 314.17,
-            "end": 314.869125,
-            "token": "yeah"
+            "end": 315.14225,
+            "token": "ooh"
         },
         {
-            "name": "sun1_006_mhm",
+            "name": "NR_012_no",
             "start": 321.43,
-            "end": 322.13,
-            "token": "mhm"
+            "end": 322.233375,
+            "token": "no"
         },
         {
-            "name": "spontF_239_yeah",
+            "name": "PS_082_wow",
             "start": 327.54,
-            "end": 328.52675,
-            "token": "yeah"
+            "end": 328.66700000000003,
+            "token": "wow"
         },
         {
-            "name": "PS_028_oh",
+            "name": "sun_033_no",
             "start": 329.1,
-            "end": 330.860875,
-            "token": "oh"
+            "end": 330.185125,
+            "token": "no"
         }
     ]
 }

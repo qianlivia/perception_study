@@ -1,27 +1,27 @@
 {
     "name": "fe_03_03102",
     "context_channel": 1,
-    "context_text": "<A> but then there's like a awful lot of people that are like kind of come in come out but i haven't met a whole lot of people that have like have come here right after you know either grad school or or undergrad and then stayed / <B> uh-huh / <A> for a really long time { it's } / <B> [ absolutely ] / <A> kind of a transient area people { just kinda } / <B> [ wooh ]",
+    "context_text": "<A> but then there's like a awful lot of people that are like kind of come in come out but i haven't met a whole lot of people that have like have come here right after you know either grad school or or undergrad and then stayed / <B> yeah / <A> for a really long time { it's } / <B> [ uh-huh ] / <A> kind of a transient area people { just kinda } / <B> [ uh-huh ]",
     "context_start": 399.5,
-    "context_end": 413.329625,
+    "context_end": 413.001375,
     "feedback": [
         {
-            "name": "spontB_002_uh-huh",
+            "name": "spontA_110_yeah",
             "start": 409.44,
-            "end": 409.92025,
+            "end": 410.372125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_081_uh-huh",
+            "start": 410.82,
+            "end": 411.329125,
             "token": "uh-huh"
         },
         {
-            "name": "sun_024_absolutely",
-            "start": 410.82,
-            "end": 412.159,
-            "token": "absolutely"
-        },
-        {
-            "name": "NegS_012_wooh",
+            "name": "spontE_378_uh-huh",
             "start": 412.48,
-            "end": 413.329625,
-            "token": "wooh"
+            "end": 413.001375,
+            "token": "uh-huh"
         }
     ]
 }

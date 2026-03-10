@@ -1,45 +1,45 @@
 {
     "name": "fe_03_04640",
     "context_channel": 1,
-    "context_text": "<A> i wouldn't do it i have two kids i wouldn't do it i wouldn't i wouldn't let my son or my daughter just sit there and and and play them games { it's } / <B> [ yeah ] / <A> it's i it's kinda like dulling of the mind / <B> yeah / <A> because all that's all they wanna do and then you know maybe it gets a little intriguing if you're young but then after you know you want to run home and you wanna play the game and that's all you wanna do / <B> yeah / <A> so instead of doing something more constructive you're sitting there on the couch and the next thing you know five hours went by / <B> no / <A> your con ed bill just went up and now that you're saying that you got to pay fifty dollars online that's that's gonna be expensive especially for a young person / <B> oh / <A> cause they gonna be the one that winds up paying for it if i was to do it it would be me / <B> gosh",
+    "context_text": "<A> i wouldn't do it i have two kids i wouldn't do it i wouldn't i wouldn't let my son or my daughter just sit there and and and play them games { it's } / <B> [ wow ] / <A> it's i it's kinda like dulling of the mind / <B> uh-huh / <A> because all that's all they wanna do and then you know maybe it gets a little intriguing if you're young but then after you know you want to run home and you wanna play the game and that's all you wanna do / <B> mhm / <A> so instead of doing something more constructive you're sitting there on the couch and the next thing you know five hours went by / <B> ooh / <A> your con ed bill just went up and now that you're saying that you got to pay fifty dollars online that's that's gonna be expensive especially for a young person / <B> yeah / <A> cause they gonna be the one that winds up paying for it if i was to do it it would be me / <B> oh",
     "context_start": 499.91,
-    "context_end": 547.2381250000001,
+    "context_end": 546.9216250000001,
     "feedback": [
         {
-            "name": "spontD_375_yeah",
+            "name": "PS_183_wow",
             "start": 507.99,
-            "end": 508.414625,
-            "token": "yeah"
+            "end": 508.79525,
+            "token": "wow"
         },
         {
-            "name": "spontF_136_yeah",
+            "name": "spontE_081_uh-huh",
             "start": 512.2,
-            "end": 512.69475,
-            "token": "yeah"
+            "end": 512.7091250000001,
+            "token": "uh-huh"
         },
         {
-            "name": "spontB_349_yeah",
+            "name": "spontB_240_mhm",
             "start": 522.54,
-            "end": 523.46425,
+            "end": 523.0258749999999,
+            "token": "mhm"
+        },
+        {
+            "name": "NegS_013_ooh",
+            "start": 530.92,
+            "end": 531.7686249999999,
+            "token": "ooh"
+        },
+        {
+            "name": "spontB_026_yeah",
+            "start": 541.28,
+            "end": 541.8695,
             "token": "yeah"
         },
         {
-            "name": "NR_013_no",
-            "start": 530.92,
-            "end": 531.4862499999999,
-            "token": "no"
-        },
-        {
-            "name": "PS_010_oh",
-            "start": 541.28,
-            "end": 542.716,
-            "token": "oh"
-        },
-        {
-            "name": "NegS_066_gosh",
+            "name": "PS_035_oh",
             "start": 546.09,
-            "end": 547.2381250000001,
-            "token": "gosh"
+            "end": 546.9216250000001,
+            "token": "oh"
         }
     ]
 }

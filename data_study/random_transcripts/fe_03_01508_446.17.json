@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01508",
     "context_channel": 1,
-    "context_text": "<A> [ right yeah that's ] something i i can like even now i i just can't help but think about it you know just the way they it's not as bad as when it first was but it's just the way that you have to go through these checks now and / <B> okay / <A> um even when i when um i fly with my son a lot too and even one time i was flying with him and the and just the scrutiny that they went over him and you know that had never happened before like { they were } / <B> [ mhm ] / <A> like asking to take his shoes off because what they do is it seems like i guess um every so many people they randomly have to just stop whoever the person is / <B> pardon / <A> and um they give you old person young person in his case and i was you know annoyed because they were like putting him through all this and i guess i was trying to understand and be understanding but { i just } / <B> [ yeah ]",
+    "context_text": "<A> [ right yeah that's ] something i i can like even now i i just can't help but think about it you know just the way they it's not as bad as when it first was but it's just the way that you have to go through these checks now and / <B> mhm / <A> um even when i when um i fly with my son a lot too and even one time i was flying with him and the and just the scrutiny that they went over him and you know that had never happened before like { they were } / <B> [ yeah ] / <A> like asking to take his shoes off because what they do is it seems like i guess um every so many people they randomly have to just stop whoever the person is / <B> yeah / <A> and um they give you old person young person in his case and i was you know annoyed because they were like putting him through all this and i guess i was trying to understand and be understanding but { i just } / <B> [ no ]",
     "context_start": 446.17,
-    "context_end": 482.854375,
+    "context_end": 483.23312500000003,
     "feedback": [
         {
-            "name": "spontC_401_okay",
+            "name": "spontE_241_mhm",
             "start": 457.83,
-            "end": 458.359375,
-            "token": "okay"
-        },
-        {
-            "name": "spontA_288_mhm",
-            "start": 466.88,
-            "end": 467.476625,
+            "end": 458.37899999999996,
             "token": "mhm"
         },
         {
-            "name": "Nu_025_pardon",
-            "start": 474.86,
-            "end": 475.578125,
-            "token": "pardon"
+            "name": "spontD_393_yeah",
+            "start": 466.88,
+            "end": 467.381875,
+            "token": "yeah"
         },
         {
-            "name": "spontF_624_yeah",
-            "start": 482.36,
-            "end": 482.854375,
+            "name": "spontB_100_yeah",
+            "start": 474.86,
+            "end": 475.53425,
             "token": "yeah"
+        },
+        {
+            "name": "spontA_380_no",
+            "start": 482.36,
+            "end": 483.23312500000003,
+            "token": "no"
         }
     ]
 }

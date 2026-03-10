@@ -1,26 +1,26 @@
 {
     "name": "fe_03_05269",
     "context_channel": 0,
-    "context_text": "<B> far as all i g the one thing i never bought was the idea that he was in league with bin laden because { all } / <A> [ yeah ] / <B> those people had fatwas and ah hits taken out on each other because / <A> oh / <B> as far as they were concerned saddam was was using islam just to to further his { own } / <A> [ yeah ]",
+    "context_text": "<B> far as all i g the one thing i never bought was the idea that he was in league with bin laden because { all } / <A> [ uh-huh ] / <B> those people had fatwas and ah hits taken out on each other because / <A> yeah / <B> as far as they were concerned saddam was was using islam just to to further his { own } / <A> [ yeah ]",
     "context_start": 252.88,
-    "context_end": 272.48275,
+    "context_end": 272.353375,
     "feedback": [
         {
-            "name": "spontA_340_yeah",
+            "name": "spontA_037_uh-huh",
             "start": 259.06,
-            "end": 259.4825,
+            "end": 259.648875,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_319_yeah",
+            "start": 264.74,
+            "end": 265.22950000000003,
             "token": "yeah"
         },
         {
-            "name": "Sy_056_oh",
-            "start": 264.74,
-            "end": 266.02612500000004,
-            "token": "oh"
-        },
-        {
-            "name": "spontA_046_yeah",
+            "name": "spontF_497_yeah",
             "start": 271.79,
-            "end": 272.48275,
+            "end": 272.353375,
             "token": "yeah"
         }
     ]

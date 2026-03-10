@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02575",
     "context_channel": 0,
-    "context_text": "<B> the ah um prior governor was very very unpopular { he } / <A> [ yeah ] / <B> was just he just ah he was very heavy handed ah liked to play a kind of revenge old style gotcha politics / <A> aww / <B> and ah that hurt ah townsend ah you know she got tarred with all the negative aspects of of the incumbent / <A> nuh / <B> but couldn't take any credit for any of the positive aspects so { that ah } / <A> [ wow ]",
+    "context_text": "<B> the ah um prior governor was very very unpopular { he } / <A> [ no ] / <B> was just he just ah he was very heavy handed ah liked to play a kind of revenge old style gotcha politics / <A> yes / <B> and ah that hurt ah townsend ah you know she got tarred with all the negative aspects of of the incumbent / <A> ah / <B> but couldn't take any credit for any of the positive aspects so { that ah } / <A> [ yeah ]",
     "context_start": 377.09,
-    "context_end": 413.10400000000004,
+    "context_end": 412.2045,
     "feedback": [
         {
-            "name": "PR_040_yeah",
+            "name": "NR_086_no",
             "start": 383.08,
-            "end": 383.6885,
-            "token": "yeah"
+            "end": 384.07349999999997,
+            "token": "no"
         },
         {
-            "name": "Sy_046_aww",
+            "name": "sun1_026_yes",
             "start": 395.63,
-            "end": 397.237125,
-            "token": "aww"
+            "end": 396.20525,
+            "token": "yes"
         },
         {
-            "name": "NR_010_nuh",
+            "name": "NS_056_ah",
             "start": 406.26,
-            "end": 407.150375,
-            "token": "nuh"
+            "end": 407.235,
+            "token": "ah"
         },
         {
-            "name": "PS_141_wow",
+            "name": "spontE_161_yeah",
             "start": 411.35,
-            "end": 413.10400000000004,
-            "token": "wow"
+            "end": 412.2045,
+            "token": "yeah"
         }
     ]
 }

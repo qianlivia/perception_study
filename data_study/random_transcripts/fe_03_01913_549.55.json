@@ -1,39 +1,39 @@
 {
     "name": "fe_03_01913",
     "context_channel": 0,
-    "context_text": "<B> about being able to instill values in your own children and you know what i mean and just / <A> uh-huh / <B> not i don't know i just feel like i don't want to trust that to the school system { you know } / <A> [ mhm ] / <B> my family is too important and like i said i did have one that did buck me oh he would have loved to have gone to school we really wrestled with him a lot / <A> yeah / <B> but now he's saying a completely different thing he's { saying } / <A> [ aww ] / <B> you know and he told as a matter of fact he told his younger sister he said if i were would have gone to school i would have gotten into so much trouble / <A> yes",
+    "context_text": "<B> about being able to instill values in your own children and you know what i mean and just / <A> yeah / <B> not i don't know i just feel like i don't want to trust that to the school system { you know } / <A> [ yes ] / <B> my family is too important and like i said i did have one that did buck me oh he would have loved to have gone to school we really wrestled with him a lot / <A> mhm / <B> but now he's saying a completely different thing he's { saying } / <A> [ okay ] / <B> you know and he told as a matter of fact he told his younger sister he said if i were would have gone to school i would have gotten into so much trouble / <A> mhm",
     "context_start": 549.55,
-    "context_end": 585.64825,
+    "context_end": 585.233875,
     "feedback": [
         {
-            "name": "spontA_060_uh-huh",
+            "name": "spontB_384_yeah",
             "start": 555.76,
-            "end": 556.227125,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontA_400_mhm",
-            "start": 560.95,
-            "end": 561.7705000000001,
-            "token": "mhm"
-        },
-        {
-            "name": "spontE_276_yeah",
-            "start": 570.4,
-            "end": 570.86775,
+            "end": 556.44125,
             "token": "yeah"
         },
         {
-            "name": "spontA_038_aww",
-            "start": 575.2,
-            "end": 575.8558750000001,
-            "token": "aww"
+            "name": "PR_003_yes",
+            "start": 560.95,
+            "end": 562.531875,
+            "token": "yes"
         },
         {
-            "name": "PR_019_yes",
+            "name": "spontC_180_mhm",
+            "start": 570.4,
+            "end": 570.9443749999999,
+            "token": "mhm"
+        },
+        {
+            "name": "spontD_279_okay",
+            "start": 575.2,
+            "end": 575.875125,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_315_mhm",
             "start": 584.53,
-            "end": 585.64825,
-            "token": "yes"
+            "end": 585.233875,
+            "token": "mhm"
         }
     ]
 }

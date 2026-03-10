@@ -1,39 +1,39 @@
 {
     "name": "fe_03_04998",
     "context_channel": 0,
-    "context_text": "<B> um f um health and fitness has always been important to me because since i was a young man there's always been something that was emphasized in school / <A> yeah / <B> and um and outside of school as well / <A> mhm / <B> um with sports and things like that i came from because i'm from new jersey originally / <A> yes / <B> i'm from uh south jersey right near philly and uh we come from a big um sports background as far as uh football and basketball has definitely been something { that has } / <A> [ no ] / <B> got a lot of kids off the street and some got to play for big / <A> no",
+    "context_text": "<B> um f um health and fitness has always been important to me because since i was a young man there's always been something that was emphasized in school / <A> wow / <B> and um and outside of school as well / <A> mhm / <B> um with sports and things like that i came from because i'm from new jersey originally / <A> yeah / <B> i'm from uh south jersey right near philly and uh we come from a big um sports background as far as uh football and basketball has definitely been something { that has } / <A> [ oh ] / <B> got a lot of kids off the street and some got to play for big / <A> yeah",
     "context_start": 19.96,
-    "context_end": 56.655875,
+    "context_end": 56.41125,
     "feedback": [
         {
-            "name": "spontE_245_yeah",
+            "name": "PS_176_wow",
             "start": 31.19,
-            "end": 32.010875,
-            "token": "yeah"
+            "end": 32.1875,
+            "token": "wow"
         },
         {
-            "name": "spontF_611_mhm",
+            "name": "spontA_200_mhm",
             "start": 34.53,
-            "end": 35.083125,
+            "end": 35.1045,
             "token": "mhm"
         },
         {
-            "name": "PS_026_yes",
+            "name": "spontD_395_yeah",
             "start": 39.94,
-            "end": 41.029875,
-            "token": "yes"
+            "end": 40.785624999999996,
+            "token": "yeah"
         },
         {
-            "name": "NR_112_no",
+            "name": "sun1_012_oh",
             "start": 50.93,
-            "end": 52.078125,
-            "token": "no"
+            "end": 51.69375,
+            "token": "oh"
         },
         {
-            "name": "NR_072_no",
+            "name": "spontF_287_yeah",
             "start": 55.78,
-            "end": 56.655875,
-            "token": "no"
+            "end": 56.41125,
+            "token": "yeah"
         }
     ]
 }

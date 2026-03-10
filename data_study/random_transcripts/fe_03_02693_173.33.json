@@ -1,27 +1,27 @@
 {
     "name": "fe_03_02693",
     "context_channel": 0,
-    "context_text": "<B> you wait a half a year { so } / <A> [ yeah ] / <B> let's see january february march april may and june / <A> yeah / <B> um i think i'd make new year's eve uh two a and just kind of uh celebrate it the same way / <A> yeah",
+    "context_text": "<B> you wait a half a year { so } / <A> [ right ] / <B> let's see january february march april may and june / <A> oh / <B> um i think i'd make new year's eve uh two a and just kind of uh celebrate it the same way / <A> mhm",
     "context_start": 173.33,
-    "context_end": 188.343125,
+    "context_end": 188.43375,
     "feedback": [
         {
-            "name": "PR_061_yeah",
+            "name": "spontC_360_right",
             "start": 175.0,
-            "end": 175.915625,
-            "token": "yeah"
+            "end": 175.578875,
+            "token": "right"
         },
         {
-            "name": "spontF_111_yeah",
+            "name": "spontD_378_oh",
             "start": 179.28,
-            "end": 180.31175,
-            "token": "yeah"
+            "end": 179.9725,
+            "token": "oh"
         },
         {
-            "name": "spontF_299_yeah",
+            "name": "spontB_284_mhm",
             "start": 187.82,
-            "end": 188.343125,
-            "token": "yeah"
+            "end": 188.43375,
+            "token": "mhm"
         }
     ]
 }

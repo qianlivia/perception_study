@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01206",
     "context_channel": 1,
-    "context_text": "<A> i i mean you know like the the part of having a best friend that money can't buy is that like if if you're in trouble like you went bankruptcy { you } / <B> [ yeah ] / <A> know your best friend will be the one to pick you up and take him to his home to live with him you know / <B> no / <A> but if you have a million dollars if you have a million dollars and something bad happens you know and that million dollar's gone / <B> mmm / <A> you know bad business or something and that million dollar's gone i mean then you have / <B> right",
+    "context_text": "<A> i i mean you know like the the part of having a best friend that money can't buy is that like if if you're in trouble like you went bankruptcy { you } / <B> [ yeah ] / <A> know your best friend will be the one to pick you up and take him to his home to live with him you know / <B> uh-huh / <A> but if you have a million dollars if you have a million dollars and something bad happens you know and that million dollar's gone / <B> uh-huh / <A> you know bad business or something and that million dollar's gone i mean then you have / <B> yeah",
     "context_start": 440.15,
-    "context_end": 472.143375,
+    "context_end": 472.01912500000003,
     "feedback": [
         {
-            "name": "PR_010_yeah",
+            "name": "spontE_355_yeah",
             "start": 449.69,
-            "end": 450.422625,
+            "end": 450.133125,
             "token": "yeah"
         },
         {
-            "name": "NR_100_no",
+            "name": "spontD_152_uh-huh",
             "start": 456.95,
-            "end": 457.68075,
-            "token": "no"
+            "end": 457.506375,
+            "token": "uh-huh"
         },
         {
-            "name": "spontC_289_mmm",
+            "name": "spontA_310_uh-huh",
             "start": 465.22,
-            "end": 466.12050000000005,
-            "token": "mmm"
+            "end": 465.6895,
+            "token": "uh-huh"
         },
         {
-            "name": "sun1_032_right",
+            "name": "spontE_172_yeah",
             "start": 471.3,
-            "end": 472.143375,
-            "token": "right"
+            "end": 472.01912500000003,
+            "token": "yeah"
         }
     ]
 }

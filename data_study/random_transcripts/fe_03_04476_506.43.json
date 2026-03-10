@@ -1,32 +1,32 @@
 {
     "name": "fe_03_04476",
     "context_channel": 0,
-    "context_text": "<B> well she she was trained to handle special situations but unfortunately she had all different special situations and she { couldn't } / <A> [ mhm ] / <B> give anyone the / <A> oh / <B> attention that they needed if she spent her time with the child who couldn't speak english well everyone else was sitting and waiting so um it had gotten to the point where my daughter had to leave the classroom to go for special reading classes / <A> ugh / <B> because uh she wasn't doing anything she was sitting / <A> yeah",
+    "context_text": "<B> well she she was trained to handle special situations but unfortunately she had all different special situations and she { couldn't } / <A> [ oh ] / <B> give anyone the / <A> right / <B> attention that they needed if she spent her time with the child who couldn't speak english well everyone else was sitting and waiting so um it had gotten to the point where my daughter had to leave the classroom to go for special reading classes / <A> yeah / <B> because uh she wasn't doing anything she was sitting / <A> yeah",
     "context_start": 506.43,
-    "context_end": 533.90225,
+    "context_end": 534.046125,
     "feedback": [
         {
-            "name": "spontE_122_mhm",
+            "name": "PS_001_oh",
             "start": 513.0,
-            "end": 513.721375,
-            "token": "mhm"
-        },
-        {
-            "name": "spontF_572_oh",
-            "start": 514.93,
-            "end": 516.0521249999999,
+            "end": 514.08175,
             "token": "oh"
         },
         {
-            "name": "NegS_067_ugh",
-            "start": 529.2,
-            "end": 530.217125,
-            "token": "ugh"
+            "name": "sun1_030_right",
+            "start": 514.93,
+            "end": 515.723625,
+            "token": "right"
         },
         {
-            "name": "spontD_173_yeah",
+            "name": "spontC_076_yeah",
+            "start": 529.2,
+            "end": 529.8876250000001,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_143_yeah",
             "start": 533.37,
-            "end": 533.90225,
+            "end": 534.046125,
             "token": "yeah"
         }
     ]

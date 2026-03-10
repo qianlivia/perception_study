@@ -1,45 +1,45 @@
 {
     "name": "fe_03_01874",
     "context_channel": 1,
-    "context_text": "<A> you know um and and it you know um and this is just my opinion maintaining a family um as as fam well a family unit say is i think one of the most difficult jobs that we have in our in both of our lives because it is so very important to be maintained / <B> mhm / <A> and i think it is a very difficult thing to to keep in some kind of balance or some kind of check / <B> goodness / <A> you know um eh be because there's so many variables / <B> uh-huh / <A> you know um if we could live on uh each of us live on an our own island and make our own rules and no one else would you know interfere with them { you } / <B> [ mhm ] / <A> know we wouldn't have to worry { about } / <B> gosh / <A> stuff but that's not the way it is so that i think is an added stress too { to } / <B> [ yeah ]",
+    "context_text": "<A> you know um and and it you know um and this is just my opinion maintaining a family um as as fam well a family unit say is i think one of the most difficult jobs that we have in our in both of our lives because it is so very important to be maintained / <B> yeah / <A> and i think it is a very difficult thing to to keep in some kind of balance or some kind of check / <B> no / <A> you know um eh be because there's so many variables / <B> no / <A> you know um if we could live on uh each of us live on an our own island and make our own rules and no one else would you know interfere with them { you } / <B> [ yeah ] / <A> know we wouldn't have to worry { about } / <B> uh-huh / <A> stuff but that's not the way it is so that i think is an added stress too { to } / <B> [ mhm ]",
     "context_start": 527.57,
-    "context_end": 581.665125,
+    "context_end": 581.68375,
     "feedback": [
         {
-            "name": "spontA_063_mhm",
+            "name": "spontE_197_yeah",
             "start": 550.71,
-            "end": 551.200875,
-            "token": "mhm"
+            "end": 551.369375,
+            "token": "yeah"
         },
         {
-            "name": "NS_094_goodness",
+            "name": "sun_006_no",
             "start": 557.54,
-            "end": 558.5531249999999,
-            "token": "goodness"
+            "end": 558.35775,
+            "token": "no"
         },
         {
-            "name": "spontD_206_uh-huh",
+            "name": "Sy_001_no",
             "start": 563.24,
-            "end": 563.8685,
+            "end": 565.022125,
+            "token": "no"
+        },
+        {
+            "name": "spontB_345_yeah",
+            "start": 573.37,
+            "end": 573.807,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_011_uh-huh",
+            "start": 575.54,
+            "end": 575.996375,
             "token": "uh-huh"
         },
         {
-            "name": "spontB_212_mhm",
-            "start": 573.37,
-            "end": 574.14775,
-            "token": "mhm"
-        },
-        {
-            "name": "NegS_066_gosh",
-            "start": 575.54,
-            "end": 576.688125,
-            "token": "gosh"
-        },
-        {
-            "name": "spontF_142_yeah",
+            "name": "spontC_212_mhm",
             "start": 581.2,
-            "end": 581.665125,
-            "token": "yeah"
+            "end": 581.68375,
+            "token": "mhm"
         }
     ]
 }

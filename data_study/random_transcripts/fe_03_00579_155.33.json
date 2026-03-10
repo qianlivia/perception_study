@@ -1,39 +1,39 @@
 {
     "name": "fe_03_00579",
     "context_channel": 0,
-    "context_text": "<B> but like other than that like i don't really like i don't grasp the whole concept of why exactly we're there / <A> yeah / <B> like i know we have issues with them like in the past but like i don't know they're there own country and i maybe like if like bush explained it more to us / <A> no / <B> you know like saying hey this is why we're going after these people instead of just saying build like a nuclear threat / <A> yeah / <B> because nobody's like i don't see how it like i gue maybe they are and like they're just hiding it from us / <A> mhm / <B> you know but like everything they've done so far has show that they don't have weapons / <A> ah",
+    "context_text": "<B> but like other than that like i don't really like i don't grasp the whole concept of why exactly we're there / <A> uh-huh / <B> like i know we have issues with them like in the past but like i don't know they're there own country and i maybe like if like bush explained it more to us / <A> oh / <B> you know like saying hey this is why we're going after these people instead of just saying build like a nuclear threat / <A> yeah / <B> because nobody's like i don't see how it like i gue maybe they are and like they're just hiding it from us / <A> wow / <B> you know but like everything they've done so far has show that they don't have weapons / <A> no",
     "context_start": 155.33,
-    "context_end": 190.932875,
+    "context_end": 190.321,
     "feedback": [
         {
-            "name": "spontC_255_yeah",
+            "name": "spontF_012_uh-huh",
             "start": 162.61,
-            "end": 163.18787500000002,
-            "token": "yeah"
+            "end": 163.183625,
+            "token": "uh-huh"
         },
         {
-            "name": "NR_013_no",
+            "name": "PS_197_oh",
             "start": 173.63,
-            "end": 174.19625,
-            "token": "no"
+            "end": 174.7095,
+            "token": "oh"
         },
         {
-            "name": "spontC_389_yeah",
+            "name": "spontC_008_yeah",
             "start": 179.54,
-            "end": 180.058,
+            "end": 180.270875,
             "token": "yeah"
         },
         {
-            "name": "spontA_064_mhm",
+            "name": "PS_115_wow",
             "start": 185.78,
-            "end": 186.303125,
-            "token": "mhm"
+            "end": 186.871,
+            "token": "wow"
         },
         {
-            "name": "spontB_148_ah",
+            "name": "spontA_249_click_no",
             "start": 189.98,
-            "end": 190.932875,
-            "token": "ah"
+            "end": 190.321,
+            "token": "no"
         }
     ]
 }

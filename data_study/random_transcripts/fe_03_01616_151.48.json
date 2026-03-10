@@ -1,45 +1,45 @@
 {
     "name": "fe_03_01616",
     "context_channel": 1,
-    "context_text": "<A> i think so too i think it's amazing to see iraqi people just even demonstrating on television / <B> yeah / <A> you don't see that on any you know in in in iraq in syria in none of the places do you see people demonstrating / <B> oh / <A> they'd be shot and i think that's i think that right there is justifies what you know us being there and taking over like that / <B> mhm / <A> you know i just think that justifies it because i think everybody has the right to to protest / <B> mhm / <A> you know so i i think that i think that's good um i hope we don't stay there much longer / <B> oh / <A> i hope they set up a government and we get out of there cause i do believe that the longer we're there the longer the other arab nations won't tolerate us / <B> no",
+    "context_text": "<A> i think so too i think it's amazing to see iraqi people just even demonstrating on television / <B> mhm / <A> you don't see that on any you know in in in iraq in syria in none of the places do you see people demonstrating / <B> yeah / <A> they'd be shot and i think that's i think that right there is justifies what you know us being there and taking over like that / <B> okay / <A> you know i just think that justifies it because i think everybody has the right to to protest / <B> yeah / <A> you know so i i think that i think that's good um i hope we don't stay there much longer / <B> no / <A> i hope they set up a government and we get out of there cause i do believe that the longer we're there the longer the other arab nations won't tolerate us / <B> yes",
     "context_start": 151.48,
-    "context_end": 204.1545,
+    "context_end": 204.213375,
     "feedback": [
         {
-            "name": "spontD_228_yeah",
+            "name": "spontA_132_mhm",
             "start": 158.69,
-            "end": 159.261125,
+            "end": 159.270125,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_142_yeah",
+            "start": 169.54,
+            "end": 170.005125,
             "token": "yeah"
         },
         {
-            "name": "spontE_017_oh",
-            "start": 169.54,
-            "end": 170.126,
-            "token": "oh"
-        },
-        {
-            "name": "spontD_178_mhm",
+            "name": "spontE_158_okay",
             "start": 179.05,
-            "end": 179.66925,
-            "token": "mhm"
+            "end": 179.669,
+            "token": "okay"
         },
         {
-            "name": "spontC_387_mhm",
+            "name": "sun_046_yeah",
             "start": 184.56,
-            "end": 185.165,
-            "token": "mhm"
+            "end": 184.96825,
+            "token": "yeah"
         },
         {
-            "name": "spontD_379_oh",
+            "name": "NR_009_no",
             "start": 192.75,
-            "end": 193.847125,
-            "token": "oh"
+            "end": 193.680625,
+            "token": "no"
         },
         {
-            "name": "NR_109_no",
+            "name": "spontF_214_yes",
             "start": 203.37,
-            "end": 204.1545,
-            "token": "no"
+            "end": 204.213375,
+            "token": "yes"
         }
     ]
 }

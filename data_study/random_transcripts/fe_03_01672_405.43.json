@@ -1,51 +1,51 @@
 {
     "name": "fe_03_01672",
     "context_channel": 0,
-    "context_text": "<B> did but i i d i just wondering how long it's going to be before we actually can leave { you know } / <A> [ hm ] / <B> i had a a son in the air force he's been out for a couple of years now { but } / <A> [ mhm ] / <B> he was had to rotate over to saudi arabia { you know } / <A> [ ugh ] / <B> every like a couple of times a year twice { a } / <A> [ wow ] / <B> year and he you know i w he told me when he got home one time he said you know you just can't believe how people live over there / <A> mhm / <B> and he said if we ever left our interests would be you know would just be we would have no interest there you know we would have no oil we would have { no } / <A> [ ah ] / <B> nothing he said you know he said we really have to be there / <A> oh",
+    "context_text": "<B> did but i i d i just wondering how long it's going to be before we actually can leave { you know } / <A> [ uh-huh ] / <B> i had a a son in the air force he's been out for a couple of years now { but } / <A> [ mhm ] / <B> he was had to rotate over to saudi arabia { you know } / <A> [ uh-huh ] / <B> every like a couple of times a year twice { a } / <A> [ okay ] / <B> year and he you know i w he told me when he got home one time he said you know you just can't believe how people live over there / <A> yeah / <B> and he said if we ever left our interests would be you know would just be we would have no interest there you know we would have no oil we would have { no } / <A> [ yeah ] / <B> nothing he said you know he said we really have to be there / <A> yeah",
     "context_start": 405.43,
-    "context_end": 443.5165,
+    "context_end": 443.6215,
     "feedback": [
         {
-            "name": "Sy_057_hm",
+            "name": "spontE_321_uh-huh",
             "start": 413.34,
-            "end": 414.3545,
-            "token": "hm"
+            "end": 413.835625,
+            "token": "uh-huh"
         },
         {
-            "name": "spontC_180_mhm",
+            "name": "spontA_408_mhm",
             "start": 416.66,
-            "end": 417.204375,
+            "end": 417.17787500000003,
             "token": "mhm"
         },
         {
-            "name": "Sy_035_ugh",
+            "name": "spontD_153_uh-huh",
             "start": 420.3,
-            "end": 421.221625,
-            "token": "ugh"
+            "end": 420.88425,
+            "token": "uh-huh"
         },
         {
-            "name": "PS_169_wow",
+            "name": "spontE_275_okay",
             "start": 422.45,
-            "end": 423.89,
-            "token": "wow"
+            "end": 423.01075,
+            "token": "okay"
         },
         {
-            "name": "spontC_388_mhm",
+            "name": "spontC_321_yeah",
             "start": 430.39,
-            "end": 430.93649999999997,
-            "token": "mhm"
+            "end": 431.054875,
+            "token": "yeah"
         },
         {
-            "name": "spontE_232_ah",
+            "name": "spontB_051_yeah",
             "start": 438.85,
-            "end": 439.83075,
-            "token": "ah"
+            "end": 439.341375,
+            "token": "yeah"
         },
         {
-            "name": "PS_050_oh",
+            "name": "spontE_051_yeah",
             "start": 442.85,
-            "end": 443.5165,
-            "token": "oh"
+            "end": 443.6215,
+            "token": "yeah"
         }
     ]
 }

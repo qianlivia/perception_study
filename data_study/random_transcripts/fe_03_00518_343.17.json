@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00518",
     "context_channel": 0,
-    "context_text": "<B> very very very many most time it's something i said and my mother told me how dare you / <A> uh-huh / <B> and i was just like i had no idea it affected you in that way / <A> yeah / <B> or that it bothered you because it's also uh um a way that people feel about how they are respected / <A> uh-huh / <B> and they just don't appreciate other people saying things that even have nothing to do with them except for the fact that it made they may be related / <A> yeah",
+    "context_text": "<B> very very very many most time it's something i said and my mother told me how dare you / <A> yeah / <B> and i was just like i had no idea it affected you in that way / <A> wow / <B> or that it bothered you because it's also uh um a way that people feel about how they are respected / <A> mhm / <B> and they just don't appreciate other people saying things that even have nothing to do with them except for the fact that it made they may be related / <A> mhm",
     "context_start": 343.17,
-    "context_end": 376.81512499999997,
+    "context_end": 376.733875,
     "feedback": [
         {
-            "name": "spontD_199_uh-huh",
+            "name": "spontA_391_yeah",
             "start": 351.25,
-            "end": 351.7575,
-            "token": "uh-huh"
+            "end": 351.659375,
+            "token": "yeah"
         },
         {
-            "name": "PR_036_yeah",
+            "name": "PS_049_wow",
             "start": 357.14,
-            "end": 357.944375,
-            "token": "yeah"
+            "end": 358.946625,
+            "token": "wow"
         },
         {
-            "name": "spontF_566_uh-huh",
+            "name": "spontA_318_mhm",
             "start": 366.25,
-            "end": 366.864375,
-            "token": "uh-huh"
+            "end": 366.926875,
+            "token": "mhm"
         },
         {
-            "name": "spontF_520_yeah",
+            "name": "spontA_314_mhm",
             "start": 376.14,
-            "end": 376.81512499999997,
-            "token": "yeah"
+            "end": 376.733875,
+            "token": "mhm"
         }
     ]
 }

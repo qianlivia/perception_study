@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04831",
     "context_channel": 0,
-    "context_text": "<B> you're affecting the most amount of people as opposed to the they're worried about you know gas attacks and all this / <A> pardon / <B> and nerve gas and such it distri it you know goes away with the air / <A> yeah / <B> you need a closed in space to get a good affect / <A> aww / <B> i mean and right now it's not a good time wait until christmas hit them all then / <A> no",
+    "context_text": "<B> you're affecting the most amount of people as opposed to the they're worried about you know gas attacks and all this / <A> wow / <B> and nerve gas and such it distri it you know goes away with the air / <A> okay / <B> you need a closed in space to get a good affect / <A> ah / <B> i mean and right now it's not a good time wait until christmas hit them all then / <A> wow",
     "context_start": 553.93,
-    "context_end": 576.8000000000001,
+    "context_end": 577.030875,
     "feedback": [
         {
-            "name": "Nu_047_pardon",
+            "name": "PS_063_wow",
             "start": 559.54,
-            "end": 560.161,
-            "token": "pardon"
+            "end": 560.92675,
+            "token": "wow"
         },
         {
-            "name": "spontA_347_yeah",
+            "name": "spontD_386_okay",
             "start": 568.05,
-            "end": 568.6714999999999,
-            "token": "yeah"
+            "end": 568.7529999999999,
+            "token": "okay"
         },
         {
-            "name": "spontA_423_aww",
+            "name": "spontB_235_ah",
             "start": 571.14,
-            "end": 571.740125,
-            "token": "aww"
+            "end": 572.52675,
+            "token": "ah"
         },
         {
-            "name": "NR_045_no",
+            "name": "PS_188_wow",
             "start": 575.86,
-            "end": 576.8000000000001,
-            "token": "no"
+            "end": 577.030875,
+            "token": "wow"
         }
     ]
 }

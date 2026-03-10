@@ -1,39 +1,39 @@
 {
     "name": "fe_03_00641",
     "context_channel": 0,
-    "context_text": "<B> and and uh well i had seen i turned on the news after the first tower had been hit but { before } / <A> [ wow ] / <B> the second one was / <A> yeah / <B> and i remember sitting there watching that second one get hit and just going what in the world you know { because at } / <A> [ yeah ] / <B> first i thought no they were talking about terrorists and stuff and i thought no that's just an accident you { know } / <A> [ yeah ] / <B> some plane just and then to hear on the news oh they got another to the pentagon and then { they had a } / <A> [ mmm ]",
+    "context_text": "<B> and and uh well i had seen i turned on the news after the first tower had been hit but { before } / <A> [ uh-huh ] / <B> the second one was / <A> wow / <B> and i remember sitting there watching that second one get hit and just going what in the world you know { because at } / <A> [ mhm ] / <B> first i thought no they were talking about terrorists and stuff and i thought no that's just an accident you { know } / <A> [ yeah ] / <B> some plane just and then to hear on the news oh they got another to the pentagon and then { they had a } / <A> [ yeah ]",
     "context_start": 469.64,
-    "context_end": 489.34250000000003,
+    "context_end": 489.2645,
     "feedback": [
         {
-            "name": "PS_093_wow",
+            "name": "spontF_359_uh-huh",
             "start": 473.99,
-            "end": 474.92225,
+            "end": 474.64225,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PS_141_wow",
+            "start": 475.39,
+            "end": 477.144,
             "token": "wow"
         },
         {
-            "name": "spontF_086_yeah",
-            "start": 475.39,
-            "end": 476.10699999999997,
-            "token": "yeah"
-        },
-        {
-            "name": "spontB_239_yeah",
+            "name": "spontA_288_mhm",
             "start": 479.69,
-            "end": 480.236875,
-            "token": "yeah"
+            "end": 480.286625,
+            "token": "mhm"
         },
         {
-            "name": "spontC_266_yeah",
+            "name": "spontC_062_yeah",
             "start": 484.21,
-            "end": 484.76937499999997,
+            "end": 484.93474999999995,
             "token": "yeah"
         },
         {
-            "name": "sun2_034_mmm",
+            "name": "spontF_662_yeah",
             "start": 488.56,
-            "end": 489.34250000000003,
-            "token": "mmm"
+            "end": 489.2645,
+            "token": "yeah"
         }
     ]
 }

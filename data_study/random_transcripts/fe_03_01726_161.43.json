@@ -1,51 +1,51 @@
 {
     "name": "fe_03_01726",
     "context_channel": 0,
-    "context_text": "<B> yeah and i think i think that the whole i mean i feel a whole lot safer now i don't think that korea is just going to come after us and bomb us for no { reason } / <A> [ oh ] / <B> at all / <A> oh / <B> um although i think they might mess with other people in their area i don't think they would mess with us { but } / <A> [ uh-huh ] / <B> i don't think they're just going to come over and go oh we hate you and we're going to bomb you now although { i } / <A> [ nuh-uh ] / <B> feel although i felt saddam hussein would do that / <A> hm / <B> or at least get or at least support groups that would do it like osama bin { laden } / <A> [ mhm ] / <B> or al qaeda or whatever you call that group / <A> yeah",
+    "context_text": "<B> yeah and i think i think that the whole i mean i feel a whole lot safer now i don't think that korea is just going to come after us and bomb us for no { reason } / <A> [ wow ] / <B> at all / <A> wow / <B> um although i think they might mess with other people in their area i don't think they would mess with us { but } / <A> [ oh ] / <B> i don't think they're just going to come over and go oh we hate you and we're going to bomb you now although { i } / <A> [ oh ] / <B> feel although i felt saddam hussein would do that / <A> uh-huh / <B> or at least get or at least support groups that would do it like osama bin { laden } / <A> [ yeah ] / <B> or al qaeda or whatever you call that group / <A> ooh",
     "context_start": 161.43,
-    "context_end": 192.406125,
+    "context_end": 192.7325,
     "feedback": [
         {
-            "name": "spontF_016_oh",
+            "name": "PS_173_wow",
             "start": 169.08,
-            "end": 170.250875,
-            "token": "oh"
+            "end": 170.20362500000002,
+            "token": "wow"
         },
         {
-            "name": "Sy_055_oh",
+            "name": "PS_112_wow",
             "start": 170.57,
-            "end": 171.395875,
+            "end": 171.781625,
+            "token": "wow"
+        },
+        {
+            "name": "PS_148_oh",
+            "start": 176.46,
+            "end": 177.74475,
             "token": "oh"
         },
         {
-            "name": "spontA_315_uh-huh",
-            "start": 176.46,
-            "end": 176.97650000000002,
+            "name": "PS_008_oh",
+            "start": 180.76,
+            "end": 181.36862499999998,
+            "token": "oh"
+        },
+        {
+            "name": "spontB_348_uh-huh",
+            "start": 183.66,
+            "end": 184.199625,
             "token": "uh-huh"
         },
         {
-            "name": "NR_029_nuh-uh",
-            "start": 180.76,
-            "end": 181.422375,
-            "token": "nuh-uh"
-        },
-        {
-            "name": "NS_076_hm",
-            "start": 183.66,
-            "end": 184.487375,
-            "token": "hm"
-        },
-        {
-            "name": "spontD_133_mhm",
+            "name": "spontE_119_yeah",
             "start": 188.9,
-            "end": 189.54025000000001,
-            "token": "mhm"
+            "end": 189.65675000000002,
+            "token": "yeah"
         },
         {
-            "name": "spontB_143_yeah",
+            "name": "spontA_118_ooh",
             "start": 191.73,
-            "end": 192.406125,
-            "token": "yeah"
+            "end": 192.7325,
+            "token": "ooh"
         }
     ]
 }

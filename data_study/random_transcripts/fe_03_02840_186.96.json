@@ -1,27 +1,27 @@
 {
     "name": "fe_03_02840",
     "context_channel": 1,
-    "context_text": "<A> and because of the fans and the fans love the game / <B> oh / <A> not for the money { but } / <B> [ yeah ] / <A> obviously / <B> huh-uh",
+    "context_text": "<A> and because of the fans and the fans love the game / <B> uh-huh / <A> not for the money { but } / <B> [ yeah ] / <A> obviously / <B> yeah",
     "context_start": 186.96,
-    "context_end": 193.1115,
+    "context_end": 192.45125000000002,
     "feedback": [
         {
-            "name": "spontE_15_oh",
+            "name": "spontE_249_uh-huh",
             "start": 189.59,
-            "end": 189.93325000000002,
-            "token": "oh"
+            "end": 190.103125,
+            "token": "uh-huh"
         },
         {
-            "name": "PR_041_yeah",
+            "name": "spontF_562_yeah",
             "start": 191.23,
-            "end": 192.24862499999998,
+            "end": 191.79887499999998,
             "token": "yeah"
         },
         {
-            "name": "NS_055_huh-uh",
+            "name": "spontF_328_yeah",
             "start": 191.9,
-            "end": 193.1115,
-            "token": "huh-uh"
+            "end": 192.45125000000002,
+            "token": "yeah"
         }
     ]
 }

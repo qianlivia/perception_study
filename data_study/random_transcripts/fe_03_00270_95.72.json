@@ -1,45 +1,45 @@
 {
     "name": "fe_03_00270",
     "context_channel": 0,
-    "context_text": "<B> and that was really spooky because i got to my appointment and uh the person with whom i had the appointment did you hear anything on the news and i said yes i heard all of it and i related to this person / <A> mhm / <B> and i told told them that it sounded just like a bad science fiction novel that i had read / <A> oh / <B> and i had at the time when i lived in denver my tv room was partially under ground so i / <A> goodness / <B> couldn't any broadcast tv { and i } / <A> [ aha ] / <B> didn't have cable i didn't have dish / <A> yeah / <B> so i really couldn't get tv / <A> aww",
+    "context_text": "<B> and that was really spooky because i got to my appointment and uh the person with whom i had the appointment did you hear anything on the news and i said yes i heard all of it and i related to this person / <A> yeah / <B> and i told told them that it sounded just like a bad science fiction novel that i had read / <A> uh-huh / <B> and i had at the time when i lived in denver my tv room was partially under ground so i / <A> no / <B> couldn't any broadcast tv { and i } / <A> [ ooh ] / <B> didn't have cable i didn't have dish / <A> okay / <B> so i really couldn't get tv / <A> oh",
     "context_start": 95.72,
-    "context_end": 130.04674999999997,
+    "context_end": 129.024375,
     "feedback": [
         {
-            "name": "spontB_200_mhm",
+            "name": "spontC_075_yeah",
             "start": 107.5,
-            "end": 108.033875,
-            "token": "mhm"
-        },
-        {
-            "name": "spontF_277_oh",
-            "start": 112.79,
-            "end": 113.35825000000001,
-            "token": "oh"
-        },
-        {
-            "name": "NS_094_goodness",
-            "start": 121.5,
-            "end": 122.513125,
-            "token": "goodness"
-        },
-        {
-            "name": "spontA_328_aha",
-            "start": 123.56,
-            "end": 124.34875,
-            "token": "aha"
-        },
-        {
-            "name": "spontB_373_yeah",
-            "start": 126.08,
-            "end": 126.4915,
+            "end": 108.154625,
             "token": "yeah"
         },
         {
-            "name": "Sy_034_aww",
+            "name": "spontF_494_uh-huh",
+            "start": 112.79,
+            "end": 113.342375,
+            "token": "uh-huh"
+        },
+        {
+            "name": "sun2_033_no",
+            "start": 121.5,
+            "end": 122.75275,
+            "token": "no"
+        },
+        {
+            "name": "PS_158_ooh",
+            "start": 123.56,
+            "end": 124.838125,
+            "token": "ooh"
+        },
+        {
+            "name": "spontF_583_okay",
+            "start": 126.08,
+            "end": 127.258,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_207_oh",
             "start": 128.64,
-            "end": 130.04674999999997,
-            "token": "aww"
+            "end": 129.024375,
+            "token": "oh"
         }
     ]
 }

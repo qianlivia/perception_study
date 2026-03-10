@@ -1,27 +1,27 @@
 {
     "name": "fe_03_01913",
     "context_channel": 0,
-    "context_text": "<B> it's a big commitment but i don't know i think in in hindsight it's funny because when you're doing that and when you're investing all that time in your family you wonder { am } / <A> [ mhm ] / <B> i even doing them any good sometimes you just doubt yourself but i have / <A> no / <B> to say that my oldest two they're out of the house um would not have had it uh any other way it's funny because afterwards they'll they'll tell you you kinda get your report card { after } / <A> [ jeez ]",
+    "context_text": "<B> it's a big commitment but i don't know i think in in hindsight it's funny because when you're doing that and when you're investing all that time in your family you wonder { am } / <A> [ mhm ] / <B> i even doing them any good sometimes you just doubt yourself but i have / <A> uh-huh / <B> to say that my oldest two they're out of the house um would not have had it uh any other way it's funny because afterwards they'll they'll tell you you kinda get your report card { after } / <A> [ yeah ]",
     "context_start": 286.86,
-    "context_end": 313.479125,
+    "context_end": 313.11762500000003,
     "feedback": [
         {
-            "name": "spontA_393_mhm",
+            "name": "spontB_302_mhm",
             "start": 296.93,
-            "end": 297.633125,
+            "end": 297.48900000000003,
             "token": "mhm"
         },
         {
-            "name": "spontA_095_no",
+            "name": "spontC_097_uh-huh",
             "start": 300.79,
-            "end": 301.625375,
-            "token": "no"
+            "end": 301.247625,
+            "token": "uh-huh"
         },
         {
-            "name": "NegS_015_jeez",
+            "name": "spontC_076_yeah",
             "start": 312.43,
-            "end": 313.479125,
-            "token": "jeez"
+            "end": 313.11762500000003,
+            "token": "yeah"
         }
     ]
 }

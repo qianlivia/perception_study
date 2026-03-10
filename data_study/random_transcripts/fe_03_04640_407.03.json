@@ -1,44 +1,44 @@
 {
     "name": "fe_03_04640",
     "context_channel": 1,
-    "context_text": "<A> yeah just to sit there for like hours on end just playing with a joystick and and i don't know it's like i it doesn't it's not exciting / <B> yep / <A> like i said you got you gotta have a couple of beers to to sit down and play that but / <B> uh-huh / <A> me i'm still trying to think of that oh i think it was a playstation / <B> yeah / <A> cause i back in ninety six when they first came out there there was some of them in the whizz and they were like four hundred dollars / <B> aww / <A> and then like almost not even a year later they went down to two hundred dollars so everybody that spend four hundred i know they felt stupid because now they have / <B> no / <A> so it's i don't know it's i i think it's like a little fad and phase that's gonna run out { cause look } / <B> [ yeah ]",
+    "context_text": "<A> yeah just to sit there for like hours on end just playing with a joystick and and i don't know it's like i it doesn't it's not exciting / <B> yeah / <A> like i said you got you gotta have a couple of beers to to sit down and play that but / <B> oh / <A> me i'm still trying to think of that oh i think it was a playstation / <B> yeah / <A> cause i back in ninety six when they first came out there there was some of them in the whizz and they were like four hundred dollars / <B> yeah / <A> and then like almost not even a year later they went down to two hundred dollars so everybody that spend four hundred i know they felt stupid because now they have / <B> mhm / <A> so it's i don't know it's i i think it's like a little fad and phase that's gonna run out { cause look } / <B> [ yeah ]",
     "context_start": 407.03,
-    "context_end": 449.674625,
+    "context_end": 449.854125,
     "feedback": [
         {
-            "name": "PR_028_yep",
+            "name": "spontC_504_yeah",
             "start": 416.96,
-            "end": 417.74449999999996,
-            "token": "yep"
-        },
-        {
-            "name": "spontC_367_uh-huh",
-            "start": 421.81,
-            "end": 422.387875,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontA_437_yeah",
-            "start": 426.94,
-            "end": 427.695625,
+            "end": 417.44737499999997,
             "token": "yeah"
         },
         {
-            "name": "spontB_319_aww",
+            "name": "spontF_479_oh",
+            "start": 421.81,
+            "end": 422.76075000000003,
+            "token": "oh"
+        },
+        {
+            "name": "spontA_340_yeah",
+            "start": 426.94,
+            "end": 427.3625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_139_yeah",
             "start": 433.66,
-            "end": 434.79787500000003,
-            "token": "aww"
+            "end": 434.55175,
+            "token": "yeah"
         },
         {
-            "name": "NR_085_no",
+            "name": "spontE_154_mhm",
             "start": 442.68,
-            "end": 443.55287500000003,
-            "token": "no"
+            "end": 443.28000000000003,
+            "token": "mhm"
         },
         {
-            "name": "spontA_336_yeah",
+            "name": "spontE_290_yeah",
             "start": 449.06,
-            "end": 449.674625,
+            "end": 449.854125,
             "token": "yeah"
         }
     ]

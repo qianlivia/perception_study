@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05115",
     "context_channel": 1,
-    "context_text": "<A> um one time you know i thought he was really good they're talking about how people were protesting the us in the streets over there in iraq and everything / <B> uh-huh / <A> and his comment was to that it was um that's good you know now they're free and they can finally do that whereas if they did that before they'd be killed / <B> huh / <A> which is good you know um / <B> uh-huh / <A> yeah i think it is eliminating a threat in some way um i just hope we don't try to take over their economy and { it } / <B> [ wow ]",
+    "context_text": "<A> um one time you know i thought he was really good they're talking about how people were protesting the us in the streets over there in iraq and everything / <B> yes / <A> and his comment was to that it was um that's good you know now they're free and they can finally do that whereas if they did that before they'd be killed / <B> yeah / <A> which is good you know um / <B> no / <A> yeah i think it is eliminating a threat in some way um i just hope we don't try to take over their economy and { it } / <B> [ yeah ]",
     "context_start": 119.91,
-    "context_end": 149.713875,
+    "context_end": 149.00775000000002,
     "feedback": [
         {
-            "name": "spontF_035_uh-huh",
+            "name": "sun1_028_yes",
             "start": 128.88,
-            "end": 129.41625,
-            "token": "uh-huh"
+            "end": 129.850125,
+            "token": "yes"
         },
         {
-            "name": "spontF_645_huh",
+            "name": "spontB_157_yeah",
             "start": 137.36,
-            "end": 137.95937500000002,
-            "token": "huh"
+            "end": 138.031875,
+            "token": "yeah"
         },
         {
-            "name": "spontC_133_uh-huh",
+            "name": "NR_032_no",
             "start": 138.99,
-            "end": 139.4505,
-            "token": "uh-huh"
+            "end": 139.8665,
+            "token": "no"
         },
         {
-            "name": "PS_114_wow",
+            "name": "spontD_287_yeah",
             "start": 148.55,
-            "end": 149.713875,
-            "token": "wow"
+            "end": 149.00775000000002,
+            "token": "yeah"
         }
     ]
 }

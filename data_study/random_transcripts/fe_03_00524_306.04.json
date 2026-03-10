@@ -1,27 +1,27 @@
 {
     "name": "fe_03_00524",
     "context_channel": 0,
-    "context_text": "<B> they would not drink / <A> mhm / <B> of course aversion therapy doesn't really work on alcoholics so / <A> no / <B> you know um because they're used to being ill from the effects of drinking { so } / <A> [ wow ]",
+    "context_text": "<B> they would not drink / <A> right / <B> of course aversion therapy doesn't really work on alcoholics so / <A> mhm / <B> you know um because they're used to being ill from the effects of drinking { so } / <A> [ ooh ]",
     "context_start": 306.04,
-    "context_end": 317.90725,
+    "context_end": 317.918625,
     "feedback": [
         {
-            "name": "spontA_120_mhm",
+            "name": "sun1_029_right",
             "start": 307.16,
-            "end": 307.61487500000004,
+            "end": 307.85200000000003,
+            "token": "right"
+        },
+        {
+            "name": "spontA_070_mhm",
+            "start": 311.27,
+            "end": 311.79999999999995,
             "token": "mhm"
         },
         {
-            "name": "spontA_112_no",
-            "start": 311.27,
-            "end": 312.083125,
-            "token": "no"
-        },
-        {
-            "name": "PS_074_wow",
+            "name": "NegS_013_ooh",
             "start": 317.07,
-            "end": 317.90725,
-            "token": "wow"
+            "end": 317.918625,
+            "token": "ooh"
         }
     ]
 }

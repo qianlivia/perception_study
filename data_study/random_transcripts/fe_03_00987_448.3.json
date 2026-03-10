@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00987",
     "context_channel": 0,
-    "context_text": "<B> [ exactly they're still ch children ] are children no matter where they're from { and } / <A> [ ah ] / <B> families are families no matter where they're from / <A> huh / <B> and i'm not quite sure how you go about that i do believe that probably need to make a stand with regard to war / <A> ugh / <B> and i i i hate to even think of myself saying that because i have adult sons / <A> no",
+    "context_text": "<B> [ exactly they're still ch children ] are children no matter where they're from { and } / <A> [ uh-huh ] / <B> families are families no matter where they're from / <A> uh-huh / <B> and i'm not quite sure how you go about that i do believe that probably need to make a stand with regard to war / <A> yes / <B> and i i i hate to even think of myself saying that because i have adult sons / <A> yeah",
     "context_start": 448.3,
-    "context_end": 473.2205,
+    "context_end": 472.888125,
     "feedback": [
         {
-            "name": "Sy_026_ah",
+            "name": "spontA_324_uh-huh",
             "start": 452.64,
-            "end": 453.64824999999996,
-            "token": "ah"
+            "end": 453.287875,
+            "token": "uh-huh"
         },
         {
-            "name": "NS_051_huh",
+            "name": "spontD_080_uh-huh",
             "start": 455.17,
-            "end": 456.15425,
-            "token": "huh"
+            "end": 455.7225,
+            "token": "uh-huh"
         },
         {
-            "name": "NegS_067_ugh",
+            "name": "spontB_368_yes",
             "start": 465.86,
-            "end": 466.87712500000004,
-            "token": "ugh"
+            "end": 466.717625,
+            "token": "yes"
         },
         {
-            "name": "NR_055_no",
+            "name": "spontA_387_yeah",
             "start": 472.35,
-            "end": 473.2205,
-            "token": "no"
+            "end": 472.888125,
+            "token": "yeah"
         }
     ]
 }

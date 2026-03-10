@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00110",
     "context_channel": 1,
-    "context_text": "<A> like war in this age would necessarily involve like very schem scary chemicals and very / <B> yeah / <A> like explosive things { i mean } / <B> [ oh ] / <A> i'm a chemistry major and i know like all these things that it can do to you and { that's } / <B> [ mhm ] / <A> it's not pleasant / <B> no",
+    "context_text": "<A> like war in this age would necessarily involve like very schem scary chemicals and very / <B> yeah / <A> like explosive things { i mean } / <B> [ mhm ] / <A> i'm a chemistry major and i know like all these things that it can do to you and { that's } / <B> [ no ] / <A> it's not pleasant / <B> okay",
     "context_start": 654.05,
-    "context_end": 669.2208750000001,
+    "context_end": 668.8285000000001,
     "feedback": [
         {
-            "name": "spontC_060_yeah",
+            "name": "spontA_073_yeah",
             "start": 659.69,
-            "end": 660.1476250000001,
+            "end": 660.841625,
             "token": "yeah"
         },
         {
-            "name": "PS_148_oh",
+            "name": "spontE_268_mhm",
             "start": 661.27,
-            "end": 662.55475,
-            "token": "oh"
-        },
-        {
-            "name": "spontF_281_mhm",
-            "start": 665.85,
-            "end": 666.752375,
+            "end": 661.8378749999999,
             "token": "mhm"
         },
         {
-            "name": "NR_094_no",
-            "start": 668.2,
-            "end": 669.2208750000001,
+            "name": "NR_117_no",
+            "start": 665.85,
+            "end": 666.597125,
             "token": "no"
+        },
+        {
+            "name": "spontA_257_okay",
+            "start": 668.2,
+            "end": 668.8285000000001,
+            "token": "okay"
         }
     ]
 }

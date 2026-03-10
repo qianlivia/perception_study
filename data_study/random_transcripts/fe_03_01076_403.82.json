@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01076",
     "context_channel": 1,
-    "context_text": "<A> uh not mistrust for the system but more mis it it has to be the situation { it r } / <B> [ mhm ] / <A> it really would for me / <B> mhm / <A> um because i do believe in equal uh punishment for the crime { i } / <B> [ pardon ] / <A> really do um so it has to be the situation i would take so much more in consideration with a family member / <B> yeah",
+    "context_text": "<A> uh not mistrust for the system but more mis it it has to be the situation { it r } / <B> [ no ] / <A> it really would for me / <B> yeah / <A> um because i do believe in equal uh punishment for the crime { i } / <B> [ wow ] / <A> really do um so it has to be the situation i would take so much more in consideration with a family member / <B> no",
     "context_start": 403.82,
-    "context_end": 423.1435,
+    "context_end": 422.82412500000004,
     "feedback": [
         {
-            "name": "spontA_063_mhm",
+            "name": "NR_015_no",
             "start": 409.27,
-            "end": 409.760875,
-            "token": "mhm"
+            "end": 410.08574999999996,
+            "token": "no"
         },
         {
-            "name": "PR_057_mhm",
+            "name": "spontA_208_yeah",
             "start": 410.96,
-            "end": 411.69225,
-            "token": "mhm"
-        },
-        {
-            "name": "Nu_061_pardon",
-            "start": 415.5,
-            "end": 416.153125,
-            "token": "pardon"
-        },
-        {
-            "name": "spontD_172_yeah",
-            "start": 422.35,
-            "end": 423.1435,
+            "end": 411.754125,
             "token": "yeah"
+        },
+        {
+            "name": "PS_031_wow",
+            "start": 415.5,
+            "end": 416.26175,
+            "token": "wow"
+        },
+        {
+            "name": "NR_060_no",
+            "start": 422.35,
+            "end": 422.82412500000004,
+            "token": "no"
         }
     ]
 }

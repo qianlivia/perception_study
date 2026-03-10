@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00579",
     "context_channel": 1,
-    "context_text": "<A> okay well she has her her her own board it's not a freebie board or anything but they like to post nasty stuff about everybody about ps / <B> wow / <A> okay well supposedly you know the lakers fan on here / <B> yep / <A> okay well something about twice the mom was going back and forth saying uh biracial slurs or whatever i { don't } / <B> [ uh-huh ] / <A> know and i don't believe that it was michelle / <B> oh",
+    "context_text": "<A> okay well she has her her her own board it's not a freebie board or anything but they like to post nasty stuff about everybody about ps / <B> no / <A> okay well supposedly you know the lakers fan on here / <B> no / <A> okay well something about twice the mom was going back and forth saying uh biracial slurs or whatever i { don't } / <B> [ wow ] / <A> know and i don't believe that it was michelle / <B> mhm",
     "context_start": 515.47,
-    "context_end": 540.498625,
+    "context_end": 540.841625,
     "feedback": [
         {
-            "name": "PS_095_wow",
+            "name": "NR_085_no",
             "start": 522.71,
-            "end": 523.7453750000001,
+            "end": 523.5828750000001,
+            "token": "no"
+        },
+        {
+            "name": "NR_024_no",
+            "start": 527.45,
+            "end": 528.506875,
+            "token": "no"
+        },
+        {
+            "name": "PS_057_wow",
+            "start": 537.22,
+            "end": 537.9573750000001,
             "token": "wow"
         },
         {
-            "name": "PR_020_yep",
-            "start": 527.45,
-            "end": 528.101625,
-            "token": "yep"
-        },
-        {
-            "name": "sun1_037_uh-huh",
-            "start": 537.22,
-            "end": 537.775375,
-            "token": "uh-huh"
-        },
-        {
-            "name": "PS_008_oh",
+            "name": "sun_017_mhm",
             "start": 539.89,
-            "end": 540.498625,
-            "token": "oh"
+            "end": 540.841625,
+            "token": "mhm"
         }
     ]
 }

@@ -1,27 +1,27 @@
 {
     "name": "fe_03_04612",
     "context_channel": 1,
-    "context_text": "<A> ah there are some available but { i } / <B> [ yup ] / <A> just i i tried it a while ago and it just didn't work out very well and { it } / <B> [ mhm ] / <A> was hard to get games for it and stuff so { i } / <B> [ oh ]",
+    "context_text": "<A> ah there are some available but { i } / <B> [ oh ] / <A> just i i tried it a while ago and it just didn't work out very well and { it } / <B> [ absolutely ] / <A> was hard to get games for it and stuff so { i } / <B> [ yeah ]",
     "context_start": 337.0,
-    "context_end": 347.637,
+    "context_end": 347.49225,
     "feedback": [
         {
-            "name": "PR_030_yup",
+            "name": "spontE_301_oh",
             "start": 339.01,
-            "end": 339.742375,
-            "token": "yup"
-        },
-        {
-            "name": "spontA_345_mhm",
-            "start": 343.85,
-            "end": 344.5455,
-            "token": "mhm"
-        },
-        {
-            "name": "Sy_066_oh",
-            "start": 346.42,
-            "end": 347.637,
+            "end": 340.02524999999997,
             "token": "oh"
+        },
+        {
+            "name": "sun_001_absolutely",
+            "start": 343.85,
+            "end": 344.86012500000004,
+            "token": "absolutely"
+        },
+        {
+            "name": "spontB_064_yeah",
+            "start": 346.42,
+            "end": 347.49225,
+            "token": "yeah"
         }
     ]
 }

@@ -1,57 +1,57 @@
 {
     "name": "fe_03_02447",
     "context_channel": 0,
-    "context_text": "<B> mm they it was a ah a show this was probably more than ten years ago and this may have been actually something like the first reality television program { it was } / <A> [ mmm ] / <B> on public broadcasting system / <A> ooh / <B> so it was a pbs show ah and it was about a family called the louds l o u d s { you } / <A> [ uh-huh ] / <B> know which was their last name / <A> mhm / <B> and ah ah they had a son who i think in the end of the season ah came out as gay / <A> no / <B> which was like a big scandal and a shock / <A> mmm / <B> ah but ah this was a program that lasted i suppose something like a regular season ten or twelve episodes / <A> uh-huh / <B> and it was just following this family around they ah ah ah i i don't know if i ever really watched the show but i'm aware of it because of its um kind of the way it percolated back into the general culture / <A> hm",
+    "context_text": "<B> mm they it was a ah a show this was probably more than ten years ago and this may have been actually something like the first reality television program { it was } / <A> [ yeah ] / <B> on public broadcasting system / <A> yeah / <B> so it was a pbs show ah and it was about a family called the louds l o u d s { you } / <A> [ yeah ] / <B> know which was their last name / <A> yeah / <B> and ah ah they had a son who i think in the end of the season ah came out as gay / <A> yes / <B> which was like a big scandal and a shock / <A> no / <B> ah but ah this was a program that lasted i suppose something like a regular season ten or twelve episodes / <A> mhm / <B> and it was just following this family around they ah ah ah i i don't know if i ever really watched the show but i'm aware of it because of its um kind of the way it percolated back into the general culture / <A> mhm",
     "context_start": 292.25,
-    "context_end": 352.78287500000005,
+    "context_end": 352.43887500000005,
     "feedback": [
         {
-            "name": "spontA_322_mmm",
+            "name": "spontB_064_yeah",
             "start": 302.15,
-            "end": 303.09074999999996,
-            "token": "mmm"
+            "end": 303.22225,
+            "token": "yeah"
         },
         {
-            "name": "spontA_050_ooh",
+            "name": "spontA_210_yeah",
             "start": 304.93,
-            "end": 305.995625,
-            "token": "ooh"
+            "end": 305.92325,
+            "token": "yeah"
         },
         {
-            "name": "spontD_020_uh-huh",
+            "name": "PR_036_yeah",
             "start": 313.03,
-            "end": 313.53462499999995,
-            "token": "uh-huh"
+            "end": 313.83437499999997,
+            "token": "yeah"
         },
         {
-            "name": "spontC_388_mhm",
+            "name": "spontF_261_yeah",
             "start": 314.74,
-            "end": 315.2865,
-            "token": "mhm"
+            "end": 315.29875,
+            "token": "yeah"
+        },
+        {
+            "name": "PR_003_yes",
+            "start": 323.79,
+            "end": 325.37187500000005,
+            "token": "yes"
         },
         {
             "name": "NR_004_no",
-            "start": 323.79,
-            "end": 324.416625,
+            "start": 326.34,
+            "end": 326.96662499999996,
             "token": "no"
         },
         {
-            "name": "NS_036_mmm",
-            "start": 326.34,
-            "end": 327.287625,
-            "token": "mmm"
-        },
-        {
-            "name": "spontF_118_uh-huh",
+            "name": "spontC_180_mhm",
             "start": 335.37,
-            "end": 335.8955,
-            "token": "uh-huh"
+            "end": 335.914375,
+            "token": "mhm"
         },
         {
-            "name": "NS_018_hm",
+            "name": "spontF_038_mhm",
             "start": 351.91,
-            "end": 352.78287500000005,
-            "token": "hm"
+            "end": 352.43887500000005,
+            "token": "mhm"
         }
     ]
 }

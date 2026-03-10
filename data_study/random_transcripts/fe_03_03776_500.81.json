@@ -1,39 +1,39 @@
 {
     "name": "fe_03_03776",
     "context_channel": 1,
-    "context_text": "<A> [ and uh ] and he basically goes on to talk about how he thinks rush limbaugh 's the kind of man that likes to lay in the tub while other men pee on him / <B> yuck / <A> and it's just very very funny it sounds disgusting i guess if you look at it from the thirty thousand foot view but once you get in there and you listen to the skit it's it's wrong he just / <B> aww / <A> keeps keeps pushing it and pushing it and / <B> uh-huh / <A> pushing it and pushing it and it's really exemplary of the topic that we're supposed to be talking cause like it's all funny for everyone { and } / <B> [ mhm ] / <A> then you're listening to it it's a live recording and you can hear the audience begin to drop off / <B> wow",
+    "context_text": "<A> [ and uh ] and he basically goes on to talk about how he thinks rush limbaugh 's the kind of man that likes to lay in the tub while other men pee on him / <B> uh-huh / <A> and it's just very very funny it sounds disgusting i guess if you look at it from the thirty thousand foot view but once you get in there and you listen to the skit it's it's wrong he just / <B> uh-huh / <A> keeps keeps pushing it and pushing it and / <B> wow / <A> pushing it and pushing it and it's really exemplary of the topic that we're supposed to be talking cause like it's all funny for everyone { and } / <B> [ yeah ] / <A> then you're listening to it it's a live recording and you can hear the audience begin to drop off / <B> yeah",
     "context_start": 500.81,
-    "context_end": 537.9725,
+    "context_end": 536.67875,
     "feedback": [
         {
-            "name": "NegS_026_yuck",
+            "name": "spontF_035_uh-huh",
             "start": 509.23,
-            "end": 510.32,
-            "token": "yuck"
-        },
-        {
-            "name": "spontF_263_aww",
-            "start": 519.98,
-            "end": 520.726375,
-            "token": "aww"
-        },
-        {
-            "name": "spontA_313_uh-huh",
-            "start": 522.12,
-            "end": 522.713875,
+            "end": 509.76625,
             "token": "uh-huh"
         },
         {
-            "name": "spontD_186_mhm",
-            "start": 530.58,
-            "end": 531.17125,
-            "token": "mhm"
+            "name": "spontB_137_uh-huh",
+            "start": 519.98,
+            "end": 520.5310000000001,
+            "token": "uh-huh"
         },
         {
-            "name": "PS_119_wow",
-            "start": 536.13,
-            "end": 537.9725,
+            "name": "PS_094_wow",
+            "start": 522.12,
+            "end": 523.1545,
             "token": "wow"
+        },
+        {
+            "name": "spontC_077_yeah",
+            "start": 530.58,
+            "end": 531.111625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_062_yeah",
+            "start": 536.13,
+            "end": 536.67875,
+            "token": "yeah"
         }
     ]
 }

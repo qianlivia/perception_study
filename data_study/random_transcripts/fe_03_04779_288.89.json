@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04779",
     "context_channel": 0,
-    "context_text": "<B> um no i'm not a smoker i don't um i don't smoke but i used to work in an office on an office where the the majority of the people are smokers and you know it's like i i have a choose i have a choice not i mean ah i choose not to smoke { right } / <A> [ wah ] / <B> and and and i you know other than the other than rec other than the research and stuff you know bef before even like before i even read why the health reasons you know it doesn't it it doesn't suit me { you } / <A> [ yeah ] / <B> know it it so you know and then when the research kicks in and stuff it's like why should why should i tolerate why should i tolerate um the the smoking / <A> okay / <B> you know i so you know it's their it it's their choice to it's their choice to smoke but you know when you put me in a situation where i have to choose between the air i breathe or i mean yeah between the air i breathe for work / <A> huh",
+    "context_text": "<B> um no i'm not a smoker i don't um i don't smoke but i used to work in an office on an office where the the majority of the people are smokers and you know it's like i i have a choose i have a choice not i mean ah i choose not to smoke { right } / <A> [ yeah ] / <B> and and and i you know other than the other than rec other than the research and stuff you know bef before even like before i even read why the health reasons you know it doesn't it it doesn't suit me { you } / <A> [ wow ] / <B> know it it so you know and then when the research kicks in and stuff it's like why should why should i tolerate why should i tolerate um the the smoking / <A> no / <B> you know i so you know it's their it it's their choice to it's their choice to smoke but you know when you put me in a situation where i have to choose between the air i breathe or i mean yeah between the air i breathe for work / <A> yeah",
     "context_start": 288.89,
-    "context_end": 361.377125,
+    "context_end": 361.388125,
     "feedback": [
         {
-            "name": "PS_163_wah",
+            "name": "spontE_267_yeah",
             "start": 314.27,
-            "end": 315.060875,
-            "token": "wah"
-        },
-        {
-            "name": "spontC_075_yeah",
-            "start": 330.4,
-            "end": 331.054625,
+            "end": 314.951875,
             "token": "yeah"
         },
         {
-            "name": "spontE_158_okay",
-            "start": 343.15,
-            "end": 343.769,
-            "token": "okay"
+            "name": "PS_118_wow",
+            "start": 330.4,
+            "end": 332.05949999999996,
+            "token": "wow"
         },
         {
-            "name": "spontC_366_huh",
+            "name": "NR_074_no",
+            "start": 343.15,
+            "end": 344.0215,
+            "token": "no"
+        },
+        {
+            "name": "spontE_258_yeah",
             "start": 360.76,
-            "end": 361.377125,
-            "token": "huh"
+            "end": 361.388125,
+            "token": "yeah"
         }
     ]
 }

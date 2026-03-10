@@ -1,27 +1,27 @@
 {
     "name": "fe_03_01707",
     "context_channel": 0,
-    "context_text": "<B> i think they could be a threat to us / <A> yeah / <B> cause they didn't like what we did but again i don't feel i think they could maybe hit us with something / <A> wow / <B> but i don't think they could win a war either / <A> hm",
+    "context_text": "<B> i think they could be a threat to us / <A> yes / <B> cause they didn't like what we did but again i don't feel i think they could maybe hit us with something / <A> oh / <B> but i don't think they could win a war either / <A> yeah",
     "context_start": 210.4,
-    "context_end": 222.13125,
+    "context_end": 222.290875,
     "feedback": [
         {
-            "name": "spontF_570_yeah",
+            "name": "sun_032_yes",
             "start": 212.32,
-            "end": 213.201125,
-            "token": "yeah"
+            "end": 213.29675,
+            "token": "yes"
         },
         {
-            "name": "PS_074_wow",
+            "name": "spontC_100_oh",
             "start": 218.65,
-            "end": 219.48725000000002,
-            "token": "wow"
+            "end": 219.26500000000001,
+            "token": "oh"
         },
         {
-            "name": "NS_016_hm",
+            "name": "spontE_245_yeah",
             "start": 221.47,
-            "end": 222.13125,
-            "token": "hm"
+            "end": 222.290875,
+            "token": "yeah"
         }
     ]
 }

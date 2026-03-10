@@ -1,45 +1,45 @@
 {
     "name": "fe_03_01786",
     "context_channel": 1,
-    "context_text": "<A> yeah i know it's grown tremendously just in the last five years / <B> mhm / <A> and i think i first went on the internet in ninety seven / <B> ooh / <A> ninety six yeah might've been ninety six and you know a friend of mine had been talking about it for a couple of years you know he knew all about it he was very up on that / <B> mhm / <A> and yeah it was it was pretty interesting and i think my nieces started having it you know when they first started school / <B> mmm / <A> you know now they i mean they're using it / <B> ooh / <A> all the time they they know an awful lot cause they are learning younger and i think they are a lot more adept with the mouse / <B> wow",
+    "context_text": "<A> yeah i know it's grown tremendously just in the last five years / <B> wow / <A> and i think i first went on the internet in ninety seven / <B> okay / <A> ninety six yeah might've been ninety six and you know a friend of mine had been talking about it for a couple of years you know he knew all about it he was very up on that / <B> wow / <A> and yeah it was it was pretty interesting and i think my nieces started having it you know when they first started school / <B> yeah / <A> you know now they i mean they're using it / <B> wow / <A> all the time they they know an awful lot cause they are learning younger and i think they are a lot more adept with the mouse / <B> absolutely",
     "context_start": 496.03,
-    "context_end": 537.0403749999999,
+    "context_end": 536.934,
     "feedback": [
         {
-            "name": "PR_046_mhm",
+            "name": "PS_018_wow",
             "start": 501.36,
-            "end": 502.29975,
-            "token": "mhm"
-        },
-        {
-            "name": "spontF_454_ooh",
-            "start": 505.74,
-            "end": 506.2445,
-            "token": "ooh"
-        },
-        {
-            "name": "spontA_054_mhm",
-            "start": 516.15,
-            "end": 516.677,
-            "token": "mhm"
-        },
-        {
-            "name": "spontB_320_mmm",
-            "start": 526.56,
-            "end": 527.282375,
-            "token": "mmm"
-        },
-        {
-            "name": "NegS_011_ooh",
-            "start": 529.54,
-            "end": 530.4689999999999,
-            "token": "ooh"
-        },
-        {
-            "name": "PS_135_wow",
-            "start": 535.8,
-            "end": 537.0403749999999,
+            "end": 502.365625,
             "token": "wow"
+        },
+        {
+            "name": "spontF_280_okay",
+            "start": 505.74,
+            "end": 506.461625,
+            "token": "okay"
+        },
+        {
+            "name": "PS_119_wow",
+            "start": 516.15,
+            "end": 517.9925,
+            "token": "wow"
+        },
+        {
+            "name": "spontC_076_yeah",
+            "start": 526.56,
+            "end": 527.247625,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_049_wow",
+            "start": 529.54,
+            "end": 531.346625,
+            "token": "wow"
+        },
+        {
+            "name": "sun_027_absolutely",
+            "start": 535.8,
+            "end": 536.934,
+            "token": "absolutely"
         }
     ]
 }

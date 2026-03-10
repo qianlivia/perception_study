@@ -1,45 +1,45 @@
 {
     "name": "fe_03_01449",
     "context_channel": 0,
-    "context_text": "<B> um i'm not flying right now i was going to go back to missouri and see my grandparents / <A> ooh / <B> and i am not flying because of the terrorist attacks because not for myself i wouldn't be so hesitant for myself but i'm taking all my kids / <A> no / <B> and i just i don't feel comfortable putting their life in jeopardy { in a in } / <A> [ yeah ] / <B> a tumultuous time like this { now } / <A> [ uh-huh ] / <B> that the war's over you know i probably feel a little safer / <A> yeah / <B> but i don't know it still makes me nervous / <A> yeah",
+    "context_text": "<B> um i'm not flying right now i was going to go back to missouri and see my grandparents / <A> wow / <B> and i am not flying because of the terrorist attacks because not for myself i wouldn't be so hesitant for myself but i'm taking all my kids / <A> oh / <B> and i just i don't feel comfortable putting their life in jeopardy { in a in } / <A> [ uh-huh ] / <B> a tumultuous time like this { now } / <A> [ uh-huh ] / <B> that the war's over you know i probably feel a little safer / <A> yeah / <B> but i don't know it still makes me nervous / <A> uh-huh",
     "context_start": 76.22,
-    "context_end": 103.41125,
+    "context_end": 103.47325,
     "feedback": [
         {
-            "name": "PS_121_ooh",
+            "name": "PS_023_wow",
             "start": 81.32,
-            "end": 82.49,
-            "token": "ooh"
+            "end": 82.1095,
+            "token": "wow"
         },
         {
-            "name": "spontB_093_no",
+            "name": "PS_028_oh",
             "start": 87.89,
-            "end": 88.801,
-            "token": "no"
+            "end": 89.650875,
+            "token": "oh"
         },
         {
-            "name": "spontB_135_yeah",
+            "name": "spontC_189_uh-huh",
             "start": 92.68,
-            "end": 93.156,
-            "token": "yeah"
-        },
-        {
-            "name": "spontD_401_uh-huh",
-            "start": 94.96,
-            "end": 95.6185,
+            "end": 93.16025,
             "token": "uh-huh"
         },
         {
-            "name": "spontE_245_yeah",
+            "name": "spontB_129_uh-huh",
+            "start": 94.96,
+            "end": 95.44337499999999,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontE_059_yeah",
             "start": 98.4,
-            "end": 99.220875,
+            "end": 99.28137500000001,
             "token": "yeah"
         },
         {
-            "name": "spontD_236_yeah",
+            "name": "sun1_034_uh-huh",
             "start": 102.66,
-            "end": 103.41125,
-            "token": "yeah"
+            "end": 103.47325,
+            "token": "uh-huh"
         }
     ]
 }

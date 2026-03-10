@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01963",
     "context_channel": 1,
-    "context_text": "<A> yeah i make i'm i'm actually expanding now i'm i'm actually expanding in in different areas / <B> mhm / <A> so um you know i'm trying to divide my time { i i } / <B> [ mhm ] / <A> actually went to get over into um you know i've been studying and and monitoring um into foreign exchange trading / <B> wow / <A> and that's been very intriguing to me / <B> wow",
+    "context_text": "<A> yeah i make i'm i'm actually expanding now i'm i'm actually expanding in in different areas / <B> yep / <A> so um you know i'm trying to divide my time { i i } / <B> [ no ] / <A> actually went to get over into um you know i've been studying and and monitoring um into foreign exchange trading / <B> yeah / <A> and that's been very intriguing to me / <B> mhm",
     "context_start": 565.73,
-    "context_end": 594.054,
+    "context_end": 592.8164999999999,
     "feedback": [
         {
-            "name": "spontA_400_mhm",
+            "name": "PR_027_yep",
             "start": 572.35,
-            "end": 573.1705000000001,
-            "token": "mhm"
+            "end": 572.89275,
+            "token": "yep"
         },
         {
-            "name": "spontC_243_mhm",
+            "name": "NR_083_no",
             "start": 577.07,
-            "end": 577.595125,
-            "token": "mhm"
+            "end": 578.2492500000001,
+            "token": "no"
         },
         {
-            "name": "PS_065_wow",
+            "name": "spontE_125_yeah",
             "start": 587.54,
-            "end": 588.3534999999999,
-            "token": "wow"
+            "end": 588.31525,
+            "token": "yeah"
         },
         {
-            "name": "PS_141_wow",
+            "name": "spontA_269_mhm",
             "start": 592.3,
-            "end": 594.054,
-            "token": "wow"
+            "end": 592.8164999999999,
+            "token": "mhm"
         }
     ]
 }

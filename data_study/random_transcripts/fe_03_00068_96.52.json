@@ -1,39 +1,39 @@
 {
     "name": "fe_03_00068",
     "context_channel": 0,
-    "context_text": "<B> yeah an and it's it's just so hard because people you know try to cold turkey the nicotine patches you name it an and you know they still can't stop { smoking } / <A> [ ooh ] / <B> and and it's it's uh it's a dangerous thing for { just } / <A> [ huh ] / <B> even the environment the people { around } / <A> [ gosh ] / <B> them children / <A> what / <B> e especially themselves and um i i try to tell my friends to quit smoking but it's not working / <A> wow",
+    "context_text": "<B> yeah an and it's it's just so hard because people you know try to cold turkey the nicotine patches you name it an and you know they still can't stop { smoking } / <A> [ oh ] / <B> and and it's it's uh it's a dangerous thing for { just } / <A> [ yeah ] / <B> even the environment the people { around } / <A> [ mhm ] / <B> them children / <A> uh-huh / <B> e especially themselves and um i i try to tell my friends to quit smoking but it's not working / <A> no",
     "context_start": 96.52,
-    "context_end": 123.221,
+    "context_end": 123.29462500000001,
     "feedback": [
         {
-            "name": "NegS_038_ooh",
+            "name": "spontF_102_oh",
             "start": 104.34,
-            "end": 105.353125,
-            "token": "ooh"
+            "end": 104.9435,
+            "token": "oh"
         },
         {
-            "name": "NS_070_huh",
+            "name": "spontC_374_yeah",
             "start": 109.94,
-            "end": 110.724,
-            "token": "huh"
+            "end": 110.450375,
+            "token": "yeah"
         },
         {
-            "name": "NegS_061_gosh",
+            "name": "spontD_178_mhm",
             "start": 112.07,
-            "end": 112.84787499999999,
-            "token": "gosh"
+            "end": 112.68924999999999,
+            "token": "mhm"
         },
         {
-            "name": "Nu_003_what",
+            "name": "spontC_358_uh-huh",
             "start": 114.49,
-            "end": 115.05812499999999,
-            "token": "what"
+            "end": 115.07499999999999,
+            "token": "uh-huh"
         },
         {
-            "name": "PS_116_wow",
+            "name": "sun2_005_no",
             "start": 122.26,
-            "end": 123.221,
-            "token": "wow"
+            "end": 123.29462500000001,
+            "token": "no"
         }
     ]
 }

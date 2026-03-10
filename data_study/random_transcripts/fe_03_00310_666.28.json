@@ -1,45 +1,45 @@
 {
     "name": "fe_03_00310",
     "context_channel": 1,
-    "context_text": "<A> but i i guess what i was trying to get at was that if there was a tiered process / <B> yeah / <A> the technology should be in place / <B> ugh / <A> to be able to screen you if you do have traces of um / <B> oh / <A> explosives on you or / <B> ooh / <A> contraband or whatever the case may be / <B> oh / <A> um and i i i think that if you are going into a public arena / <B> uh-huh",
+    "context_text": "<A> but i i guess what i was trying to get at was that if there was a tiered process / <B> no / <A> the technology should be in place / <B> yeah / <A> to be able to screen you if you do have traces of um / <B> yeah / <A> explosives on you or / <B> yeah / <A> contraband or whatever the case may be / <B> no / <A> um and i i i think that if you are going into a public arena / <B> really",
     "context_start": 666.28,
-    "context_end": 690.099125,
+    "context_end": 690.17225,
     "feedback": [
         {
-            "name": "spontB_157_yeah",
+            "name": "Sy_001_no",
             "start": 671.73,
-            "end": 672.401875,
+            "end": 673.512125,
+            "token": "no"
+        },
+        {
+            "name": "spontA_340_yeah",
+            "start": 674.17,
+            "end": 674.5925,
             "token": "yeah"
         },
         {
-            "name": "NegS_020_ugh",
-            "start": 674.17,
-            "end": 675.4343749999999,
-            "token": "ugh"
-        },
-        {
-            "name": "spontE_048_oh",
+            "name": "spontC_024_yeah",
             "start": 678.22,
-            "end": 678.9651250000001,
-            "token": "oh"
+            "end": 678.9596250000001,
+            "token": "yeah"
         },
         {
-            "name": "PS_186_ooh",
+            "name": "spontA_127_yeah",
             "start": 679.89,
-            "end": 680.4784999999999,
-            "token": "ooh"
+            "end": 680.5415,
+            "token": "yeah"
         },
         {
-            "name": "spontF_016_oh",
+            "name": "NR_102_no",
             "start": 682.66,
-            "end": 683.830875,
-            "token": "oh"
+            "end": 683.32875,
+            "token": "no"
         },
         {
-            "name": "spontF_092_uh-huh",
+            "name": "NS_082_really",
             "start": 689.42,
-            "end": 690.099125,
-            "token": "uh-huh"
+            "end": 690.17225,
+            "token": "really"
         }
     ]
 }

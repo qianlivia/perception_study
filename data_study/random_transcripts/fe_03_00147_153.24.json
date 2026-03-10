@@ -1,39 +1,39 @@
 {
     "name": "fe_03_00147",
     "context_channel": 0,
-    "context_text": "<B> so i i actually think that it's a burden for us to feel that we need to regulate the world { at } / <A> [ ooh ] / <B> the same time who else is going to do it and this man has used his weapons of ah biochemical weapons against his own people and against / <A> ah / <B> other people um the government has ah agreed that the gulf war participants were gassed / <A> oh / <B> um they probably didn't want to agree that that had happened ah because now they have to pay for care / <A> aha / <B> but ah they have agreed and s when they examined the soldiers that they / <A> wow",
+    "context_text": "<B> so i i actually think that it's a burden for us to feel that we need to regulate the world { at } / <A> [ yes ] / <B> the same time who else is going to do it and this man has used his weapons of ah biochemical weapons against his own people and against / <A> yep / <B> other people um the government has ah agreed that the gulf war participants were gassed / <A> exactly / <B> um they probably didn't want to agree that that had happened ah because now they have to pay for care / <A> okay / <B> but ah they have agreed and s when they examined the soldiers that they / <A> no",
     "context_start": 153.24,
-    "context_end": 200.062375,
+    "context_end": 199.992875,
     "feedback": [
         {
-            "name": "PS_133_ooh",
+            "name": "sun1_027_yes",
             "start": 166.49,
-            "end": 167.82500000000002,
-            "token": "ooh"
+            "end": 167.2305,
+            "token": "yes"
         },
         {
-            "name": "spontE_232_ah",
+            "name": "PR_027_yep",
             "start": 177.3,
-            "end": 178.28075,
-            "token": "ah"
+            "end": 177.84275000000002,
+            "token": "yep"
         },
         {
-            "name": "PS_010_oh",
+            "name": "sun_042_exactly",
             "start": 185.89,
-            "end": 187.326,
-            "token": "oh"
+            "end": 186.84724999999997,
+            "token": "exactly"
         },
         {
-            "name": "PS_143_aha",
+            "name": "spontD_033_okay",
             "start": 193.69,
-            "end": 195.013125,
-            "token": "aha"
+            "end": 194.386625,
+            "token": "okay"
         },
         {
-            "name": "PS_129_wow",
+            "name": "NR_085_no",
             "start": 199.12,
-            "end": 200.062375,
-            "token": "wow"
+            "end": 199.992875,
+            "token": "no"
         }
     ]
 }

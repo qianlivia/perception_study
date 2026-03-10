@@ -1,32 +1,32 @@
 {
     "name": "fe_03_03945",
     "context_channel": 0,
-    "context_text": "<B> well i was born in ohio but right i'm living in north carolina right now i'm on { to } / <A> [ ooh ] / <B> on top of a mountain { so } / <A> [ mhm ] / <B> but we have um a small theater here that they have um the shows revolve uh it's they have like a comedy group or they'll have a musical group or poetry or whatever { and } / <A> [ yeah ] / <B> i haven't been myself but i know i have a friend who had been when they had a comedy night and she said i c maybe it's me she said i don't i just don't find any of what they said funny and so i asked her for some examples and she was right you know it's it's ah this is a kind of a small area { the } / <A> [ yeah ]",
+    "context_text": "<B> well i was born in ohio but right i'm living in north carolina right now i'm on { to } / <A> [ yeah ] / <B> on top of a mountain { so } / <A> [ yeah ] / <B> but we have um a small theater here that they have um the shows revolve uh it's they have like a comedy group or they'll have a musical group or poetry or whatever { and } / <A> [ yeah ] / <B> i haven't been myself but i know i have a friend who had been when they had a comedy night and she said i c maybe it's me she said i don't i just don't find any of what they said funny and so i asked her for some examples and she was right you know it's it's ah this is a kind of a small area { the } / <A> [ yeah ]",
     "context_start": 340.48,
-    "context_end": 387.88649999999996,
+    "context_end": 387.691625,
     "feedback": [
         {
-            "name": "NegS_064_ooh",
+            "name": "spontE_329_yeah",
             "start": 344.98,
-            "end": 346.00025,
-            "token": "ooh"
-        },
-        {
-            "name": "spontF_312_mhm",
-            "start": 347.29,
-            "end": 347.808625,
-            "token": "mhm"
-        },
-        {
-            "name": "spontA_043_yeah",
-            "start": 363.66,
-            "end": 364.28062500000004,
+            "end": 345.627,
             "token": "yeah"
         },
         {
-            "name": "spontF_294_yeah",
+            "name": "spontF_491_yeah",
+            "start": 347.29,
+            "end": 348.056625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_595_yeah",
+            "start": 363.66,
+            "end": 364.27200000000005,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_280_yeah",
             "start": 387.15,
-            "end": 387.88649999999996,
+            "end": 387.691625,
             "token": "yeah"
         }
     ]

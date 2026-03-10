@@ -1,39 +1,39 @@
 {
     "name": "fe_03_03340",
     "context_channel": 0,
-    "context_text": "<B> [ well ] well you know like when i uh you know when i'm dealing with situations at home i if i'm not there her word is like mine vice versa you know it's like the the bosses of the house / <A> uh-oh / <B> cause we we trust each other's judgement and stuff and i don't know there's just b besides that i mean just compatibility in other areas / <A> hm / <B> you know like if one person has like a um a high tolerance or a high whatever and the other one you know i don't know even like for hot sauce or something / <A> m-m / <B> you know you try to be more on the same you know level and you make compromising and stuff like that like a daily part of your life cause you have to deal with a lot of stupid little things / <A> okay / <B> you know like um no closet space / <A> no",
+    "context_text": "<B> [ well ] well you know like when i uh you know when i'm dealing with situations at home i if i'm not there her word is like mine vice versa you know it's like the the bosses of the house / <A> yeah / <B> cause we we trust each other's judgement and stuff and i don't know there's just b besides that i mean just compatibility in other areas / <A> yeah / <B> you know like if one person has like a um a high tolerance or a high whatever and the other one you know i don't know even like for hot sauce or something / <A> uh-huh / <B> you know you try to be more on the same you know level and you make compromising and stuff like that like a daily part of your life cause you have to deal with a lot of stupid little things / <A> mhm / <B> you know like um no closet space / <A> uh-huh",
     "context_start": 164.61,
-    "context_end": 213.789875,
+    "context_end": 213.6675,
     "feedback": [
         {
-            "name": "NegS_055_uh-oh",
+            "name": "spontC_398_yeah",
             "start": 178.21,
-            "end": 179.288375,
-            "token": "uh-oh"
+            "end": 178.56412500000002,
+            "token": "yeah"
         },
         {
-            "name": "NS_059_hm",
+            "name": "spontB_323_yeah",
             "start": 185.8,
-            "end": 186.69075,
-            "token": "hm"
+            "end": 186.78675,
+            "token": "yeah"
         },
         {
-            "name": "sun_009_m-m",
+            "name": "spontA_041_uh-huh",
             "start": 196.72,
-            "end": 197.66575,
-            "token": "m-m"
+            "end": 197.28375,
+            "token": "uh-huh"
         },
         {
-            "name": "spontE_071_okay",
+            "name": "spontA_285_mhm",
             "start": 208.78,
-            "end": 209.434,
-            "token": "okay"
+            "end": 209.3255,
+            "token": "mhm"
         },
         {
-            "name": "NR_003_no",
+            "name": "spontD_028_uh-huh",
             "start": 213.16,
-            "end": 213.789875,
-            "token": "no"
+            "end": 213.6675,
+            "token": "uh-huh"
         }
     ]
 }

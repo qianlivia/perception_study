@@ -1,39 +1,39 @@
 {
     "name": "fe_03_02616",
     "context_channel": 1,
-    "context_text": "<A> right and i guess since the first you know iraq war whatever in ninety one um part of the deal when everything was done was that iraq was supposed to let in weapons inspectors / <B> oh / <A> and then they kicked them out like after four years / <B> pardon / <A> so it's still part of the you know agreement at the end of that war / <B> wow / <A> that inspections should go ahead so i guess whether or not there were was a war now / <B> wow / <A> in in the terms of ninety one they're still supposed to go in so i guess they should go in / <B> wow",
+    "context_text": "<A> right and i guess since the first you know iraq war whatever in ninety one um part of the deal when everything was done was that iraq was supposed to let in weapons inspectors / <B> yeah / <A> and then they kicked them out like after four years / <B> mhm / <A> so it's still part of the you know agreement at the end of that war / <B> uh-huh / <A> that inspections should go ahead so i guess whether or not there were was a war now / <B> yeah / <A> in in the terms of ninety one they're still supposed to go in so i guess they should go in / <B> okay",
     "context_start": 180.8,
-    "context_end": 218.79575,
+    "context_end": 218.119,
     "feedback": [
         {
-            "name": "spontC_315_oh",
+            "name": "spontA_316_yeah",
             "start": 195.19,
-            "end": 195.95775,
-            "token": "oh"
+            "end": 195.76875,
+            "token": "yeah"
         },
         {
-            "name": "Nu_028_pardon",
+            "name": "spontC_304_mhm",
             "start": 198.23,
-            "end": 198.88825,
-            "token": "pardon"
+            "end": 198.748,
+            "token": "mhm"
         },
         {
-            "name": "PS_116_wow",
+            "name": "spontD_206_uh-huh",
             "start": 203.71,
-            "end": 204.67100000000002,
-            "token": "wow"
+            "end": 204.3385,
+            "token": "uh-huh"
         },
         {
-            "name": "PS_043_wow",
+            "name": "spontF_300_yeah",
             "start": 209.13,
-            "end": 210.46525,
-            "token": "wow"
+            "end": 209.620625,
+            "token": "yeah"
         },
         {
-            "name": "PS_108_wow",
+            "name": "spontD_022_okay",
             "start": 217.65,
-            "end": 218.79575,
-            "token": "wow"
+            "end": 218.119,
+            "token": "okay"
         }
     ]
 }

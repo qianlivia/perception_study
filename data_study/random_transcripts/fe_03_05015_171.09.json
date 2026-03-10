@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05015",
     "context_channel": 1,
-    "context_text": "<A> uh well i'm glad you brought that up because that's now that i think about that has changed a little bit because my wife travels for her job and i had to take her to the airport this past sunday morning for / <B> ooh / <A> uh a flight to california for a week and uh you know it does affect y you know you got to get there earlier and of course uh you know i walked her in and uh you know there's extra security and extra scanning and / <B> uh-huh / <A> you can only go so far now with your the person you're dropping off / <B> yeah / <A> you just don't have access right up to the gate and say goodbye to them as they're about to board { you } / <B> [ yeah ]",
+    "context_text": "<A> uh well i'm glad you brought that up because that's now that i think about that has changed a little bit because my wife travels for her job and i had to take her to the airport this past sunday morning for / <B> oh / <A> uh a flight to california for a week and uh you know it does affect y you know you got to get there earlier and of course uh you know i walked her in and uh you know there's extra security and extra scanning and / <B> ooh / <A> you can only go so far now with your the person you're dropping off / <B> yeah / <A> you just don't have access right up to the gate and say goodbye to them as they're about to board { you } / <B> [ no ]",
     "context_start": 171.09,
-    "context_end": 210.01399999999998,
+    "context_end": 210.11475,
     "feedback": [
         {
-            "name": "PS_138_ooh",
+            "name": "spontF_292_oh",
             "start": 183.5,
-            "end": 184.623,
+            "end": 184.387625,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_642_ooh",
+            "start": 198.65,
+            "end": 199.613,
             "token": "ooh"
         },
         {
-            "name": "spontC_191_uh-huh",
-            "start": 198.65,
-            "end": 199.128125,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontE_023_yeah",
+            "name": "spontE_062_yeah",
             "start": 204.11,
-            "end": 204.64562500000002,
+            "end": 204.77212500000002,
             "token": "yeah"
         },
         {
-            "name": "spontE_047_yeah",
+            "name": "NR_120_no",
             "start": 209.45,
-            "end": 210.01399999999998,
-            "token": "yeah"
+            "end": 210.11475,
+            "token": "no"
         }
     ]
 }

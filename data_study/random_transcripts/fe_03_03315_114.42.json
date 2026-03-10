@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03315",
     "context_channel": 1,
-    "context_text": "<A> and um in the beginning it was hard but you know we we're in synch now and we agree with you { know } / <B> [ yeah ] / <A> because we have a child too you have to deal and communicate and / <B> uh-huh / <A> not argue with each other in front of our son / <B> oh / <A> which is and you gotta keep things intact so { you } / <B> [ aww ]",
+    "context_text": "<A> and um in the beginning it was hard but you know we we're in synch now and we agree with you { know } / <B> [ wow ] / <A> because we have a child too you have to deal and communicate and / <B> yeah / <A> not argue with each other in front of our son / <B> yes / <A> which is and you gotta keep things intact so { you } / <B> [ no ]",
     "context_start": 114.42,
-    "context_end": 139.7005,
+    "context_end": 139.794375,
     "feedback": [
         {
-            "name": "spontE_248_yeah",
+            "name": "PS_092_wow",
             "start": 123.61,
-            "end": 124.2005,
+            "end": 124.527125,
+            "token": "wow"
+        },
+        {
+            "name": "spontB_135_yeah",
+            "start": 127.51,
+            "end": 127.986,
             "token": "yeah"
         },
         {
-            "name": "spontE_173_uh-huh",
-            "start": 127.51,
-            "end": 128.1185,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontB_304_oh",
+            "name": "PR_026_yes",
             "start": 132.17,
-            "end": 133.29437499999997,
-            "token": "oh"
+            "end": 132.764375,
+            "token": "yes"
         },
         {
-            "name": "spontC_272_aww",
+            "name": "NR_005_no",
             "start": 139.02,
-            "end": 139.7005,
-            "token": "aww"
+            "end": 139.794375,
+            "token": "no"
         }
     ]
 }

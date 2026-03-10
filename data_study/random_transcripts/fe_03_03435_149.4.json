@@ -1,27 +1,27 @@
 {
     "name": "fe_03_03435",
     "context_channel": 0,
-    "context_text": "<B> about yourse well think / <A> really / <B> about yourself but don't think / <A> yeah / <B> about just yourself you have { to think } / <A> [ okay ]",
+    "context_text": "<B> about yourse well think / <A> oh / <B> about yourself but don't think / <A> yeah / <B> about just yourself you have { to think } / <A> [ no ]",
     "context_start": 149.4,
-    "context_end": 154.864,
+    "context_end": 155.02775,
     "feedback": [
         {
-            "name": "sun2_001_really",
+            "name": "spontF_288_oh",
             "start": 150.46,
-            "end": 151.190625,
-            "token": "really"
+            "end": 151.32987500000002,
+            "token": "oh"
         },
         {
-            "name": "spontC_395_yeah",
+            "name": "spontC_077_yeah",
             "start": 152.14,
-            "end": 152.536125,
+            "end": 152.67162499999998,
             "token": "yeah"
         },
         {
-            "name": "spontE_071_okay",
+            "name": "sun_006_no",
             "start": 154.21,
-            "end": 154.864,
-            "token": "okay"
+            "end": 155.02775,
+            "token": "no"
         }
     ]
 }

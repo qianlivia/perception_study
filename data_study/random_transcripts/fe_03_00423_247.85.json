@@ -1,27 +1,27 @@
 {
     "name": "fe_03_00423",
     "context_channel": 1,
-    "context_text": "<A> who is able to stay home i know that you know grandparents { who } / <B> [ wow ] / <A> are with children / <B> mhm / <A> often as caretakers / <B> uh-huh",
+    "context_text": "<A> who is able to stay home i know that you know grandparents { who } / <B> [ oh ] / <A> are with children / <B> no / <A> often as caretakers / <B> mhm",
     "context_start": 247.85,
-    "context_end": 257.38225,
+    "context_end": 257.5295,
     "feedback": [
         {
-            "name": "PS_060_wow",
+            "name": "spontB_181_oh",
             "start": 252.8,
-            "end": 254.066875,
-            "token": "wow"
+            "end": 253.402375,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_264_no",
+            "start": 254.57,
+            "end": 255.107125,
+            "token": "no"
         },
         {
             "name": "spontB_377_mhm",
-            "start": 254.57,
-            "end": 255.21949999999998,
-            "token": "mhm"
-        },
-        {
-            "name": "spontB_280_uh-huh",
             "start": 256.88,
-            "end": 257.38225,
-            "token": "uh-huh"
+            "end": 257.5295,
+            "token": "mhm"
         }
     ]
 }

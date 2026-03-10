@@ -1,39 +1,39 @@
 {
     "name": "fe_03_01293",
     "context_channel": 0,
-    "context_text": "<B> at b byu and byu is a very conservative school it's { um } / <A> [ uh-huh ] / <B> then going to usc is a much more liberal school around { here } / <A> [ what ] / <B> um usc is is probably f at least within my department it's are are you talking in the context of war right now { like } / <A> [ mhm ] / <B> what their stand i'd say it was pretty much uh anti war most of the people that are in the department there are very few americans they're { primarily } / <A> [ yeah ] / <B> europeans and actually a fair number of uh of turks and so { uh } / <A> [ yeah ]",
+    "context_text": "<B> at b byu and byu is a very conservative school it's { um } / <A> [ sure ] / <B> then going to usc is a much more liberal school around { here } / <A> [ yeah ] / <B> um usc is is probably f at least within my department it's are are you talking in the context of war right now { like } / <A> [ yeah ] / <B> what their stand i'd say it was pretty much uh anti war most of the people that are in the department there are very few americans they're { primarily } / <A> [ yeah ] / <B> europeans and actually a fair number of uh of turks and so { uh } / <A> [ exactly ]",
     "context_start": 259.24,
-    "context_end": 292.4135,
+    "context_end": 292.803,
     "feedback": [
         {
-            "name": "spontF_566_uh-huh",
+            "name": "sun_052_sure",
             "start": 263.26,
-            "end": 263.874375,
-            "token": "uh-huh"
+            "end": 264.11775,
+            "token": "sure"
         },
         {
-            "name": "Nu_021_what",
+            "name": "spontB_094_yeah",
             "start": 266.54,
-            "end": 267.16925000000003,
-            "token": "what"
+            "end": 266.87600000000003,
+            "token": "yeah"
         },
         {
-            "name": "spontC_212_mhm",
+            "name": "spontB_186_yeah",
             "start": 277.31,
-            "end": 277.79375,
-            "token": "mhm"
+            "end": 277.887,
+            "token": "yeah"
         },
         {
-            "name": "spontB_384_yeah",
+            "name": "spontB_366_yeah",
             "start": 286.12,
-            "end": 286.80125,
+            "end": 286.77625,
             "token": "yeah"
         },
         {
-            "name": "spontA_422_yeah",
+            "name": "sun_041_exactly",
             "start": 291.85,
-            "end": 292.4135,
-            "token": "yeah"
+            "end": 292.803,
+            "token": "exactly"
         }
     ]
 }

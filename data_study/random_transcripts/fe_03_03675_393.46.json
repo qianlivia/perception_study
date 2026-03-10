@@ -1,39 +1,39 @@
 {
     "name": "fe_03_03675",
     "context_channel": 1,
-    "context_text": "<A> it's there's days where it's really really hot and there's days where it's really really cold and then there's good days but mostly it's hot here / <B> hm / <A> but it's like the humid hot it's not like dry hot like in the desert which is kinda nice cause it's just hot but { you're } / <B> [ no ] / <A> not really really sweaty or smell anything like that / <B> mhm / <A> like here it's like really really humid hot so if you don't have { your } / <B> [ uh-huh ] / <A> ac then i'm pretty / <B> yeah",
+    "context_text": "<A> it's there's days where it's really really hot and there's days where it's really really cold and then there's good days but mostly it's hot here / <B> uh-huh / <A> but it's like the humid hot it's not like dry hot like in the desert which is kinda nice cause it's just hot but { you're } / <B> [ uh-huh ] / <A> not really really sweaty or smell anything like that / <B> mhm / <A> like here it's like really really humid hot so if you don't have { your } / <B> [ uh-huh ] / <A> ac then i'm pretty / <B> ooh",
     "context_start": 393.46,
-    "context_end": 410.00050000000005,
+    "context_end": 410.58000000000004,
     "feedback": [
         {
-            "name": "NS_076_hm",
+            "name": "spontB_099_uh-huh",
             "start": 397.67,
-            "end": 398.49737500000003,
-            "token": "hm"
-        },
-        {
-            "name": "NR_111_no",
-            "start": 402.62,
-            "end": 403.36762500000003,
-            "token": "no"
-        },
-        {
-            "name": "spontC_226_mhm",
-            "start": 404.79,
-            "end": 405.29737500000005,
-            "token": "mhm"
-        },
-        {
-            "name": "spontF_079_uh-huh",
-            "start": 407.19,
-            "end": 407.83,
+            "end": 398.36275,
             "token": "uh-huh"
         },
         {
-            "name": "spontE_248_yeah",
+            "name": "spontF_634_uh-huh",
+            "start": 402.62,
+            "end": 403.16425,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_061_mhm",
+            "start": 404.79,
+            "end": 405.315375,
+            "token": "mhm"
+        },
+        {
+            "name": "spontE_065_uh-huh",
+            "start": 407.19,
+            "end": 407.634375,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PS_121_ooh",
             "start": 409.41,
-            "end": 410.00050000000005,
-            "token": "yeah"
+            "end": 410.58000000000004,
+            "token": "ooh"
         }
     ]
 }

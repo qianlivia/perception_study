@@ -1,39 +1,39 @@
 {
     "name": "fe_03_04505",
     "context_channel": 0,
-    "context_text": "<B> right yeah well um i mean i i pretty much agree i think i mean i think there's a lot of problems on a lot of different levels i mean i did go through you know the public school system / <A> uh-huh / <B> through high school and yeah even college although it's a different system but / <A> yeah / <B> um and i mean for one thing i i do think that you know some of the problems i mean it depends on where the schools are because um i went to one that was you know um in the inner city and / <A> yeah / <B> um my even my elementary school you know um there were many people like you know doing drugs and or or even dealing it you know people who i i even knew myself / <A> yeah / <B> and um you know and and that was actually in elementary i mean i remember second grade you know it was like / <A> oh",
+    "context_text": "<B> right yeah well um i mean i i pretty much agree i think i mean i think there's a lot of problems on a lot of different levels i mean i did go through you know the public school system / <A> no / <B> through high school and yeah even college although it's a different system but / <A> no / <B> um and i mean for one thing i i do think that you know some of the problems i mean it depends on where the schools are because um i went to one that was you know um in the inner city and / <A> mhm / <B> um my even my elementary school you know um there were many people like you know doing drugs and or or even dealing it you know people who i i even knew myself / <A> no / <B> and um you know and and that was actually in elementary i mean i remember second grade you know it was like / <A> yeah",
     "context_start": 91.24,
-    "context_end": 140.76275,
+    "context_end": 140.39575000000002,
     "feedback": [
         {
-            "name": "spontE_282_uh-huh",
+            "name": "NR_032_no",
             "start": 102.65,
-            "end": 103.12725,
-            "token": "uh-huh"
+            "end": 103.5265,
+            "token": "no"
         },
         {
-            "name": "PS_042_yeah",
+            "name": "NR_057_no",
             "start": 107.6,
-            "end": 108.966625,
-            "token": "yeah"
+            "end": 108.35449999999999,
+            "token": "no"
         },
         {
-            "name": "spontB_393_yeah",
+            "name": "spontE_118_mhm",
             "start": 122.33,
-            "end": 122.73275,
-            "token": "yeah"
+            "end": 122.9205,
+            "token": "mhm"
         },
         {
-            "name": "spontC_153_yeah",
+            "name": "sun_018_no",
             "start": 134.5,
-            "end": 135.097625,
-            "token": "yeah"
+            "end": 135.228875,
+            "token": "no"
         },
         {
-            "name": "PS_014_oh",
+            "name": "spontA_273_yeah",
             "start": 139.83,
-            "end": 140.76275,
-            "token": "oh"
+            "end": 140.39575000000002,
+            "token": "yeah"
         }
     ]
 }

@@ -1,27 +1,27 @@
 {
     "name": "fe_03_03246",
     "context_channel": 0,
-    "context_text": "<B> um and i came from a blue collar family my father worked for general motors / <A> yeah / <B> ah and i was raised with the work ethic that you know you grow up you find a good company to go to work for and you retire from them { you } / <A> [ uh-huh ] / <B> do good by them they do good by you um back in the seventies and the eighties corporations stopped caring about their number one resource which is their employees { and they } / <A> [ oh ]",
+    "context_text": "<B> um and i came from a blue collar family my father worked for general motors / <A> yeah / <B> ah and i was raised with the work ethic that you know you grow up you find a good company to go to work for and you retire from them { you } / <A> [ okay ] / <B> do good by them they do good by you um back in the seventies and the eighties corporations stopped caring about their number one resource which is their employees { and they } / <A> [ yeah ]",
     "context_start": 217.01,
-    "context_end": 243.2865,
+    "context_end": 243.11724999999998,
     "feedback": [
         {
-            "name": "spontE_023_yeah",
+            "name": "spontE_094_yeah",
             "start": 221.72,
-            "end": 222.255625,
+            "end": 222.487875,
             "token": "yeah"
         },
         {
-            "name": "spontE_260_uh-huh",
+            "name": "spontE_158_okay",
             "start": 231.2,
-            "end": 231.75275,
-            "token": "uh-huh"
+            "end": 231.819,
+            "token": "okay"
         },
         {
-            "name": "spontD_114_oh",
+            "name": "spontC_007_yeah",
             "start": 242.66,
-            "end": 243.2865,
-            "token": "oh"
+            "end": 243.11724999999998,
+            "token": "yeah"
         }
     ]
 }

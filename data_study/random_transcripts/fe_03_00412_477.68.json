@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00412",
     "context_channel": 1,
-    "context_text": "<A> mean it just i mean i can do the basics i can do like probably about like an average person or better than an average person but sometimes / <B> ugh / <A> i'm i'm just trying you know i'm avoiding using computers for some reasons { because i } / <B> [ yeah ] / <A> don't know maybe it's uh i don't know something ingrained in my mind that computers are evil or something i don't know what it is but it's kind of uh just the i if i have you know a choice of doing anything the old fashioned way i would do it the old fashioned way instead of uh / <B> yeah / <A> using computers although you know i i'm not downplaying the importance of computers in society and and uh how that really you know accelerates a lot of things and ease our daily routine but / <B> huh",
+    "context_text": "<A> mean it just i mean i can do the basics i can do like probably about like an average person or better than an average person but sometimes / <B> uh-huh / <A> i'm i'm just trying you know i'm avoiding using computers for some reasons { because i } / <B> [ yeah ] / <A> don't know maybe it's uh i don't know something ingrained in my mind that computers are evil or something i don't know what it is but it's kind of uh just the i if i have you know a choice of doing anything the old fashioned way i would do it the old fashioned way instead of uh / <B> oh / <A> using computers although you know i i'm not downplaying the importance of computers in society and and uh how that really you know accelerates a lot of things and ease our daily routine but / <B> uh-huh",
     "context_start": 477.68,
-    "context_end": 522.967125,
+    "context_end": 523.4813750000001,
     "feedback": [
         {
-            "name": "NegS_058_ugh",
+            "name": "spontE_166_uh-huh",
             "start": 485.6,
-            "end": 486.548875,
-            "token": "ugh"
+            "end": 486.14137500000004,
+            "token": "uh-huh"
         },
         {
-            "name": "spontE_235_yeah",
+            "name": "spontC_395_yeah",
             "start": 491.37,
-            "end": 492.311875,
+            "end": 491.766125,
             "token": "yeah"
         },
         {
-            "name": "spontF_512_yeah",
+            "name": "spontF_320_oh",
             "start": 509.0,
-            "end": 509.98625,
-            "token": "yeah"
+            "end": 509.702375,
+            "token": "oh"
         },
         {
-            "name": "NS_027_huh",
+            "name": "PS_036_uh-huh",
             "start": 522.47,
-            "end": 522.967125,
-            "token": "huh"
+            "end": 523.4813750000001,
+            "token": "uh-huh"
         }
     ]
 }

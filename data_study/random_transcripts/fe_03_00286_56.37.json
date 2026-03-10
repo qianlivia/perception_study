@@ -1,45 +1,45 @@
 {
     "name": "fe_03_00286",
     "context_channel": 0,
-    "context_text": "<B> and it's time not only financially expensive but time consuming personally i have not been to an airport since nine eleven / <A> pardon / <B> i haven't been on an airplane but i work with professors that are i do the travel for them / <A> yeah / <B> and they are constantly flying international domestic flights / <A> wow / <B> and there's a a marketable difference in just the the time frame that they have to the amount of time that they have to devote to traveling / <A> ah / <B> and the amount of like i said the false securities of i've had several professors that were evacuated off planes / <A> yeah / <B> because of the security not not being up to par / <A> no",
+    "context_text": "<B> and it's time not only financially expensive but time consuming personally i have not been to an airport since nine eleven / <A> yeah / <B> i haven't been on an airplane but i work with professors that are i do the travel for them / <A> yeah / <B> and they are constantly flying international domestic flights / <A> yeah / <B> and there's a a marketable difference in just the the time frame that they have to the amount of time that they have to devote to traveling / <A> wow / <B> and the amount of like i said the false securities of i've had several professors that were evacuated off planes / <A> yeah / <B> because of the security not not being up to par / <A> ah",
     "context_start": 56.37,
-    "context_end": 104.93,
+    "context_end": 104.75525,
     "feedback": [
         {
-            "name": "Nu_052_pardon",
+            "name": "spontB_100_yeah",
             "start": 65.02,
-            "end": 65.776625,
-            "token": "pardon"
-        },
-        {
-            "name": "spontC_382_yeah",
-            "start": 71.29,
-            "end": 71.86925000000001,
+            "end": 65.69425,
             "token": "yeah"
         },
         {
-            "name": "PS_161_wow",
+            "name": "spontA_337_yeah",
+            "start": 71.29,
+            "end": 71.690375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_157_yeah",
             "start": 76.83,
-            "end": 77.723375,
+            "end": 77.501875,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_038_wow",
+            "start": 87.41,
+            "end": 88.76575,
             "token": "wow"
         },
         {
-            "name": "spontF_629_ah",
-            "start": 87.41,
-            "end": 88.07525,
-            "token": "ah"
-        },
-        {
-            "name": "spontD_198_yeah",
+            "name": "spontA_297_yeah",
             "start": 98.9,
-            "end": 99.5875,
+            "end": 99.446375,
             "token": "yeah"
         },
         {
-            "name": "NR_063_no",
+            "name": "spontA_245_ah",
             "start": 104.17,
-            "end": 104.93,
-            "token": "no"
+            "end": 104.75525,
+            "token": "ah"
         }
     ]
 }

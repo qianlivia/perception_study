@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02401",
     "context_channel": 1,
-    "context_text": "<A> um well i was going to say alcohol but i get your point now because if someone's drinking yes they're ruining their own life and of course they're ruining the lives of their friends and families but not well i guess it is directly but it's not { the } / <B> [ no ] / <A> same as smoking um oh i don't know between those two { i } / <B> [ mhm ] / <A> mean none of these things are great / <B> yes / <A> um i would say still stick with the alcohol i don't know pr it probably is smoking though { why } / <B> [ uh-huh ]",
+    "context_text": "<A> um well i was going to say alcohol but i get your point now because if someone's drinking yes they're ruining their own life and of course they're ruining the lives of their friends and families but not well i guess it is directly but it's not { the } / <B> [ yeah ] / <A> same as smoking um oh i don't know between those two { i } / <B> [ oh ] / <A> mean none of these things are great / <B> okay / <A> um i would say still stick with the alcohol i don't know pr it probably is smoking though { why } / <B> [ okay ]",
     "context_start": 74.33,
-    "context_end": 101.60925,
+    "context_end": 101.721375,
     "feedback": [
         {
-            "name": "NR_045_no",
+            "name": "spontB_379_yeah",
             "start": 86.99,
-            "end": 87.92999999999999,
-            "token": "no"
+            "end": 87.49387499999999,
+            "token": "yeah"
         },
         {
-            "name": "spontB_121_mhm",
+            "name": "Sy_010_oh",
             "start": 91.63,
-            "end": 92.1635,
-            "token": "mhm"
+            "end": 92.94262499999999,
+            "token": "oh"
         },
         {
-            "name": "PR_024_yes",
+            "name": "spontC_134_okay",
             "start": 93.98,
-            "end": 94.9775,
-            "token": "yes"
+            "end": 94.787125,
+            "token": "okay"
         },
         {
-            "name": "spontA_051_uh-huh",
+            "name": "spontD_383_okay",
             "start": 101.05,
-            "end": 101.60925,
-            "token": "uh-huh"
+            "end": 101.721375,
+            "token": "okay"
         }
     ]
 }

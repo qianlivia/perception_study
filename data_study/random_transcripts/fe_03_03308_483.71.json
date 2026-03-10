@@ -1,32 +1,32 @@
 {
     "name": "fe_03_03308",
     "context_channel": 0,
-    "context_text": "<B> have i have a friend that is married to man that is his family is from that area / <A> okay / <B> not actually iraq but they have similar ideals and cultures / <A> hm / <B> and it is true that they feel women are worthless / <A> ooh / <B> and uh now he doesn't he's / <A> yeah",
+    "context_text": "<B> have i have a friend that is married to man that is his family is from that area / <A> yeah / <B> not actually iraq but they have similar ideals and cultures / <A> yeah / <B> and it is true that they feel women are worthless / <A> yeah / <B> and uh now he doesn't he's / <A> yeah",
     "context_start": 483.71,
-    "context_end": 501.82399999999996,
+    "context_end": 501.95874999999995,
     "feedback": [
         {
-            "name": "spontD_383_okay",
+            "name": "spontE_172_yeah",
             "start": 489.83,
-            "end": 490.501375,
-            "token": "okay"
+            "end": 490.549125,
+            "token": "yeah"
         },
         {
-            "name": "spontF_293_hm",
+            "name": "spontE_019_yeah",
             "start": 495.07,
-            "end": 495.82462499999997,
-            "token": "hm"
+            "end": 495.8345,
+            "token": "yeah"
         },
         {
-            "name": "spontA_118_ooh",
+            "name": "spontB_051_yeah",
             "start": 499.03,
-            "end": 500.03249999999997,
-            "token": "ooh"
+            "end": 499.521375,
+            "token": "yeah"
         },
         {
-            "name": "spontF_137_yeah",
+            "name": "spontD_353_yeah",
             "start": 501.34,
-            "end": 501.82399999999996,
+            "end": 501.95874999999995,
             "token": "yeah"
         }
     ]

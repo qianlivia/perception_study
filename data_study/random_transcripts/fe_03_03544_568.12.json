@@ -1,39 +1,39 @@
 {
     "name": "fe_03_03544",
     "context_channel": 0,
-    "context_text": "<B> about what was happening and all of these issues and i i { can't } / <A> [ mhm ] / <B> tell you i remember exactly what i said but i know he had very sensible things to say and { plenty of } / <A> [ yeah ] / <B> warnings about you know what would happen uh { to } / <A> [ mhm ] / <B> that segment of the uh country if something wasn't done / <A> goodness / <B> and i think they have done some things / <A> jeez",
+    "context_text": "<B> about what was happening and all of these issues and i i { can't } / <A> [ yeah ] / <B> tell you i remember exactly what i said but i know he had very sensible things to say and { plenty of } / <A> [ yeah ] / <B> warnings about you know what would happen uh { to } / <A> [ really ] / <B> that segment of the uh country if something wasn't done / <A> uh-huh / <B> and i think they have done some things / <A> yeah",
     "context_start": 568.12,
-    "context_end": 590.191,
+    "context_end": 589.22825,
     "feedback": [
         {
-            "name": "spontB_326_mhm",
+            "name": "spontA_335_yeah",
             "start": 572.27,
-            "end": 572.813,
-            "token": "mhm"
-        },
-        {
-            "name": "spontB_132_yeah",
-            "start": 576.91,
-            "end": 577.8171249999999,
+            "end": 572.937125,
             "token": "yeah"
         },
         {
-            "name": "spontC_392_mhm",
+            "name": "spontB_157_yeah",
+            "start": 576.91,
+            "end": 577.581875,
+            "token": "yeah"
+        },
+        {
+            "name": "sun2_001_really",
             "start": 580.95,
-            "end": 581.573375,
-            "token": "mhm"
+            "end": 581.6806250000001,
+            "token": "really"
         },
         {
-            "name": "NegS_024_goodness",
+            "name": "spontF_564_uh-huh",
             "start": 585.55,
-            "end": 586.4806249999999,
-            "token": "goodness"
+            "end": 586.1875,
+            "token": "uh-huh"
         },
         {
-            "name": "NegS_028_jeez",
+            "name": "spontB_371_yeah",
             "start": 588.86,
-            "end": 590.191,
-            "token": "jeez"
+            "end": 589.22825,
+            "token": "yeah"
         }
     ]
 }

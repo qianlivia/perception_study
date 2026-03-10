@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02601",
     "context_channel": 0,
-    "context_text": "<B> i mean i think like it's funny when they show people that like they claim like are saddam like actually they don't look like him like they they they look like it could be like a decoy but like i don't really think that means saddam's dead / <A> oh / <B> so but no i mean obviously i mean he's probably he's probably doing fine / <A> yeah / <B> you know and i just i don't i don't know i guess the whole thing just bothers me because it's like who's to keep them from coming over here or like send you know sending missiles over here because obviously like they've sent scud mis you know they basically like they did use scud missiles and technically they weren't supposed to have those / <A> yeah / <B> so when they sit there and say oh no we don't have weapons of mass destruction it's like hello you just used scud missiles / <A> wah",
+    "context_text": "<B> i mean i think like it's funny when they show people that like they claim like are saddam like actually they don't look like him like they they they look like it could be like a decoy but like i don't really think that means saddam's dead / <A> wow / <B> so but no i mean obviously i mean he's probably he's probably doing fine / <A> oh / <B> you know and i just i don't i don't know i guess the whole thing just bothers me because it's like who's to keep them from coming over here or like send you know sending missiles over here because obviously like they've sent scud mis you know they basically like they did use scud missiles and technically they weren't supposed to have those / <A> okay / <B> so when they sit there and say oh no we don't have weapons of mass destruction it's like hello you just used scud missiles / <A> exactly",
     "context_start": 347.17,
-    "context_end": 383.45087500000005,
+    "context_end": 383.74550000000005,
     "feedback": [
         {
-            "name": "Sy_066_oh",
+            "name": "PS_074_wow",
             "start": 357.85,
-            "end": 359.067,
+            "end": 358.68725,
+            "token": "wow"
+        },
+        {
+            "name": "PS_193_oh",
+            "start": 361.86,
+            "end": 363.667125,
             "token": "oh"
         },
         {
-            "name": "spontF_157_yeah",
-            "start": 361.86,
-            "end": 362.548125,
-            "token": "yeah"
-        },
-        {
-            "name": "spontA_106_yeah",
+            "name": "spontD_410_okay",
             "start": 377.17,
-            "end": 377.68462500000004,
-            "token": "yeah"
+            "end": 377.59375,
+            "token": "okay"
         },
         {
-            "name": "PS_163_wah",
+            "name": "sun_038_exactly",
             "start": 382.66,
-            "end": 383.45087500000005,
-            "token": "wah"
+            "end": 383.74550000000005,
+            "token": "exactly"
         }
     ]
 }

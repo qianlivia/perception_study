@@ -1,39 +1,39 @@
 {
     "name": "fe_03_00332",
     "context_channel": 1,
-    "context_text": "<A> [ you know ] it's just when you are getting into the politics of it / <B> oh / <A> um well then it becomes a different issue / <B> hm / <A> but if i say had a family member that was acting in a manner that i knew to be harmful to a certain group of people say i had a family member that was acting harmfully to target or marginalize a group of people / <B> yeah / <A> and that they were actively placing laws passing laws and putting laws into effect that would guarantee that these people would be somehow um their li the quality of life would be effected / <B> ah / <A> i would not support my family member in that action / <B> yeah",
+    "context_text": "<A> [ you know ] it's just when you are getting into the politics of it / <B> oh / <A> um well then it becomes a different issue / <B> okay / <A> but if i say had a family member that was acting in a manner that i knew to be harmful to a certain group of people say i had a family member that was acting harmfully to target or marginalize a group of people / <B> no / <A> and that they were actively placing laws passing laws and putting laws into effect that would guarantee that these people would be somehow um their li the quality of life would be effected / <B> yeah / <A> i would not support my family member in that action / <B> uh-huh",
     "context_start": 283.99,
-    "context_end": 333.20574999999997,
+    "context_end": 333.19237499999997,
     "feedback": [
         {
-            "name": "spontA_122_oh",
+            "name": "spontF_582_oh",
             "start": 289.01,
-            "end": 289.77175,
+            "end": 290.90975,
             "token": "oh"
         },
         {
-            "name": "NS_020_hm",
+            "name": "spontD_279_okay",
             "start": 293.41,
-            "end": 294.31225,
-            "token": "hm"
+            "end": 294.085125,
+            "token": "okay"
         },
         {
-            "name": "spontE_125_yeah",
+            "name": "NR_011_no",
             "start": 313.87,
-            "end": 314.64525000000003,
-            "token": "yeah"
+            "end": 314.784375,
+            "token": "no"
         },
         {
-            "name": "spontF_076_ah",
+            "name": "spontF_243_yeah",
             "start": 329.19,
-            "end": 330.216875,
-            "token": "ah"
+            "end": 330.032625,
+            "token": "yeah"
         },
         {
-            "name": "spontA_273_yeah",
+            "name": "spontF_494_uh-huh",
             "start": 332.64,
-            "end": 333.20574999999997,
-            "token": "yeah"
+            "end": 333.19237499999997,
+            "token": "uh-huh"
         }
     ]
 }

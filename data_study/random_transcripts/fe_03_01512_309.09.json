@@ -1,39 +1,39 @@
 {
     "name": "fe_03_01512",
     "context_channel": 1,
-    "context_text": "<A> i mean i ask because cause i mean as a as a minority here in america i mean i'm just i'm thinking i'm just more susceptible to people will find out i mean i guess if if if the fbi want to find out who i really am they're know that / <B> right / <A> i'm i'm a i'm a hindu american and { i'm not } / <B> [ yeah ] / <A> a i'm not a muslim or anything but / <B> yeah / <A> i mean i don't think that should be a way to profile people but i think that's i mean it's the truth is it's it's it's it's islamic fundamentalist you know and and terrorism extreme etcetera are the ones that are blowing up the cities and and you know { crashes } / <B> [ what ] / <A> planes into buildings so i mean the they might be on the right side but i don't i don't think it's it's really right to say that / <B> uh-huh",
+    "context_text": "<A> i mean i ask because cause i mean as a as a minority here in america i mean i'm just i'm thinking i'm just more susceptible to people will find out i mean i guess if if if the fbi want to find out who i really am they're know that / <B> yeah / <A> i'm i'm a i'm a hindu american and { i'm not } / <B> [ no ] / <A> a i'm not a muslim or anything but / <B> yeah / <A> i mean i don't think that should be a way to profile people but i think that's i mean it's the truth is it's it's it's it's islamic fundamentalist you know and and terrorism extreme etcetera are the ones that are blowing up the cities and and you know { crashes } / <B> [ mhm ] / <A> planes into buildings so i mean the they might be on the right side but i don't i don't think it's it's really right to say that / <B> yeah",
     "context_start": 309.09,
-    "context_end": 352.13412500000004,
+    "context_end": 351.99600000000004,
     "feedback": [
         {
-            "name": "PR_043_right",
+            "name": "spontD_280_yeah",
             "start": 323.16,
-            "end": 323.82000000000005,
-            "token": "right"
+            "end": 323.89725000000004,
+            "token": "yeah"
         },
         {
-            "name": "spontE_219_yeah",
+            "name": "NR_021_no",
             "start": 326.38,
-            "end": 326.9215,
-            "token": "yeah"
+            "end": 327.148875,
+            "token": "no"
         },
         {
-            "name": "spontC_224_yeah",
+            "name": "spontA_133_yeah",
             "start": 329.22,
-            "end": 330.02175000000005,
+            "end": 329.85287500000004,
             "token": "yeah"
         },
         {
-            "name": "Nu_002_what",
+            "name": "spontA_400_mhm",
             "start": 344.5,
-            "end": 345.113875,
-            "token": "what"
+            "end": 345.3205,
+            "token": "mhm"
         },
         {
-            "name": "spontA_035_uh-huh",
+            "name": "spontB_094_yeah",
             "start": 351.66,
-            "end": 352.13412500000004,
-            "token": "uh-huh"
+            "end": 351.99600000000004,
+            "token": "yeah"
         }
     ]
 }

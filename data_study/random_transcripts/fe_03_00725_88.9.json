@@ -1,39 +1,39 @@
 {
     "name": "fe_03_00725",
     "context_channel": 0,
-    "context_text": "<B> right exactly well you know if you don't live there and it happened to them because you feel hope you feel helpless / <A> jeez / <B> defenseless you can't do anything to what has happened to them / <A> what / <B> and it would be the same thing here you'd feel defenseless if something happened to us you know and and right where we live / <A> oh / <B> so yeah i can see how that was it was uh for me nine one one was kind of it wasn't as big as a um oh i don't know how to say this without sounding bad you know it didn't it wasn't as big of an impact on me as i saw in the news and everything / <A> uh-huh / <B> because i had just started a new job / <A> hm",
+    "context_text": "<B> right exactly well you know if you don't live there and it happened to them because you feel hope you feel helpless / <A> ooh / <B> defenseless you can't do anything to what has happened to them / <A> mhm / <B> and it would be the same thing here you'd feel defenseless if something happened to us you know and and right where we live / <A> no / <B> so yeah i can see how that was it was uh for me nine one one was kind of it wasn't as big as a um oh i don't know how to say this without sounding bad you know it didn't it wasn't as big of an impact on me as i saw in the news and everything / <A> mhm / <B> because i had just started a new job / <A> oh",
     "context_start": 88.9,
-    "context_end": 124.621375,
+    "context_end": 124.7065,
     "feedback": [
         {
-            "name": "NegS_002_jeez",
+            "name": "PS_059_ooh",
             "start": 95.65,
-            "end": 96.900125,
-            "token": "jeez"
+            "end": 96.76425,
+            "token": "ooh"
         },
         {
-            "name": "Nu_042_what",
+            "name": "spontA_345_mhm",
             "start": 99.27,
-            "end": 99.75037499999999,
-            "token": "what"
+            "end": 99.96549999999999,
+            "token": "mhm"
         },
         {
-            "name": "spontF_499_oh",
+            "name": "NR_092_no",
             "start": 105.35,
-            "end": 106.280625,
-            "token": "oh"
+            "end": 106.39224999999999,
+            "token": "no"
         },
         {
-            "name": "spontA_076_uh-huh",
+            "name": "spontB_326_mhm",
             "start": 122.14,
-            "end": 122.662375,
-            "token": "uh-huh"
+            "end": 122.683,
+            "token": "mhm"
         },
         {
-            "name": "NS_80_hm",
+            "name": "PS_050_oh",
             "start": 124.04,
-            "end": 124.621375,
-            "token": "hm"
+            "end": 124.7065,
+            "token": "oh"
         }
     ]
 }

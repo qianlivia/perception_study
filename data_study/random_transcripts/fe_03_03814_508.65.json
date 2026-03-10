@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03814",
     "context_channel": 0,
-    "context_text": "<B> yeah it's funny when they get that response it's like they'll just keep doing it my my niece said i guess she said like boogie or something { said } / <A> [ mhm ] / <B> oh mummy i have a boogie in front of a bunch of people and everybody thought that was so funny / <A> oh / <B> and so then she was like oh you know so then she was like just going around to complete strangers going i have a boogie i have a boogie you know / <A> yeah / <B> because she'd gotten that response and she's { just like } / <A> [ no ]",
+    "context_text": "<B> yeah it's funny when they get that response it's like they'll just keep doing it my my niece said i guess she said like boogie or something { said } / <A> [ yeah ] / <B> oh mummy i have a boogie in front of a bunch of people and everybody thought that was so funny / <A> yeah / <B> and so then she was like oh you know so then she was like just going around to complete strangers going i have a boogie i have a boogie you know / <A> oh / <B> because she'd gotten that response and she's { just like } / <A> [ yes ]",
     "context_start": 508.65,
-    "context_end": 529.75275,
+    "context_end": 529.270625,
     "feedback": [
         {
-            "name": "spontB_337_mhm",
+            "name": "spontB_100_yeah",
             "start": 515.51,
-            "end": 516.25625,
-            "token": "mhm"
-        },
-        {
-            "name": "spontF_499_oh",
-            "start": 519.69,
-            "end": 520.620625,
-            "token": "oh"
-        },
-        {
-            "name": "spontE_047_yeah",
-            "start": 526.59,
-            "end": 527.154,
+            "end": 516.18425,
             "token": "yeah"
         },
         {
-            "name": "sun2_030_no",
+            "name": "spontF_101_yeah",
+            "start": 519.69,
+            "end": 520.2983750000001,
+            "token": "yeah"
+        },
+        {
+            "name": "Sy_056_oh",
+            "start": 526.59,
+            "end": 527.876125,
+            "token": "oh"
+        },
+        {
+            "name": "sun1_025_yes",
             "start": 528.52,
-            "end": 529.75275,
-            "token": "no"
+            "end": 529.270625,
+            "token": "yes"
         }
     ]
 }

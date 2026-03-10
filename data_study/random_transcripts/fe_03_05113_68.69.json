@@ -1,63 +1,63 @@
 {
     "name": "fe_03_05113",
     "context_channel": 1,
-    "context_text": "<A> was a bit i if we since we're having to have a war i'm { glad we } / <B> [ huh ] / <A> went over there and had a war not that they come over here / <B> mhm / <A> and uh i i wouldn't want a war here in the united states / <B> jeez / <A> and i think mr bush done an excellent job for if we didn't know where to what to expect m most people i don't think and my little bit of knowledge i don't believe we've ever fought a war over there in that part of the country / <B> yeah / <A> in all that sand and all that stuff / <B> uh-huh / <A> it it was new to us and { i } / <B> [ mhm ] / <A> think they've done a great job and i still think they're doing a great job we've still got a lot of people over there / <B> yeah / <A> and uh of course i have a flag flying right here in my front yard i'm very very patriotic type person / <B> oh / <A> and uh it makes me mad when i see people downgrade the united states and say that we're not doing right and / <B> yeah",
+    "context_text": "<A> was a bit i if we since we're having to have a war i'm { glad we } / <B> [ oh ] / <A> went over there and had a war not that they come over here / <B> uh-huh / <A> and uh i i wouldn't want a war here in the united states / <B> ooh / <A> and i think mr bush done an excellent job for if we didn't know where to what to expect m most people i don't think and my little bit of knowledge i don't believe we've ever fought a war over there in that part of the country / <B> okay / <A> in all that sand and all that stuff / <B> no / <A> it it was new to us and { i } / <B> [ mhm ] / <A> think they've done a great job and i still think they're doing a great job we've still got a lot of people over there / <B> yeah / <A> and uh of course i have a flag flying right here in my front yard i'm very very patriotic type person / <B> uh-huh / <A> and uh it makes me mad when i see people downgrade the united states and say that we're not doing right and / <B> mhm",
     "context_start": 68.69,
-    "context_end": 117.688875,
+    "context_end": 117.619125,
     "feedback": [
         {
-            "name": "sun2_043_huh",
+            "name": "Sy_013_oh",
             "start": 73.02,
-            "end": 74.00212499999999,
-            "token": "huh"
-        },
-        {
-            "name": "spontE_049_mhm",
-            "start": 76.14,
-            "end": 76.738,
-            "token": "mhm"
-        },
-        {
-            "name": "NegS_028_jeez",
-            "start": 79.3,
-            "end": 80.631,
-            "token": "jeez"
-        },
-        {
-            "name": "spontB_328_yeah",
-            "start": 91.75,
-            "end": 92.4945,
-            "token": "yeah"
-        },
-        {
-            "name": "sun1_034_uh-huh",
-            "start": 94.04,
-            "end": 94.85325,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontA_151_mhm",
-            "start": 96.58,
-            "end": 97.1315,
-            "token": "mhm"
-        },
-        {
-            "name": "PR_036_yeah",
-            "start": 100.98,
-            "end": 101.784375,
-            "token": "yeah"
-        },
-        {
-            "name": "spontC_018_oh",
-            "start": 108.52,
-            "end": 109.29962499999999,
+            "end": 74.235,
             "token": "oh"
         },
         {
-            "name": "spontD_200_yeah",
-            "start": 117.02,
-            "end": 117.688875,
+            "name": "spontC_186_uh-huh",
+            "start": 76.14,
+            "end": 76.61525,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PS_016_ooh",
+            "start": 79.3,
+            "end": 80.5565,
+            "token": "ooh"
+        },
+        {
+            "name": "spontD_410_okay",
+            "start": 91.75,
+            "end": 92.17375,
+            "token": "okay"
+        },
+        {
+            "name": "NR_002_no",
+            "start": 94.04,
+            "end": 94.80912500000001,
+            "token": "no"
+        },
+        {
+            "name": "sun1_004_mhm",
+            "start": 96.58,
+            "end": 97.23,
+            "token": "mhm"
+        },
+        {
+            "name": "PR_055_yeah",
+            "start": 100.98,
+            "end": 101.673125,
             "token": "yeah"
+        },
+        {
+            "name": "spontA_115_uh-huh",
+            "start": 108.52,
+            "end": 109.017125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontB_154_mhm",
+            "start": 117.02,
+            "end": 117.619125,
+            "token": "mhm"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01161",
     "context_channel": 0,
-    "context_text": "<B> my gallbladder out / <A> yeah / <B> i wish i would've known that they could have looked at other places / <A> yeah / <B> because they didn't tell me till afterwards that they could've looked like you know this is a guy i'm talking too but they could've looked at my tubes and told me if there was something wrong while they { had } / <A> [ oh ] / <B> my while they were in there doing my gallbladder / <A> uh",
+    "context_text": "<B> my gallbladder out / <A> oh / <B> i wish i would've known that they could have looked at other places / <A> wow / <B> because they didn't tell me till afterwards that they could've looked like you know this is a guy i'm talking too but they could've looked at my tubes and told me if there was something wrong while they { had } / <A> [ okay ] / <B> my while they were in there doing my gallbladder / <A> oh",
     "context_start": 343.93,
-    "context_end": 361.361875,
+    "context_end": 360.124375,
     "feedback": [
         {
-            "name": "spontD_339_yeah",
+            "name": "spontC_100_oh",
             "start": 345.3,
-            "end": 346.153875,
-            "token": "yeah"
-        },
-        {
-            "name": "spontC_393_yeah",
-            "start": 349.45,
-            "end": 350.1605,
-            "token": "yeah"
-        },
-        {
-            "name": "PS_111_oh",
-            "start": 357.85,
-            "end": 358.63437500000003,
+            "end": 345.915,
             "token": "oh"
         },
         {
-            "name": "NS_011_uh",
+            "name": "PS_119_wow",
+            "start": 349.45,
+            "end": 351.29249999999996,
+            "token": "wow"
+        },
+        {
+            "name": "spontF_583_okay",
+            "start": 357.85,
+            "end": 359.028,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_207_oh",
             "start": 359.74,
-            "end": 361.361875,
-            "token": "uh"
+            "end": 360.124375,
+            "token": "oh"
         }
     ]
 }

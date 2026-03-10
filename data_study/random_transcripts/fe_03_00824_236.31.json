@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00824",
     "context_channel": 1,
-    "context_text": "<A> yeah you know i wouldn't have wanted to to have brought -em up in a in a christian-controlled home / <B> hm / <A> you know but a a relaxed i know uh the church uh before i moved where i live now uh it was a nondenominational church and uh my pastor and his wife brought up three boys and a girl in a christian home and uh two three of them are are very religious an and uh you know they're they're just good kids / <B> uh-huh / <A> one of -em totally rebelled against the whole thing like you know / <B> wow / <A> it had the opposite effect on him that uh just some o some of the kids are just uh i don't know seems like it it gives them a better life / <B> ah",
+    "context_text": "<A> yeah you know i wouldn't have wanted to to have brought -em up in a in a christian-controlled home / <B> yeah / <A> you know but a a relaxed i know uh the church uh before i moved where i live now uh it was a nondenominational church and uh my pastor and his wife brought up three boys and a girl in a christian home and uh two three of them are are very religious an and uh you know they're they're just good kids / <B> oh / <A> one of -em totally rebelled against the whole thing like you know / <B> ooh / <A> it had the opposite effect on him that uh just some o some of the kids are just uh i don't know seems like it it gives them a better life / <B> uh-huh",
     "context_start": 236.31,
-    "context_end": 293.80425,
+    "context_end": 293.50237500000003,
     "feedback": [
         {
-            "name": "NS_020_hm",
+            "name": "spontD_184_yeah",
             "start": 242.61,
-            "end": 243.51225000000002,
-            "token": "hm"
+            "end": 243.22775000000001,
+            "token": "yeah"
         },
         {
-            "name": "spontD_277_uh-huh",
+            "name": "spontA_071_oh",
             "start": 274.65,
-            "end": 275.12325,
-            "token": "uh-huh"
+            "end": 275.2675,
+            "token": "oh"
         },
         {
-            "name": "PS_142_wow",
+            "name": "PS_158_ooh",
             "start": 278.02,
-            "end": 279.34875,
-            "token": "wow"
+            "end": 279.29812499999997,
+            "token": "ooh"
         },
         {
-            "name": "spontC_073_ah",
+            "name": "spontA_076_uh-huh",
             "start": 292.98,
-            "end": 293.80425,
-            "token": "ah"
+            "end": 293.50237500000003,
+            "token": "uh-huh"
         }
     ]
 }

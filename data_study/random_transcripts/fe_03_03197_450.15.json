@@ -1,74 +1,74 @@
 {
     "name": "fe_03_03197",
     "context_channel": 1,
-    "context_text": "<A> but like yeah i mean i i kind of i i know that he does like i mean i see it like once in a while but it's like i'm just she's so i don't know he's big he's german shepherd and / <B> uh-huh / <A> i mean that's like way too big and she's funny because she tries to be friends with the cat / <B> aww / <A> and she's just like i don't want to be friends with you and she like snaps at him and stuff / <B> uh-huh / <A> but uh sh but she just like he comes back for more / <B> ooh / <A> he's young and very inexperienced i guess / <B> no / <A> sometimes i can understand what's she's saying but like they they i guess they're okay they get along very well now / <B> uh-huh / <A> but but uh yeah he finishes her food and that's why she doesn't speak with him too / <B> yeah / <A> but she used to like she she lives in the countryside for the summer but then at the end of year she lives in the apartment / <B> ooh / <A> so she's used to being by herself / <B> mhm / <A> but like you know she like would he'd find her you know and then would come back and for more and you know kind of then when she was at the countryside and there's a dog there she has to like really kind of eat it right there right now because otherwise sh when she leaves you know the dog will eat it / <B> ooh / <A> after her yeah so { we } / <B> [ mhm ]",
+    "context_text": "<A> but like yeah i mean i i kind of i i know that he does like i mean i see it like once in a while but it's like i'm just she's so i don't know he's big he's german shepherd and / <B> wow / <A> i mean that's like way too big and she's funny because she tries to be friends with the cat / <B> wow / <A> and she's just like i don't want to be friends with you and she like snaps at him and stuff / <B> oh / <A> but uh sh but she just like he comes back for more / <B> yeah / <A> he's young and very inexperienced i guess / <B> uh-huh / <A> sometimes i can understand what's she's saying but like they they i guess they're okay they get along very well now / <B> uh-huh / <A> but but uh yeah he finishes her food and that's why she doesn't speak with him too / <B> wow / <A> but she used to like she she lives in the countryside for the summer but then at the end of year she lives in the apartment / <B> wow / <A> so she's used to being by herself / <B> ooh / <A> but like you know she like would he'd find her you know and then would come back and for more and you know kind of then when she was at the countryside and there's a dog there she has to like really kind of eat it right there right now because otherwise sh when she leaves you know the dog will eat it / <B> yeah / <A> after her yeah so { we } / <B> [ mhm ]",
     "context_start": 450.15,
-    "context_end": 527.8458750000001,
+    "context_end": 527.927,
     "feedback": [
         {
-            "name": "spontF_511_uh-huh",
+            "name": "PS_171_wow",
             "start": 463.19,
-            "end": 463.81325,
-            "token": "uh-huh"
+            "end": 465.334875,
+            "token": "wow"
         },
         {
-            "name": "spontF_671_aww",
+            "name": "PS_105_wow",
             "start": 469.49,
-            "end": 470.15950000000004,
-            "token": "aww"
+            "end": 470.13800000000003,
+            "token": "wow"
         },
         {
-            "name": "spontF_316_uh-huh",
+            "name": "PS_015_oh",
             "start": 475.46,
-            "end": 476.010875,
-            "token": "uh-huh"
+            "end": 476.5215,
+            "token": "oh"
         },
         {
-            "name": "PS_134_ooh",
+            "name": "spontE_170_yeah",
             "start": 481.26,
-            "end": 481.870875,
-            "token": "ooh"
-        },
-        {
-            "name": "NR_024_no",
-            "start": 485.0,
-            "end": 486.056875,
-            "token": "no"
-        },
-        {
-            "name": "spontD_152_uh-huh",
-            "start": 492.22,
-            "end": 492.77637500000003,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontE_130_yeah",
-            "start": 497.59,
-            "end": 498.431875,
+            "end": 482.085,
             "token": "yeah"
         },
         {
-            "name": "NegS_038_ooh",
+            "name": "spontE_038_uh-huh",
+            "start": 485.0,
+            "end": 485.418875,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_306_uh-huh",
+            "start": 492.22,
+            "end": 492.6695,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PS_095_wow",
+            "start": 497.59,
+            "end": 498.62537499999996,
+            "token": "wow"
+        },
+        {
+            "name": "PS_038_wow",
             "start": 505.78,
-            "end": 506.793125,
-            "token": "ooh"
+            "end": 507.13575,
+            "token": "wow"
         },
         {
-            "name": "spontD_204_mhm",
+            "name": "spontF_252_ooh",
             "start": 509.2,
-            "end": 509.85025,
-            "token": "mhm"
-        },
-        {
-            "name": "NegS_014_ooh",
-            "start": 525.25,
-            "end": 526.37225,
+            "end": 510.286625,
             "token": "ooh"
         },
         {
-            "name": "spontD_344_mhm",
+            "name": "spontA_015_yeah",
+            "start": 525.25,
+            "end": 526.019875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_271_mhm",
             "start": 527.33,
-            "end": 527.8458750000001,
+            "end": 527.927,
             "token": "mhm"
         }
     ]

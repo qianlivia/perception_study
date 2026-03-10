@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00579",
     "context_channel": 1,
-    "context_text": "<A> do you remember the eni nefcs never ending fun contest / <B> oh / <A> all right well she always uh picked me and you know i would send out my end to people that i would pick / <B> wow / <A> well i got one box from her and that women picked me like five times she kept telling me it got sent back it got sent back bull crap / <B> ooh / <A> you know i'm like you in the same boat with the same exact mail man every single day you know and and i kept telling her and then her sister in law bunny girl she uh she picked me one time she never picked she i i never got her package she says to me it got sent back i'm going to re send it never got nothing but i got one package from her { she's } / <B> [ mhm ]",
+    "context_text": "<A> do you remember the eni nefcs never ending fun contest / <B> mhm / <A> all right well she always uh picked me and you know i would send out my end to people that i would pick / <B> exactly / <A> well i got one box from her and that women picked me like five times she kept telling me it got sent back it got sent back bull crap / <B> wow / <A> you know i'm like you in the same boat with the same exact mail man every single day you know and and i kept telling her and then her sister in law bunny girl she uh she picked me one time she never picked she i i never got her package she says to me it got sent back i'm going to re send it never got nothing but i got one package from her { she's } / <B> [ ooh ]",
     "context_start": 418.01,
-    "context_end": 466.434875,
+    "context_end": 467.003,
     "feedback": [
         {
-            "name": "spontA_122_oh",
+            "name": "spontC_284_mhm",
             "start": 423.32,
-            "end": 424.08175,
-            "token": "oh"
+            "end": 423.837875,
+            "token": "mhm"
         },
         {
-            "name": "PS_129_wow",
+            "name": "sun_029_exactly",
             "start": 433.63,
-            "end": 434.572375,
+            "end": 434.770375,
+            "token": "exactly"
+        },
+        {
+            "name": "PS_061_wow",
+            "start": 442.94,
+            "end": 444.2025,
             "token": "wow"
         },
         {
-            "name": "spontF_134_ooh",
-            "start": 442.94,
-            "end": 443.9735,
-            "token": "ooh"
-        },
-        {
-            "name": "spontB_356_mhm",
+            "name": "NegS_045_ooh",
             "start": 465.83,
-            "end": 466.434875,
-            "token": "mhm"
+            "end": 467.003,
+            "token": "ooh"
         }
     ]
 }

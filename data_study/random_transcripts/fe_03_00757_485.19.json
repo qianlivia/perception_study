@@ -1,39 +1,39 @@
 {
     "name": "fe_03_00757",
     "context_channel": 1,
-    "context_text": "<A> but i like it in a way because in the show you know how some things in some comedies we're afraid to touch on { but } / <B> [ m-kay ] / <A> in in one of the shows the child's in a a advanced classroom and { one } / <B> [ yeah ] / <A> of his best friends is in a wheelchair and has asthma / <B> yeah / <A> but the way they do the comedy it's not making fun of his asthma / <B> ugh / <A> but it's it's like he's a part of their like when they do bad they're not bad things but boy things / <B> jeez",
+    "context_text": "<A> but i like it in a way because in the show you know how some things in some comedies we're afraid to touch on { but } / <B> [ uh-huh ] / <A> in in one of the shows the child's in a a advanced classroom and { one } / <B> [ absolutely ] / <A> of his best friends is in a wheelchair and has asthma / <B> wow / <A> but the way they do the comedy it's not making fun of his asthma / <B> no / <A> but it's it's like he's a part of their like when they do bad they're not bad things but boy things / <B> yeah",
     "context_start": 485.19,
-    "context_end": 519.981,
+    "context_end": 519.2568749999999,
     "feedback": [
         {
-            "name": "sun1_015_m-kay",
+            "name": "spontA_196_uh-huh",
             "start": 495.7,
-            "end": 496.493625,
-            "token": "m-kay"
+            "end": 496.301125,
+            "token": "uh-huh"
         },
         {
-            "name": "PR_036_yeah",
+            "name": "sun_002_absolutely",
             "start": 501.49,
-            "end": 502.294375,
-            "token": "yeah"
+            "end": 502.5355,
+            "token": "absolutely"
         },
         {
-            "name": "spontF_062_yeah",
+            "name": "PS_160_wow",
             "start": 506.08,
-            "end": 506.62874999999997,
-            "token": "yeah"
+            "end": 506.960875,
+            "token": "wow"
         },
         {
-            "name": "spontC_126_ugh",
+            "name": "sun2_029_no",
             "start": 512.22,
-            "end": 512.990375,
-            "token": "ugh"
+            "end": 512.959125,
+            "token": "no"
         },
         {
-            "name": "NegS_028_jeez",
+            "name": "spontF_047_yeah",
             "start": 518.65,
-            "end": 519.981,
-            "token": "jeez"
+            "end": 519.2568749999999,
+            "token": "yeah"
         }
     ]
 }

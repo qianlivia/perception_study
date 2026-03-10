@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01349",
     "context_channel": 0,
-    "context_text": "<B> and it sounds like you may have a bright one though too so they have a the gate program / <A> hm / <B> well at least here in california they have a gate program it's for the the gifted and talented / <A> right / <B> education and they challenge the kids more at school th their assignments are modified and then they have additional classes / <A> mhm / <B> that are after school that are really fun they do things like plays and have science projects / <A> oh",
+    "context_text": "<B> and it sounds like you may have a bright one though too so they have a the gate program / <A> yeah / <B> well at least here in california they have a gate program it's for the the gifted and talented / <A> oh / <B> education and they challenge the kids more at school th their assignments are modified and then they have additional classes / <A> yeah / <B> that are after school that are really fun they do things like plays and have science projects / <A> uh-huh",
     "context_start": 546.58,
-    "context_end": 570.23675,
+    "context_end": 570.003,
     "feedback": [
         {
-            "name": "NS_084_hm",
+            "name": "spontF_624_yeah",
             "start": 551.04,
-            "end": 551.723625,
-            "token": "hm"
+            "end": 551.534375,
+            "token": "yeah"
         },
         {
-            "name": "sun1_031_right",
+            "name": "spontF_569_oh",
             "start": 556.67,
-            "end": 557.46425,
-            "token": "right"
-        },
-        {
-            "name": "spontA_239_mhm",
-            "start": 564.62,
-            "end": 565.132375,
-            "token": "mhm"
-        },
-        {
-            "name": "sun1_010_oh",
-            "start": 569.5,
-            "end": 570.23675,
+            "end": 557.7462499999999,
             "token": "oh"
+        },
+        {
+            "name": "spontF_142_yeah",
+            "start": 564.62,
+            "end": 565.085125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_136_uh-huh",
+            "start": 569.5,
+            "end": 570.003,
+            "token": "uh-huh"
         }
     ]
 }

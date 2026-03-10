@@ -1,27 +1,27 @@
 {
     "name": "fe_03_01734",
     "context_channel": 1,
-    "context_text": "<A> that trying to prove that iraq iraqi have have mass destruction weapons / <B> yeah / <A> and then um just just you know t so then try and convince nato to support us / <B> pardon / <A> then once nato support us the pressure going to be much more on um syria / <B> mhm",
+    "context_text": "<A> that trying to prove that iraq iraqi have have mass destruction weapons / <B> yeah / <A> and then um just just you know t so then try and convince nato to support us / <B> yes / <A> then once nato support us the pressure going to be much more on um syria / <B> oh",
     "context_start": 225.28,
-    "context_end": 244.3,
+    "context_end": 244.7715,
     "feedback": [
         {
-            "name": "spontC_043_yeah",
+            "name": "spontA_414_yeah",
             "start": 230.17,
-            "end": 230.70499999999998,
+            "end": 230.647875,
             "token": "yeah"
         },
         {
-            "name": "Nu_023_pardon",
+            "name": "PR_006_yes",
             "start": 237.74,
-            "end": 238.321125,
-            "token": "pardon"
+            "end": 239.211625,
+            "token": "yes"
         },
         {
-            "name": "spontC_348_mhm",
+            "name": "PS_015_oh",
             "start": 243.71,
-            "end": 244.3,
-            "token": "mhm"
+            "end": 244.7715,
+            "token": "oh"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01554",
     "context_channel": 0,
-    "context_text": "<B> we feel so blessed uh because i i can grew up in the south in the sixties { when there } / <A> [ yeah ] / <B> was a black and a white issue / <A> yeah / <B> and do you remember how i remember when they were talking um i saw the special where jackie robinson was the first black to come into baseball and all the disturbances it caused { but then him } / <A> [ sorry ] / <B> being a good athlete i i it's a shame people look at your skill before they look at you / <A> yeah",
+    "context_text": "<B> we feel so blessed uh because i i can grew up in the south in the sixties { when there } / <A> [ yeah ] / <B> was a black and a white issue / <A> mhm / <B> and do you remember how i remember when they were talking um i saw the special where jackie robinson was the first black to come into baseball and all the disturbances it caused { but then him } / <A> [ wow ] / <B> being a good athlete i i it's a shame people look at your skill before they look at you / <A> oh",
     "context_start": 160.61,
-    "context_end": 189.59462499999998,
+    "context_end": 189.554375,
     "feedback": [
         {
-            "name": "spontE_286_yeah",
+            "name": "spontC_117_yeah",
             "start": 165.3,
-            "end": 166.09075,
+            "end": 165.992625,
             "token": "yeah"
         },
         {
-            "name": "spontD_145_yeah",
+            "name": "spontB_251_mhm",
             "start": 167.2,
-            "end": 167.87362499999998,
-            "token": "yeah"
+            "end": 167.7635,
+            "token": "mhm"
         },
         {
-            "name": "Nu_030_sorry",
+            "name": "PS_114_wow",
             "start": 180.99,
-            "end": 181.75037500000002,
-            "token": "sorry"
+            "end": 182.153875,
+            "token": "wow"
         },
         {
-            "name": "spontD_375_yeah",
+            "name": "spontF_207_oh",
             "start": 189.17,
-            "end": 189.59462499999998,
-            "token": "yeah"
+            "end": 189.554375,
+            "token": "oh"
         }
     ]
 }

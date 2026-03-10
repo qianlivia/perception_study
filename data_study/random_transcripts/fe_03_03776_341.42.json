@@ -1,27 +1,27 @@
 {
     "name": "fe_03_03776",
     "context_channel": 1,
-    "context_text": "<A> i wasn't i was in the i h program / <B> uh-huh / <A> i'm a biochemist / <B> yeah / <A> well that's what my back my educational background { 's been } / <B> [ mmm ]",
+    "context_text": "<A> i wasn't i was in the i h program / <B> no / <A> i'm a biochemist / <B> uh-huh / <A> well that's what my back my educational background { 's been } / <B> [ no ]",
     "context_start": 341.42,
-    "context_end": 348.84275,
+    "context_end": 348.738875,
     "feedback": [
         {
-            "name": "spontC_171_uh-huh",
+            "name": "spontC_498_no",
             "start": 343.5,
-            "end": 344.06225,
+            "end": 344.32175,
+            "token": "no"
+        },
+        {
+            "name": "spontD_405_uh-huh",
+            "start": 344.88,
+            "end": 345.29875,
             "token": "uh-huh"
         },
         {
-            "name": "spontF_029_yeah",
-            "start": 344.88,
-            "end": 345.45525,
-            "token": "yeah"
-        },
-        {
-            "name": "NS_045_mmm",
+            "name": "NR_021_no",
             "start": 347.97,
-            "end": 348.84275,
-            "token": "mmm"
+            "end": 348.738875,
+            "token": "no"
         }
     ]
 }

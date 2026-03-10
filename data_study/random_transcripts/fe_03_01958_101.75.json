@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01958",
     "context_channel": 0,
-    "context_text": "<B> or even in ah the securities and exchange commission which { is } / <A> [ mmm ] / <B> supposed to regulate them / <A> yeah / <B> ah because um they so many of these corporations have ties to the government you know and the vice president ah was doing the transition right after election / <A> yeah / <B> and ah he had a group of ah people coming in to advise him on what energy policies they should promulgate and what legislation they should ask for / <A> yeah",
+    "context_text": "<B> or even in ah the securities and exchange commission which { is } / <A> [ yeah ] / <B> supposed to regulate them / <A> uh-huh / <B> ah because um they so many of these corporations have ties to the government you know and the vice president ah was doing the transition right after election / <A> oh / <B> and ah he had a group of ah people coming in to advise him on what energy policies they should promulgate and what legislation they should ask for / <A> oh",
     "context_start": 101.75,
-    "context_end": 134.5165,
+    "context_end": 134.45,
     "feedback": [
         {
-            "name": "spontD_037_mmm",
+            "name": "spontC_506_yeah",
             "start": 105.9,
-            "end": 106.479875,
-            "token": "mmm"
+            "end": 106.419375,
+            "token": "yeah"
         },
         {
-            "name": "spontF_299_yeah",
+            "name": "spontD_372_uh-huh",
             "start": 107.81,
-            "end": 108.333125,
-            "token": "yeah"
+            "end": 108.27787500000001,
+            "token": "uh-huh"
         },
         {
-            "name": "spontC_007_yeah",
+            "name": "PS_035_oh",
             "start": 122.05,
-            "end": 122.50725,
-            "token": "yeah"
+            "end": 122.881625,
+            "token": "oh"
         },
         {
-            "name": "spontF_294_yeah",
+            "name": "NS_097_oh",
             "start": 133.78,
-            "end": 134.5165,
-            "token": "yeah"
+            "end": 134.45,
+            "token": "oh"
         }
     ]
 }

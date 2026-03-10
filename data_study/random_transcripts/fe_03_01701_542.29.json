@@ -1,32 +1,32 @@
 {
     "name": "fe_03_01701",
     "context_channel": 1,
-    "context_text": "<A> the vietnam thing and so i remember the selective service i remember / <B> hm / <A> you know boys being drafted and i i think that gives you a little bit of a different view on it / <B> yeah / <A> because you know they're being taken from their families and they're being put into war / <B> ooh / <A> so you know i see the military as you know think about it because you could get killed / <B> mhm",
+    "context_text": "<A> the vietnam thing and so i remember the selective service i remember / <B> sure / <A> you know boys being drafted and i i think that gives you a little bit of a different view on it / <B> uh-huh / <A> because you know they're being taken from their families and they're being put into war / <B> ooh / <A> so you know i see the military as you know think about it because you could get killed / <B> mhm",
     "context_start": 542.29,
-    "context_end": 565.6275,
+    "context_end": 565.453125,
     "feedback": [
         {
-            "name": "NS_016_hm",
+            "name": "sun_047_sure",
             "start": 546.47,
-            "end": 547.13125,
-            "token": "hm"
+            "end": 547.351125,
+            "token": "sure"
         },
         {
-            "name": "spontC_024_yeah",
+            "name": "spontE_011_uh-huh",
             "start": 554.07,
-            "end": 554.8096250000001,
-            "token": "yeah"
+            "end": 554.526375,
+            "token": "uh-huh"
         },
         {
-            "name": "spontA_094_ooh",
+            "name": "PS_162_ooh",
             "start": 558.77,
-            "end": 559.743625,
+            "end": 559.7785,
             "token": "ooh"
         },
         {
-            "name": "PR_063_mhm",
+            "name": "spontA_107_mhm",
             "start": 564.94,
-            "end": 565.6275,
+            "end": 565.453125,
             "token": "mhm"
         }
     ]

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03546",
     "context_channel": 1,
-    "context_text": "<A> especially for new york it's like you know we're right outside of the city it's about a half hour commute { so it's } / <B> [ okay ] / <A> kinda like you're in a suburban area / <B> yeah / <A> but you can get into the you know that's where most people do work is in the city / <B> mmm / <A> and i just can't imagine it it's everything here like just constantly constantly goes up including / <B> m-yeah",
+    "context_text": "<A> especially for new york it's like you know we're right outside of the city it's about a half hour commute { so it's } / <B> [ yeah ] / <A> kinda like you're in a suburban area / <B> okay / <A> but you can get into the you know that's where most people do work is in the city / <B> wow / <A> and i just can't imagine it it's everything here like just constantly constantly goes up including / <B> yeah",
     "context_start": 120.45,
-    "context_end": 141.59075,
+    "context_end": 141.76775,
     "feedback": [
         {
-            "name": "spontC_020_okay",
+            "name": "spontB_309_yeah",
             "start": 126.82,
-            "end": 127.29499999999999,
-            "token": "okay"
-        },
-        {
-            "name": "spontA_116_yeah",
-            "start": 129.39,
-            "end": 129.87625,
+            "end": 127.78537499999999,
             "token": "yeah"
         },
         {
-            "name": "spontD_063_mmm",
-            "start": 133.54,
-            "end": 134.536125,
-            "token": "mmm"
+            "name": "spontB_019_okay",
+            "start": 129.39,
+            "end": 130.083125,
+            "token": "okay"
         },
         {
-            "name": "spontC_270_m-yeah",
+            "name": "PS_063_wow",
+            "start": 133.54,
+            "end": 134.92675,
+            "token": "wow"
+        },
+        {
+            "name": "spontC_331_yeah",
             "start": 141.15,
-            "end": 141.59075,
-            "token": "m-yeah"
+            "end": 141.76775,
+            "token": "yeah"
         }
     ]
 }

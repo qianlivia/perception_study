@@ -1,38 +1,38 @@
 {
     "name": "fe_03_01819",
     "context_channel": 1,
-    "context_text": "<A> and this maybe will have something to do with definitely with the topic i i always felt that the where where education was lacking was not necessarily teaching but / <B> wow / <A> in teaching people how to find things because the brain can just hold so much at any one / <B> ah / <A> time so i think the computer is an excellent tool / <B> mmm / <A> um i never learned how to read newspapers properly which { was } / <B> [ no ] / <A> of course that was our main way of edu of um finding you know um of communication / <B> uh-huh",
+    "context_text": "<A> and this maybe will have something to do with definitely with the topic i i always felt that the where where education was lacking was not necessarily teaching but / <B> mhm / <A> in teaching people how to find things because the brain can just hold so much at any one / <B> yes / <A> time so i think the computer is an excellent tool / <B> wow / <A> um i never learned how to read newspapers properly which { was } / <B> [ oh ] / <A> of course that was our main way of edu of um finding you know um of communication / <B> uh-huh",
     "context_start": 122.48,
-    "context_end": 151.79625,
+    "context_end": 151.84687499999998,
     "feedback": [
         {
-            "name": "PS_156_wow",
+            "name": "spontE_268_mhm",
             "start": 133.1,
-            "end": 134.04075,
+            "end": 133.66787499999998,
+            "token": "mhm"
+        },
+        {
+            "name": "PR_008_yes",
+            "start": 137.49,
+            "end": 138.34787500000002,
+            "token": "yes"
+        },
+        {
+            "name": "PS_062_wow",
+            "start": 141.0,
+            "end": 141.920375,
             "token": "wow"
         },
         {
-            "name": "spontC_214_ah",
-            "start": 137.49,
-            "end": 138.30312500000002,
-            "token": "ah"
-        },
-        {
-            "name": "spontC_381_mmm",
-            "start": 141.0,
-            "end": 141.750375,
-            "token": "mmm"
-        },
-        {
-            "name": "NR_005_no",
+            "name": "Sy_010_oh",
             "start": 145.15,
-            "end": 145.924375,
-            "token": "no"
+            "end": 146.462625,
+            "token": "oh"
         },
         {
-            "name": "spontF_035_uh-huh",
+            "name": "spontF_180_uh-huh",
             "start": 151.26,
-            "end": 151.79625,
+            "end": 151.84687499999998,
             "token": "uh-huh"
         }
     ]

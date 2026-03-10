@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04299",
     "context_channel": 1,
-    "context_text": "<A> oh well um i am from africa i'm from namibia / <B> yeah / <A> and namibia is a country where apartheid was practised / <B> uh-huh / <A> yes we were a colony of south south ah it's the bad south african regime before that we were a colony of germany and we had been subjected to all sort of um um exclusion in decision making ah we were excluded in education we were excluded in almost in everything so one would have wished to accomplish a lot of things if you had ah if one had a chance to do so ah i have now a chance presently but that's now ah in my early you know years so um i i i mean ah i i i if one wished you know you would not want to wait until you are very old or you're old you would want to finish your schooling i mean your school career while you are very very young / <B> yeah / <A> so ah that's something that i would have wished / <B> mhm",
+    "context_text": "<A> oh well um i am from africa i'm from namibia / <B> okay / <A> and namibia is a country where apartheid was practised / <B> yeah / <A> yes we were a colony of south south ah it's the bad south african regime before that we were a colony of germany and we had been subjected to all sort of um um exclusion in decision making ah we were excluded in education we were excluded in almost in everything so one would have wished to accomplish a lot of things if you had ah if one had a chance to do so ah i have now a chance presently but that's now ah in my early you know years so um i i i mean ah i i i if one wished you know you would not want to wait until you are very old or you're old you would want to finish your schooling i mean your school career while you are very very young / <B> yeah / <A> so ah that's something that i would have wished / <B> uh-huh",
     "context_start": 262.19,
-    "context_end": 330.2625,
+    "context_end": 330.26025,
     "feedback": [
         {
-            "name": "spontC_398_yeah",
+            "name": "spontC_511_okay",
             "start": 267.05,
-            "end": 267.404125,
-            "token": "yeah"
+            "end": 267.560875,
+            "token": "okay"
         },
         {
-            "name": "spontA_315_uh-huh",
+            "name": "spontA_374_yeah",
             "start": 274.52,
-            "end": 275.0365,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontE_130_yeah",
-            "start": 325.29,
-            "end": 326.13187500000004,
+            "end": 275.325,
             "token": "yeah"
         },
         {
-            "name": "spontC_200_mhm",
+            "name": "spontD_025_yeah",
+            "start": 325.29,
+            "end": 325.815875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_002_uh-huh",
             "start": 329.78,
-            "end": 330.2625,
-            "token": "mhm"
+            "end": 330.26025,
+            "token": "uh-huh"
         }
     ]
 }

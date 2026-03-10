@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02185",
     "context_channel": 1,
-    "context_text": "<A> knows exactly what she likes there so rather than experimenting and getting something different she'll { just get } / <B> [ okay ] / <A> the same thing she always gets from olive garden uh you know i'm that way with mexican 'cause you know if we go out to eat no matter where we go for mexican i'm gonna get pahitas / <B> hm / <A> you know but whenever i go somewhere i generally try and get something new { every } / <B> [ yeah ] / <A> time that way i can experiment broaden my horizons see if i like something more than i i thought i did / <B> uh-huh",
+    "context_text": "<A> knows exactly what she likes there so rather than experimenting and getting something different she'll { just get } / <B> [ no ] / <A> the same thing she always gets from olive garden uh you know i'm that way with mexican 'cause you know if we go out to eat no matter where we go for mexican i'm gonna get pahitas / <B> oh / <A> you know but whenever i go somewhere i generally try and get something new { every } / <B> [ uh-huh ] / <A> time that way i can experiment broaden my horizons see if i like something more than i i thought i did / <B> yeah",
     "context_start": 165.51,
-    "context_end": 193.62625,
+    "context_end": 193.792,
     "feedback": [
         {
-            "name": "spontB_019_okay",
+            "name": "NR_120_no",
             "start": 170.55,
-            "end": 171.24312500000002,
-            "token": "okay"
+            "end": 171.21475,
+            "token": "no"
         },
         {
-            "name": "sun2_016_hm",
+            "name": "NS_091_oh",
             "start": 180.8,
-            "end": 181.54962500000002,
-            "token": "hm"
+            "end": 182.049,
+            "token": "oh"
         },
         {
-            "name": "spontB_282_yeah",
+            "name": "spontA_196_uh-huh",
             "start": 185.71,
-            "end": 186.515625,
-            "token": "yeah"
+            "end": 186.311125,
+            "token": "uh-huh"
         },
         {
-            "name": "spontF_035_uh-huh",
+            "name": "spontF_127_yeah",
             "start": 193.09,
-            "end": 193.62625,
-            "token": "uh-huh"
+            "end": 193.792,
+            "token": "yeah"
         }
     ]
 }

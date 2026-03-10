@@ -1,27 +1,27 @@
 {
     "name": "fe_03_01104",
     "context_channel": 1,
-    "context_text": "<A> eating at her house but because she accepted money { it was } / <B> [ yeah ] / <A> considered a business / <B> aww / <A> you know then taxes ca you know irs came after her { because they found } / <B> [ yeah ]",
+    "context_text": "<A> eating at her house but because she accepted money { it was } / <B> [ no ] / <A> considered a business / <B> yeah / <A> you know then taxes ca you know irs came after her { because they found } / <B> [ okay ]",
     "context_start": 575.36,
-    "context_end": 585.0997500000001,
+    "context_end": 585.2090000000001,
     "feedback": [
         {
-            "name": "spontB_144_yeah",
+            "name": "NR_072_no",
             "start": 578.69,
-            "end": 579.2810000000001,
-            "token": "yeah"
-        },
-        {
-            "name": "spontE_029_aww",
-            "start": 580.78,
-            "end": 581.38175,
-            "token": "aww"
+            "end": 579.565875,
+            "token": "no"
         },
         {
             "name": "spontF_625_yeah",
-            "start": 584.59,
-            "end": 585.0997500000001,
+            "start": 580.78,
+            "end": 581.28975,
             "token": "yeah"
+        },
+        {
+            "name": "spontE_158_okay",
+            "start": 584.59,
+            "end": 585.2090000000001,
+            "token": "okay"
         }
     ]
 }

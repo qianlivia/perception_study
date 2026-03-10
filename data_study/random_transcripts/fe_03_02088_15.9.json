@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02088",
     "context_channel": 0,
-    "context_text": "<B> uh well it seems to be the people that are my acquaintances are generally my friends as well like i don't really have people that i know that i don't hang out with you know what { i'm saying } / <A> [ ooh ] / <B> so i have a few good friends and / <A> uh-huh / <B> then a bunch of say peripheral friends and then maybe a couple / <A> hm / <B> of acquaintances / <A> yeah",
+    "context_text": "<B> uh well it seems to be the people that are my acquaintances are generally my friends as well like i don't really have people that i know that i don't hang out with you know what { i'm saying } / <A> [ oh ] / <B> so i have a few good friends and / <A> yeah / <B> then a bunch of say peripheral friends and then maybe a couple / <A> mhm / <B> of acquaintances / <A> uh-huh",
     "context_start": 15.9,
-    "context_end": 38.892625,
+    "context_end": 38.5675,
     "feedback": [
         {
-            "name": "spontF_486_ooh",
+            "name": "spontF_514_oh",
             "start": 27.75,
-            "end": 28.741875,
-            "token": "ooh"
+            "end": 28.535125,
+            "token": "oh"
         },
         {
-            "name": "spontD_187_uh-huh",
+            "name": "spontB_224_yeah",
             "start": 32.6,
-            "end": 33.078,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontA_152_hm",
-            "start": 35.9,
-            "end": 36.855125,
-            "token": "hm"
-        },
-        {
-            "name": "sun1_022_yeah",
-            "start": 38.06,
-            "end": 38.892625,
+            "end": 33.4735,
             "token": "yeah"
+        },
+        {
+            "name": "spontC_348_mhm",
+            "start": 35.9,
+            "end": 36.49,
+            "token": "mhm"
+        },
+        {
+            "name": "spontD_199_uh-huh",
+            "start": 38.06,
+            "end": 38.5675,
+            "token": "uh-huh"
         }
     ]
 }

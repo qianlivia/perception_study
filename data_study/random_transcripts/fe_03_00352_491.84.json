@@ -1,32 +1,32 @@
 {
     "name": "fe_03_00352",
     "context_channel": 0,
-    "context_text": "<B> oh yeah yeah my wife's emphasis is on a well her background is a teaching english as a second language { and } / <A> [ yeah ] / <B> so she looks at um she looks primarily at the teaching and learning of um writing and to especially the speakers of other languages and so you know she uses various uh i mean comes at it from various angles but the one that she's doing her dissertation on is uh about using ah technological media be those the web uh the internet chat rooms / <A> uh-huh / <B> um whatever i mean just anything word processing even / <A> ooh / <B> and you know does this how is this being used um because in the past people have asked the questions you know like well is this better or worse than the traditional classrooms and i mean that's a pretty useless well first of all what do you mean by the traditional classroom i mean everybody does it differently anyway you know and / <A> uh-huh",
+    "context_text": "<B> oh yeah yeah my wife's emphasis is on a well her background is a teaching english as a second language { and } / <A> [ ah ] / <B> so she looks at um she looks primarily at the teaching and learning of um writing and to especially the speakers of other languages and so you know she uses various uh i mean comes at it from various angles but the one that she's doing her dissertation on is uh about using ah technological media be those the web uh the internet chat rooms / <A> okay / <B> um whatever i mean just anything word processing even / <A> yeah / <B> and you know does this how is this being used um because in the past people have asked the questions you know like well is this better or worse than the traditional classrooms and i mean that's a pretty useless well first of all what do you mean by the traditional classroom i mean everybody does it differently anyway you know and / <A> uh-huh",
     "context_start": 491.84,
-    "context_end": 558.71,
+    "context_end": 558.83175,
     "feedback": [
         {
-            "name": "spontC_247_yeah",
+            "name": "spontB_009_ah",
             "start": 499.11,
-            "end": 499.782625,
+            "end": 499.696375,
+            "token": "ah"
+        },
+        {
+            "name": "spontA_257_okay",
+            "start": 528.35,
+            "end": 528.9785,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_111_yeah",
+            "start": 532.79,
+            "end": 533.82175,
             "token": "yeah"
         },
         {
-            "name": "spontB_140_uh-huh",
-            "start": 528.35,
-            "end": 528.888,
-            "token": "uh-huh"
-        },
-        {
-            "name": "NegS_064_ooh",
-            "start": 532.79,
-            "end": 533.81025,
-            "token": "ooh"
-        },
-        {
-            "name": "spontD_337_uh-huh",
+            "name": "spontD_113_uh-huh",
             "start": 558.2,
-            "end": 558.71,
+            "end": 558.83175,
             "token": "uh-huh"
         }
     ]

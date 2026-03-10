@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02584",
     "context_channel": 1,
-    "context_text": "<A> and and and of course the the so called war was so juicy because there were so many uh opposing factions to it that that kept it really alive and rocking and rolling i mean i'm { not a } / <B> [ exactly ] / <A> news buff myself because / <B> mhm / <A> a lot of this stuff i i have no control over / <B> mmm / <A> and uh a lot of it just makes you feel bad so why subject yourself to that / <B> no",
+    "context_text": "<A> and and and of course the the so called war was so juicy because there were so many uh opposing factions to it that that kept it really alive and rocking and rolling i mean i'm { not a } / <B> [ yes ] / <A> news buff myself because / <B> yeah / <A> a lot of this stuff i i have no control over / <B> oh / <A> and uh a lot of it just makes you feel bad so why subject yourself to that / <B> uh-huh",
     "context_start": 235.47,
-    "context_end": 262.11337499999996,
+    "context_end": 261.891375,
     "feedback": [
         {
-            "name": "sun_015_exactly",
+            "name": "PR_022_yes",
             "start": 248.62,
-            "end": 249.72175000000001,
-            "token": "exactly"
+            "end": 249.638625,
+            "token": "yes"
         },
         {
-            "name": "sun1_006_mhm",
+            "name": "spontA_211_yeah",
             "start": 250.32,
-            "end": 251.01999999999998,
-            "token": "mhm"
+            "end": 250.990125,
+            "token": "yeah"
         },
         {
-            "name": "spontC_196_mmm",
+            "name": "Sy_051_oh",
             "start": 255.07,
-            "end": 255.80474999999998,
-            "token": "mmm"
+            "end": 256.45375,
+            "token": "oh"
         },
         {
-            "name": "NR_078_no",
+            "name": "spontA_413_uh-huh",
             "start": 261.39,
-            "end": 262.11337499999996,
-            "token": "no"
+            "end": 261.891375,
+            "token": "uh-huh"
         }
     ]
 }

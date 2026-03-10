@@ -1,45 +1,45 @@
 {
     "name": "fe_03_02507",
     "context_channel": 0,
-    "context_text": "<B> was always rooting for the older couple because they were leading / <A> wow / <B> and boom not to not to win that just really shocked me / <A> mhm / <B> i mean they were so and they used their intelligence / <A> wow / <B> they worked together so well and then the young couple that won just out of pure luck / <A> yeah / <B> i couldn't believe it dumb luck in in a way it / <A> mhm / <B> got them them to be the winners / <A> wow",
+    "context_text": "<B> was always rooting for the older couple because they were leading / <A> ooh / <B> and boom not to not to win that just really shocked me / <A> wow / <B> i mean they were so and they used their intelligence / <A> yeah / <B> they worked together so well and then the young couple that won just out of pure luck / <A> yeah / <B> i couldn't believe it dumb luck in in a way it / <A> yes / <B> got them them to be the winners / <A> mhm",
     "context_start": 240.71,
-    "context_end": 270.748875,
+    "context_end": 270.07824999999997,
     "feedback": [
         {
-            "name": "PS_161_wow",
+            "name": "spontA_092_ooh",
             "start": 244.31,
-            "end": 245.203375,
-            "token": "wow"
+            "end": 245.151625,
+            "token": "ooh"
         },
         {
-            "name": "spontA_153_mhm",
+            "name": "PS_156_wow",
             "start": 248.48,
-            "end": 249.011375,
-            "token": "mhm"
-        },
-        {
-            "name": "PS_075_wow",
-            "start": 253.12,
-            "end": 254.36925,
+            "end": 249.42075,
             "token": "wow"
         },
         {
-            "name": "spontA_146_yeah",
-            "start": 260.16,
-            "end": 260.85825,
+            "name": "spontC_092_yeah",
+            "start": 253.12,
+            "end": 253.588875,
             "token": "yeah"
         },
         {
-            "name": "spontA_358_mhm",
-            "start": 266.62,
-            "end": 267.118625,
-            "token": "mhm"
+            "name": "spontB_292_yeah",
+            "start": 260.16,
+            "end": 260.73150000000004,
+            "token": "yeah"
         },
         {
-            "name": "PS_189_wow",
+            "name": "PR_015_yes",
+            "start": 266.62,
+            "end": 267.613625,
+            "token": "yes"
+        },
+        {
+            "name": "spontF_482_mhm",
             "start": 269.64,
-            "end": 270.748875,
-            "token": "wow"
+            "end": 270.07824999999997,
+            "token": "mhm"
         }
     ]
 }

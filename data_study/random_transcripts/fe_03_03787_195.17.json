@@ -1,32 +1,32 @@
 {
     "name": "fe_03_03787",
     "context_channel": 1,
-    "context_text": "<A> mean but i don't you know like when people are like yeah you're alcoholics i'm like yeah well we kinda are you know like it's true it's a stereotype that's true { you } / <B> [ yeah ] / <A> know if it for whatever happened in history you know like / <B> mmm / <A> and culturally like we certainly like alcohol you know and { it's just } / <B> [ ooh ] / <A> i'm not gonna get mad you know like / <B> yeah",
+    "context_text": "<A> mean but i don't you know like when people are like yeah you're alcoholics i'm like yeah well we kinda are you know like it's true it's a stereotype that's true { you } / <B> [ ooh ] / <A> know if it for whatever happened in history you know like / <B> no / <A> and culturally like we certainly like alcohol you know and { it's just } / <B> [ uh-huh ] / <A> i'm not gonna get mad you know like / <B> yeah",
     "context_start": 195.17,
-    "context_end": 213.99787500000002,
+    "context_end": 214.14100000000002,
     "feedback": [
         {
-            "name": "spontC_247_yeah",
+            "name": "NegS_051_ooh",
             "start": 202.92,
-            "end": 203.592625,
-            "token": "yeah"
-        },
-        {
-            "name": "Sy_78_mmm",
-            "start": 206.42,
-            "end": 207.37375,
-            "token": "mmm"
-        },
-        {
-            "name": "spontC_242_ooh",
-            "start": 210.43,
-            "end": 211.401375,
+            "end": 204.07524999999998,
             "token": "ooh"
         },
         {
-            "name": "spontA_414_yeah",
+            "name": "NR_019_no",
+            "start": 206.42,
+            "end": 207.454375,
+            "token": "no"
+        },
+        {
+            "name": "spontC_189_uh-huh",
+            "start": 210.43,
+            "end": 210.91025000000002,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontB_252_yeah",
             "start": 213.52,
-            "end": 213.99787500000002,
+            "end": 214.14100000000002,
             "token": "yeah"
         }
     ]

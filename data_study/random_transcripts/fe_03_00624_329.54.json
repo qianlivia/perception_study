@@ -1,32 +1,32 @@
 {
     "name": "fe_03_00624",
     "context_channel": 0,
-    "context_text": "<B> that i uh i i don't know i would just not a uh not a home person i never / <A> yeah / <B> could get that in my i'm and i'm not i'm not saying anything about anybody else that is doing { it } / <A> [ yeah ] / <B> i'm just saying that everybody is different and it wasn't i couldn't get it in my mind that that was a job you know that / <A> ugh / <B> the right mental thing about it and and course had already taught school a couple of years so i went { i } / <A> [ mhm ]",
+    "context_text": "<B> that i uh i i don't know i would just not a uh not a home person i never / <A> yeah / <B> could get that in my i'm and i'm not i'm not saying anything about anybody else that is doing { it } / <A> [ no ] / <B> i'm just saying that everybody is different and it wasn't i couldn't get it in my mind that that was a job you know that / <A> oh / <B> the right mental thing about it and and course had already taught school a couple of years so i went { i } / <A> [ mhm ]",
     "context_start": 329.54,
-    "context_end": 353.359,
+    "context_end": 353.285375,
     "feedback": [
         {
-            "name": "spontF_020_yeah",
+            "name": "spontF_177_yeah",
             "start": 334.76,
-            "end": 335.27549999999997,
+            "end": 335.269,
             "token": "yeah"
         },
         {
-            "name": "spontF_295_yeah",
+            "name": "NR_078_no",
             "start": 338.81,
-            "end": 339.328375,
-            "token": "yeah"
+            "end": 339.533375,
+            "token": "no"
         },
         {
-            "name": "NegS_031_ugh",
+            "name": "Sy_071_oh",
             "start": 346.61,
-            "end": 347.709875,
-            "token": "ugh"
+            "end": 347.629125,
+            "token": "oh"
         },
         {
-            "name": "spontE_241_mhm",
+            "name": "spontE_142_mhm",
             "start": 352.81,
-            "end": 353.359,
+            "end": 353.285375,
             "token": "mhm"
         }
     ]

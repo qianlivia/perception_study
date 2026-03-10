@@ -1,39 +1,39 @@
 {
     "name": "fe_03_04330",
     "context_channel": 0,
-    "context_text": "<B> [ oh i do not ] know any spanish i keep saying this summer i'm going to learn some spanish because i had a little boy in my class this year { that } / <A> [ mhm ] / <B> did not speak english { and i've had a } / <A> [ huh ] / <B> terrible time trying to communicate with him now thank goodness he's smarter than i am and i guess he's younger but he's picked up english a lot quicker than i have picked up his spanish / <A> yeah / <B> but i regret not learning spanish years ago / <A> hm / <B> i regret that ah but i have should have learned it and i regret that now so i guess i would change that i think one thing i would do is i i'd probably want to learn at least spanish and maybe some more languages / <A> hm",
+    "context_text": "<B> [ oh i do not ] know any spanish i keep saying this summer i'm going to learn some spanish because i had a little boy in my class this year { that } / <A> [ right ] / <B> did not speak english { and i've had a } / <A> [ yeah ] / <B> terrible time trying to communicate with him now thank goodness he's smarter than i am and i guess he's younger but he's picked up english a lot quicker than i have picked up his spanish / <A> yeah / <B> but i regret not learning spanish years ago / <A> yeah / <B> i regret that ah but i have should have learned it and i regret that now so i guess i would change that i think one thing i would do is i i'd probably want to learn at least spanish and maybe some more languages / <A> okay",
     "context_start": 532.87,
-    "context_end": 573.1348750000001,
+    "context_end": 573.0366250000001,
     "feedback": [
         {
-            "name": "spontD_178_mhm",
+            "name": "sun_028_right",
             "start": 541.09,
-            "end": 541.70925,
-            "token": "mhm"
+            "end": 541.819375,
+            "token": "right"
         },
         {
-            "name": "NS_062_huh",
+            "name": "spontD_365_yeah",
             "start": 542.75,
-            "end": 543.79375,
-            "token": "huh"
-        },
-        {
-            "name": "spontB_327_yeah",
-            "start": 554.61,
-            "end": 555.46525,
+            "end": 543.60625,
             "token": "yeah"
         },
         {
-            "name": "NS_046_hm",
-            "start": 560.12,
-            "end": 560.738,
-            "token": "hm"
+            "name": "spontE_073_yeah",
+            "start": 554.61,
+            "end": 555.176,
+            "token": "yeah"
         },
         {
-            "name": "Sy_004_hm",
+            "name": "spontD_407_yeah",
+            "start": 560.12,
+            "end": 560.537625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_033_okay",
             "start": 572.34,
-            "end": 573.1348750000001,
-            "token": "hm"
+            "end": 573.0366250000001,
+            "token": "okay"
         }
     ]
 }

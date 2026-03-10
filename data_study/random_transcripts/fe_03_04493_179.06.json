@@ -1,39 +1,39 @@
 {
     "name": "fe_03_04493",
     "context_channel": 1,
-    "context_text": "<A> no well we're live we live down south now we've just lived here three years i'm originally from michigan and um we lived in uh well middle class i guess suburb and i our school district was was one of the best in the area with you know more a little more money than some not as much as others so they they had um you know it was pretty good my son graduated with a three point eight grade point average and he you know he did real well / <B> uh-huh / <A> teachers were good you know they were caring helpful and everything / <B> mhm / <A> and like i don't know too much around here because like i said i don't have any kids in school / <B> uh-huh / <A> but i remember also when he was in school and my my husband's nieces and nephews were in school here he was way ahead of them they / <B> hm / <A> were higher like a couple years older than him and what they were doing in school here he'd he'd already done / <B> yeah",
+    "context_text": "<A> no well we're live we live down south now we've just lived here three years i'm originally from michigan and um we lived in uh well middle class i guess suburb and i our school district was was one of the best in the area with you know more a little more money than some not as much as others so they they had um you know it was pretty good my son graduated with a three point eight grade point average and he you know he did real well / <B> yeah / <A> teachers were good you know they were caring helpful and everything / <B> yeah / <A> and like i don't know too much around here because like i said i don't have any kids in school / <B> mhm / <A> but i remember also when he was in school and my my husband's nieces and nephews were in school here he was way ahead of them they / <B> yeah / <A> were higher like a couple years older than him and what they were doing in school here he'd he'd already done / <B> mhm",
     "context_start": 179.06,
-    "context_end": 271.3785,
+    "context_end": 271.30337499999996,
     "feedback": [
         {
-            "name": "spontA_290_uh-huh",
+            "name": "spontF_029_yeah",
             "start": 231.69,
-            "end": 232.18975,
-            "token": "uh-huh"
+            "end": 232.26525,
+            "token": "yeah"
         },
         {
-            "name": "sun1_005_mhm",
+            "name": "spontD_267_yeah",
             "start": 242.75,
-            "end": 243.52,
+            "end": 243.499625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_298_mhm",
+            "start": 249.04,
+            "end": 249.575875,
             "token": "mhm"
         },
         {
-            "name": "spontB_383_uh-huh",
-            "start": 249.04,
-            "end": 249.642375,
-            "token": "uh-huh"
-        },
-        {
-            "name": "sun2_018_hm",
+            "name": "spontC_060_yeah",
             "start": 260.49,
-            "end": 261.360625,
-            "token": "hm"
+            "end": 260.947625,
+            "token": "yeah"
         },
         {
-            "name": "PR_040_yeah",
+            "name": "spontD_038_mhm",
             "start": 270.77,
-            "end": 271.3785,
-            "token": "yeah"
+            "end": 271.30337499999996,
+            "token": "mhm"
         }
     ]
 }

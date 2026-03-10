@@ -1,51 +1,51 @@
 {
     "name": "fe_03_04537",
     "context_channel": 0,
-    "context_text": "<B> one of the jobs i had was overseeing our fair labor practices and our diversity issue / <A> mhm / <B> and we didn't have to give like a whole lot of special weight to to to attract minorities / <A> yeah / <B> it's being it's like because the fact is news like back then like news directors gave more weight to women with big breasts / <A> no / <B> you know what i'm saying / <A> wow / <B> or they gave weight to blondes or / <A> oh / <B> um or if the news director uh of course being male maybe had a thing for redheads / <A> wow / <B> but everybody has a preference but the smart ones would always balance that out with well you know i can't hire a whole bunch of blondes because then my my my my news team looks p pretty homogeneous / <A> yeah",
+    "context_text": "<B> one of the jobs i had was overseeing our fair labor practices and our diversity issue / <A> uh-huh / <B> and we didn't have to give like a whole lot of special weight to to to attract minorities / <A> yeah / <B> it's being it's like because the fact is news like back then like news directors gave more weight to women with big breasts / <A> wow / <B> you know what i'm saying / <A> yeah / <B> or they gave weight to blondes or / <A> uh-huh / <B> um or if the news director uh of course being male maybe had a thing for redheads / <A> wow / <B> but everybody has a preference but the smart ones would always balance that out with well you know i can't hire a whole bunch of blondes because then my my my my news team looks p pretty homogeneous / <A> ooh",
     "context_start": 286.91,
-    "context_end": 339.954,
+    "context_end": 340.12975,
     "feedback": [
         {
-            "name": "spontA_0101_mhm",
+            "name": "spontA_312_uh-huh",
             "start": 293.41,
-            "end": 293.96537500000005,
-            "token": "mhm"
+            "end": 293.97,
+            "token": "uh-huh"
         },
         {
-            "name": "PR_061_yeah",
+            "name": "spontE_162_yeah",
             "start": 301.3,
-            "end": 302.215625,
+            "end": 302.2745,
             "token": "yeah"
         },
         {
-            "name": "spontF_264_no",
+            "name": "PS_101_wow",
             "start": 311.22,
-            "end": 311.75712500000003,
-            "token": "no"
+            "end": 312.15837500000004,
+            "token": "wow"
         },
         {
-            "name": "PS_152_wow",
+            "name": "spontD_024_yeah",
             "start": 312.81,
-            "end": 313.405875,
-            "token": "wow"
-        },
-        {
-            "name": "Sy_051_oh",
-            "start": 316.92,
-            "end": 318.30375000000004,
-            "token": "oh"
-        },
-        {
-            "name": "PS_074_wow",
-            "start": 324.78,
-            "end": 325.61724999999996,
-            "token": "wow"
-        },
-        {
-            "name": "spontC_354_yeah",
-            "start": 339.23,
-            "end": 339.954,
+            "end": 313.230125,
             "token": "yeah"
+        },
+        {
+            "name": "spontF_258_uh-huh",
+            "start": 316.92,
+            "end": 317.51025000000004,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PS_132_wow",
+            "start": 324.78,
+            "end": 325.92199999999997,
+            "token": "wow"
+        },
+        {
+            "name": "PS_153_ooh",
+            "start": 339.23,
+            "end": 340.12975,
+            "token": "ooh"
         }
     ]
 }

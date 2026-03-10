@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02731",
     "context_channel": 0,
-    "context_text": "<B> to be a terrorist / <A> uh-huh / <B> you don't need an army / <A> ooh / <B> you can just you know be { a } / <A> [ yeah ] / <B> terrorist yourself i don't know these terrorist camps are freaky / <A> mhm",
+    "context_text": "<B> to be a terrorist / <A> oh / <B> you don't need an army / <A> mhm / <B> you can just you know be { a } / <A> [ mhm ] / <B> terrorist yourself i don't know these terrorist camps are freaky / <A> oh",
     "context_start": 466.32,
-    "context_end": 480.817,
+    "context_end": 481.3695,
     "feedback": [
         {
-            "name": "spontD_084_uh-huh",
+            "name": "spontA_278_oh",
             "start": 467.55,
-            "end": 468.110875,
-            "token": "uh-huh"
+            "end": 468.21025000000003,
+            "token": "oh"
         },
         {
-            "name": "NegS_060_ooh",
+            "name": "spontA_070_mhm",
             "start": 469.17,
-            "end": 470.23400000000004,
-            "token": "ooh"
-        },
-        {
-            "name": "spontF_048_yeah",
-            "start": 473.23,
-            "end": 474.0045,
-            "token": "yeah"
-        },
-        {
-            "name": "spontA_054_mhm",
-            "start": 480.29,
-            "end": 480.817,
+            "end": 469.7,
             "token": "mhm"
+        },
+        {
+            "name": "spontC_380_mhm",
+            "start": 473.23,
+            "end": 473.76437500000003,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_197_oh",
+            "start": 480.29,
+            "end": 481.3695,
+            "token": "oh"
         }
     ]
 }

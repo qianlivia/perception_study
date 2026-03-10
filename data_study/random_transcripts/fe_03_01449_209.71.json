@@ -1,27 +1,27 @@
 {
     "name": "fe_03_01449",
     "context_channel": 0,
-    "context_text": "<B> you know the same images over and over { and over } / <A> [ mhm ] / <B> again and i don't care if they're one or three or ten they're gonna remember / <A> oh / <B> that or identify with { it on } / <A> [ mhm ]",
+    "context_text": "<B> you know the same images over and over { and over } / <A> [ yes ] / <B> again and i don't care if they're one or three or ten they're gonna remember / <A> mhm / <B> that or identify with { it on } / <A> [ yeah ]",
     "context_start": 209.71,
-    "context_end": 216.94650000000001,
+    "context_end": 216.75412500000002,
     "feedback": [
         {
-            "name": "spontE_118_mhm",
+            "name": "spontC_507_yes",
             "start": 211.64,
-            "end": 212.23049999999998,
-            "token": "mhm"
+            "end": 212.1625,
+            "token": "yes"
         },
         {
-            "name": "spontD_193_oh",
+            "name": "spontB_302_mhm",
             "start": 214.84,
-            "end": 215.59125,
-            "token": "oh"
+            "end": 215.399,
+            "token": "mhm"
         },
         {
-            "name": "spontC_388_mhm",
+            "name": "spontC_398_yeah",
             "start": 216.4,
-            "end": 216.94650000000001,
-            "token": "mhm"
+            "end": 216.75412500000002,
+            "token": "yeah"
         }
     ]
 }

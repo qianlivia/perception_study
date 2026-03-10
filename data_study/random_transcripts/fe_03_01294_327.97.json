@@ -1,26 +1,26 @@
 {
     "name": "fe_03_01294",
     "context_channel": 0,
-    "context_text": "<B> so it is kind of neat though i mean i can i think it's cool i mean that we know what is going on i don't think it is cool that we are in the war / <A> aha / <B> but it is cool that we are able to read in the newspaper m and uh like you said the internet and everything / <A> uh-huh / <B> so { i } / <A> [ yeah ]",
+    "context_text": "<B> so it is kind of neat though i mean i can i think it's cool i mean that we know what is going on i don't think it is cool that we are in the war / <A> mhm / <B> but it is cool that we are able to read in the newspaper m and uh like you said the internet and everything / <A> oh / <B> so { i } / <A> [ yeah ]",
     "context_start": 327.97,
-    "context_end": 345.788875,
+    "context_end": 345.89525000000003,
     "feedback": [
         {
-            "name": "spontA_328_aha",
+            "name": "spontB_324_mhm",
             "start": 335.65,
-            "end": 336.43874999999997,
-            "token": "aha"
+            "end": 336.427375,
+            "token": "mhm"
         },
         {
-            "name": "spontC_371_uh-huh",
+            "name": "spontB_365_oh",
             "start": 343.53,
-            "end": 344.00812499999995,
-            "token": "uh-huh"
+            "end": 344.12424999999996,
+            "token": "oh"
         },
         {
-            "name": "spontD_200_yeah",
+            "name": "spontE_125_yeah",
             "start": 345.12,
-            "end": 345.788875,
+            "end": 345.89525000000003,
             "token": "yeah"
         }
     ]

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02217",
     "context_channel": 1,
-    "context_text": "<A> yeah we have uh a real good mexican restaurant they call las carretas here / <B> no / <A> and it has a lot of uh style i've gone in with my church group and uh i i don't even know i think they go there because they do serve drinks in one part but we did we went in there as a group and when you go in they've got all this me uh spanish music going you know and it really makes you feel like you want to do a la cucaracha or whatever { it } / <B> [ wow ] / <A> is they do but um uh my uh friends um well they were treating me / <B> yeah / <A> so i ordered something that i thought i was going just get one of those um oh deals you know where there's a rolled-up tortilla and a bunch of stuff in it you know and i thought that's what i was ordering / <B> uh-huh",
+    "context_text": "<A> yeah we have uh a real good mexican restaurant they call las carretas here / <B> okay / <A> and it has a lot of uh style i've gone in with my church group and uh i i don't even know i think they go there because they do serve drinks in one part but we did we went in there as a group and when you go in they've got all this me uh spanish music going you know and it really makes you feel like you want to do a la cucaracha or whatever { it } / <B> [ oh ] / <A> is they do but um uh my uh friends um well they were treating me / <B> yeah / <A> so i ordered something that i thought i was going just get one of those um oh deals you know where there's a rolled-up tortilla and a bunch of stuff in it you know and i thought that's what i was ordering / <B> wow",
     "context_start": 396.21,
-    "context_end": 442.719125,
+    "context_end": 443.363625,
     "feedback": [
         {
-            "name": "NR_042_no",
+            "name": "spontE_405_okay",
             "start": 401.17,
-            "end": 401.922125,
-            "token": "no"
+            "end": 401.844375,
+            "token": "okay"
         },
         {
-            "name": "PS_128_wow",
+            "name": "Sy_070_oh",
             "start": 420.96,
-            "end": 422.053,
-            "token": "wow"
+            "end": 422.25,
+            "token": "oh"
         },
         {
-            "name": "spontC_354_yeah",
+            "name": "spontD_180_yeah",
             "start": 427.25,
-            "end": 427.974,
+            "end": 427.893125,
             "token": "yeah"
         },
         {
-            "name": "spontE_236_uh-huh",
+            "name": "PS_173_wow",
             "start": 442.24,
-            "end": 442.719125,
-            "token": "uh-huh"
+            "end": 443.363625,
+            "token": "wow"
         }
     ]
 }

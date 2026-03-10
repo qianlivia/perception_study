@@ -1,45 +1,45 @@
 {
     "name": "fe_03_04478",
     "context_channel": 1,
-    "context_text": "<A> and i mean one of my one of my very very close friends' daughter was is at the time now she's fourteen was twelve and we were you know we were hanging out together we play ball together and he said yeah he said how do you think i feel i said what he just finds out all of a sudden that my daughter's sexually active { i said } / <B> [ ooh ] / <A> at twelve / <B> yeah / <A> he goes and he and he says to me he says danny welcome to the millenium he said wha what do i do punish her and put her in her room for a { hundred years } / <B> mmm / <A> and don't let her out of the closet { he } / <B> [ yeah ] / <A> goes i gotta be thankful that she came and said something and told me something { at } / <B> [ mhm ] / <A> least now hopefully monitor it and { i said } / <B> [ ah ]",
+    "context_text": "<A> and i mean one of my one of my very very close friends' daughter was is at the time now she's fourteen was twelve and we were you know we were hanging out together we play ball together and he said yeah he said how do you think i feel i said what he just finds out all of a sudden that my daughter's sexually active { i said } / <B> [ yeah ] / <A> at twelve / <B> okay / <A> he goes and he and he says to me he says danny welcome to the millenium he said wha what do i do punish her and put her in her room for a { hundred years } / <B> yeah / <A> and don't let her out of the closet { he } / <B> [ yes ] / <A> goes i gotta be thankful that she came and said something and told me something { at } / <B> [ oh ] / <A> least now hopefully monitor it and { i said } / <B> [ mhm ]",
     "context_start": 422.56,
-    "context_end": 458.753125,
+    "context_end": 458.512875,
     "feedback": [
         {
-            "name": "PS_140_ooh",
+            "name": "spontF_512_yeah",
             "start": 439.37,
-            "end": 440.65475,
-            "token": "ooh"
+            "end": 440.35625,
+            "token": "yeah"
         },
         {
-            "name": "spontB_373_yeah",
+            "name": "spontD_022_okay",
             "start": 441.41,
-            "end": 441.8215,
-            "token": "yeah"
+            "end": 441.879,
+            "token": "okay"
         },
         {
-            "name": "spontC_289_mmm",
+            "name": "spontB_292_yeah",
             "start": 448.71,
-            "end": 449.6105,
-            "token": "mmm"
-        },
-        {
-            "name": "spontD_145_yeah",
-            "start": 450.74,
-            "end": 451.413625,
+            "end": 449.2815,
             "token": "yeah"
         },
         {
-            "name": "spontA_0101_mhm",
-            "start": 454.85,
-            "end": 455.40537500000005,
-            "token": "mhm"
+            "name": "spontF_214_yes",
+            "start": 450.74,
+            "end": 451.583375,
+            "token": "yes"
         },
         {
-            "name": "spontC_214_ah",
+            "name": "spontF_016_oh",
+            "start": 454.85,
+            "end": 456.02087500000005,
+            "token": "oh"
+        },
+        {
+            "name": "spontC_322_mhm",
             "start": 457.94,
-            "end": 458.753125,
-            "token": "ah"
+            "end": 458.512875,
+            "token": "mhm"
         }
     ]
 }

@@ -1,27 +1,27 @@
 {
     "name": "fe_03_03369",
     "context_channel": 1,
-    "context_text": "<A> so and we were totally different people and um just did not mesh together / <B> ooh / <A> well so it didn't go well but that's okay cause it happens you know / <B> mmm / <A> and it's all i guess it's all a learning process along the way and / <B> uh-huh",
+    "context_text": "<A> so and we were totally different people and um just did not mesh together / <B> yeah / <A> well so it didn't go well but that's okay cause it happens you know / <B> yeah / <A> and it's all i guess it's all a learning process along the way and / <B> yes",
     "context_start": 466.22,
-    "context_end": 483.24150000000003,
+    "context_end": 484.24187500000005,
     "feedback": [
         {
-            "name": "spontA_118_ooh",
+            "name": "PR_035_yeah",
             "start": 472.37,
-            "end": 473.3725,
-            "token": "ooh"
+            "end": 473.168625,
+            "token": "yeah"
         },
         {
-            "name": "spontA_323_mmm",
+            "name": "spontF_560_yeah",
             "start": 478.38,
-            "end": 479.627625,
-            "token": "mmm"
+            "end": 478.965625,
+            "token": "yeah"
         },
         {
-            "name": "spontA_296_uh-huh",
+            "name": "PR_003_yes",
             "start": 482.66,
-            "end": 483.24150000000003,
-            "token": "uh-huh"
+            "end": 484.24187500000005,
+            "token": "yes"
         }
     ]
 }

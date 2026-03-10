@@ -1,39 +1,39 @@
 {
     "name": "fe_03_00648",
     "context_channel": 1,
-    "context_text": "<A> but that's uh i guess that's the only thing how it's affected me is that i'm scared to death to have to hear an airplane go over i'm really afraid you know of them attacking again / <B> uh-huh / <A> because they said something about if uh if we bomb over there / <B> mhm / <A> that the the twin towers would have looked like a a fire cracker or / <B> no / <A> something compared to what they would do so that's a scary thought / <B> hm / <A> but i'm afraid you know i'm just afraid of what will happen if they do / <B> really",
+    "context_text": "<A> but that's uh i guess that's the only thing how it's affected me is that i'm scared to death to have to hear an airplane go over i'm really afraid you know of them attacking again / <B> yes / <A> because they said something about if uh if we bomb over there / <B> wow / <A> that the the twin towers would have looked like a a fire cracker or / <B> right / <A> something compared to what they would do so that's a scary thought / <B> yeah / <A> but i'm afraid you know i'm just afraid of what will happen if they do / <B> yeah",
     "context_start": 416.55,
-    "context_end": 456.7695,
+    "context_end": 456.55,
     "feedback": [
         {
-            "name": "spontD_276_uh-huh",
+            "name": "sun_023_yes",
             "start": 427.1,
-            "end": 427.541375,
-            "token": "uh-huh"
+            "end": 427.938875,
+            "token": "yes"
         },
         {
-            "name": "spontA_403_mhm",
+            "name": "PS_165_wow",
             "start": 434.38,
-            "end": 434.939375,
-            "token": "mhm"
+            "end": 435.616125,
+            "token": "wow"
         },
         {
-            "name": "NR_024_no",
+            "name": "sun_028_right",
             "start": 442.52,
-            "end": 443.576875,
-            "token": "no"
+            "end": 443.249375,
+            "token": "right"
         },
         {
-            "name": "sun2_015_hm",
+            "name": "spontD_130_yeah",
             "start": 448.63,
-            "end": 449.376375,
-            "token": "hm"
+            "end": 449.232875,
+            "token": "yeah"
         },
         {
-            "name": "PS_019_really",
+            "name": "spontC_353_yeah",
             "start": 455.98,
-            "end": 456.7695,
-            "token": "really"
+            "end": 456.55,
+            "token": "yeah"
         }
     ]
 }

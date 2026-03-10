@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00517",
     "context_channel": 1,
-    "context_text": "<A> yes i don't know how long it's supposed to be for something ask about each other's experience and opinions / <B> uh-huh / <A> and just just hang up and their operator will call you back in the next forty eight hours with a new to- topic / <B> yes / <A> doesn't say for how long / <B> yeah / <A> so it just says if you choose not to talk hang up / <B> mhm",
+    "context_text": "<A> yes i don't know how long it's supposed to be for something ask about each other's experience and opinions / <B> oh / <A> and just just hang up and their operator will call you back in the next forty eight hours with a new to- topic / <B> sure / <A> doesn't say for how long / <B> yeah / <A> so it just says if you choose not to talk hang up / <B> yeah",
     "context_start": 262.29,
-    "context_end": 280.03024999999997,
+    "context_end": 280.1345,
     "feedback": [
         {
-            "name": "spontD_153_uh-huh",
+            "name": "PS_180_oh",
             "start": 269.62,
-            "end": 270.20425,
-            "token": "uh-huh"
+            "end": 270.74987500000003,
+            "token": "oh"
         },
         {
-            "name": "PR_003_yes",
+            "name": "sun_047_sure",
             "start": 275.18,
-            "end": 276.76187500000003,
-            "token": "yes"
+            "end": 276.061125,
+            "token": "sure"
         },
         {
-            "name": "spontE_366_yeah",
+            "name": "spontE_252_yeah",
             "start": 276.67,
-            "end": 277.637,
+            "end": 277.30575,
             "token": "yeah"
         },
         {
-            "name": "spontD_133_mhm",
+            "name": "spontB_328_yeah",
             "start": 279.39,
-            "end": 280.03024999999997,
-            "token": "mhm"
+            "end": 280.1345,
+            "token": "yeah"
         }
     ]
 }

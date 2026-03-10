@@ -1,45 +1,45 @@
 {
     "name": "fe_03_04777",
     "context_channel": 1,
-    "context_text": "<A> yeah i i guess i sort of feel like you know people should be i i don't like the idea of like banning smoking you know illegalizing smoking or something like that i think people should be allowed to smoke i just sort of feel like they need to do it some place that isn't public you know { you should be } / <B> [ oh ] / <A> you know it's like a thing that has to happen in private / <B> okay / <A> um and you know the other concern at the beginning was i thought well you know if a restaurant owner's business is gonna be hurt by you know a smoking ban then they should be allowed to have a smoking section but they've you know they've pretty much proven that if anything you know it it helps the business because { there's a } / <B> [ uh-huh ] / <A> lot of people ah you know there's ah there's a lot of pe people who um don't smoke ah you know and don't wanna go to a restaurant where there's gonna be smoke i mean when { i'm in } / <B> [ hm ] / <A> vegas when i'm in vegas with my girlfriend and you know smoke bothers her more than it bothers me um we you know there are certain restaurants where it's like i don't wanna got here it's smokey and so we e we won't go there / <B> mhm / <A> um but if there's a ban across the board i mean people who smoke it's not like they're gonna say i'm never gonna go out to eat anymore because i can't smoke there it's like you you know you smoke outside before you eat or after you eat um / <B> yeah",
+    "context_text": "<A> yeah i i guess i sort of feel like you know people should be i i don't like the idea of like banning smoking you know illegalizing smoking or something like that i think people should be allowed to smoke i just sort of feel like they need to do it some place that isn't public you know { you should be } / <B> [ yeah ] / <A> you know it's like a thing that has to happen in private / <B> mhm / <A> um and you know the other concern at the beginning was i thought well you know if a restaurant owner's business is gonna be hurt by you know a smoking ban then they should be allowed to have a smoking section but they've you know they've pretty much proven that if anything you know it it helps the business because { there's a } / <B> [ ooh ] / <A> lot of people ah you know there's ah there's a lot of pe people who um don't smoke ah you know and don't wanna go to a restaurant where there's gonna be smoke i mean when { i'm in } / <B> [ yeah ] / <A> vegas when i'm in vegas with my girlfriend and you know smoke bothers her more than it bothers me um we you know there are certain restaurants where it's like i don't wanna got here it's smokey and so we e we won't go there / <B> oh / <A> um but if there's a ban across the board i mean people who smoke it's not like they're gonna say i'm never gonna go out to eat anymore because i can't smoke there it's like you you know you smoke outside before you eat or after you eat um / <B> yes",
     "context_start": 330.51,
-    "context_end": 412.50474999999994,
+    "context_end": 412.62337499999995,
     "feedback": [
         {
-            "name": "NegS_042_oh",
+            "name": "spontE_088_yeah",
             "start": 347.96,
-            "end": 349.16049999999996,
-            "token": "oh"
+            "end": 348.59625,
+            "token": "yeah"
         },
         {
-            "name": "spontC_511_okay",
+            "name": "spontA_407_mhm",
             "start": 350.85,
-            "end": 351.360875,
-            "token": "okay"
-        },
-        {
-            "name": "spontA_315_uh-huh",
-            "start": 374.33,
-            "end": 374.8465,
-            "token": "uh-huh"
-        },
-        {
-            "name": "sun2_039_hm",
-            "start": 386.72,
-            "end": 387.313625,
-            "token": "hm"
-        },
-        {
-            "name": "spontA_343_mhm",
-            "start": 398.82,
-            "end": 399.369625,
+            "end": 351.370625,
             "token": "mhm"
         },
         {
-            "name": "spontC_062_yeah",
-            "start": 411.78,
-            "end": 412.50474999999994,
+            "name": "NegS_014_ooh",
+            "start": 374.33,
+            "end": 375.45225,
+            "token": "ooh"
+        },
+        {
+            "name": "spontD_382_yeah",
+            "start": 386.72,
+            "end": 387.149375,
             "token": "yeah"
+        },
+        {
+            "name": "spontF_465_oh",
+            "start": 398.82,
+            "end": 399.487625,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_214_yes",
+            "start": 411.78,
+            "end": 412.62337499999995,
+            "token": "yes"
         }
     ]
 }

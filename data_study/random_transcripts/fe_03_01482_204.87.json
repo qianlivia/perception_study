@@ -1,39 +1,39 @@
 {
     "name": "fe_03_01482",
     "context_channel": 0,
-    "context_text": "<B> i although i g i've gotta say that every once in a while when the terrorist alert goes off { or something } / <A> [ uh-oh ] / <B> like that happens i think more about it being in a public place or in a big place or { on } / <A> [ ooh ] / <B> public transportation or say like over um the school vacations here where where uh quite a few of my friends and relatives were gonna be traveling when they raise the terrorist alert right { in } / <A> [ uh-huh ] / <B> in and i i guess you know i think of it more like that but i don't know if i've really other than that done anything i mean i didn't / <A> yeah / <B> even buy duct tape or whatever it is they were saying did you i mean i have we have duct tape but i mean well there's h hardly any on the roll and it's um you know it's g it's because it you know holds everything together that we've got it it's not / <A> yeah",
+    "context_text": "<B> i although i g i've gotta say that every once in a while when the terrorist alert goes off { or something } / <A> [ yeah ] / <B> like that happens i think more about it being in a public place or in a big place or { on } / <A> [ yeah ] / <B> public transportation or say like over um the school vacations here where where uh quite a few of my friends and relatives were gonna be traveling when they raise the terrorist alert right { in } / <A> [ wow ] / <B> in and i i guess you know i think of it more like that but i don't know if i've really other than that done anything i mean i didn't / <A> yes / <B> even buy duct tape or whatever it is they were saying did you i mean i have we have duct tape but i mean well there's h hardly any on the roll and it's um you know it's g it's because it you know holds everything together that we've got it it's not / <A> uh-huh",
     "context_start": 204.87,
-    "context_end": 257.02099999999996,
+    "context_end": 256.86787499999997,
     "feedback": [
         {
-            "name": "Sy_005_uh-oh",
+            "name": "spontF_295_yeah",
             "start": 211.05,
-            "end": 211.90050000000002,
-            "token": "uh-oh"
+            "end": 211.568375,
+            "token": "yeah"
         },
         {
-            "name": "PS_158_ooh",
+            "name": "spontB_107_yeah",
             "start": 219.78,
-            "end": 221.058125,
-            "token": "ooh"
+            "end": 220.420625,
+            "token": "yeah"
         },
         {
-            "name": "spontF_306_uh-huh",
+            "name": "PS_146_wow",
             "start": 232.99,
-            "end": 233.4395,
-            "token": "uh-huh"
+            "end": 234.14825000000002,
+            "token": "wow"
         },
         {
-            "name": "spontF_310_yeah",
+            "name": "PR_024_yes",
             "start": 241.75,
-            "end": 242.6395,
-            "token": "yeah"
+            "end": 242.7475,
+            "token": "yes"
         },
         {
-            "name": "spontB_252_yeah",
+            "name": "spontD_026_uh-huh",
             "start": 256.4,
-            "end": 257.02099999999996,
-            "token": "yeah"
+            "end": 256.86787499999997,
+            "token": "uh-huh"
         }
     ]
 }

@@ -1,39 +1,39 @@
 {
     "name": "fe_03_02270",
     "context_channel": 0,
-    "context_text": "<B> um apparently that really was affecting me and i didn't know / <A> yeah / <B> um that's what it was but it felt like kinda like a cold or flu you know / <A> no / <B> but it was allergies it was allergies { cause } / <A> [ wow ] / <B> when i when i took the medication { i mean the } / <A> [ wow ] / <B> allergy pills it definitely helped / <A> uh-huh",
+    "context_text": "<B> um apparently that really was affecting me and i didn't know / <A> ooh / <B> um that's what it was but it felt like kinda like a cold or flu you know / <A> oh / <B> but it was allergies it was allergies { cause } / <A> [ ooh ] / <B> when i when i took the medication { i mean the } / <A> [ wow ] / <B> allergy pills it definitely helped / <A> mhm",
     "context_start": 548.04,
-    "context_end": 567.0013749999999,
+    "context_end": 567.1046249999999,
     "feedback": [
         {
-            "name": "spontE_272_yeah",
+            "name": "PS_072_ooh",
             "start": 553.23,
-            "end": 553.9523750000001,
-            "token": "yeah"
+            "end": 554.913875,
+            "token": "ooh"
         },
         {
-            "name": "NR_002_no",
+            "name": "spontD_378_oh",
             "start": 558.15,
-            "end": 558.919125,
-            "token": "no"
+            "end": 558.8425,
+            "token": "oh"
         },
         {
-            "name": "PS_105_wow",
+            "name": "spontC_185_ooh",
             "start": 560.93,
-            "end": 561.578,
-            "token": "wow"
+            "end": 561.696875,
+            "token": "ooh"
         },
         {
-            "name": "PS_128_wow",
+            "name": "PS_116_wow",
             "start": 563.38,
-            "end": 564.473,
+            "end": 564.341,
             "token": "wow"
         },
         {
-            "name": "spontD_276_uh-huh",
+            "name": "spontA_059_mhm",
             "start": 566.56,
-            "end": 567.0013749999999,
-            "token": "uh-huh"
+            "end": 567.1046249999999,
+            "token": "mhm"
         }
     ]
 }

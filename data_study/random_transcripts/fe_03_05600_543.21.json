@@ -1,27 +1,27 @@
 {
     "name": "fe_03_05600",
     "context_channel": 1,
-    "context_text": "<A> russell hitchcock / <B> pardon / <A> and i'm a the most i'm i'm a i'm a i'm kind of a good fan of theirs / <B> okay / <A> a real good like i collect i collect all their albums / <B> uh-huh",
+    "context_text": "<A> russell hitchcock / <B> okay / <A> and i'm a the most i'm i'm a i'm a i'm kind of a good fan of theirs / <B> oh / <A> a real good like i collect i collect all their albums / <B> yeah",
     "context_start": 543.21,
-    "context_end": 554.090875,
+    "context_end": 554.053125,
     "feedback": [
         {
-            "name": "Nu_59_pardon",
+            "name": "spontD_073_okay",
             "start": 544.89,
-            "end": 545.689125,
-            "token": "pardon"
-        },
-        {
-            "name": "spontC_020_okay",
-            "start": 550.25,
-            "end": 550.725,
+            "end": 545.631125,
             "token": "okay"
         },
         {
-            "name": "spontD_084_uh-huh",
+            "name": "Sy_011_oh",
+            "start": 550.25,
+            "end": 551.488125,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_299_yeah",
             "start": 553.53,
-            "end": 554.090875,
-            "token": "uh-huh"
+            "end": 554.053125,
+            "token": "yeah"
         }
     ]
 }

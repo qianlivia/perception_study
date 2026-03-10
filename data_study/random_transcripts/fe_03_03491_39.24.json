@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03491",
     "context_channel": 0,
-    "context_text": "<B> yeah um i'm in the same boat um i'm not where i am where i wanna be career wise / <A> yeah / <B> or relationship wise / <A> mmm / <B> so um i was in a long term relationship for like two years and um right now we're apart / <A> ah / <B> and um it's so funny like i just got home like an hour ago / <A> oh",
+    "context_text": "<B> yeah um i'm in the same boat um i'm not where i am where i wanna be career wise / <A> wow / <B> or relationship wise / <A> yeah / <B> so um i was in a long term relationship for like two years and um right now we're apart / <A> no / <B> and um it's so funny like i just got home like an hour ago / <A> uh-huh",
     "context_start": 39.24,
-    "context_end": 66.272375,
+    "context_end": 66.05087499999999,
     "feedback": [
         {
-            "name": "spontB_082_yeah",
+            "name": "PS_151_wow",
             "start": 45.57,
-            "end": 46.581125,
+            "end": 46.74475,
+            "token": "wow"
+        },
+        {
+            "name": "spontB_371_yeah",
+            "start": 47.47,
+            "end": 47.83825,
             "token": "yeah"
         },
         {
-            "name": "Sy_064_mmm",
-            "start": 47.47,
-            "end": 48.63125,
-            "token": "mmm"
-        },
-        {
-            "name": "NS_056_ah",
+            "name": "NR_060_no",
             "start": 57.58,
-            "end": 58.555,
-            "token": "ah"
+            "end": 58.054125,
+            "token": "no"
         },
         {
-            "name": "spontF_320_oh",
+            "name": "spontC_207_uh-huh",
             "start": 65.57,
-            "end": 66.272375,
-            "token": "oh"
+            "end": 66.05087499999999,
+            "token": "uh-huh"
         }
     ]
 }

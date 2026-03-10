@@ -1,45 +1,45 @@
 {
     "name": "fe_03_01683",
     "context_channel": 0,
-    "context_text": "<B> um i am a a very big peace advocate i'm not a confrontational person at all / <A> oh / <B> and i'm a very staunch democrat even liber libertarian / <A> yeah / <B> um so i i firmly believe that we did not pursue enough peace as peaceful aspects involved in the conflict / <A> yeah / <B> um but in the same respects we've had some huge anti-war demonstrations here where { the people } / <A> [ uh-huh ] / <B> who are involved in it broke the laws in order to to protest the war and { i } / <A> [ yeah ] / <B> don't believe in that { i mean } / <A> [ aha ]",
+    "context_text": "<B> um i am a a very big peace advocate i'm not a confrontational person at all / <A> yeah / <B> and i'm a very staunch democrat even liber libertarian / <A> yeah / <B> um so i i firmly believe that we did not pursue enough peace as peaceful aspects involved in the conflict / <A> yeah / <B> um but in the same respects we've had some huge anti-war demonstrations here where { the people } / <A> [ yes ] / <B> who are involved in it broke the laws in order to to protest the war and { i } / <A> [ exactly ] / <B> don't believe in that { i mean } / <A> [ yep ]",
     "context_start": 15.82,
-    "context_end": 48.733124999999994,
+    "context_end": 48.061625,
     "feedback": [
         {
-            "name": "Sy_021_oh",
+            "name": "spontE_272_yeah",
             "start": 21.8,
-            "end": 22.612750000000002,
-            "token": "oh"
+            "end": 22.522375,
+            "token": "yeah"
         },
         {
-            "name": "spontA_195_yeah",
+            "name": "spontE_172_yeah",
             "start": 26.64,
-            "end": 27.072625000000002,
+            "end": 27.359125,
             "token": "yeah"
         },
         {
-            "name": "spontB_301_yeah",
+            "name": "PR_031_yeah",
             "start": 34.55,
-            "end": 35.516625,
+            "end": 34.953125,
             "token": "yeah"
         },
         {
-            "name": "spontC_171_uh-huh",
+            "name": "PS_026_yes",
             "start": 40.01,
-            "end": 40.57225,
-            "token": "uh-huh"
+            "end": 41.099875,
+            "token": "yes"
         },
         {
-            "name": "PR_055_yeah",
+            "name": "sun_026_exactly",
             "start": 45.54,
-            "end": 46.233125,
-            "token": "yeah"
+            "end": 46.5695,
+            "token": "exactly"
         },
         {
-            "name": "PS_143_aha",
+            "name": "PR_020_yep",
             "start": 47.41,
-            "end": 48.733124999999994,
-            "token": "aha"
+            "end": 48.061625,
+            "token": "yep"
         }
     ]
 }

@@ -1,27 +1,27 @@
 {
     "name": "fe_03_02595",
     "context_channel": 1,
-    "context_text": "<A> time like within a day they'd they'd find out it was wrong it was like aspirin or something like that { but they } / <B> [ yeah ] / <A> wouldn't report that so it's like i { i mean } / <B> [ yeah ] / <A> i mean i think that don't you think that's kind of like biased / <B> mhm",
+    "context_text": "<A> time like within a day they'd they'd find out it was wrong it was like aspirin or something like that { but they } / <B> [ yeah ] / <A> wouldn't report that so it's like i { i mean } / <B> [ mhm ] / <A> i mean i think that don't you think that's kind of like biased / <B> yeah",
     "context_start": 498.84,
-    "context_end": 509.751375,
+    "context_end": 509.51475,
     "feedback": [
         {
-            "name": "spontF_047_yeah",
+            "name": "spontB_023_yeah",
             "start": 503.25,
-            "end": 503.856875,
+            "end": 504.117125,
             "token": "yeah"
         },
         {
-            "name": "spontB_376_yeah",
+            "name": "spontE_271_mhm",
             "start": 505.5,
-            "end": 506.223375,
-            "token": "yeah"
+            "end": 506.097,
+            "token": "mhm"
         },
         {
-            "name": "PR_032_mhm",
+            "name": "spontF_136_yeah",
             "start": 509.02,
-            "end": 509.751375,
-            "token": "mhm"
+            "end": 509.51475,
+            "token": "yeah"
         }
     ]
 }

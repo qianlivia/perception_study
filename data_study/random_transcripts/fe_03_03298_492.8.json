@@ -1,32 +1,32 @@
 {
     "name": "fe_03_03298",
     "context_channel": 1,
-    "context_text": "<A> i uh yeah if you've got the same beliefs if you're working for the same goals / <B> yeah / <A> you know that's when it all comes together { at } / <B> [ uh-huh ] / <A> some point um { as } / <B> [ what ] / <A> long as you can support each other emotionally / <B> mhm",
+    "context_text": "<A> i uh yeah if you've got the same beliefs if you're working for the same goals / <B> mhm / <A> you know that's when it all comes together { at } / <B> [ yeah ] / <A> some point um { as } / <B> [ mhm ] / <A> long as you can support each other emotionally / <B> mhm",
     "context_start": 492.8,
-    "context_end": 509.286,
+    "context_end": 509.22700000000003,
     "feedback": [
         {
-            "name": "spontF_491_yeah",
+            "name": "spontA_403_mhm",
             "start": 499.53,
-            "end": 500.29662499999995,
+            "end": 500.08937499999996,
+            "token": "mhm"
+        },
+        {
+            "name": "spontD_365_yeah",
+            "start": 503.41,
+            "end": 504.26625,
             "token": "yeah"
         },
         {
-            "name": "spontC_097_uh-huh",
-            "start": 503.41,
-            "end": 503.86762500000003,
-            "token": "uh-huh"
-        },
-        {
-            "name": "NegS_063_what",
+            "name": "spontA_054_mhm",
             "start": 505.02,
-            "end": 505.94424999999995,
-            "token": "what"
+            "end": 505.54699999999997,
+            "token": "mhm"
         },
         {
-            "name": "sun1_008_mhm",
+            "name": "spontF_121_mhm",
             "start": 508.68,
-            "end": 509.286,
+            "end": 509.22700000000003,
             "token": "mhm"
         }
     ]

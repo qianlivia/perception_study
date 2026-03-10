@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04023",
     "context_channel": 1,
-    "context_text": "<A> i hate to say that but um / <B> no / <A> yeah i mean when it comes to friends and loved ones it's hard because you know you want to believe what they have to say and if somebody else is saying otherwise { well } / <B> [ uh ] / <A> then you're gonna lie for em you know / <B> yeah / <A> um i i've always been one to say that i'd stand by my friends or family for anything and then behind closed doors me and that person can deal with whatever but / <B> wooh",
+    "context_text": "<A> i hate to say that but um / <B> ooh / <A> yeah i mean when it comes to friends and loved ones it's hard because you know you want to believe what they have to say and if somebody else is saying otherwise { well } / <B> [ yeah ] / <A> then you're gonna lie for em you know / <B> yeah / <A> um i i've always been one to say that i'd stand by my friends or family for anything and then behind closed doors me and that person can deal with whatever but / <B> yeah",
     "context_start": 44.41,
-    "context_end": 74.349625,
+    "context_end": 74.0715,
     "feedback": [
         {
-            "name": "NR_069_no",
+            "name": "NegS_053_ooh",
             "start": 46.88,
-            "end": 47.639250000000004,
-            "token": "no"
+            "end": 48.048500000000004,
+            "token": "ooh"
         },
         {
-            "name": "PS_195_uh",
+            "name": "spontD_250_yeah",
             "start": 57.5,
-            "end": 58.447875,
-            "token": "uh"
-        },
-        {
-            "name": "spontC_117_yeah",
-            "start": 60.13,
-            "end": 60.822625,
+            "end": 57.915875,
             "token": "yeah"
         },
         {
-            "name": "NegS_012_wooh",
+            "name": "PR_041_yeah",
+            "start": 60.13,
+            "end": 61.148625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_292_yeah",
             "start": 73.5,
-            "end": 74.349625,
-            "token": "wooh"
+            "end": 74.0715,
+            "token": "yeah"
         }
     ]
 }

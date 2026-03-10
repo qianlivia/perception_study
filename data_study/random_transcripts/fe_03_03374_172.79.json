@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03374",
     "context_channel": 0,
-    "context_text": "<B> um i'm from uh near kansas city { missouri } / <A> [ mhm ] / <B> and my girlfriend was working at this trucking company / <A> really / <B> and um brian started wor dri started driving for them / <A> mhm / <B> and she was interested in in him first and then we went out on a double date and { and } / <A> [ wow ]",
+    "context_text": "<B> um i'm from uh near kansas city { missouri } / <A> [ yeah ] / <B> and my girlfriend was working at this trucking company / <A> uh-huh / <B> and um brian started wor dri started driving for them / <A> yeah / <B> and she was interested in in him first and then we went out on a double date and { and } / <A> [ yeah ]",
     "context_start": 172.79,
-    "context_end": 199.09675000000001,
+    "context_end": 198.508625,
     "feedback": [
         {
-            "name": "spontE_142_mhm",
+            "name": "spontC_117_yeah",
             "start": 176.63,
-            "end": 177.105375,
-            "token": "mhm"
+            "end": 177.322625,
+            "token": "yeah"
         },
         {
-            "name": "PS_070_really",
+            "name": "spontD_084_uh-huh",
             "start": 180.66,
-            "end": 181.348625,
-            "token": "really"
+            "end": 181.220875,
+            "token": "uh-huh"
         },
         {
-            "name": "spontE_156_mhm",
+            "name": "spontC_084_yeah",
             "start": 188.39,
-            "end": 188.99612499999998,
-            "token": "mhm"
+            "end": 188.8175,
+            "token": "yeah"
         },
         {
-            "name": "PS_063_wow",
+            "name": "PR_035_yeah",
             "start": 197.71,
-            "end": 199.09675000000001,
-            "token": "wow"
+            "end": 198.508625,
+            "token": "yeah"
         }
     ]
 }

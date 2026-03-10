@@ -1,39 +1,39 @@
 {
     "name": "fe_03_01737",
     "context_channel": 1,
-    "context_text": "<A> [ i hear you saudi arabia ] also do you know what the whole world is crazy now it's / <B> yeah / <A> spooky / <B> yeah / <A> you know / <B> uh-huh / <A> it's downright spooky i don't { know } / <B> [ ugh ] / <A> i don't know it it's awful / <B> aww",
+    "context_text": "<A> [ i hear you saudi arabia ] also do you know what the whole world is crazy now it's / <B> uh-huh / <A> spooky / <B> wow / <A> you know / <B> yeah / <A> it's downright spooky i don't { know } / <B> [ wow ] / <A> i don't know it it's awful / <B> no",
     "context_start": 441.86,
-    "context_end": 458.12512499999997,
+    "context_end": 458.3515,
     "feedback": [
         {
-            "name": "spontF_262_yeah",
+            "name": "spontA_060_uh-huh",
             "start": 447.77,
-            "end": 448.400125,
-            "token": "yeah"
-        },
-        {
-            "name": "spontF_295_yeah",
-            "start": 449.11,
-            "end": 449.628375,
-            "token": "yeah"
-        },
-        {
-            "name": "spontA_329_uh-huh",
-            "start": 450.34,
-            "end": 451.068,
+            "end": 448.237125,
             "token": "uh-huh"
         },
         {
-            "name": "NegS_007_ugh",
-            "start": 453.88,
-            "end": 454.9135,
-            "token": "ugh"
+            "name": "PS_079_wow",
+            "start": 449.11,
+            "end": 450.16200000000003,
+            "token": "wow"
         },
         {
-            "name": "spontA_420_aww",
+            "name": "spontD_162_yeah",
+            "start": 450.34,
+            "end": 451.04224999999997,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_146_wow",
+            "start": 453.88,
+            "end": 455.03825,
+            "token": "wow"
+        },
+        {
+            "name": "NR_034_no",
             "start": 457.53,
-            "end": 458.12512499999997,
-            "token": "aww"
+            "end": 458.3515,
+            "token": "no"
         }
     ]
 }

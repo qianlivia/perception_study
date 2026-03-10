@@ -1,27 +1,27 @@
 {
     "name": "fe_03_00930",
     "context_channel": 1,
-    "context_text": "<A> and then they'd be weakened / <B> huh / <A> they wouldn't have anybody then they it's almost like world war two / <B> uh-huh / <A> we got involved when we weren't going to / <B> yeah",
+    "context_text": "<A> and then they'd be weakened / <B> mhm / <A> they wouldn't have anybody then they it's almost like world war two / <B> uh-huh / <A> we got involved when we weren't going to / <B> uh-huh",
     "context_start": 342.32,
-    "context_end": 351.232375,
+    "context_end": 350.96025000000003,
     "feedback": [
         {
-            "name": "NS_027_huh",
+            "name": "spontD_190_mhm",
             "start": 343.55,
-            "end": 344.047125,
-            "token": "huh"
+            "end": 344.0575,
+            "token": "mhm"
         },
         {
-            "name": "spontA_060_uh-huh",
+            "name": "spontF_077_uh-huh",
             "start": 347.78,
-            "end": 348.247125,
+            "end": 348.36524999999995,
             "token": "uh-huh"
         },
         {
-            "name": "spontE_121_yeah",
+            "name": "spontC_189_uh-huh",
             "start": 350.48,
-            "end": 351.232375,
-            "token": "yeah"
+            "end": 350.96025000000003,
+            "token": "uh-huh"
         }
     ]
 }

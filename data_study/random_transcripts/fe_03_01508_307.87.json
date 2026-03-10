@@ -1,39 +1,39 @@
 {
     "name": "fe_03_01508",
     "context_channel": 0,
-    "context_text": "<B> yeah that is something it's something i think a lot of people think about and even today like with the fact that there's a war and { you } / <A> [ gosh ] / <B> know the terrorist in itself that people just continuously like can relate to what actually happened to us cause i think uh americans themselves underestimate what / <A> yeah / <B> what we how powerful we really are { and } / <A> [ yeah ] / <B> how a simple like blink can take away so { so } / <A> [ yeah ] / <B> much and that we're not as powerful because you know we're we're weaker than we probably think we are / <A> uh-huh",
+    "context_text": "<B> yeah that is something it's something i think a lot of people think about and even today like with the fact that there's a war and { you } / <A> [ yeah ] / <B> know the terrorist in itself that people just continuously like can relate to what actually happened to us cause i think uh americans themselves underestimate what / <A> wow / <B> what we how powerful we really are { and } / <A> [ uh-huh ] / <B> how a simple like blink can take away so { so } / <A> [ yeah ] / <B> much and that we're not as powerful because you know we're we're weaker than we probably think we are / <A> ah",
     "context_start": 307.87,
-    "context_end": 333.8275,
+    "context_end": 334.479125,
     "feedback": [
         {
-            "name": "NegS_050_gosh",
+            "name": "spontB_023_yeah",
             "start": 313.49,
-            "end": 314.37487500000003,
-            "token": "gosh"
+            "end": 314.357125,
+            "token": "yeah"
         },
         {
-            "name": "spontE_270_yeah",
+            "name": "PS_135_wow",
             "start": 322.47,
-            "end": 323.140625,
-            "token": "yeah"
+            "end": 323.710375,
+            "token": "wow"
         },
         {
-            "name": "spontF_062_yeah",
+            "name": "spontF_359_uh-huh",
             "start": 324.63,
-            "end": 325.17875,
-            "token": "yeah"
-        },
-        {
-            "name": "spontB_345_yeah",
-            "start": 327.91,
-            "end": 328.34700000000004,
-            "token": "yeah"
-        },
-        {
-            "name": "spontD_028_uh-huh",
-            "start": 333.32,
-            "end": 333.8275,
+            "end": 325.28225,
             "token": "uh-huh"
+        },
+        {
+            "name": "spontF_169_yeah",
+            "start": 327.91,
+            "end": 328.40562500000004,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_387_ah",
+            "start": 333.32,
+            "end": 334.479125,
+            "token": "ah"
         }
     ]
 }

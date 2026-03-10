@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04745",
     "context_channel": 0,
-    "context_text": "<B> verzion v e r z { i o } / <A> [ okay ] / <B> n verzion { dot } / <A> [ jee ] / <B> com or dot dot net scuse me / <A> absolutely / <B> all right anyway uh so i i i uh program in in in computers and i enjoy doing that i haven't made a lot of money at it normally { what } / <A> [ ooh ]",
+    "context_text": "<B> verzion v e r z { i o } / <A> [ okay ] / <B> n verzion { dot } / <A> [ okay ] / <B> com or dot dot net scuse me / <A> no / <B> all right anyway uh so i i i uh program in in in computers and i enjoy doing that i haven't made a lot of money at it normally { what } / <A> [ okay ]",
     "context_start": 499.84,
-    "context_end": 518.25025,
+    "context_end": 517.8820000000001,
     "feedback": [
         {
-            "name": "spontC_286_okay",
+            "name": "spontA_257_okay",
             "start": 503.46,
-            "end": 504.11199999999997,
+            "end": 504.08849999999995,
             "token": "okay"
         },
         {
-            "name": "NegS_033_jee",
+            "name": "spontF_053_okay",
             "start": 505.44,
-            "end": 506.478,
-            "token": "jee"
+            "end": 506.26825,
+            "token": "okay"
         },
         {
-            "name": "sun_031_absolutely",
+            "name": "NR_022_no",
             "start": 507.89,
-            "end": 509.27475,
-            "token": "absolutely"
+            "end": 509.057625,
+            "token": "no"
         },
         {
-            "name": "NegS_064_ooh",
+            "name": "spontC_286_okay",
             "start": 517.23,
-            "end": 518.25025,
-            "token": "ooh"
+            "end": 517.8820000000001,
+            "token": "okay"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03511",
     "context_channel": 1,
-    "context_text": "<A> had you can't really focus you know you can't really put as much effort into just learning and just l and just basically you know taking advantage of your situation as you might otherwise i mean you have you have other stuff to you know to worry about i mean i come { from the other } / <B> [ oh ] / <A> side i come from the other side where i mean i come from parents you know who who are very well off and and and we didn't i never had to worry about you know like m making ends meet i still busted / <B> yeah / <A> my ass cause my dad needed help you know and he wanted me you know to i think learn you know learn that you know it's not always like this where like you really i mean it makes you know you basically you know you earn your keep but { i didn't } / <B> [ mhm ] / <A> have to i mean i i didn't have to worry about you know what if's you know or or bringing { money } / <B> [ no ]",
+    "context_text": "<A> had you can't really focus you know you can't really put as much effort into just learning and just l and just basically you know taking advantage of your situation as you might otherwise i mean you have you have other stuff to you know to worry about i mean i come { from the other } / <B> [ ah ] / <A> side i come from the other side where i mean i come from parents you know who who are very well off and and and we didn't i never had to worry about you know like m making ends meet i still busted / <B> okay / <A> my ass cause my dad needed help you know and he wanted me you know to i think learn you know learn that you know it's not always like this where like you really i mean it makes you know you basically you know you earn your keep but { i didn't } / <B> [ oh ] / <A> have to i mean i i didn't have to worry about you know what if's you know or or bringing { money } / <B> [ yeah ]",
     "context_start": 378.27,
-    "context_end": 413.2625,
+    "context_end": 412.894,
     "feedback": [
         {
-            "name": "spontF_207_oh",
+            "name": "spontD_387_ah",
             "start": 389.66,
-            "end": 390.044375,
+            "end": 390.81912500000004,
+            "token": "ah"
+        },
+        {
+            "name": "spontC_401_okay",
+            "start": 398.1,
+            "end": 398.62937500000004,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_514_oh",
+            "start": 408.93,
+            "end": 409.715125,
             "token": "oh"
         },
         {
-            "name": "spontF_562_yeah",
-            "start": 398.1,
-            "end": 398.668875,
-            "token": "yeah"
-        },
-        {
-            "name": "spontC_314_mhm",
-            "start": 408.93,
-            "end": 409.47087500000004,
-            "token": "mhm"
-        },
-        {
-            "name": "sun2_044_no",
+            "name": "spontC_063_yeah",
             "start": 412.38,
-            "end": 413.2625,
-            "token": "no"
+            "end": 412.894,
+            "token": "yeah"
         }
     ]
 }
