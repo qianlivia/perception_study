@@ -1,50 +1,50 @@
 {
     "name": "fe_03_04313",
     "context_channel": 0,
-    "context_text": "<B> knew that i was born and that they had been with each other for two and a half years / <A> okay / <B> she was pregnant with me and he didn't want anything to do with me / <A> okay / <B> but that could have been through stupidity or whatever i don't care what his motives are / <A> right / <B> but the fact of the matter is i don't want him as a father / <A> right / <B> i don't even like my biol you know i don't like my biological father i like / <A> right / <B> my ah stepfather / <A> what / <B> i just regret not trying you know what i mean / <A> okay",
+    "context_text": "<B> knew that i was born and that they had been with each other for two and a half years / <A> okay / <B> she was pregnant with me and he didn't want anything to do with me / <A> okay / <B> but that could have been through stupidity or whatever i don't care what his motives are / <A> right / <B> but the fact of the matter is i don't want him as a father / <A> right / <B> i don't even like my biol you know i don't like my biological father i like / <A> right / <B> my ah stepfather / <A> right / <B> i just regret not trying you know what i mean / <A> okay",
     "context_start": 522.15,
-    "context_end": 544.47325,
+    "context_end": 544.515,
     "feedback": [
         {
-            "name": "spontC_401_okay",
+            "name": "spontB_018_okay",
             "start": 525.32,
-            "end": 525.849375,
+            "end": 525.8876250000001,
             "token": "okay"
         },
         {
-            "name": "spontD_022_okay",
+            "name": "spontA_257_okay",
             "start": 528.45,
-            "end": 528.9190000000001,
+            "end": 529.0785000000001,
             "token": "okay"
+        },
+        {
+            "name": "sun1_032_right",
+            "start": 532.31,
+            "end": 533.153375,
+            "token": "right"
         },
         {
             "name": "spontC_360_right",
-            "start": 532.31,
-            "end": 532.888875,
+            "start": 535.85,
+            "end": 536.4288750000001,
             "token": "right"
         },
         {
             "name": "PR_043_right",
-            "start": 535.85,
-            "end": 536.51,
-            "token": "right"
-        },
-        {
-            "name": "sun1_032_right",
             "start": 538.91,
-            "end": 539.753375,
+            "end": 539.5699999999999,
             "token": "right"
         },
         {
-            "name": "Nu_001_what",
+            "name": "PR_048_right",
             "start": 540.26,
-            "end": 540.862375,
-            "token": "what"
+            "end": 540.895125,
+            "token": "right"
         },
         {
-            "name": "spontB_028_okay",
+            "name": "spontC_020_okay",
             "start": 544.04,
-            "end": 544.47325,
+            "end": 544.515,
             "token": "okay"
         }
     ]

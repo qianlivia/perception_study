@@ -1,26 +1,26 @@
 {
     "name": "fe_03_00148",
     "context_channel": 0,
-    "context_text": "<B> um well i have to be honest and say that i haven't been watching the news that much / <A> oh / <B> so i'm not a lo really familiar with it but i have some i have some major issues with it and um i think from my understanding of it / <A> yeah / <B> our weapons inspections with iraq / <A> uh-huh",
+    "context_text": "<B> um well i have to be honest and say that i haven't been watching the news that much / <A> uh-huh / <B> so i'm not a lo really familiar with it but i have some i have some major issues with it and um i think from my understanding of it / <A> yeah / <B> our weapons inspections with iraq / <A> uh-huh",
     "context_start": 29.01,
-    "context_end": 51.061375000000005,
+    "context_end": 51.017500000000005,
     "feedback": [
         {
-            "name": "spontF_109_oh",
+            "name": "spontD_021_uh-huh",
             "start": 35.97,
-            "end": 36.3095,
-            "token": "oh"
+            "end": 36.421749999999996,
+            "token": "uh-huh"
         },
         {
-            "name": "spontE_276_yeah",
+            "name": "spontB_094_yeah",
             "start": 46.75,
-            "end": 47.21775,
+            "end": 47.086,
             "token": "yeah"
         },
         {
-            "name": "spontA_413_uh-huh",
+            "name": "spontD_040_uh-huh",
             "start": 50.56,
-            "end": 51.061375000000005,
+            "end": 51.017500000000005,
             "token": "uh-huh"
         }
     ]

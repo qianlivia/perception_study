@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00770",
     "context_channel": 1,
-    "context_text": "<A> that's right and under no circumstances would i say that you know because i disagree that you shouldn't be allowed { to say } / <B> [ whoa ] / <A> what you say and to try to convince others more power to you because if you believe you are right then you should not be afraid of anyone else convincing the majority that you are wrong / <B> right / <A> so we can always agree on that / <B> yeah / <A> you know and if people you know would take a million dollars or whatever to go well the borders are open at least going out and are they interested to see you know how many people af after taking such an offer would regret the decision and want to return i'm always impressed by the fact that you see all these people trying to get into this country illegally if they have { to } / <B> [ aww ]",
+    "context_text": "<A> that's right and under no circumstances would i say that you know because i disagree that you shouldn't be allowed { to say } / <B> [ yeah ] / <A> what you say and to try to convince others more power to you because if you believe you are right then you should not be afraid of anyone else convincing the majority that you are wrong / <B> right / <A> so we can always agree on that / <B> uh-huh / <A> you know and if people you know would take a million dollars or whatever to go well the borders are open at least going out and are they interested to see you know how many people af after taking such an offer would regret the decision and want to return i'm always impressed by the fact that you see all these people trying to get into this country illegally if they have { to } / <B> [ oh ]",
     "context_start": 377.79,
-    "context_end": 429.15175,
+    "context_end": 429.187875,
     "feedback": [
         {
-            "name": "spontF_124_whoa",
+            "name": "spontD_142_yeah",
             "start": 384.23,
-            "end": 384.8775,
-            "token": "whoa"
-        },
-        {
-            "name": "spontC_360_right",
-            "start": 397.77,
-            "end": 398.34887499999996,
-            "token": "right"
-        },
-        {
-            "name": "spontB_094_yeah",
-            "start": 400.62,
-            "end": 400.956,
+            "end": 384.70725000000004,
             "token": "yeah"
         },
         {
-            "name": "spontE_029_aww",
+            "name": "sun1_032_right",
+            "start": 397.77,
+            "end": 398.61337499999996,
+            "token": "right"
+        },
+        {
+            "name": "spontF_286_uh-huh",
+            "start": 400.62,
+            "end": 401.1435,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_004_oh",
             "start": 428.55,
-            "end": 429.15175,
-            "token": "aww"
+            "end": 429.187875,
+            "token": "oh"
         }
     ]
 }

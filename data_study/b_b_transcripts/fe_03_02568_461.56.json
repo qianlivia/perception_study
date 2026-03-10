@@ -3,30 +3,30 @@
     "context_channel": 1,
     "context_text": "<A> france had a lot of those contracts that's why we're so against the french { you } / <B> [ right ] / <A> know so that's like six hundred billion dollars worth of oil / <B> yeah / <A> that now he has complete control over / <B> yeah / <A> and even like you were saying about you know daddy bush well daddy bush was you know they asked his opinion and he was like well i'm not really sure that we should be invading iraq at this time / <B> yeah",
     "context_start": 461.56,
-    "context_end": 488.03675,
+    "context_end": 488.16949999999997,
     "feedback": [
         {
-            "name": "sun1_032_right",
+            "name": "spontC_360_right",
             "start": 466.31,
-            "end": 467.153375,
+            "end": 466.888875,
             "token": "right"
         },
         {
-            "name": "spontB_143_yeah",
+            "name": "spontB_100_yeah",
             "start": 471.31,
-            "end": 471.986125,
+            "end": 471.98425,
+            "token": "yeah"
+        },
+        {
+            "name": "sun1_020_yeah",
+            "start": 474.86,
+            "end": 475.707,
             "token": "yeah"
         },
         {
             "name": "spontF_310_yeah",
-            "start": 474.86,
-            "end": 475.7495,
-            "token": "yeah"
-        },
-        {
-            "name": "spontE_119_yeah",
             "start": 487.28,
-            "end": 488.03675,
+            "end": 488.16949999999997,
             "token": "yeah"
         }
     ]

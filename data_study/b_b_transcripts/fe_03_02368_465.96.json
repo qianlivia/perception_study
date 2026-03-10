@@ -3,36 +3,36 @@
     "context_channel": 1,
     "context_text": "<A> [ right now when he moves onto them ] and then she's still not gonna be healthy because either she's moving away or overeating and then that cause stress / <B> yeah / <A> you know and that causes a all other kind of problems too so / <B> yeah / <A> that's probably what i think um not exercising follows in that too / <B> yeah / <A> because if you're not getting the proper exercise { and you } / <B> [ yeah ] / <A> are overweight you still can come up with some of those other kind of health / <B> yeah",
     "context_start": 465.96,
-    "context_end": 492.851875,
+    "context_end": 492.89950000000005,
     "feedback": [
         {
-            "name": "PR_062_yeah",
+            "name": "PR_031_yeah",
             "start": 474.14,
-            "end": 474.65225,
+            "end": 474.543125,
+            "token": "yeah"
+        },
+        {
+            "name": "sun_045_yeah",
+            "start": 477.82,
+            "end": 478.259125,
             "token": "yeah"
         },
         {
             "name": "spontA_414_yeah",
-            "start": 477.82,
-            "end": 478.297875,
+            "start": 483.86,
+            "end": 484.337875,
             "token": "yeah"
         },
         {
             "name": "spontB_192_yeah",
-            "start": 483.86,
-            "end": 484.41475,
-            "token": "yeah"
-        },
-        {
-            "name": "spontD_257_yeah",
             "start": 487.17,
-            "end": 487.76125,
+            "end": 487.72475000000003,
             "token": "yeah"
         },
         {
-            "name": "spontA_229_yeah",
+            "name": "spontC_319_yeah",
             "start": 492.41,
-            "end": 492.851875,
+            "end": 492.89950000000005,
             "token": "yeah"
         }
     ]

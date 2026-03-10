@@ -1,9 +1,9 @@
 {
     "name": "fe_03_02710",
     "context_channel": 1,
-    "context_text": "<A> oh um well one could argue and i'm just playing devil's advocate here / <B> right / <A> that you know this world has billions of people in { it } / <B> [ right ] / <A> and that you know even if you're the world's nicest country ah switzerland or something / <B> right / <A> out of those billions somebody's gonna not like you / <B> yeah",
+    "context_text": "<A> oh um well one could argue and i'm just playing devil's advocate here / <B> right / <A> that you know this world has billions of people in { it } / <B> [ right ] / <A> and that you know even if you're the world's nicest country ah switzerland or something / <B> right / <A> out of those billions somebody's gonna not like you / <B> right",
     "context_start": 64.04,
-    "context_end": 86.204875,
+    "context_end": 86.445125,
     "feedback": [
         {
             "name": "spontC_360_right",
@@ -24,10 +24,10 @@
             "token": "right"
         },
         {
-            "name": "spontB_016_yeah",
+            "name": "PR_048_right",
             "start": 85.81,
-            "end": 86.204875,
-            "token": "yeah"
+            "end": 86.445125,
+            "token": "right"
         }
     ]
 }

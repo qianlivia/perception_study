@@ -1,32 +1,32 @@
 {
     "name": "fe_03_03754",
     "context_channel": 0,
-    "context_text": "<B> i have found that too with friends that were in those real practical minded major majors like business or accounting / <A> oh / <B> they're very goal oriented and it's / <A> uh-huh / <B> very clear to them they're gonna have this business get this business degree can they you know get to cfo of the company / <A> right / <B> and make x amount of dollars and i didn't fall into that category either it's how they i was a physiology major and i thought i was gonna to go to med school / <A> uh-huh",
+    "context_text": "<B> i have found that too with friends that were in those real practical minded major majors like business or accounting / <A> uh-huh / <B> they're very goal oriented and it's / <A> uh-huh / <B> very clear to them they're gonna have this business get this business degree can they you know get to cfo of the company / <A> right / <B> and make x amount of dollars and i didn't fall into that category either it's how they i was a physiology major and i thought i was gonna to go to med school / <A> uh-huh",
     "context_start": 322.31,
-    "context_end": 350.74787499999996,
+    "context_end": 350.7335,
     "feedback": [
         {
-            "name": "spontF_109_oh",
+            "name": "spontC_189_uh-huh",
             "start": 329.46,
-            "end": 329.79949999999997,
-            "token": "oh"
-        },
-        {
-            "name": "spontF_286_uh-huh",
-            "start": 332.38,
-            "end": 332.9035,
+            "end": 329.94025,
             "token": "uh-huh"
         },
         {
-            "name": "spontC_360_right",
+            "name": "spontD_040_uh-huh",
+            "start": 332.38,
+            "end": 332.8375,
+            "token": "uh-huh"
+        },
+        {
+            "name": "sun1_032_right",
             "start": 338.51,
-            "end": 339.088875,
+            "end": 339.35337499999997,
             "token": "right"
         },
         {
-            "name": "spontF_571_uh-huh",
+            "name": "spontF_286_uh-huh",
             "start": 350.21,
-            "end": 350.74787499999996,
+            "end": 350.7335,
             "token": "uh-huh"
         }
     ]

@@ -1,32 +1,32 @@
 {
     "name": "fe_03_00413",
     "context_channel": 0,
-    "context_text": "<B> yeah it does get peculiar my um my when my oldest stepsister got married / <A> mhm / <B> ah as i said she's she's my my stepmother's daughter well her father / <A> yeah / <B> went and remarried and had three additional children / <A> uh-huh / <B> so here we are in southern texas trying to explain that this is my sister this is my sister and this is my sister's sister but she's not my sister / <A> mhm",
+    "context_text": "<B> yeah it does get peculiar my um my when my oldest stepsister got married / <A> uh-huh / <B> ah as i said she's she's my my stepmother's daughter well her father / <A> no / <B> went and remarried and had three additional children / <A> mhm / <B> so here we are in southern texas trying to explain that this is my sister this is my sister and this is my sister's sister but she's not my sister / <A> mhm",
     "context_start": 271.34,
-    "context_end": 295.12212500000004,
+    "context_end": 294.94,
     "feedback": [
         {
-            "name": "spontC_328_mhm",
-            "start": 275.78,
-            "end": 276.24024999999995,
-            "token": "mhm"
-        },
-        {
-            "name": "spontD_397_yeah",
-            "start": 279.29,
-            "end": 279.671375,
-            "token": "yeah"
-        },
-        {
             "name": "spontD_040_uh-huh",
-            "start": 283.48,
-            "end": 283.9375,
+            "start": 275.78,
+            "end": 276.23749999999995,
             "token": "uh-huh"
         },
         {
-            "name": "spontA_390_mhm",
+            "name": "spontA_249_click_no",
+            "start": 279.29,
+            "end": 279.63100000000003,
+            "token": "no"
+        },
+        {
+            "name": "spontC_111_mhm",
+            "start": 283.48,
+            "end": 283.91150000000005,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_348_mhm",
             "start": 294.35,
-            "end": 295.12212500000004,
+            "end": 294.94,
             "token": "mhm"
         }
     ]

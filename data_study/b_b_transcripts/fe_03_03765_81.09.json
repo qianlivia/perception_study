@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03765",
     "context_channel": 1,
-    "context_text": "<A> yes that's true i'm just thinking in the line of like the little rascals / <B> mhm / <A> you know i think i don't think it hurts anybody { or } / <B> [ yeah ] / <A> you know and uh like bud abbott lew costello { those } / <B> [ hm ] / <A> kind of comedy but the comedies that get there and and start you know like picking on uh presidents or or uh you know people in in news all the time / <B> uh-huh / <A> like that i mean also there's a lot of comedy about heavy people / <B> huh",
+    "context_text": "<A> yes that's true i'm just thinking in the line of like the little rascals / <B> mhm / <A> you know i think i don't think it hurts anybody { or } / <B> [ yeah ] / <A> you know and uh like bud abbott lew costello { those } / <B> [ ooh ] / <A> kind of comedy but the comedies that get there and and start you know like picking on uh presidents or or uh you know people in in news all the time / <B> uh-huh / <A> like that i mean also there's a lot of comedy about heavy people / <B> mhm",
     "context_start": 81.09,
-    "context_end": 120.09425,
+    "context_end": 120.061625,
     "feedback": [
         {
             "name": "spontE_054_mhm",
@@ -12,28 +12,28 @@
             "token": "mhm"
         },
         {
-            "name": "spontE_119_yeah",
+            "name": "spontB_374_yeah",
             "start": 92.05,
-            "end": 92.80675,
+            "end": 92.73537499999999,
             "token": "yeah"
         },
         {
-            "name": "NS_075_hm",
+            "name": "PS_177_ooh",
             "start": 96.22,
-            "end": 97.19725,
-            "token": "hm"
+            "end": 97.816375,
+            "token": "ooh"
         },
         {
-            "name": "spontC_097_uh-huh",
+            "name": "spontB_002_uh-huh",
             "start": 112.54,
-            "end": 112.997625,
+            "end": 113.02025,
             "token": "uh-huh"
         },
         {
-            "name": "NS_051_huh",
+            "name": "sun_017_mhm",
             "start": 119.11,
-            "end": 120.09425,
-            "token": "huh"
+            "end": 120.061625,
+            "token": "mhm"
         }
     ]
 }

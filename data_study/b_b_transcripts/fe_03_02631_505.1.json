@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02631",
     "context_channel": 0,
-    "context_text": "<B> of a pin and um i had i headed toward the light and all of a sudden i was in that ah that ah tube they talk about / <A> yeah / <B> and i saw my there was different people and they on each side of that tube that you go through and i saw my aunt there and she was like in a ghostly figure you know somebody / <A> uh-huh / <B> you could look through { but i } / <A> [ right ] / <B> recognized / <A> mhm",
+    "context_text": "<B> of a pin and um i had i headed toward the light and all of a sudden i was in that ah that ah tube they talk about / <A> yeah / <B> and i saw my there was different people and they on each side of that tube that you go through and i saw my aunt there and she was like in a ghostly figure you know somebody / <A> yeah / <B> you could look through { but i } / <A> [ oh ] / <B> recognized / <A> yeah",
     "context_start": 505.1,
-    "context_end": 531.4715,
+    "context_end": 531.477,
     "feedback": [
         {
-            "name": "spontA_116_yeah",
+            "name": "spontB_216_yeah",
             "start": 517.02,
-            "end": 517.50625,
+            "end": 517.50875,
             "token": "yeah"
         },
         {
-            "name": "spontB_099_uh-huh",
+            "name": "spontB_384_yeah",
             "start": 528.61,
-            "end": 529.3027500000001,
-            "token": "uh-huh"
+            "end": 529.29125,
+            "token": "yeah"
         },
         {
-            "name": "PR_048_right",
+            "name": "spontB_365_oh",
             "start": 530.42,
-            "end": 531.055125,
-            "token": "right"
+            "end": 531.01425,
+            "token": "oh"
         },
         {
-            "name": "spontC_111_mhm",
+            "name": "spontB_345_yeah",
             "start": 531.04,
-            "end": 531.4715,
-            "token": "mhm"
+            "end": 531.477,
+            "token": "yeah"
         }
     ]
 }

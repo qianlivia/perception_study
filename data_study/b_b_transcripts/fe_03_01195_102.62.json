@@ -1,9 +1,9 @@
 {
     "name": "fe_03_01195",
     "context_channel": 1,
-    "context_text": "<A> it can't even be touched by a million dollars / <B> right / <A> that's certainly not to say that i wouldn't be extremely tempted / <B> exactly / <A> um because i think about you know how many talks we've had her and i about financial you know / <B> right",
+    "context_text": "<A> it can't even be touched by a million dollars / <B> right / <A> that's certainly not to say that i wouldn't be extremely tempted / <B> no / <A> um because i think about you know how many talks we've had her and i about financial you know / <B> right",
     "context_start": 102.62,
-    "context_end": 121.88,
+    "context_end": 121.949375,
     "feedback": [
         {
             "name": "spontC_360_right",
@@ -12,15 +12,15 @@
             "token": "right"
         },
         {
-            "name": "sun_026_exactly",
+            "name": "sun_018_no",
             "start": 110.87,
-            "end": 111.8995,
-            "token": "exactly"
+            "end": 111.598875,
+            "token": "no"
         },
         {
-            "name": "PR_043_right",
+            "name": "sun_028_right",
             "start": 121.22,
-            "end": 121.88,
+            "end": 121.949375,
             "token": "right"
         }
     ]

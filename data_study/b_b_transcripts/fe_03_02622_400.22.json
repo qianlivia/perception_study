@@ -1,20 +1,20 @@
 {
     "name": "fe_03_02622",
     "context_channel": 1,
-    "context_text": "<A> what happened throughout history was uh you know like this has happened before / <B> yeah / <A> and we've just come in you know took over well not taken over set up a democracy quote unquote / <B> right / <A> you know which is us basically putting someone in power and not creating a democracy 'cause yeah we'll create a democracy but we're gonna fund the candidate we want { such and } / <B> yeah / <A> such and millions and billions of dollars and no one else in that poor country will have the money to even compete or get their name out { therefore } / <B> [ absolutely ]",
+    "context_text": "<A> what happened throughout history was uh you know like this has happened before / <B> oh / <A> and we've just come in you know took over well not taken over set up a democracy quote unquote / <B> right / <A> you know which is us basically putting someone in power and not creating a democracy 'cause yeah we'll create a democracy but we're gonna fund the candidate we want { such and } / <B> yeah / <A> such and millions and billions of dollars and no one else in that poor country will have the money to even compete or get their name out { therefore } / <B> [ yep ]",
     "context_start": 400.22,
-    "context_end": 432.410125,
+    "context_end": 432.15299999999996,
     "feedback": [
         {
-            "name": "spontB_297_yeah",
+            "name": "spontF_109_oh",
             "start": 405.52,
-            "end": 405.964,
-            "token": "yeah"
+            "end": 405.85949999999997,
+            "token": "oh"
         },
         {
-            "name": "spontC_360_right",
+            "name": "sun1_032_right",
             "start": 412.5,
-            "end": 413.078875,
+            "end": 413.343375,
             "token": "right"
         },
         {
@@ -24,10 +24,10 @@
             "token": "yeah"
         },
         {
-            "name": "sun_001_absolutely",
+            "name": "sun_019_yep",
             "start": 431.4,
-            "end": 432.410125,
-            "token": "absolutely"
+            "end": 432.15299999999996,
+            "token": "yep"
         }
     ]
 }

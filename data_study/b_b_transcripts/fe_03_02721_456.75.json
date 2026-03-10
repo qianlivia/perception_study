@@ -1,38 +1,38 @@
 {
     "name": "fe_03_02721",
     "context_channel": 1,
-    "context_text": "<A> were under police in a police state and that was unnerving for me just because you don't really think that { it's } / <B> [ yeah ] / <A> gotten to that point um but on the other hand i mean you can have all the people you want sitting in the in um grand central terminal and / <B> uh-huh / <A> if somebody wants to they just drop a briefcase and { go } / <B> [ right ] / <A> and that's it / <B> oh / <A> so i think that they're there for us feel like there's something being done and i'm not saying nothing is being done / <B> right",
+    "context_text": "<A> were under police in a police state and that was unnerving for me just because you don't really think that { it's } / <B> [ yeah ] / <A> gotten to that point um but on the other hand i mean you can have all the people you want sitting in the in um grand central terminal and / <B> uh-huh / <A> if somebody wants to they just drop a briefcase and { go } / <B> [ right ] / <A> and that's it / <B> right / <A> so i think that they're there for us feel like there's something being done and i'm not saying nothing is being done / <B> right",
     "context_start": 456.75,
-    "context_end": 490.73,
+    "context_end": 490.913375,
     "feedback": [
         {
-            "name": "spontB_016_yeah",
+            "name": "spontA_229_yeah",
             "start": 465.16,
-            "end": 465.55487500000004,
+            "end": 465.601875,
             "token": "yeah"
         },
         {
-            "name": "spontF_009_uh-huh",
+            "name": "spontA_254_uh-huh",
             "start": 475.17,
-            "end": 475.55275,
+            "end": 475.56850000000003,
             "token": "uh-huh"
         },
         {
-            "name": "spontC_360_right",
+            "name": "PR_043_right",
             "start": 479.83,
-            "end": 480.40887499999997,
+            "end": 480.49,
             "token": "right"
         },
         {
-            "name": "spontF_109_oh",
+            "name": "spontC_360_right",
             "start": 481.67,
-            "end": 482.0095,
-            "token": "oh"
+            "end": 482.248875,
+            "token": "right"
         },
         {
-            "name": "PR_043_right",
+            "name": "sun1_032_right",
             "start": 490.07,
-            "end": 490.73,
+            "end": 490.913375,
             "token": "right"
         }
     ]

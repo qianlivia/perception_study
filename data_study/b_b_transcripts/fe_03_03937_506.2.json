@@ -1,14 +1,14 @@
 {
     "name": "fe_03_03937",
     "context_channel": 0,
-    "context_text": "<B> right but they know they know in advance you know { and i've seen } / <A> [ absolutely ] / <B> him a couple of times go a little bit beyond the borders / <A> right / <B> but ah he's really a very gentle kind person / <A> sure / <B> he's the exact opposite a lot of people on stage in comedy and everything and { in } / <A> [ oh ] / <B> film they are the exact opposite lucille ball wasn't a dumb redhead she was a very conniving very mean woman actually / <A> yeah / <B> you know and ah people really didn't want to work with her and ah you remember a abbott and costello / <A> uh-huh / <B> yeah ah it w it was the opposite bud abbott was the one who wasn't that great and lou costello was the brains behind the whole thing / <A> yeah / <B> but yet on stage and on screen and television they portrayed an image the opposite of what they really are / <A> well",
+    "context_text": "<B> right but they know they know in advance you know { and i've seen } / <A> [ absolutely ] / <B> him a couple of times go a little bit beyond the borders / <A> right / <B> but ah he's really a very gentle kind person / <A> sure / <B> he's the exact opposite a lot of people on stage in comedy and everything and { in } / <A> [ yeah ] / <B> film they are the exact opposite lucille ball wasn't a dumb redhead she was a very conniving very mean woman actually / <A> yeah / <B> you know and ah people really didn't want to work with her and ah you remember a abbott and costello / <A> uh-huh / <B> yeah ah it w it was the opposite bud abbott was the one who wasn't that great and lou costello was the brains behind the whole thing / <A> wow / <B> but yet on stage and on screen and television they portrayed an image the opposite of what they really are / <A> wow",
     "context_start": 506.2,
-    "context_end": 547.89225,
+    "context_end": 548.1098750000001,
     "feedback": [
         {
-            "name": "sun_036_absolutely",
+            "name": "sun_001_absolutely",
             "start": 509.78,
-            "end": 510.818875,
+            "end": 510.790125,
             "token": "absolutely"
         },
         {
@@ -24,34 +24,34 @@
             "token": "sure"
         },
         {
-            "name": "spontF_109_oh",
+            "name": "spontB_373_yeah",
             "start": 521.45,
-            "end": 521.7895000000001,
-            "token": "oh"
-        },
-        {
-            "name": "spontA_356_yeah",
-            "start": 528.22,
-            "end": 528.702,
+            "end": 521.8615000000001,
             "token": "yeah"
         },
         {
-            "name": "spontF_009_uh-huh",
+            "name": "spontA_414_yeah",
+            "start": 528.22,
+            "end": 528.6978750000001,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_254_uh-huh",
             "start": 535.2,
-            "end": 535.58275,
+            "end": 535.5985000000001,
             "token": "uh-huh"
         },
         {
-            "name": "spontF_020_yeah",
+            "name": "PS_164_wow",
             "start": 540.91,
-            "end": 541.4254999999999,
-            "token": "yeah"
+            "end": 542.0492499999999,
+            "token": "wow"
         },
         {
-            "name": "spontD_171_well",
+            "name": "PS_192_wow",
             "start": 547.45,
-            "end": 547.89225,
-            "token": "well"
+            "end": 548.1098750000001,
+            "token": "wow"
         }
     ]
 }

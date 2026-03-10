@@ -1,9 +1,9 @@
 {
     "name": "fe_03_05198",
     "context_channel": 1,
-    "context_text": "<A> well in texas there's really not much choice it's either a tex mex or uh or a steak inn it it's never really a salad meal you { know } / <B> [ yeah ] / <A> it's it's always meat and potatoes / <B> uh-huh / <A> and uh now now i'm in the east coast and everything's a little bit more balanced you know people'll tend to have to watch their weight you know they food is pretty important / <B> mhm / <A> to watch your calories all that good stuff so you know got a break in the salad and the fruits every now and then / <B> oh",
+    "context_text": "<A> well in texas there's really not much choice it's either a tex mex or uh or a steak inn it it's never really a salad meal you { know } / <B> [ yeah ] / <A> it's it's always meat and potatoes / <B> mhm / <A> and uh now now i'm in the east coast and everything's a little bit more balanced you know people'll tend to have to watch their weight you know they food is pretty important / <B> uh-huh / <A> to watch your calories all that good stuff so you know got a break in the salad and the fruits every now and then / <B> uh-huh",
     "context_start": 248.79,
-    "context_end": 278.3295,
+    "context_end": 278.44175,
     "feedback": [
         {
             "name": "spontA_414_yeah",
@@ -12,22 +12,22 @@
             "token": "yeah"
         },
         {
-            "name": "spontC_263_uh-huh",
+            "name": "spontC_235_mhm",
             "start": 260.16,
-            "end": 260.757875,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontC_200_mhm",
-            "start": 271.23,
-            "end": 271.71250000000003,
+            "end": 260.61175000000003,
             "token": "mhm"
         },
         {
-            "name": "spontF_109_oh",
+            "name": "spontF_286_uh-huh",
+            "start": 271.23,
+            "end": 271.75350000000003,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_021_uh-huh",
             "start": 277.99,
-            "end": 278.3295,
-            "token": "oh"
+            "end": 278.44175,
+            "token": "uh-huh"
         }
     ]
 }

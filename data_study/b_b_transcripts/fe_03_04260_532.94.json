@@ -1,21 +1,21 @@
 {
     "name": "fe_03_04260",
     "context_channel": 1,
-    "context_text": "<A> bad problems with my shoulder and arm i banged it to the shield windshield and { had a lot of } / <B> [ wow ] / <A> a lot of nerve pain and stuff like that for for six months or a { year } / <B> [ ah ] / <A> well actually i still have it now { it's something that } / <B> [ okay ]",
+    "context_text": "<A> bad problems with my shoulder and arm i banged it to the shield windshield and { had a lot of } / <B> [ wow ] / <A> a lot of nerve pain and stuff like that for for six months or a { year } / <B> [ wow ] / <A> well actually i still have it now { it's something that } / <B> [ okay ]",
     "context_start": 532.94,
     "context_end": 544.3095,
     "feedback": [
         {
-            "name": "spontA_261_wow",
+            "name": "PS_034_wow",
             "start": 536.9,
-            "end": 537.549125,
+            "end": 537.717625,
             "token": "wow"
         },
         {
-            "name": "spontF_040_ah",
+            "name": "PS_083_wow",
             "start": 541.4,
-            "end": 542.401625,
-            "token": "ah"
+            "end": 542.29925,
+            "token": "wow"
         },
         {
             "name": "spontB_195_okay",

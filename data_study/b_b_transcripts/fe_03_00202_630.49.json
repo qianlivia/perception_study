@@ -1,15 +1,15 @@
 {
     "name": "fe_03_00202",
     "context_channel": 1,
-    "context_text": "<A> um so that was really really great so everyone would always just go home for easter or whatever / <B> uh-huh / <A> and then now um i'm at a different school and we don't get any time off at all for easter / <B> yeah / <A> and i remember i had class like on good friday and i was thinking you know i really don't wanna go to class like i and i'm sure i probably could've gotten out of it and it probably wouldn't have been a big deal at all but i ended up going after all just 'cause you know it's kind of a pain if you have to miss and especially that late in the semester { i } / <B> [ yeah ] / <A> would've gotten behind it was a math class so / <B> yeah",
+    "context_text": "<A> um so that was really really great so everyone would always just go home for easter or whatever / <B> yeah / <A> and then now um i'm at a different school and we don't get any time off at all for easter / <B> yeah / <A> and i remember i had class like on good friday and i was thinking you know i really don't wanna go to class like i and i'm sure i probably could've gotten out of it and it probably wouldn't have been a big deal at all but i ended up going after all just 'cause you know it's kind of a pain if you have to miss and especially that late in the semester { i } / <B> [ yeah ] / <A> would've gotten behind it was a math class so / <B> right",
     "context_start": 630.49,
-    "context_end": 663.4548749999999,
+    "context_end": 663.638875,
     "feedback": [
         {
-            "name": "spontD_047_uh-huh",
+            "name": "spontB_373_yeah",
             "start": 635.02,
-            "end": 635.4706249999999,
-            "token": "uh-huh"
+            "end": 635.4315,
+            "token": "yeah"
         },
         {
             "name": "spontC_053_yeah",
@@ -18,16 +18,16 @@
             "token": "yeah"
         },
         {
-            "name": "spontC_398_yeah",
+            "name": "spontB_094_yeah",
             "start": 660.23,
-            "end": 660.584125,
+            "end": 660.566,
             "token": "yeah"
         },
         {
-            "name": "spontB_016_yeah",
+            "name": "spontC_360_right",
             "start": 663.06,
-            "end": 663.4548749999999,
-            "token": "yeah"
+            "end": 663.638875,
+            "token": "right"
         }
     ]
 }

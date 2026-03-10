@@ -1,39 +1,39 @@
 {
     "name": "fe_03_03615",
     "context_channel": 0,
-    "context_text": "<B> no i it's funny because the republicans had the different agenda like they wanna lower the taxes but they { don't } / <A> [ right ] / <B> raise the minimum wage which might be more helpful or { you } / <A> [ yeah ] / <B> know so it's it's interesting that way um / <A> yeah / <B> you know that they wanna lower the taxes but not you know increase the social services { even } / <A> [ right ] / <B> you know like if you consider a minimum wage being a social service because { then at least } / <A> [ right ]",
+    "context_text": "<B> no i it's funny because the republicans had the different agenda like they wanna lower the taxes but they { don't } / <A> [ right ] / <B> raise the minimum wage which might be more helpful or { you } / <A> [ yeah ] / <B> know so it's it's interesting that way um / <A> yeah / <B> you know that they wanna lower the taxes but not you know increase the social services { even } / <A> [ right ] / <B> you know like if you consider a minimum wage being a social service because { then at least } / <A> [ yeah ]",
     "context_start": 414.76,
-    "context_end": 437.353625,
+    "context_end": 437.2535,
     "feedback": [
         {
-            "name": "spontC_360_right",
+            "name": "PR_043_right",
             "start": 419.87,
-            "end": 420.448875,
+            "end": 420.53000000000003,
             "token": "right"
         },
         {
-            "name": "spontF_624_yeah",
+            "name": "spontB_366_yeah",
             "start": 423.68,
-            "end": 424.174375,
+            "end": 424.33625,
             "token": "yeah"
         },
         {
-            "name": "PR_055_yeah",
+            "name": "spontF_310_yeah",
             "start": 427.32,
-            "end": 428.013125,
+            "end": 428.2095,
             "token": "yeah"
         },
         {
-            "name": "sun1_032_right",
+            "name": "sun1_033_right",
             "start": 432.25,
-            "end": 433.093375,
+            "end": 433.103125,
             "token": "right"
         },
         {
-            "name": "sun1_030_right",
+            "name": "spontC_010_yeah",
             "start": 436.56,
-            "end": 437.353625,
-            "token": "right"
+            "end": 437.2535,
+            "token": "yeah"
         }
     ]
 }

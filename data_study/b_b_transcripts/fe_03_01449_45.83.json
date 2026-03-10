@@ -1,15 +1,15 @@
 {
     "name": "fe_03_01449",
     "context_channel": 0,
-    "context_text": "<B> my life isn't quite as hard as yours but um it really hit home for me i was actually / <A> oh / <B> um i never watch the news ever { and i } / <A> [ uh-huh ] / <B> happened to have the news on and saw the second han uh plane hit live / <A> yeah / <B> and that just totally freaked me out and um when i was a little kid my mom always said you know i know exactly what i was doing the day that jfk was shot / <A> right",
+    "context_text": "<B> my life isn't quite as hard as yours but um it really hit home for me i was actually / <A> okay / <B> um i never watch the news ever { and i } / <A> [ uh-huh ] / <B> happened to have the news on and saw the second han uh plane hit live / <A> yeah / <B> and that just totally freaked me out and um when i was a little kid my mom always said you know i know exactly what i was doing the day that jfk was shot / <A> right",
     "context_start": 45.83,
     "context_end": 68.31,
     "feedback": [
         {
-            "name": "spontC_109_oh",
+            "name": "spontD_411_okay",
             "start": 50.12,
-            "end": 50.684999999999995,
-            "token": "oh"
+            "end": 50.583875,
+            "token": "okay"
         },
         {
             "name": "spontC_128_uh-huh",
@@ -18,9 +18,9 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontD_397_yeah",
+            "name": "spontB_063_yeah",
             "start": 57.9,
-            "end": 58.281375,
+            "end": 58.347625,
             "token": "yeah"
         },
         {

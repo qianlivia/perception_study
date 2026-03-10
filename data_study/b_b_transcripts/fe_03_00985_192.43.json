@@ -1,15 +1,15 @@
 {
     "name": "fe_03_00985",
     "context_channel": 0,
-    "context_text": "<B> well it also amazes me that i spend a lot of time in long beach california and i looked out of the hotel window that i was working on for three months and uh got catalina island and what if there is oil being drilled everywhere you know and not to mention oklahoma we've got oil in this country / <A> aww / <B> and i don't know why we're not taking care of our own with what we have here and i guess we are to a but i don't quite get it i'd like to { say } / <A> [ yeah ] / <B> i do but we need to be a little more self sufficient unless defend { it } / <A> [ exactly ] / <B> yup { so } / <A> [ exactly ]",
+    "context_text": "<B> well it also amazes me that i spend a lot of time in long beach california and i looked out of the hotel window that i was working on for three months and uh got catalina island and what if there is oil being drilled everywhere you know and not to mention oklahoma we've got oil in this country / <A> uh-huh / <B> and i don't know why we're not taking care of our own with what we have here and i guess we are to a but i don't quite get it i'd like to { say } / <A> [ yeah ] / <B> i do but we need to be a little more self sufficient unless defend { it } / <A> [ exactly ] / <B> yup { so } / <A> [ yeah ]",
     "context_start": 192.43,
-    "context_end": 225.6895,
+    "context_end": 225.041875,
     "feedback": [
         {
-            "name": "spontC_219_aww",
+            "name": "spontF_286_uh-huh",
             "start": 209.61,
-            "end": 210.23925000000003,
-            "token": "aww"
+            "end": 210.13350000000003,
+            "token": "uh-huh"
         },
         {
             "name": "spontB_016_yeah",
@@ -18,16 +18,16 @@
             "token": "yeah"
         },
         {
-            "name": "sun_016_exactly",
+            "name": "sun_026_exactly",
             "start": 222.08,
-            "end": 223.11350000000002,
+            "end": 223.10950000000003,
             "token": "exactly"
         },
         {
-            "name": "sun_026_exactly",
+            "name": "sun1_023_yeah",
             "start": 224.66,
-            "end": 225.6895,
-            "token": "exactly"
+            "end": 225.041875,
+            "token": "yeah"
         }
     ]
 }

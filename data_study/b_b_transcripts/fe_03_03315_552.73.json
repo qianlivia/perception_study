@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03315",
     "context_channel": 1,
-    "context_text": "<A> yeah i i mean we don't know what's a scam or what's not and { that } / <B> [ exactly ] / <A> that's the problem i got a company i'm working global work solutions you know and you place ads around the internet / <B> uh-huh / <A> you know and if people click on your ad and people sign up to do the same thing you're doing or { buy } / <B> [ yeah ] / <A> the product then you get the commission i've started this about almost two weeks ago / <B> yeah / <A> i have not got any click ons you know / <B> yeah",
+    "context_text": "<A> yeah i i mean we don't know what's a scam or what's not and { that } / <B> [ exactly ] / <A> that's the problem i got a company i'm working global work solutions you know and you place ads around the internet / <B> uh-huh / <A> you know and if people click on your ad and people sign up to do the same thing you're doing or { buy } / <B> [ uh-huh ] / <A> the product then you get the commission i've started this about almost two weeks ago / <B> yeah / <A> i have not got any click ons you know / <B> yeah",
     "context_start": 552.73,
-    "context_end": 581.650625,
+    "context_end": 581.637875,
     "feedback": [
         {
             "name": "sun_016_exactly",
@@ -12,16 +12,16 @@
             "token": "exactly"
         },
         {
-            "name": "spontC_128_uh-huh",
+            "name": "spontA_290_uh-huh",
             "start": 564.52,
-            "end": 565.0208749999999,
+            "end": 565.0197499999999,
             "token": "uh-huh"
         },
         {
-            "name": "spontF_221_yeah",
+            "name": "spontC_386_uh-huh",
             "start": 571.07,
-            "end": 571.5556250000001,
-            "token": "yeah"
+            "end": 571.6165000000001,
+            "token": "uh-huh"
         },
         {
             "name": "spontC_116_yeah",
@@ -30,9 +30,9 @@
             "token": "yeah"
         },
         {
-            "name": "spontF_300_yeah",
+            "name": "spontA_414_yeah",
             "start": 581.16,
-            "end": 581.650625,
+            "end": 581.637875,
             "token": "yeah"
         }
     ]

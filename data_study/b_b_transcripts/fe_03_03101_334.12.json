@@ -1,32 +1,32 @@
 {
     "name": "fe_03_03101",
     "context_channel": 1,
-    "context_text": "<A> n no that's about eight and our other dog was out there playing just chasing the ball / <B> oh / <A> but he didn't care one way or the other that some guy was running past us but / <B> uh-huh / <A> our australian shepherd's very protective / <B> oh / <A> so i got out the insurance policy to see what happens next we have a five hundred dollar deductible so we'll see / <B> oh",
+    "context_text": "<A> n no that's about eight and our other dog was out there playing just chasing the ball / <B> really / <A> but he didn't care one way or the other that some guy was running past us but / <B> uh-huh / <A> our australian shepherd's very protective / <B> wow / <A> so i got out the insurance policy to see what happens next we have a five hundred dollar deductible so we'll see / <B> oh",
     "context_start": 334.12,
-    "context_end": 360.820875,
+    "context_end": 361.309,
     "feedback": [
         {
-            "name": "spontC_109_oh",
+            "name": "PS_070_really",
             "start": 342.17,
-            "end": 342.735,
-            "token": "oh"
+            "end": 342.858625,
+            "token": "really"
         },
         {
-            "name": "spontE_166_uh-huh",
+            "name": "spontD_036_uh-huh",
             "start": 346.37,
-            "end": 346.911375,
+            "end": 346.880375,
             "token": "uh-huh"
         },
         {
-            "name": "PS_170_oh",
+            "name": "PS_171_wow",
             "start": 349.43,
-            "end": 351.67900000000003,
-            "token": "oh"
+            "end": 351.574875,
+            "token": "wow"
         },
         {
-            "name": "PS_028_oh",
+            "name": "PS_170_oh",
             "start": 359.06,
-            "end": 360.820875,
+            "end": 361.309,
             "token": "oh"
         }
     ]

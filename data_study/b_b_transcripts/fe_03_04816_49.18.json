@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04816",
     "context_channel": 1,
-    "context_text": "<A> yeah it's like all right 'cause basically i only smoke like five cigarettes a day i don't really smoke that much / <B> yeah / <A> now when it comes to friday and saturday when i hit the coronas and uh kahlua and milk and all that stuff / <B> yeah / <A> i tend to smoke more and all my friends are like that / <B> oh / <A> now if you're going say to to a club or to a bar / <B> uh-huh / <A> and it's all your friend you're in the back and you're all drinking how is that everybody's gonna go outside to smoke a cigarette to go back inside you know leave your drinks there to start drinking again to go back outside to smoke and it's { like } / <B> [ yeah ] / <A> it's it's kinda like not fair / <B> yeah",
+    "context_text": "<A> yeah it's like all right 'cause basically i only smoke like five cigarettes a day i don't really smoke that much / <B> yeah / <A> now when it comes to friday and saturday when i hit the coronas and uh kahlua and milk and all that stuff / <B> yeah / <A> i tend to smoke more and all my friends are like that / <B> mhm / <A> now if you're going say to to a club or to a bar / <B> uh-huh / <A> and it's all your friend you're in the back and you're all drinking how is that everybody's gonna go outside to smoke a cigarette to go back inside you know leave your drinks there to start drinking again to go back outside to smoke and it's { like } / <B> [ yeah ] / <A> it's it's kinda like not fair / <B> yeah",
     "context_start": 49.18,
-    "context_end": 84.563875,
+    "context_end": 84.489125,
     "feedback": [
         {
             "name": "spontB_016_yeah",
@@ -18,15 +18,15 @@
             "token": "yeah"
         },
         {
-            "name": "spontF_109_oh",
+            "name": "spontC_111_mhm",
             "start": 63.28,
-            "end": 63.6195,
-            "token": "oh"
+            "end": 63.7115,
+            "token": "mhm"
         },
         {
-            "name": "spontD_040_uh-huh",
+            "name": "spontB_002_uh-huh",
             "start": 68.53,
-            "end": 68.9875,
+            "end": 69.01025,
             "token": "uh-huh"
         },
         {
@@ -36,9 +36,9 @@
             "token": "yeah"
         },
         {
-            "name": "spontB_379_yeah",
+            "name": "spontC_346_yeah",
             "start": 84.06,
-            "end": 84.563875,
+            "end": 84.489125,
             "token": "yeah"
         }
     ]

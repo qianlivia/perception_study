@@ -1,27 +1,27 @@
 {
     "name": "fe_03_01779",
     "context_channel": 1,
-    "context_text": "<A> and wants to further their education you / <B> mhm / <A> know advance in terms of getting another degree or whatever / <B> mhm / <A> um that they wouldn't have to worry about maybe travelling { you know } / <B> [ mmm ] / <A> travel time is the big thing you know / <B> right / <A> working nine maybe eight nine ten hours a day / <B> huh / <A> and then having to go and sit in a class for another hour and a half / <B> yeah / <A> or you know something of that sort { i mean } / <B> [ uh-huh ]",
+    "context_text": "<A> and wants to further their education you / <B> yeah / <A> know advance in terms of getting another degree or whatever / <B> uh-huh / <A> um that they wouldn't have to worry about maybe travelling { you know } / <B> [ mhm ] / <A> travel time is the big thing you know / <B> right / <A> working nine maybe eight nine ten hours a day / <B> mhm / <A> and then having to go and sit in a class for another hour and a half / <B> mhm / <A> or you know something of that sort { i mean } / <B> [ uh-huh ]",
     "context_start": 214.5,
-    "context_end": 235.694375,
+    "context_end": 235.63275,
     "feedback": [
         {
-            "name": "spontC_355_mhm",
+            "name": "spontB_373_yeah",
             "start": 216.51,
-            "end": 217.048,
-            "token": "mhm"
+            "end": 216.92149999999998,
+            "token": "yeah"
         },
         {
-            "name": "spontC_235_mhm",
+            "name": "spontA_158_uh-huh",
             "start": 219.67,
-            "end": 220.12175,
-            "token": "mhm"
+            "end": 220.192375,
+            "token": "uh-huh"
         },
         {
-            "name": "spontC_381_mmm",
+            "name": "spontE_268_mhm",
             "start": 223.77,
-            "end": 224.520375,
-            "token": "mmm"
+            "end": 224.337875,
+            "token": "mhm"
         },
         {
             "name": "spontC_360_right",
@@ -30,21 +30,21 @@
             "token": "right"
         },
         {
-            "name": "NS_026_huh",
+            "name": "spontD_347_mhm",
             "start": 229.43,
-            "end": 230.264625,
-            "token": "huh"
+            "end": 230.10725,
+            "token": "mhm"
         },
         {
-            "name": "spontB_063_yeah",
+            "name": "spontC_235_mhm",
             "start": 233.83,
-            "end": 234.277625,
-            "token": "yeah"
+            "end": 234.28175000000002,
+            "token": "mhm"
         },
         {
-            "name": "spontE_065_uh-huh",
+            "name": "spontF_009_uh-huh",
             "start": 235.25,
-            "end": 235.694375,
+            "end": 235.63275,
             "token": "uh-huh"
         }
     ]

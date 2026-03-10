@@ -1,9 +1,9 @@
 {
     "name": "fe_03_05007",
     "context_channel": 1,
-    "context_text": "<A> was in uh ohio and now i'm in toronto um uh toronto canada / <B> mhm / <A> um basically i did contract work for everything from uh quest communications in in ohio to um even uh government contracts or just worked for it at the uh franklin county data center in ohio and uh just pretty much everything from fixing computers to uh technical support anything i could pretty much uh put my hands on { i mean there was } / <B> [ hm ] / <A> a it wasn't really doing too well anyway in the first { place } / <B> [ wow ] / <A> because of the uh the dot bomb refugees and now everybody's taking up like programing and for a lot of the coding and testing / <B> uh-huh / <A> now they're pretty much outsourcing to um countries like uh uh like uh india and and pakistan and poland and stuff { like that } / <B> [ uh-huh ] / <A> and so basically where people are educated but they're not they're underpaid / <B> right",
+    "context_text": "<A> was in uh ohio and now i'm in toronto um uh toronto canada / <B> mhm / <A> um basically i did contract work for everything from uh quest communications in in ohio to um even uh government contracts or just worked for it at the uh franklin county data center in ohio and uh just pretty much everything from fixing computers to uh technical support anything i could pretty much uh put my hands on { i mean there was } / <B> [ ooh ] / <A> a it wasn't really doing too well anyway in the first { place } / <B> [ oh ] / <A> because of the uh the dot bomb refugees and now everybody's taking up like programing and for a lot of the coding and testing / <B> mhm / <A> now they're pretty much outsourcing to um countries like uh uh like uh india and and pakistan and poland and stuff { like that } / <B> [ yeah ] / <A> and so basically where people are educated but they're not they're underpaid / <B> wow",
     "context_start": 75.13,
-    "context_end": 126.405125,
+    "context_end": 126.71074999999999,
     "feedback": [
         {
             "name": "spontC_330_mhm",
@@ -12,34 +12,34 @@
             "token": "mhm"
         },
         {
-            "name": "spontA_040_hm",
+            "name": "PS_177_ooh",
             "start": 102.15,
-            "end": 103.195875,
-            "token": "hm"
+            "end": 103.746375,
+            "token": "ooh"
         },
         {
-            "name": "PS_023_wow",
+            "name": "spontE_295_oh",
             "start": 105.44,
-            "end": 106.2295,
-            "token": "wow"
+            "end": 106.184125,
+            "token": "oh"
         },
         {
-            "name": "spontF_286_uh-huh",
+            "name": "spontA_410_mhm",
             "start": 113.7,
-            "end": 114.2235,
-            "token": "uh-huh"
+            "end": 114.191,
+            "token": "mhm"
         },
         {
-            "name": "spontD_021_uh-huh",
+            "name": "spontB_373_yeah",
             "start": 122.1,
-            "end": 122.55175,
-            "token": "uh-huh"
+            "end": 122.5115,
+            "token": "yeah"
         },
         {
-            "name": "PR_048_right",
+            "name": "PS_156_wow",
             "start": 125.77,
-            "end": 126.405125,
-            "token": "right"
+            "end": 126.71074999999999,
+            "token": "wow"
         }
     ]
 }

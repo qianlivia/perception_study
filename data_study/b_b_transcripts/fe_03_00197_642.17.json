@@ -1,32 +1,32 @@
 {
     "name": "fe_03_00197",
     "context_channel": 1,
-    "context_text": "<A> i liked that that was that was fun nowadays i don't know a lot of the schools around here they don't do like a class valentine day swap you're l cause i don't know people were getting excluded or they were afraid / <B> right / <A> they'd be excluded or / <B> uh-huh / <A> you know i know i never quite received as many valentines as i gave but that's life / <B> right / <A> might as well learn that when you're seven / <B> yeah",
+    "context_text": "<A> i liked that that was that was fun nowadays i don't know a lot of the schools around here they don't do like a class valentine day swap you're l cause i don't know people were getting excluded or they were afraid / <B> wow / <A> they'd be excluded or / <B> yeah / <A> you know i know i never quite received as many valentines as i gave but that's life / <B> yeah / <A> might as well learn that when you're seven / <B> yeah",
     "context_start": 642.17,
-    "context_end": 665.391875,
+    "context_end": 665.389125,
     "feedback": [
         {
-            "name": "sun_028_right",
+            "name": "PS_078_wow",
             "start": 653.21,
-            "end": 653.939375,
-            "token": "right"
+            "end": 654.2966250000001,
+            "token": "wow"
         },
         {
-            "name": "spontB_002_uh-huh",
+            "name": "spontB_051_yeah",
             "start": 655.34,
-            "end": 655.82025,
-            "token": "uh-huh"
+            "end": 655.831375,
+            "token": "yeah"
         },
         {
-            "name": "sun1_032_right",
+            "name": "spontF_595_yeah",
             "start": 660.97,
-            "end": 661.8133750000001,
-            "token": "right"
+            "end": 661.582,
+            "token": "yeah"
         },
         {
-            "name": "spontA_229_yeah",
+            "name": "sun_045_yeah",
             "start": 664.95,
-            "end": 665.391875,
+            "end": 665.389125,
             "token": "yeah"
         }
     ]

@@ -1,32 +1,32 @@
 {
     "name": "fe_03_01482",
     "context_channel": 0,
-    "context_text": "<B> east i would love to at some point you know see like israel or whatever { and } / <A> [ yeah ] / <B> and i would absolutely never go there but / <A> right / <B> we don't really have the money to do that anyway so it's kind of a moot point but / <A> right / <B> should if i was rich enough to do it i most certainly you're like you would not visit there right now / <A> yeah",
+    "context_text": "<B> east i would love to at some point you know see like israel or whatever { and } / <A> [ yeah ] / <B> and i would absolutely never go there but / <A> wow / <B> we don't really have the money to do that anyway so it's kind of a moot point but / <A> wow / <B> should if i was rich enough to do it i most certainly you're like you would not visit there right now / <A> yeah",
     "context_start": 293.7,
-    "context_end": 313.3585,
+    "context_end": 313.23875,
     "feedback": [
         {
-            "name": "spontB_132_yeah",
+            "name": "sun1_020_yeah",
             "start": 298.26,
-            "end": 299.167125,
+            "end": 299.10699999999997,
             "token": "yeah"
         },
         {
-            "name": "spontC_360_right",
+            "name": "PS_037_wow",
             "start": 302.69,
-            "end": 303.268875,
-            "token": "right"
+            "end": 303.702625,
+            "token": "wow"
         },
         {
-            "name": "PR_048_right",
+            "name": "PS_080_wow",
             "start": 306.92,
-            "end": 307.55512500000003,
-            "token": "right"
+            "end": 307.919125,
+            "token": "wow"
         },
         {
-            "name": "PR_040_yeah",
+            "name": "spontB_216_yeah",
             "start": 312.75,
-            "end": 313.3585,
+            "end": 313.23875,
             "token": "yeah"
         }
     ]

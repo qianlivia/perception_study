@@ -1,15 +1,15 @@
 {
     "name": "fe_03_01277",
     "context_channel": 0,
-    "context_text": "<B> yeah i i probably um i i run the tv most of the day when i'm like house cleaning and and { doing my } / <A> [ mhm ] / <B> chores around the house and do whatnot um so i especially when there's tragedy like now i leave { it on } / <A> [ right ] / <B> cnn { all day } / <A> [ yeah ] / <B> so all i listen to is cnn but i do read the newspapers { and } / <A> oh",
+    "context_text": "<B> yeah i i probably um i i run the tv most of the day when i'm like house cleaning and and { doing my } / <A> [ wow ] / <B> chores around the house and do whatnot um so i especially when there's tragedy like now i leave { it on } / <A> [ right ] / <B> cnn { all day } / <A> [ yeah ] / <B> so all i listen to is cnn but i do read the newspapers { and } / <A> mhm",
     "context_start": 82.94,
-    "context_end": 101.1895,
+    "context_end": 101.2815,
     "feedback": [
         {
-            "name": "spontC_356_mhm",
+            "name": "PS_105_wow",
             "start": 88.06,
-            "end": 88.65575,
-            "token": "mhm"
+            "end": 88.708,
+            "token": "wow"
         },
         {
             "name": "spontC_360_right",
@@ -24,10 +24,10 @@
             "token": "yeah"
         },
         {
-            "name": "spontF_109_oh",
+            "name": "spontC_111_mhm",
             "start": 100.85,
-            "end": 101.1895,
-            "token": "oh"
+            "end": 101.2815,
+            "token": "mhm"
         }
     ]
 }

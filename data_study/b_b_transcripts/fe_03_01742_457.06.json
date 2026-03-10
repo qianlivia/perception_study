@@ -1,9 +1,9 @@
 {
     "name": "fe_03_01742",
     "context_channel": 0,
-    "context_text": "<B> well i was a college student once and if it's anything like um what i learnt when i was at penn state / <A> uh-huh / <B> um you have your ultra liberal in instructors { who } / <A> [ exactly ] / <B> toe the policy line and they'll even lie to the students and stuff to convince them that something is reality when it's really not um and if they're the ones that's teaching the kids about foreign policy that's a real scary thing too that / <A> absolutely / <B> is scary because i just remember back in my classes at college and this { hasn't } / <A> [ aww ] / <B> been like that long ago and just the things that we were taught and how kids aren't taught to think critically and they don't question and um the instructors there's some especially if he's a well written and well known instructor { his word } / <A> [ oh ]",
+    "context_text": "<B> well i was a college student once and if it's anything like um what i learnt when i was at penn state / <A> uh-huh / <B> um you have your ultra liberal in instructors { who } / <A> [ exactly ] / <B> toe the policy line and they'll even lie to the students and stuff to convince them that something is reality when it's really not um and if they're the ones that's teaching the kids about foreign policy that's a real scary thing too that / <A> absolutely / <B> is scary because i just remember back in my classes at college and this { hasn't } / <A> [ mhm ] / <B> been like that long ago and just the things that we were taught and how kids aren't taught to think critically and they don't question and um the instructors there's some especially if he's a well written and well known instructor { his word } / <A> [ ooh ]",
     "context_start": 457.06,
-    "context_end": 505.43775,
+    "context_end": 505.683125,
     "feedback": [
         {
             "name": "spontA_041_uh-huh",
@@ -12,28 +12,28 @@
             "token": "uh-huh"
         },
         {
-            "name": "sun_016_exactly",
+            "name": "sun_026_exactly",
             "start": 466.55,
-            "end": 467.5835,
+            "end": 467.5795,
             "token": "exactly"
         },
         {
-            "name": "sun_002_absolutely",
+            "name": "sun_027_absolutely",
             "start": 483.47,
-            "end": 484.51550000000003,
+            "end": 484.60400000000004,
             "token": "absolutely"
         },
         {
-            "name": "spontC_219_aww",
+            "name": "spontE_268_mhm",
             "start": 489.38,
-            "end": 490.00925,
-            "token": "aww"
+            "end": 489.947875,
+            "token": "mhm"
         },
         {
-            "name": "spontC_315_oh",
+            "name": "NegS_038_ooh",
             "start": 504.67,
-            "end": 505.43775,
-            "token": "oh"
+            "end": 505.683125,
+            "token": "ooh"
         }
     ]
 }

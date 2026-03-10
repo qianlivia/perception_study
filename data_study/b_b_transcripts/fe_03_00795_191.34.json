@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00795",
     "context_channel": 0,
-    "context_text": "<B> yeah yeah plus th the big industries are dictated by so many constraints it seems like whether it's you know a video stores or book stores / <A> right / <B> i mean they're you know they kind of go for the big corporation and in so / <A> yeah / <B> you know yeah i know what you mean like i i don't i don't like blockbuster anymore / <A> yeah / <B> seems like everything is like censored or you know / <A> right",
+    "context_text": "<B> yeah yeah plus th the big industries are dictated by so many constraints it seems like whether it's you know a video stores or book stores / <A> yeah / <B> i mean they're you know they kind of go for the big corporation and in so / <A> yeah / <B> you know yeah i know what you mean like i i don't i don't like blockbuster anymore / <A> yeah / <B> seems like everything is like censored or you know / <A> yeah",
     "context_start": 191.34,
-    "context_end": 218.12,
+    "context_end": 217.79600000000002,
     "feedback": [
         {
-            "name": "PR_048_right",
+            "name": "spontB_385_yeah",
             "start": 202.28,
-            "end": 202.915125,
-            "token": "right"
+            "end": 202.729625,
+            "token": "yeah"
         },
         {
-            "name": "spontA_116_yeah",
+            "name": "spontF_225_yeah",
             "start": 206.95,
-            "end": 207.43625,
+            "end": 207.549625,
             "token": "yeah"
         },
         {
-            "name": "spontD_397_yeah",
+            "name": "spontC_389_yeah",
             "start": 212.91,
-            "end": 213.291375,
+            "end": 213.428,
             "token": "yeah"
         },
         {
-            "name": "PR_043_right",
+            "name": "spontB_094_yeah",
             "start": 217.46,
-            "end": 218.12,
-            "token": "right"
+            "end": 217.79600000000002,
+            "token": "yeah"
         }
     ]
 }

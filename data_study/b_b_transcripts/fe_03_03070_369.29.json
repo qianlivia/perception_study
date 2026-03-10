@@ -1,15 +1,15 @@
 {
     "name": "fe_03_03070",
     "context_channel": 0,
-    "context_text": "<B> palermo it's p a l e r m o / <A> whoa / <B> road / <A> okay / <B> and it's panama city / <A> mhm",
+    "context_text": "<B> palermo it's p a l e r m o / <A> yeah / <B> road / <A> okay / <B> and it's panama city / <A> mhm",
     "context_start": 369.29,
-    "context_end": 379.64087500000005,
+    "context_end": 379.59525,
     "feedback": [
         {
-            "name": "spontF_124_whoa",
+            "name": "spontD_142_yeah",
             "start": 374.27,
-            "end": 374.91749999999996,
-            "token": "whoa"
+            "end": 374.74725,
+            "token": "yeah"
         },
         {
             "name": "spontB_195_okay",
@@ -18,9 +18,9 @@
             "token": "okay"
         },
         {
-            "name": "spontC_314_mhm",
+            "name": "spontC_313_mhm",
             "start": 379.1,
-            "end": 379.64087500000005,
+            "end": 379.59525,
             "token": "mhm"
         }
     ]

@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04309",
     "context_channel": 1,
-    "context_text": "<A> eight years of prosperity and no you know eight years going with the clinton administration in which he did his fair share of wrong but / <B> yeah / <A> it just seems like and since bush got in office nothing against him { but we } / <B> [ right ] / <A> went from eight years of record breaking numbers the stock market climbing to ultimate highs the dot com business you know before the bubble busted was just / <B> yeah / <A> raving people were making a killing { more } / <B> [ aww ] / <A> self make millionaires than ever / <B> yeah",
+    "context_text": "<A> eight years of prosperity and no you know eight years going with the clinton administration in which he did his fair share of wrong but / <B> yeah / <A> it just seems like and since bush got in office nothing against him { but we } / <B> [ right ] / <A> went from eight years of record breaking numbers the stock market climbing to ultimate highs the dot com business you know before the bubble busted was just / <B> yeah / <A> raving people were making a killing { more } / <B> [ oh ] / <A> self make millionaires than ever / <B> yeah",
     "context_start": 523.2,
-    "context_end": 545.97825,
+    "context_end": 546.009125,
     "feedback": [
         {
             "name": "spontD_287_yeah",
@@ -12,9 +12,9 @@
             "token": "yeah"
         },
         {
-            "name": "spontC_360_right",
+            "name": "PR_043_right",
             "start": 533.05,
-            "end": 533.628875,
+            "end": 533.7099999999999,
             "token": "right"
         },
         {
@@ -24,15 +24,15 @@
             "token": "yeah"
         },
         {
-            "name": "spontF_170_aww",
+            "name": "spontC_004_oh",
             "start": 543.63,
-            "end": 544.42025,
-            "token": "aww"
+            "end": 544.267875,
+            "token": "oh"
         },
         {
-            "name": "sun_046_yeah",
+            "name": "sun_045_yeah",
             "start": 545.57,
-            "end": 545.97825,
+            "end": 546.009125,
             "token": "yeah"
         }
     ]

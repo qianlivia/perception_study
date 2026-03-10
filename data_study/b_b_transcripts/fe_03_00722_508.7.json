@@ -1,15 +1,15 @@
 {
     "name": "fe_03_00722",
     "context_channel": 1,
-    "context_text": "<A> i mean the the thing that i did not like was the media's concern is that they didn't focus too much on the pentagon you know { i } / <B> [ uh-huh ] / <A> mean new york city was hit the hardest okay we agree but you know what about these people at the pentagon / <B> yeah / <A> you know they didn't really cover too much of that and maybe because it's the government you know / <B> yeah / <A> which is understandable but i mean i thought they should have gotten a little more coverage you know besides / <B> uh-huh",
+    "context_text": "<A> i mean the the thing that i did not like was the media's concern is that they didn't focus too much on the pentagon you know { i } / <B> [ wow ] / <A> mean new york city was hit the hardest okay we agree but you know what about these people at the pentagon / <B> yeah / <A> you know they didn't really cover too much of that and maybe because it's the government you know / <B> yeah / <A> which is understandable but i mean i thought they should have gotten a little more coverage you know besides / <B> uh-huh",
     "context_start": 508.7,
-    "context_end": 535.734875,
+    "context_end": 535.7005,
     "feedback": [
         {
-            "name": "spontF_082_uh-huh",
+            "name": "PS_018_wow",
             "start": 515.83,
-            "end": 516.6895000000001,
-            "token": "uh-huh"
+            "end": 516.835625,
+            "token": "wow"
         },
         {
             "name": "spontE_003_yeah",
@@ -18,15 +18,15 @@
             "token": "yeah"
         },
         {
-            "name": "spontE_219_yeah",
+            "name": "spontF_295_yeah",
             "start": 529.83,
-            "end": 530.3715000000001,
+            "end": 530.348375,
             "token": "yeah"
         },
         {
-            "name": "spontA_069_uh-huh",
+            "name": "spontC_133_uh-huh",
             "start": 535.24,
-            "end": 535.734875,
+            "end": 535.7005,
             "token": "uh-huh"
         }
     ]

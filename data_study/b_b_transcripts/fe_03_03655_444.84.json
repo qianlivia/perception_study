@@ -1,39 +1,39 @@
 {
     "name": "fe_03_03655",
     "context_channel": 0,
-    "context_text": "<B> right and like i was mentioned before the single the single parents / <A> huh / <B> um if they you know if they have children and y your child gets sick and you have to take em to the doctor you have a choice of you know should i put food on the table um pay my rent or take my sick kid to the doctor / <A> right / <B> you know and even i mean even with co pays we have fifteen dollar co pays and then we have our medical ah or we have a prescription co pays as well / <A> ooh / <B> and you know whenever my kids are sick i'm like oh no an and sure enough if one gets sick they both get sick so { i } / <A> [ right ] / <B> got thirty dollars in co pay plus th whatever medications they go { on i hate } / <A> [ what ]",
+    "context_text": "<B> right and like i was mentioned before the single the single parents / <A> ooh / <B> um if they you know if they have children and y your child gets sick and you have to take em to the doctor you have a choice of you know should i put food on the table um pay my rent or take my sick kid to the doctor / <A> right / <B> you know and even i mean even with co pays we have fifteen dollar co pays and then we have our medical ah or we have a prescription co pays as well / <A> uh-huh / <B> and you know whenever my kids are sick i'm like oh no an and sure enough if one gets sick they both get sick so { i } / <A> [ right ] / <B> got thirty dollars in co pay plus th whatever medications they go { on i hate } / <A> [ wow ]",
     "context_start": 444.84,
-    "context_end": 477.376625,
+    "context_end": 477.325875,
     "feedback": [
         {
-            "name": "NS_072_huh",
+            "name": "spontC_242_ooh",
             "start": 448.77,
-            "end": 449.615375,
-            "token": "huh"
-        },
-        {
-            "name": "spontC_360_right",
-            "start": 460.01,
-            "end": 460.588875,
-            "token": "right"
-        },
-        {
-            "name": "spontC_377_ooh",
-            "start": 467.47,
-            "end": 468.32025000000004,
+            "end": 449.741375,
             "token": "ooh"
         },
         {
             "name": "PR_043_right",
-            "start": 473.25,
-            "end": 473.91,
+            "start": 460.01,
+            "end": 460.67,
             "token": "right"
         },
         {
-            "name": "Nu_007_what",
+            "name": "sun1_034_uh-huh",
+            "start": 467.47,
+            "end": 468.28325,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_360_right",
+            "start": 473.25,
+            "end": 473.828875,
+            "token": "right"
+        },
+        {
+            "name": "PS_152_wow",
             "start": 476.73,
-            "end": 477.376625,
-            "token": "what"
+            "end": 477.325875,
+            "token": "wow"
         }
     ]
 }

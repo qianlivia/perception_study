@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01927",
     "context_channel": 1,
-    "context_text": "<A> parents my parents used to always joke said you know no one ever better come in between us / <B> oh / <A> but they never knew if they were ever going to come home and find one of us had killed the other one { and it } / <B> [ exactly ] / <A> but it's even i mean even now to this day i mean i was home my parents house at christmas and i mean my brother and i were going at it like we were in junior high yeah you / <B> right / <A> go by and y you know punch the other one he touched me first he's looking { i'm like } / <B> [ right ]",
+    "context_text": "<A> parents my parents used to always joke said you know no one ever better come in between us / <B> right / <A> but they never knew if they were ever going to come home and find one of us had killed the other one { and it } / <B> [ yeah ] / <A> but it's even i mean even now to this day i mean i was home my parents house at christmas and i mean my brother and i were going at it like we were in junior high yeah you / <B> right / <A> go by and y you know punch the other one he touched me first he's looking { i'm like } / <B> [ oh ]",
     "context_start": 497.63,
-    "context_end": 525.27,
+    "context_end": 525.1750000000001,
     "feedback": [
         {
-            "name": "spontC_109_oh",
-            "start": 503.22,
-            "end": 503.785,
-            "token": "oh"
-        },
-        {
-            "name": "sun_041_exactly",
-            "start": 507.67,
-            "end": 508.623,
-            "token": "exactly"
-        },
-        {
             "name": "sun1_032_right",
-            "start": 519.26,
-            "end": 520.103375,
+            "start": 503.22,
+            "end": 504.063375,
             "token": "right"
+        },
+        {
+            "name": "spontF_595_yeah",
+            "start": 507.67,
+            "end": 508.28200000000004,
+            "token": "yeah"
         },
         {
             "name": "PR_043_right",
-            "start": 524.61,
-            "end": 525.27,
+            "start": 519.26,
+            "end": 519.92,
             "token": "right"
+        },
+        {
+            "name": "spontC_109_oh",
+            "start": 524.61,
+            "end": 525.1750000000001,
+            "token": "oh"
         }
     ]
 }

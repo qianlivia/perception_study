@@ -1,20 +1,20 @@
 {
     "name": "fe_03_01023",
     "context_channel": 0,
-    "context_text": "<B> it's just more of a protection thing you don't want to go out and start wars on your own and not { have other } / <A> [ right ] / <B> countries backing you up { yeah i } / <A> [ yeah ] / <B> totally i totally agree { i mean i } / <A> [ yeah ] / <B> think of a couple of years ago when i wasn't a parent i may have thought differently but you { know i } / <A> [ yeah ] / <B> understand the war against terrorism but i don't understand going to war against the the um / <A> yeah",
+    "context_text": "<B> it's just more of a protection thing you don't want to go out and start wars on your own and not { have other } / <A> [ right ] / <B> countries backing you up { yeah i } / <A> [ yeah ] / <B> totally i totally agree { i mean i } / <A> [ yeah ] / <B> think of a couple of years ago when i wasn't a parent i may have thought differently but you { know i } / <A> [ oh ] / <B> understand the war against terrorism but i don't understand going to war against the the um / <A> yeah",
     "context_start": 481.73,
-    "context_end": 500.980625,
+    "context_end": 500.968125,
     "feedback": [
         {
-            "name": "sun1_033_right",
+            "name": "sun_028_right",
             "start": 486.14,
-            "end": 486.99312499999996,
+            "end": 486.869375,
             "token": "right"
         },
         {
-            "name": "spontA_110_yeah",
+            "name": "spontB_224_yeah",
             "start": 488.11,
-            "end": 489.042125,
+            "end": 488.9835,
             "token": "yeah"
         },
         {
@@ -24,15 +24,15 @@
             "token": "yeah"
         },
         {
-            "name": "spontB_316_yeah",
+            "name": "spontE_295_oh",
             "start": 494.89,
-            "end": 495.49325,
-            "token": "yeah"
+            "end": 495.634125,
+            "token": "oh"
         },
         {
-            "name": "spontB_107_yeah",
+            "name": "spontE_258_yeah",
             "start": 500.34,
-            "end": 500.980625,
+            "end": 500.968125,
             "token": "yeah"
         }
     ]

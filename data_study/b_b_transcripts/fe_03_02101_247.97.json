@@ -1,15 +1,15 @@
 {
     "name": "fe_03_02101",
     "context_channel": 1,
-    "context_text": "<A> well it it did cut up because we had the first weekend after it we had probably twenty something folks show up to help us clean up the house / <B> mhm / <A> you know to clear out stuff that was burned out because it was really hard for us to do it we lost / <B> right / <A> you know we lost everything we lost a bunch of animals / <B> ugh / <A> uh it was uh real hard uh barbara couldn't even go down there { you } / <B> [ yeah ] / <A> know it was just so so much for her but here i somebody had to go down there cause i had these people coming down to help / <B> uh-huh",
+    "context_text": "<A> well it it did cut up because we had the first weekend after it we had probably twenty something folks show up to help us clean up the house / <B> uh-huh / <A> you know to clear out stuff that was burned out because it was really hard for us to do it we lost / <B> right / <A> you know we lost everything we lost a bunch of animals / <B> mhm / <A> uh it was uh real hard uh barbara couldn't even go down there { you } / <B> [ yeah ] / <A> know it was just so so much for her but here i somebody had to go down there cause i had these people coming down to help / <B> uh-huh",
     "context_start": 247.97,
-    "context_end": 278.540875,
+    "context_end": 278.55175,
     "feedback": [
         {
-            "name": "spontC_355_mhm",
+            "name": "spontB_002_uh-huh",
             "start": 256.93,
-            "end": 257.468,
-            "token": "mhm"
+            "end": 257.41025,
+            "token": "uh-huh"
         },
         {
             "name": "spontC_360_right",
@@ -18,10 +18,10 @@
             "token": "right"
         },
         {
-            "name": "NegS_043_ugh",
+            "name": "spontE_268_mhm",
             "start": 266.56,
-            "end": 267.195125,
-            "token": "ugh"
+            "end": 267.127875,
+            "token": "mhm"
         },
         {
             "name": "spontE_219_yeah",
@@ -30,9 +30,9 @@
             "token": "yeah"
         },
         {
-            "name": "spontD_084_uh-huh",
+            "name": "spontE_265_uh-huh",
             "start": 277.98,
-            "end": 278.540875,
+            "end": 278.55175,
             "token": "uh-huh"
         }
     ]

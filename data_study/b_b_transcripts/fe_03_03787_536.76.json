@@ -1,14 +1,14 @@
 {
     "name": "fe_03_03787",
     "context_channel": 1,
-    "context_text": "<A> i felt like i felt very defenseless against the hum you know like sarcasm or like / <B> mhm / <A> people who teased when i was a young girl / <B> yeah / <A> and i grew up to be totally the opposite { but } / <B> [ uh-huh ] / <A> like your daughter you know i was like always amazed at how mean someone or you know a mean joke would really / <B> mhm / <A> embarrass me or offend / <B> yeah / <A> me you know but there were those girls that were making the jokes you know / <B> mhm",
+    "context_text": "<A> i felt like i felt very defenseless against the hum you know like sarcasm or like / <B> mhm / <A> people who teased when i was a young girl / <B> yeah / <A> and i grew up to be totally the opposite { but } / <B> [ mhm ] / <A> like your daughter you know i was like always amazed at how mean someone or you know a mean joke would really / <B> mhm / <A> embarrass me or offend / <B> yeah / <A> me you know but there were those girls that were making the jokes you know / <B> uh-huh",
     "context_start": 536.76,
-    "context_end": 560.36225,
+    "context_end": 560.3075,
     "feedback": [
         {
-            "name": "spontC_313_mhm",
+            "name": "spontA_054_mhm",
             "start": 542.38,
-            "end": 542.87525,
+            "end": 542.907,
             "token": "mhm"
         },
         {
@@ -18,10 +18,10 @@
             "token": "yeah"
         },
         {
-            "name": "spontD_084_uh-huh",
+            "name": "spontC_111_mhm",
             "start": 547.27,
-            "end": 547.830875,
-            "token": "uh-huh"
+            "end": 547.7015,
+            "token": "mhm"
         },
         {
             "name": "spontC_330_mhm",
@@ -30,16 +30,16 @@
             "token": "mhm"
         },
         {
-            "name": "PR_040_yeah",
+            "name": "spontB_239_yeah",
             "start": 555.84,
-            "end": 556.4485000000001,
+            "end": 556.386875,
             "token": "yeah"
         },
         {
-            "name": "spontC_327_mhm",
+            "name": "spontD_040_uh-huh",
             "start": 559.85,
-            "end": 560.36225,
-            "token": "mhm"
+            "end": 560.3075,
+            "token": "uh-huh"
         }
     ]
 }

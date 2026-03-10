@@ -1,32 +1,32 @@
 {
     "name": "fe_03_00159",
     "context_channel": 0,
-    "context_text": "<B> their company probably uhm i think there were a lot of like um silicon valley ones { ah } / <A> [ yeah ] / <B> you know i i don't know i really actually have never been west so i can't tell you if they're all booming as much as it seems to on the internet but it looks like all the opportunities i've seen are either in canada europe / <A> mhm / <B> or california / <A> wow / <B> or so the some like government type linked ones { in } / <A> [ right ]",
+    "context_text": "<B> their company probably uhm i think there were a lot of like um silicon valley ones { ah } / <A> [ right ] / <B> you know i i don't know i really actually have never been west so i can't tell you if they're all booming as much as it seems to on the internet but it looks like all the opportunities i've seen are either in canada europe / <A> mhm / <B> or california / <A> wow / <B> or so the some like government type linked ones { in } / <A> [ right ]",
     "context_start": 415.51,
-    "context_end": 439.62337499999995,
+    "context_end": 439.44,
     "feedback": [
         {
-            "name": "spontF_547_yeah",
+            "name": "sun1_032_right",
             "start": 420.69,
-            "end": 421.083625,
-            "token": "yeah"
+            "end": 421.533375,
+            "token": "right"
         },
         {
-            "name": "spontF_482_mhm",
+            "name": "spontA_147_mhm",
             "start": 433.18,
-            "end": 433.61825,
+            "end": 433.65325,
             "token": "mhm"
         },
         {
-            "name": "spontF_097_wow",
+            "name": "PS_129_wow",
             "start": 434.65,
-            "end": 435.09412499999996,
+            "end": 435.592375,
             "token": "wow"
         },
         {
-            "name": "sun1_032_right",
+            "name": "PR_043_right",
             "start": 438.78,
-            "end": 439.62337499999995,
+            "end": 439.44,
             "token": "right"
         }
     ]

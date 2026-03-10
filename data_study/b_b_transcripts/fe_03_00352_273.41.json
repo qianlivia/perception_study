@@ -1,27 +1,27 @@
 {
     "name": "fe_03_00352",
     "context_channel": 1,
-    "context_text": "<A> well it's it ju you know i think there are people who have a fundamentally different approach to what they want to do with their life you know my i love what i do and i do what i love / <B> yeah / <A> see i'm in a position where i can do that but some people are doing what they do to make money / <B> uh-huh / <A> you know and so they're they're in pursuit of of what it will bring them rather than doing what they do / <B> oh / <A> my husband is a scientist and he's sort of the same way i mean he is a scientist because he loves science and he loves research / <B> mhm / <A> so we we both know we would stink as business owners / <B> right",
+    "context_text": "<A> well it's it ju you know i think there are people who have a fundamentally different approach to what they want to do with their life you know my i love what i do and i do what i love / <B> uh-huh / <A> see i'm in a position where i can do that but some people are doing what they do to make money / <B> uh-huh / <A> you know and so they're they're in pursuit of of what it will bring them rather than doing what they do / <B> yeah / <A> my husband is a scientist and he's sort of the same way i mean he is a scientist because he loves science and he loves research / <B> mhm / <A> so we we both know we would stink as business owners / <B> right",
     "context_start": 273.41,
-    "context_end": 308.248875,
+    "context_end": 308.513375,
     "feedback": [
         {
-            "name": "spontE_355_yeah",
+            "name": "spontA_254_uh-huh",
             "start": 283.51,
-            "end": 283.953125,
-            "token": "yeah"
-        },
-        {
-            "name": "spontE_065_uh-huh",
-            "start": 290.6,
-            "end": 291.044375,
+            "end": 283.9085,
             "token": "uh-huh"
         },
         {
-            "name": "spontF_109_oh",
+            "name": "spontF_009_uh-huh",
+            "start": 290.6,
+            "end": 290.98275,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_659_yeah",
             "start": 297.13,
-            "end": 297.4695,
-            "token": "oh"
+            "end": 297.56025,
+            "token": "yeah"
         },
         {
             "name": "spontC_111_mhm",
@@ -30,9 +30,9 @@
             "token": "mhm"
         },
         {
-            "name": "spontC_360_right",
+            "name": "sun1_032_right",
             "start": 307.67,
-            "end": 308.248875,
+            "end": 308.513375,
             "token": "right"
         }
     ]

@@ -1,14 +1,14 @@
 {
     "name": "fe_03_03385",
     "context_channel": 0,
-    "context_text": "<B> we just went down to myrtle beach and he was looking for real estate because my parents are retiring soon they're looking { to } / <A> [ yeah ] / <B> get some you know hobbies cause they they own and run a business together so { they're } / <A> [ oh ] / <B> obviously you know very involved through that but they're really / <A> yeah / <B> looking to do some things outside of it { so } / <A> [ sure ]",
+    "context_text": "<B> we just went down to myrtle beach and he was looking for real estate because my parents are retiring soon they're looking { to } / <A> [ yeah ] / <B> get some you know hobbies cause they they own and run a business together so { they're } / <A> [ oh ] / <B> obviously you know very involved through that but they're really / <A> okay / <B> looking to do some things outside of it { so } / <A> [ sure ]",
     "context_start": 453.01,
     "context_end": 468.197625,
     "feedback": [
         {
-            "name": "spontD_397_yeah",
+            "name": "spontB_094_yeah",
             "start": 457.86,
-            "end": 458.241375,
+            "end": 458.196,
             "token": "yeah"
         },
         {
@@ -18,10 +18,10 @@
             "token": "oh"
         },
         {
-            "name": "spontF_142_yeah",
+            "name": "spontC_020_okay",
             "start": 465.05,
-            "end": 465.515125,
-            "token": "yeah"
+            "end": 465.52500000000003,
+            "token": "okay"
         },
         {
             "name": "sun_051_sure",

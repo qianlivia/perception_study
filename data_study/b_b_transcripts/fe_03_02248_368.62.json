@@ -1,14 +1,14 @@
 {
     "name": "fe_03_02248",
     "context_channel": 0,
-    "context_text": "<B> i know right i mean i just remember yeah i don't who knows why that is { but } / <A> [ yeah ] / <B> i remember the the snows being really like really consistent and it was snowy for you know a good three months at least but { now it's } / <A> [ right ] / <B> like ah kind of slushy kind { of } / <A> [ yeah ] / <B> not you know / <A> okay / <B> it's gross you'd rather just you know it just snow and get it over with and { then it get warm } / <A> [ yeah ]",
+    "context_text": "<B> i know right i mean i just remember yeah i don't who knows why that is { but } / <A> [ yeah ] / <B> i remember the the snows being really like really consistent and it was snowy for you know a good three months at least but { now it's } / <A> [ right ] / <B> like ah kind of slushy kind { of } / <A> [ yeah ] / <B> not you know / <A> yeah / <B> it's gross you'd rather just you know it just snow and get it over with and { then it get warm } / <A> [ right ]",
     "context_start": 368.62,
-    "context_end": 387.38,
+    "context_end": 387.23,
     "feedback": [
         {
-            "name": "spontC_053_yeah",
+            "name": "spontE_067_yeah",
             "start": 372.39,
-            "end": 372.889125,
+            "end": 372.984875,
             "token": "yeah"
         },
         {
@@ -18,22 +18,22 @@
             "token": "right"
         },
         {
-            "name": "spontA_195_yeah",
+            "name": "spontB_381_yeah",
             "start": 381.24,
-            "end": 381.672625,
+            "end": 381.689375,
             "token": "yeah"
         },
         {
-            "name": "spontB_028_okay",
+            "name": "spontB_276_yeah",
             "start": 382.57,
-            "end": 383.00325,
-            "token": "okay"
+            "end": 382.881875,
+            "token": "yeah"
         },
         {
-            "name": "spontF_140_yeah",
+            "name": "PR_043_right",
             "start": 386.57,
-            "end": 387.38,
-            "token": "yeah"
+            "end": 387.23,
+            "token": "right"
         }
     ]
 }

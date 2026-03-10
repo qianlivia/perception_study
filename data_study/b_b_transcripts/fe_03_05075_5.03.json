@@ -1,27 +1,27 @@
 {
     "name": "fe_03_05075",
     "context_channel": 1,
-    "context_text": "<A> just a minute joe so uh yeah i guess we're supposed to talk about uh they like to talk about nine eleven / <B> okay / <A> indirectly of course on this / <B> oh / <A> thing / <B> okay / <A> because it just seems like uh this is like the third this is the third time of doing it and uh each time they think they uh they're talking about uh uh some kind of terrorist events / <B> yeah",
+    "context_text": "<A> just a minute joe so uh yeah i guess we're supposed to talk about uh they like to talk about nine eleven / <B> yeah / <A> indirectly of course on this / <B> yeah / <A> thing / <B> ooh / <A> because it just seems like uh this is like the third this is the third time of doing it and uh each time they think they uh they're talking about uh uh some kind of terrorist events / <B> yeah",
     "context_start": 5.03,
     "context_end": 30.656125000000003,
     "feedback": [
         {
-            "name": "spontB_028_okay",
+            "name": "spontB_373_yeah",
             "start": 13.27,
-            "end": 13.703249999999999,
-            "token": "okay"
+            "end": 13.6815,
+            "token": "yeah"
         },
         {
-            "name": "spontF_109_oh",
+            "name": "spontD_142_yeah",
             "start": 15.22,
-            "end": 15.5595,
-            "token": "oh"
+            "end": 15.69725,
+            "token": "yeah"
         },
         {
-            "name": "spontC_020_okay",
+            "name": "spontE_237_ooh",
             "start": 16.8,
-            "end": 17.275000000000002,
-            "token": "okay"
+            "end": 17.17725,
+            "token": "ooh"
         },
         {
             "name": "spontC_395_yeah",

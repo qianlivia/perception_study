@@ -1,14 +1,14 @@
 {
     "name": "fe_03_00648",
     "context_channel": 1,
-    "context_text": "<A> um yes and i forget who c oh i know i was i was on my way to a county about twenty five miles and when i had my radio on / <B> uh-huh / <A> and they were talking about it but i didn't think it was a real thing you know / <B> right / <A> because i think when i when it was on there it was when uh the plane hit the second building / <B> oh / <A> and he an the weather i mean the news guy was saying that another plane had hit the other tower and i wasn't sure what he was talking about / <B> wow / <A> and uh you know i listened a bit and then when i got back i stopped at my sister's and she was watching it on tv / <B> uh-huh / <A> but i didn't know you know what it was or anything till i got back because i thought it was just some kind of story on the radio i didn't think it was something was really happening / <B> yeah / <A> but no i i don't guess it's affected my life much except um really don't want to do again and / <B> right / <A> then after every time you hear a plane / <B> mmm",
+    "context_text": "<A> um yes and i forget who c oh i know i was i was on my way to a county about twenty five miles and when i had my radio on / <B> uh-huh / <A> and they were talking about it but i didn't think it was a real thing you know / <B> right / <A> because i think when i when it was on there it was when uh the plane hit the second building / <B> yeah / <A> and he an the weather i mean the news guy was saying that another plane had hit the other tower and i wasn't sure what he was talking about / <B> ooh / <A> and uh you know i listened a bit and then when i got back i stopped at my sister's and she was watching it on tv / <B> uh-huh / <A> but i didn't know you know what it was or anything till i got back because i thought it was just some kind of story on the radio i didn't think it was something was really happening / <B> yeah / <A> but no i i don't guess it's affected my life much except um really don't want to do again and / <B> right / <A> then after every time you hear a plane / <B> ooh",
     "context_start": 344.98,
-    "context_end": 407.20124999999996,
+    "context_end": 407.153125,
     "feedback": [
         {
-            "name": "spontD_405_uh-huh",
+            "name": "spontC_133_uh-huh",
             "start": 355.76,
-            "end": 356.17875,
+            "end": 356.2205,
             "token": "uh-huh"
         },
         {
@@ -18,21 +18,21 @@
             "token": "right"
         },
         {
-            "name": "spontF_109_oh",
+            "name": "spontB_373_yeah",
             "start": 367.5,
-            "end": 367.8395,
-            "token": "oh"
+            "end": 367.9115,
+            "token": "yeah"
         },
         {
-            "name": "PS_155_wow",
+            "name": "PS_109_ooh",
             "start": 377.26,
-            "end": 379.055,
-            "token": "wow"
+            "end": 378.837125,
+            "token": "ooh"
         },
         {
-            "name": "spontE_032_uh-huh",
+            "name": "spontF_286_uh-huh",
             "start": 385.02,
-            "end": 385.590625,
+            "end": 385.5435,
             "token": "uh-huh"
         },
         {
@@ -42,16 +42,16 @@
             "token": "yeah"
         },
         {
-            "name": "sun1_032_right",
+            "name": "PR_043_right",
             "start": 402.99,
-            "end": 403.833375,
+            "end": 403.65000000000003,
             "token": "right"
         },
         {
-            "name": "spontC_137_mmm",
+            "name": "NegS_038_ooh",
             "start": 406.14,
-            "end": 407.20124999999996,
-            "token": "mmm"
+            "end": 407.153125,
+            "token": "ooh"
         }
     ]
 }

@@ -1,32 +1,32 @@
 {
     "name": "fe_03_00565",
     "context_channel": 0,
-    "context_text": "<B> well i think that's like um when they do uh i was watching a little bit of the other night called meet the folk / <A> yeah / <B> with the um son and had all these different women and the son / <A> oh / <B> uh you know let the parents pick who he was going to get rid of you know { he would } / <A> [ right ] / <B> actually go on the date / <A> yeah",
+    "context_text": "<B> well i think that's like um when they do uh i was watching a little bit of the other night called meet the folk / <A> yeah / <B> with the um son and had all these different women and the son / <A> yeah / <B> uh you know let the parents pick who he was going to get rid of you know { he would } / <A> [ yeah ] / <B> actually go on the date / <A> yeah",
     "context_start": 462.41,
-    "context_end": 480.97025,
+    "context_end": 480.9515,
     "feedback": [
         {
-            "name": "spontB_297_yeah",
+            "name": "spontF_221_yeah",
             "start": 468.68,
-            "end": 469.124,
+            "end": 469.16562500000003,
             "token": "yeah"
         },
         {
-            "name": "spontF_109_oh",
+            "name": "spontA_340_yeah",
             "start": 474.47,
-            "end": 474.8095,
-            "token": "oh"
+            "end": 474.89250000000004,
+            "token": "yeah"
         },
         {
-            "name": "PR_043_right",
+            "name": "spontB_226_yeah",
             "start": 478.49,
-            "end": 479.15000000000003,
-            "token": "right"
+            "end": 478.939,
+            "token": "yeah"
         },
         {
-            "name": "spontF_659_yeah",
+            "name": "spontB_373_yeah",
             "start": 480.54,
-            "end": 480.97025,
+            "end": 480.9515,
             "token": "yeah"
         }
     ]

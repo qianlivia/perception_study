@@ -1,20 +1,20 @@
 {
     "name": "fe_03_04805",
     "context_channel": 1,
-    "context_text": "<A> yeah but here's the thing you g you go outside the city you go across the border into like jersey or pennsylvania / <B> uh-huh / <A> and there's a whole industry set up for cigarettes just uh so you can bypass the city taxes / <B> wow / <A> though they're supposed to be cracking down on that and making it a uniform price in most of the northeast i think they're having a little problem with the other states because { it } / <B> [ yeah ] / <A> would interfere with you know like pennsylvania compared to new york is uh maybe a fifth of the size in population / <B> mhm",
+    "context_text": "<A> yeah but here's the thing you g you go outside the city you go across the border into like jersey or pennsylvania / <B> mhm / <A> and there's a whole industry set up for cigarettes just uh so you can bypass the city taxes / <B> wow / <A> though they're supposed to be cracking down on that and making it a uniform price in most of the northeast i think they're having a little problem with the other states because { it } / <B> [ yeah ] / <A> would interfere with you know like pennsylvania compared to new york is uh maybe a fifth of the size in population / <B> uh-huh",
     "context_start": 444.71,
-    "context_end": 476.67825,
+    "context_end": 476.6975,
     "feedback": [
         {
-            "name": "spontC_189_uh-huh",
+            "name": "spontB_351_mhm",
             "start": 450.05,
-            "end": 450.53025,
-            "token": "uh-huh"
+            "end": 450.493375,
+            "token": "mhm"
         },
         {
-            "name": "spontF_097_wow",
+            "name": "PS_023_wow",
             "start": 458.26,
-            "end": 458.704125,
+            "end": 459.04949999999997,
             "token": "wow"
         },
         {
@@ -24,10 +24,10 @@
             "token": "yeah"
         },
         {
-            "name": "spontF_482_mhm",
+            "name": "spontD_040_uh-huh",
             "start": 476.24,
-            "end": 476.67825,
-            "token": "mhm"
+            "end": 476.6975,
+            "token": "uh-huh"
         }
     ]
 }

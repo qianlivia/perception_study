@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04905",
     "context_channel": 1,
-    "context_text": "<A> but then on the next day you might pull over a thousand trucks and end up having ten guys on drugs and it's just / <B> wow / <A> you know and it's and it's more of a far east coast and a far west coast / <B> oh / <A> you know it's it's a lot of the midwestern stuff you don't hear em even talking about it but you get out on the coasts and it seems like the further west you get or the further east you get the filthier / <B> no / <A> the radio gets the cbs / <B> well",
+    "context_text": "<A> but then on the next day you might pull over a thousand trucks and end up having ten guys on drugs and it's just / <B> wow / <A> you know and it's and it's more of a far east coast and a far west coast / <B> yeah / <A> you know it's it's a lot of the midwestern stuff you don't hear em even talking about it but you get out on the coasts and it seems like the further west you get or the further east you get the filthier / <B> wow / <A> the radio gets the cbs / <B> wow",
     "context_start": 474.55,
-    "context_end": 502.36225,
+    "context_end": 502.68175,
     "feedback": [
         {
-            "name": "spontF_097_wow",
+            "name": "PS_023_wow",
             "start": 480.94,
-            "end": 481.384125,
+            "end": 481.7295,
             "token": "wow"
         },
         {
-            "name": "spontF_109_oh",
+            "name": "spontB_373_yeah",
             "start": 487.94,
-            "end": 488.2795,
-            "token": "oh"
+            "end": 488.3515,
+            "token": "yeah"
         },
         {
-            "name": "NR_098_no",
+            "name": "PS_105_wow",
             "start": 499.41,
-            "end": 499.9055,
-            "token": "no"
+            "end": 500.05800000000005,
+            "token": "wow"
         },
         {
-            "name": "spontD_171_well",
+            "name": "PS_031_wow",
             "start": 501.92,
-            "end": 502.36225,
-            "token": "well"
+            "end": 502.68175,
+            "token": "wow"
         }
     ]
 }

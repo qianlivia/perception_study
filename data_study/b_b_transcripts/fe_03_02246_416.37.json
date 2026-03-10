@@ -1,38 +1,38 @@
 {
     "name": "fe_03_02246",
     "context_channel": 0,
-    "context_text": "<B> right and it how many times have you talked to someone and they've said you know i'm going to go on vacation now or i'm you know i'm on my break or whatever and then they say oh no i just go sick and it's the { one } / <A> [ oh ] / <B> time that you really want to enjoy that time off that you have or that whatever you planned / <A> yeah / <B> and then you hear that the person's sick and you say oh no you know you're like oh no / <A> yeah / <B> i i wish you could enjoy the time that you've had planned to take off / <A> yeah / <B> um so maybe { it's you } / <A> [ absolutely ]",
+    "context_text": "<B> right and it how many times have you talked to someone and they've said you know i'm going to go on vacation now or i'm you know i'm on my break or whatever and then they say oh no i just go sick and it's the { one } / <A> [ yeah ] / <B> time that you really want to enjoy that time off that you have or that whatever you planned / <A> yeah / <B> and then you hear that the person's sick and you say oh no you know you're like oh no / <A> yeah / <B> i i wish you could enjoy the time that you've had planned to take off / <A> yeah / <B> um so maybe { it's you } / <A> [ absolutely ]",
     "context_start": 416.37,
-    "context_end": 443.558875,
+    "context_end": 443.862125,
     "feedback": [
         {
-            "name": "spontF_109_oh",
+            "name": "spontB_345_yeah",
             "start": 426.53,
-            "end": 426.86949999999996,
-            "token": "oh"
+            "end": 426.967,
+            "token": "yeah"
         },
         {
-            "name": "spontE_274_yeah",
+            "name": "spontF_641_yeah",
             "start": 430.66,
-            "end": 431.390125,
+            "end": 431.217375,
             "token": "yeah"
         },
         {
-            "name": "spontD_083_yeah",
+            "name": "spontB_313_yeah",
             "start": 435.63,
-            "end": 436.576375,
+            "end": 436.612875,
             "token": "yeah"
         },
         {
-            "name": "spontA_110_yeah",
+            "name": "spontB_132_yeah",
             "start": 439.38,
-            "end": 440.312125,
+            "end": 440.287125,
             "token": "yeah"
         },
         {
-            "name": "sun_036_absolutely",
+            "name": "sun_035_absolutely",
             "start": 442.52,
-            "end": 443.558875,
+            "end": 443.862125,
             "token": "absolutely"
         }
     ]

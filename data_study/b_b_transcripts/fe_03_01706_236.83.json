@@ -1,50 +1,50 @@
 {
     "name": "fe_03_01706",
     "context_channel": 0,
-    "context_text": "<B> we do have some experience at this i mean you look at japan { you look } / <A> [ yeah ] / <B> at germany / <A> yeah / <B> uh you look at south korea / <A> yeah / <B> our military has done this before { and } / <A> [ yeah ] / <B> you know we and we don't stay i mean we stayed in europe because of the threat of russia / <A> yeah / <B> uh but europeans allowed us i mean it wasn't { that they } / <A> [ yeah ] / <B> wanted us out because { we } / <A> [ yeah ] / <B> for a p part of their economy by then / <A> yeah",
+    "context_text": "<B> we do have some experience at this i mean you look at japan { you look } / <A> [ yeah ] / <B> at germany / <A> yeah / <B> uh you look at south korea / <A> yeah / <B> our military has done this before { and } / <A> [ yeah ] / <B> you know we and we don't stay i mean we stayed in europe because of the threat of russia / <A> yeah / <B> uh but europeans allowed us i mean it wasn't { that they } / <A> [ yep ] / <B> wanted us out because { we } / <A> [ yeah ] / <B> for a p part of their economy by then / <A> yeah",
     "context_start": 236.83,
     "context_end": 262.869375,
     "feedback": [
         {
-            "name": "spontF_225_yeah",
+            "name": "spontB_216_yeah",
             "start": 240.17,
-            "end": 240.769625,
+            "end": 240.65875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_275_yeah",
+            "start": 241.65,
+            "end": 242.19400000000002,
             "token": "yeah"
         },
         {
             "name": "spontA_414_yeah",
-            "start": 241.65,
-            "end": 242.12787500000002,
-            "token": "yeah"
-        },
-        {
-            "name": "spontD_180_yeah",
             "start": 243.6,
-            "end": 244.243125,
+            "end": 244.077875,
             "token": "yeah"
         },
         {
-            "name": "PR_040_yeah",
+            "name": "spontF_225_yeah",
             "start": 246.61,
-            "end": 247.2185,
+            "end": 247.20962500000002,
             "token": "yeah"
         },
         {
-            "name": "spontC_319_yeah",
+            "name": "spontB_292_yeah",
             "start": 254.04,
-            "end": 254.52949999999998,
+            "end": 254.61149999999998,
             "token": "yeah"
         },
         {
-            "name": "PR_062_yeah",
+            "name": "PR_027_yep",
             "start": 257.83,
-            "end": 258.34225,
-            "token": "yeah"
+            "end": 258.37275,
+            "token": "yep"
         },
         {
-            "name": "spontD_407_yeah",
+            "name": "spontB_393_yeah",
             "start": 259.73,
-            "end": 260.147625,
+            "end": 260.13275000000004,
             "token": "yeah"
         },
         {

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03675",
     "context_channel": 1,
-    "context_text": "<A> it's there's days where it's really really hot and there's days where it's really really cold and then there's good days but mostly it's hot here / <B> uh-huh / <A> but it's like the humid hot it's not like dry hot like in the desert which is kinda nice cause it's just hot but { you're } / <B> [ mhm ] / <A> not really really sweaty or smell anything like that / <B> no / <A> like here it's like really really humid hot so if you don't have { your } / <B> [ aww ] / <A> ac then i'm pretty / <B> yeah",
+    "context_text": "<A> it's there's days where it's really really hot and there's days where it's really really cold and then there's good days but mostly it's hot here / <B> uh-huh / <A> but it's like the humid hot it's not like dry hot like in the desert which is kinda nice cause it's just hot but { you're } / <B> [ ooh ] / <A> not really really sweaty or smell anything like that / <B> no / <A> like here it's like really really humid hot so if you don't have { your } / <B> [ uh-huh ] / <A> ac then i'm pretty / <B> yeah",
     "context_start": 393.46,
     "context_end": 409.80487500000004,
     "feedback": [
         {
-            "name": "spontF_571_uh-huh",
+            "name": "spontC_189_uh-huh",
             "start": 397.67,
-            "end": 398.207875,
+            "end": 398.15025,
             "token": "uh-huh"
         },
         {
-            "name": "spontC_355_mhm",
+            "name": "PS_186_ooh",
             "start": 402.62,
-            "end": 403.158,
-            "token": "mhm"
+            "end": 403.2085,
+            "token": "ooh"
         },
         {
-            "name": "sun2_045_no",
+            "name": "NR_036_no",
             "start": 404.79,
-            "end": 405.39887500000003,
+            "end": 405.479375,
             "token": "no"
         },
         {
-            "name": "spontF_296_aww",
+            "name": "spontA_290_uh-huh",
             "start": 407.19,
-            "end": 407.775875,
-            "token": "aww"
+            "end": 407.68975,
+            "token": "uh-huh"
         },
         {
             "name": "spontB_016_yeah",

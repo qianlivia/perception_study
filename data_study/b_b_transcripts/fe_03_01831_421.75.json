@@ -1,9 +1,9 @@
 {
     "name": "fe_03_01831",
     "context_channel": 1,
-    "context_text": "<A> i mean then they can i mean they can save you a lot of money too because she doesn't really have the money to be calling home / <B> oh / <A> she doesn't have the money to have a cell phone / <B> what / <A> but i mean she can email for free { you know } / <B> [ yeah ] / <A> and keep in touch with everybody because her parents are here and her family's here / <B> yeah",
+    "context_text": "<A> i mean then they can i mean they can save you a lot of money too because she doesn't really have the money to be calling home / <B> oh / <A> she doesn't have the money to have a cell phone / <B> wow / <A> but i mean she can email for free { you know } / <B> [ yeah ] / <A> and keep in touch with everybody because her parents are here and her family's here / <B> yeah",
     "context_start": 421.75,
-    "context_end": 436.53950000000003,
+    "context_end": 436.479125,
     "feedback": [
         {
             "name": "spontE_15_oh",
@@ -12,10 +12,10 @@
             "token": "oh"
         },
         {
-            "name": "Nu_042_what",
+            "name": "PS_192_wow",
             "start": 429.62,
-            "end": 430.100375,
-            "token": "what"
+            "end": 430.279875,
+            "token": "wow"
         },
         {
             "name": "spontB_297_yeah",
@@ -24,9 +24,9 @@
             "token": "yeah"
         },
         {
-            "name": "spontC_319_yeah",
+            "name": "spontC_346_yeah",
             "start": 436.05,
-            "end": 436.53950000000003,
+            "end": 436.479125,
             "token": "yeah"
         }
     ]

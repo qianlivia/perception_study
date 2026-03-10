@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00606",
     "context_channel": 0,
-    "context_text": "<B> mentioned that you know someone else had mentioned that to me and you know once you think about it there are so many single people and there are so many transitional people / <A> right / <B> oh across the country that um i know i have a i have a single daughter whose in her mid-thirties / <A> uh-huh / <B> and um a lot of times you know she'll show up for the family but y leaves / <A> right / <B> you know works it so that she gets together with a group of single friends who uh maybe their families are not in town close by or / <A> yeah",
+    "context_text": "<B> mentioned that you know someone else had mentioned that to me and you know once you think about it there are so many single people and there are so many transitional people / <A> right / <B> oh across the country that um i know i have a i have a single daughter whose in her mid-thirties / <A> uh-huh / <B> and um a lot of times you know she'll show up for the family but y leaves / <A> right / <B> you know works it so that she gets together with a group of single friends who uh maybe their families are not in town close by or / <A> uh-huh",
     "context_start": 395.99,
-    "context_end": 427.89025,
+    "context_end": 427.91749999999996,
     "feedback": [
         {
             "name": "PR_043_right",
@@ -12,22 +12,22 @@
             "token": "right"
         },
         {
-            "name": "spontE_032_uh-huh",
+            "name": "spontF_286_uh-huh",
             "start": 412.15,
-            "end": 412.720625,
+            "end": 412.6735,
             "token": "uh-huh"
         },
         {
-            "name": "sun1_032_right",
+            "name": "PR_048_right",
             "start": 418.5,
-            "end": 419.343375,
+            "end": 419.135125,
             "token": "right"
         },
         {
-            "name": "spontF_659_yeah",
+            "name": "spontD_040_uh-huh",
             "start": 427.46,
-            "end": 427.89025,
-            "token": "yeah"
+            "end": 427.91749999999996,
+            "token": "uh-huh"
         }
     ]
 }

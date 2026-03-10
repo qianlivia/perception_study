@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03848",
     "context_channel": 0,
-    "context_text": "<B> reader i i was certainly expecting her to say something that was funny because dame edna's ignorant / <A> right / <B> you know what i mean so that's exactly what happened and dame edna said oh you know the only reason to learn spanish is if you want to learn to talk to the help / <A> oh / <B> which if like if if i said that just like a regular { person } / <A> [ gosh ] / <B> it would be one thing but here's this grotesque of a character / <A> right",
+    "context_text": "<B> reader i i was certainly expecting her to say something that was funny because dame edna's ignorant / <A> right / <B> you know what i mean so that's exactly what happened and dame edna said oh you know the only reason to learn spanish is if you want to learn to talk to the help / <A> oh / <B> which if like if if i said that just like a regular { person } / <A> [ wow ] / <B> it would be one thing but here's this grotesque of a character / <A> right",
     "context_start": 170.49,
-    "context_end": 198.078875,
+    "context_end": 198.16,
     "feedback": [
         {
             "name": "sun1_032_right",
@@ -12,21 +12,21 @@
             "token": "right"
         },
         {
-            "name": "spontA_071_oh",
+            "name": "spontA_065_oh",
             "start": 186.12,
-            "end": 186.7375,
+            "end": 186.86025,
             "token": "oh"
         },
         {
-            "name": "PS_102_gosh",
+            "name": "PS_024_wow",
             "start": 192.24,
-            "end": 194.07625000000002,
-            "token": "gosh"
+            "end": 193.76725000000002,
+            "token": "wow"
         },
         {
-            "name": "spontC_360_right",
+            "name": "PR_043_right",
             "start": 197.5,
-            "end": 198.078875,
+            "end": 198.16,
             "token": "right"
         }
     ]

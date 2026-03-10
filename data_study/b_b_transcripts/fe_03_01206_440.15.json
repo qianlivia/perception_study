@@ -1,32 +1,32 @@
 {
     "name": "fe_03_01206",
     "context_channel": 1,
-    "context_text": "<A> i i mean you know like the the part of having a best friend that money can't buy is that like if if you're in trouble like you went bankruptcy { you } / <B> [ uh-huh ] / <A> know your best friend will be the one to pick you up and take him to his home to live with him you know / <B> right / <A> but if you have a million dollars if you have a million dollars and something bad happens you know and that million dollar's gone / <B> aww / <A> you know bad business or something and that million dollar's gone i mean then you have / <B> exactly",
+    "context_text": "<A> i i mean you know like the the part of having a best friend that money can't buy is that like if if you're in trouble like you went bankruptcy { you } / <B> [ mhm ] / <A> know your best friend will be the one to pick you up and take him to his home to live with him you know / <B> right / <A> but if you have a million dollars if you have a million dollars and something bad happens you know and that million dollar's gone / <B> ah / <A> you know bad business or something and that million dollar's gone i mean then you have / <B> exactly",
     "context_start": 440.15,
-    "context_end": 472.253,
+    "context_end": 472.3295,
     "feedback": [
         {
-            "name": "spontE_032_uh-huh",
+            "name": "spontC_314_mhm",
             "start": 449.69,
-            "end": 450.260625,
-            "token": "uh-huh"
+            "end": 450.230875,
+            "token": "mhm"
         },
         {
-            "name": "sun1_032_right",
+            "name": "PR_043_right",
             "start": 456.95,
-            "end": 457.79337499999997,
+            "end": 457.61,
             "token": "right"
         },
         {
-            "name": "spontC_219_aww",
+            "name": "spontF_629_ah",
             "start": 465.22,
-            "end": 465.84925000000004,
-            "token": "aww"
+            "end": 465.88525000000004,
+            "token": "ah"
         },
         {
-            "name": "sun_041_exactly",
+            "name": "sun_026_exactly",
             "start": 471.3,
-            "end": 472.253,
+            "end": 472.3295,
             "token": "exactly"
         }
     ]

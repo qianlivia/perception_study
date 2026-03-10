@@ -1,14 +1,14 @@
 {
     "name": "fe_03_02434",
     "context_channel": 0,
-    "context_text": "<B> yeah it well i mean i don't know it's it's like you said it's hard / <A> yeah / <B> and i finally like dealt with the fact that i have some positive things and going off in myself cause i feel like i have nothing you know / <A> ooh / <B> to show for myself cause all my friends they're like about to graduate from college / <A> hm / <B> and i didn't even finish college / <A> mmm",
+    "context_text": "<B> yeah it well i mean i don't know it's it's like you said it's hard / <A> yeah / <B> and i finally like dealt with the fact that i have some positive things and going off in myself cause i feel like i have nothing you know / <A> ooh / <B> to show for myself cause all my friends they're like about to graduate from college / <A> ooh / <B> and i didn't even finish college / <A> mhm",
     "context_start": 557.07,
-    "context_end": 587.8293749999999,
+    "context_end": 587.886,
     "feedback": [
         {
-            "name": "spontC_365_yeah",
+            "name": "spontD_407_yeah",
             "start": 564.99,
-            "end": 565.493,
+            "end": 565.407625,
             "token": "yeah"
         },
         {
@@ -18,16 +18,16 @@
             "token": "ooh"
         },
         {
-            "name": "spontD_029_hm",
+            "name": "spontB_352_ooh",
             "start": 583.2,
-            "end": 583.9936250000001,
-            "token": "hm"
+            "end": 583.9655,
+            "token": "ooh"
         },
         {
-            "name": "spontA_283_mmm",
+            "name": "spontE_225_mhm",
             "start": 587.42,
-            "end": 587.8293749999999,
-            "token": "mmm"
+            "end": 587.886,
+            "token": "mhm"
         }
     ]
 }

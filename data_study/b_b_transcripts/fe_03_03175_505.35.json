@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03175",
     "context_channel": 1,
-    "context_text": "<A> i was trying to put her cause i just went over a couple of times a day and put her inside or outside to the garage / <B> oh / <A> and so i was trying to take her from inside and put her into the garage and she wouldn't let me near her { and } / <B> [ mhm ] / <A> she'd never been like that before but it's funny she got her hair cut that day / <B> uh-huh / <A> it was so weird like no fur on her / <B> uh-huh",
+    "context_text": "<A> i was trying to put her cause i just went over a couple of times a day and put her inside or outside to the garage / <B> oh / <A> and so i was trying to take her from inside and put her into the garage and she wouldn't let me near her { and } / <B> [ mhm ] / <A> she'd never been like that before but it's funny she got her hair cut that day / <B> mhm / <A> it was so weird like no fur on her / <B> yeah",
     "context_start": 505.35,
-    "context_end": 522.7230000000001,
+    "context_end": 522.667625,
     "feedback": [
         {
             "name": "spontF_109_oh",
@@ -12,22 +12,22 @@
             "token": "oh"
         },
         {
-            "name": "spontA_343_mhm",
+            "name": "spontF_038_mhm",
             "start": 515.03,
-            "end": 515.579625,
+            "end": 515.558875,
             "token": "mhm"
         },
         {
-            "name": "spontC_095_uh-huh",
+            "name": "spontC_314_mhm",
             "start": 519.28,
-            "end": 519.815875,
-            "token": "uh-huh"
+            "end": 519.820875,
+            "token": "mhm"
         },
         {
-            "name": "spontC_136_uh-huh",
+            "name": "spontB_063_yeah",
             "start": 522.22,
-            "end": 522.7230000000001,
-            "token": "uh-huh"
+            "end": 522.667625,
+            "token": "yeah"
         }
     ]
 }

@@ -1,39 +1,39 @@
 {
     "name": "fe_03_03392",
     "context_channel": 0,
-    "context_text": "<B> oh my my problem always has been that they come in packs like you know i i last year for instance um i met somebody on a softball team / <A> oh / <B> and i thought okay well at that point in time he seemed okay { and } / <A> [ mhm ] / <B> then as friends brought other guys around all of a sudden i realized that i was extremely desperate when i thought he was okay / <A> right / <B> and i start to ante up and then that's when i get myself into trouble it's like i i don't know if / <A> right / <B> if you are surrounded by friends who like are setting you up here and there and you're just like this is so tragic and then { all } / <A> [ oh ]",
+    "context_text": "<B> oh my my problem always has been that they come in packs like you know i i last year for instance um i met somebody on a softball team / <A> uh-huh / <B> and i thought okay well at that point in time he seemed okay { and } / <A> [ yeah ] / <B> then as friends brought other guys around all of a sudden i realized that i was extremely desperate when i thought he was okay / <A> right / <B> and i start to ante up and then that's when i get myself into trouble it's like i i don't know if / <A> right / <B> if you are surrounded by friends who like are setting you up here and there and you're just like this is so tragic and then { all } / <A> [ yeah ]",
     "context_start": 377.9,
-    "context_end": 410.025125,
+    "context_end": 409.87962500000003,
     "feedback": [
         {
-            "name": "spontF_109_oh",
+            "name": "spontA_254_uh-huh",
             "start": 385.75,
-            "end": 386.0895,
-            "token": "oh"
+            "end": 386.1485,
+            "token": "uh-huh"
         },
         {
-            "name": "spontC_355_mhm",
+            "name": "spontB_373_yeah",
             "start": 389.64,
-            "end": 390.178,
-            "token": "mhm"
-        },
-        {
-            "name": "spontC_360_right",
-            "start": 398.0,
-            "end": 398.578875,
-            "token": "right"
+            "end": 390.0515,
+            "token": "yeah"
         },
         {
             "name": "sun1_032_right",
-            "start": 403.36,
-            "end": 404.203375,
+            "start": 398.0,
+            "end": 398.843375,
             "token": "right"
         },
         {
-            "name": "spontE_285_oh",
+            "name": "PR_043_right",
+            "start": 403.36,
+            "end": 404.02000000000004,
+            "token": "right"
+        },
+        {
+            "name": "spontB_385_yeah",
             "start": 409.43,
-            "end": 410.025125,
-            "token": "oh"
+            "end": 409.87962500000003,
+            "token": "yeah"
         }
     ]
 }

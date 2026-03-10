@@ -1,20 +1,20 @@
 {
     "name": "fe_03_02217",
     "context_channel": 1,
-    "context_text": "<A> yeah we have uh a real good mexican restaurant they call las carretas here / <B> uh-huh / <A> and it has a lot of uh style i've gone in with my church group and uh i i don't even know i think they go there because they do serve drinks in one part but we did we went in there as a group and when you go in they've got all this me uh spanish music going you know and it really makes you feel like you want to do a la cucaracha or whatever { it } / <B> [ yeah ] / <A> is they do but um uh my uh friends um well they were treating me / <B> oh / <A> so i ordered something that i thought i was going just get one of those um oh deals you know where there's a rolled-up tortilla and a bunch of stuff in it you know and i thought that's what i was ordering / <B> uh-huh",
+    "context_text": "<A> yeah we have uh a real good mexican restaurant they call las carretas here / <B> yeah / <A> and it has a lot of uh style i've gone in with my church group and uh i i don't even know i think they go there because they do serve drinks in one part but we did we went in there as a group and when you go in they've got all this me uh spanish music going you know and it really makes you feel like you want to do a la cucaracha or whatever { it } / <B> [ yeah ] / <A> is they do but um uh my uh friends um well they were treating me / <B> oh / <A> so i ordered something that i thought i was going just get one of those um oh deals you know where there's a rolled-up tortilla and a bunch of stuff in it you know and i thought that's what i was ordering / <B> yeah",
     "context_start": 396.21,
-    "context_end": 442.690625,
+    "context_end": 442.6625,
     "feedback": [
         {
-            "name": "spontA_290_uh-huh",
+            "name": "spontB_321_yeah",
             "start": 401.17,
-            "end": 401.66975,
-            "token": "uh-huh"
+            "end": 401.616125,
+            "token": "yeah"
         },
         {
-            "name": "spontB_100_yeah",
+            "name": "sun1_020_yeah",
             "start": 420.96,
-            "end": 421.63424999999995,
+            "end": 421.80699999999996,
             "token": "yeah"
         },
         {
@@ -24,10 +24,10 @@
             "token": "oh"
         },
         {
-            "name": "spontD_047_uh-huh",
+            "name": "spontA_340_yeah",
             "start": 442.24,
-            "end": 442.690625,
-            "token": "uh-huh"
+            "end": 442.6625,
+            "token": "yeah"
         }
     ]
 }

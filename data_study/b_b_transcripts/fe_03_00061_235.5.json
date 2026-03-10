@@ -1,38 +1,38 @@
 {
     "name": "fe_03_00061",
     "context_channel": 1,
-    "context_text": "<A> um maybe breath hm you couldn't explain how it's just one of it i think it's pretty um maybe if if they were just gossiping / <B> uh-huh / <A> but not being very not being in an ego way / <B> yeah / <A> okay and maybe it's okay / <B> oh / <A> and drinking from time to oh excessively / <B> mhm / <A> e e everything could to something i think even gossiping / <B> yeah",
+    "context_text": "<A> um maybe breath hm you couldn't explain how it's just one of it i think it's pretty um maybe if if they were just gossiping / <B> uh-huh / <A> but not being very not being in an ego way / <B> yeah / <A> okay and maybe it's okay / <B> yeah / <A> and drinking from time to oh excessively / <B> mhm / <A> e e everything could to something i think even gossiping / <B> yeah",
     "context_start": 235.5,
-    "context_end": 265.09025,
+    "context_end": 265.127,
     "feedback": [
         {
-            "name": "spontE_065_uh-huh",
+            "name": "spontD_040_uh-huh",
             "start": 249.47,
-            "end": 249.914375,
+            "end": 249.9275,
             "token": "uh-huh"
         },
         {
-            "name": "spontF_300_yeah",
+            "name": "spontD_024_yeah",
             "start": 254.36,
-            "end": 254.850625,
+            "end": 254.78012500000003,
             "token": "yeah"
         },
         {
-            "name": "spontF_109_oh",
+            "name": "spontB_373_yeah",
             "start": 256.4,
-            "end": 256.73949999999996,
-            "token": "oh"
+            "end": 256.81149999999997,
+            "token": "yeah"
         },
         {
-            "name": "spontC_328_mhm",
+            "name": "spontC_235_mhm",
             "start": 259.99,
-            "end": 260.45025,
+            "end": 260.44175,
             "token": "mhm"
         },
         {
-            "name": "spontD_140_yeah",
+            "name": "spontB_186_yeah",
             "start": 264.55,
-            "end": 265.09025,
+            "end": 265.127,
             "token": "yeah"
         }
     ]

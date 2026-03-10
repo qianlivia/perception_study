@@ -1,15 +1,15 @@
 {
     "name": "fe_03_02010",
     "context_channel": 0,
-    "context_text": "<B> yeah and i did tech uh tech support for vario um their web their business web site / <A> aww / <B> and such so i worked a little bit with html um did a lot of hardware work / <A> yeah / <B> and did uh i started my computer um support field by working for aol i knew nothing about computers / <A> yeah / <B> until i started working for them / <A> yeah",
+    "context_text": "<B> yeah and i did tech uh tech support for vario um their web their business web site / <A> oh / <B> and such so i worked a little bit with html um did a lot of hardware work / <A> yeah / <B> and did uh i started my computer um support field by working for aol i knew nothing about computers / <A> yeah / <B> until i started working for them / <A> yeah",
     "context_start": 415.52,
-    "context_end": 451.10312500000003,
+    "context_end": 451.08250000000004,
     "feedback": [
         {
-            "name": "spontF_296_aww",
+            "name": "spontB_181_oh",
             "start": 423.42,
-            "end": 424.005875,
-            "token": "aww"
+            "end": 424.022375,
+            "token": "oh"
         },
         {
             "name": "spontF_295_yeah",
@@ -24,9 +24,9 @@
             "token": "yeah"
         },
         {
-            "name": "spontE_355_yeah",
+            "name": "spontA_340_yeah",
             "start": 450.66,
-            "end": 451.10312500000003,
+            "end": 451.08250000000004,
             "token": "yeah"
         }
     ]

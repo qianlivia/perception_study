@@ -1,14 +1,14 @@
 {
     "name": "fe_03_04344",
     "context_channel": 0,
-    "context_text": "<B> i think it would depend on whether or not i could explain beforehand { to } / <A> [ mhm ] / <B> my best friend why i was doing what i was doing / <A> yeah / <B> and i would have to figure out some way in which i could compensate her and her family / <A> oh / <B> with my ah winnings if i decided to accept them / <A> yeah / <B> b but ah ah i'm not sure i would / <A> yeah",
+    "context_text": "<B> i think it would depend on whether or not i could explain beforehand { to } / <A> [ mhm ] / <B> my best friend why i was doing what i was doing / <A> yeah / <B> and i would have to figure out some way in which i could compensate her and her family / <A> uh-huh / <B> with my ah winnings if i decided to accept them / <A> yeah / <B> b but ah ah i'm not sure i would / <A> yeah",
     "context_start": 14.61,
-    "context_end": 47.754000000000005,
+    "context_end": 47.753125000000004,
     "feedback": [
         {
-            "name": "spontA_075_mhm",
+            "name": "spontA_120_mhm",
             "start": 19.65,
-            "end": 20.258249999999997,
+            "end": 20.104875,
             "token": "mhm"
         },
         {
@@ -18,21 +18,21 @@
             "token": "yeah"
         },
         {
-            "name": "spontF_109_oh",
+            "name": "spontC_189_uh-huh",
             "start": 35.77,
-            "end": 36.109500000000004,
-            "token": "oh"
+            "end": 36.25025,
+            "token": "uh-huh"
         },
         {
-            "name": "spontA_414_yeah",
+            "name": "spontD_024_yeah",
             "start": 43.96,
-            "end": 44.437875,
+            "end": 44.380125,
             "token": "yeah"
         },
         {
-            "name": "spontB_297_yeah",
+            "name": "spontE_355_yeah",
             "start": 47.31,
-            "end": 47.754000000000005,
+            "end": 47.753125000000004,
             "token": "yeah"
         }
     ]

@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03246",
     "context_channel": 0,
-    "context_text": "<B> um well one one of the parts also was you know how are we how have we been affected by the um / <A> right / <B> ah by the the government er corporate fraud mm the biggest um my biggest effect is that i live in california / <A> uh-huh / <B> and um the sky rocketing um electrical rates were just i mean just devastating to my state and as well as to my personal pocket book / <A> yeah / <B> so that was how i was affected by it how i think government can help ah prevent all of the fraud and so forth i'm not a firm believer in privatizing everything i think that um i think that when the government has some control over regulations and overseeing that / <A> mhm / <B> then they could prevent some of the fraud that that occurs um that's sort of one angle that { because } / <A> [ mhm ]",
+    "context_text": "<B> um well one one of the parts also was you know how are we how have we been affected by the um / <A> right / <B> ah by the the government er corporate fraud mm the biggest um my biggest effect is that i live in california / <A> mhm / <B> and um the sky rocketing um electrical rates were just i mean just devastating to my state and as well as to my personal pocket book / <A> yeah / <B> so that was how i was affected by it how i think government can help ah prevent all of the fraud and so forth i'm not a firm believer in privatizing everything i think that um i think that when the government has some control over regulations and overseeing that / <A> mhm / <B> then they could prevent some of the fraud that that occurs um that's sort of one angle that { because } / <A> [ mhm ]",
     "context_start": 20.78,
-    "context_end": 80.365,
+    "context_end": 80.28587499999999,
     "feedback": [
         {
             "name": "sun1_032_right",
@@ -12,27 +12,27 @@
             "token": "right"
         },
         {
-            "name": "spontC_207_uh-huh",
+            "name": "spontA_120_mhm",
             "start": 36.35,
-            "end": 36.830875,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontB_379_yeah",
-            "start": 47.63,
-            "end": 48.133875,
-            "token": "yeah"
-        },
-        {
-            "name": "spontA_390_mhm",
-            "start": 69.98,
-            "end": 70.752125,
+            "end": 36.804875,
             "token": "mhm"
         },
         {
-            "name": "spontC_350_mhm",
+            "name": "spontC_346_yeah",
+            "start": 47.63,
+            "end": 48.059125,
+            "token": "yeah"
+        },
+        {
+            "name": "sun_012_mhm",
+            "start": 69.98,
+            "end": 70.988375,
+            "token": "mhm"
+        },
+        {
+            "name": "spontB_240_mhm",
             "start": 79.8,
-            "end": 80.365,
+            "end": 80.28587499999999,
             "token": "mhm"
         }
     ]

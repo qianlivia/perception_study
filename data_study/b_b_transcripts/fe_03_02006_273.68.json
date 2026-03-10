@@ -1,9 +1,9 @@
 {
     "name": "fe_03_02006",
     "context_channel": 1,
-    "context_text": "<A> i mean i i haven't heard i haven't heard her even get a slap on the wrist i know her stuff is still in kmart / <B> yeah / <A> and people still buy it so obviously you know it's it's just i don't know i don't know if this has to be regulated in some way or stiffer penalties or stiffer fines or something but / <B> right / <A> does it really work or doesn't it / <B> yeah / <A> that that's my question / <B> uh-huh / <A> and it basically affects me to the point where if if i get a uh annual performance review and i get a raise do i want to dump some of that money into my 401k or do i want to buy more stock in the company but then how i do know that's safe / <B> right",
+    "context_text": "<A> i mean i i haven't heard i haven't heard her even get a slap on the wrist i know her stuff is still in kmart / <B> yeah / <A> and people still buy it so obviously you know it's it's just i don't know i don't know if this has to be regulated in some way or stiffer penalties or stiffer fines or something but / <B> right / <A> does it really work or doesn't it / <B> yeah / <A> that that's my question / <B> yeah / <A> and it basically affects me to the point where if if i get a uh annual performance review and i get a raise do i want to dump some of that money into my 401k or do i want to buy more stock in the company but then how i do know that's safe / <B> right",
     "context_start": 273.68,
-    "context_end": 312.02887499999997,
+    "context_end": 312.085125,
     "feedback": [
         {
             "name": "spontB_016_yeah",
@@ -12,27 +12,27 @@
             "token": "yeah"
         },
         {
-            "name": "PR_043_right",
+            "name": "sun_028_right",
             "start": 290.8,
-            "end": 291.46000000000004,
+            "end": 291.529375,
             "token": "right"
         },
         {
-            "name": "spontF_295_yeah",
+            "name": "spontF_659_yeah",
             "start": 293.01,
-            "end": 293.528375,
+            "end": 293.44025,
             "token": "yeah"
         },
         {
-            "name": "spontD_047_uh-huh",
+            "name": "spontA_340_yeah",
             "start": 295.43,
-            "end": 295.880625,
-            "token": "uh-huh"
+            "end": 295.8525,
+            "token": "yeah"
         },
         {
-            "name": "spontC_360_right",
+            "name": "PR_048_right",
             "start": 311.45,
-            "end": 312.02887499999997,
+            "end": 312.085125,
             "token": "right"
         }
     ]

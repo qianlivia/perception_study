@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00977",
     "context_channel": 0,
-    "context_text": "<B> um i'm line in in line with you i was i don't think that we're going to be able to resolve this until we did have an all out war and go after saddam hussein / <A> right / <B> and that's most unfortunate but the attack has been made on the us and i don't think that we'll ever be able to rest easy again / <A> right / <B> because we know that we're all vulnerable / <A> right / <B> until we let people like him know that we are serious in defending our country from these terrorists / <A> right",
+    "context_text": "<B> um i'm line in in line with you i was i don't think that we're going to be able to resolve this until we did have an all out war and go after saddam hussein / <A> right / <B> and that's most unfortunate but the attack has been made on the us and i don't think that we'll ever be able to rest easy again / <A> right / <B> because we know that we're all vulnerable / <A> right / <B> until we let people like him know that we are serious in defending our country from these terrorists / <A> wow",
     "context_start": 75.63,
-    "context_end": 112.35425000000001,
+    "context_end": 112.208,
     "feedback": [
         {
-            "name": "PR_043_right",
+            "name": "PR_048_right",
             "start": 87.43,
-            "end": 88.09,
-            "token": "right"
-        },
-        {
-            "name": "sun1_032_right",
-            "start": 99.8,
-            "end": 100.64337499999999,
+            "end": 88.06512500000001,
             "token": "right"
         },
         {
             "name": "sun1_029_right",
-            "start": 102.47,
-            "end": 103.16199999999999,
+            "start": 99.8,
+            "end": 100.49199999999999,
             "token": "right"
         },
         {
             "name": "sun1_031_right",
-            "start": 111.56,
-            "end": 112.35425000000001,
+            "start": 102.47,
+            "end": 103.26425,
             "token": "right"
+        },
+        {
+            "name": "PS_105_wow",
+            "start": 111.56,
+            "end": 112.208,
+            "token": "wow"
         }
     ]
 }

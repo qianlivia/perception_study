@@ -1,9 +1,9 @@
 {
     "name": "fe_03_01761",
     "context_channel": 1,
-    "context_text": "<A> yeah definitely to the world / <B> yeah / <A> i i think that they're just waiting / <B> yeah / <A> um i you know maybe not soon that they will do anything soon but i'm sure that soon enough they will do something to either us or to south korea / <B> oh / <A> or one of their neighboring states / <B> yeah",
+    "context_text": "<A> yeah definitely to the world / <B> yeah / <A> i i think that they're just waiting / <B> yeah / <A> um i you know maybe not soon that they will do anything soon but i'm sure that soon enough they will do something to either us or to south korea / <B> right / <A> or one of their neighboring states / <B> right",
     "context_start": 35.28,
-    "context_end": 51.082,
+    "context_end": 51.178875000000005,
     "feedback": [
         {
             "name": "spontB_016_yeah",
@@ -12,22 +12,22 @@
             "token": "yeah"
         },
         {
-            "name": "spontE_067_yeah",
+            "name": "spontB_379_yeah",
             "start": 40.93,
-            "end": 41.524875,
+            "end": 41.433875,
             "token": "yeah"
         },
         {
-            "name": "spontC_109_oh",
+            "name": "sun1_032_right",
             "start": 48.73,
-            "end": 49.294999999999995,
-            "token": "oh"
+            "end": 49.573375,
+            "token": "right"
         },
         {
-            "name": "spontA_356_yeah",
+            "name": "spontC_360_right",
             "start": 50.6,
-            "end": 51.082,
-            "token": "yeah"
+            "end": 51.178875000000005,
+            "token": "right"
         }
     ]
 }

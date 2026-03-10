@@ -3,24 +3,24 @@
     "context_channel": 1,
     "context_text": "<A> uh terrible / <B> right / <A> um i um feel strongly about it { um } / <B> [ right ] / <A> in fact i strong enough that i vote and i vote along one or two lines { of the } / <B> [ right ]",
     "context_start": 294.89,
-    "context_end": 304.78000000000003,
+    "context_end": 304.698875,
     "feedback": [
         {
-            "name": "spontC_360_right",
-            "start": 296.01,
-            "end": 296.588875,
-            "token": "right"
-        },
-        {
             "name": "sun1_032_right",
-            "start": 299.48,
-            "end": 300.323375,
+            "start": 296.01,
+            "end": 296.85337499999997,
             "token": "right"
         },
         {
             "name": "PR_043_right",
+            "start": 299.48,
+            "end": 300.14000000000004,
+            "token": "right"
+        },
+        {
+            "name": "spontC_360_right",
             "start": 304.12,
-            "end": 304.78000000000003,
+            "end": 304.698875,
             "token": "right"
         }
     ]

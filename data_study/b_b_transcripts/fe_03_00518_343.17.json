@@ -1,20 +1,20 @@
 {
     "name": "fe_03_00518",
     "context_channel": 0,
-    "context_text": "<B> very very very many most time it's something i said and my mother told me how dare you / <A> aww / <B> and i was just like i had no idea it affected you in that way / <A> uh-huh / <B> or that it bothered you because it's also uh um a way that people feel about how they are respected / <A> right / <B> and they just don't appreciate other people saying things that even have nothing to do with them except for the fact that it made they may be related / <A> right",
+    "context_text": "<B> very very very many most time it's something i said and my mother told me how dare you / <A> uh-huh / <B> and i was just like i had no idea it affected you in that way / <A> uh-huh / <B> or that it bothered you because it's also uh um a way that people feel about how they are respected / <A> right / <B> and they just don't appreciate other people saying things that even have nothing to do with them except for the fact that it made they may be related / <A> right",
     "context_start": 343.17,
-    "context_end": 376.71887499999997,
+    "context_end": 376.8,
     "feedback": [
         {
-            "name": "spontF_363_aww",
+            "name": "spontF_012_uh-huh",
             "start": 351.25,
-            "end": 351.822625,
-            "token": "aww"
+            "end": 351.823625,
+            "token": "uh-huh"
         },
         {
-            "name": "spontF_359_uh-huh",
+            "name": "spontA_290_uh-huh",
             "start": 357.14,
-            "end": 357.79224999999997,
+            "end": 357.63975,
             "token": "uh-huh"
         },
         {
@@ -24,9 +24,9 @@
             "token": "right"
         },
         {
-            "name": "spontC_360_right",
+            "name": "PR_043_right",
             "start": 376.14,
-            "end": 376.71887499999997,
+            "end": 376.8,
             "token": "right"
         }
     ]

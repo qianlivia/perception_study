@@ -1,15 +1,15 @@
 {
     "name": "fe_03_03308",
     "context_channel": 0,
-    "context_text": "<B> have i have a friend that is married to man that is his family is from that area / <A> mhm / <B> not actually iraq but they have similar ideals and cultures / <A> right / <B> and it is true that they feel women are worthless / <A> exactly / <B> and uh now he doesn't he's / <A> right",
+    "context_text": "<B> have i have a friend that is married to man that is his family is from that area / <A> oh / <B> not actually iraq but they have similar ideals and cultures / <A> right / <B> and it is true that they feel women are worthless / <A> exactly / <B> and uh now he doesn't he's / <A> right",
     "context_start": 483.71,
-    "context_end": 501.91887499999996,
+    "context_end": 501.975125,
     "feedback": [
         {
-            "name": "spontA_400_mhm",
+            "name": "spontF_514_oh",
             "start": 489.83,
-            "end": 490.65049999999997,
-            "token": "mhm"
+            "end": 490.615125,
+            "token": "oh"
         },
         {
             "name": "PR_043_right",
@@ -18,15 +18,15 @@
             "token": "right"
         },
         {
-            "name": "sun_016_exactly",
+            "name": "sun_026_exactly",
             "start": 499.03,
-            "end": 500.0635,
+            "end": 500.05949999999996,
             "token": "exactly"
         },
         {
-            "name": "spontC_360_right",
+            "name": "PR_048_right",
             "start": 501.34,
-            "end": 501.91887499999996,
+            "end": 501.975125,
             "token": "right"
         }
     ]

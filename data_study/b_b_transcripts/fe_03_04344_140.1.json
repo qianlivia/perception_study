@@ -1,21 +1,21 @@
 {
     "name": "fe_03_04344",
     "context_channel": 0,
-    "context_text": "<B> but i'm thinking because my best friend had so many um problems with her she had a a an incredibly ill child who required tremendous tremendous financial you know { b } / <A> [ uh-huh ] / <B> um if i could aid her and make life easier for her / <A> mhm / <B> but still maintain contact not necessarily speaking / <A> yeah / <B> but maintain contact with her / <A> mhm / <B> that would be acceptable but um a a to just eliminate her immediately from my life / <A> yeah / <B> no no / <A> uh-huh",
+    "context_text": "<B> but i'm thinking because my best friend had so many um problems with her she had a a an incredibly ill child who required tremendous tremendous financial you know { b } / <A> [ uh-huh ] / <B> um if i could aid her and make life easier for her / <A> yeah / <B> but still maintain contact not necessarily speaking / <A> yeah / <B> but maintain contact with her / <A> uh-huh / <B> that would be acceptable but um a a to just eliminate her immediately from my life / <A> mhm / <B> no no / <A> oh",
     "context_start": 140.1,
-    "context_end": 179.700625,
+    "context_end": 179.713125,
     "feedback": [
         {
-            "name": "spontD_040_uh-huh",
+            "name": "spontF_286_uh-huh",
             "start": 156.45,
-            "end": 156.9075,
+            "end": 156.9735,
             "token": "uh-huh"
         },
         {
-            "name": "spontC_327_mhm",
+            "name": "spontB_373_yeah",
             "start": 162.57,
-            "end": 163.08225,
-            "token": "mhm"
+            "end": 162.98149999999998,
+            "token": "yeah"
         },
         {
             "name": "spontB_016_yeah",
@@ -24,22 +24,22 @@
             "token": "yeah"
         },
         {
-            "name": "spontD_030_mhm",
+            "name": "spontD_040_uh-huh",
             "start": 169.34,
-            "end": 169.838875,
+            "end": 169.7975,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_120_mhm",
+            "start": 177.74,
+            "end": 178.194875,
             "token": "mhm"
         },
         {
-            "name": "spontD_397_yeah",
-            "start": 177.74,
-            "end": 178.121375,
-            "token": "yeah"
-        },
-        {
-            "name": "spontD_047_uh-huh",
+            "name": "spontF_070_oh",
             "start": 179.25,
-            "end": 179.700625,
-            "token": "uh-huh"
+            "end": 179.713125,
+            "token": "oh"
         }
     ]
 }

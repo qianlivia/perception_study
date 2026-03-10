@@ -1,14 +1,14 @@
 {
     "name": "fe_03_00134",
     "context_channel": 0,
-    "context_text": "<B> and so i think you know i i would hope that if we god forbid ever used nuclear weapons / <A> right / <B> it would be in a worse case scenario um i i don't know self defense whatever i don't i mean i don't believe in it / <A> right / <B> but there there does seem to be a more evil intent by / <A> oh",
+    "context_text": "<B> and so i think you know i i would hope that if we god forbid ever used nuclear weapons / <A> right / <B> it would be in a worse case scenario um i i don't know self defense whatever i don't i mean i don't believe in it / <A> right / <B> but there there does seem to be a more evil intent by / <A> yeah",
     "context_start": 130.73,
-    "context_end": 153.038125,
+    "context_end": 152.966,
     "feedback": [
         {
-            "name": "PR_043_right",
+            "name": "PR_048_right",
             "start": 140.38,
-            "end": 141.04,
+            "end": 141.01512499999998,
             "token": "right"
         },
         {
@@ -18,10 +18,10 @@
             "token": "right"
         },
         {
-            "name": "spontC_046_oh",
+            "name": "spontB_094_yeah",
             "start": 152.63,
-            "end": 153.038125,
-            "token": "oh"
+            "end": 152.966,
+            "token": "yeah"
         }
     ]
 }

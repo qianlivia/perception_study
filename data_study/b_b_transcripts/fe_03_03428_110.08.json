@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03428",
     "context_channel": 1,
-    "context_text": "<A> i do i think liking your spouse you have to like him because love is i think you're better i think you're better off if you like your spouse and then being in love because you fall in and out of love / <B> right / <A> and you have to like your spouse / <B> what / <A> because um it's just like with my husband i had known him for several years before i even got interested in him and i liked him um as a person / <B> right / <A> and stuff and uh uh i think that's what's important you { know that } / <B> [ right ] / <A> because we like each other / <B> right",
+    "context_text": "<A> i do i think liking your spouse you have to like him because love is i think you're better i think you're better off if you like your spouse and then being in love because you fall in and out of love / <B> right / <A> and you have to like your spouse / <B> wow / <A> because um it's just like with my husband i had known him for several years before i even got interested in him and i liked him um as a person / <B> right / <A> and stuff and uh uh i think that's what's important you { know that } / <B> [ right ] / <A> because we like each other / <B> right",
     "context_start": 110.08,
-    "context_end": 144.08337500000002,
+    "context_end": 143.969375,
     "feedback": [
         {
             "name": "PR_043_right",
@@ -12,10 +12,10 @@
             "token": "right"
         },
         {
-            "name": "Nu_007_what",
+            "name": "PS_152_wow",
             "start": 125.99,
-            "end": 126.636625,
-            "token": "what"
+            "end": 126.585875,
+            "token": "wow"
         },
         {
             "name": "spontC_360_right",
@@ -30,9 +30,9 @@
             "token": "right"
         },
         {
-            "name": "sun1_032_right",
+            "name": "sun_028_right",
             "start": 143.24,
-            "end": 144.08337500000002,
+            "end": 143.969375,
             "token": "right"
         }
     ]

@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00071",
     "context_channel": 0,
-    "context_text": "<B> it's all edited you know like { i } / <A> [ yeah ] / <B> do i do on some level and then i in a lot of times like if i watched the mtv real world { show } / <A> [ mhm ] / <B> i'm just like oh life sucks because it's so banal banal it's like so / <A> yeah",
+    "context_text": "<B> it's all edited you know like { i } / <A> [ yeah ] / <B> do i do on some level and then i in a lot of times like if i watched the mtv real world { show } / <A> [ uh-huh ] / <B> i'm just like oh life sucks because it's so banal banal it's like so / <A> yeah",
     "context_start": 146.68,
-    "context_end": 160.2595,
+    "context_end": 160.217,
     "feedback": [
         {
             "name": "spontC_192_yeah",
@@ -12,15 +12,15 @@
             "token": "yeah"
         },
         {
-            "name": "spontC_111_mhm",
+            "name": "spontA_254_uh-huh",
             "start": 154.58,
-            "end": 155.0115,
-            "token": "mhm"
+            "end": 154.97850000000003,
+            "token": "uh-huh"
         },
         {
-            "name": "spontF_310_yeah",
+            "name": "sun1_020_yeah",
             "start": 159.37,
-            "end": 160.2595,
+            "end": 160.217,
             "token": "yeah"
         }
     ]

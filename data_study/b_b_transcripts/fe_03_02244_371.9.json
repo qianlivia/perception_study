@@ -1,32 +1,32 @@
 {
     "name": "fe_03_02244",
     "context_channel": 0,
-    "context_text": "<B> and you know it's like i go through and i crawl for cross-reference i go to the library and { get } / <A> [ okay ] / <B> books i read the books i have i go online and pull { up } / <A> [ okay ] / <B> all the information i can / <A> okay / <B> and when when symptoms start seeming the same as what you have as to what you're reading in all this stuff you know well then you're like you know well something's not right { and the } / <A> [ exactly ]",
+    "context_text": "<B> and you know it's like i go through and i crawl for cross-reference i go to the library and { get } / <A> [ okay ] / <B> books i read the books i have i go online and pull { up } / <A> [ wow ] / <B> all the information i can / <A> okay / <B> and when when symptoms start seeming the same as what you have as to what you're reading in all this stuff you know well then you're like you know well something's not right { and the } / <A> [ exactly ]",
     "context_start": 371.9,
-    "context_end": 391.98724999999996,
+    "context_end": 392.05949999999996,
     "feedback": [
         {
-            "name": "spontD_022_okay",
-            "start": 376.32,
-            "end": 376.789,
-            "token": "okay"
-        },
-        {
-            "name": "spontB_018_okay",
-            "start": 379.99,
-            "end": 380.55762500000003,
-            "token": "okay"
-        },
-        {
             "name": "spontF_234_okay",
-            "start": 381.96,
-            "end": 382.587875,
+            "start": 376.32,
+            "end": 376.947875,
             "token": "okay"
         },
         {
-            "name": "sun_042_exactly",
+            "name": "spontF_097_wow",
+            "start": 379.99,
+            "end": 380.434125,
+            "token": "wow"
+        },
+        {
+            "name": "spontD_022_okay",
+            "start": 381.96,
+            "end": 382.429,
+            "token": "okay"
+        },
+        {
+            "name": "sun_026_exactly",
             "start": 391.03,
-            "end": 391.98724999999996,
+            "end": 392.05949999999996,
             "token": "exactly"
         }
     ]

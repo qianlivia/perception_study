@@ -1,15 +1,15 @@
 {
     "name": "fe_03_03787",
     "context_channel": 1,
-    "context_text": "<A> mean but i don't you know like when people are like yeah you're alcoholics i'm like yeah well we kinda are you know like it's true it's a stereotype that's true { you } / <B> [ mmm ] / <A> know if it for whatever happened in history you know like / <B> yeah / <A> and culturally like we certainly like alcohol you know and { it's just } / <B> [ uh-huh ] / <A> i'm not gonna get mad you know like / <B> yeah",
+    "context_text": "<A> mean but i don't you know like when people are like yeah you're alcoholics i'm like yeah well we kinda are you know like it's true it's a stereotype that's true { you } / <B> [ mhm ] / <A> know if it for whatever happened in history you know like / <B> yeah / <A> and culturally like we certainly like alcohol you know and { it's just } / <B> [ yeah ] / <A> i'm not gonna get mad you know like / <B> yeah",
     "context_start": 195.17,
-    "context_end": 214.27787500000002,
+    "context_end": 214.22650000000002,
     "feedback": [
         {
-            "name": "spontD_037_mmm",
+            "name": "spontA_318_mhm",
             "start": 202.92,
-            "end": 203.49987499999997,
-            "token": "mmm"
+            "end": 203.59687499999998,
+            "token": "mhm"
         },
         {
             "name": "spontB_252_yeah",
@@ -18,15 +18,15 @@
             "token": "yeah"
         },
         {
-            "name": "spontA_413_uh-huh",
+            "name": "spontB_345_yeah",
             "start": 210.43,
-            "end": 210.931375,
-            "token": "uh-huh"
+            "end": 210.86700000000002,
+            "token": "yeah"
         },
         {
-            "name": "PR_056_yeah",
+            "name": "spontB_037_yeah",
             "start": 213.52,
-            "end": 214.27787500000002,
+            "end": 214.22650000000002,
             "token": "yeah"
         }
     ]

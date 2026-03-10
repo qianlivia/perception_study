@@ -1,15 +1,15 @@
 {
     "name": "fe_03_01089",
     "context_channel": 0,
-    "context_text": "<B> no i wouldn't i guess because i was brought up that way / <A> yeah / <B> you know to not lie or um deceive or you know any of that that's just how i was brought up / <A> right / <B> and i'm f also afraid of the consequences i've always been like that even going through school / <A> yeah / <B> i'm twenty five now but um when i was in high school hanging out with friends i was always scared of the consequences regardless of if it was something small or you know something serious / <A> oh",
+    "context_text": "<B> no i wouldn't i guess because i was brought up that way / <A> uh-huh / <B> you know to not lie or um deceive or you know any of that that's just how i was brought up / <A> right / <B> and i'm f also afraid of the consequences i've always been like that even going through school / <A> yeah / <B> i'm twenty five now but um when i was in high school hanging out with friends i was always scared of the consequences regardless of if it was something small or you know something serious / <A> yeah",
     "context_start": 164.25,
-    "context_end": 194.895,
+    "context_end": 194.774,
     "feedback": [
         {
-            "name": "spontC_389_yeah",
+            "name": "spontB_002_uh-huh",
             "start": 168.69,
-            "end": 169.208,
-            "token": "yeah"
+            "end": 169.17025,
+            "token": "uh-huh"
         },
         {
             "name": "spontC_360_right",
@@ -18,16 +18,16 @@
             "token": "right"
         },
         {
-            "name": "spontB_063_yeah",
+            "name": "spontB_373_yeah",
             "start": 183.74,
-            "end": 184.187625,
+            "end": 184.1515,
             "token": "yeah"
         },
         {
-            "name": "spontC_109_oh",
+            "name": "spontB_297_yeah",
             "start": 194.33,
-            "end": 194.895,
-            "token": "oh"
+            "end": 194.774,
+            "token": "yeah"
         }
     ]
 }

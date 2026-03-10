@@ -1,15 +1,15 @@
 {
     "name": "fe_03_03923",
     "context_channel": 1,
-    "context_text": "<A> and my husband thinks they're funny but some of em were funny just / <B> oh / <A> because i guess i'm not blond but but you know i could see how they would be offensive to me / <B> yeah / <A> to me it's kind of like saying you know how many men does it take to screw in a light bulb it's you could put anybody in that position and it's gonna / <B> right / <A> offend somebody / <B> right",
+    "context_text": "<A> and my husband thinks they're funny but some of em were funny just / <B> ooh / <A> because i guess i'm not blond but but you know i could see how they would be offensive to me / <B> yeah / <A> to me it's kind of like saying you know how many men does it take to screw in a light bulb it's you could put anybody in that position and it's gonna / <B> yeah / <A> offend somebody / <B> right",
     "context_start": 498.69,
-    "context_end": 523.258875,
+    "context_end": 523.3399999999999,
     "feedback": [
         {
-            "name": "spontF_109_oh",
+            "name": "spontE_237_ooh",
             "start": 504.95,
-            "end": 505.2895,
-            "token": "oh"
+            "end": 505.32725,
+            "token": "ooh"
         },
         {
             "name": "spontC_053_yeah",
@@ -18,15 +18,15 @@
             "token": "yeah"
         },
         {
-            "name": "PR_048_right",
+            "name": "spontD_281_yeah",
             "start": 521.1,
-            "end": 521.735125,
-            "token": "right"
+            "end": 521.608375,
+            "token": "yeah"
         },
         {
-            "name": "spontC_360_right",
+            "name": "PR_043_right",
             "start": 522.68,
-            "end": 523.258875,
+            "end": 523.3399999999999,
             "token": "right"
         }
     ]

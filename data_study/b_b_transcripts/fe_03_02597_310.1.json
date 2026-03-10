@@ -1,9 +1,9 @@
 {
     "name": "fe_03_02597",
     "context_channel": 1,
-    "context_text": "<A> far before um george bush said we've we've we're in a panic situation because they have weapons of mass destruction / <B> right / <A> um and that irritates me i mean / <B> yeah / <A> i i appreciate all of the troops who more than i can say who are over there / <B> uh-huh / <A> i have no problem with them / <B> oh",
+    "context_text": "<A> far before um george bush said we've we've we're in a panic situation because they have weapons of mass destruction / <B> right / <A> um and that irritates me i mean / <B> uh-huh / <A> i i appreciate all of the troops who more than i can say who are over there / <B> uh-huh / <A> i have no problem with them / <B> uh-huh",
     "context_start": 310.1,
-    "context_end": 333.0595,
+    "context_end": 333.1775,
     "feedback": [
         {
             "name": "spontC_360_right",
@@ -12,22 +12,22 @@
             "token": "right"
         },
         {
-            "name": "spontD_397_yeah",
+            "name": "spontE_065_uh-huh",
             "start": 324.72,
-            "end": 325.101375,
-            "token": "yeah"
-        },
-        {
-            "name": "spontC_386_uh-huh",
-            "start": 330.93,
-            "end": 331.4765,
+            "end": 325.164375,
             "token": "uh-huh"
         },
         {
-            "name": "spontF_109_oh",
+            "name": "spontD_146_uh-huh",
+            "start": 330.93,
+            "end": 331.449125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_040_uh-huh",
             "start": 332.72,
-            "end": 333.0595,
-            "token": "oh"
+            "end": 333.1775,
+            "token": "uh-huh"
         }
     ]
 }

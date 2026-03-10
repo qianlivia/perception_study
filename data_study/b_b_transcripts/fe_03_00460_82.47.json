@@ -1,26 +1,26 @@
 {
     "name": "fe_03_00460",
     "context_channel": 1,
-    "context_text": "<A> well i stay at home -cause i i have two children so / <B> aww / <A> we usually do things together with our children / <B> mhm / <A> so i have two girls and well usually we go out shopping do things { like } / <B> [ yeah ] / <A> that do things with the kids / <B> uh-huh / <A> you know hang you know go to like mcdonald's or things like that but { if i } / <B> [ yeah ]",
+    "context_text": "<A> well i stay at home -cause i i have two children so / <B> oh / <A> we usually do things together with our children / <B> uh-huh / <A> so i have two girls and well usually we go out shopping do things { like } / <B> [ yeah ] / <A> that do things with the kids / <B> uh-huh / <A> you know hang you know go to like mcdonald's or things like that but { if i } / <B> [ yeah ]",
     "context_start": 82.47,
-    "context_end": 106.76312499999999,
+    "context_end": 106.767625,
     "feedback": [
         {
-            "name": "spontF_363_aww",
+            "name": "spontC_248_oh",
             "start": 86.73,
-            "end": 87.302625,
-            "token": "aww"
+            "end": 87.374875,
+            "token": "oh"
         },
         {
-            "name": "spontA_379_mhm",
+            "name": "spontF_286_uh-huh",
             "start": 90.18,
-            "end": 90.69787500000001,
-            "token": "mhm"
+            "end": 90.7035,
+            "token": "uh-huh"
         },
         {
-            "name": "spontC_319_yeah",
+            "name": "spontC_007_yeah",
             "start": 97.18,
-            "end": 97.66950000000001,
+            "end": 97.63725000000001,
             "token": "yeah"
         },
         {
@@ -30,9 +30,9 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontE_355_yeah",
+            "name": "spontB_063_yeah",
             "start": 106.32,
-            "end": 106.76312499999999,
+            "end": 106.767625,
             "token": "yeah"
         }
     ]

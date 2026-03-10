@@ -1,39 +1,39 @@
 {
     "name": "fe_03_05688",
     "context_channel": 1,
-    "context_text": "<A> if you look at the uh if you look at the cabinet if you look at the uh bush's government / <B> right / <A> ah most of those guys are oil barons / <B> right / <A> they're all oil barons { so } / <B> [ right ] / <A> it's you know and it seems like kind of a kind of something a little sketchy going on there / <B> right / <A> could be a little shystey / <B> oh",
+    "context_text": "<A> if you look at the uh if you look at the cabinet if you look at the uh bush's government / <B> right / <A> ah most of those guys are oil barons / <B> right / <A> they're all oil barons { so } / <B> [ right ] / <A> it's you know and it seems like kind of a kind of something a little sketchy going on there / <B> right / <A> could be a little shystey / <B> right",
     "context_start": 554.76,
-    "context_end": 573.945,
+    "context_end": 574.173625,
     "feedback": [
         {
-            "name": "spontC_360_right",
-            "start": 560.4,
-            "end": 560.978875,
-            "token": "right"
-        },
-        {
             "name": "PR_043_right",
-            "start": 563.13,
-            "end": 563.79,
+            "start": 560.4,
+            "end": 561.06,
             "token": "right"
         },
         {
-            "name": "sun1_032_right",
-            "start": 565.35,
-            "end": 566.1933750000001,
+            "name": "spontC_360_right",
+            "start": 563.13,
+            "end": 563.708875,
             "token": "right"
         },
         {
             "name": "PR_048_right",
-            "start": 571.63,
-            "end": 572.265125,
+            "start": 565.35,
+            "end": 565.985125,
             "token": "right"
         },
         {
-            "name": "spontC_109_oh",
+            "name": "sun1_032_right",
+            "start": 571.63,
+            "end": 572.473375,
+            "token": "right"
+        },
+        {
+            "name": "sun1_030_right",
             "start": 573.38,
-            "end": 573.945,
-            "token": "oh"
+            "end": 574.173625,
+            "token": "right"
         }
     ]
 }

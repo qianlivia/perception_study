@@ -1,32 +1,32 @@
 {
     "name": "fe_03_02279",
     "context_channel": 0,
-    "context_text": "<B> oh the last time it snowed was um like a month and a half ago / <A> uh-huh / <B> and it wasn't supposed in my experience like i been living in new york for twenty two years and um i've never seen it snow and / <A> oh / <B> um it was a march / <A> uh-huh / <B> or i forgot when no it was in february it snowed / <A> uh-huh",
+    "context_text": "<B> oh the last time it snowed was um like a month and a half ago / <A> yeah / <B> and it wasn't supposed in my experience like i been living in new york for twenty two years and um i've never seen it snow and / <A> yeah / <B> um it was a march / <A> uh-huh / <B> or i forgot when no it was in february it snowed / <A> uh-huh",
     "context_start": 459.44,
-    "context_end": 484.980625,
+    "context_end": 485.040375,
     "feedback": [
         {
-            "name": "spontA_201_uh-huh",
+            "name": "spontF_101_yeah",
             "start": 465.97,
-            "end": 466.418875,
-            "token": "uh-huh"
+            "end": 466.57837500000005,
+            "token": "yeah"
         },
         {
-            "name": "spontF_109_oh",
+            "name": "spontB_373_yeah",
             "start": 477.42,
-            "end": 477.7595,
-            "token": "oh"
+            "end": 477.8315,
+            "token": "yeah"
         },
         {
-            "name": "spontD_020_uh-huh",
+            "name": "spontD_021_uh-huh",
             "start": 480.42,
-            "end": 480.924625,
+            "end": 480.87175,
             "token": "uh-huh"
         },
         {
-            "name": "spontD_047_uh-huh",
+            "name": "spontD_036_uh-huh",
             "start": 484.53,
-            "end": 484.980625,
+            "end": 485.040375,
             "token": "uh-huh"
         }
     ]

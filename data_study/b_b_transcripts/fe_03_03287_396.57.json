@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03287",
     "context_channel": 0,
-    "context_text": "<B> and your kids would be so much better because of it my mum was home with me until i was in i think second grade / <A> right / <B> and my brother i have a brother who's eleven years older than me so he went away to college / <A> uh-huh / <B> and while he was away at college um she knew she had to go back to work to help support him in college / <A> aaw / <B> so by then you know i was in ele elementary school and her job was such that she got me off to school and then she went to work and then i stayed at a neighbor across the street's house for a couple of hours after school until she came home / <A> right / <B> but i mean i think i just really really got such a strong foundation { uh } / <A> [ hm ]",
+    "context_text": "<B> and your kids would be so much better because of it my mum was home with me until i was in i think second grade / <A> right / <B> and my brother i have a brother who's eleven years older than me so he went away to college / <A> uh-huh / <B> and while he was away at college um she knew she had to go back to work to help support him in college / <A> uh-huh / <B> so by then you know i was in ele elementary school and her job was such that she got me off to school and then she went to work and then i stayed at a neighbor across the street's house for a couple of hours after school until she came home / <A> right / <B> but i mean i think i just really really got such a strong foundation { uh } / <A> [ mhm ]",
     "context_start": 396.57,
-    "context_end": 431.31374999999997,
+    "context_end": 431.201875,
     "feedback": [
         {
             "name": "PR_043_right",
@@ -12,16 +12,16 @@
             "token": "right"
         },
         {
-            "name": "spontE_032_uh-huh",
+            "name": "spontF_286_uh-huh",
             "start": 406.43,
-            "end": 407.000625,
+            "end": 406.9535,
             "token": "uh-huh"
         },
         {
-            "name": "spontE_220_aaw",
+            "name": "spontA_254_uh-huh",
             "start": 413.6,
-            "end": 414.08450000000005,
-            "token": "aaw"
+            "end": 413.99850000000004,
+            "token": "uh-huh"
         },
         {
             "name": "sun1_032_right",
@@ -30,10 +30,10 @@
             "token": "right"
         },
         {
-            "name": "NS_090_hm",
+            "name": "spontC_499_mhm",
             "start": 430.46,
-            "end": 431.31374999999997,
-            "token": "hm"
+            "end": 431.201875,
+            "token": "mhm"
         }
     ]
 }

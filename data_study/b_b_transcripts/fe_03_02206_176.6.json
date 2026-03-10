@@ -1,9 +1,9 @@
 {
     "name": "fe_03_02206",
     "context_channel": 0,
-    "context_text": "<B> really difficult to eat out with him / <A> yeah / <B> you know if he's fall if he'll fall asleep that's fine { but } / <A> [ yeah ] / <B> when he's awake he dabbles a little bit but he you know he hasn't really given me that much trouble but it's a little / <A> uh-huh / <B> bit inconvenient cause he's not in a regular chair yet { but } / <A> [ right ]",
+    "context_text": "<B> really difficult to eat out with him / <A> yeah / <B> you know if he's fall if he'll fall asleep that's fine { but } / <A> [ yeah ] / <B> when he's awake he dabbles a little bit but he you know he hasn't really given me that much trouble but it's a little / <A> uh-huh / <B> bit inconvenient cause he's not in a regular chair yet { but } / <A> [ yeah ]",
     "context_start": 176.6,
-    "context_end": 193.563625,
+    "context_end": 193.479625,
     "feedback": [
         {
             "name": "spontC_053_yeah",
@@ -12,22 +12,22 @@
             "token": "yeah"
         },
         {
-            "name": "spontB_143_yeah",
+            "name": "spontB_292_yeah",
             "start": 182.89,
-            "end": 183.566125,
+            "end": 183.46149999999997,
             "token": "yeah"
         },
         {
-            "name": "spontE_065_uh-huh",
+            "name": "spontA_254_uh-huh",
             "start": 188.94,
-            "end": 189.384375,
+            "end": 189.3385,
             "token": "uh-huh"
         },
         {
-            "name": "sun1_030_right",
+            "name": "spontF_508_yeah",
             "start": 192.77,
-            "end": 193.563625,
-            "token": "right"
+            "end": 193.479625,
+            "token": "yeah"
         }
     ]
 }

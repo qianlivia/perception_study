@@ -1,9 +1,9 @@
 {
     "name": "fe_03_02322",
     "context_channel": 1,
-    "context_text": "<A> do you know it's it's you know it's in the well i took my son too and he was allergic to flour and all this stuff but i don't think it really has that much difference i think it's the season when it's all that you know the pollen in the air { it will } / <B> [ wow ] / <A> just trigger off same symptoms like if you have a cold { you're } / <B> [ uh-huh ] / <A> sneezing and you're coughing you're having difficulty breathing / <B> right / <A> then the flour comes into part but the winter is better { for } / <B> [ uh-huh ]",
+    "context_text": "<A> do you know it's it's you know it's in the well i took my son too and he was allergic to flour and all this stuff but i don't think it really has that much difference i think it's the season when it's all that you know the pollen in the air { it will } / <B> [ wow ] / <A> just trigger off same symptoms like if you have a cold { you're } / <B> [ mhm ] / <A> sneezing and you're coughing you're having difficulty breathing / <B> right / <A> then the flour comes into part but the winter is better { for } / <B> [ uh-huh ]",
     "context_start": 347.63,
-    "context_end": 375.358,
+    "context_end": 375.2785,
     "feedback": [
         {
             "name": "PS_152_wow",
@@ -12,10 +12,10 @@
             "token": "wow"
         },
         {
-            "name": "spontD_040_uh-huh",
+            "name": "spontB_351_mhm",
             "start": 364.99,
-            "end": 365.4475,
-            "token": "uh-huh"
+            "end": 365.433375,
+            "token": "mhm"
         },
         {
             "name": "PR_043_right",
@@ -24,9 +24,9 @@
             "token": "right"
         },
         {
-            "name": "spontD_187_uh-huh",
+            "name": "spontA_254_uh-huh",
             "start": 374.88,
-            "end": 375.358,
+            "end": 375.2785,
             "token": "uh-huh"
         }
     ]
