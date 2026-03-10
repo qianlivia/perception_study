@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00468",
     "context_channel": 0,
-    "context_text": "<B> i i like to eat a lot of variety o -ties of of fruit and vegetable and meat and fish / <A> mhm / <B> um i very mm i really try to keep a diet you know correct diet but uh you know the society and the medias / <A> yeah / <B> do not go this way and i found myself eating uh sometimes a way that i would like not to eat / <A> uh-huh / <B> and we we get we get in in in the this eating habit uh we it's with not healthy we { don't } / <A> [ no ]",
+    "context_text": "<B> i i like to eat a lot of variety o -ties of of fruit and vegetable and meat and fish / <A> okay / <B> um i very mm i really try to keep a diet you know correct diet but uh you know the society and the medias / <A> okay / <B> do not go this way and i found myself eating uh sometimes a way that i would like not to eat / <A> okay / <B> and we we get we get in in in the this eating habit uh we it's with not healthy we { don't } / <A> [ okay ]",
     "context_start": 44.84,
-    "context_end": 83.15412500000001,
+    "context_end": 83.48512500000001,
     "feedback": [
         {
-            "name": "spontD_115_mhm",
+            "name": "spontC_017_okay",
             "start": 52.38,
-            "end": 52.869875,
-            "token": "mhm"
+            "end": 53.185625,
+            "token": "okay"
         },
         {
-            "name": "spontB_226_yeah",
+            "name": "spontC_020_okay",
             "start": 63.14,
-            "end": 63.589,
-            "token": "yeah"
+            "end": 63.615,
+            "token": "okay"
         },
         {
-            "name": "spontC_386_uh-huh",
+            "name": "spontC_134_okay",
             "start": 72.15,
-            "end": 72.6965,
-            "token": "uh-huh"
+            "end": 72.957125,
+            "token": "okay"
         },
         {
-            "name": "NR_060_no",
+            "name": "spontD_089_okay",
             "start": 82.68,
-            "end": 83.15412500000001,
-            "token": "no"
+            "end": 83.48512500000001,
+            "token": "okay"
         }
     ]
 }

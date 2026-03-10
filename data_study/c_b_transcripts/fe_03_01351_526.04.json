@@ -1,32 +1,32 @@
 {
     "name": "fe_03_01351",
     "context_channel": 0,
-    "context_text": "<B> the home school i i'm not saying i'm against home schooling { i'm } / <A> [ no ] / <B> you know uh if you can get the education get it you { know i } / <A> [ okay ] / <B> went to parochial school also um and that was pretty cool versus public school so i've got that you know that experience of having both / <A> okay / <B> um but there's nothing like that bonding that { i } / <A> [ yeah ]",
+    "context_text": "<B> the home school i i'm not saying i'm against home schooling { i'm } / <A> [ no ] / <B> you know uh if you can get the education get it you { know i } / <A> [ yeah ] / <B> went to parochial school also um and that was pretty cool versus public school so i've got that you know that experience of having both / <A> yeah / <B> um but there's nothing like that bonding that { i } / <A> [ yeah ]",
     "context_start": 526.04,
-    "context_end": 548.911375,
+    "context_end": 549.044,
     "feedback": [
         {
-            "name": "NR_037_no",
+            "name": "NR_098_no",
             "start": 529.65,
-            "end": 530.120625,
+            "end": 530.1455,
             "token": "no"
         },
         {
-            "name": "spontC_020_okay",
+            "name": "sun1_023_yeah",
             "start": 533.37,
-            "end": 533.845,
-            "token": "okay"
+            "end": 533.751875,
+            "token": "yeah"
         },
         {
-            "name": "spontC_511_okay",
+            "name": "spontD_024_yeah",
             "start": 542.65,
-            "end": 543.160875,
-            "token": "okay"
+            "end": 543.070125,
+            "token": "yeah"
         },
         {
-            "name": "spontD_397_yeah",
+            "name": "spontC_063_yeah",
             "start": 548.53,
-            "end": 548.911375,
+            "end": 549.044,
             "token": "yeah"
         }
     ]

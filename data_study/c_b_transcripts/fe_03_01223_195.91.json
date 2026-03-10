@@ -1,32 +1,32 @@
 {
     "name": "fe_03_01223",
     "context_channel": 0,
-    "context_text": "<B> [ and the ] and there's kids just um i don't know i think that w we feel there's still concern down in the south more about um the black white issue / <A> uh-huh / <B> and the black kids and the white kids still for some reason you know don't aren't best of friends or you know they don't see { each } / <A> [ yeah ] / <B> other as you know or friends you know good friends / <A> yeah / <B> and um i think that has a lot problems / <A> yeah",
+    "context_text": "<B> [ and the ] and there's kids just um i don't know i think that w we feel there's still concern down in the south more about um the black white issue / <A> uh-huh / <B> and the black kids and the white kids still for some reason you know don't aren't best of friends or you know they don't see { each } / <A> [ oh ] / <B> other as you know or friends you know good friends / <A> uh-huh / <B> and um i think that has a lot problems / <A> yeah",
     "context_start": 195.91,
-    "context_end": 237.31775,
+    "context_end": 237.31625,
     "feedback": [
         {
-            "name": "spontF_009_uh-huh",
+            "name": "spontA_158_uh-huh",
             "start": 213.91,
-            "end": 214.29274999999998,
+            "end": 214.432375,
             "token": "uh-huh"
         },
         {
-            "name": "spontC_063_yeah",
+            "name": "spontE_048_oh",
             "start": 226.09,
-            "end": 226.604,
-            "token": "yeah"
+            "end": 226.835125,
+            "token": "oh"
+        },
+        {
+            "name": "spontA_290_uh-huh",
+            "start": 232.13,
+            "end": 232.62975,
+            "token": "uh-huh"
         },
         {
             "name": "spontC_405_yeah",
-            "start": 232.13,
-            "end": 232.74625,
-            "token": "yeah"
-        },
-        {
-            "name": "spontD_184_yeah",
             "start": 236.7,
-            "end": 237.31775,
+            "end": 237.31625,
             "token": "yeah"
         }
     ]

@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00518",
     "context_channel": 0,
-    "context_text": "<B> very very very many most time it's something i said and my mother told me how dare you / <A> oh / <B> and i was just like i had no idea it affected you in that way / <A> yeah / <B> or that it bothered you because it's also uh um a way that people feel about how they are respected / <A> yes / <B> and they just don't appreciate other people saying things that even have nothing to do with them except for the fact that it made they may be related / <A> yeah",
+    "context_text": "<B> very very very many most time it's something i said and my mother told me how dare you / <A> oh / <B> and i was just like i had no idea it affected you in that way / <A> ah / <B> or that it bothered you because it's also uh um a way that people feel about how they are respected / <A> yes / <B> and they just don't appreciate other people saying things that even have nothing to do with them except for the fact that it made they may be related / <A> right",
     "context_start": 343.17,
-    "context_end": 376.83912499999997,
+    "context_end": 376.933625,
     "feedback": [
         {
             "name": "spontF_320_oh",
@@ -12,10 +12,10 @@
             "token": "oh"
         },
         {
-            "name": "spontA_110_yeah",
+            "name": "spontC_214_ah",
             "start": 357.14,
-            "end": 358.07212499999997,
-            "token": "yeah"
+            "end": 357.953125,
+            "token": "ah"
         },
         {
             "name": "spontB_368_yes",
@@ -24,10 +24,10 @@
             "token": "yes"
         },
         {
-            "name": "spontC_352_yeah",
+            "name": "sun1_030_right",
             "start": 376.14,
-            "end": 376.83912499999997,
-            "token": "yeah"
+            "end": 376.933625,
+            "token": "right"
         }
     ]
 }

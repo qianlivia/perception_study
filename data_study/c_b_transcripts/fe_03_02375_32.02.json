@@ -1,26 +1,26 @@
 {
     "name": "fe_03_02375",
     "context_channel": 0,
-    "context_text": "<B> um and um it's it's a it's a bad and sick habit and i've known people that died of lung cancer { uh } / <A> [ yeah ] / <B> i had a girlfriend of thirty eight that died of lung cancer / <A> yeah / <B> and it not only affects yourself but it affects people around you too / <A> yes",
+    "context_text": "<B> um and um it's it's a it's a bad and sick habit and i've known people that died of lung cancer { uh } / <A> [ yep ] / <B> i had a girlfriend of thirty eight that died of lung cancer / <A> really / <B> and it not only affects yourself but it affects people around you too / <A> yes",
     "context_start": 32.02,
-    "context_end": 49.417625,
+    "context_end": 49.417875,
     "feedback": [
         {
-            "name": "spontA_015_yeah",
+            "name": "PR_027_yep",
             "start": 40.71,
-            "end": 41.479875,
-            "token": "yeah"
+            "end": 41.25275,
+            "token": "yep"
         },
         {
-            "name": "spontF_295_yeah",
+            "name": "sun2_001_really",
             "start": 44.15,
-            "end": 44.668375,
-            "token": "yeah"
+            "end": 44.880625,
+            "token": "really"
         },
         {
-            "name": "spontB_368_yes",
+            "name": "PR_008_yes",
             "start": 48.56,
-            "end": 49.417625,
+            "end": 49.417875,
             "token": "yes"
         }
     ]

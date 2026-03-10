@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04520",
     "context_channel": 0,
-    "context_text": "<B> right or ah the ah there's just the procedures of you know not just allotting everybody { so much } / <A> [ absolutely ] / <B> money to spend you know it's { like giving } / <A> [ exactly ] / <B> them an allowance and then if they { don't } / <A> [ yeah ] / <B> spend it then the next year they get less / <A> yeah / <B> they figure they don't need as much but you know the needs change from time to time especially in the music department / <A> oh / <B> because one year you may not need any instruments { the next year } / <A> [ ugh ]",
+    "context_text": "<B> right or ah the ah there's just the procedures of you know not just allotting everybody { so much } / <A> [ absolutely ] / <B> money to spend you know it's { like giving } / <A> [ absolutely ] / <B> them an allowance and then if they { don't } / <A> [ yeah ] / <B> spend it then the next year they get less / <A> yeah / <B> they figure they don't need as much but you know the needs change from time to time especially in the music department / <A> oh / <B> because one year you may not need any instruments { the next year } / <A> [ wow ]",
     "context_start": 387.95,
-    "context_end": 411.514375,
+    "context_end": 411.77725,
     "feedback": [
         {
             "name": "PR_049_absolutely",
@@ -12,10 +12,10 @@
             "token": "absolutely"
         },
         {
-            "name": "sun_015_exactly",
+            "name": "sun_027_absolutely",
             "start": 396.26,
-            "end": 397.36175,
-            "token": "exactly"
+            "end": 397.394,
+            "token": "absolutely"
         },
         {
             "name": "spontF_595_yeah",
@@ -24,9 +24,9 @@
             "token": "yeah"
         },
         {
-            "name": "spontC_307_yeah",
+            "name": "spontD_024_yeah",
             "start": 400.86,
-            "end": 401.447875,
+            "end": 401.280125,
             "token": "yeah"
         },
         {
@@ -36,10 +36,10 @@
             "token": "oh"
         },
         {
-            "name": "NegS_020_ugh",
+            "name": "PS_024_wow",
             "start": 410.25,
-            "end": 411.514375,
-            "token": "ugh"
+            "end": 411.77725,
+            "token": "wow"
         }
     ]
 }

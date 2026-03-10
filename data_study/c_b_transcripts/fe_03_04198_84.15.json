@@ -1,32 +1,32 @@
 {
     "name": "fe_03_04198",
     "context_channel": 1,
-    "context_text": "<A> no actually i think if i open up my own business i wanna open up an opportunity to single mothers / <B> aww / <A> who are struggling to make ends meet because / <B> aww / <A> i have a daughter who's the single mother of two children and she struggles every day to get a job and it's hard to find a sitter and everything / <B> yeah / <A> so i think it'd be really interesting if i had strictly mothers single mothers / <B> yeah",
+    "context_text": "<A> no actually i think if i open up my own business i wanna open up an opportunity to single mothers / <B> oh / <A> who are struggling to make ends meet because / <B> yeah / <A> i have a daughter who's the single mother of two children and she struggles every day to get a job and it's hard to find a sitter and everything / <B> yeah / <A> so i think it'd be really interesting if i had strictly mothers single mothers / <B> yeah",
     "context_start": 84.15,
-    "context_end": 113.465,
+    "context_end": 113.475875,
     "feedback": [
         {
-            "name": "spontF_670_aww",
+            "name": "spontF_277_oh",
             "start": 91.49,
-            "end": 92.097875,
-            "token": "aww"
+            "end": 92.05825,
+            "token": "oh"
         },
         {
-            "name": "spontF_363_aww",
+            "name": "spontB_226_yeah",
             "start": 95.09,
-            "end": 95.662625,
-            "token": "aww"
-        },
-        {
-            "name": "spontE_269_yeah",
-            "start": 103.31,
-            "end": 104.104125,
+            "end": 95.539,
             "token": "yeah"
         },
         {
-            "name": "spontF_222_yeah",
+            "name": "spontA_332_yeah",
+            "start": 103.31,
+            "end": 104.179,
+            "token": "yeah"
+        },
+        {
+            "name": "sun1_011_yeah",
             "start": 112.81,
-            "end": 113.465,
+            "end": 113.475875,
             "token": "yeah"
         }
     ]

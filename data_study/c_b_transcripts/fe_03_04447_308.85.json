@@ -1,39 +1,39 @@
 {
     "name": "fe_03_04447",
     "context_channel": 1,
-    "context_text": "<A> hear is more and more money for education more { and } / <B> [ mhm ] / <A> more money for education { and } / <B> [ absolutely ] / <A> i wanna stand up and scream what more are ya gonna teach them / <B> mmm / <A> that you're not teaching them now / <B> yeah / <A> uh you know i think for the money you have right now teach them what you're supposed to teach them / <B> mmm",
+    "context_text": "<A> hear is more and more money for education more { and } / <B> [ absolutely ] / <A> more money for education { and } / <B> [ absolutely ] / <A> i wanna stand up and scream what more are ya gonna teach them / <B> exactly / <A> that you're not teaching them now / <B> exactly / <A> uh you know i think for the money you have right now teach them what you're supposed to teach them / <B> absolutely",
     "context_start": 308.85,
-    "context_end": 324.02675000000005,
+    "context_end": 324.3955,
     "feedback": [
         {
-            "name": "spontA_063_mhm",
-            "start": 311.03,
-            "end": 311.520875,
-            "token": "mhm"
-        },
-        {
             "name": "PR_049_absolutely",
-            "start": 312.59,
-            "end": 313.676625,
+            "start": 311.03,
+            "end": 312.116625,
             "token": "absolutely"
         },
         {
-            "name": "spontD_235_mmm",
+            "name": "sun_027_absolutely",
+            "start": 312.59,
+            "end": 313.724,
+            "token": "absolutely"
+        },
+        {
+            "name": "sun_042_exactly",
             "start": 315.73,
-            "end": 316.524625,
-            "token": "mmm"
+            "end": 316.68725,
+            "token": "exactly"
         },
         {
-            "name": "spontA_382_yeah",
+            "name": "sun_016_exactly",
             "start": 317.72,
-            "end": 318.29462500000005,
-            "token": "yeah"
+            "end": 318.75350000000003,
+            "token": "exactly"
         },
         {
-            "name": "spontD_239_mmm",
+            "name": "sun_002_absolutely",
             "start": 323.35,
-            "end": 324.02675000000005,
-            "token": "mmm"
+            "end": 324.3955,
+            "token": "absolutely"
         }
     ]
 }

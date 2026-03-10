@@ -1,26 +1,26 @@
 {
     "name": "fe_03_05847",
     "context_channel": 1,
-    "context_text": "<A> once y once the atlantic water's warm it it gets like you know it almost gets like bath water whereas with the pacific especially like other than malibu / <B> yeah / <A> it's kind of in august the middle of august even with the temperature being you know the climate that it is { you still } / <B> [ absolutely ] / <A> ha you still were like shivering in the water { 'cause } / <B> [ yeah ]",
+    "context_text": "<A> once y once the atlantic water's warm it it gets like you know it almost gets like bath water whereas with the pacific especially like other than malibu / <B> yeah / <A> it's kind of in august the middle of august even with the temperature being you know the climate that it is { you still } / <B> [ yeah ] / <A> ha you still were like shivering in the water { 'cause } / <B> [ yeah ]",
     "context_start": 457.73,
-    "context_end": 475.4745,
+    "context_end": 475.5345,
     "feedback": [
         {
-            "name": "spontF_300_yeah",
+            "name": "spontD_024_yeah",
             "start": 466.66,
-            "end": 467.15062500000005,
+            "end": 467.080125,
             "token": "yeah"
         },
         {
-            "name": "sun_044_absolutely",
+            "name": "spontD_101_yeah",
             "start": 472.31,
-            "end": 473.397875,
-            "token": "absolutely"
+            "end": 473.075625,
+            "token": "yeah"
         },
         {
-            "name": "spontC_250_yeah",
+            "name": "spontC_232_yeah",
             "start": 474.64,
-            "end": 475.4745,
+            "end": 475.5345,
             "token": "yeah"
         }
     ]

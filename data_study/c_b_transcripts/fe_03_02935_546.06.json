@@ -1,20 +1,20 @@
 {
     "name": "fe_03_02935",
     "context_channel": 1,
-    "context_text": "<A> ye yeah i mean you can watch i do i will i do like to watch the olympics you know when / <B> uh-huh / <A> those are on cause i i like to watch that type of sport you { know } / <B> [ yeah ] / <A> diving and uh now the figure skatin figure skating i used to like it and it's gotten a little annoying over the last couple of years but / <B> yeah / <A> all a bunch of prima donnas but i don't know my wife actually used to work for uh us swimming we used to live in colorado springs / <B> oh / <A> and she worked for um us swimming at the uh us olympic training center / <B> uh-huh",
+    "context_text": "<A> ye yeah i mean you can watch i do i will i do like to watch the olympics you know when / <B> uh-huh / <A> those are on cause i i like to watch that type of sport you { know } / <B> [ yeah ] / <A> diving and uh now the figure skatin figure skating i used to like it and it's gotten a little annoying over the last couple of years but / <B> yeah / <A> all a bunch of prima donnas but i don't know my wife actually used to work for uh us swimming we used to live in colorado springs / <B> uh-huh / <A> and she worked for um us swimming at the uh us olympic training center / <B> yeah",
     "context_start": 546.06,
-    "context_end": 578.6491249999999,
+    "context_end": 578.6635,
     "feedback": [
         {
-            "name": "spontE_106_uh-huh",
+            "name": "spontA_254_uh-huh",
             "start": 550.2,
-            "end": 550.6292500000001,
+            "end": 550.5985000000001,
             "token": "uh-huh"
         },
         {
-            "name": "spontF_287_yeah",
+            "name": "spontD_338_yeah",
             "start": 553.45,
-            "end": 554.0812500000001,
+            "end": 554.1053750000001,
             "token": "yeah"
         },
         {
@@ -24,16 +24,16 @@
             "token": "yeah"
         },
         {
-            "name": "spontF_017_oh",
+            "name": "spontD_020_uh-huh",
             "start": 571.34,
-            "end": 572.1693750000001,
-            "token": "oh"
+            "end": 571.8446250000001,
+            "token": "uh-huh"
         },
         {
-            "name": "spontC_132_uh-huh",
+            "name": "spontF_380_yeah",
             "start": 578.05,
-            "end": 578.6491249999999,
-            "token": "uh-huh"
+            "end": 578.6635,
+            "token": "yeah"
         }
     ]
 }

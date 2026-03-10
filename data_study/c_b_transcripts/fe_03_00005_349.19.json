@@ -1,32 +1,32 @@
 {
     "name": "fe_03_00005",
     "context_channel": 1,
-    "context_text": "<A> well uh everything tends to be uh stews of various sorts / <B> okay / <A> um kind of like kind of like people get a strange idea of what chinese food is like { from } / <B> [ okay ] / <A> eating in in american chinese restaurants / <B> okay / <A> um russian food tends to be uh fairly simple um but they make a number of different kinds of meatpies and and things that are like goulash / <B> okay / <A> uh stew served over noodles um beef uh cooked in various ways usually in sauces / <B> okay / <A> uh they pickle a lot of things uh you're probably you've probably eaten uh various types of of of oshinko { i've } / <B> [ okay ] / <A> pronounced that right uh russian pickles tend to be uh cucumbers and onions / <B> okay",
+    "context_text": "<A> well uh everything tends to be uh stews of various sorts / <B> mhm / <A> um kind of like kind of like people get a strange idea of what chinese food is like { from } / <B> [ yeah ] / <A> eating in in american chinese restaurants / <B> uh-huh / <A> um russian food tends to be uh fairly simple um but they make a number of different kinds of meatpies and and things that are like goulash / <B> okay / <A> uh stew served over noodles um beef uh cooked in various ways usually in sauces / <B> okay / <A> uh they pickle a lot of things uh you're probably you've probably eaten uh various types of of of oshinko { i've } / <B> [ okay ] / <A> pronounced that right uh russian pickles tend to be uh cucumbers and onions / <B> okay",
     "context_start": 349.19,
-    "context_end": 401.602,
+    "context_end": 401.219,
     "feedback": [
         {
-            "name": "spontD_022_okay",
+            "name": "spontA_253_mhm",
             "start": 354.79,
-            "end": 355.259,
-            "token": "okay"
+            "end": 355.26362500000005,
+            "token": "mhm"
         },
         {
-            "name": "spontD_383_okay",
+            "name": "spontC_250_yeah",
             "start": 361.83,
-            "end": 362.501375,
-            "token": "okay"
+            "end": 362.6645,
+            "token": "yeah"
         },
         {
-            "name": "spontC_134_okay",
+            "name": "spontC_386_uh-huh",
             "start": 364.55,
-            "end": 365.357125,
-            "token": "okay"
+            "end": 365.0965,
+            "token": "uh-huh"
         },
         {
-            "name": "spontB_195_okay",
+            "name": "sun1_017_okay",
             "start": 375.92,
-            "end": 376.58950000000004,
+            "end": 376.832875,
             "token": "okay"
         },
         {
@@ -42,9 +42,9 @@
             "token": "okay"
         },
         {
-            "name": "spontF_317_okay",
+            "name": "spontD_022_okay",
             "start": 400.75,
-            "end": 401.602,
+            "end": 401.219,
             "token": "okay"
         }
     ]

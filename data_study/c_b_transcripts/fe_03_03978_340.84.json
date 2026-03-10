@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03978",
     "context_channel": 1,
-    "context_text": "<A> well actually they don't they they have quite a volume i mean we've got an enormous uh area here in texas that's called the hill country / <B> uh-huh / <A> and what it is is it's basically uh oh kind of a geological band between what in in uh east texas is very flat including the houston area { and then } / <B> [ pardon ] / <A> when you move out to west texas you actually get some mountains that go up to seven eight and nine thousand feet / <B> okay / <A> but transiting between these two plains you've got what we call the hill country and everybody and their mother's trying to grow wine there / <B> okay / <A> and there are actually about six or seven uh what do you call vintner someone that sells / <B> okay",
+    "context_text": "<A> well actually they don't they they have quite a volume i mean we've got an enormous uh area here in texas that's called the hill country / <B> uh-huh / <A> and what it is is it's basically uh oh kind of a geological band between what in in uh east texas is very flat including the houston area { and then } / <B> [ yeah ] / <A> when you move out to west texas you actually get some mountains that go up to seven eight and nine thousand feet / <B> wow / <A> but transiting between these two plains you've got what we call the hill country and everybody and their mother's trying to grow wine there / <B> really / <A> and there are actually about six or seven uh what do you call vintner someone that sells / <B> mhm",
     "context_start": 340.84,
-    "context_end": 388.99199999999996,
+    "context_end": 388.85587499999997,
     "feedback": [
         {
             "name": "spontC_128_uh-huh",
@@ -12,28 +12,28 @@
             "token": "uh-huh"
         },
         {
-            "name": "Nu_049_pardon",
+            "name": "spontA_015_yeah",
             "start": 363.82,
-            "end": 364.6445,
-            "token": "pardon"
+            "end": 364.589875,
+            "token": "yeah"
         },
         {
-            "name": "spontD_022_okay",
+            "name": "PS_100_wow",
             "start": 370.85,
-            "end": 371.319,
-            "token": "okay"
+            "end": 371.846625,
+            "token": "wow"
         },
         {
-            "name": "spontF_317_okay",
+            "name": "PS_019_really",
             "start": 380.71,
-            "end": 381.56199999999995,
-            "token": "okay"
+            "end": 381.49949999999995,
+            "token": "really"
         },
         {
-            "name": "spontC_286_okay",
+            "name": "spontD_344_mhm",
             "start": 388.34,
-            "end": 388.99199999999996,
-            "token": "okay"
+            "end": 388.85587499999997,
+            "token": "mhm"
         }
     ]
 }

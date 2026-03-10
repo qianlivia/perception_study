@@ -1,38 +1,38 @@
 {
     "name": "fe_03_00068",
     "context_channel": 0,
-    "context_text": "<B> yeah an and it's it's just so hard because people you know try to cold turkey the nicotine patches you name it an and you know they still can't stop { smoking } / <A> [ absolutely ] / <B> and and it's it's uh it's a dangerous thing for { just } / <A> [ mmm ] / <B> even the environment the people { around } / <A> [ hm ] / <B> them children / <A> yes / <B> e especially themselves and um i i try to tell my friends to quit smoking but it's not working / <A> no",
+    "context_text": "<B> yeah an and it's it's just so hard because people you know try to cold turkey the nicotine patches you name it an and you know they still can't stop { smoking } / <A> [ absolutely ] / <B> and and it's it's uh it's a dangerous thing for { just } / <A> [ absolutely ] / <B> even the environment the people { around } / <A> [ absolutely ] / <B> them children / <A> yeah / <B> e especially themselves and um i i try to tell my friends to quit smoking but it's not working / <A> no",
     "context_start": 96.52,
-    "context_end": 123.073125,
+    "context_end": 123.0145,
     "feedback": [
         {
-            "name": "PR_049_absolutely",
+            "name": "sun_002_absolutely",
             "start": 104.34,
-            "end": 105.426625,
+            "end": 105.38550000000001,
             "token": "absolutely"
         },
         {
-            "name": "spontF_558_mmm",
+            "name": "PR_049_absolutely",
             "start": 109.94,
-            "end": 111.20224999999999,
-            "token": "mmm"
+            "end": 111.026625,
+            "token": "absolutely"
         },
         {
-            "name": "NS_009_hm",
+            "name": "sun_037_absolutely",
             "start": 112.07,
-            "end": 113.62474999999999,
-            "token": "hm"
+            "end": 113.22925,
+            "token": "absolutely"
         },
         {
-            "name": "PR_026_yes",
+            "name": "spontA_387_yeah",
             "start": 114.49,
-            "end": 115.084375,
-            "token": "yes"
+            "end": 115.02812499999999,
+            "token": "yeah"
         },
         {
-            "name": "spontA_112_no",
+            "name": "spontE_345_no",
             "start": 122.26,
-            "end": 123.073125,
+            "end": 123.0145,
             "token": "no"
         }
     ]

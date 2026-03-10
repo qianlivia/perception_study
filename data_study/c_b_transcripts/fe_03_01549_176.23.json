@@ -1,15 +1,15 @@
 {
     "name": "fe_03_01549",
     "context_channel": 1,
-    "context_text": "<A> no i i i would agree if i would say that an actress or an actor goes through uh many years of college like a doctor i think a doctor is well paid i think they should be they go through eight years of { college } / <B> [ uh-oh ] / <A> i mean it's not like they sit back and say hey you owe me you know what i mean { i mean } / <B> [ yeah ] / <A> they really do they go through a lot of training { and } / <B> [ mhm ] / <A> uh athletes i'm sorry they don't they're not as committed they're they're not long term they seasonal so they're not even doing it year round wh where you've got a doctor that does it twenty four seven you know what i mean / <B> oh",
+    "context_text": "<A> no i i i would agree if i would say that an actress or an actor goes through uh many years of college like a doctor i think a doctor is well paid i think they should be they go through eight years of { college } / <B> [ sure ] / <A> i mean it's not like they sit back and say hey you owe me you know what i mean { i mean } / <B> [ yeah ] / <A> they really do they go through a lot of training { and } / <B> [ ooh ] / <A> uh athletes i'm sorry they don't they're not as committed they're they're not long term they seasonal so they're not even doing it year round wh where you've got a doctor that does it twenty four seven you know what i mean / <B> oh",
     "context_start": 176.23,
     "context_end": 207.994125,
     "feedback": [
         {
-            "name": "NegS_055_uh-oh",
+            "name": "sun_030_sure",
             "start": 188.62,
-            "end": 189.698375,
-            "token": "uh-oh"
+            "end": 189.567125,
+            "token": "sure"
         },
         {
             "name": "spontF_140_yeah",
@@ -18,10 +18,10 @@
             "token": "yeah"
         },
         {
-            "name": "spontC_235_mhm",
+            "name": "PS_099_ooh",
             "start": 195.52,
-            "end": 195.97175000000001,
-            "token": "mhm"
+            "end": 196.229,
+            "token": "ooh"
         },
         {
             "name": "spontE_295_oh",

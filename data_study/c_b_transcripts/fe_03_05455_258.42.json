@@ -1,27 +1,27 @@
 {
     "name": "fe_03_05455",
     "context_channel": 0,
-    "context_text": "<B> then you can play like the x box over the internet or something like that / <A> uh-huh / <B> or maybe the ps two too but / <A> yeah / <B> ah i don't really like to fiddle with stuff like that / <A> yeah",
+    "context_text": "<B> then you can play like the x box over the internet or something like that / <A> oh / <B> or maybe the ps two too but / <A> okay / <B> ah i don't really like to fiddle with stuff like that / <A> okay",
     "context_start": 258.42,
-    "context_end": 266.914625,
+    "context_end": 267.14712499999996,
     "feedback": [
         {
-            "name": "spontE_378_uh-huh",
+            "name": "spontF_465_oh",
             "start": 261.23,
-            "end": 261.751375,
-            "token": "uh-huh"
+            "end": 261.897625,
+            "token": "oh"
         },
         {
-            "name": "spontF_562_yeah",
+            "name": "spontD_410_okay",
             "start": 263.3,
-            "end": 263.868875,
-            "token": "yeah"
+            "end": 263.72375,
+            "token": "okay"
         },
         {
-            "name": "spontA_382_yeah",
+            "name": "spontC_134_okay",
             "start": 266.34,
-            "end": 266.914625,
-            "token": "yeah"
+            "end": 267.14712499999996,
+            "token": "okay"
         }
     ]
 }

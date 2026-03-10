@@ -1,32 +1,32 @@
 {
     "name": "fe_03_04773",
     "context_channel": 0,
-    "context_text": "<B> mhm yeah sort of a distraction or something / <A> yeah / <B> yeah well i can understand that cause get ah get an emotional situation just take any kind of kind of a distraction / <A> yeah / <B> that's cough yeah oh i was ah ah i i grew in a in a small school like there was three of us finished the eleventh grade together there { was } / <A> [ aww ] / <B> and ah we didn't even have twelfth grade but ah what i was gonna say that the other two boys both were pretty steady smokers by the time we was out of high school / <A> yeah",
+    "context_text": "<B> mhm yeah sort of a distraction or something / <A> yeah / <B> yeah well i can understand that cause get ah get an emotional situation just take any kind of kind of a distraction / <A> yeah / <B> that's cough yeah oh i was ah ah i i grew in a in a small school like there was three of us finished the eleventh grade together there { was } / <A> [ wow ] / <B> and ah we didn't even have twelfth grade but ah what i was gonna say that the other two boys both were pretty steady smokers by the time we was out of high school / <A> yeah",
     "context_start": 69.17,
-    "context_end": 115.804625,
+    "context_end": 115.74837500000001,
     "feedback": [
         {
-            "name": "spontD_025_yeah",
+            "name": "spontA_127_yeah",
             "start": 74.27,
-            "end": 74.795875,
+            "end": 74.9215,
             "token": "yeah"
+        },
+        {
+            "name": "spontD_200_yeah",
+            "start": 88.55,
+            "end": 89.218875,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_023_wow",
+            "start": 101.05,
+            "end": 101.8395,
+            "token": "wow"
         },
         {
             "name": "spontF_295_yeah",
-            "start": 88.55,
-            "end": 89.068375,
-            "token": "yeah"
-        },
-        {
-            "name": "spontF_296_aww",
-            "start": 101.05,
-            "end": 101.635875,
-            "token": "aww"
-        },
-        {
-            "name": "spontA_382_yeah",
             "start": 115.23,
-            "end": 115.804625,
+            "end": 115.74837500000001,
             "token": "yeah"
         }
     ]

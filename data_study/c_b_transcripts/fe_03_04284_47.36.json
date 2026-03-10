@@ -1,39 +1,39 @@
 {
     "name": "fe_03_04284",
     "context_channel": 1,
-    "context_text": "<A> well if it works out that ah i went to penn state um mostly because of my parents expectation is why i went to college / <B> oh / <A> ah the first time and um i just hated school i was very tired of it very bored with it and i just never went to class and / <B> aww / <A> almost failed out decided yeah i'll drop out before i fail out / <B> yeah / <A> so i i told my dad one day i said hey dad i'm joining the army / <B> oh / <A> after about twenty seconds he said what so i said oh i'm joining the army he says why well i explained you know just it's not working out and i'm i don't wanna waste your money so i left to spend three years in the army / <B> wow",
+    "context_text": "<A> well if it works out that ah i went to penn state um mostly because of my parents expectation is why i went to college / <B> okay / <A> ah the first time and um i just hated school i was very tired of it very bored with it and i just never went to class and / <B> oh / <A> almost failed out decided yeah i'll drop out before i fail out / <B> okay / <A> so i i told my dad one day i said hey dad i'm joining the army / <B> okay / <A> after about twenty seconds he said what so i said oh i'm joining the army he says why well i explained you know just it's not working out and i'm i don't wanna waste your money so i left to spend three years in the army / <B> okay",
     "context_start": 47.36,
-    "context_end": 88.844125,
+    "context_end": 89.02787500000001,
     "feedback": [
         {
-            "name": "spontF_109_oh",
+            "name": "spontC_020_okay",
             "start": 55.39,
-            "end": 55.7295,
-            "token": "oh"
+            "end": 55.865,
+            "token": "okay"
         },
         {
-            "name": "spontF_296_aww",
+            "name": "spontF_207_oh",
             "start": 63.52,
-            "end": 64.105875,
-            "token": "aww"
-        },
-        {
-            "name": "spontF_287_yeah",
-            "start": 68.18,
-            "end": 68.81125,
-            "token": "yeah"
-        },
-        {
-            "name": "spontF_017_oh",
-            "start": 73.21,
-            "end": 74.03937499999999,
+            "end": 63.904375,
             "token": "oh"
         },
         {
-            "name": "spontF_097_wow",
+            "name": "spontC_134_okay",
+            "start": 68.18,
+            "end": 68.987125,
+            "token": "okay"
+        },
+        {
+            "name": "spontD_022_okay",
+            "start": 73.21,
+            "end": 73.67899999999999,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_234_okay",
             "start": 88.4,
-            "end": 88.844125,
-            "token": "wow"
+            "end": 89.02787500000001,
+            "token": "okay"
         }
     ]
 }

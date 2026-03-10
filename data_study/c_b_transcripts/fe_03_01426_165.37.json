@@ -1,15 +1,15 @@
 {
     "name": "fe_03_01426",
     "context_channel": 1,
-    "context_text": "<A> up and my mom had mentioned to me that a plane had gone into the first { building } / <B> [ ugh ] / <A> and uh i probably i thought it was probably just a uh an airplane that got misguided or something / <B> uh-huh / <A> so i put on the tv and then they actually showed the coverage live of the second one { second plane } / <B> [ ah ] / <A> and it it just looked like one of these movies you had seen in the past { of } / <B> [ yeah ]",
+    "context_text": "<A> up and my mom had mentioned to me that a plane had gone into the first { building } / <B> [ wow ] / <A> and uh i probably i thought it was probably just a uh an airplane that got misguided or something / <B> uh-huh / <A> so i put on the tv and then they actually showed the coverage live of the second one { second plane } / <B> [ wow ] / <A> and it it just looked like one of these movies you had seen in the past { of } / <B> [ yeah ]",
     "context_start": 165.37,
     "context_end": 187.90475,
     "feedback": [
         {
-            "name": "NegS_020_ugh",
+            "name": "PS_038_wow",
             "start": 169.73,
-            "end": 170.994375,
-            "token": "ugh"
+            "end": 171.08575,
+            "token": "wow"
         },
         {
             "name": "spontE_106_uh-huh",
@@ -18,10 +18,10 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontE_232_ah",
+            "name": "PS_043_wow",
             "start": 182.17,
-            "end": 183.15075,
-            "token": "ah"
+            "end": 183.50525,
+            "token": "wow"
         },
         {
             "name": "spontC_062_yeah",

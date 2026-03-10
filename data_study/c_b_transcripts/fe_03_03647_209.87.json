@@ -1,15 +1,15 @@
 {
     "name": "fe_03_03647",
     "context_channel": 1,
-    "context_text": "<A> exactly you you know what a and another thing that's funny is check it out like um i say it was about a year and a half ago i got laid off of a with dell communications company right / <B> oh / <A> and i i was probably making close to thirty five a year / <B> wow / <A> that comes out probably to maybe about sixteen dollars an hour or more / <B> yeah / <A> and um when i got laid off i got on unemployment and i was / <B> uh-huh / <A> getting i was getting about three hundred a week / <B> yeah / <A> which which averages out to more than minimum wage / <B> yeah / <A> so my incentive to to look for something that would pay me more was was like you know really great you know what i'm saying it's like i felt like if if unemployment was paying me more than i could make in minimum wage { i was wasting } / <B> [ ugh ]",
+    "context_text": "<A> exactly you you know what a and another thing that's funny is check it out like um i say it was about a year and a half ago i got laid off of a with dell communications company right / <B> yeah / <A> and i i was probably making close to thirty five a year / <B> wow / <A> that comes out probably to maybe about sixteen dollars an hour or more / <B> yeah / <A> and um when i got laid off i got on unemployment and i was / <B> oh / <A> getting i was getting about three hundred a week / <B> yeah / <A> which which averages out to more than minimum wage / <B> yeah / <A> so my incentive to to look for something that would pay me more was was like you know really great you know what i'm saying it's like i felt like if if unemployment was paying me more than i could make in minimum wage { i was wasting } / <B> [ wow ]",
     "context_start": 209.87,
-    "context_end": 260.124375,
+    "context_end": 260.39250000000004,
     "feedback": [
         {
-            "name": "spontF_109_oh",
+            "name": "spontD_397_yeah",
             "start": 222.11,
-            "end": 222.4495,
-            "token": "oh"
+            "end": 222.491375,
+            "token": "yeah"
         },
         {
             "name": "spontF_097_wow",
@@ -18,34 +18,34 @@
             "token": "wow"
         },
         {
-            "name": "spontF_485_yeah",
+            "name": "spontA_336_yeah",
             "start": 230.68,
-            "end": 231.2825,
+            "end": 231.294625,
             "token": "yeah"
         },
         {
-            "name": "spontF_009_uh-huh",
+            "name": "spontF_109_oh",
             "start": 235.01,
-            "end": 235.39274999999998,
-            "token": "uh-huh"
+            "end": 235.34949999999998,
+            "token": "oh"
         },
         {
-            "name": "spontF_380_yeah",
+            "name": "spontF_562_yeah",
             "start": 240.31,
-            "end": 240.9235,
+            "end": 240.878875,
             "token": "yeah"
         },
         {
-            "name": "spontC_138_yeah",
+            "name": "spontF_485_yeah",
             "start": 245.88,
-            "end": 246.377375,
+            "end": 246.4825,
             "token": "yeah"
         },
         {
-            "name": "NegS_020_ugh",
+            "name": "PS_048_wow",
             "start": 258.86,
-            "end": 260.124375,
-            "token": "ugh"
+            "end": 260.39250000000004,
+            "token": "wow"
         }
     ]
 }

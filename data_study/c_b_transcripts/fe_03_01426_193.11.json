@@ -1,20 +1,20 @@
 {
     "name": "fe_03_01426",
     "context_channel": 1,
-    "context_text": "<A> um actually uh before the second plane hit my brother works in uh borough of manhattan community college { which } / <B> [ ah ] / <A> is about five blocks away { and } / <B> [ oh ] / <A> uh um he was telling me that he was watching people jump out of the first building and i kept telling him stop looking this is going to affect you stop looking / <B> yeah / <A> and uh he finally left the building and he started to uh walk away from the building { his building } / <B> [ yeah ]",
+    "context_text": "<A> um actually uh before the second plane hit my brother works in uh borough of manhattan community college { which } / <B> [ oh ] / <A> is about five blocks away { and } / <B> [ oh ] / <A> uh um he was telling me that he was watching people jump out of the first building and i kept telling him stop looking this is going to affect you stop looking / <B> yeah / <A> and uh he finally left the building and he started to uh walk away from the building { his building } / <B> [ wow ]",
     "context_start": 193.11,
-    "context_end": 218.972375,
+    "context_end": 219.25575,
     "feedback": [
         {
-            "name": "spontA_245_ah",
+            "name": "NS_025_oh",
             "start": 199.25,
-            "end": 199.83525,
-            "token": "ah"
+            "end": 200.230375,
+            "token": "oh"
         },
         {
-            "name": "spontF_582_oh",
+            "name": "Sy_056_oh",
             "start": 201.12,
-            "end": 203.01975000000002,
+            "end": 202.406125,
             "token": "oh"
         },
         {
@@ -24,10 +24,10 @@
             "token": "yeah"
         },
         {
-            "name": "spontF_324_yeah",
+            "name": "PS_108_wow",
             "start": 218.11,
-            "end": 218.972375,
-            "token": "yeah"
+            "end": 219.25575,
+            "token": "wow"
         }
     ]
 }

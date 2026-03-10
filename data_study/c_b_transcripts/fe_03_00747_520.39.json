@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00747",
     "context_channel": 1,
-    "context_text": "<A> holy cow i was sitting there one day and i said this is a cartoon / <B> yeah / <A> i said you know what if i was a kid nowadays that would not even hold my attention / <B> no / <A> i said i don't even know what a kid gets out of that and ah now when i was a kid we had the greatest cartoons in the world we had road runner bugs bunny / <B> uh-huh / <A> tweety and sylvester / <B> yeah",
+    "context_text": "<A> holy cow i was sitting there one day and i said this is a cartoon / <B> yeah / <A> i said you know what if i was a kid nowadays that would not even hold my attention / <B> no / <A> i said i don't even know what a kid gets out of that and ah now when i was a kid we had the greatest cartoons in the world we had road runner bugs bunny / <B> sure / <A> tweety and sylvester / <B> oh",
     "context_start": 520.39,
-    "context_end": 542.275625,
+    "context_end": 542.4841250000001,
     "feedback": [
         {
             "name": "spontE_331_yeah",
@@ -12,22 +12,22 @@
             "token": "yeah"
         },
         {
-            "name": "spontE_345_no",
+            "name": "spontA_112_no",
             "start": 530.82,
-            "end": 531.5745000000001,
+            "end": 531.6331250000001,
             "token": "no"
         },
         {
-            "name": "spontF_075_uh-huh",
+            "name": "sun_052_sure",
             "start": 539.92,
-            "end": 540.637875,
-            "token": "uh-huh"
+            "end": 540.77775,
+            "token": "sure"
         },
         {
-            "name": "spontE_023_yeah",
+            "name": "spontE_295_oh",
             "start": 541.74,
-            "end": 542.275625,
-            "token": "yeah"
+            "end": 542.4841250000001,
+            "token": "oh"
         }
     ]
 }

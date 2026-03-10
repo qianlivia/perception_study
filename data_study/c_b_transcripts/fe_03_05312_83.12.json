@@ -1,9 +1,9 @@
 {
     "name": "fe_03_05312",
     "context_channel": 0,
-    "context_text": "<B> uh-huh yeah actually when i was younger i'd watch more cause uh my father would watch uh f football / <A> uh-huh / <B> not soccer but you know american football / <A> yeah / <B> so he used to watch that / <A> yeah / <B> um and then my girlfriend watched uh football and baseball / <A> yeah / <B> she liked the / <A> ugh",
+    "context_text": "<B> uh-huh yeah actually when i was younger i'd watch more cause uh my father would watch uh f football / <A> uh-huh / <B> not soccer but you know american football / <A> uh-huh / <B> so he used to watch that / <A> yeah / <B> um and then my girlfriend watched uh football and baseball / <A> uh-huh / <B> she liked the / <A> yeah",
     "context_start": 83.12,
-    "context_end": 104.0195,
+    "context_end": 104.049125,
     "feedback": [
         {
             "name": "spontC_128_uh-huh",
@@ -12,28 +12,28 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontC_138_yeah",
+            "name": "spontD_020_uh-huh",
             "start": 93.87,
-            "end": 94.36737500000001,
-            "token": "yeah"
+            "end": 94.37462500000001,
+            "token": "uh-huh"
         },
         {
-            "name": "spontF_300_yeah",
+            "name": "spontF_380_yeah",
             "start": 96.43,
-            "end": 96.920625,
+            "end": 97.04350000000001,
             "token": "yeah"
         },
         {
-            "name": "spontF_287_yeah",
+            "name": "spontA_240_uh-huh",
             "start": 101.82,
-            "end": 102.45124999999999,
-            "token": "yeah"
+            "end": 102.33649999999999,
+            "token": "uh-huh"
         },
         {
-            "name": "spontF_389_ugh",
+            "name": "spontA_441_yeah",
             "start": 103.61,
-            "end": 104.0195,
-            "token": "ugh"
+            "end": 104.049125,
+            "token": "yeah"
         }
     ]
 }

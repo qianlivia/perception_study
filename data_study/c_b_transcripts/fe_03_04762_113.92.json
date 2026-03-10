@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04762",
     "context_channel": 1,
-    "context_text": "<A> really doesn't i think um you know and then almost causing me to take back the comment i said about how it would deter people from coming i mean people people are gonna go people { are gonna } / <B> [ uh-oh ] / <A> go to their favorite restaurants regardless { and } / <B> [ uh-huh ] / <A> there they're gonna go outside so i kinda { the } / <B> [ uh-huh ] / <A> more i think about it you know well these these these calls they kind of put you on the spot / <B> yes",
+    "context_text": "<A> really doesn't i think um you know and then almost causing me to take back the comment i said about how it would deter people from coming i mean people people are gonna go people { are gonna } / <B> [ absolutely ] / <A> go to their favorite restaurants regardless { and } / <B> [ exactly ] / <A> there they're gonna go outside so i kinda { the } / <B> [ exactly ] / <A> more i think about it you know well these these these calls they kind of put you on the spot / <B> yeah",
     "context_start": 113.92,
-    "context_end": 133.6425,
+    "context_end": 133.504375,
     "feedback": [
         {
-            "name": "NegS_055_uh-oh",
+            "name": "sun_001_absolutely",
             "start": 124.74,
-            "end": 125.81837499999999,
-            "token": "uh-oh"
+            "end": 125.750125,
+            "token": "absolutely"
         },
         {
-            "name": "spontE_227_uh-huh",
+            "name": "sun_042_exactly",
             "start": 126.77,
-            "end": 127.191625,
-            "token": "uh-huh"
+            "end": 127.72725,
+            "token": "exactly"
         },
         {
-            "name": "spontE_065_uh-huh",
+            "name": "sun_041_exactly",
             "start": 129.16,
-            "end": 129.604375,
-            "token": "uh-huh"
+            "end": 130.113,
+            "token": "exactly"
         },
         {
-            "name": "spontC_507_yes",
+            "name": "spontE_003_yeah",
             "start": 133.12,
-            "end": 133.6425,
-            "token": "yes"
+            "end": 133.504375,
+            "token": "yeah"
         }
     ]
 }

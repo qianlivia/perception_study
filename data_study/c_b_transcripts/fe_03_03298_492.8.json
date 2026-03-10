@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03298",
     "context_channel": 1,
-    "context_text": "<A> i uh yeah if you've got the same beliefs if you're working for the same goals / <B> mhm / <A> you know that's when it all comes together { at } / <B> [ yeah ] / <A> some point um { as } / <B> [ yeah ] / <A> long as you can support each other emotionally / <B> yes",
+    "context_text": "<A> i uh yeah if you've got the same beliefs if you're working for the same goals / <B> yeah / <A> you know that's when it all comes together { at } / <B> [ yeah ] / <A> some point um { as } / <B> [ yeah ] / <A> long as you can support each other emotionally / <B> yeah",
     "context_start": 492.8,
-    "context_end": 509.537625,
+    "context_end": 509.344875,
     "feedback": [
         {
-            "name": "spontA_107_mhm",
+            "name": "spontD_397_yeah",
             "start": 499.53,
-            "end": 500.043125,
-            "token": "mhm"
+            "end": 499.91137499999996,
+            "token": "yeah"
+        },
+        {
+            "name": "PR_031_yeah",
+            "start": 503.41,
+            "end": 503.813125,
+            "token": "yeah"
         },
         {
             "name": "spontE_280_yeah",
-            "start": 503.41,
-            "end": 503.892875,
-            "token": "yeah"
-        },
-        {
-            "name": "spontA_441_yeah",
             "start": 505.02,
-            "end": 505.459125,
+            "end": 505.50287499999996,
             "token": "yeah"
         },
         {
-            "name": "spontB_368_yes",
+            "name": "spontC_321_yeah",
             "start": 508.68,
-            "end": 509.537625,
-            "token": "yes"
+            "end": 509.344875,
+            "token": "yeah"
         }
     ]
 }

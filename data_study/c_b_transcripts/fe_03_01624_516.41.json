@@ -1,9 +1,9 @@
 {
     "name": "fe_03_01624",
     "context_channel": 0,
-    "context_text": "<B> it just seems to me like there are a lot of people a lot of the civilians over there who weren't complaining / <A> yeah / <B> i mean i'm sure a lot of em were and i'm sure a lot of em really were being treated bad { but it doesn't } / <A> [ huh ] / <B> se it seems like there were a lot of people who who were happy with him { i mean in watching the } / <A> [ yeah ] / <B> news and watching all the people that were going up and hugging him and cheering him { and stuff with our soldiers } / <A> [ yeah ]",
+    "context_text": "<B> it just seems to me like there are a lot of people a lot of the civilians over there who weren't complaining / <A> yeah / <B> i mean i'm sure a lot of em were and i'm sure a lot of em really were being treated bad { but it doesn't } / <A> [ yeah ] / <B> se it seems like there were a lot of people who who were happy with him { i mean in watching the } / <A> [ yeah ] / <B> news and watching all the people that were going up and hugging him and cheering him { and stuff with our soldiers } / <A> [ wow ]",
     "context_start": 516.41,
-    "context_end": 538.921625,
+    "context_end": 539.9148749999999,
     "feedback": [
         {
             "name": "spontA_382_yeah",
@@ -12,22 +12,22 @@
             "token": "yeah"
         },
         {
-            "name": "sun2_014_huh",
-            "start": 527.89,
-            "end": 528.94675,
-            "token": "huh"
-        },
-        {
-            "name": "spontD_134_yeah",
-            "start": 532.95,
-            "end": 533.796875,
-            "token": "yeah"
-        },
-        {
             "name": "spontA_073_yeah",
-            "start": 537.77,
-            "end": 538.921625,
+            "start": 527.89,
+            "end": 529.041625,
             "token": "yeah"
+        },
+        {
+            "name": "spontB_082_yeah",
+            "start": 532.95,
+            "end": 533.961125,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_171_wow",
+            "start": 537.77,
+            "end": 539.9148749999999,
+            "token": "wow"
         }
     ]
 }

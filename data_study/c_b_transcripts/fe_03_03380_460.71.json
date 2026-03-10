@@ -1,15 +1,15 @@
 {
     "name": "fe_03_03380",
     "context_channel": 1,
-    "context_text": "<A> another year and then we we lived together we lived together actually before we we it was about six months before the divorce finally went through { we were } / <B> [ ah ] / <A> living together and um you know he was like i wanna marry you right now you know i'm tired of this let's get this done and / <B> yeah / <A> um i finally got the divorce and it it actually came on my birthday { it was } / <B> [ oh ] / <A> final on my birthday it was great that's the best birthday present in the world { you } / <B> [ yeah ]",
+    "context_text": "<A> another year and then we we lived together we lived together actually before we we it was about six months before the divorce finally went through { we were } / <B> [ wow ] / <A> living together and um you know he was like i wanna marry you right now you know i'm tired of this let's get this done and / <B> yeah / <A> um i finally got the divorce and it it actually came on my birthday { it was } / <B> [ wow ] / <A> final on my birthday it was great that's the best birthday present in the world { you } / <B> [ yeah ]",
     "context_start": 460.71,
-    "context_end": 485.682,
+    "context_end": 485.784625,
     "feedback": [
         {
-            "name": "spontE_232_ah",
+            "name": "PS_176_wow",
             "start": 468.87,
-            "end": 469.85075,
-            "token": "ah"
+            "end": 469.8675,
+            "token": "wow"
         },
         {
             "name": "spontB_016_yeah",
@@ -18,15 +18,15 @@
             "token": "yeah"
         },
         {
-            "name": "spontE_048_oh",
+            "name": "PS_085_wow",
             "start": 481.17,
-            "end": 481.915125,
-            "token": "oh"
+            "end": 482.03900000000004,
+            "token": "wow"
         },
         {
-            "name": "spontF_127_yeah",
+            "name": "spontF_367_yeah",
             "start": 484.98,
-            "end": 485.682,
+            "end": 485.784625,
             "token": "yeah"
         }
     ]

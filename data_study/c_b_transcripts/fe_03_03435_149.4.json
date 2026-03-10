@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03435",
     "context_channel": 0,
-    "context_text": "<B> about yourse well think / <A> yeah / <B> about yourself but don't think / <A> yeah / <B> about just yourself you have { to think } / <A> [ oh ]",
+    "context_text": "<B> about yourse well think / <A> yeah / <B> about yourself but don't think / <A> yeah / <B> about just yourself you have { to think } / <A> [ yeah ]",
     "context_start": 149.4,
-    "context_end": 154.955125,
+    "context_end": 154.72400000000002,
     "feedback": [
         {
             "name": "spontB_094_yeah",
@@ -18,10 +18,10 @@
             "token": "yeah"
         },
         {
-            "name": "spontE_048_oh",
+            "name": "spontC_063_yeah",
             "start": 154.21,
-            "end": 154.955125,
-            "token": "oh"
+            "end": 154.72400000000002,
+            "token": "yeah"
         }
     ]
 }

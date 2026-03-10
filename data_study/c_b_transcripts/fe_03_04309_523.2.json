@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04309",
     "context_channel": 1,
-    "context_text": "<A> eight years of prosperity and no you know eight years going with the clinton administration in which he did his fair share of wrong but / <B> yeah / <A> it just seems like and since bush got in office nothing against him { but we } / <B> [ no ] / <A> went from eight years of record breaking numbers the stock market climbing to ultimate highs the dot com business you know before the bubble busted was just / <B> uh-huh / <A> raving people were making a killing { more } / <B> [ yeah ] / <A> self make millionaires than ever / <B> uh-huh",
+    "context_text": "<A> eight years of prosperity and no you know eight years going with the clinton administration in which he did his fair share of wrong but / <B> yeah / <A> it just seems like and since bush got in office nothing against him { but we } / <B> [ no ] / <A> went from eight years of record breaking numbers the stock market climbing to ultimate highs the dot com business you know before the bubble busted was just / <B> uh-huh / <A> raving people were making a killing { more } / <B> [ wow ] / <A> self make millionaires than ever / <B> uh-huh",
     "context_start": 523.2,
-    "context_end": 546.0913750000001,
+    "context_end": 546.169125,
     "feedback": [
         {
             "name": "spontD_397_yeah",
@@ -12,9 +12,9 @@
             "token": "yeah"
         },
         {
-            "name": "spontA_112_no",
+            "name": "NR_098_no",
             "start": 533.05,
-            "end": 533.863125,
+            "end": 533.5455,
             "token": "no"
         },
         {
@@ -24,15 +24,15 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontC_250_yeah",
+            "name": "PS_094_wow",
             "start": 543.63,
-            "end": 544.4645,
-            "token": "yeah"
+            "end": 544.6645,
+            "token": "wow"
         },
         {
-            "name": "spontE_378_uh-huh",
+            "name": "spontC_132_uh-huh",
             "start": 545.57,
-            "end": 546.0913750000001,
+            "end": 546.169125,
             "token": "uh-huh"
         }
     ]

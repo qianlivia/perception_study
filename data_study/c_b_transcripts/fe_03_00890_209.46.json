@@ -1,26 +1,26 @@
 {
     "name": "fe_03_00890",
     "context_channel": 0,
-    "context_text": "<B> and see if they wanna get married but { i } / <A> [ uh-huh ] / <B> don't think i'm giving that one another chance / <A> no / <B> um there's something with the same format like the american idol that i enjoy because it's people singing / <A> yeah",
+    "context_text": "<B> and see if they wanna get married but { i } / <A> [ yeah ] / <B> don't think i'm giving that one another chance / <A> no / <B> um there's something with the same format like the american idol that i enjoy because it's people singing / <A> yeah",
     "context_start": 209.46,
-    "context_end": 221.46125,
+    "context_end": 221.43687500000001,
     "feedback": [
         {
-            "name": "spontE_065_uh-huh",
+            "name": "spontB_016_yeah",
             "start": 211.19,
-            "end": 211.634375,
-            "token": "uh-huh"
+            "end": 211.584875,
+            "token": "yeah"
         },
         {
-            "name": "spontF_264_no",
+            "name": "spontA_112_no",
             "start": 213.42,
-            "end": 213.957125,
+            "end": 214.233125,
             "token": "no"
         },
         {
-            "name": "spontF_287_yeah",
+            "name": "spontF_047_yeah",
             "start": 220.83,
-            "end": 221.46125,
+            "end": 221.43687500000001,
             "token": "yeah"
         }
     ]

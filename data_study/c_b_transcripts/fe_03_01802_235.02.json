@@ -3,30 +3,30 @@
     "context_channel": 1,
     "context_text": "<A> yep that that's true that's very true hm it's interesting to think about and and if if we're using it so much now what's it gonna be like you know i always think twenty years / <B> yeah / <A> you know how advanced i mean gosh everything will be automated and you know you'll be able to i mean you already can pay your bills on line and / <B> yeah / <A> you know banking you can do your banking you're never going to have to go to any of these institutions anymore / <B> yeah / <A> you know that that's true um even even music um you can listen to songs you can listen before you buy a cd you can go to the web site or the the cd and listen to it you know you can get a sample right over the internet / <B> yeah",
     "context_start": 235.02,
-    "context_end": 282.57250000000005,
+    "context_end": 282.488375,
     "feedback": [
         {
-            "name": "spontE_276_yeah",
+            "name": "spontB_094_yeah",
             "start": 246.35,
-            "end": 246.81775,
+            "end": 246.686,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_324_yeah",
+            "start": 255.73,
+            "end": 256.337875,
             "token": "yeah"
         },
         {
             "name": "spontD_025_yeah",
-            "start": 255.73,
-            "end": 256.255875,
-            "token": "yeah"
-        },
-        {
-            "name": "spontC_382_yeah",
             "start": 263.36,
-            "end": 263.93925,
+            "end": 263.885875,
             "token": "yeah"
         },
         {
-            "name": "spontF_485_yeah",
+            "name": "spontF_295_yeah",
             "start": 281.97,
-            "end": 282.57250000000005,
+            "end": 282.488375,
             "token": "yeah"
         }
     ]

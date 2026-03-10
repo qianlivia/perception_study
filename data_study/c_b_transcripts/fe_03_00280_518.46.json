@@ -1,15 +1,15 @@
 {
     "name": "fe_03_00280",
     "context_channel": 0,
-    "context_text": "<B> um i actually didn't fly often at all over a year and a half ago i / <A> oh / <B> almost never so this has actually been mostly in the last year so i don't notice a difference only 'cause i don't / <A> yeah / <B> really have much to compare it to um but i usually i'll get there probably between and hour and an hour and a half before my flight and have no problem getting { in no } / <A> [ huh ] / <B> matter what time of day it is / <A> yeah",
+    "context_text": "<B> um i actually didn't fly often at all over a year and a half ago i / <A> uh-huh / <B> almost never so this has actually been mostly in the last year so i don't notice a difference only 'cause i don't / <A> yeah / <B> really have much to compare it to um but i usually i'll get there probably between and hour and an hour and a half before my flight and have no problem getting { in no } / <A> [ no ] / <B> matter what time of day it is / <A> yeah",
     "context_start": 518.46,
-    "context_end": 544.0135,
+    "context_end": 543.9778749999999,
     "feedback": [
         {
-            "name": "spontF_109_oh",
+            "name": "spontC_128_uh-huh",
             "start": 526.04,
-            "end": 526.3795,
-            "token": "oh"
+            "end": 526.5408749999999,
+            "token": "uh-huh"
         },
         {
             "name": "spontF_547_yeah",
@@ -18,15 +18,15 @@
             "token": "yeah"
         },
         {
-            "name": "sun2_014_huh",
+            "name": "NR_114_no",
             "start": 541.41,
-            "end": 542.4667499999999,
-            "token": "huh"
+            "end": 542.7206249999999,
+            "token": "no"
         },
         {
-            "name": "spontF_380_yeah",
+            "name": "spontC_255_yeah",
             "start": 543.4,
-            "end": 544.0135,
+            "end": 543.9778749999999,
             "token": "yeah"
         }
     ]

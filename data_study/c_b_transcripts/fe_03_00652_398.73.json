@@ -1,15 +1,15 @@
 {
     "name": "fe_03_00652",
     "context_channel": 1,
-    "context_text": "<A> i was at my i have twin boys and they were born { like } / <B> [ uh-huh ] / <A> uhm uhm uhm almost exactly a month before august twelfth on august twelfth / <B> oh / <A> and i remember my my grandmother was in helping me take care of them came { and woke } / <B> [ oh ] / <A> me up and we just sat there in shock all day and i'm just you know looking at your new life is going wow i brought them in to this felt so guilty you know that you { know } / <B> [ yeah ]",
+    "context_text": "<A> i was at my i have twin boys and they were born { like } / <B> [ oh ] / <A> uhm uhm uhm almost exactly a month before august twelfth on august twelfth / <B> oh / <A> and i remember my my grandmother was in helping me take care of them came { and woke } / <B> [ oh ] / <A> me up and we just sat there in shock all day and i'm just you know looking at your new life is going wow i brought them in to this felt so guilty you know that you { know } / <B> [ yeah ]",
     "context_start": 398.73,
-    "context_end": 422.55625,
+    "context_end": 422.46175,
     "feedback": [
         {
-            "name": "spontA_086_uh-huh",
+            "name": "spontF_277_oh",
             "start": 401.69,
-            "end": 402.200125,
-            "token": "uh-huh"
+            "end": 402.25825,
+            "token": "oh"
         },
         {
             "name": "spontF_017_oh",
@@ -24,9 +24,9 @@
             "token": "oh"
         },
         {
-            "name": "spontF_512_yeah",
+            "name": "spontB_139_yeah",
             "start": 421.57,
-            "end": 422.55625,
+            "end": 422.46175,
             "token": "yeah"
         }
     ]

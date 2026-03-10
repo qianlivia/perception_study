@@ -1,15 +1,15 @@
 {
     "name": "fe_03_01449",
     "context_channel": 0,
-    "context_text": "<B> um i'm not flying right now i was going to go back to missouri and see my grandparents / <A> aww / <B> and i am not flying because of the terrorist attacks because not for myself i wouldn't be so hesitant for myself but i'm taking all my kids / <A> oh / <B> and i just i don't feel comfortable putting their life in jeopardy { in a in } / <A> [ no ] / <B> a tumultuous time like this { now } / <A> [ no ] / <B> that the war's over you know i probably feel a little safer / <A> yeah / <B> but i don't know it still makes me nervous / <A> yeah",
+    "context_text": "<B> um i'm not flying right now i was going to go back to missouri and see my grandparents / <A> ooh / <B> and i am not flying because of the terrorist attacks because not for myself i wouldn't be so hesitant for myself but i'm taking all my kids / <A> oh / <B> and i just i don't feel comfortable putting their life in jeopardy { in a in } / <A> [ no ] / <B> a tumultuous time like this { now } / <A> [ no ] / <B> that the war's over you know i probably feel a little safer / <A> yeah / <B> but i don't know it still makes me nervous / <A> yeah",
     "context_start": 76.22,
-    "context_end": 103.234625,
+    "context_end": 103.31125,
     "feedback": [
         {
-            "name": "spontF_670_aww",
+            "name": "spontC_185_ooh",
             "start": 81.32,
-            "end": 81.927875,
-            "token": "aww"
+            "end": 82.08687499999999,
+            "token": "ooh"
         },
         {
             "name": "spontF_320_oh",
@@ -18,15 +18,15 @@
             "token": "oh"
         },
         {
-            "name": "spontA_112_no",
+            "name": "sun2_028_no",
             "start": 92.68,
-            "end": 93.493125,
+            "end": 93.698625,
             "token": "no"
         },
         {
-            "name": "sun2_029_no",
+            "name": "NR_013_no",
             "start": 94.96,
-            "end": 95.699125,
+            "end": 95.52624999999999,
             "token": "no"
         },
         {
@@ -36,9 +36,9 @@
             "token": "yeah"
         },
         {
-            "name": "spontA_382_yeah",
+            "name": "spontA_109_yeah",
             "start": 102.66,
-            "end": 103.234625,
+            "end": 103.31125,
             "token": "yeah"
         }
     ]

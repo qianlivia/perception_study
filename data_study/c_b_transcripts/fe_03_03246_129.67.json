@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03246",
     "context_channel": 0,
-    "context_text": "<B> yeah ah th the whole purpose of the privatization which i'm i'm all for / <A> oh / <B> if if the corporations had the um er had the ability or the want or the desire to not be greedy / <A> yes / <B> but instead to be able to provide their product and make a reasonable profit but i think what happened is that the greed was just so ah so great well look at american airlines / <A> ugh / <B> ah he here's everybody all the unions all voted to give themselves massive pay cuts and all at the same time the people at the upper echelon were giving themselves bonuses { i } / <A> [ well ]",
+    "context_text": "<B> yeah ah th the whole purpose of the privatization which i'm i'm all for / <A> okay / <B> if if the corporations had the um er had the ability or the want or the desire to not be greedy / <A> okay / <B> but instead to be able to provide their product and make a reasonable profit but i think what happened is that the greed was just so ah so great well look at american airlines / <A> yeah / <B> ah he here's everybody all the unions all voted to give themselves massive pay cuts and all at the same time the people at the upper echelon were giving themselves bonuses { i } / <A> [ yeah ]",
     "context_start": 129.67,
-    "context_end": 166.43225,
+    "context_end": 166.41012500000002,
     "feedback": [
         {
-            "name": "spontF_109_oh",
+            "name": "spontC_020_okay",
             "start": 134.58,
-            "end": 134.9195,
-            "token": "oh"
+            "end": 135.055,
+            "token": "okay"
         },
         {
-            "name": "spontC_507_yes",
+            "name": "spontC_511_okay",
             "start": 144.71,
-            "end": 145.23250000000002,
-            "token": "yes"
+            "end": 145.220875,
+            "token": "okay"
         },
         {
-            "name": "spontF_389_ugh",
+            "name": "spontD_397_yeah",
             "start": 155.89,
-            "end": 156.2995,
-            "token": "ugh"
+            "end": 156.27137499999998,
+            "token": "yeah"
         },
         {
-            "name": "spontD_171_well",
+            "name": "spontD_024_yeah",
             "start": 165.99,
-            "end": 166.43225,
-            "token": "well"
+            "end": 166.41012500000002,
+            "token": "yeah"
         }
     ]
 }

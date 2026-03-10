@@ -1,27 +1,27 @@
 {
     "name": "fe_03_01214",
     "context_channel": 0,
-    "context_text": "<B> uh a and the they waste so much i mean we're we're in the middle it seems of of a big scandal uh in the detroit public schools / <A> uh-huh / <B> uh in regards to those things um uh the uh administrators i'm not talking about the teachers but the administrators who um abuse the you know uh travel allowance and stuff like that { you know } / <A> [ right ] / <B> or or use a um uh uh school owned charge card to to { make } / <A> [ what ]",
+    "context_text": "<B> uh a and the they waste so much i mean we're we're in the middle it seems of of a big scandal uh in the detroit public schools / <A> ah / <B> uh in regards to those things um uh the uh administrators i'm not talking about the teachers but the administrators who um abuse the you know uh travel allowance and stuff like that { you know } / <A> [ oh ] / <B> or or use a um uh uh school owned charge card to to { make } / <A> [ right ]",
     "context_start": 514.54,
-    "context_end": 545.04525,
+    "context_end": 544.853375,
     "feedback": [
         {
-            "name": "spontF_009_uh-huh",
+            "name": "spontA_245_ah",
             "start": 523.6,
-            "end": 523.98275,
-            "token": "uh-huh"
+            "end": 524.18525,
+            "token": "ah"
+        },
+        {
+            "name": "Sy_044_oh",
+            "start": 537.94,
+            "end": 539.059875,
+            "token": "oh"
         },
         {
             "name": "sun1_032_right",
-            "start": 537.94,
-            "end": 538.7833750000001,
-            "token": "right"
-        },
-        {
-            "name": "spontF_577_what",
             "start": 544.01,
-            "end": 545.04525,
-            "token": "what"
+            "end": 544.853375,
+            "token": "right"
         }
     ]
 }

@@ -1,39 +1,39 @@
 {
     "name": "fe_03_05817",
     "context_channel": 0,
-    "context_text": "<B> um yeah well i just feel that ah the market will probably um correct itself / <A> okay / <B> you know which it certainly has already / <A> okay / <B> um i know i have friends who ah who do audit type work / <A> okay / <B> and they're they're totally they're saying you know everything's totally different now { it's } / <A> [ okay ] / <B> so much harder there are so many more ah hoops and hurdles that they have to pass through / <A> okay",
+    "context_text": "<B> um yeah well i just feel that ah the market will probably um correct itself / <A> yeah / <B> you know which it certainly has already / <A> yeah / <B> um i know i have friends who ah who do audit type work / <A> uh-huh / <B> and they're they're totally they're saying you know everything's totally different now { it's } / <A> [ yeah ] / <B> so much harder there are so many more ah hoops and hurdles that they have to pass through / <A> yeah",
     "context_start": 27.19,
-    "context_end": 49.622,
+    "context_end": 49.31025,
     "feedback": [
         {
-            "name": "spontB_028_okay",
+            "name": "spontD_024_yeah",
             "start": 33.26,
-            "end": 33.69325,
-            "token": "okay"
+            "end": 33.680125,
+            "token": "yeah"
         },
         {
-            "name": "spontD_022_okay",
+            "name": "spontF_552_yeah",
             "start": 35.73,
-            "end": 36.199,
-            "token": "okay"
+            "end": 36.189249999999994,
+            "token": "yeah"
         },
         {
-            "name": "spontC_511_okay",
+            "name": "spontD_020_uh-huh",
             "start": 40.1,
-            "end": 40.610875,
-            "token": "okay"
+            "end": 40.604625,
+            "token": "uh-huh"
         },
         {
-            "name": "spontD_089_okay",
+            "name": "spontC_321_yeah",
             "start": 43.88,
-            "end": 44.685125,
-            "token": "okay"
+            "end": 44.544875000000005,
+            "token": "yeah"
         },
         {
-            "name": "spontF_317_okay",
+            "name": "spontD_140_yeah",
             "start": 48.77,
-            "end": 49.622,
-            "token": "okay"
+            "end": 49.31025,
+            "token": "yeah"
         }
     ]
 }

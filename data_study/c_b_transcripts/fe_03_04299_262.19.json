@@ -1,15 +1,15 @@
 {
     "name": "fe_03_04299",
     "context_channel": 1,
-    "context_text": "<A> oh well um i am from africa i'm from namibia / <B> okay / <A> and namibia is a country where apartheid was practised / <B> okay / <A> yes we were a colony of south south ah it's the bad south african regime before that we were a colony of germany and we had been subjected to all sort of um um exclusion in decision making ah we were excluded in education we were excluded in almost in everything so one would have wished to accomplish a lot of things if you had ah if one had a chance to do so ah i have now a chance presently but that's now ah in my early you know years so um i i i mean ah i i i if one wished you know you would not want to wait until you are very old or you're old you would want to finish your schooling i mean your school career while you are very very young / <B> gosh / <A> so ah that's something that i would have wished / <B> okay",
+    "context_text": "<A> oh well um i am from africa i'm from namibia / <B> ah / <A> and namibia is a country where apartheid was practised / <B> okay / <A> yes we were a colony of south south ah it's the bad south african regime before that we were a colony of germany and we had been subjected to all sort of um um exclusion in decision making ah we were excluded in education we were excluded in almost in everything so one would have wished to accomplish a lot of things if you had ah if one had a chance to do so ah i have now a chance presently but that's now ah in my early you know years so um i i i mean ah i i i if one wished you know you would not want to wait until you are very old or you're old you would want to finish your schooling i mean your school career while you are very very young / <B> mhm / <A> so ah that's something that i would have wished / <B> yeah",
     "context_start": 262.19,
-    "context_end": 330.95799999999997,
+    "context_end": 330.237625,
     "feedback": [
         {
-            "name": "spontD_022_okay",
+            "name": "spontA_245_ah",
             "start": 267.05,
-            "end": 267.519,
-            "token": "okay"
+            "end": 267.63525,
+            "token": "ah"
         },
         {
             "name": "spontF_317_okay",
@@ -18,16 +18,16 @@
             "token": "okay"
         },
         {
-            "name": "NegS_050_gosh",
+            "name": "spontD_115_mhm",
             "start": 325.29,
-            "end": 326.17487500000004,
-            "token": "gosh"
+            "end": 325.779875,
+            "token": "mhm"
         },
         {
-            "name": "spontF_583_okay",
+            "name": "spontC_060_yeah",
             "start": 329.78,
-            "end": 330.95799999999997,
-            "token": "okay"
+            "end": 330.237625,
+            "token": "yeah"
         }
     ]
 }

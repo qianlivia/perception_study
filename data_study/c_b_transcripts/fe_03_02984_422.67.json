@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02984",
     "context_channel": 1,
-    "context_text": "<A> i did uh i did a lot of research before i decided that i was gonna get any mix with a pit with pit bull in it / <B> yeah / <A> and they're very actually there's a list i don't know if it was the center for dise disease control that did but there's list of which dogs are more likely to bite / <B> okay / <A> and golden retrievers were the highest / <B> okay / <A> and they're the ones that have the biggest biter and there's other dogs that are just everyday dogs / <B> okay",
+    "context_text": "<A> i did uh i did a lot of research before i decided that i was gonna get any mix with a pit with pit bull in it / <B> uh-huh / <A> and they're very actually there's a list i don't know if it was the center for dise disease control that did but there's list of which dogs are more likely to bite / <B> oh / <A> and golden retrievers were the highest / <B> really / <A> and they're the ones that have the biggest biter and there's other dogs that are just everyday dogs / <B> yeah",
     "context_start": 422.67,
-    "context_end": 450.151625,
+    "context_end": 450.0435,
     "feedback": [
         {
-            "name": "spontA_382_yeah",
+            "name": "spontC_367_uh-huh",
             "start": 428.36,
-            "end": 428.93462500000004,
-            "token": "yeah"
+            "end": 428.937875,
+            "token": "uh-huh"
         },
         {
-            "name": "spontD_073_okay",
+            "name": "spontF_017_oh",
             "start": 439.25,
-            "end": 439.991125,
-            "token": "okay"
+            "end": 440.079375,
+            "token": "oh"
         },
         {
-            "name": "spontC_134_okay",
+            "name": "PS_019_really",
             "start": 442.84,
-            "end": 443.64712499999996,
-            "token": "okay"
+            "end": 443.62949999999995,
+            "token": "really"
         },
         {
-            "name": "spontF_280_okay",
+            "name": "spontF_380_yeah",
             "start": 449.43,
-            "end": 450.151625,
-            "token": "okay"
+            "end": 450.0435,
+            "token": "yeah"
         }
     ]
 }

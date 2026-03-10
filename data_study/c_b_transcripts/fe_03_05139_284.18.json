@@ -1,39 +1,39 @@
 {
     "name": "fe_03_05139",
     "context_channel": 1,
-    "context_text": "<A> and his concept of the computer was taking it apart a and not being able to put it back together / <B> no / <A> but we had an old one around along with a printer { and he } / <B> [ okay ] / <A> wasn't afraid of the technology he { grew up } / <B> [ okay ] / <A> with it and then he started to go on the internet but he started to learn his basics as far as reading and arithmetic even before kindergarten / <B> gosh / <A> and then ah he goes to public school and he does very well at school and then he supplements you know the usual games on the computer / <B> okay",
+    "context_text": "<A> and his concept of the computer was taking it apart a and not being able to put it back together / <B> uh-huh / <A> but we had an old one around along with a printer { and he } / <B> [ uh-huh ] / <A> wasn't afraid of the technology he { grew up } / <B> [ no ] / <A> with it and then he started to go on the internet but he started to learn his basics as far as reading and arithmetic even before kindergarten / <B> yes / <A> and then ah he goes to public school and he does very well at school and then he supplements you know the usual games on the computer / <B> uh-huh",
     "context_start": 284.18,
-    "context_end": 318.120875,
+    "context_end": 318.114625,
     "feedback": [
         {
-            "name": "spontE_345_no",
+            "name": "spontE_070_uh-huh",
             "start": 290.07,
-            "end": 290.8245,
+            "end": 290.54474999999996,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontB_137_uh-huh",
+            "start": 292.85,
+            "end": 293.401,
+            "token": "uh-huh"
+        },
+        {
+            "name": "sun2_029_no",
+            "start": 295.58,
+            "end": 296.319125,
             "token": "no"
         },
         {
-            "name": "spontC_020_okay",
-            "start": 292.85,
-            "end": 293.32500000000005,
-            "token": "okay"
-        },
-        {
-            "name": "spontD_089_okay",
-            "start": 295.58,
-            "end": 296.38512499999996,
-            "token": "okay"
-        },
-        {
-            "name": "PS_073_gosh",
+            "name": "sun_023_yes",
             "start": 305.89,
-            "end": 306.8505,
-            "token": "gosh"
+            "end": 306.72887499999996,
+            "token": "yes"
         },
         {
-            "name": "spontC_511_okay",
+            "name": "spontD_020_uh-huh",
             "start": 317.61,
-            "end": 318.120875,
-            "token": "okay"
+            "end": 318.114625,
+            "token": "uh-huh"
         }
     ]
 }

@@ -1,9 +1,9 @@
 {
     "name": "fe_03_05644",
     "context_channel": 1,
-    "context_text": "<A> like um you pretty much have to get there like at least two hours before your flight { if } / <B> [ yeah ] / <A> you want to if you want to make it on time / <B> yeah / <A> so like uh i mean it always took a while but now it's like ridiculous cause like they're always doing like like they do a lot more of the um like random searches like it's happened to me a couple of times where like you'll walk through the metal detector and / <B> yeah / <A> like you won't even set it off but they'll like pull you aside and um / <B> yeah / <A> use like the thing like the uh handheld thing on you / <B> yeah",
+    "context_text": "<A> like um you pretty much have to get there like at least two hours before your flight { if } / <B> [ yeah ] / <A> you want to if you want to make it on time / <B> yeah / <A> so like uh i mean it always took a while but now it's like ridiculous cause like they're always doing like like they do a lot more of the um like random searches like it's happened to me a couple of times where like you'll walk through the metal detector and / <B> uh-huh / <A> like you won't even set it off but they'll like pull you aside and um / <B> oh / <A> use like the thing like the uh handheld thing on you / <B> yeah",
     "context_start": 215.82,
-    "context_end": 243.8125,
+    "context_end": 243.75025,
     "feedback": [
         {
             "name": "spontD_101_yeah",
@@ -18,21 +18,21 @@
             "token": "yeah"
         },
         {
-            "name": "spontC_138_yeah",
+            "name": "spontC_128_uh-huh",
             "start": 236.32,
-            "end": 236.817375,
-            "token": "yeah"
+            "end": 236.820875,
+            "token": "uh-huh"
         },
         {
-            "name": "spontB_016_yeah",
+            "name": "spontF_207_oh",
             "start": 239.93,
-            "end": 240.32487500000002,
-            "token": "yeah"
+            "end": 240.314375,
+            "token": "oh"
         },
         {
-            "name": "spontF_485_yeah",
+            "name": "spontD_140_yeah",
             "start": 243.21,
-            "end": 243.8125,
+            "end": 243.75025,
             "token": "yeah"
         }
     ]

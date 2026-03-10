@@ -1,26 +1,26 @@
 {
     "name": "fe_03_00641",
     "context_channel": 0,
-    "context_text": "<B> and and uh well i had seen i turned on the news after the first tower had been hit but { before } / <A> [ hm ] / <B> the second one was / <A> okay / <B> and i remember sitting there watching that second one get hit and just going what in the world you know { because at } / <A> [ yeah ] / <B> first i thought no they were talking about terrorists and stuff and i thought no that's just an accident you { know } / <A> [ yeah ] / <B> some plane just and then to hear on the news oh they got another to the pentagon and then { they had a } / <A> [ yeah ]",
+    "context_text": "<B> and and uh well i had seen i turned on the news after the first tower had been hit but { before } / <A> [ mhm ] / <B> the second one was / <A> uh-huh / <B> and i remember sitting there watching that second one get hit and just going what in the world you know { because at } / <A> [ yeah ] / <B> first i thought no they were talking about terrorists and stuff and i thought no that's just an accident you { know } / <A> [ yeah ] / <B> some plane just and then to hear on the news oh they got another to the pentagon and then { they had a } / <A> [ wow ]",
     "context_start": 469.64,
-    "context_end": 489.56,
+    "context_end": 489.89525,
     "feedback": [
         {
-            "name": "NS_80_hm",
+            "name": "spontC_235_mhm",
             "start": 473.99,
-            "end": 474.571375,
-            "token": "hm"
+            "end": 474.44175,
+            "token": "mhm"
         },
         {
-            "name": "spontB_028_okay",
+            "name": "spontD_146_uh-huh",
             "start": 475.39,
-            "end": 475.82325,
-            "token": "okay"
+            "end": 475.90912499999996,
+            "token": "uh-huh"
         },
         {
-            "name": "spontC_250_yeah",
+            "name": "spontB_100_yeah",
             "start": 479.69,
-            "end": 480.5245,
+            "end": 480.36424999999997,
             "token": "yeah"
         },
         {
@@ -30,10 +30,10 @@
             "token": "yeah"
         },
         {
-            "name": "spontD_336_yeah",
+            "name": "PS_043_wow",
             "start": 488.56,
-            "end": 489.56,
-            "token": "yeah"
+            "end": 489.89525,
+            "token": "wow"
         }
     ]
 }

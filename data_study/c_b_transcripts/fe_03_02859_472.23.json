@@ -1,9 +1,9 @@
 {
     "name": "fe_03_02859",
     "context_channel": 1,
-    "context_text": "<A> i don't know why some people do other / <B> yeah / <A> than it's been men for so long that some { people } / <B> [ oh ] / <A> don't like change / <B> yeah",
+    "context_text": "<A> i don't know why some people do other / <B> yeah / <A> than it's been men for so long that some { people } / <B> [ yeah ] / <A> don't like change / <B> yeah",
     "context_start": 472.23,
-    "context_end": 478.18125000000003,
+    "context_end": 478.16775,
     "feedback": [
         {
             "name": "spontA_195_yeah",
@@ -12,15 +12,15 @@
             "token": "yeah"
         },
         {
-            "name": "spontE_043_oh",
+            "name": "spontD_143_yeah",
             "start": 476.08,
-            "end": 476.73825,
-            "token": "oh"
+            "end": 476.768375,
+            "token": "yeah"
         },
         {
-            "name": "spontF_287_yeah",
+            "name": "spontD_184_yeah",
             "start": 477.55,
-            "end": 478.18125000000003,
+            "end": 478.16775,
             "token": "yeah"
         }
     ]

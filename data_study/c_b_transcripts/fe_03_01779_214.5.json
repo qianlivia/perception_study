@@ -1,51 +1,51 @@
 {
     "name": "fe_03_01779",
     "context_channel": 1,
-    "context_text": "<A> and wants to further their education you / <B> yeah / <A> know advance in terms of getting another degree or whatever / <B> yeah / <A> um that they wouldn't have to worry about maybe travelling { you know } / <B> [ exactly ] / <A> travel time is the big thing you know / <B> yeah / <A> working nine maybe eight nine ten hours a day / <B> yes / <A> and then having to go and sit in a class for another hour and a half / <B> yeah / <A> or you know something of that sort { i mean } / <B> [ absolutely ]",
+    "context_text": "<A> and wants to further their education you / <B> uh-huh / <A> know advance in terms of getting another degree or whatever / <B> uh-huh / <A> um that they wouldn't have to worry about maybe travelling { you know } / <B> [ wow ] / <A> travel time is the big thing you know / <B> yeah / <A> working nine maybe eight nine ten hours a day / <B> yes / <A> and then having to go and sit in a class for another hour and a half / <B> yes / <A> or you know something of that sort { i mean } / <B> [ yeah ]",
     "context_start": 214.5,
-    "context_end": 236.680375,
+    "context_end": 236.070875,
     "feedback": [
         {
-            "name": "spontB_276_yeah",
+            "name": "spontE_227_uh-huh",
             "start": 216.51,
-            "end": 216.82187499999998,
-            "token": "yeah"
+            "end": 216.931625,
+            "token": "uh-huh"
         },
         {
-            "name": "spontC_395_yeah",
+            "name": "spontC_386_uh-huh",
             "start": 219.67,
-            "end": 220.066125,
-            "token": "yeah"
+            "end": 220.2165,
+            "token": "uh-huh"
         },
         {
-            "name": "sun_015_exactly",
+            "name": "PS_157_wow",
             "start": 223.77,
-            "end": 224.87175000000002,
-            "token": "exactly"
+            "end": 225.234,
+            "token": "wow"
         },
         {
-            "name": "spontC_251_yeah",
+            "name": "spontD_338_yeah",
             "start": 225.79,
-            "end": 226.5375,
+            "end": 226.44537499999998,
             "token": "yeah"
         },
         {
-            "name": "spontB_368_yes",
+            "name": "sun_023_yes",
             "start": 229.43,
-            "end": 230.28762500000002,
+            "end": 230.268875,
             "token": "yes"
         },
         {
-            "name": "spontC_335_yeah",
+            "name": "PR_019_yes",
             "start": 233.83,
-            "end": 234.9815,
-            "token": "yeah"
+            "end": 234.94825,
+            "token": "yes"
         },
         {
-            "name": "sun_004_absolutely",
+            "name": "spontE_245_yeah",
             "start": 235.25,
-            "end": 236.680375,
-            "token": "absolutely"
+            "end": 236.070875,
+            "token": "yeah"
         }
     ]
 }

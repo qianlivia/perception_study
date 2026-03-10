@@ -1,45 +1,45 @@
 {
     "name": "fe_03_00036",
     "context_channel": 1,
-    "context_text": "<A> and i guess i believe more in i kinda grew up with the whole home remedy and i've as as i've gotten older i've gotten more into the holistic healing kinds / <B> oh / <A> of things where i i like to be more natural / <B> mhm / <A> than i do end up sometimes with my cold and sinus if it / <B> okay / <A> just gets to be too much cause / <B> yeah / <A> i and i've gotten sick more the last couple of years because i work full time and i've started school full time { so } / <B> [ oh ] / <A> i have a lot of stress and i don't get enough sleep as i should / <B> okay",
+    "context_text": "<A> and i guess i believe more in i kinda grew up with the whole home remedy and i've as as i've gotten older i've gotten more into the holistic healing kinds / <B> mhm / <A> of things where i i like to be more natural / <B> mhm / <A> than i do end up sometimes with my cold and sinus if it / <B> yeah / <A> just gets to be too much cause / <B> uh-huh / <A> i and i've gotten sick more the last couple of years because i work full time and i've started school full time { so } / <B> [ ah ] / <A> i have a lot of stress and i don't get enough sleep as i should / <B> yeah",
     "context_start": 87.78,
-    "context_end": 114.837125,
+    "context_end": 114.8235,
     "feedback": [
         {
-            "name": "spontF_207_oh",
+            "name": "spontA_120_mhm",
             "start": 95.92,
-            "end": 96.30437500000001,
-            "token": "oh"
-        },
-        {
-            "name": "spontD_115_mhm",
-            "start": 99.25,
-            "end": 99.739875,
+            "end": 96.374875,
             "token": "mhm"
         },
         {
-            "name": "spontB_028_okay",
-            "start": 103.11,
-            "end": 103.54325,
-            "token": "okay"
+            "name": "spontA_253_mhm",
+            "start": 99.25,
+            "end": 99.723625,
+            "token": "mhm"
         },
         {
-            "name": "spontB_276_yeah",
-            "start": 105.18,
-            "end": 105.49187500000001,
+            "name": "spontB_094_yeah",
+            "start": 103.11,
+            "end": 103.446,
             "token": "yeah"
         },
         {
-            "name": "spontF_360_oh",
-            "start": 110.99,
-            "end": 111.932375,
-            "token": "oh"
+            "name": "spontE_065_uh-huh",
+            "start": 105.18,
+            "end": 105.624375,
+            "token": "uh-huh"
         },
         {
-            "name": "spontC_134_okay",
+            "name": "spontC_214_ah",
+            "start": 110.99,
+            "end": 111.803125,
+            "token": "ah"
+        },
+        {
+            "name": "spontD_172_yeah",
             "start": 114.03,
-            "end": 114.837125,
-            "token": "okay"
+            "end": 114.8235,
+            "token": "yeah"
         }
     ]
 }

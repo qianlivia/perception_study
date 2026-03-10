@@ -1,32 +1,32 @@
 {
     "name": "fe_03_05113",
     "context_channel": 1,
-    "context_text": "<A> those people out they would have come back and and done like if terrorism did and you know nine one one did / <B> uh-huh / <A> and that that would have been terrible here for the united states / <B> oh / <A> and i that's my opinion of the { situation } / <B> [ mmm ] / <A> of course you've got people that's gonna be different all over the world and i would but those people they're not used to any kind of help i don't think oh they { got } / <B> [ oh ]",
+    "context_text": "<A> those people out they would have come back and and done like if terrorism did and you know nine one one did / <B> uh-huh / <A> and that that would have been terrible here for the united states / <B> uh-huh / <A> and i that's my opinion of the { situation } / <B> [ wow ] / <A> of course you've got people that's gonna be different all over the world and i would but those people they're not used to any kind of help i don't think oh they { got } / <B> [ oh ]",
     "context_start": 169.73,
-    "context_end": 191.00825,
+    "context_end": 191.095125,
     "feedback": [
         {
-            "name": "spontE_065_uh-huh",
+            "name": "spontD_040_uh-huh",
             "start": 175.47,
-            "end": 175.914375,
+            "end": 175.9275,
             "token": "uh-huh"
         },
         {
-            "name": "spontE_295_oh",
+            "name": "spontD_070_uh-huh",
             "start": 178.38,
-            "end": 179.124125,
-            "token": "oh"
+            "end": 178.88825,
+            "token": "uh-huh"
         },
         {
-            "name": "spontD_063_mmm",
+            "name": "PS_157_wow",
             "start": 180.88,
-            "end": 181.876125,
-            "token": "mmm"
+            "end": 182.344,
+            "token": "wow"
         },
         {
-            "name": "spontE_043_oh",
+            "name": "spontE_048_oh",
             "start": 190.35,
-            "end": 191.00825,
+            "end": 191.095125,
             "token": "oh"
         }
     ]

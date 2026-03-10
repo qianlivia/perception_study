@@ -1,15 +1,15 @@
 {
     "name": "fe_03_04242",
     "context_channel": 1,
-    "context_text": "<A> for like a year got a a little thing but nothing like what i had hopes and plans for / <B> oh / <A> yeah i got married early instead you know the whole escape the whole / <B> yeah / <A> bad home life kind of thing and never went back for either way i had intended but i mean my life is good now it's { not } / <B> [ yeah ]",
+    "context_text": "<A> for like a year got a a little thing but nothing like what i had hopes and plans for / <B> yeah / <A> yeah i got married early instead you know the whole escape the whole / <B> yeah / <A> bad home life kind of thing and never went back for either way i had intended but i mean my life is good now it's { not } / <B> [ yeah ]",
     "context_start": 87.51,
-    "context_end": 109.03775,
+    "context_end": 109.034625,
     "feedback": [
         {
-            "name": "spontF_320_oh",
+            "name": "spontE_274_yeah",
             "start": 93.5,
-            "end": 94.202375,
-            "token": "oh"
+            "end": 94.230125,
+            "token": "yeah"
         },
         {
             "name": "spontB_016_yeah",
@@ -18,9 +18,9 @@
             "token": "yeah"
         },
         {
-            "name": "spontD_184_yeah",
+            "name": "spontA_336_yeah",
             "start": 108.42,
-            "end": 109.03775,
+            "end": 109.034625,
             "token": "yeah"
         }
     ]

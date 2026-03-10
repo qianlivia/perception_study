@@ -1,15 +1,15 @@
 {
     "name": "fe_03_05600",
     "context_channel": 1,
-    "context_text": "<A> uh someone else from the area it's like from man manhattan from manhattan / <B> ugh / <A> i was talking to him well uh is it different now uh the skyline is different in in new york / <B> yes / <A> and uh and and bush is is is trying to and you know is trying to end is trying to like peace you know / <B> yeah",
+    "context_text": "<A> uh someone else from the area it's like from man manhattan from manhattan / <B> okay / <A> i was talking to him well uh is it different now uh the skyline is different in in new york / <B> yes / <A> and uh and and bush is is is trying to and you know is trying to end is trying to like peace you know / <B> yeah",
     "context_start": 41.06,
-    "context_end": 65.11125,
+    "context_end": 64.97737500000001,
     "feedback": [
         {
-            "name": "spontF_389_ugh",
+            "name": "spontC_020_okay",
             "start": 47.25,
-            "end": 47.6595,
-            "token": "ugh"
+            "end": 47.725,
+            "token": "okay"
         },
         {
             "name": "spontC_507_yes",
@@ -18,9 +18,9 @@
             "token": "yes"
         },
         {
-            "name": "spontF_287_yeah",
+            "name": "spontC_138_yeah",
             "start": 64.48,
-            "end": 65.11125,
+            "end": 64.97737500000001,
             "token": "yeah"
         }
     ]

@@ -1,9 +1,9 @@
 {
     "name": "fe_03_02108",
     "context_channel": 0,
-    "context_text": "<B> i have a yeah well i have a roommate situation and i've known her for about fifteen years and um thank god she spends six months in florida / <A> oh / <B> i'm actually renting a room in her house but { i get } / <A> [ oh ] / <B> the whole house for six months / <A> ah / <B> she's due back the fifteenth of may / <A> oh / <B> with her three dogs and two cats / <A> oh",
+    "context_text": "<B> i have a yeah well i have a roommate situation and i've known her for about fifteen years and um thank god she spends six months in florida / <A> oh / <B> i'm actually renting a room in her house but { i get } / <A> [ oh ] / <B> the whole house for six months / <A> oh / <B> she's due back the fifteenth of may / <A> oh / <B> with her three dogs and two cats / <A> ah",
     "context_start": 178.0,
-    "context_end": 201.972125,
+    "context_end": 201.663125,
     "feedback": [
         {
             "name": "spontC_109_oh",
@@ -12,16 +12,16 @@
             "token": "oh"
         },
         {
-            "name": "spontF_017_oh",
+            "name": "PS_025_oh",
             "start": 193.23,
-            "end": 194.059375,
+            "end": 194.25437499999998,
             "token": "oh"
         },
         {
-            "name": "spontE_232_ah",
+            "name": "spontF_017_oh",
             "start": 195.34,
-            "end": 196.32075,
-            "token": "ah"
+            "end": 196.169375,
+            "token": "oh"
         },
         {
             "name": "spontF_360_oh",
@@ -30,10 +30,10 @@
             "token": "oh"
         },
         {
-            "name": "spontF_572_oh",
+            "name": "spontC_214_ah",
             "start": 200.85,
-            "end": 201.972125,
-            "token": "oh"
+            "end": 201.663125,
+            "token": "ah"
         }
     ]
 }

@@ -1,15 +1,15 @@
 {
     "name": "fe_03_01819",
     "context_channel": 1,
-    "context_text": "<A> and this maybe will have something to do with definitely with the topic i i always felt that the where where education was lacking was not necessarily teaching but / <B> mhm / <A> in teaching people how to find things because the brain can just hold so much at any one / <B> uh-huh / <A> time so i think the computer is an excellent tool / <B> mhm / <A> um i never learned how to read newspapers properly which { was } / <B> [ aww ] / <A> of course that was our main way of edu of um finding you know um of communication / <B> mhm",
+    "context_text": "<A> and this maybe will have something to do with definitely with the topic i i always felt that the where where education was lacking was not necessarily teaching but / <B> uh-huh / <A> in teaching people how to find things because the brain can just hold so much at any one / <B> uh-huh / <A> time so i think the computer is an excellent tool / <B> yes / <A> um i never learned how to read newspapers properly which { was } / <B> [ no ] / <A> of course that was our main way of edu of um finding you know um of communication / <B> right",
     "context_start": 122.48,
-    "context_end": 151.6915,
+    "context_end": 152.103375,
     "feedback": [
         {
-            "name": "spontC_200_mhm",
+            "name": "spontD_146_uh-huh",
             "start": 133.1,
-            "end": 133.58249999999998,
-            "token": "mhm"
+            "end": 133.619125,
+            "token": "uh-huh"
         },
         {
             "name": "spontE_227_uh-huh",
@@ -18,22 +18,22 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontA_253_mhm",
+            "name": "PR_026_yes",
             "start": 141.0,
-            "end": 141.473625,
-            "token": "mhm"
+            "end": 141.594375,
+            "token": "yes"
         },
         {
-            "name": "spontF_671_aww",
+            "name": "sun2_029_no",
             "start": 145.15,
-            "end": 145.8195,
-            "token": "aww"
+            "end": 145.889125,
+            "token": "no"
         },
         {
-            "name": "spontC_111_mhm",
+            "name": "sun1_032_right",
             "start": 151.26,
-            "end": 151.6915,
-            "token": "mhm"
+            "end": 152.103375,
+            "token": "right"
         }
     ]
 }

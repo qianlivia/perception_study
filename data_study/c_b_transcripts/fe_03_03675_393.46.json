@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03675",
     "context_channel": 1,
-    "context_text": "<A> it's there's days where it's really really hot and there's days where it's really really cold and then there's good days but mostly it's hot here / <B> oh / <A> but it's like the humid hot it's not like dry hot like in the desert which is kinda nice cause it's just hot but { you're } / <B> [ yeah ] / <A> not really really sweaty or smell anything like that / <B> yeah / <A> like here it's like really really humid hot so if you don't have { your } / <B> [ ugh ] / <A> ac then i'm pretty / <B> yeah",
+    "context_text": "<A> it's there's days where it's really really hot and there's days where it's really really cold and then there's good days but mostly it's hot here / <B> oh / <A> but it's like the humid hot it's not like dry hot like in the desert which is kinda nice cause it's just hot but { you're } / <B> [ yeah ] / <A> not really really sweaty or smell anything like that / <B> yeah / <A> like here it's like really really humid hot so if you don't have { your } / <B> [ yeah ] / <A> ac then i'm pretty / <B> yeah",
     "context_start": 393.46,
-    "context_end": 409.98787500000003,
+    "context_end": 409.842625,
     "feedback": [
         {
             "name": "spontF_320_oh",
@@ -24,15 +24,15 @@
             "token": "yeah"
         },
         {
-            "name": "spontC_126_ugh",
+            "name": "spontE_366_yeah",
             "start": 407.19,
-            "end": 407.960375,
-            "token": "ugh"
+            "end": 408.157,
+            "token": "yeah"
         },
         {
-            "name": "spontC_127_yeah",
+            "name": "spontA_195_yeah",
             "start": 409.41,
-            "end": 409.98787500000003,
+            "end": 409.842625,
             "token": "yeah"
         }
     ]

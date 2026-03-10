@@ -1,14 +1,14 @@
 {
     "name": "fe_03_05767",
     "context_channel": 1,
-    "context_text": "<A> right when you're when you're talking about using that kind of software the i would consider that like offline { but } / <B> [ okay ] / <A> i'm talking about online { where } / <B> [ okay ] / <A> there's that whole world out there where you could liter i i as a matter of fact today i came across a a site that was created by a reporter and he has created this this website where you can find out almost anything about any subject he has all the resources there including you you wanna find out something about somebody / <B> oh / <A> and ah even one of the ah things was like ah joe blow who is he and how to find out an an anything about joe blow and he he leads you to different sites where some of them are free information some of them you pay { five } / <B> [ okay ] / <A> dollars or fifteen dollars and you can find out everything about joe blow that you may want to find out that that possibly could be found out about him / <B> gosh / <A> but also he has all these resources for ah reporters that / <B> well",
+    "context_text": "<A> right when you're when you're talking about using that kind of software the i would consider that like offline { but } / <B> [ okay ] / <A> i'm talking about online { where } / <B> [ okay ] / <A> there's that whole world out there where you could liter i i as a matter of fact today i came across a a site that was created by a reporter and he has created this this website where you can find out almost anything about any subject he has all the resources there including you you wanna find out something about somebody / <B> uh-huh / <A> and ah even one of the ah things was like ah joe blow who is he and how to find out an an anything about joe blow and he he leads you to different sites where some of them are free information some of them you pay { five } / <B> [ oh ] / <A> dollars or fifteen dollars and you can find out everything about joe blow that you may want to find out that that possibly could be found out about him / <B> wow / <A> but also he has all these resources for ah reporters that / <B> oh",
     "context_start": 325.88,
-    "context_end": 385.17225,
+    "context_end": 385.07325000000003,
     "feedback": [
         {
-            "name": "spontC_020_okay",
+            "name": "spontC_511_okay",
             "start": 331.67,
-            "end": 332.14500000000004,
+            "end": 332.180875,
             "token": "okay"
         },
         {
@@ -18,28 +18,28 @@
             "token": "okay"
         },
         {
-            "name": "spontF_109_oh",
+            "name": "spontD_020_uh-huh",
             "start": 356.92,
-            "end": 357.2595,
+            "end": 357.424625,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PS_194_oh",
+            "start": 370.39,
+            "end": 371.19374999999997,
             "token": "oh"
         },
         {
-            "name": "spontC_017_okay",
-            "start": 370.39,
-            "end": 371.195625,
-            "token": "okay"
-        },
-        {
-            "name": "PS_073_gosh",
+            "name": "PS_100_wow",
             "start": 380.12,
-            "end": 381.08050000000003,
-            "token": "gosh"
+            "end": 381.116625,
+            "token": "wow"
         },
         {
-            "name": "spontD_171_well",
+            "name": "spontE_15_oh",
             "start": 384.73,
-            "end": 385.17225,
-            "token": "well"
+            "end": 385.07325000000003,
+            "token": "oh"
         }
     ]
 }

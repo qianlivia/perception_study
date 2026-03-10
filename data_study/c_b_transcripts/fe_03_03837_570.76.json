@@ -1,15 +1,15 @@
 {
     "name": "fe_03_03837",
     "context_channel": 1,
-    "context_text": "<A> actually watched the um repeats so that he could try to catch up { and } / <B> [ yeah ] / <A> the blockbuster here had the first and second seasons / <B> oh / <A> on ah dvd so he watched it so he could kind of catch up / <B> yeah",
+    "context_text": "<A> actually watched the um repeats so that he could try to catch up { and } / <B> [ oh ] / <A> the blockbuster here had the first and second seasons / <B> oh / <A> on ah dvd so he watched it so he could kind of catch up / <B> oh",
     "context_start": 570.76,
-    "context_end": 582.92125,
+    "context_end": 582.9923749999999,
     "feedback": [
         {
-            "name": "spontA_146_yeah",
+            "name": "spontE_048_oh",
             "start": 574.54,
-            "end": 575.23825,
-            "token": "yeah"
+            "end": 575.285125,
+            "token": "oh"
         },
         {
             "name": "spontF_017_oh",
@@ -18,10 +18,10 @@
             "token": "oh"
         },
         {
-            "name": "spontF_287_yeah",
+            "name": "spontF_320_oh",
             "start": 582.29,
-            "end": 582.92125,
-            "token": "yeah"
+            "end": 582.9923749999999,
+            "token": "oh"
         }
     ]
 }

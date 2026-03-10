@@ -1,15 +1,15 @@
 {
     "name": "fe_03_01807",
     "context_channel": 1,
-    "context_text": "<A> [ that's true ] there's a program called teach for america that um allows you to teach a lot quicker than i think you start teaching um or being a teacher aide while you're taking classes and { it's } / <B> [ really ] / <A> supposed to be a quick route to they they place you i think in schools that are have trouble finding teachers the disadvantaged schools / <B> wow / <A> and that can be both rewarding and stressful because { those } / <B> [ yeah ] / <A> schools are pretty stressed but / <B> yeah",
+    "context_text": "<A> [ that's true ] there's a program called teach for america that um allows you to teach a lot quicker than i think you start teaching um or being a teacher aide while you're taking classes and { it's } / <B> [ wow ] / <A> supposed to be a quick route to they they place you i think in schools that are have trouble finding teachers the disadvantaged schools / <B> wow / <A> and that can be both rewarding and stressful because { those } / <B> [ yeah ] / <A> schools are pretty stressed but / <B> yeah",
     "context_start": 352.1,
     "context_end": 380.4925,
     "feedback": [
         {
-            "name": "PS_019_really",
+            "name": "PS_085_wow",
             "start": 367.17,
-            "end": 367.9595,
-            "token": "really"
+            "end": 368.03900000000004,
+            "token": "wow"
         },
         {
             "name": "spontF_097_wow",
@@ -18,9 +18,9 @@
             "token": "wow"
         },
         {
-            "name": "spontF_367_yeah",
+            "name": "spontC_232_yeah",
             "start": 377.93,
-            "end": 378.734625,
+            "end": 378.8245,
             "token": "yeah"
         },
         {

@@ -1,15 +1,15 @@
 {
     "name": "fe_03_02622",
     "context_channel": 1,
-    "context_text": "<A> what happened throughout history was uh you know like this has happened before / <B> oh / <A> and we've just come in you know took over well not taken over set up a democracy quote unquote / <B> uh-huh / <A> you know which is us basically putting someone in power and not creating a democracy 'cause yeah we'll create a democracy but we're gonna fund the candidate we want { such and } / <B> yeah / <A> such and millions and billions of dollars and no one else in that poor country will have the money to even compete or get their name out { therefore } / <B> [ oh ]",
+    "context_text": "<A> what happened throughout history was uh you know like this has happened before / <B> yeah / <A> and we've just come in you know took over well not taken over set up a democracy quote unquote / <B> uh-huh / <A> you know which is us basically putting someone in power and not creating a democracy 'cause yeah we'll create a democracy but we're gonna fund the candidate we want { such and } / <B> yeah / <A> such and millions and billions of dollars and no one else in that poor country will have the money to even compete or get their name out { therefore } / <B> [ yeah ]",
     "context_start": 400.22,
-    "context_end": 432.14512499999995,
+    "context_end": 432.24562499999996,
     "feedback": [
         {
-            "name": "spontF_207_oh",
+            "name": "spontD_397_yeah",
             "start": 405.52,
-            "end": 405.90437499999996,
-            "token": "oh"
+            "end": 405.901375,
+            "token": "yeah"
         },
         {
             "name": "spontD_276_uh-huh",
@@ -18,16 +18,16 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontC_192_yeah",
+            "name": "spontD_024_yeah",
             "start": 424.85,
-            "end": 425.30175,
+            "end": 425.270125,
             "token": "yeah"
         },
         {
-            "name": "spontE_048_oh",
+            "name": "spontD_395_yeah",
             "start": 431.4,
-            "end": 432.14512499999995,
-            "token": "oh"
+            "end": 432.24562499999996,
+            "token": "yeah"
         }
     ]
 }

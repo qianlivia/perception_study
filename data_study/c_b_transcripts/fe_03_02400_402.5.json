@@ -1,9 +1,9 @@
 {
     "name": "fe_03_02400",
     "context_channel": 0,
-    "context_text": "<B> really it's really an excuse that we use with ourselves when my stepfather wa had his surgery / <A> uh-huh / <B> i had been off cigarettes about a year / <A> wow / <B> and while he was in surgery i was in the waiting room smoking i went back to smoking after he's having cancer surgery / <A> yeah / <B> isn't that awful / <A> no / <B> worst part / <A> no",
+    "context_text": "<B> really it's really an excuse that we use with ourselves when my stepfather wa had his surgery / <A> uh-huh / <B> i had been off cigarettes about a year / <A> wow / <B> and while he was in surgery i was in the waiting room smoking i went back to smoking after he's having cancer surgery / <A> ah / <B> isn't that awful / <A> no / <B> worst part / <A> no",
     "context_start": 402.5,
-    "context_end": 425.897125,
+    "context_end": 426.1145,
     "feedback": [
         {
             "name": "spontC_128_uh-huh",
@@ -18,21 +18,21 @@
             "token": "wow"
         },
         {
-            "name": "spontE_269_yeah",
+            "name": "spontC_214_ah",
             "start": 421.86,
-            "end": 422.654125,
-            "token": "yeah"
+            "end": 422.673125,
+            "token": "ah"
         },
         {
-            "name": "spontE_345_no",
+            "name": "spontB_093_no",
             "start": 423.6,
-            "end": 424.35450000000003,
+            "end": 424.511,
             "token": "no"
         },
         {
-            "name": "spontF_264_no",
+            "name": "spontE_345_no",
             "start": 425.36,
-            "end": 425.897125,
+            "end": 426.1145,
             "token": "no"
         }
     ]

@@ -1,27 +1,27 @@
 {
     "name": "fe_03_02833",
     "context_channel": 1,
-    "context_text": "<A> you you university of colorado / <B> yes / <A> that's cool { i } / <B> [ well ] / <A> have a lot of friends in boulder it's a great town but it's a little bit too uh suburban strip { malls for } / <B> [ jeez ]",
+    "context_text": "<A> you you university of colorado / <B> yes / <A> that's cool { i } / <B> [ yeah ] / <A> have a lot of friends in boulder it's a great town but it's a little bit too uh suburban strip { malls for } / <B> [ oh ]",
     "context_start": 245.37,
-    "context_end": 255.84,
+    "context_end": 256.00775,
     "feedback": [
         {
-            "name": "spontC_507_yes",
+            "name": "PR_009_yes",
             "start": 247.61,
-            "end": 248.13250000000002,
+            "end": 248.39112500000002,
             "token": "yes"
         },
         {
-            "name": "spontD_171_well",
+            "name": "spontC_395_yeah",
             "start": 249.15,
-            "end": 249.59225,
-            "token": "well"
+            "end": 249.54612500000002,
+            "token": "yeah"
         },
         {
-            "name": "NegS_036_jeez",
+            "name": "PS_012_oh",
             "start": 254.31,
-            "end": 255.84,
-            "token": "jeez"
+            "end": 256.00775,
+            "token": "oh"
         }
     ]
 }

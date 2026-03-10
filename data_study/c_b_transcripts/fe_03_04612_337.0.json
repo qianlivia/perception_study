@@ -1,27 +1,27 @@
 {
     "name": "fe_03_04612",
     "context_channel": 1,
-    "context_text": "<A> ah there are some available but { i } / <B> [ okay ] / <A> just i i tried it a while ago and it just didn't work out very well and { it } / <B> [ okay ] / <A> was hard to get games for it and stuff so { i } / <B> [ okay ]",
+    "context_text": "<A> ah there are some available but { i } / <B> [ yeah ] / <A> just i i tried it a while ago and it just didn't work out very well and { it } / <B> [ oh ] / <A> was hard to get games for it and stuff so { i } / <B> [ yeah ]",
     "context_start": 337.0,
-    "context_end": 347.225125,
+    "context_end": 346.997,
     "feedback": [
         {
-            "name": "spontC_172_okay",
+            "name": "spontD_024_yeah",
             "start": 339.01,
-            "end": 339.421125,
-            "token": "okay"
+            "end": 339.430125,
+            "token": "yeah"
         },
         {
-            "name": "spontC_286_okay",
+            "name": "spontE_048_oh",
             "start": 343.85,
-            "end": 344.502,
-            "token": "okay"
+            "end": 344.595125,
+            "token": "oh"
         },
         {
-            "name": "spontD_089_okay",
+            "name": "spontB_186_yeah",
             "start": 346.42,
-            "end": 347.225125,
-            "token": "okay"
+            "end": 346.997,
+            "token": "yeah"
         }
     ]
 }

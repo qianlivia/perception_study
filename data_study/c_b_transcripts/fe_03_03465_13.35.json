@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03465",
     "context_channel": 1,
-    "context_text": "<A> um they're talking about what's the most important thing in a life partner / <B> okay / <A> and i'm thirty about to be thirty five i've been { with } / <B> [ okay ] / <A> the same girl for more than twelve years / <B> okay / <A> we're still not married / <B> okay",
+    "context_text": "<A> um they're talking about what's the most important thing in a life partner / <B> okay / <A> and i'm thirty about to be thirty five i've been { with } / <B> [ okay ] / <A> the same girl for more than twelve years / <B> wow / <A> we're still not married / <B> okay",
     "context_start": 13.35,
-    "context_end": 29.330375,
+    "context_end": 29.483,
     "feedback": [
         {
             "name": "spontC_134_okay",
@@ -12,21 +12,21 @@
             "token": "okay"
         },
         {
-            "name": "spontC_286_okay",
-            "start": 23.27,
-            "end": 23.922,
-            "token": "okay"
-        },
-        {
             "name": "spontD_022_okay",
-            "start": 26.99,
-            "end": 27.459,
+            "start": 23.27,
+            "end": 23.739,
             "token": "okay"
         },
         {
-            "name": "spontE_005_okay",
+            "name": "spontF_097_wow",
+            "start": 26.99,
+            "end": 27.434124999999998,
+            "token": "wow"
+        },
+        {
+            "name": "spontD_386_okay",
             "start": 28.78,
-            "end": 29.330375,
+            "end": 29.483,
             "token": "okay"
         }
     ]

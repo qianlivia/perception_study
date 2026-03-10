@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04311",
     "context_channel": 0,
-    "context_text": "<B> that's a good desire / <A> yeah / so let's see if i i i think if i were to go back i would change something very specific about my life um i'm i'm in the theater / <A> okay / <B> and ah i'm an i'm an actor and i discovered that it's very important ah it's sad that it's like this but i think i would have chosen to go to a different school than the school i went to / <A> okay / <B> i got into a very very very good school and i chose not to go at the time and / <A> okay / <B> and it seemed like the right decision at the time but then later when i came to new york and i saw how this going to this school seemed to open doors for people / <A> okay / <B> and make opportunities then i sort of regretted it { so } / <A> [ okay ]",
+    "context_text": "<B> that's a good desire / <A> yeah / so let's see if i i i think if i were to go back i would change something very specific about my life um i'm i'm in the theater / <A> oh / <B> and ah i'm an i'm an actor and i discovered that it's very important ah it's sad that it's like this but i think i would have chosen to go to a different school than the school i went to / <A> uh-huh / <B> i got into a very very very good school and i chose not to go at the time and / <A> uh-huh / <B> and it seemed like the right decision at the time but then later when i came to new york and i saw how this going to this school seemed to open doors for people / <A> yeah / <B> and make opportunities then i sort of regretted it { so } / <A> [ ah ]",
     "context_start": 42.48,
-    "context_end": 86.64512500000001,
+    "context_end": 86.82075,
     "feedback": [
         {
             "name": "spontA_195_yeah",
@@ -12,34 +12,34 @@
             "token": "yeah"
         },
         {
-            "name": "spontC_511_okay",
+            "name": "spontE_15_oh",
             "start": 55.01,
-            "end": 55.520875,
-            "token": "okay"
+            "end": 55.353249999999996,
+            "token": "oh"
         },
         {
-            "name": "spontC_286_okay",
+            "name": "spontC_128_uh-huh",
             "start": 66.68,
-            "end": 67.33200000000001,
-            "token": "okay"
+            "end": 67.180875,
+            "token": "uh-huh"
         },
         {
-            "name": "spontE_152_okay",
+            "name": "spontD_020_uh-huh",
             "start": 72.35,
-            "end": 72.97725,
-            "token": "okay"
+            "end": 72.854625,
+            "token": "uh-huh"
         },
         {
-            "name": "spontF_280_okay",
+            "name": "spontD_338_yeah",
             "start": 82.2,
-            "end": 82.921625,
-            "token": "okay"
+            "end": 82.85537500000001,
+            "token": "yeah"
         },
         {
-            "name": "spontD_089_okay",
+            "name": "spontE_232_ah",
             "start": 85.84,
-            "end": 86.64512500000001,
-            "token": "okay"
+            "end": 86.82075,
+            "token": "ah"
         }
     ]
 }

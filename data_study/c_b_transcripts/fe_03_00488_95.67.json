@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00488",
     "context_channel": 1,
-    "context_text": "<A> wonderful exercise it's called uh i i it's uh i rea i read this incredible book called the the ancient secret of the fountain of youth / <B> uh-huh / <A> and in that book there are certain exercises that this man took from tibet and there / <B> oh / <A> um excellent excellent exercises { and } / <B> [ sorry ] / <A> it only takes like five to six minutes to do it maybe { s } / <B> [ what ]",
+    "context_text": "<A> wonderful exercise it's called uh i i it's uh i rea i read this incredible book called the the ancient secret of the fountain of youth / <B> uh-huh / <A> and in that book there are certain exercises that this man took from tibet and there / <B> uh-huh / <A> um excellent excellent exercises { and } / <B> [ wow ] / <A> it only takes like five to six minutes to do it maybe { s } / <B> [ wow ]",
     "context_start": 95.67,
-    "context_end": 117.61425,
+    "context_end": 117.45175,
     "feedback": [
         {
             "name": "spontD_020_uh-huh",
@@ -12,22 +12,22 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontE_15_oh",
+            "name": "spontC_186_uh-huh",
             "start": 110.15,
-            "end": 110.49325,
-            "token": "oh"
+            "end": 110.62525000000001,
+            "token": "uh-huh"
         },
         {
-            "name": "Nu_037_sorry",
+            "name": "PS_183_wow",
             "start": 112.57,
-            "end": 113.68175,
-            "token": "sorry"
+            "end": 113.37525,
+            "token": "wow"
         },
         {
-            "name": "NegS_063_what",
+            "name": "PS_031_wow",
             "start": 116.69,
-            "end": 117.61425,
-            "token": "what"
+            "end": 117.45175,
+            "token": "wow"
         }
     ]
 }

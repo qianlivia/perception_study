@@ -1,27 +1,27 @@
 {
     "name": "fe_03_04801",
     "context_channel": 1,
-    "context_text": "<A> [ exactly exactly ] so i mean i guess it it's it's a it's all a matter of preference to me / <B> yeah / <A> and i mean as long as it's not done and i guess in areas where where { it would } / <B> [ no ] / <A> infringe upon other people / <B> yeah / <A> i don't really think it should be banned maybe { in } / <B> [ no ] / <A> private places but not in public places / <B> yeah",
+    "context_text": "<A> [ exactly exactly ] so i mean i guess it it's it's a it's all a matter of preference to me / <B> yeah / <A> and i mean as long as it's not done and i guess in areas where where { it would } / <B> [ no ] / <A> infringe upon other people / <B> no / <A> i don't really think it should be banned maybe { in } / <B> [ no ] / <A> private places but not in public places / <B> no",
     "context_start": 168.84,
-    "context_end": 188.234625,
+    "context_end": 188.13412499999998,
     "feedback": [
         {
-            "name": "spontF_142_yeah",
+            "name": "spontD_024_yeah",
             "start": 175.19,
-            "end": 175.655125,
+            "end": 175.610125,
             "token": "yeah"
         },
         {
-            "name": "NR_061_no",
+            "name": "NR_114_no",
             "start": 181.21,
-            "end": 182.14325,
+            "end": 182.520625,
             "token": "no"
         },
         {
-            "name": "spontD_051_yeah",
+            "name": "NR_098_no",
             "start": 183.14,
-            "end": 183.68137499999997,
-            "token": "yeah"
+            "end": 183.63549999999998,
+            "token": "no"
         },
         {
             "name": "spontA_112_no",
@@ -30,10 +30,10 @@
             "token": "no"
         },
         {
-            "name": "spontA_382_yeah",
+            "name": "NR_060_no",
             "start": 187.66,
-            "end": 188.234625,
-            "token": "yeah"
+            "end": 188.13412499999998,
+            "token": "no"
         }
     ]
 }

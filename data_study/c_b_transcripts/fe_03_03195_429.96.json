@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03195",
     "context_channel": 1,
-    "context_text": "<A> but i know what it's like being a single mother because i was for a while / <B> yeah / <A> and um until my kids were they was ten and eleven { until } / <B> [ yeah ] / <A> they was out of high school before i got remarried / <B> wow / <A> and um so but when she's about five / <B> yeah",
+    "context_text": "<A> but i know what it's like being a single mother because i was for a while / <B> yeah / <A> and um until my kids were they was ten and eleven { until } / <B> [ wow ] / <A> they was out of high school before i got remarried / <B> wow / <A> and um so but when she's about five / <B> yeah",
     "context_start": 429.96,
-    "context_end": 451.747,
+    "context_end": 451.83587500000004,
     "feedback": [
         {
             "name": "spontC_405_yeah",
@@ -12,21 +12,21 @@
             "token": "yeah"
         },
         {
-            "name": "spontA_015_yeah",
+            "name": "PS_092_wow",
             "start": 441.82,
-            "end": 442.589875,
-            "token": "yeah"
-        },
-        {
-            "name": "spontF_097_wow",
-            "start": 444.56,
-            "end": 445.004125,
+            "end": 442.737125,
             "token": "wow"
         },
         {
-            "name": "spontB_186_yeah",
+            "name": "NegS_008_wow",
+            "start": 444.56,
+            "end": 445.5155,
+            "token": "wow"
+        },
+        {
+            "name": "sun1_011_yeah",
             "start": 451.17,
-            "end": 451.747,
+            "end": 451.83587500000004,
             "token": "yeah"
         }
     ]

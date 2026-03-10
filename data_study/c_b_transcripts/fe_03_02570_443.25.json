@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02570",
     "context_channel": 0,
-    "context_text": "<B> you know the the terrorist cells throughout you know especially in the middle east / <A> uh-huh / <B> but you know i think that they the main goal was just to get saddam out of there and establish a new um a new rule you know / <A> uh-huh / <B> with with decent people in there so / <A> mhm / <B> i think i think they'll you know of course they'll have their their terrorists still but / <A> yeah",
+    "context_text": "<B> you know the the terrorist cells throughout you know especially in the middle east / <A> mhm / <B> but you know i think that they the main goal was just to get saddam out of there and establish a new um a new rule you know / <A> mhm / <B> with with decent people in there so / <A> uh-huh / <B> i think i think they'll you know of course they'll have their their terrorists still but / <A> uh-huh",
     "context_start": 443.25,
-    "context_end": 465.21187499999996,
+    "context_end": 465.422375,
     "feedback": [
         {
-            "name": "spontF_571_uh-huh",
+            "name": "spontA_253_mhm",
             "start": 448.16,
-            "end": 448.697875,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontF_009_uh-huh",
-            "start": 457.09,
-            "end": 457.47274999999996,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontD_115_mhm",
-            "start": 459.31,
-            "end": 459.799875,
+            "end": 448.63362500000005,
             "token": "mhm"
         },
         {
-            "name": "spontB_276_yeah",
+            "name": "spontA_358_mhm",
+            "start": 457.09,
+            "end": 457.588625,
+            "token": "mhm"
+        },
+        {
+            "name": "spontD_146_uh-huh",
+            "start": 459.31,
+            "end": 459.829125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_158_uh-huh",
             "start": 464.9,
-            "end": 465.21187499999996,
-            "token": "yeah"
+            "end": 465.422375,
+            "token": "uh-huh"
         }
     ]
 }

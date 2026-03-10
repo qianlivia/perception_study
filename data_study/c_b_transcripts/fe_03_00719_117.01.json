@@ -1,39 +1,39 @@
 {
     "name": "fe_03_00719",
     "context_channel": 1,
-    "context_text": "<A> i i was i mean that struck me because i was hearing it for the first time / <B> uh-huh / <A> um and them saying well that is serious and that's more serious / <B> yeah / <A> so but um on the other hand um i was just reading something today on the internet that said you know if this man really wants to stay in power which he does / <B> mhm / <A> um then the best thing to do is to get rid of it -cause if he doesn't then and we attack then he is not going to be there anymore so { he } / <B> [ yeah ] / <A> is not so dumb / <B> yeah",
+    "context_text": "<A> i i was i mean that struck me because i was hearing it for the first time / <B> uh-huh / <A> um and them saying well that is serious and that's more serious / <B> right / <A> so but um on the other hand um i was just reading something today on the internet that said you know if this man really wants to stay in power which he does / <B> uh-huh / <A> um then the best thing to do is to get rid of it -cause if he doesn't then and we attack then he is not going to be there anymore so { he } / <B> [ right ] / <A> is not so dumb / <B> no",
     "context_start": 117.01,
-    "context_end": 153.354625,
+    "context_end": 153.59312500000001,
     "feedback": [
         {
-            "name": "spontE_089_uh-huh",
+            "name": "spontC_386_uh-huh",
             "start": 122.07,
-            "end": 122.54062499999999,
+            "end": 122.61649999999999,
             "token": "uh-huh"
         },
         {
-            "name": "spontC_138_yeah",
+            "name": "sun1_032_right",
             "start": 127.21,
-            "end": 127.707375,
-            "token": "yeah"
+            "end": 128.053375,
+            "token": "right"
         },
         {
-            "name": "spontC_111_mhm",
+            "name": "spontD_020_uh-huh",
             "start": 138.96,
-            "end": 139.3915,
-            "token": "mhm"
+            "end": 139.464625,
+            "token": "uh-huh"
         },
         {
-            "name": "spontC_063_yeah",
+            "name": "PR_043_right",
             "start": 150.46,
-            "end": 150.97400000000002,
-            "token": "yeah"
+            "end": 151.12,
+            "token": "right"
         },
         {
-            "name": "spontA_382_yeah",
+            "name": "spontA_112_no",
             "start": 152.78,
-            "end": 153.354625,
-            "token": "yeah"
+            "end": 153.59312500000001,
+            "token": "no"
         }
     ]
 }

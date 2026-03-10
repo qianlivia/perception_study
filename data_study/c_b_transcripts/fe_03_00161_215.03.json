@@ -1,38 +1,38 @@
 {
     "name": "fe_03_00161",
     "context_channel": 1,
-    "context_text": "<A> you know and i mean if the un as a whole decides you know to to go to war then i guess it's a good decision / <B> mhm / <A> um and i know not everybody in the un is friendly with the us so they might just want to vote against the us / <B> yeah / <A> i think we have to respect the un i mean we became part of it because we believed in it / <B> yeah / <A> uhm and that's how our country works you know by having this kind of system / <B> uh-huh / <A> you know just like the court system not everybody believes in it but we still follow it and / <B> yeah",
+    "context_text": "<A> you know and i mean if the un as a whole decides you know to to go to war then i guess it's a good decision / <B> yeah / <A> um and i know not everybody in the un is friendly with the us so they might just want to vote against the us / <B> yeah / <A> i think we have to respect the un i mean we became part of it because we believed in it / <B> yeah / <A> uhm and that's how our country works you know by having this kind of system / <B> yeah / <A> you know just like the court system not everybody believes in it but we still follow it and / <B> yeah",
     "context_start": 215.03,
-    "context_end": 242.43937499999998,
+    "context_end": 242.340125,
     "feedback": [
         {
-            "name": "spontA_379_mhm",
+            "name": "spontF_659_yeah",
             "start": 220.47,
-            "end": 220.987875,
-            "token": "mhm"
+            "end": 220.90025,
+            "token": "yeah"
         },
         {
-            "name": "spontA_382_yeah",
+            "name": "spontD_140_yeah",
             "start": 227.58,
-            "end": 228.154625,
+            "end": 228.12025,
             "token": "yeah"
-        },
-        {
-            "name": "spontF_142_yeah",
-            "start": 232.5,
-            "end": 232.965125,
-            "token": "yeah"
-        },
-        {
-            "name": "spontC_386_uh-huh",
-            "start": 238.18,
-            "end": 238.72650000000002,
-            "token": "uh-huh"
         },
         {
             "name": "spontC_506_yeah",
+            "start": 232.5,
+            "end": 233.019375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_276_yeah",
+            "start": 238.18,
+            "end": 238.64775,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_024_yeah",
             "start": 241.92,
-            "end": 242.43937499999998,
+            "end": 242.340125,
             "token": "yeah"
         }
     ]

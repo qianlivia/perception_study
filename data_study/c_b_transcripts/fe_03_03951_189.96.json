@@ -1,38 +1,38 @@
 {
     "name": "fe_03_03951",
     "context_channel": 1,
-    "context_text": "<A> you know and you know we come from a i come from a very large family and like so like you said like people with handicaps you know my dad only has one arm { from a } / <B> [ oh ] / <A> farming accident my { husband } / <B> [ oh ] / <A> has lou gehrig's disease so he's in a wheelchair / <B> oh / <A> you know so we've dealt with a lot of that in our family the kids are ah you know i don't want them making fun of people like that / <B> no / <A> because we we live it / <B> yeah",
+    "context_text": "<A> you know and you know we come from a i come from a very large family and like so like you said like people with handicaps you know my dad only has one arm { from a } / <B> [ wow ] / <A> farming accident my { husband } / <B> [ wow ] / <A> has lou gehrig's disease so he's in a wheelchair / <B> wow / <A> you know so we've dealt with a lot of that in our family the kids are ah you know i don't want them making fun of people like that / <B> yeah / <A> because we we live it / <B> yeah",
     "context_start": 189.96,
-    "context_end": 215.89625,
+    "context_end": 215.8825,
     "feedback": [
         {
-            "name": "spontE_048_oh",
+            "name": "PS_092_wow",
             "start": 199.74,
-            "end": 200.485125,
-            "token": "oh"
+            "end": 200.657125,
+            "token": "wow"
         },
         {
-            "name": "spontE_043_oh",
+            "name": "PS_023_wow",
             "start": 201.6,
-            "end": 202.25825,
-            "token": "oh"
+            "end": 202.3895,
+            "token": "wow"
         },
         {
-            "name": "spontF_360_oh",
+            "name": "PS_176_wow",
             "start": 204.51,
-            "end": 205.452375,
-            "token": "oh"
+            "end": 205.5075,
+            "token": "wow"
         },
         {
-            "name": "spontA_112_no",
+            "name": "spontA_109_yeah",
             "start": 213.28,
-            "end": 214.09312500000001,
-            "token": "no"
+            "end": 213.93125,
+            "token": "yeah"
         },
         {
-            "name": "spontC_405_yeah",
+            "name": "spontF_485_yeah",
             "start": 215.28,
-            "end": 215.89625,
+            "end": 215.8825,
             "token": "yeah"
         }
     ]

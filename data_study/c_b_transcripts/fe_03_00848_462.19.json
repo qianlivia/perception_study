@@ -1,44 +1,44 @@
 {
     "name": "fe_03_00848",
     "context_channel": 0,
-    "context_text": "<B> yeah we went to my wife and i went to taiwan for like it was about three and a half months / <A> gosh / <B> so about the same amount of time / <A> aww / <B> but i had a different experience so this is so funny because the people there were either afraid to talk to us because they didn't know english / <A> yeah / <B> um even though we wanted to speak chinese or there's a lot of dialects there's a dialect there called taiwanese / <A> okay / <B> and uh so the older people spoke taiwanese which we didn't understand { and } / <A> [ okay ] / <B> the young people were kind of hesitant to talk to us and and of course my chinese wasn't good enough to really warrant them / <A> yeah",
+    "context_text": "<B> yeah we went to my wife and i went to taiwan for like it was about three and a half months / <A> oh / <B> so about the same amount of time / <A> wow / <B> but i had a different experience so this is so funny because the people there were either afraid to talk to us because they didn't know english / <A> yeah / <B> um even though we wanted to speak chinese or there's a lot of dialects there's a dialect there called taiwanese / <A> uh-huh / <B> and uh so the older people spoke taiwanese which we didn't understand { and } / <A> [ oh ] / <B> the young people were kind of hesitant to talk to us and and of course my chinese wasn't good enough to really warrant them / <A> yeah",
     "context_start": 462.19,
-    "context_end": 496.52500000000003,
+    "context_end": 496.596875,
     "feedback": [
         {
-            "name": "PS_073_gosh",
+            "name": "PS_104_oh",
             "start": 466.02,
-            "end": 466.9805,
-            "token": "gosh"
+            "end": 466.755875,
+            "token": "oh"
         },
         {
-            "name": "spontF_296_aww",
+            "name": "spontA_261_wow",
             "start": 467.88,
-            "end": 468.465875,
-            "token": "aww"
+            "end": 468.529125,
+            "token": "wow"
         },
         {
-            "name": "spontC_251_yeah",
+            "name": "spontD_140_yeah",
             "start": 475.4,
-            "end": 476.1475,
+            "end": 475.94025,
             "token": "yeah"
         },
         {
-            "name": "spontD_073_okay",
+            "name": "spontA_240_uh-huh",
             "start": 483.11,
-            "end": 483.851125,
-            "token": "okay"
+            "end": 483.6265,
+            "token": "uh-huh"
         },
         {
-            "name": "spontE_071_okay",
+            "name": "spontE_048_oh",
             "start": 487.54,
-            "end": 488.194,
-            "token": "okay"
+            "end": 488.285125,
+            "token": "oh"
         },
         {
-            "name": "spontC_043_yeah",
+            "name": "spontF_047_yeah",
             "start": 495.99,
-            "end": 496.52500000000003,
+            "end": 496.596875,
             "token": "yeah"
         }
     ]

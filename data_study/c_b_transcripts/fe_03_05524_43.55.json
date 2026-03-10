@@ -1,15 +1,15 @@
 {
     "name": "fe_03_05524",
     "context_channel": 1,
-    "context_text": "<A> and uh generally i walk on that probably five six days a week about thirty minutes a day / <B> gosh / <A> and then uh i just had rotator cuff surgery on my uh right shoulder / <B> oh / <A> where i had a detached ligament and uh i've had to do a lot of arm exercises on that for about the last probably nine ten weeks / <B> oh / <A> and uh other than that i just like to get out on the lake and fish and do you know basically uh yard work stuff like that / <B> yeah",
+    "context_text": "<A> and uh generally i walk on that probably five six days a week about thirty minutes a day / <B> wow / <A> and then uh i just had rotator cuff surgery on my uh right shoulder / <B> oh / <A> where i had a detached ligament and uh i've had to do a lot of arm exercises on that for about the last probably nine ten weeks / <B> wow / <A> and uh other than that i just like to get out on the lake and fish and do you know basically uh yard work stuff like that / <B> yeah",
     "context_start": 43.55,
-    "context_end": 77.335875,
+    "context_end": 77.414625,
     "feedback": [
         {
-            "name": "PS_073_gosh",
+            "name": "PS_020_wow",
             "start": 49.77,
-            "end": 50.730500000000006,
-            "token": "gosh"
+            "end": 50.779500000000006,
+            "token": "wow"
         },
         {
             "name": "spontF_017_oh",
@@ -18,15 +18,15 @@
             "token": "oh"
         },
         {
-            "name": "spontF_288_oh",
+            "name": "PS_129_wow",
             "start": 65.56,
-            "end": 66.429875,
-            "token": "oh"
+            "end": 66.502375,
+            "token": "wow"
         },
         {
-            "name": "spontC_035_yeah",
+            "name": "spontC_075_yeah",
             "start": 76.76,
-            "end": 77.335875,
+            "end": 77.414625,
             "token": "yeah"
         }
     ]

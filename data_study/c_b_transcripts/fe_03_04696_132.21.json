@@ -1,20 +1,20 @@
 {
     "name": "fe_03_04696",
     "context_channel": 1,
-    "context_text": "<A> and ah i i'm married of you know for quite a while and off my wife said don't get discouraged so i i we when i was there i asked ah ah a manager i said wh how what do i do and he says tom just keep keep on doing it every other day and after two two weeks you know start exercising few few minutes more and more and more / <B> uh-huh / <A> and i'm a you know stubborn ol stubborn old man i never give up the ship / <B> yeah / <A> yeah would you believe after one year i was doing one hour of ah treadmill / <B> wow / <A> one hour of bicycling one hour of miscellaneous exercise what i'm talking about is ah crunching and so forth you know / <B> well / <A> half an hour of water exercise my size was forty six waist now i'm thirty eight / <B> aww / <A> i lost thirty five pound my my diabetes is more than normal / <B> what",
+    "context_text": "<A> and ah i i'm married of you know for quite a while and off my wife said don't get discouraged so i i we when i was there i asked ah ah a manager i said wh how what do i do and he says tom just keep keep on doing it every other day and after two two weeks you know start exercising few few minutes more and more and more / <B> yeah / <A> and i'm a you know stubborn ol stubborn old man i never give up the ship / <B> yeah / <A> yeah would you believe after one year i was doing one hour of ah treadmill / <B> wow / <A> one hour of bicycling one hour of miscellaneous exercise what i'm talking about is ah crunching and so forth you know / <B> yeah / <A> half an hour of water exercise my size was forty six waist now i'm thirty eight / <B> wow / <A> i lost thirty five pound my my diabetes is more than normal / <B> wow",
     "context_start": 132.21,
-    "context_end": 206.34425,
+    "context_end": 206.41662499999998,
     "feedback": [
         {
-            "name": "spontD_276_uh-huh",
+            "name": "spontD_397_yeah",
             "start": 157.94,
-            "end": 158.381375,
-            "token": "uh-huh"
+            "end": 158.321375,
+            "token": "yeah"
         },
         {
-            "name": "spontF_127_yeah",
+            "name": "spontB_016_yeah",
             "start": 164.78,
-            "end": 165.482,
+            "end": 165.17487500000001,
             "token": "yeah"
         },
         {
@@ -24,22 +24,22 @@
             "token": "wow"
         },
         {
-            "name": "spontD_171_well",
+            "name": "spontD_024_yeah",
             "start": 183.97,
-            "end": 184.41225,
-            "token": "well"
+            "end": 184.390125,
+            "token": "yeah"
         },
         {
-            "name": "spontF_296_aww",
+            "name": "PS_164_wow",
             "start": 195.8,
-            "end": 196.385875,
-            "token": "aww"
+            "end": 196.93925000000002,
+            "token": "wow"
         },
         {
-            "name": "NegS_063_what",
+            "name": "PS_100_wow",
             "start": 205.42,
-            "end": 206.34425,
-            "token": "what"
+            "end": 206.41662499999998,
+            "token": "wow"
         }
     ]
 }

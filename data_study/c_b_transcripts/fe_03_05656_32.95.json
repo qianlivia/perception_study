@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05656",
     "context_channel": 1,
-    "context_text": "<A> um well airport security well um honestly in the past ah i flew plenty of ah you know flights in my life um before nine eleven um it in other words you would never in my opinion see a dog / <B> ugh / <A> like i used to smoke pot / <B> okay / <A> i didn't think twice about like you know bringing some pot with me on { on } / <B> [ okay ] / <A> like my carry on bag i'm / <B> okay",
+    "context_text": "<A> um well airport security well um honestly in the past ah i flew plenty of ah you know flights in my life um before nine eleven um it in other words you would never in my opinion see a dog / <B> oh / <A> like i used to smoke pot / <B> uh-huh / <A> i didn't think twice about like you know bringing some pot with me on { on } / <B> [ uh-huh ] / <A> like my carry on bag i'm / <B> yeah",
     "context_start": 32.95,
-    "context_end": 56.014,
+    "context_end": 55.754875,
     "feedback": [
         {
-            "name": "spontF_389_ugh",
+            "name": "spontF_207_oh",
             "start": 48.64,
-            "end": 49.0495,
-            "token": "ugh"
+            "end": 49.024375,
+            "token": "oh"
         },
         {
-            "name": "spontD_410_okay",
+            "name": "spontD_020_uh-huh",
             "start": 50.26,
-            "end": 50.683749999999996,
-            "token": "okay"
+            "end": 50.764624999999995,
+            "token": "uh-huh"
         },
         {
-            "name": "spontA_198_okay",
+            "name": "spontC_132_uh-huh",
             "start": 53.7,
-            "end": 54.369625000000006,
-            "token": "okay"
+            "end": 54.299125000000004,
+            "token": "uh-huh"
         },
         {
-            "name": "spontE_071_okay",
+            "name": "spontB_016_yeah",
             "start": 55.36,
-            "end": 56.014,
-            "token": "okay"
+            "end": 55.754875,
+            "token": "yeah"
         }
     ]
 }

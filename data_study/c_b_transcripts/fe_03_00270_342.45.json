@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00270",
     "context_channel": 0,
-    "context_text": "<B> because my family lives here { i } / <A> [ okay ] / <B> mean two of my sisters live here and my parents lived here so i yeah i'd spend most of my holidays here / <A> okay / <B> you know i moved back here because of the family and everything be better than staying in denver and you know because { i } / <A> [ okay ] / <B> really had no connection in denver other than you know the people with whom i worked so / <A> okay",
+    "context_text": "<B> because my family lives here { i } / <A> [ okay ] / <B> mean two of my sisters live here and my parents lived here so i yeah i'd spend most of my holidays here / <A> okay / <B> you know i moved back here because of the family and everything be better than staying in denver and you know because { i } / <A> [ yeah ] / <B> really had no connection in denver other than you know the people with whom i worked so / <A> yeah",
     "context_start": 342.45,
-    "context_end": 365.18800000000005,
+    "context_end": 365.02025000000003,
     "feedback": [
         {
             "name": "spontD_089_okay",
@@ -12,22 +12,22 @@
             "token": "okay"
         },
         {
-            "name": "spontE_152_okay",
+            "name": "spontD_386_okay",
             "start": 350.45,
-            "end": 351.07725,
+            "end": 351.15299999999996,
             "token": "okay"
         },
         {
-            "name": "spontC_286_okay",
+            "name": "spontD_024_yeah",
             "start": 359.75,
-            "end": 360.402,
-            "token": "okay"
+            "end": 360.170125,
+            "token": "yeah"
         },
         {
-            "name": "spontF_643_okay",
+            "name": "spontD_140_yeah",
             "start": 364.48,
-            "end": 365.18800000000005,
-            "token": "okay"
+            "end": 365.02025000000003,
+            "token": "yeah"
         }
     ]
 }

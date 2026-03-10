@@ -1,21 +1,21 @@
 {
     "name": "fe_03_04346",
     "context_channel": 0,
-    "context_text": "<B> you know what i'm saying i got my d the only thing i ain't got is a dvd player and that's that's that's all good because i got a vhs { and they and they } / <A> [ ugh ] / <B> play and the vhs plays just like a dvd and i got the sound to make it sound like it's my ho all my own home theater system { so i don't really } / <A> [ oh ] / <B> need nothing you know what i'm saying i got my music i got my animals i got i got my child i got my wife / <A> yeah / <B> and when i'm good you know i just { wa i just } / <A> [ ugh ]",
+    "context_text": "<B> you know what i'm saying i got my d the only thing i ain't got is a dvd player and that's that's that's all good because i got a vhs { and they and they } / <A> [ wow ] / <B> play and the vhs plays just like a dvd and i got the sound to make it sound like it's my ho all my own home theater system { so i don't really } / <A> [ wow ] / <B> need nothing you know what i'm saying i got my music i got my animals i got i got my child i got my wife / <A> yeah / <B> and when i'm good you know i just { wa i just } / <A> [ wow ]",
     "context_start": 426.6,
-    "context_end": 453.010375,
+    "context_end": 454.046625,
     "feedback": [
         {
-            "name": "NegS_020_ugh",
+            "name": "PS_038_wow",
             "start": 433.96,
-            "end": 435.22437499999995,
-            "token": "ugh"
+            "end": 435.31575,
+            "token": "wow"
         },
         {
-            "name": "spontE_048_oh",
+            "name": "PS_048_wow",
             "start": 442.89,
-            "end": 443.63512499999996,
-            "token": "oh"
+            "end": 444.4225,
+            "token": "wow"
         },
         {
             "name": "spontC_135_yeah",
@@ -24,10 +24,10 @@
             "token": "yeah"
         },
         {
-            "name": "spontC_126_ugh",
+            "name": "PS_049_wow",
             "start": 452.24,
-            "end": 453.010375,
-            "token": "ugh"
+            "end": 454.046625,
+            "token": "wow"
         }
     ]
 }

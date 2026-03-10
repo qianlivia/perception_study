@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04110",
     "context_channel": 1,
-    "context_text": "<A> tons of money and that's okay he knows { the } / <B> [ yeah ] / <A> product he knows the market you know he knows his worth and he knows that so he's smart you know { you } / <B> [ yeah ] / <A> know and and so you know it's okay to it's it's you need to be specialized like a doctor needs to be specialized you can't just / <B> uh-huh",
+    "context_text": "<A> tons of money and that's okay he knows { the } / <B> [ yeah ] / <A> product he knows the market you know he knows his worth and he knows that so he's smart you know { you } / <B> [ yeah ] / <A> know and and so you know it's okay to it's it's you need to be specialized like a doctor needs to be specialized you can't just / <B> yeah",
     "context_start": 267.59,
-    "context_end": 285.064375,
+    "context_end": 285.004375,
     "feedback": [
         {
             "name": "spontB_016_yeah",
@@ -12,16 +12,16 @@
             "token": "yeah"
         },
         {
-            "name": "spontB_226_yeah",
+            "name": "PR_031_yeah",
             "start": 275.87,
-            "end": 276.319,
+            "end": 276.273125,
             "token": "yeah"
         },
         {
-            "name": "spontE_065_uh-huh",
+            "name": "spontE_003_yeah",
             "start": 284.62,
-            "end": 285.064375,
-            "token": "uh-huh"
+            "end": 285.004375,
+            "token": "yeah"
         }
     ]
 }

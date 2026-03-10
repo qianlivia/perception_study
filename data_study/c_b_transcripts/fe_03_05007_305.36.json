@@ -1,9 +1,9 @@
 {
     "name": "fe_03_05007",
     "context_channel": 1,
-    "context_text": "<A> like that you know i could drink a beer and i'd just blow 'em up let's just nuke 'em all you know and you have to deal with that / <B> yeah / <A> and uh y to voicing your opinions is just uh like like what do you uh do you believe in allah do you know d d and then they tried to save me you { know they're like uh } / <B> [ ugh ] / <A> you know uh if you if you knew jesus christ like i do you wouldn't have to worry about and i'm like wait a second five seconds ago you were talking about killing somebody { and } / <B> [ yeah ]",
+    "context_text": "<A> like that you know i could drink a beer and i'd just blow 'em up let's just nuke 'em all you know and you have to deal with that / <B> yeah / <A> and uh y to voicing your opinions is just uh like like what do you uh do you believe in allah do you know d d and then they tried to save me you { know they're like uh } / <B> [ wow ] / <A> you know uh if you if you knew jesus christ like i do you wouldn't have to worry about and i'm like wait a second five seconds ago you were talking about killing somebody { and } / <B> [ yeah ]",
     "context_start": 305.36,
-    "context_end": 329.137875,
+    "context_end": 329.247625,
     "feedback": [
         {
             "name": "spontA_382_yeah",
@@ -12,15 +12,15 @@
             "token": "yeah"
         },
         {
-            "name": "NegS_020_ugh",
+            "name": "PS_171_wow",
             "start": 320.2,
-            "end": 321.46437499999996,
-            "token": "ugh"
+            "end": 322.344875,
+            "token": "wow"
         },
         {
-            "name": "spontC_127_yeah",
+            "name": "spontC_135_yeah",
             "start": 328.56,
-            "end": 329.137875,
+            "end": 329.247625,
             "token": "yeah"
         }
     ]

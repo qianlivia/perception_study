@@ -1,26 +1,26 @@
 {
     "name": "fe_03_02410",
     "context_channel": 1,
-    "context_text": "<A> nothing's going on i just think the united states is trying to globalize their dem democratic economy / <B> oh / <A> that's what i think they're trying to do i don't { have } / <B> [ okay ] / <A> have any i don't have anything against it / <B> okay / <A> it'll be good for the other nations / <B> okay",
+    "context_text": "<A> nothing's going on i just think the united states is trying to globalize their dem democratic economy / <B> okay / <A> that's what i think they're trying to do i don't { have } / <B> [ okay ] / <A> have any i don't have anything against it / <B> okay / <A> it'll be good for the other nations / <B> okay",
     "context_start": 269.58,
     "context_end": 283.98825000000005,
     "feedback": [
         {
-            "name": "spontF_109_oh",
+            "name": "spontC_020_okay",
             "start": 276.11,
-            "end": 276.4495,
-            "token": "oh"
-        },
-        {
-            "name": "spontC_172_okay",
-            "start": 278.59,
-            "end": 279.001125,
+            "end": 276.58500000000004,
             "token": "okay"
         },
         {
-            "name": "spontC_134_okay",
+            "name": "spontC_286_okay",
+            "start": 278.59,
+            "end": 279.24199999999996,
+            "token": "okay"
+        },
+        {
+            "name": "spontC_511_okay",
             "start": 280.78,
-            "end": 281.58712499999996,
+            "end": 281.29087499999997,
             "token": "okay"
         },
         {

@@ -1,15 +1,15 @@
 {
     "name": "fe_03_01277",
     "context_channel": 0,
-    "context_text": "<B> yeah i i probably um i i run the tv most of the day when i'm like house cleaning and and { doing my } / <A> [ huh ] / <B> chores around the house and do whatnot um so i especially when there's tragedy like now i leave { it on } / <A> [ yeah ] / <B> cnn { all day } / <A> [ yeah ] / <B> so all i listen to is cnn but i do read the newspapers { and } / <A> ugh",
+    "context_text": "<B> yeah i i probably um i i run the tv most of the day when i'm like house cleaning and and { doing my } / <A> [ sure ] / <B> chores around the house and do whatnot um so i especially when there's tragedy like now i leave { it on } / <A> [ yeah ] / <B> cnn { all day } / <A> [ yeah ] / <B> so all i listen to is cnn but i do read the newspapers { and } / <A> yeah",
     "context_start": 82.94,
-    "context_end": 101.25949999999999,
+    "context_end": 101.25824999999999,
     "feedback": [
         {
-            "name": "sun2_008_huh",
+            "name": "sun_030_sure",
             "start": 88.06,
-            "end": 88.93675,
-            "token": "huh"
+            "end": 89.007125,
+            "token": "sure"
         },
         {
             "name": "spontC_063_yeah",
@@ -18,16 +18,16 @@
             "token": "yeah"
         },
         {
-            "name": "spontE_059_yeah",
+            "name": "spontF_140_yeah",
             "start": 96.93,
-            "end": 97.81137500000001,
+            "end": 97.74000000000001,
             "token": "yeah"
         },
         {
-            "name": "spontF_389_ugh",
+            "name": "sun_046_yeah",
             "start": 100.85,
-            "end": 101.25949999999999,
-            "token": "ugh"
+            "end": 101.25824999999999,
+            "token": "yeah"
         }
     ]
 }

@@ -1,14 +1,14 @@
 {
     "name": "fe_03_03276",
     "context_channel": 1,
-    "context_text": "<A> that's so important um i met my husband when i was sixteen like twenty years ago { and we were just friends } / <B> [ wow ] / <A> and um we were you know i was like drawn to him as a friend at first so i { guess } / <B> [ uh-huh ] / <A> that's why like we're still together because there was that foundation before { and um most of my } / <B> [ yeah ] / <A> friends went away to college and i stayed home and i cause i wasn't sure what i wanted to do i went to community and he went to community also and we would just like would hang out or we'd go to the movies it was like a comfort zone / <B> yeah / <A> and um i found myself just falling in love like that you know like he was always there for me whether { you know it was like } / <B> [ yeah ] / <A> stupid little old things like you know like i needed a lift to school or you know like { if there was } / <B> [ yeah ]",
+    "context_text": "<A> that's so important um i met my husband when i was sixteen like twenty years ago { and we were just friends } / <B> [ wow ] / <A> and um we were you know i was like drawn to him as a friend at first so i { guess } / <B> [ uh-huh ] / <A> that's why like we're still together because there was that foundation before { and um most of my } / <B> [ wow ] / <A> friends went away to college and i stayed home and i cause i wasn't sure what i wanted to do i went to community and he went to community also and we would just like would hang out or we'd go to the movies it was like a comfort zone / <B> yeah / <A> and um i found myself just falling in love like that you know like he was always there for me whether { you know it was like } / <B> [ wow ] / <A> stupid little old things like you know like i needed a lift to school or you know like { if there was } / <B> [ yeah ]",
     "context_start": 83.85,
-    "context_end": 127.54187499999999,
+    "context_end": 127.6,
     "feedback": [
         {
-            "name": "PS_038_wow",
+            "name": "PS_141_wow",
             "start": 90.61,
-            "end": 91.96575,
+            "end": 92.364,
             "token": "wow"
         },
         {
@@ -18,27 +18,27 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontA_073_yeah",
+            "name": "PS_084_wow",
             "start": 102.42,
-            "end": 103.571625,
+            "end": 103.444875,
+            "token": "wow"
+        },
+        {
+            "name": "spontD_338_yeah",
+            "start": 115.11,
+            "end": 115.765375,
             "token": "yeah"
         },
         {
-            "name": "spontF_287_yeah",
-            "start": 115.11,
-            "end": 115.74125,
-            "token": "yeah"
+            "name": "PS_157_wow",
+            "start": 120.96,
+            "end": 122.42399999999999,
+            "token": "wow"
         },
         {
             "name": "spontD_336_yeah",
-            "start": 120.96,
-            "end": 121.96,
-            "token": "yeah"
-        },
-        {
-            "name": "spontE_235_yeah",
             "start": 126.6,
-            "end": 127.54187499999999,
+            "end": 127.6,
             "token": "yeah"
         }
     ]

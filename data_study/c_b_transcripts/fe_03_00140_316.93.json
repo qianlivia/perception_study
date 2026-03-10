@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00140",
     "context_channel": 1,
-    "context_text": "<A> oh i'll sure i'll bring in soap we had to bring a pat of soap drive at school { we } / <B> [ uh-huh ] / <A> brought in soap and i couldn't watch my tv shows and that's really the only i didn't get it i truly didn't get it and i think these kids now they seem to get it a little more i think probably after september eleventh that we don't feel like everything is across the ocean / <B> right / <A> we feel like it could really hit home / <B> yeah / <A> but i have kids that are honest and truly they are scared and that's a terrible thing i just maybe i wish they could be a little more sheltered more so than they are / <B> yeah",
+    "context_text": "<A> oh i'll sure i'll bring in soap we had to bring a pat of soap drive at school { we } / <B> [ uh-huh ] / <A> brought in soap and i couldn't watch my tv shows and that's really the only i didn't get it i truly didn't get it and i think these kids now they seem to get it a little more i think probably after september eleventh that we don't feel like everything is across the ocean / <B> right / <A> we feel like it could really hit home / <B> right / <A> but i have kids that are honest and truly they are scared and that's a terrible thing i just maybe i wish they could be a little more sheltered more so than they are / <B> right",
     "context_start": 316.93,
-    "context_end": 354.81624999999997,
+    "context_end": 354.993625,
     "feedback": [
         {
             "name": "spontA_086_uh-huh",
@@ -12,22 +12,22 @@
             "token": "uh-huh"
         },
         {
-            "name": "sun1_032_right",
+            "name": "sun_013_right",
             "start": 339.77,
-            "end": 340.61337499999996,
+            "end": 340.64349999999996,
             "token": "right"
         },
         {
-            "name": "spontA_382_yeah",
+            "name": "sun1_029_right",
             "start": 342.43,
-            "end": 343.00462500000003,
-            "token": "yeah"
+            "end": 343.122,
+            "token": "right"
         },
         {
-            "name": "spontC_405_yeah",
+            "name": "sun1_030_right",
             "start": 354.2,
-            "end": 354.81624999999997,
-            "token": "yeah"
+            "end": 354.993625,
+            "token": "right"
         }
     ]
 }

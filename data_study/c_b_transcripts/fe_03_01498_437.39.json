@@ -1,15 +1,15 @@
 {
     "name": "fe_03_01498",
     "context_channel": 1,
-    "context_text": "<A> so a lotta that stuff was our our w we were keeping up with down here / <B> ugh / <A> and um i guess because it was you know pretty close where they were finding these things and then you sit there { and say } / <B> [ yeah ] / <A> well did that person pass me in the mall or you know something of that sort and / <B> yeah / <A> uh like be driving down a country road and you see somebody with a turban on and you say hm you know what / <B> yeah",
+    "context_text": "<A> so a lotta that stuff was our our w we were keeping up with down here / <B> yeah / <A> and um i guess because it was you know pretty close where they were finding these things and then you sit there { and say } / <B> [ yeah ] / <A> well did that person pass me in the mall or you know something of that sort and / <B> yeah / <A> uh like be driving down a country road and you see somebody with a turban on and you say hm you know what / <B> yeah",
     "context_start": 437.39,
-    "context_end": 460.321375,
+    "context_end": 460.034875,
     "feedback": [
         {
-            "name": "spontF_389_ugh",
+            "name": "spontF_295_yeah",
             "start": 442.47,
-            "end": 442.8795,
-            "token": "ugh"
+            "end": 442.988375,
+            "token": "yeah"
         },
         {
             "name": "spontB_132_yeah",
@@ -18,15 +18,15 @@
             "token": "yeah"
         },
         {
-            "name": "spontC_251_yeah",
+            "name": "spontA_109_yeah",
             "start": 452.85,
-            "end": 453.5975,
+            "end": 453.50125,
             "token": "yeah"
         },
         {
-            "name": "spontE_059_yeah",
+            "name": "spontE_067_yeah",
             "start": 459.44,
-            "end": 460.321375,
+            "end": 460.034875,
             "token": "yeah"
         }
     ]

@@ -1,9 +1,9 @@
 {
     "name": "fe_03_05585",
     "context_channel": 1,
-    "context_text": "<A> hit um so he got out but i just remember waking up and you know my phone 's been ringing and ringing and i finally woke up and answered it and { i } / <B> [ oh ] / <A> turned on the tv just in time to see the second plane hit / <B> ah / <A> and um yeah you know slowly you know you put together you know who got out who didn't and i you { know no } / <B> [ no ] / <A> nobody i was real close to but definitely people i knew you know / <B> yeah / <A> acquaintances or a couple of uh guys i went to high school with / <B> yeah",
+    "context_text": "<A> hit um so he got out but i just remember waking up and you know my phone 's been ringing and ringing and i finally woke up and answered it and { i } / <B> [ oh ] / <A> turned on the tv just in time to see the second plane hit / <B> ah / <A> and um yeah you know slowly you know you put together you know who got out who didn't and i you { know no } / <B> [ wow ] / <A> nobody i was real close to but definitely people i knew you know / <B> yeah / <A> acquaintances or a couple of uh guys i went to high school with / <B> wow",
     "context_start": 259.87,
-    "context_end": 286.35837499999997,
+    "context_end": 286.782375,
     "feedback": [
         {
             "name": "spontE_048_oh",
@@ -18,22 +18,22 @@
             "token": "ah"
         },
         {
-            "name": "sun2_030_no",
+            "name": "PS_043_wow",
             "start": 276.54,
-            "end": 277.77275000000003,
-            "token": "no"
+            "end": 277.87525,
+            "token": "wow"
         },
         {
-            "name": "spontE_161_yeah",
+            "name": "spontD_083_yeah",
             "start": 280.23,
-            "end": 281.0845,
+            "end": 281.176375,
             "token": "yeah"
         },
         {
-            "name": "spontF_295_yeah",
+            "name": "PS_129_wow",
             "start": 285.84,
-            "end": 286.35837499999997,
-            "token": "yeah"
+            "end": 286.782375,
+            "token": "wow"
         }
     ]
 }

@@ -1,27 +1,27 @@
 {
     "name": "fe_03_01415",
     "context_channel": 0,
-    "context_text": "<B> um as far as my daughter is concerned she's only five she's not totally aware of what's going on but try to explain to her you know what she needs to do in case she's not with me you know { um } / <A> [ absolutely ] / <B> stuff like that also um as far as monies in the bank and stuff like { that } / <A> [ sure ] / <B> i try to monitor to see what's going on so that at least if anything happens { you } / <A> [ mhm ]",
+    "context_text": "<B> um as far as my daughter is concerned she's only five she's not totally aware of what's going on but try to explain to her you know what she needs to do in case she's not with me you know { um } / <A> [ right ] / <B> stuff like that also um as far as monies in the bank and stuff like { that } / <A> [ sure ] / <B> i try to monitor to see what's going on so that at least if anything happens { you } / <A> [ right ]",
     "context_start": 88.24,
-    "context_end": 118.903125,
+    "context_end": 119.05,
     "feedback": [
         {
-            "name": "sun_002_absolutely",
+            "name": "sun1_033_right",
             "start": 102.79,
-            "end": 103.83550000000001,
-            "token": "absolutely"
+            "end": 103.64312500000001,
+            "token": "right"
         },
         {
-            "name": "sun_051_sure",
+            "name": "sun_030_sure",
             "start": 110.65,
-            "end": 111.417625,
+            "end": 111.597125,
             "token": "sure"
         },
         {
-            "name": "spontA_107_mhm",
+            "name": "PR_043_right",
             "start": 118.39,
-            "end": 118.903125,
-            "token": "mhm"
+            "end": 119.05,
+            "token": "right"
         }
     ]
 }

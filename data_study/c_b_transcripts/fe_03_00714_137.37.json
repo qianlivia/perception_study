@@ -1,39 +1,39 @@
 {
     "name": "fe_03_00714",
     "context_channel": 1,
-    "context_text": "<A> yeah my husband he worked at one time he worked for a medical supply company / <B> oh / <A> and when i asked when i told him about the explosion which i didn't know too much about he said you know did they do cleaning there you know doing the cleaning of the instruments did they make / <B> oh / <A> the instruments and i said i don't know / <B> no / <A> you know and he says cause if the got that do you know if they're doing that part of it explosions can happen very easily / <B> yeah / <A> um you know i don't know what they were doing so / <B> yeah",
+    "context_text": "<A> yeah my husband he worked at one time he worked for a medical supply company / <B> uh-huh / <A> and when i asked when i told him about the explosion which i didn't know too much about he said you know did they do cleaning there you know doing the cleaning of the instruments did they make / <B> uh-huh / <A> the instruments and i said i don't know / <B> uh-huh / <A> you know and he says cause if the got that do you know if they're doing that part of it explosions can happen very easily / <B> right / <A> um you know i don't know what they were doing so / <B> right",
     "context_start": 137.37,
-    "context_end": 166.234625,
+    "context_end": 166.5335,
     "feedback": [
         {
-            "name": "spontF_109_oh",
+            "name": "spontC_128_uh-huh",
             "start": 141.88,
-            "end": 142.21949999999998,
-            "token": "oh"
+            "end": 142.380875,
+            "token": "uh-huh"
         },
         {
-            "name": "spontE_295_oh",
+            "name": "spontF_009_uh-huh",
             "start": 152.85,
-            "end": 153.594125,
-            "token": "oh"
+            "end": 153.23274999999998,
+            "token": "uh-huh"
         },
         {
-            "name": "spontF_264_no",
+            "name": "spontA_290_uh-huh",
             "start": 155.61,
-            "end": 156.14712500000002,
-            "token": "no"
+            "end": 156.10975000000002,
+            "token": "uh-huh"
         },
         {
-            "name": "spontF_295_yeah",
+            "name": "sun1_032_right",
             "start": 162.74,
-            "end": 163.258375,
-            "token": "yeah"
+            "end": 163.58337500000002,
+            "token": "right"
         },
         {
-            "name": "spontA_382_yeah",
+            "name": "sun_013_right",
             "start": 165.66,
-            "end": 166.234625,
-            "token": "yeah"
+            "end": 166.5335,
+            "token": "right"
         }
     ]
 }

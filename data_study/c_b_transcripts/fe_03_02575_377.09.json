@@ -1,32 +1,32 @@
 {
     "name": "fe_03_02575",
     "context_channel": 0,
-    "context_text": "<B> the ah um prior governor was very very unpopular { he } / <A> [ aww ] / <B> was just he just ah he was very heavy handed ah liked to play a kind of revenge old style gotcha politics / <A> oh / <B> and ah that hurt ah townsend ah you know she got tarred with all the negative aspects of of the incumbent / <A> ah / <B> but couldn't take any credit for any of the positive aspects so { that ah } / <A> [ no ]",
+    "context_text": "<B> the ah um prior governor was very very unpopular { he } / <A> [ yeah ] / <B> was just he just ah he was very heavy handed ah liked to play a kind of revenge old style gotcha politics / <A> yeah / <B> and ah that hurt ah townsend ah you know she got tarred with all the negative aspects of of the incumbent / <A> yeah / <B> but couldn't take any credit for any of the positive aspects so { that ah } / <A> [ no ]",
     "context_start": 377.09,
-    "context_end": 412.22312500000004,
+    "context_end": 412.58275000000003,
     "feedback": [
         {
-            "name": "spontF_671_aww",
+            "name": "spontA_015_yeah",
             "start": 383.08,
-            "end": 383.7495,
-            "token": "aww"
+            "end": 383.849875,
+            "token": "yeah"
         },
         {
-            "name": "spontF_320_oh",
+            "name": "spontC_405_yeah",
             "start": 395.63,
-            "end": 396.332375,
-            "token": "oh"
+            "end": 396.24625,
+            "token": "yeah"
         },
         {
-            "name": "spontE_232_ah",
+            "name": "spontD_140_yeah",
             "start": 406.26,
-            "end": 407.24075,
-            "token": "ah"
+            "end": 406.80025,
+            "token": "yeah"
         },
         {
-            "name": "spontA_380_no",
+            "name": "sun2_030_no",
             "start": 411.35,
-            "end": 412.22312500000004,
+            "end": 412.58275000000003,
             "token": "no"
         }
     ]

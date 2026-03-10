@@ -1,9 +1,9 @@
 {
     "name": "fe_03_05440",
     "context_channel": 1,
-    "context_text": "<A> [ i would well ] i i would uh agree with uh part of it not all of it / <B> okay / <A> so like like you said if you're like the having hi you have to hire a certain amount of / <B> yeah / <A> a person of a certain uh a certain race or a certain uh certain uh certain uh gender or something like that / <B> right / <A> that'd be hard for uh for some companies right / <B> yeah",
+    "context_text": "<A> [ i would well ] i i would uh agree with uh part of it not all of it / <B> okay / <A> so like like you said if you're like the having hi you have to hire a certain amount of / <B> yeah / <A> a person of a certain uh a certain race or a certain uh certain uh certain uh gender or something like that / <B> uh-huh / <A> that'd be hard for uh for some companies right / <B> yes",
     "context_start": 494.87,
-    "context_end": 524.9425,
+    "context_end": 524.934375,
     "feedback": [
         {
             "name": "spontC_511_okay",
@@ -18,16 +18,16 @@
             "token": "yeah"
         },
         {
-            "name": "spontC_360_right",
+            "name": "spontD_276_uh-huh",
             "start": 519.78,
-            "end": 520.358875,
-            "token": "right"
+            "end": 520.221375,
+            "token": "uh-huh"
         },
         {
-            "name": "spontF_485_yeah",
+            "name": "PR_026_yes",
             "start": 524.34,
-            "end": 524.9425,
-            "token": "yeah"
+            "end": 524.934375,
+            "token": "yes"
         }
     ]
 }

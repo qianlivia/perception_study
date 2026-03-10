@@ -1,27 +1,27 @@
 {
     "name": "fe_03_04379",
     "context_channel": 1,
-    "context_text": "<A> yeah but ah i had a boyfriend in washington { i was } / <B> [ oh ] / <A> in washington for a while and i had a boyfriend that i i really did care about / <B> yeah / <A> but he didn't like he didn't like it because i went to church he told me told me he would take me to church and he took me a couple of times / <B> yeah",
+    "context_text": "<A> yeah but ah i had a boyfriend in washington { i was } / <B> [ oh ] / <A> in washington for a while and i had a boyfriend that i i really did care about / <B> yeah / <A> but he didn't like he didn't like it because i went to church he told me told me he would take me to church and he took me a couple of times / <B> uh-huh",
     "context_start": 512.09,
-    "context_end": 531.8535,
+    "context_end": 531.740875,
     "feedback": [
         {
-            "name": "spontA_071_oh",
+            "name": "PS_194_oh",
             "start": 517.74,
-            "end": 518.3575,
+            "end": 518.54375,
             "token": "oh"
         },
         {
-            "name": "spontC_405_yeah",
+            "name": "spontD_172_yeah",
             "start": 523.22,
-            "end": 523.8362500000001,
+            "end": 524.0135,
             "token": "yeah"
         },
         {
-            "name": "spontF_380_yeah",
+            "name": "spontC_128_uh-huh",
             "start": 531.24,
-            "end": 531.8535,
-            "token": "yeah"
+            "end": 531.740875,
+            "token": "uh-huh"
         }
     ]
 }

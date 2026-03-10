@@ -1,9 +1,9 @@
 {
     "name": "fe_03_01454",
     "context_channel": 1,
-    "context_text": "<A> and um like around four o'clock my boss called and said you know do you want you workers to go home and i'm like why / <B> oh / <A> you know what we got a full day here we stay there up until seven i'm well my workers are staying till seven why would they go home early / <B> yeah / <A> he said oh well you guys don't have your tv on and i'm like no we're moving why would i have my tv { on and } / <B> [ yeah ] / <A> i'm in the middle of boxes here i'm not going to sit { down and } / <B> [ yeah ] / <A> watch tv he goes oh well you know you know the world trade center that's how i actually found out you know { like my } / <B> [ oh ] / <A> boss told me and i'm like oh wow / <B> yeah / <A> he's like well we're letting people off early if they if they're affected by this and i'm like well i don't think anyone's affected but i'll ask and none of my workers had any like i have like over four hundred workers / <B> wow / <A> and out of four hundred workers not a single one of them { knew about it } / <B> [ yeah ]",
+    "context_text": "<A> and um like around four o'clock my boss called and said you know do you want you workers to go home and i'm like why / <B> oh / <A> you know what we got a full day here we stay there up until seven i'm well my workers are staying till seven why would they go home early / <B> yeah / <A> he said oh well you guys don't have your tv on and i'm like no we're moving why would i have my tv { on and } / <B> [ yeah ] / <A> i'm in the middle of boxes here i'm not going to sit { down and } / <B> [ oh ] / <A> watch tv he goes oh well you know you know the world trade center that's how i actually found out you know { like my } / <B> [ yeah ] / <A> boss told me and i'm like oh wow / <B> yeah / <A> he's like well we're letting people off early if they if they're affected by this and i'm like well i don't think anyone's affected but i'll ask and none of my workers had any like i have like over four hundred workers / <B> wow / <A> and out of four hundred workers not a single one of them { knew about it } / <B> [ wow ]",
     "context_start": 346.9,
-    "context_end": 388.782375,
+    "context_end": 389.05925,
     "feedback": [
         {
             "name": "spontF_320_oh",
@@ -12,9 +12,9 @@
             "token": "oh"
         },
         {
-            "name": "spontE_023_yeah",
+            "name": "spontF_295_yeah",
             "start": 358.82,
-            "end": 359.355625,
+            "end": 359.338375,
             "token": "yeah"
         },
         {
@@ -24,16 +24,16 @@
             "token": "yeah"
         },
         {
-            "name": "spontF_595_yeah",
+            "name": "spontE_048_oh",
             "start": 366.09,
-            "end": 366.702,
-            "token": "yeah"
+            "end": 366.83512499999995,
+            "token": "oh"
         },
         {
-            "name": "spontE_048_oh",
+            "name": "spontF_512_yeah",
             "start": 371.97,
-            "end": 372.715125,
-            "token": "oh"
+            "end": 372.95625,
+            "token": "yeah"
         },
         {
             "name": "spontE_059_yeah",
@@ -48,10 +48,10 @@
             "token": "wow"
         },
         {
-            "name": "spontF_324_yeah",
+            "name": "PS_164_wow",
             "start": 387.92,
-            "end": 388.782375,
-            "token": "yeah"
+            "end": 389.05925,
+            "token": "wow"
         }
     ]
 }

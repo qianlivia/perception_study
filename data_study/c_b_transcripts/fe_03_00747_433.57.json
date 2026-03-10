@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00747",
     "context_channel": 1,
-    "context_text": "<A> to tell you the truth i don't know a whole lot about tv because ah the only show that i ever watch is fox news / <B> okay / <A> i love fox news down here it's channel thirty three on cable and ah i i love fox news because it really keeps me well informed and i guess being at my age now i'm more interested in world affairs whereas { when i } / <B> [ mhm ] / <A> was younger i couldn't have cared less / <B> uh-huh / <A> i was busy making a living / <B> mhm / <A> and um now i'm i really am interested and i want to know what's going on all around me and i { wanna } / <B> [ mhm ] / <A> be informed and i honest to god never watch another show except fox news / <B> uh-huh / <A> i've looked at some of the um sitcoms that they have now and i told my husband i said every single one of them makes me sick / <B> uh-huh / <A> i i i don't even watch regular tv at all / <B> okay",
+    "context_text": "<A> to tell you the truth i don't know a whole lot about tv because ah the only show that i ever watch is fox news / <B> okay / <A> i love fox news down here it's channel thirty three on cable and ah i i love fox news because it really keeps me well informed and i guess being at my age now i'm more interested in world affairs whereas { when i } / <B> [ sure ] / <A> was younger i couldn't have cared less / <B> uh-huh / <A> i was busy making a living / <B> uh-huh / <A> and um now i'm i really am interested and i want to know what's going on all around me and i { wanna } / <B> [ uh-huh ] / <A> be informed and i honest to god never watch another show except fox news / <B> okay / <A> i've looked at some of the um sitcoms that they have now and i told my husband i said every single one of them makes me sick / <B> uh-huh / <A> i i i don't even watch regular tv at all / <B> okay",
     "context_start": 433.57,
-    "context_end": 481.67725,
+    "context_end": 481.75800000000004,
     "feedback": [
         {
             "name": "spontF_074_okay",
@@ -12,10 +12,10 @@
             "token": "okay"
         },
         {
-            "name": "spontC_235_mhm",
+            "name": "sun_030_sure",
             "start": 453.99,
-            "end": 454.44175,
-            "token": "mhm"
+            "end": 454.93712500000004,
+            "token": "sure"
         },
         {
             "name": "spontE_106_uh-huh",
@@ -24,33 +24,33 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontF_257_mhm",
+            "name": "spontD_276_uh-huh",
             "start": 457.74,
-            "end": 458.232375,
-            "token": "mhm"
+            "end": 458.181375,
+            "token": "uh-huh"
         },
         {
-            "name": "spontA_063_mhm",
+            "name": "spontE_227_uh-huh",
             "start": 464.51,
-            "end": 465.000875,
-            "token": "mhm"
+            "end": 464.931625,
+            "token": "uh-huh"
         },
         {
-            "name": "spontE_070_uh-huh",
+            "name": "spontC_134_okay",
             "start": 470.06,
-            "end": 470.53475,
-            "token": "uh-huh"
+            "end": 470.867125,
+            "token": "okay"
         },
         {
-            "name": "spontD_337_uh-huh",
+            "name": "spontD_070_uh-huh",
             "start": 477.72,
-            "end": 478.23,
+            "end": 478.22825,
             "token": "uh-huh"
         },
         {
-            "name": "spontE_152_okay",
+            "name": "spontF_643_okay",
             "start": 481.05,
-            "end": 481.67725,
+            "end": 481.75800000000004,
             "token": "okay"
         }
     ]

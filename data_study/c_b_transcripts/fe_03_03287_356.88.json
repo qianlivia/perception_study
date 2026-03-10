@@ -1,39 +1,39 @@
 {
     "name": "fe_03_03287",
     "context_channel": 1,
-    "context_text": "<A> he supported my decision that i did not want my kids raised in day care { i did } / <B> [ pardon ] / <A> not want to pay someone to raise my children / <B> okay / <A> and so and you know a lot of people would have told me i was crazy um we needed two incomes you know i mean / <B> uh-huh / <A> i mean once again back to a superficial society where money's everything / <B> yeah / <A> but you know he has been very supportive and i went to school to be a physical therapist and so you know i left something really major behind / <B> okay",
+    "context_text": "<A> he supported my decision that i did not want my kids raised in day care { i did } / <B> [ yep ] / <A> not want to pay someone to raise my children / <B> yeah / <A> and so and you know a lot of people would have told me i was crazy um we needed two incomes you know i mean / <B> yeah / <A> i mean once again back to a superficial society where money's everything / <B> yeah / <A> but you know he has been very supportive and i went to school to be a physical therapist and so you know i left something really major behind / <B> yeah",
     "context_start": 356.88,
-    "context_end": 386.9995,
+    "context_end": 386.73825,
     "feedback": [
         {
-            "name": "Nu_049_pardon",
+            "name": "sun_019_yep",
             "start": 361.55,
-            "end": 362.3745,
-            "token": "pardon"
+            "end": 362.303,
+            "token": "yep"
         },
         {
-            "name": "spontC_511_okay",
+            "name": "spontC_405_yeah",
             "start": 365.4,
-            "end": 365.910875,
-            "token": "okay"
-        },
-        {
-            "name": "spontE_106_uh-huh",
-            "start": 373.05,
-            "end": 373.47925000000004,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontB_226_yeah",
-            "start": 377.91,
-            "end": 378.35900000000004,
+            "end": 366.01624999999996,
             "token": "yeah"
         },
         {
-            "name": "spontB_195_okay",
+            "name": "spontE_150_yeah",
+            "start": 373.05,
+            "end": 373.457125,
+            "token": "yeah"
+        },
+        {
+            "name": "PR_031_yeah",
+            "start": 377.91,
+            "end": 378.313125,
+            "token": "yeah"
+        },
+        {
+            "name": "sun_046_yeah",
             "start": 386.33,
-            "end": 386.9995,
-            "token": "okay"
+            "end": 386.73825,
+            "token": "yeah"
         }
     ]
 }

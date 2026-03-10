@@ -1,32 +1,32 @@
 {
     "name": "fe_03_03848",
     "context_channel": 0,
-    "context_text": "<B> reader i i was certainly expecting her to say something that was funny because dame edna's ignorant / <A> yes / <B> you know what i mean so that's exactly what happened and dame edna said oh you know the only reason to learn spanish is if you want to learn to talk to the help / <A> yeah / <B> which if like if if i said that just like a regular { person } / <A> [ uh-oh ] / <B> it would be one thing but here's this grotesque of a character / <A> yeah",
+    "context_text": "<B> reader i i was certainly expecting her to say something that was funny because dame edna's ignorant / <A> yeah / <B> you know what i mean so that's exactly what happened and dame edna said oh you know the only reason to learn spanish is if you want to learn to talk to the help / <A> yeah / <B> which if like if if i said that just like a regular { person } / <A> [ yeah ] / <B> it would be one thing but here's this grotesque of a character / <A> yeah",
     "context_start": 170.49,
-    "context_end": 197.884375,
+    "context_end": 198.167125,
     "feedback": [
         {
-            "name": "spontF_329_yes",
+            "name": "spontD_382_yeah",
             "start": 177.32,
-            "end": 178.039625,
-            "token": "yes"
-        },
-        {
-            "name": "spontF_595_yeah",
-            "start": 186.12,
-            "end": 186.732,
+            "end": 177.749375,
             "token": "yeah"
         },
         {
-            "name": "NegS_055_uh-oh",
-            "start": 192.24,
-            "end": 193.318375,
-            "token": "uh-oh"
+            "name": "spontC_271_yeah",
+            "start": 186.12,
+            "end": 186.63512500000002,
+            "token": "yeah"
         },
         {
-            "name": "spontE_003_yeah",
+            "name": "spontF_595_yeah",
+            "start": 192.24,
+            "end": 192.852,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_335_yeah",
             "start": 197.5,
-            "end": 197.884375,
+            "end": 198.167125,
             "token": "yeah"
         }
     ]

@@ -1,15 +1,15 @@
 {
     "name": "fe_03_05688",
     "context_channel": 1,
-    "context_text": "<A> the most horrifying thing i've ever witnessed with my own two eyes in my life / <B> no / <A> probably ever will / <B> wow / <A> um but you know i think that that uh when events like that happen and getting back to the topic of foreign relations / <B> oh / <A> ah it turns into a free for all i mean / <B> yeah / <A> ah if you can see what happened after september eleventh uh immediately uh the united states really went onto this unilateral ah campaign across the world and / <B> well",
+    "context_text": "<A> the most horrifying thing i've ever witnessed with my own two eyes in my life / <B> wow / <A> probably ever will / <B> wow / <A> um but you know i think that that uh when events like that happen and getting back to the topic of foreign relations / <B> yeah / <A> ah it turns into a free for all i mean / <B> yeah / <A> ah if you can see what happened after september eleventh uh immediately uh the united states really went onto this unilateral ah campaign across the world and / <B> yeah",
     "context_start": 319.49,
-    "context_end": 350.43225,
+    "context_end": 350.39825,
     "feedback": [
         {
-            "name": "spontF_264_no",
+            "name": "PS_129_wow",
             "start": 322.85,
-            "end": 323.387125,
-            "token": "no"
+            "end": 323.79237500000005,
+            "token": "wow"
         },
         {
             "name": "spontF_097_wow",
@@ -18,22 +18,22 @@
             "token": "wow"
         },
         {
-            "name": "spontF_109_oh",
+            "name": "spontD_397_yeah",
             "start": 333.66,
-            "end": 333.9995,
-            "token": "oh"
-        },
-        {
-            "name": "spontA_448_yeah",
-            "start": 336.62,
-            "end": 337.13925,
+            "end": 334.041375,
             "token": "yeah"
         },
         {
-            "name": "spontD_171_well",
+            "name": "spontD_024_yeah",
+            "start": 336.62,
+            "end": 337.040125,
+            "token": "yeah"
+        },
+        {
+            "name": "sun_046_yeah",
             "start": 349.99,
-            "end": 350.43225,
-            "token": "well"
+            "end": 350.39825,
+            "token": "yeah"
         }
     ]
 }

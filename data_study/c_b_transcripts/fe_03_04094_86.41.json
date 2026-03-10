@@ -1,15 +1,15 @@
 {
     "name": "fe_03_04094",
     "context_channel": 0,
-    "context_text": "<B> yeah now that's we have been toying with that we went to uh my son and i he has a mowing business he's sixteen / <A> aww / <B> and uh i mean it's a pretty good business now we've got it up over fifty lawns you know about fourteen hundred dollars a week / <A> wow / <B> and uh and we went to a business seminar put on by uh the university extension / <A> uh-huh / <B> um and tried to learn some different stuff about starting a business and there were a lot of other people there that had conventional you know uh businesses / <A> yeah",
+    "context_text": "<B> yeah now that's we have been toying with that we went to uh my son and i he has a mowing business he's sixteen / <A> ah / <B> and uh i mean it's a pretty good business now we've got it up over fifty lawns you know about fourteen hundred dollars a week / <A> wow / <B> and uh and we went to a business seminar put on by uh the university extension / <A> uh-huh / <B> um and tried to learn some different stuff about starting a business and there were a lot of other people there that had conventional you know uh businesses / <A> uh-huh",
     "context_start": 86.41,
-    "context_end": 123.1735,
+    "context_end": 123.111,
     "feedback": [
         {
-            "name": "spontF_296_aww",
+            "name": "spontA_245_ah",
             "start": 95.02,
-            "end": 95.605875,
-            "token": "aww"
+            "end": 95.60525,
+            "token": "ah"
         },
         {
             "name": "spontF_097_wow",
@@ -24,10 +24,10 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontF_380_yeah",
+            "name": "spontB_137_uh-huh",
             "start": 122.56,
-            "end": 123.1735,
-            "token": "yeah"
+            "end": 123.111,
+            "token": "uh-huh"
         }
     ]
 }

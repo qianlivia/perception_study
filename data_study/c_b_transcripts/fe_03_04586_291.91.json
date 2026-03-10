@@ -1,7 +1,7 @@
 {
     "name": "fe_03_04586",
     "context_channel": 1,
-    "context_text": "<A> that's the one about um the guy uh that i it was jack nicholson { and } / <B> [ oh ] / <A> and uh he he had uh obsessive compulsive disorder / <B> yeah / <A> and um he fell in love with this woman that was a waitress / <B> yeah / <A> but he had all these compulsions and uh so it it made him do things um you know that were like you know offensive to people not really really bad things but just get kind of you know mouthy or things like that { and } / <B> [ oh ]",
+    "context_text": "<A> that's the one about um the guy uh that i it was jack nicholson { and } / <B> [ oh ] / <A> and uh he he had uh obsessive compulsive disorder / <B> oh / <A> and um he fell in love with this woman that was a waitress / <B> uh-huh / <A> but he had all these compulsions and uh so it it made him do things um you know that were like you know offensive to people not really really bad things but just get kind of you know mouthy or things like that { and } / <B> [ oh ]",
     "context_start": 291.91,
     "context_end": 318.13825,
     "feedback": [
@@ -12,16 +12,16 @@
             "token": "oh"
         },
         {
-            "name": "spontD_250_yeah",
+            "name": "spontC_046_oh",
             "start": 300.18,
-            "end": 300.59587500000004,
-            "token": "yeah"
+            "end": 300.588125,
+            "token": "oh"
         },
         {
-            "name": "spontF_300_yeah",
+            "name": "spontA_086_uh-huh",
             "start": 304.17,
-            "end": 304.66062500000004,
-            "token": "yeah"
+            "end": 304.68012500000003,
+            "token": "uh-huh"
         },
         {
             "name": "spontE_043_oh",

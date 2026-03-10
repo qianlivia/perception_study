@@ -1,20 +1,20 @@
 {
     "name": "fe_03_01727",
     "context_channel": 0,
-    "context_text": "<B> yes military bases there's camp pendleton which is marines we have a navy base / <A> oh / <B> we um have you know a norfolk terminal which all the aircraft carriers come into / <A> uh-huh / <B> so it's very military down here and so i sup sup support the war and i support our troops / <A> mhm / <B> um you know i feel bad for the people over there in iraq / <A> mhm",
+    "context_text": "<B> yes military bases there's camp pendleton which is marines we have a navy base / <A> ah / <B> we um have you know a norfolk terminal which all the aircraft carriers come into / <A> uh-huh / <B> so it's very military down here and so i sup sup support the war and i support our troops / <A> mhm / <B> um you know i feel bad for the people over there in iraq / <A> uh-huh",
     "context_start": 220.28,
-    "context_end": 248.897875,
+    "context_end": 248.902375,
     "feedback": [
         {
-            "name": "spontF_109_oh",
+            "name": "spontA_245_ah",
             "start": 226.72,
-            "end": 227.05949999999999,
-            "token": "oh"
+            "end": 227.30525,
+            "token": "ah"
         },
         {
-            "name": "spontF_559_uh-huh",
+            "name": "spontF_470_uh-huh",
             "start": 234.82,
-            "end": 235.30075,
+            "end": 235.344125,
             "token": "uh-huh"
         },
         {
@@ -24,10 +24,10 @@
             "token": "mhm"
         },
         {
-            "name": "spontA_379_mhm",
+            "name": "spontA_158_uh-huh",
             "start": 248.38,
-            "end": 248.897875,
-            "token": "mhm"
+            "end": 248.902375,
+            "token": "uh-huh"
         }
     ]
 }

@@ -1,9 +1,9 @@
 {
     "name": "fe_03_01075",
     "context_channel": 1,
-    "context_text": "<A> [ oh totally well ] i i you know i've i've lied for people and if i do i do it occasionally i've got to catch myself because i'm a i'll tell white lies which / <B> uh-huh / <A> a lot that's still a lie / <B> yeah / <A> and you know w i think you know the thing is though people really don't see that as as a lie you / <B> yeah / <A> know as as long as you're not you know what i'm saying making things sound too bad { well } / <B> [ yeah ] / <A> there are a lot of forms of lying / <B> yeah",
+    "context_text": "<A> [ oh totally well ] i i you know i've i've lied for people and if i do i do it occasionally i've got to catch myself because i'm a i'll tell white lies which / <B> uh-huh / <A> a lot that's still a lie / <B> right / <A> and you know w i think you know the thing is though people really don't see that as as a lie you / <B> no / <A> know as as long as you're not you know what i'm saying making things sound too bad { well } / <B> [ right ] / <A> there are a lot of forms of lying / <B> right",
     "context_start": 292.11,
-    "context_end": 327.9875,
+    "context_end": 328.1135,
     "feedback": [
         {
             "name": "spontC_128_uh-huh",
@@ -12,28 +12,28 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontC_405_yeah",
+            "name": "sun1_032_right",
             "start": 307.96,
-            "end": 308.57624999999996,
-            "token": "yeah"
+            "end": 308.80337499999996,
+            "token": "right"
         },
         {
-            "name": "spontC_127_yeah",
+            "name": "NR_060_no",
             "start": 318.02,
-            "end": 318.597875,
-            "token": "yeah"
+            "end": 318.494125,
+            "token": "no"
         },
         {
-            "name": "spontA_374_yeah",
+            "name": "sun_028_right",
             "start": 324.68,
-            "end": 325.485,
-            "token": "yeah"
+            "end": 325.409375,
+            "token": "right"
         },
         {
-            "name": "spontC_251_yeah",
+            "name": "sun_013_right",
             "start": 327.24,
-            "end": 327.9875,
-            "token": "yeah"
+            "end": 328.1135,
+            "token": "right"
         }
     ]
 }

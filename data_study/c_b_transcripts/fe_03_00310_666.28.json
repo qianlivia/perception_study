@@ -1,45 +1,45 @@
 {
     "name": "fe_03_00310",
     "context_channel": 1,
-    "context_text": "<A> but i i guess what i was trying to get at was that if there was a tiered process / <B> oh / <A> the technology should be in place / <B> uh-huh / <A> to be able to screen you if you do have traces of um / <B> right / <A> explosives on you or / <B> yeah / <A> contraband or whatever the case may be / <B> mhm / <A> um and i i i think that if you are going into a public arena / <B> ooh",
+    "context_text": "<A> but i i guess what i was trying to get at was that if there was a tiered process / <B> mhm / <A> the technology should be in place / <B> mhm / <A> to be able to screen you if you do have traces of um / <B> uh-huh / <A> explosives on you or / <B> mhm / <A> contraband or whatever the case may be / <B> uh-huh / <A> um and i i i think that if you are going into a public arena / <B> uh-huh",
     "context_start": 666.28,
-    "context_end": 689.79725,
+    "context_end": 689.9002499999999,
     "feedback": [
         {
-            "name": "spontF_109_oh",
+            "name": "spontA_253_mhm",
             "start": 671.73,
-            "end": 672.0695000000001,
-            "token": "oh"
-        },
-        {
-            "name": "spontE_227_uh-huh",
-            "start": 674.17,
-            "end": 674.5916249999999,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontC_360_right",
-            "start": 678.22,
-            "end": 678.7988750000001,
-            "token": "right"
-        },
-        {
-            "name": "spontB_276_yeah",
-            "start": 679.89,
-            "end": 680.201875,
-            "token": "yeah"
-        },
-        {
-            "name": "spontF_311_mhm",
-            "start": 682.66,
-            "end": 683.160125,
+            "end": 672.203625,
             "token": "mhm"
         },
         {
-            "name": "spontE_237_ooh",
+            "name": "spontB_251_mhm",
+            "start": 674.17,
+            "end": 674.7334999999999,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_037_uh-huh",
+            "start": 678.22,
+            "end": 678.78625,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_254_mhm",
+            "start": 679.89,
+            "end": 680.405,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_315_uh-huh",
+            "start": 682.66,
+            "end": 683.1764999999999,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_189_uh-huh",
             "start": 689.42,
-            "end": 689.79725,
-            "token": "ooh"
+            "end": 689.9002499999999,
+            "token": "uh-huh"
         }
     ]
 }

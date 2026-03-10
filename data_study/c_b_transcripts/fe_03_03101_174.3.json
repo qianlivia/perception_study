@@ -1,38 +1,38 @@
 {
     "name": "fe_03_03101",
     "context_channel": 1,
-    "context_text": "<A> oh okay cause i've been a mystery shopper for about six years now / <B> oh / <A> uh-huh and i've had really good luck with it it was real slow at first but um i just kind of kept hitting it and it finally we got our regular companies that we work for / <B> yeah / <A> and it's worked out really well it's been a great extra income for us / <B> wow / <A> but it took a long time to get it going / <B> oh / <A> and to figure out who we wanted to work for and what was going to be worth our time / <B> yeah",
+    "context_text": "<A> oh okay cause i've been a mystery shopper for about six years now / <B> really / <A> uh-huh and i've had really good luck with it it was real slow at first but um i just kind of kept hitting it and it finally we got our regular companies that we work for / <B> wow / <A> and it's worked out really well it's been a great extra income for us / <B> yeah / <A> but it took a long time to get it going / <B> yeah / <A> and to figure out who we wanted to work for and what was going to be worth our time / <B> yeah",
     "context_start": 174.3,
-    "context_end": 201.0625,
+    "context_end": 201.037875,
     "feedback": [
         {
-            "name": "spontF_017_oh",
+            "name": "PS_070_really",
             "start": 178.58,
-            "end": 179.409375,
-            "token": "oh"
-        },
-        {
-            "name": "spontF_380_yeah",
-            "start": 188.02,
-            "end": 188.6335,
-            "token": "yeah"
+            "end": 179.26862500000001,
+            "token": "really"
         },
         {
             "name": "spontF_097_wow",
-            "start": 192.35,
-            "end": 192.794125,
+            "start": 188.02,
+            "end": 188.46412500000002,
             "token": "wow"
         },
         {
-            "name": "spontE_295_oh",
-            "start": 195.02,
-            "end": 195.764125,
-            "token": "oh"
+            "name": "spontD_365_yeah",
+            "start": 192.35,
+            "end": 193.20624999999998,
+            "token": "yeah"
         },
         {
-            "name": "spontF_485_yeah",
+            "name": "spontE_286_yeah",
+            "start": 195.02,
+            "end": 195.81075,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_255_yeah",
             "start": 200.46,
-            "end": 201.0625,
+            "end": 201.037875,
             "token": "yeah"
         }
     ]

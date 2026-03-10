@@ -1,27 +1,27 @@
 {
     "name": "fe_03_00234",
     "context_channel": 0,
-    "context_text": "<B> uh yeah and i live i live in a big town right now but { i'm } / <A> [ okay ] / <B> not like but i can't like manhattan is like really intense / <A> okay / <B> and so i actually live in brooklyn and i love like one of the boroughs i love going home every night to like brooklyn for there's like real streets and and / <A> okay",
+    "context_text": "<B> uh yeah and i live i live in a big town right now but { i'm } / <A> [ okay ] / <B> not like but i can't like manhattan is like really intense / <A> yeah / <B> and so i actually live in brooklyn and i love like one of the boroughs i love going home every night to like brooklyn for there's like real streets and and / <A> yeah",
     "context_start": 459.85,
-    "context_end": 476.579625,
+    "context_end": 476.443625,
     "feedback": [
         {
-            "name": "spontC_172_okay",
+            "name": "spontC_020_okay",
             "start": 462.55,
-            "end": 462.96112500000004,
+            "end": 463.02500000000003,
             "token": "okay"
         },
         {
-            "name": "spontC_134_okay",
+            "name": "spontF_287_yeah",
             "start": 467.11,
-            "end": 467.917125,
-            "token": "okay"
+            "end": 467.74125000000004,
+            "token": "yeah"
         },
         {
-            "name": "spontA_198_okay",
+            "name": "spontF_088_yeah",
             "start": 475.91,
-            "end": 476.579625,
-            "token": "okay"
+            "end": 476.443625,
+            "token": "yeah"
         }
     ]
 }

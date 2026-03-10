@@ -1,21 +1,21 @@
 {
     "name": "fe_03_01958",
     "context_channel": 0,
-    "context_text": "<B> or even in ah the securities and exchange commission which { is } / <A> [ uh-huh ] / <B> supposed to regulate them / <A> yeah / <B> ah because um they so many of these corporations have ties to the government you know and the vice president ah was doing the transition right after election / <A> uh-huh / <B> and ah he had a group of ah people coming in to advise him on what energy policies they should promulgate and what legislation they should ask for / <A> oh",
+    "context_text": "<B> or even in ah the securities and exchange commission which { is } / <A> [ uh-huh ] / <B> supposed to regulate them / <A> yes / <B> ah because um they so many of these corporations have ties to the government you know and the vice president ah was doing the transition right after election / <A> uh-huh / <B> and ah he had a group of ah people coming in to advise him on what energy policies they should promulgate and what legislation they should ask for / <A> uh-huh",
     "context_start": 101.75,
-    "context_end": 134.1195,
+    "context_end": 134.331,
     "feedback": [
         {
-            "name": "spontA_268_uh-huh",
+            "name": "spontE_227_uh-huh",
             "start": 105.9,
-            "end": 106.40412500000001,
+            "end": 106.32162500000001,
             "token": "uh-huh"
         },
         {
-            "name": "spontE_280_yeah",
+            "name": "sun_023_yes",
             "start": 107.81,
-            "end": 108.29287500000001,
-            "token": "yeah"
+            "end": 108.648875,
+            "token": "yes"
         },
         {
             "name": "spontD_020_uh-huh",
@@ -24,10 +24,10 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontF_109_oh",
+            "name": "spontB_137_uh-huh",
             "start": 133.78,
-            "end": 134.1195,
-            "token": "oh"
+            "end": 134.331,
+            "token": "uh-huh"
         }
     ]
 }

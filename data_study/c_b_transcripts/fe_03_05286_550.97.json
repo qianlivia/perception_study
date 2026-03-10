@@ -1,15 +1,15 @@
 {
     "name": "fe_03_05286",
     "context_channel": 1,
-    "context_text": "<A> there's a um you know pretty big hispanic population right near usc so it's like { we're } / <B> [ oh ] / <A> surrounded by it / <B> okay / <A> but i don't know uh i really don't know you know maybe they do celebrate it maybe they don't / <B> yeah / <A> yeah i but i think they have like a i don't know a parade or something some kind of fair { that's all } / <B> [ okay ]",
+    "context_text": "<A> there's a um you know pretty big hispanic population right near usc so it's like { we're } / <B> [ okay ] / <A> surrounded by it / <B> okay / <A> but i don't know uh i really don't know you know maybe they do celebrate it maybe they don't / <B> okay / <A> yeah i but i think they have like a i don't know a parade or something some kind of fair { that's all } / <B> [ okay ]",
     "context_start": 550.97,
     "context_end": 573.155625,
     "feedback": [
         {
-            "name": "spontE_048_oh",
+            "name": "spontC_020_okay",
             "start": 555.76,
-            "end": 556.505125,
-            "token": "oh"
+            "end": 556.235,
+            "token": "okay"
         },
         {
             "name": "spontC_134_okay",
@@ -18,10 +18,10 @@
             "token": "okay"
         },
         {
-            "name": "spontA_336_yeah",
+            "name": "spontE_152_okay",
             "start": 564.81,
-            "end": 565.424625,
-            "token": "yeah"
+            "end": 565.43725,
+            "token": "okay"
         },
         {
             "name": "spontC_017_okay",

@@ -1,21 +1,21 @@
 {
     "name": "fe_03_00585",
     "context_channel": 0,
-    "context_text": "<B> we have had like psycho state workers laid off i mean i'm just a stay-at-home mom { it } / <A> [ uh-huh ] / <B> doesn't affect me { but } / <A> [ no ] / <B> it does affect me because if sad to see it happen / <A> yeah / <B> but um i mean they've just like let go all these state workers like for am unemployment and all these other places and it's / <A> oh",
+    "context_text": "<B> we have had like psycho state workers laid off i mean i'm just a stay-at-home mom { it } / <A> [ uh-huh ] / <B> doesn't affect me { but } / <A> [ yeah ] / <B> it does affect me because if sad to see it happen / <A> yeah / <B> but um i mean they've just like let go all these state workers like for am unemployment and all these other places and it's / <A> yeah",
     "context_start": 243.15,
-    "context_end": 269.30237500000004,
+    "context_end": 269.28837500000003,
     "feedback": [
         {
-            "name": "spontF_183_uh-huh",
+            "name": "spontC_186_uh-huh",
             "start": 252.25,
-            "end": 252.943625,
+            "end": 252.72525,
             "token": "uh-huh"
         },
         {
-            "name": "spontA_112_no",
+            "name": "spontD_101_yeah",
             "start": 254.14,
-            "end": 254.953125,
-            "token": "no"
+            "end": 254.905625,
+            "token": "yeah"
         },
         {
             "name": "spontF_570_yeah",
@@ -24,10 +24,10 @@
             "token": "yeah"
         },
         {
-            "name": "spontF_320_oh",
+            "name": "spontD_143_yeah",
             "start": 268.6,
-            "end": 269.30237500000004,
-            "token": "oh"
+            "end": 269.28837500000003,
+            "token": "yeah"
         }
     ]
 }

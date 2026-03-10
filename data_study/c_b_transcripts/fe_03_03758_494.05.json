@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03758",
     "context_channel": 1,
-    "context_text": "<A> you know they have all those commercials about american made clothes and you can get / <B> uh-huh / <A> children i mean it's just horrible / <B> uh-huh / <A> you know it's it's horrible for children to have to work slave labor { you } / <B> [ right ] / <A> know and / <B> well",
+    "context_text": "<A> you know they have all those commercials about american made clothes and you can get / <B> uh-huh / <A> children i mean it's just horrible / <B> oh / <A> you know it's it's horrible for children to have to work slave labor { you } / <B> [ right ] / <A> know and / <B> yeah",
     "context_start": 494.05,
-    "context_end": 508.17225,
+    "context_end": 508.111875,
     "feedback": [
         {
             "name": "spontE_065_uh-huh",
@@ -12,22 +12,22 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontF_077_uh-huh",
+            "name": "PS_111_oh",
             "start": 500.09,
-            "end": 500.67524999999995,
-            "token": "uh-huh"
+            "end": 500.874375,
+            "token": "oh"
         },
         {
-            "name": "sun1_032_right",
+            "name": "PR_043_right",
             "start": 506.32,
-            "end": 507.163375,
+            "end": 506.98,
             "token": "right"
         },
         {
-            "name": "spontD_171_well",
+            "name": "sun1_023_yeah",
             "start": 507.73,
-            "end": 508.17225,
-            "token": "well"
+            "end": 508.111875,
+            "token": "yeah"
         }
     ]
 }

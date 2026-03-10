@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00676",
     "context_channel": 1,
-    "context_text": "<A> yeah see mine's on one of the websites um it's called um today's freebies dot com / <B> okay / <A> and they had they they have a lot of different things on there all the time { you } / <B> [ okay ] / <A> just i just checked it out and i was like oh hey i'll try it and see you know see what it's like { i } / <B> [ okay ] / <A> didn't know that you actually they did she did say that i would talk to a live person but i didn't know what she meant by that { i thought } / <B> [ okay ]",
+    "context_text": "<A> yeah see mine's on one of the websites um it's called um today's freebies dot com / <B> oh / <A> and they had they they have a lot of different things on there all the time { you } / <B> [ uh-huh ] / <A> just i just checked it out and i was like oh hey i'll try it and see you know see what it's like { i } / <B> [ yeah ] / <A> didn't know that you actually they did she did say that i would talk to a live person but i didn't know what she meant by that { i thought } / <B> [ oh ]",
     "context_start": 365.45,
-    "context_end": 385.905125,
+    "context_end": 385.845125,
     "feedback": [
         {
-            "name": "spontC_401_okay",
+            "name": "spontE_15_oh",
             "start": 371.05,
-            "end": 371.579375,
-            "token": "okay"
+            "end": 371.39325,
+            "token": "oh"
         },
         {
-            "name": "spontF_280_okay",
+            "name": "spontC_371_uh-huh",
             "start": 374.29,
-            "end": 375.01162500000004,
-            "token": "okay"
+            "end": 374.768125,
+            "token": "uh-huh"
         },
         {
-            "name": "spontD_383_okay",
+            "name": "spontF_020_yeah",
             "start": 379.07,
-            "end": 379.741375,
-            "token": "okay"
+            "end": 379.58549999999997,
+            "token": "yeah"
         },
         {
-            "name": "spontD_089_okay",
+            "name": "spontE_048_oh",
             "start": 385.1,
-            "end": 385.905125,
-            "token": "okay"
+            "end": 385.845125,
+            "token": "oh"
         }
     ]
 }

@@ -1,9 +1,9 @@
 {
     "name": "fe_03_02715",
     "context_channel": 1,
-    "context_text": "<A> i think a tank would be a little more difficult because um in order for you to come into or um transport there are certain documents that have to be taken and especially / <B> right / <A> in anything that has a gas or a liquid tank uh capability / <B> right / <A> um they do take samples / <B> okay / <A> yeah periodically you know especially now i would think they would be doing it i'm not sure but i do know that for a while i was involved in the trucking industry / <B> okay",
+    "context_text": "<A> i think a tank would be a little more difficult because um in order for you to come into or um transport there are certain documents that have to be taken and especially / <B> right / <A> in anything that has a gas or a liquid tank uh capability / <B> right / <A> um they do take samples / <B> no / <A> yeah periodically you know especially now i would think they would be doing it i'm not sure but i do know that for a while i was involved in the trucking industry / <B> oh",
     "context_start": 210.71,
-    "context_end": 239.249,
+    "context_end": 239.164375,
     "feedback": [
         {
             "name": "spontC_360_right",
@@ -12,22 +12,22 @@
             "token": "right"
         },
         {
-            "name": "PR_043_right",
+            "name": "sun1_030_right",
             "start": 226.9,
-            "end": 227.56,
+            "end": 227.693625,
             "token": "right"
         },
         {
-            "name": "spontC_511_okay",
+            "name": "NR_039_no",
             "start": 229.88,
-            "end": 230.390875,
-            "token": "okay"
+            "end": 230.509875,
+            "token": "no"
         },
         {
-            "name": "spontD_022_okay",
+            "name": "spontF_207_oh",
             "start": 238.78,
-            "end": 239.249,
-            "token": "okay"
+            "end": 239.164375,
+            "token": "oh"
         }
     ]
 }

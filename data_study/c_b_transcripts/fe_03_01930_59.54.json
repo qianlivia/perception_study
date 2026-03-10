@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01930",
     "context_channel": 1,
-    "context_text": "<A> tha that's that's interesting because i ah think of family as nex next of kin um ah i am an only child so that the only family that i have living is my father who has alzheimer's disease and ah he's ah ninety three and i'm sixty three { so } / <B> [ what ] / <A> that's um ah i i remember he he was always very family oriented he uh a took care of his mother and he took care of my mother which was you know his wife { and } / <B> [ well ] / <A> um i sometimes wonder if um uh you know i sometimes worry that um you know when it's my turn for somebody to take care of me you know there'll be no one there um i i mean family um is somebody that when when you go into an emergency room you have somebody to say ah my next of kin is { so } / <B> [ right ] / <A> and so um and um what w we're doing in in our synagogue is um let's say you're a lot of people are living alone { that } / <B> [ okay ]",
+    "context_text": "<A> tha that's that's interesting because i ah think of family as nex next of kin um ah i am an only child so that the only family that i have living is my father who has alzheimer's disease and ah he's ah ninety three and i'm sixty three { so } / <B> [ wow ] / <A> that's um ah i i remember he he was always very family oriented he uh a took care of his mother and he took care of my mother which was you know his wife { and } / <B> [ wow ] / <A> um i sometimes wonder if um uh you know i sometimes worry that um you know when it's my turn for somebody to take care of me you know there'll be no one there um i i mean family um is somebody that when when you go into an emergency room you have somebody to say ah my next of kin is { so } / <B> [ absolutely ] / <A> and so um and um what w we're doing in in our synagogue is um let's say you're a lot of people are living alone { that } / <B> [ yeah ]",
     "context_start": 59.54,
-    "context_end": 139.275,
+    "context_end": 139.56987500000002,
     "feedback": [
         {
-            "name": "Nu_001_what",
+            "name": "PS_023_wow",
             "start": 81.99,
-            "end": 82.59237499999999,
-            "token": "what"
+            "end": 82.7795,
+            "token": "wow"
         },
         {
-            "name": "spontD_171_well",
+            "name": "PS_100_wow",
             "start": 96.63,
-            "end": 97.07225,
-            "token": "well"
+            "end": 97.62662499999999,
+            "token": "wow"
         },
         {
-            "name": "sun1_032_right",
+            "name": "sun_002_absolutely",
             "start": 126.48,
-            "end": 127.323375,
-            "token": "right"
+            "end": 127.52550000000001,
+            "token": "absolutely"
         },
         {
-            "name": "spontC_020_okay",
+            "name": "spontA_015_yeah",
             "start": 138.8,
-            "end": 139.275,
-            "token": "okay"
+            "end": 139.56987500000002,
+            "token": "yeah"
         }
     ]
 }

@@ -1,20 +1,20 @@
 {
     "name": "fe_03_01454",
     "context_channel": 1,
-    "context_text": "<A> thing that they might target / <B> yeah / <A> the only thing i have out here is i have palaverde { which is the } / <B> [ okay ] / <A> largest nuclear facility / <B> okay / <A> but from what i know that thing is the heaviest guarded facility there is / <B> okay / <A> in the area and i have luke air force base here too / <B> okay / <A> and they have a no fly zone if anything flies in their zone { they're basically } / <B> [ okay ] / <A> even ordered to shoot it down / <B> okay / <A> so even in any and they tell me even if something hits it / <B> oh",
+    "context_text": "<A> thing that they might target / <B> yeah / <A> the only thing i have out here is i have palaverde { which is the } / <B> [ okay ] / <A> largest nuclear facility / <B> okay / <A> but from what i know that thing is the heaviest guarded facility there is / <B> okay / <A> in the area and i have luke air force base here too / <B> okay / <A> and they have a no fly zone if anything flies in their zone { they're basically } / <B> [ okay ] / <A> even ordered to shoot it down / <B> okay / <A> so even in any and they tell me even if something hits it / <B> uh-huh",
     "context_start": 529.3,
-    "context_end": 557.6495,
+    "context_end": 557.8108749999999,
     "feedback": [
         {
-            "name": "spontC_138_yeah",
+            "name": "spontD_140_yeah",
             "start": 530.73,
-            "end": 531.227375,
+            "end": 531.27025,
             "token": "yeah"
         },
         {
-            "name": "spontC_286_okay",
+            "name": "spontF_317_okay",
             "start": 534.68,
-            "end": 535.332,
+            "end": 535.5319999999999,
             "token": "okay"
         },
         {
@@ -24,21 +24,21 @@
             "token": "okay"
         },
         {
-            "name": "spontD_073_okay",
+            "name": "spontC_286_okay",
             "start": 543.86,
-            "end": 544.601125,
+            "end": 544.5120000000001,
             "token": "okay"
         },
         {
-            "name": "spontE_152_okay",
+            "name": "spontF_053_okay",
             "start": 546.64,
-            "end": 547.26725,
+            "end": 547.46825,
             "token": "okay"
         },
         {
-            "name": "spontC_017_okay",
+            "name": "sun1_017_okay",
             "start": 550.54,
-            "end": 551.3456249999999,
+            "end": 551.452875,
             "token": "okay"
         },
         {
@@ -48,10 +48,10 @@
             "token": "okay"
         },
         {
-            "name": "spontF_109_oh",
+            "name": "spontC_128_uh-huh",
             "start": 557.31,
-            "end": 557.6495,
-            "token": "oh"
+            "end": 557.8108749999999,
+            "token": "uh-huh"
         }
     ]
 }

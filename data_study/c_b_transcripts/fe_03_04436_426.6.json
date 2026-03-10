@@ -1,26 +1,26 @@
 {
     "name": "fe_03_04436",
     "context_channel": 1,
-    "context_text": "<A> it's uh yeah it's it's in bronxville it's not very far away from ah the city if you if you can stand taking train rides for a while / <B> oh / <A> uh when i decided to go here i i uh really thought that i would probably get in to see more shows and more more music shows and / <B> yeah / <A> more ex exciting things more often but it's quite nice to just stay on campus too / <B> yeah",
+    "context_text": "<A> it's uh yeah it's it's in bronxville it's not very far away from ah the city if you if you can stand taking train rides for a while / <B> yeah / <A> uh when i decided to go here i i uh really thought that i would probably get in to see more shows and more more music shows and / <B> yeah / <A> more ex exciting things more often but it's quite nice to just stay on campus too / <B> yeah",
     "context_start": 426.6,
-    "context_end": 453.5525,
+    "context_end": 453.564625,
     "feedback": [
         {
-            "name": "spontF_320_oh",
+            "name": "spontE_274_yeah",
             "start": 436.67,
-            "end": 437.37237500000003,
-            "token": "oh"
-        },
-        {
-            "name": "spontB_276_yeah",
-            "start": 447.02,
-            "end": 447.33187499999997,
+            "end": 437.400125,
             "token": "yeah"
         },
         {
-            "name": "spontF_485_yeah",
+            "name": "spontD_140_yeah",
+            "start": 447.02,
+            "end": 447.56025,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_336_yeah",
             "start": 452.95,
-            "end": 453.5525,
+            "end": 453.564625,
             "token": "yeah"
         }
     ]

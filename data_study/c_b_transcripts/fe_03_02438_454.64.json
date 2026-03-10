@@ -1,9 +1,9 @@
 {
     "name": "fe_03_02438",
     "context_channel": 1,
-    "context_text": "<A> but i think you you're absolutely right i think that there is something there that how how can one ah communicate with someone who has this problem / <B> right / <A> firstly in a one to one but however a and it saddens me to say there is no um second step to that it there { is } / <B> [ yeah ] / <A> only there is only oh you put them in these groups to / <B> yeah",
+    "context_text": "<A> but i think you you're absolutely right i think that there is something there that how how can one ah communicate with someone who has this problem / <B> right / <A> firstly in a one to one but however a and it saddens me to say there is no um second step to that it there { is } / <B> [ no ] / <A> only there is only oh you put them in these groups to / <B> yeah",
     "context_start": 454.64,
-    "context_end": 483.571375,
+    "context_end": 483.526,
     "feedback": [
         {
             "name": "spontC_360_right",
@@ -12,15 +12,15 @@
             "token": "right"
         },
         {
-            "name": "spontB_094_yeah",
+            "name": "NR_060_no",
             "start": 479.21,
-            "end": 479.546,
-            "token": "yeah"
+            "end": 479.684125,
+            "token": "no"
         },
         {
-            "name": "spontD_397_yeah",
+            "name": "spontB_094_yeah",
             "start": 483.19,
-            "end": 483.571375,
+            "end": 483.526,
             "token": "yeah"
         }
     ]

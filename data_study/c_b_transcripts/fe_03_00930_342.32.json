@@ -1,27 +1,27 @@
 {
     "name": "fe_03_00930",
     "context_channel": 1,
-    "context_text": "<A> and then they'd be weakened / <B> yes / <A> they wouldn't have anybody then they it's almost like world war two / <B> yes / <A> we got involved when we weren't going to / <B> goodness",
+    "context_text": "<A> and then they'd be weakened / <B> yes / <A> they wouldn't have anybody then they it's almost like world war two / <B> yes / <A> we got involved when we weren't going to / <B> right",
     "context_start": 342.32,
-    "context_end": 351.41062500000004,
+    "context_end": 351.3535,
     "feedback": [
         {
-            "name": "spontB_368_yes",
+            "name": "sun1_025_yes",
             "start": 343.55,
-            "end": 344.407625,
+            "end": 344.300625,
             "token": "yes"
         },
         {
-            "name": "spontC_507_yes",
+            "name": "PR_009_yes",
             "start": 347.78,
-            "end": 348.30249999999995,
+            "end": 348.56112499999995,
             "token": "yes"
         },
         {
-            "name": "NegS_024_goodness",
+            "name": "sun_013_right",
             "start": 350.48,
-            "end": 351.41062500000004,
-            "token": "goodness"
+            "end": 351.3535,
+            "token": "right"
         }
     ]
 }

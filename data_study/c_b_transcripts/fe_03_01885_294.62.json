@@ -1,21 +1,21 @@
 {
     "name": "fe_03_01885",
     "context_channel": 0,
-    "context_text": "<B> that's right and ah last year uh as i said to my sister i said we just ah became orphans / <A> yeah / <B> because ah my father had died when we were all fairly young / <A> ugh / <B> i was only seventeen and then when my mother died of course we had no parents at that point we were technically orphans and ah it's it's strange feeling knowing that that what was the foundation of your family is no longer there / <A> yeah / <B> um it left all of us feeling a little bit ah disjointed and that's not to say that that it hurt our relationship but but it did alter the relationship because what was once the foundation of your family is gone / <A> yeah",
+    "context_text": "<B> that's right and ah last year uh as i said to my sister i said we just ah became orphans / <A> really / <B> because ah my father had died when we were all fairly young / <A> oh / <B> i was only seventeen and then when my mother died of course we had no parents at that point we were technically orphans and ah it's it's strange feeling knowing that that what was the foundation of your family is no longer there / <A> yeah / <B> um it left all of us feeling a little bit ah disjointed and that's not to say that that it hurt our relationship but but it did alter the relationship because what was once the foundation of your family is gone / <A> yeah",
     "context_start": 294.62,
-    "context_end": 349.46250000000003,
+    "context_end": 349.514625,
     "feedback": [
         {
-            "name": "spontF_127_yeah",
+            "name": "PS_070_really",
             "start": 304.74,
-            "end": 305.442,
-            "token": "yeah"
+            "end": 305.428625,
+            "token": "really"
         },
         {
-            "name": "NegS_043_ugh",
+            "name": "Sy_055_oh",
             "start": 310.01,
-            "end": 310.645125,
-            "token": "ugh"
+            "end": 310.835875,
+            "token": "oh"
         },
         {
             "name": "spontF_295_yeah",
@@ -24,9 +24,9 @@
             "token": "yeah"
         },
         {
-            "name": "spontF_485_yeah",
+            "name": "spontC_075_yeah",
             "start": 348.86,
-            "end": 349.46250000000003,
+            "end": 349.514625,
             "token": "yeah"
         }
     ]

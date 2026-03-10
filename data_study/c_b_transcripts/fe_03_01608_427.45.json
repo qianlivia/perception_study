@@ -1,15 +1,15 @@
 {
     "name": "fe_03_01608",
     "context_channel": 1,
-    "context_text": "<A> other than a year when he was out here when we first got married and he was in the military { he } / <B> [ ah ] / <A> didn't ever live anywhere else / <B> oh / <A> me on the other hand i didn't move to colorado until i was almost eleven it was a couple of months before i turned eleven { and } / <B> [ wow ] / <A> so i remember living somewhere else although you know colorado's my home i mean i went to high school there you know i we got married there you know all that kind { of } / <B> [ wow ] / <A> stuff but you know so i'm used to living somewhere else / <B> yeah",
+    "context_text": "<A> other than a year when he was out here when we first got married and he was in the military { he } / <B> [ uh-huh ] / <A> didn't ever live anywhere else / <B> oh / <A> me on the other hand i didn't move to colorado until i was almost eleven it was a couple of months before i turned eleven { and } / <B> [ oh ] / <A> so i remember living somewhere else although you know colorado's my home i mean i went to high school there you know i we got married there you know all that kind { of } / <B> [ aha ] / <A> stuff but you know so i'm used to living somewhere else / <B> yeah",
     "context_start": 427.45,
-    "context_end": 452.0035,
+    "context_end": 452.14324999999997,
     "feedback": [
         {
-            "name": "spontA_245_ah",
+            "name": "spontE_040_uh-huh",
             "start": 431.23,
-            "end": 431.81525,
-            "token": "ah"
+            "end": 431.760125,
+            "token": "uh-huh"
         },
         {
             "name": "spontC_248_oh",
@@ -18,21 +18,21 @@
             "token": "oh"
         },
         {
-            "name": "PS_038_wow",
+            "name": "NS_101_oh",
             "start": 439.55,
-            "end": 440.90575,
-            "token": "wow"
+            "end": 440.469,
+            "token": "oh"
         },
         {
-            "name": "PS_023_wow",
+            "name": "spontA_328_aha",
             "start": 447.32,
-            "end": 448.10949999999997,
-            "token": "wow"
+            "end": 448.10875,
+            "token": "aha"
         },
         {
-            "name": "spontF_380_yeah",
+            "name": "spontE_026_yeah",
             "start": 451.39,
-            "end": 452.0035,
+            "end": 452.14324999999997,
             "token": "yeah"
         }
     ]

@@ -1,20 +1,20 @@
 {
     "name": "fe_03_04805",
     "context_channel": 1,
-    "context_text": "<A> i don't like smoking when i'm eating / <B> no / <A> and the smell of it if it's right on top of me / <B> yeah / <A> kind of bothers me when i'm eating / <B> yeah / <A> but i know after i've eaten i want that cigarette { actually i } / <B> [ yeah ]",
+    "context_text": "<A> i don't like smoking when i'm eating / <B> no / <A> and the smell of it if it's right on top of me / <B> yeah / <A> kind of bothers me when i'm eating / <B> yeah / <A> but i know after i've eaten i want that cigarette { actually i } / <B> [ sure ]",
     "context_start": 198.38,
-    "context_end": 211.841625,
+    "context_end": 211.571125,
     "feedback": [
         {
-            "name": "spontE_345_no",
+            "name": "spontA_112_no",
             "start": 200.79,
-            "end": 201.5445,
+            "end": 201.603125,
             "token": "no"
         },
         {
-            "name": "spontA_382_yeah",
+            "name": "spontA_109_yeah",
             "start": 204.87,
-            "end": 205.444625,
+            "end": 205.52125,
             "token": "yeah"
         },
         {
@@ -24,10 +24,10 @@
             "token": "yeah"
         },
         {
-            "name": "spontA_073_yeah",
+            "name": "sun_047_sure",
             "start": 210.69,
-            "end": 211.841625,
-            "token": "yeah"
+            "end": 211.571125,
+            "token": "sure"
         }
     ]
 }

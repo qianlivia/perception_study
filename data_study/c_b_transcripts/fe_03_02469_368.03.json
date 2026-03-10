@@ -1,27 +1,27 @@
 {
     "name": "fe_03_02469",
     "context_channel": 1,
-    "context_text": "<A> you know people back in greece and and rome when they would think about these things and discuss them and and you know when kids used to i was um reading an article a about manhattan um and things that are disappearing for example kids playing stickball in the streets / <B> oh / <A> because all kids now play video games / <B> yeah / <A> so these things where people would get together and and and socialize are even gone you know for { little } / <B> [ oh ]",
+    "context_text": "<A> you know people back in greece and and rome when they would think about these things and discuss them and and you know when kids used to i was um reading an article a about manhattan um and things that are disappearing for example kids playing stickball in the streets / <B> uh-huh / <A> because all kids now play video games / <B> yeah / <A> so these things where people would get together and and and socialize are even gone you know for { little } / <B> [ yeah ]",
     "context_start": 368.03,
-    "context_end": 389.09825,
+    "context_end": 389.127625,
     "feedback": [
         {
-            "name": "spontF_109_oh",
+            "name": "spontD_276_uh-huh",
             "start": 381.17,
-            "end": 381.5095,
-            "token": "oh"
+            "end": 381.611375,
+            "token": "uh-huh"
         },
         {
-            "name": "spontF_547_yeah",
+            "name": "spontF_300_yeah",
             "start": 383.5,
-            "end": 383.893625,
+            "end": 383.990625,
             "token": "yeah"
         },
         {
-            "name": "spontE_043_oh",
+            "name": "spontC_076_yeah",
             "start": 388.44,
-            "end": 389.09825,
-            "token": "oh"
+            "end": 389.127625,
+            "token": "yeah"
         }
     ]
 }

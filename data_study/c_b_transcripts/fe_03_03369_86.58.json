@@ -1,15 +1,15 @@
 {
     "name": "fe_03_03369",
     "context_channel": 1,
-    "context_text": "<A> but yeah i have a a my parents are still married and everything and / <B> yeah / <A> i have a good relationship with them and so i think they're doing a pretty good job as far as the whole life partner thing goes / <B> yeah / <A> um they really i don't know they value each other and / <B> yeah",
+    "context_text": "<A> but yeah i have a a my parents are still married and everything and / <B> uh-huh / <A> i have a good relationship with them and so i think they're doing a pretty good job as far as the whole life partner thing goes / <B> yeah / <A> um they really i don't know they value each other and / <B> yeah",
     "context_start": 86.58,
-    "context_end": 102.96775,
+    "context_end": 102.7725,
     "feedback": [
         {
-            "name": "spontB_276_yeah",
+            "name": "spontD_276_uh-huh",
             "start": 91.69,
-            "end": 92.001875,
-            "token": "yeah"
+            "end": 92.13137499999999,
+            "token": "uh-huh"
         },
         {
             "name": "spontF_142_yeah",
@@ -18,9 +18,9 @@
             "token": "yeah"
         },
         {
-            "name": "spontD_184_yeah",
+            "name": "spontA_340_yeah",
             "start": 102.35,
-            "end": 102.96775,
+            "end": 102.7725,
             "token": "yeah"
         }
     ]

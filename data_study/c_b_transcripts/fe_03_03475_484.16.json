@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03475",
     "context_channel": 1,
-    "context_text": "<A> and i think we get along we don't he's not like an extreme you know an extremist { when it comes to } / <B> [ huh ] / <A> his religion and i'm not either / <B> okay / <A> and um you know i think i don't have a problem with it like my father { doesn't } / <B> [ okay ] / <A> really care but you know i mean he doesn't care for my husband to be he's my husband's muslim / <B> okay",
+    "context_text": "<A> and i think we get along we don't he's not like an extreme you know an extremist { when it comes to } / <B> [ no ] / <A> his religion and i'm not either / <B> yeah / <A> and um you know i think i don't have a problem with it like my father { doesn't } / <B> [ no ] / <A> really care but you know i mean he doesn't care for my husband to be he's my husband's muslim / <B> yeah",
     "context_start": 484.16,
-    "context_end": 505.412,
+    "context_end": 505.301375,
     "feedback": [
         {
-            "name": "sun2_014_huh",
+            "name": "NR_114_no",
             "start": 490.4,
-            "end": 491.45675,
-            "token": "huh"
+            "end": 491.710625,
+            "token": "no"
         },
         {
-            "name": "spontC_134_okay",
+            "name": "spontD_231_yeah",
             "start": 492.89,
-            "end": 493.69712499999997,
-            "token": "okay"
+            "end": 493.470375,
+            "token": "yeah"
         },
         {
-            "name": "spontC_511_okay",
+            "name": "NR_098_no",
             "start": 498.23,
-            "end": 498.740875,
-            "token": "okay"
+            "end": 498.7255,
+            "token": "no"
         },
         {
-            "name": "spontC_286_okay",
+            "name": "spontD_051_yeah",
             "start": 504.76,
-            "end": 505.412,
-            "token": "okay"
+            "end": 505.301375,
+            "token": "yeah"
         }
     ]
 }

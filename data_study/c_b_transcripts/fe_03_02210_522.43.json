@@ -1,15 +1,15 @@
 {
     "name": "fe_03_02210",
     "context_channel": 1,
-    "context_text": "<A> and they have on it that they have it started in san francisco so the first one time you go there it will um come up to a san francisco page / <B> yeah / <A> but they have other cities that you can go and find information out or jobs or whatever um it's just unreal it's i've never seen anything like it / <B> wow / <A> you know and they have part time jobs etcetera jobs they have you know chat rooms they have um apartments for rent and just stuff an and legitimate businesses around here use it { and i think } / <B> [ what ]",
+    "context_text": "<A> and they have on it that they have it started in san francisco so the first one time you go there it will um come up to a san francisco page / <B> oh / <A> but they have other cities that you can go and find information out or jobs or whatever um it's just unreal it's i've never seen anything like it / <B> wow / <A> you know and they have part time jobs etcetera jobs they have you know chat rooms they have um apartments for rent and just stuff an and legitimate businesses around here use it { and i think } / <B> [ wow ]",
     "context_start": 522.43,
-    "context_end": 561.8842500000001,
+    "context_end": 561.76525,
     "feedback": [
         {
-            "name": "spontF_380_yeah",
+            "name": "spontF_320_oh",
             "start": 532.52,
-            "end": 533.1335,
-            "token": "yeah"
+            "end": 533.2223749999999,
+            "token": "oh"
         },
         {
             "name": "spontF_097_wow",
@@ -18,10 +18,10 @@
             "token": "wow"
         },
         {
-            "name": "NegS_063_what",
+            "name": "PS_183_wow",
             "start": 560.96,
-            "end": 561.8842500000001,
-            "token": "what"
+            "end": 561.76525,
+            "token": "wow"
         }
     ]
 }

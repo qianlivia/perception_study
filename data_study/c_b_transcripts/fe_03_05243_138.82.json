@@ -1,9 +1,9 @@
 {
     "name": "fe_03_05243",
     "context_channel": 0,
-    "context_text": "<B> think it's in bars / <A> yeah / <B> um in restaurants certainly / <A> yeah / <B> and um the city council just voted to make it illegal / <A> okay",
+    "context_text": "<B> think it's in bars / <A> yeah / <B> um in restaurants certainly / <A> yeah / <B> and um the city council just voted to make it illegal / <A> really",
     "context_start": 138.82,
-    "context_end": 148.16199999999998,
+    "context_end": 148.2995,
     "feedback": [
         {
             "name": "spontF_562_yeah",
@@ -12,16 +12,16 @@
             "token": "yeah"
         },
         {
-            "name": "spontF_485_yeah",
+            "name": "spontF_552_yeah",
             "start": 143.13,
-            "end": 143.7325,
+            "end": 143.58925,
             "token": "yeah"
         },
         {
-            "name": "spontC_286_okay",
+            "name": "PS_019_really",
             "start": 147.51,
-            "end": 148.16199999999998,
-            "token": "okay"
+            "end": 148.2995,
+            "token": "really"
         }
     ]
 }

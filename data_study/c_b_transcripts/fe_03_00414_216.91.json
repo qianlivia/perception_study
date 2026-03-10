@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00414",
     "context_channel": 0,
-    "context_text": "<B> but avoid being cynical { try to } / <A> [ absolutely ] / <B> be as optimistic as possible / <A> goodness / <B> tell him what's good and right and idealistic / <A> uh-huh / <B> and let the world tell him what is / <A> yeah",
+    "context_text": "<B> but avoid being cynical { try to } / <A> [ absolutely ] / <B> be as optimistic as possible / <A> yes / <B> tell him what's good and right and idealistic / <A> yes / <B> and let the world tell him what is / <A> yes",
     "context_start": 216.91,
-    "context_end": 229.02700000000002,
+    "context_end": 228.90437500000002,
     "feedback": [
         {
-            "name": "sun_044_absolutely",
+            "name": "sun_027_absolutely",
             "start": 218.56,
-            "end": 219.647875,
+            "end": 219.694,
             "token": "absolutely"
         },
         {
-            "name": "NS_099_goodness",
+            "name": "sun_023_yes",
             "start": 220.92,
-            "end": 221.80925,
-            "token": "goodness"
+            "end": 221.758875,
+            "token": "yes"
         },
         {
-            "name": "spontF_467_uh-huh",
+            "name": "PR_009_yes",
             "start": 223.87,
-            "end": 224.42712500000002,
-            "token": "uh-huh"
+            "end": 224.651125,
+            "token": "yes"
         },
         {
-            "name": "spontF_086_yeah",
+            "name": "PR_026_yes",
             "start": 228.31,
-            "end": 229.02700000000002,
-            "token": "yeah"
+            "end": 228.90437500000002,
+            "token": "yes"
         }
     ]
 }

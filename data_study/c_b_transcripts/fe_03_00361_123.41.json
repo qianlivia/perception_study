@@ -1,45 +1,45 @@
 {
     "name": "fe_03_00361",
     "context_channel": 0,
-    "context_text": "<B> yeah yeah yeah i know that so i think mm there's some advantages and disadvantages / <A> yuh / <B> and recently i read a article about some students in california you know in california there some affirmative actions in the enrollment of college students / <A> yes / <B> because in california there's more latinos i'm maybe more then half in / <A> oh / <B> total population / <A> okay / <B> but you know you know that the asia students got higher score than even latinos so if they enroll student according to the scores so we are more asia students would be enrolled than the latino students / <A> okay / <B> so you you know i i'm i'm a chinese so i really read uh news for chinese newspaper and uh some chinese students in california complain about that because even though they got very very higher score than than latino especially mexicans / <A> okay",
+    "context_text": "<B> yeah yeah yeah i know that so i think mm there's some advantages and disadvantages / <A> yeah / <B> and recently i read a article about some students in california you know in california there some affirmative actions in the enrollment of college students / <A> uh-huh / <B> because in california there's more latinos i'm maybe more then half in / <A> uh-huh / <B> total population / <A> yeah / <B> but you know you know that the asia students got higher score than even latinos so if they enroll student according to the scores so we are more asia students would be enrolled than the latino students / <A> yeah / <B> so you you know i i'm i'm a chinese so i really read uh news for chinese newspaper and uh some chinese students in california complain about that because even though they got very very higher score than than latino especially mexicans / <A> yeah",
     "context_start": 123.41,
-    "context_end": 200.039,
+    "context_end": 200.147,
     "feedback": [
         {
-            "name": "spontA_089_yuh",
+            "name": "spontE_067_yeah",
             "start": 132.88,
-            "end": 133.4315,
-            "token": "yuh"
+            "end": 133.474875,
+            "token": "yeah"
         },
         {
-            "name": "spontC_507_yes",
+            "name": "spontC_386_uh-huh",
             "start": 147.24,
-            "end": 147.76250000000002,
-            "token": "yes"
+            "end": 147.78650000000002,
+            "token": "uh-huh"
         },
         {
-            "name": "spontF_109_oh",
+            "name": "spontC_128_uh-huh",
             "start": 155.4,
-            "end": 155.7395,
-            "token": "oh"
+            "end": 155.900875,
+            "token": "uh-huh"
         },
         {
-            "name": "spontC_172_okay",
+            "name": "spontF_221_yeah",
             "start": 157.0,
-            "end": 157.411125,
-            "token": "okay"
+            "end": 157.485625,
+            "token": "yeah"
         },
         {
-            "name": "spontC_511_okay",
+            "name": "spontD_140_yeah",
             "start": 175.34,
-            "end": 175.850875,
-            "token": "okay"
+            "end": 175.88025,
+            "token": "yeah"
         },
         {
-            "name": "spontD_022_okay",
+            "name": "spontB_186_yeah",
             "start": 199.57,
-            "end": 200.039,
-            "token": "okay"
+            "end": 200.147,
+            "token": "yeah"
         }
     ]
 }

@@ -1,27 +1,27 @@
 {
     "name": "fe_03_03655",
     "context_channel": 0,
-    "context_text": "<B> right and like i was mentioned before the single the single parents / <A> oh / <B> um if they you know if they have children and y your child gets sick and you have to take em to the doctor you have a choice of you know should i put food on the table um pay my rent or take my sick kid to the doctor / <A> right / <B> you know and even i mean even with co pays we have fifteen dollar co pays and then we have our medical ah or we have a prescription co pays as well / <A> yeah / <B> and you know whenever my kids are sick i'm like oh no an and sure enough if one gets sick they both get sick so { i } / <A> [ oh ] / <B> got thirty dollars in co pay plus th whatever medications they go { on i hate } / <A> [ jeez ]",
+    "context_text": "<B> right and like i was mentioned before the single the single parents / <A> uh-huh / <B> um if they you know if they have children and y your child gets sick and you have to take em to the doctor you have a choice of you know should i put food on the table um pay my rent or take my sick kid to the doctor / <A> right / <B> you know and even i mean even with co pays we have fifteen dollar co pays and then we have our medical ah or we have a prescription co pays as well / <A> uh-huh / <B> and you know whenever my kids are sick i'm like oh no an and sure enough if one gets sick they both get sick so { i } / <A> [ oh ] / <B> got thirty dollars in co pay plus th whatever medications they go { on i hate } / <A> [ wow ]",
     "context_start": 444.84,
-    "context_end": 477.9545,
+    "context_end": 478.06525,
     "feedback": [
         {
-            "name": "spontE_285_oh",
+            "name": "spontF_470_uh-huh",
             "start": 448.77,
-            "end": 449.365125,
-            "token": "oh"
+            "end": 449.294125,
+            "token": "uh-huh"
         },
         {
-            "name": "spontC_360_right",
+            "name": "sun_013_right",
             "start": 460.01,
-            "end": 460.588875,
+            "end": 460.88349999999997,
             "token": "right"
         },
         {
-            "name": "spontB_276_yeah",
+            "name": "spontD_070_uh-huh",
             "start": 467.47,
-            "end": 467.781875,
-            "token": "yeah"
+            "end": 467.97825,
+            "token": "uh-huh"
         },
         {
             "name": "spontC_112_oh",
@@ -30,10 +30,10 @@
             "token": "oh"
         },
         {
-            "name": "NegS_035_jeez",
+            "name": "PS_043_wow",
             "start": 476.73,
-            "end": 477.9545,
-            "token": "jeez"
+            "end": 478.06525,
+            "token": "wow"
         }
     ]
 }

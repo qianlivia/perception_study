@@ -1,39 +1,39 @@
 {
     "name": "fe_03_02270",
     "context_channel": 0,
-    "context_text": "<B> um apparently that really was affecting me and i didn't know / <A> aww / <B> um that's what it was but it felt like kinda like a cold or flu you know / <A> yeah / <B> but it was allergies it was allergies { cause } / <A> [ okay ] / <B> when i when i took the medication { i mean the } / <A> [ okay ] / <B> allergy pills it definitely helped / <A> okay",
+    "context_text": "<B> um apparently that really was affecting me and i didn't know / <A> really / <B> um that's what it was but it felt like kinda like a cold or flu you know / <A> yeah / <B> but it was allergies it was allergies { cause } / <A> [ really ] / <B> when i when i took the medication { i mean the } / <A> [ wow ] / <B> allergy pills it definitely helped / <A> wow",
     "context_start": 548.04,
-    "context_end": 567.4119999999999,
+    "context_end": 567.209125,
     "feedback": [
         {
-            "name": "spontF_296_aww",
+            "name": "PS_070_really",
             "start": 553.23,
-            "end": 553.815875,
-            "token": "aww"
+            "end": 553.918625,
+            "token": "really"
         },
         {
-            "name": "spontC_405_yeah",
+            "name": "spontC_255_yeah",
             "start": 558.15,
-            "end": 558.76625,
+            "end": 558.7278749999999,
             "token": "yeah"
         },
         {
-            "name": "spontF_583_okay",
+            "name": "PS_019_really",
             "start": 560.93,
-            "end": 562.108,
-            "token": "okay"
+            "end": 561.7194999999999,
+            "token": "really"
         },
         {
-            "name": "spontD_089_okay",
+            "name": "PS_092_wow",
             "start": 563.38,
-            "end": 564.185125,
-            "token": "okay"
+            "end": 564.297125,
+            "token": "wow"
         },
         {
-            "name": "spontF_317_okay",
+            "name": "spontA_261_wow",
             "start": 566.56,
-            "end": 567.4119999999999,
-            "token": "okay"
+            "end": 567.209125,
+            "token": "wow"
         }
     ]
 }

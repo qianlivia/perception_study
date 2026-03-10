@@ -1,27 +1,27 @@
 {
     "name": "fe_03_04553",
     "context_channel": 0,
-    "context_text": "<B> or bob or tyrone / <A> ugh / <B> that's what your gpa / <A> no / <B> but there's a whole lot of emphasis on this many uh on numbers very / <A> yeah",
+    "context_text": "<B> or bob or tyrone / <A> yeah / <B> that's what your gpa / <A> yeah / <B> but there's a whole lot of emphasis on this many uh on numbers very / <A> uh-huh",
     "context_start": 382.49,
-    "context_end": 392.354875,
+    "context_end": 392.38925,
     "feedback": [
         {
-            "name": "spontC_337_ugh",
+            "name": "spontE_023_yeah",
             "start": 385.47,
-            "end": 386.07500000000005,
-            "token": "ugh"
-        },
-        {
-            "name": "spontF_264_no",
-            "start": 387.56,
-            "end": 388.097125,
-            "token": "no"
-        },
-        {
-            "name": "spontB_016_yeah",
-            "start": 391.96,
-            "end": 392.354875,
+            "end": 386.005625,
             "token": "yeah"
+        },
+        {
+            "name": "spontA_452_yeah",
+            "start": 387.56,
+            "end": 388.025375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_106_uh-huh",
+            "start": 391.96,
+            "end": 392.38925,
+            "token": "uh-huh"
         }
     ]
 }

@@ -1,9 +1,9 @@
 {
     "name": "fe_03_01390",
     "context_channel": 0,
-    "context_text": "<B> but i wouldn't have this if it hadn't been given to me but it's a a godsend in many ways just you know being able to stretch where i can't really exercise / <A> yeah / <B> and they have a public pool and the pool is um is called potese pool it's a little place for it's for handicapped people / <A> oh / <B> but it's only like four feet deep and you can't really swim in it { and } / <A> [ yeah ] / <B> it's like takes the fun out and then everybody goes and they get hot and so they open the doors and i can't stand the cool i { have } / <A> [ yeah ]",
+    "context_text": "<B> but i wouldn't have this if it hadn't been given to me but it's a a godsend in many ways just you know being able to stretch where i can't really exercise / <A> yeah / <B> and they have a public pool and the pool is um is called potese pool it's a little place for it's for handicapped people / <A> uh-huh / <B> but it's only like four feet deep and you can't really swim in it { and } / <A> [ oh ] / <B> it's like takes the fun out and then everybody goes and they get hot and so they open the doors and i can't stand the cool i { have } / <A> [ ah ]",
     "context_start": 308.95,
-    "context_end": 344.743125,
+    "context_end": 345.08075,
     "feedback": [
         {
             "name": "spontF_295_yeah",
@@ -12,22 +12,22 @@
             "token": "yeah"
         },
         {
-            "name": "spontF_017_oh",
+            "name": "spontD_020_uh-huh",
             "start": 328.75,
-            "end": 329.579375,
+            "end": 329.254625,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontE_048_oh",
+            "start": 333.32,
+            "end": 334.06512499999997,
             "token": "oh"
         },
         {
-            "name": "spontC_063_yeah",
-            "start": 333.32,
-            "end": 333.834,
-            "token": "yeah"
-        },
-        {
-            "name": "spontD_180_yeah",
+            "name": "spontE_232_ah",
             "start": 344.1,
-            "end": 344.743125,
-            "token": "yeah"
+            "end": 345.08075,
+            "token": "ah"
         }
     ]
 }

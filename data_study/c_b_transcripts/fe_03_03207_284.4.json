@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03207",
     "context_channel": 1,
-    "context_text": "<A> fact there there's only one cat we've ever paid money for we'd gone to um uh an animal shelter this one weekend because they were having an open house / <B> uh-huh / <A> and we thought well sparkle that's my wife's cat we've had so long she had a dog one time and we thought well we might see about picking up another dog for her / <B> okay / <A> but sparkle has to like the dog right / <B> ugh",
+    "context_text": "<A> fact there there's only one cat we've ever paid money for we'd gone to um uh an animal shelter this one weekend because they were having an open house / <B> uh-huh / <A> and we thought well sparkle that's my wife's cat we've had so long she had a dog one time and we thought well we might see about picking up another dog for her / <B> yeah / <A> but sparkle has to like the dog right / <B> yeah",
     "context_start": 284.4,
-    "context_end": 310.70500000000004,
+    "context_end": 310.668875,
     "feedback": [
         {
             "name": "spontC_128_uh-huh",
@@ -12,16 +12,16 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontC_172_okay",
+            "name": "spontC_116_yeah",
             "start": 307.3,
-            "end": 307.71112500000004,
-            "token": "okay"
+            "end": 307.85787500000004,
+            "token": "yeah"
         },
         {
-            "name": "spontC_337_ugh",
+            "name": "spontF_562_yeah",
             "start": 310.1,
-            "end": 310.70500000000004,
-            "token": "ugh"
+            "end": 310.668875,
+            "token": "yeah"
         }
     ]
 }

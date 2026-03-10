@@ -1,9 +1,9 @@
 {
     "name": "fe_03_01599",
     "context_channel": 1,
-    "context_text": "<A> but anyway the planes go right over our house so th that's like a a taxi way / <B> oh / <A> so hopefully nothing ever happens here because when they leave surgess airport / <B> yeah / <A> they fly just i was talking to a friend that's um a pilot { and } / <B> [ okay ] / <A> he said that there's um um air roads / <B> okay / <A> and as soon as they leave the airport they get in this this road kind of thing / <B> okay",
+    "context_text": "<A> but anyway the planes go right over our house so th that's like a a taxi way / <B> oh / <A> so hopefully nothing ever happens here because when they leave surgess airport / <B> yeah / <A> they fly just i was talking to a friend that's um a pilot { and } / <B> [ uh-huh ] / <A> he said that there's um um air roads / <B> yeah / <A> and as soon as they leave the airport they get in this this road kind of thing / <B> yeah",
     "context_start": 539.36,
-    "context_end": 565.312,
+    "context_end": 565.228875,
     "feedback": [
         {
             "name": "spontF_207_oh",
@@ -12,28 +12,28 @@
             "token": "oh"
         },
         {
-            "name": "spontF_485_yeah",
+            "name": "spontD_140_yeah",
             "start": 550.87,
-            "end": 551.4725,
+            "end": 551.41025,
             "token": "yeah"
         },
         {
-            "name": "spontC_020_okay",
+            "name": "spontC_186_uh-huh",
             "start": 555.62,
-            "end": 556.095,
-            "token": "okay"
+            "end": 556.09525,
+            "token": "uh-huh"
         },
         {
-            "name": "spontC_134_okay",
+            "name": "spontE_003_yeah",
             "start": 560.56,
-            "end": 561.367125,
-            "token": "okay"
+            "end": 560.9443749999999,
+            "token": "yeah"
         },
         {
-            "name": "spontC_286_okay",
+            "name": "spontF_562_yeah",
             "start": 564.66,
-            "end": 565.312,
-            "token": "okay"
+            "end": 565.228875,
+            "token": "yeah"
         }
     ]
 }

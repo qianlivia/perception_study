@@ -1,9 +1,9 @@
 {
     "name": "fe_03_02401",
     "context_channel": 0,
-    "context_text": "<B> i heard that they passed a law it was it was on the ballot back in november but i haven't seen any change so either the law hasn't come into effect yet / <A> oh / <B> or it's not people are just ignoring it / <A> aww / <B> because i've seen some restaurants n not have smoking { like } / <A> [ okay ] / <B> since the law passed but { not } / <A> [ okay ]",
+    "context_text": "<B> i heard that they passed a law it was it was on the ballot back in november but i haven't seen any change so either the law hasn't come into effect yet / <A> oh / <B> or it's not people are just ignoring it / <A> ah / <B> because i've seen some restaurants n not have smoking { like } / <A> [ no ] / <B> since the law passed but { not } / <A> [ okay ]",
     "context_start": 178.36,
-    "context_end": 200.555125,
+    "context_end": 200.662875,
     "feedback": [
         {
             "name": "spontF_207_oh",
@@ -12,21 +12,21 @@
             "token": "oh"
         },
         {
-            "name": "spontF_671_aww",
+            "name": "spontE_232_ah",
             "start": 192.04,
-            "end": 192.7095,
-            "token": "aww"
+            "end": 193.02075,
+            "token": "ah"
         },
         {
-            "name": "spontC_020_okay",
+            "name": "NR_039_no",
             "start": 197.54,
-            "end": 198.015,
-            "token": "okay"
+            "end": 198.169875,
+            "token": "no"
         },
         {
-            "name": "spontD_089_okay",
+            "name": "sun1_017_okay",
             "start": 199.75,
-            "end": 200.555125,
+            "end": 200.662875,
             "token": "okay"
         }
     ]

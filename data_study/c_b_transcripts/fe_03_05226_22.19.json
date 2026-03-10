@@ -1,9 +1,9 @@
 {
     "name": "fe_03_05226",
     "context_channel": 1,
-    "context_text": "<A> this ah this last season / <B> yeah / <A> i got this i don't know this horrible allergy / <B> oh / <A> yeah / <B> okay",
+    "context_text": "<A> this ah this last season / <B> yeah / <A> i got this i don't know this horrible allergy / <B> oh / <A> yeah / <B> really",
     "context_start": 22.19,
-    "context_end": 29.931125,
+    "context_end": 29.878625,
     "feedback": [
         {
             "name": "spontF_142_yeah",
@@ -18,10 +18,10 @@
             "token": "oh"
         },
         {
-            "name": "spontD_073_okay",
+            "name": "PS_070_really",
             "start": 29.19,
-            "end": 29.931125,
-            "token": "okay"
+            "end": 29.878625,
+            "token": "really"
         }
     ]
 }

@@ -1,15 +1,15 @@
 {
     "name": "fe_03_01471",
     "context_channel": 1,
-    "context_text": "<A> it's a very it's very hard because the profile of the of not only the september eleven terrorists but the other attacks the the mogadishu attacks were all you know they were all middle eastern males between seventeen and forty / <B> oh / <A> and and so how do you not profile and and like so i guess i can / <B> uh-huh / <A> still see doing that at airports or you know / <B> yeah",
+    "context_text": "<A> it's a very it's very hard because the profile of the of not only the september eleven terrorists but the other attacks the the mogadishu attacks were all you know they were all middle eastern males between seventeen and forty / <B> yeah / <A> and and so how do you not profile and and like so i guess i can / <B> uh-huh / <A> still see doing that at airports or you know / <B> yeah",
     "context_start": 357.0,
-    "context_end": 383.861875,
+    "context_end": 383.825,
     "feedback": [
         {
-            "name": "spontF_109_oh",
+            "name": "spontD_397_yeah",
             "start": 373.49,
-            "end": 373.8295,
-            "token": "oh"
+            "end": 373.871375,
+            "token": "yeah"
         },
         {
             "name": "spontE_065_uh-huh",
@@ -18,9 +18,9 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontE_130_yeah",
+            "name": "spontA_374_yeah",
             "start": 383.02,
-            "end": 383.861875,
+            "end": 383.825,
             "token": "yeah"
         }
     ]

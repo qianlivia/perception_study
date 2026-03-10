@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04978",
     "context_channel": 1,
-    "context_text": "<A> door close to where i live { within the } / <B> [ oh ] / <A> next block and i go and i chase down the volleyballs for little women and the basketballs and things like that it it it helps them out and it helps me out too so it's { a pretty } / <B> [ what ] / <A> good deal / <B> well",
+    "context_text": "<A> door close to where i live { within the } / <B> [ oh ] / <A> next block and i go and i chase down the volleyballs for little women and the basketballs and things like that it it it helps them out and it helps me out too so it's { a pretty } / <B> [ yeah ] / <A> good deal / <B> yeah",
     "context_start": 162.99,
-    "context_end": 179.54225,
+    "context_end": 179.615125,
     "feedback": [
         {
             "name": "spontE_048_oh",
@@ -12,16 +12,16 @@
             "token": "oh"
         },
         {
-            "name": "NegS_063_what",
+            "name": "spontC_076_yeah",
             "start": 177.35,
-            "end": 178.27425,
-            "token": "what"
+            "end": 178.037625,
+            "token": "yeah"
         },
         {
-            "name": "spontD_171_well",
+            "name": "spontC_271_yeah",
             "start": 179.1,
-            "end": 179.54225,
-            "token": "well"
+            "end": 179.615125,
+            "token": "yeah"
         }
     ]
 }

@@ -1,27 +1,27 @@
 {
     "name": "fe_03_05847",
     "context_channel": 1,
-    "context_text": "<A> the gulf and the atlantic it that that's gonna you know that that transmits up here even { in the } / <B> [ absolutely ] / <A> water and it just takes a week or two for it to move / <B> exactly / <A> so yeah but pacific's definitely cold that's why even in the summer you'll see people with like uh rash guards or like wet suits you know like real you know like short sleeve ones / <B> well",
+    "context_text": "<A> the gulf and the atlantic it that that's gonna you know that that transmits up here even { in the } / <B> [ absolutely ] / <A> water and it just takes a week or two for it to move / <B> absolutely / <A> so yeah but pacific's definitely cold that's why even in the summer you'll see people with like uh rash guards or like wet suits you know like real you know like short sleeve ones / <B> wow",
     "context_start": 501.0,
-    "context_end": 519.9622499999999,
+    "context_end": 520.3095,
     "feedback": [
         {
-            "name": "sun_036_absolutely",
+            "name": "PR_049_absolutely",
             "start": 506.06,
-            "end": 507.098875,
+            "end": 507.14662500000003,
             "token": "absolutely"
         },
         {
-            "name": "sun_038_exactly",
+            "name": "sun_027_absolutely",
             "start": 509.08,
-            "end": 510.1655,
-            "token": "exactly"
+            "end": 510.214,
+            "token": "absolutely"
         },
         {
-            "name": "spontD_171_well",
+            "name": "PS_023_wow",
             "start": 519.52,
-            "end": 519.9622499999999,
-            "token": "well"
+            "end": 520.3095,
+            "token": "wow"
         }
     ]
 }

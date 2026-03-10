@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00968",
     "context_channel": 0,
-    "context_text": "<B> i agree i think that they still have too many things getting through / <A> yeah / <B> i don't know what they could do to lessen that like the guy with the plastic shoe i mean how { do } / <A> [ yeah ] / <B> you stop something like that / <A> yeah / <B> because i think you'd have to have like bomb sniffing dogs everywhere i don't { know } / <A> [ yeah ] / <B> that they would do something like that i / <A> yeah / <B> definitely think that they have helped a lot to get maybe / <A> yeah / <B> for some people they feel it's an extreme / <A> yeah",
+    "context_text": "<B> i agree i think that they still have too many things getting through / <A> yeah / <B> i don't know what they could do to lessen that like the guy with the plastic shoe i mean how { do } / <A> [ yeah ] / <B> you stop something like that / <A> yeah / <B> because i think you'd have to have like bomb sniffing dogs everywhere i don't { know } / <A> [ yeah ] / <B> that they would do something like that i / <A> no / <B> definitely think that they have helped a lot to get maybe / <A> yeah / <B> for some people they feel it's an extreme / <A> yeah",
     "context_start": 26.59,
-    "context_end": 59.46575,
+    "context_end": 59.547,
     "feedback": [
         {
             "name": "spontC_405_yeah",
@@ -12,39 +12,39 @@
             "token": "yeah"
         },
         {
-            "name": "spontF_262_yeah",
-            "start": 40.04,
-            "end": 40.670125,
-            "token": "yeah"
-        },
-        {
-            "name": "spontD_240_yeah",
-            "start": 42.7,
-            "end": 43.362750000000005,
-            "token": "yeah"
-        },
-        {
             "name": "spontC_063_yeah",
-            "start": 48.53,
-            "end": 49.044000000000004,
+            "start": 40.04,
+            "end": 40.554,
             "token": "yeah"
         },
         {
             "name": "spontA_109_yeah",
+            "start": 42.7,
+            "end": 43.35125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_180_yeah",
+            "start": 48.53,
+            "end": 49.173125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_112_no",
             "start": 52.46,
-            "end": 53.11125,
-            "token": "yeah"
+            "end": 53.273125,
+            "token": "no"
         },
         {
-            "name": "sun_046_yeah",
+            "name": "PR_031_yeah",
             "start": 56.17,
-            "end": 56.578250000000004,
+            "end": 56.573125000000005,
             "token": "yeah"
         },
         {
-            "name": "spontD_258_yeah",
+            "name": "spontB_186_yeah",
             "start": 58.97,
-            "end": 59.46575,
+            "end": 59.547,
             "token": "yeah"
         }
     ]

@@ -1,32 +1,32 @@
 {
     "name": "fe_03_04666",
     "context_channel": 1,
-    "context_text": "<A> yeah i mean it's nice to kinda know what's going on we don't have kids and most of the people around here have kids / <B> uh-huh / <A> so we sort of feel you know sometimes we feel like we're not really in the main stream / <B> yeah / <A> with all the you know going to kindergarten and everything that { you } / <B> [ yeah ] / <A> know the parents do / <B> yeah",
+    "context_text": "<A> yeah i mean it's nice to kinda know what's going on we don't have kids and most of the people around here have kids / <B> uh-huh / <A> so we sort of feel you know sometimes we feel like we're not really in the main stream / <B> right / <A> with all the you know going to kindergarten and everything that { you } / <B> [ yeah ] / <A> know the parents do / <B> yeah",
     "context_start": 216.69,
-    "context_end": 234.71562500000002,
+    "context_end": 234.755875,
     "feedback": [
         {
-            "name": "spontE_106_uh-huh",
+            "name": "spontC_367_uh-huh",
             "start": 222.46,
-            "end": 222.88925,
+            "end": 223.037875,
             "token": "uh-huh"
         },
         {
-            "name": "spontC_405_yeah",
+            "name": "sun1_032_right",
             "start": 229.07,
-            "end": 229.68625,
-            "token": "yeah"
+            "end": 229.913375,
+            "token": "right"
         },
         {
-            "name": "spontF_047_yeah",
+            "name": "spontD_140_yeah",
             "start": 232.76,
-            "end": 233.366875,
+            "end": 233.30024999999998,
             "token": "yeah"
         },
         {
-            "name": "spontE_023_yeah",
+            "name": "spontC_035_yeah",
             "start": 234.18,
-            "end": 234.71562500000002,
+            "end": 234.755875,
             "token": "yeah"
         }
     ]

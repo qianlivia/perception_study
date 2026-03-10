@@ -1,14 +1,14 @@
 {
     "name": "fe_03_04696",
     "context_channel": 1,
-    "context_text": "<A> actual ah you know the points is one twenty five and i was about one forty / <B> oh / <A> and ah i i my doctor said well tom you are over weight and you should do exercise and lose weight / <B> yeah / <A> and until then i belonged to the bali for give or take fifteen years / <B> yeah / <A> i go sporadic you know / <B> ugh / <A> and then i started going here in ah atlanta / <B> yeah",
+    "context_text": "<A> actual ah you know the points is one twenty five and i was about one forty / <B> oh / <A> and ah i i my doctor said well tom you are over weight and you should do exercise and lose weight / <B> yeah / <A> and until then i belonged to the bali for give or take fifteen years / <B> yeah / <A> i go sporadic you know / <B> yeah / <A> and then i started going here in ah atlanta / <B> yeah",
     "context_start": 73.36,
-    "context_end": 109.920625,
+    "context_end": 109.8525,
     "feedback": [
         {
-            "name": "spontF_017_oh",
+            "name": "spontF_320_oh",
             "start": 78.67,
-            "end": 79.499375,
+            "end": 79.372375,
             "token": "oh"
         },
         {
@@ -24,15 +24,15 @@
             "token": "yeah"
         },
         {
-            "name": "spontF_389_ugh",
+            "name": "spontD_024_yeah",
             "start": 103.21,
-            "end": 103.61949999999999,
-            "token": "ugh"
+            "end": 103.63012499999999,
+            "token": "yeah"
         },
         {
-            "name": "spontF_300_yeah",
+            "name": "spontA_340_yeah",
             "start": 109.43,
-            "end": 109.920625,
+            "end": 109.8525,
             "token": "yeah"
         }
     ]

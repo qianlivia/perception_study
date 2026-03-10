@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04639",
     "context_channel": 1,
-    "context_text": "<A> uh and i mean you pay to get in but i mean the discounts and the amount of money that you save when you get in is substantial and some of my favorite games are uh well like role playing games and uh shoot em games i think / <B> oh / <A> action are pretty fun / <B> yeah / <A> cough i don't really watch a lot of tv i prefer to play games one of my favorite games is final fantasy and that's an interactive game a role playing game where you uh basically it's the end of the world and you have to try and avert the disaster that's { coming kind } / <B> [ oh ] / <A> of like an armageddon type of / <B> yeah",
+    "context_text": "<A> uh and i mean you pay to get in but i mean the discounts and the amount of money that you save when you get in is substantial and some of my favorite games are uh well like role playing games and uh shoot em games i think / <B> okay / <A> action are pretty fun / <B> okay / <A> cough i don't really watch a lot of tv i prefer to play games one of my favorite games is final fantasy and that's an interactive game a role playing game where you uh basically it's the end of the world and you have to try and avert the disaster that's { coming kind } / <B> [ wow ] / <A> of like an armageddon type of / <B> wow",
     "context_start": 548.53,
-    "context_end": 586.0635000000001,
+    "context_end": 585.894125,
     "feedback": [
         {
-            "name": "spontF_109_oh",
+            "name": "spontC_020_okay",
             "start": 563.42,
-            "end": 563.7595,
-            "token": "oh"
+            "end": 563.895,
+            "token": "okay"
         },
         {
-            "name": "spontE_023_yeah",
+            "name": "spontC_134_okay",
             "start": 565.44,
-            "end": 565.975625,
-            "token": "yeah"
+            "end": 566.2471250000001,
+            "token": "okay"
         },
         {
-            "name": "spontE_048_oh",
+            "name": "PS_189_wow",
             "start": 582.92,
-            "end": 583.665125,
-            "token": "oh"
+            "end": 584.028875,
+            "token": "wow"
         },
         {
-            "name": "spontF_380_yeah",
+            "name": "spontF_097_wow",
             "start": 585.45,
-            "end": 586.0635000000001,
-            "token": "yeah"
+            "end": 585.894125,
+            "token": "wow"
         }
     ]
 }

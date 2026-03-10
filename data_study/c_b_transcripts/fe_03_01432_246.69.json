@@ -1,7 +1,7 @@
 {
     "name": "fe_03_01432",
     "context_channel": 1,
-    "context_text": "<A> yeah with the salvation army we're i i work with the disaster / <B> oh / <A> canteen here / <B> oh / <A> and we've we've been to about three meetings so far on what to do in case of a terrorist attack and all that / <B> oh / <A> and it's real you know some of the pictures you see / <B> yeah",
+    "context_text": "<A> yeah with the salvation army we're i i work with the disaster / <B> oh / <A> canteen here / <B> oh / <A> and we've we've been to about three meetings so far on what to do in case of a terrorist attack and all that / <B> no / <A> and it's real you know some of the pictures you see / <B> yeah",
     "context_start": 246.69,
     "context_end": 266.40625,
     "feedback": [
@@ -12,16 +12,16 @@
             "token": "oh"
         },
         {
-            "name": "spontF_017_oh",
+            "name": "spontF_277_oh",
             "start": 253.04,
-            "end": 253.869375,
+            "end": 253.60825,
             "token": "oh"
         },
         {
-            "name": "spontC_248_oh",
+            "name": "NR_046_no",
             "start": 260.98,
-            "end": 261.62487500000003,
-            "token": "oh"
+            "end": 261.76025000000004,
+            "token": "no"
         },
         {
             "name": "spontC_405_yeah",
