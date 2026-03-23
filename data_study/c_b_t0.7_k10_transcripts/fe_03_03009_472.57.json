@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03009",
+    "context_channel": 1,
+    "context_text": "<A> yeah and we're do ah he's exactly double my age right now it only happens one time in your life i'm fifty six and he's twenty eight so / <B> wow / <A> yeah but ah / <B> wow / <A> i'm really proud of him and { i'm } / <B> [ yeah ]",
+    "context_start": 472.57,
+    "context_end": 483.807125,
+    "feedback": [
+        {
+            "name": "PS_023_wow",
+            "start": 479.18,
+            "end": 479.9695,
+            "token": "wow"
+        },
+        {
+            "name": "PS_083_wow",
+            "start": 481.24,
+            "end": 482.13925,
+            "token": "wow"
+        },
+        {
+            "name": "spontB_132_yeah",
+            "start": 482.9,
+            "end": 483.807125,
+            "token": "yeah"
+        }
+    ]
+}

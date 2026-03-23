@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00647",
+    "context_channel": 0,
+    "context_text": "<B> uh i read a lot on ashcroft before he became attorney general { and } / <A> [ uh-huh ] / <B> it's like this is so strange that all these / <A> yeah / <B> things sort of fit in you know not that i really believe { the } / <A> [ oh ] / <B> government would have something to do with it but / <A> yeah",
+    "context_start": 253.16,
+    "context_end": 269.319125,
+    "feedback": [
+        {
+            "name": "spontC_358_uh-huh",
+            "start": 257.93,
+            "end": 258.515,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_300_yeah",
+            "start": 262.06,
+            "end": 262.550625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_295_oh",
+            "start": 266.17,
+            "end": 266.914125,
+            "token": "oh"
+        },
+        {
+            "name": "spontC_352_yeah",
+            "start": 268.62,
+            "end": 269.319125,
+            "token": "yeah"
+        }
+    ]
+}

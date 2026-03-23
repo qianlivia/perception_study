@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02101",
+    "context_channel": 1,
+    "context_text": "<A> right yeah we found out about friends uh our house burned down in august / <B> oh / <A> and we had no insurance and we had no you know no nothing and uh we i was surprised at the number of people that said okay / <B> yeah / <A> here here you know we had some some neighbors that we didn't really even think of as close friends { that } / <B> [ wow ] / <A> said no you're not going any you're staying here at our place for a couple of days at least until we figure out what's going on / <B> yeah",
+    "context_start": 180.45,
+    "context_end": 218.03512500000002,
+    "feedback": [
+        {
+            "name": "spontF_572_oh",
+            "start": 186.17,
+            "end": 187.292125,
+            "token": "oh"
+        },
+        {
+            "name": "spontA_441_yeah",
+            "start": 201.07,
+            "end": 201.50912499999998,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_160_wow",
+            "start": 208.44,
+            "end": 209.320875,
+            "token": "wow"
+        },
+        {
+            "name": "spontF_520_yeah",
+            "start": 217.36,
+            "end": 218.03512500000002,
+            "token": "yeah"
+        }
+    ]
+}
