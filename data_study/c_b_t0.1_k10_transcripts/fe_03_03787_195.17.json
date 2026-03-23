@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03787",
+    "context_channel": 1,
+    "context_text": "<A> mean but i don't you know like when people are like yeah you're alcoholics i'm like yeah well we kinda are you know like it's true it's a stereotype that's true { you } / <B> [ yeah ] / <A> know if it for whatever happened in history you know like / <B> yeah / <A> and culturally like we certainly like alcohol you know and { it's just } / <B> [ mhm ] / <A> i'm not gonna get mad you know like / <B> yeah",
+    "context_start": 195.17,
+    "context_end": 213.94012500000002,
+    "feedback": [
+        {
+            "name": "spontD_263_yeah",
+            "start": 202.92,
+            "end": 203.64012499999998,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_016_yeah",
+            "start": 206.42,
+            "end": 206.814875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_400_mhm",
+            "start": 210.43,
+            "end": 211.25050000000002,
+            "token": "mhm"
+        },
+        {
+            "name": "spontD_024_yeah",
+            "start": 213.52,
+            "end": 213.94012500000002,
+            "token": "yeah"
+        }
+    ]
+}

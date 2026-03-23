@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03380",
+    "context_channel": 1,
+    "context_text": "<A> another year and then we we lived together we lived together actually before we we it was about six months before the divorce finally went through { we were } / <B> [ wow ] / <A> living together and um you know he was like i wanna marry you right now you know i'm tired of this let's get this done and / <B> yeah / <A> um i finally got the divorce and it it actually came on my birthday { it was } / <B> [ wow ] / <A> final on my birthday it was great that's the best birthday present in the world { you } / <B> [ yeah ]",
+    "context_start": 460.71,
+    "context_end": 485.634875,
+    "feedback": [
+        {
+            "name": "PS_108_wow",
+            "start": 468.87,
+            "end": 470.01575,
+            "token": "wow"
+        },
+        {
+            "name": "spontC_135_yeah",
+            "start": 476.16,
+            "end": 476.84762500000005,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_084_wow",
+            "start": 481.17,
+            "end": 482.194875,
+            "token": "wow"
+        },
+        {
+            "name": "spontF_432_yeah",
+            "start": 484.98,
+            "end": 485.634875,
+            "token": "yeah"
+        }
+    ]
+}

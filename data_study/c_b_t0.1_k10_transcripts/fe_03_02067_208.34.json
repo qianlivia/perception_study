@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_02067",
+    "context_channel": 1,
+    "context_text": "<A> yeah you know i still drive because uh if i have to do marketing or { certain } / <B> [ okay ] / <A> errands or visiting certain friends but i don't drive great distances anymore / <B> okay / <A> and i tend to stay off many of the freeways and expressways here because they're you know they go way beyond the speed limit and { they cut in and out } / <B> [ oh ] / <A> and i'm not as brave as i used to be / <B> okay / <A> but um my car really gives me assis without it i'd have to have people take me to my errands or you { know do } / <B> [ okay ]",
+    "context_start": 208.34,
+    "context_end": 240.862,
+    "feedback": [
+        {
+            "name": "sun1_017_okay",
+            "start": 213.44,
+            "end": 214.352875,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_317_okay",
+            "start": 218.71,
+            "end": 219.562,
+            "token": "okay"
+        },
+        {
+            "name": "PS_028_oh",
+            "start": 227.93,
+            "end": 229.690875,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_181_okay",
+            "start": 231.71,
+            "end": 232.451875,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_317_okay",
+            "start": 240.01,
+            "end": 240.862,
+            "token": "okay"
+        }
+    ]
+}

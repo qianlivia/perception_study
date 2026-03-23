@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_01902",
+    "context_channel": 0,
+    "context_text": "<B> cousins were there too / <A> oh / <B> so one of my aunts is still living at home and { her } / <A> [ oh ] / <B> daughter was there and { then with my } / <A> [ oh ]",
+    "context_start": 137.8,
+    "context_end": 145.715125,
+    "feedback": [
+        {
+            "name": "spontF_320_oh",
+            "start": 139.42,
+            "end": 140.12237499999998,
+            "token": "oh"
+        },
+        {
+            "name": "spontA_071_oh",
+            "start": 143.01,
+            "end": 143.6275,
+            "token": "oh"
+        },
+        {
+            "name": "spontE_048_oh",
+            "start": 144.97,
+            "end": 145.715125,
+            "token": "oh"
+        }
+    ]
+}

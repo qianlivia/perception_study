@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_05015",
+    "context_channel": 1,
+    "context_text": "<A> uh well i'm glad you brought that up because that's now that i think about that has changed a little bit because my wife travels for her job and i had to take her to the airport this past sunday morning for / <B> uh-huh / <A> uh a flight to california for a week and uh you know it does affect y you know you got to get there earlier and of course uh you know i walked her in and uh you know there's extra security and extra scanning and / <B> right / <A> you can only go so far now with your the person you're dropping off / <B> oh / <A> you just don't have access right up to the gate and say goodbye to them as they're about to board { you } / <B> [ oh ]",
+    "context_start": 171.09,
+    "context_end": 210.195125,
+    "feedback": [
+        {
+            "name": "spontA_201_uh-huh",
+            "start": 183.5,
+            "end": 183.948875,
+            "token": "uh-huh"
+        },
+        {
+            "name": "sun1_030_right",
+            "start": 198.65,
+            "end": 199.443625,
+            "token": "right"
+        },
+        {
+            "name": "PS_111_oh",
+            "start": 204.11,
+            "end": 204.89437500000003,
+            "token": "oh"
+        },
+        {
+            "name": "spontE_048_oh",
+            "start": 209.45,
+            "end": 210.195125,
+            "token": "oh"
+        }
+    ]
+}

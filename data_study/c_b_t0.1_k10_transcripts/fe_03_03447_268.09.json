@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03447",
+    "context_channel": 1,
+    "context_text": "<A> and w w w dot shoppers view dot com / <B> okay / <A> and then most of 'em i've found by searching for mystery shopper / <B> okay / <A> and then you go into the website and if it looks like one of those that's advertising they try to get you to buy something / <B> uh-huh / <A> then it's not the right one / <B> okay",
+    "context_start": 268.09,
+    "context_end": 287.36800000000005,
+    "feedback": [
+        {
+            "name": "spontB_120_okay",
+            "start": 273.58,
+            "end": 274.281,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_317_okay",
+            "start": 278.79,
+            "end": 279.642,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_037_uh-huh",
+            "start": 285.03,
+            "end": 285.59625,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_643_okay",
+            "start": 286.66,
+            "end": 287.36800000000005,
+            "token": "okay"
+        }
+    ]
+}

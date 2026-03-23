@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04586",
+    "context_channel": 1,
+    "context_text": "<A> not really really doesn't happen fortunately uh the things that were in one flew over the cuckoo's nest / <B> uh-huh / <A> are things that don't happen much any more { you } / <B> [ okay ] / <A> know those were the bad old days when uh people that did have uh psychiatric disorders i mean really uh uh they were not treated well you know { i i worked } / <B> [ wow ] / <A> at a hospital for a very brief time where there were back wards just like the one you know um in one flew over the cuckoo's nest and it was really it was the medications back then were awful too you know they just sedated people and / <B> oh",
+    "context_start": 486.09,
+    "context_end": 520.484375,
+    "feedback": [
+        {
+            "name": "spontA_240_uh-huh",
+            "start": 492.17,
+            "end": 492.6865,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_317_okay",
+            "start": 494.39,
+            "end": 495.24199999999996,
+            "token": "okay"
+        },
+        {
+            "name": "PS_108_wow",
+            "start": 505.64,
+            "end": 506.78575,
+            "token": "wow"
+        },
+        {
+            "name": "PS_111_oh",
+            "start": 519.7,
+            "end": 520.484375,
+            "token": "oh"
+        }
+    ]
+}
