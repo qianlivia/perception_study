@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03835",
     "context_channel": 0,
-    "context_text": "<B> jeff foxworthy with his redneck stuff he doesn't / <A> yes / <B> swear either and / <A> uh-huh / <B> everything is you know you might be a redneck / <A> yeah / <B> and then he tells a story about his family / <A> no",
+    "context_text": "<B> jeff foxworthy with his redneck stuff he doesn't / <A> yeah / <B> swear either and / <A> oh / <B> everything is you know you might be a redneck / <A> exactly / <B> and then he tells a story about his family / <A> yeah",
     "context_start": 310.16,
-    "context_end": 322.737375,
+    "context_end": 322.32149999999996,
     "feedback": [
         {
-            "name": "PR_009_yes",
+            "name": "spontA_375_yeah",
             "start": 314.08,
-            "end": 314.86112499999996,
-            "token": "yes"
-        },
-        {
-            "name": "spontE_106_uh-huh",
-            "start": 315.69,
-            "end": 316.11925,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontB_321_yeah",
-            "start": 319.02,
-            "end": 319.466125,
+            "end": 314.78175,
             "token": "yeah"
         },
         {
-            "name": "NR_084_no",
+            "name": "PS_009_oh",
+            "start": 315.69,
+            "end": 316.494875,
+            "token": "oh"
+        },
+        {
+            "name": "sun_042_exactly",
+            "start": 319.02,
+            "end": 319.97724999999997,
+            "token": "exactly"
+        },
+        {
+            "name": "spontB_306_yeah",
             "start": 321.77,
-            "end": 322.737375,
-            "token": "no"
+            "end": 322.32149999999996,
+            "token": "yeah"
         }
     ]
 }

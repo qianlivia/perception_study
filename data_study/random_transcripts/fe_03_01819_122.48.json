@@ -1,39 +1,39 @@
 {
     "name": "fe_03_01819",
     "context_channel": 1,
-    "context_text": "<A> and this maybe will have something to do with definitely with the topic i i always felt that the where where education was lacking was not necessarily teaching but / <B> mhm / <A> in teaching people how to find things because the brain can just hold so much at any one / <B> yes / <A> time so i think the computer is an excellent tool / <B> wow / <A> um i never learned how to read newspapers properly which { was } / <B> [ oh ] / <A> of course that was our main way of edu of um finding you know um of communication / <B> uh-huh",
+    "context_text": "<A> and this maybe will have something to do with definitely with the topic i i always felt that the where where education was lacking was not necessarily teaching but / <B> mhm / <A> in teaching people how to find things because the brain can just hold so much at any one / <B> right / <A> time so i think the computer is an excellent tool / <B> okay / <A> um i never learned how to read newspapers properly which { was } / <B> [ yeah ] / <A> of course that was our main way of edu of um finding you know um of communication / <B> mhm",
     "context_start": 122.48,
-    "context_end": 151.84687499999998,
+    "context_end": 151.98137499999999,
     "feedback": [
         {
-            "name": "spontE_268_mhm",
+            "name": "spontA_410_mhm",
             "start": 133.1,
-            "end": 133.66787499999998,
+            "end": 133.591,
             "token": "mhm"
         },
         {
-            "name": "PR_008_yes",
+            "name": "spontC_360_right",
             "start": 137.49,
-            "end": 138.34787500000002,
-            "token": "yes"
+            "end": 138.06887500000002,
+            "token": "right"
         },
         {
-            "name": "PS_062_wow",
+            "name": "spontD_411_okay",
             "start": 141.0,
-            "end": 141.920375,
-            "token": "wow"
+            "end": 141.463875,
+            "token": "okay"
         },
         {
-            "name": "Sy_010_oh",
+            "name": "spontD_390_yeah",
             "start": 145.15,
-            "end": 146.462625,
-            "token": "oh"
+            "end": 146.184,
+            "token": "yeah"
         },
         {
-            "name": "spontF_180_uh-huh",
+            "name": "spontE_122_mhm",
             "start": 151.26,
-            "end": 151.84687499999998,
-            "token": "uh-huh"
+            "end": 151.98137499999999,
+            "token": "mhm"
         }
     ]
 }

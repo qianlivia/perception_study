@@ -1,39 +1,39 @@
 {
     "name": "fe_03_03787",
     "context_channel": 1,
-    "context_text": "<A> like i was just sa you know there's like a a website on the there's a site on the web that like makes fun of like fat people / <B> uh-huh / <A> and like people get so angry and like all i was thinking was you know like y or like a lot of like fat people write in and like this is discrimination this isn't fair / <B> okay / <A> but i mean it's like like caring about the website / <B> yeah / <A> like they're making so much they're giving the person who runs the website so much more credit you know because they're they are making an uproar about it and { then that's } / <B> [ no ] / <A> exactly what the person loves { you } / <B> [ okay ]",
+    "context_text": "<A> like i was just sa you know there's like a a website on the there's a site on the web that like makes fun of like fat people / <B> right / <A> and like people get so angry and like all i was thinking was you know like y or like a lot of like fat people write in and like this is discrimination this isn't fair / <B> right / <A> but i mean it's like like caring about the website / <B> mhm / <A> like they're making so much they're giving the person who runs the website so much more credit you know because they're they are making an uproar about it and { then that's } / <B> [ yeah ] / <A> exactly what the person loves { you } / <B> [ uh-huh ]",
     "context_start": 248.28,
-    "context_end": 287.393875,
+    "context_end": 287.460125,
     "feedback": [
         {
-            "name": "spontF_286_uh-huh",
+            "name": "sun1_030_right",
             "start": 255.59,
-            "end": 256.1135,
-            "token": "uh-huh"
+            "end": 256.383625,
+            "token": "right"
         },
         {
-            "name": "spontC_286_okay",
+            "name": "sun1_033_right",
             "start": 268.43,
-            "end": 269.082,
-            "token": "okay"
+            "end": 269.283125,
+            "token": "right"
         },
         {
-            "name": "spontB_390_yeah",
+            "name": "spontA_151_mhm",
             "start": 273.35,
-            "end": 274.07725000000005,
+            "end": 273.9015,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_335_yeah",
+            "start": 284.13,
+            "end": 284.797125,
             "token": "yeah"
         },
         {
-            "name": "NR_119_no",
-            "start": 284.13,
-            "end": 284.89025,
-            "token": "no"
-        },
-        {
-            "name": "spontD_411_okay",
+            "name": "spontE_040_uh-huh",
             "start": 286.93,
-            "end": 287.393875,
-            "token": "okay"
+            "end": 287.460125,
+            "token": "uh-huh"
         }
     ]
 }

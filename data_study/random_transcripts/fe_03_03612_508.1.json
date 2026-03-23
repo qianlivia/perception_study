@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03612",
     "context_channel": 0,
-    "context_text": "<B> they have like a supplemental unemployment i think they should have something like that maybe with minimum wage / <A> okay / <B> you know i mean that doesn't really help people with children it's you know i mean honestly / <A> wow / <B> it keeps people unemployed i think / <A> yeah / <B> but um you know they should maybe work something out like that where if you're making a certain amount of money and it doesn't meet your bills you know you should be able to get some sort of government assistance / <A> uh-huh",
+    "context_text": "<B> they have like a supplemental unemployment i think they should have something like that maybe with minimum wage / <A> really / <B> you know i mean that doesn't really help people with children it's you know i mean honestly / <A> yeah / <B> it keeps people unemployed i think / <A> yeah / <B> but um you know they should maybe work something out like that where if you're making a certain amount of money and it doesn't meet your bills you know you should be able to get some sort of government assistance / <A> yeah",
     "context_start": 508.1,
-    "context_end": 527.96975,
+    "context_end": 528.08875,
     "feedback": [
         {
-            "name": "spontB_028_okay",
+            "name": "NS_002_really",
             "start": 512.11,
-            "end": 512.5432500000001,
-            "token": "okay"
+            "end": 512.9665,
+            "token": "really"
         },
         {
-            "name": "NegS_008_wow",
+            "name": "sun1_021_yeah",
             "start": 516.81,
-            "end": 517.7655,
-            "token": "wow"
-        },
-        {
-            "name": "spontF_289_yeah",
-            "start": 518.62,
-            "end": 519.426125,
+            "end": 517.543875,
             "token": "yeah"
         },
         {
-            "name": "spontA_290_uh-huh",
+            "name": "spontC_385_yeah",
+            "start": 518.62,
+            "end": 519.197875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_353_yeah",
             "start": 527.47,
-            "end": 527.96975,
-            "token": "uh-huh"
+            "end": 528.08875,
+            "token": "yeah"
         }
     ]
 }

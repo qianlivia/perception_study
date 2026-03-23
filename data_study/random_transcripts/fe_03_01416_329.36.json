@@ -1,27 +1,27 @@
 {
     "name": "fe_03_01416",
     "context_channel": 0,
-    "context_text": "<B> guess i think you have to be open to it / <A> oh / <B> to like i say what's kind of and i think probably it's probably what's going on in a person's life / <A> uh-huh / <B> and probably age like you pointed out you { know } / <A> [ wow ]",
+    "context_text": "<B> guess i think you have to be open to it / <A> yeah / <B> to like i say what's kind of and i think probably it's probably what's going on in a person's life / <A> right / <B> and probably age like you pointed out you { know } / <A> [ yeah ]",
     "context_start": 329.36,
-    "context_end": 341.466875,
+    "context_end": 341.146375,
     "feedback": [
         {
-            "name": "spontF_017_oh",
+            "name": "spontB_316_yeah",
             "start": 331.52,
-            "end": 332.349375,
-            "token": "oh"
+            "end": 332.12325,
+            "token": "yeah"
         },
         {
-            "name": "spontF_180_uh-huh",
+            "name": "spontC_360_right",
             "start": 336.73,
-            "end": 337.31687500000004,
-            "token": "uh-huh"
+            "end": 337.308875,
+            "token": "right"
         },
         {
-            "name": "PS_060_wow",
+            "name": "spontD_083_yeah",
             "start": 340.2,
-            "end": 341.466875,
-            "token": "wow"
+            "end": 341.146375,
+            "token": "yeah"
         }
     ]
 }

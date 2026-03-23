@@ -1,51 +1,51 @@
 {
     "name": "fe_03_03786",
     "context_channel": 0,
-    "context_text": "<B> you really do um i mean because i've i've accused of my wife uh i've always you know being told that one of my better traits was my sense of humor / <A> ooh / <B> and uh but yeah you can't you can't get too personal you know with people you have to keep things in general / <A> mhm / <B> to a to a certain degree / <A> ah / <B> because i mean you can really uh uh you know hurt people's feelings and and not even realize it until you've already done it / <A> no / <B> and then if you're not man enough or woman enough or big enough to go back and say listen i'm sorry i mean i didn't know that this applied to you / <A> oh / <B> you know so personally / <A> wow / <B> i mean i i remember when i was in high school the joke was going around about uh uh about hey you know did you hear the bit about such and such uh going swimming and they'd come back and go hey you know that was my sister she / <A> ah",
+    "context_text": "<B> you really do um i mean because i've i've accused of my wife uh i've always you know being told that one of my better traits was my sense of humor / <A> yeah / <B> and uh but yeah you can't you can't get too personal you know with people you have to keep things in general / <A> yeah / <B> to a to a certain degree / <A> oh / <B> because i mean you can really uh uh you know hurt people's feelings and and not even realize it until you've already done it / <A> mhm / <B> and then if you're not man enough or woman enough or big enough to go back and say listen i'm sorry i mean i didn't know that this applied to you / <A> yeah / <B> you know so personally / <A> right / <B> i mean i i remember when i was in high school the joke was going around about uh uh about hey you know did you hear the bit about such and such uh going swimming and they'd come back and go hey you know that was my sister she / <A> right",
     "context_start": 482.63,
-    "context_end": 534.3774999999999,
+    "context_end": 534.2099999999999,
     "feedback": [
         {
-            "name": "spontC_242_ooh",
+            "name": "spontD_013_yeah",
             "start": 490.4,
-            "end": 491.371375,
-            "token": "ooh"
+            "end": 491.11499999999995,
+            "token": "yeah"
         },
         {
-            "name": "spontA_410_mhm",
+            "name": "spontB_226_yeah",
             "start": 499.07,
-            "end": 499.561,
-            "token": "mhm"
+            "end": 499.519,
+            "token": "yeah"
         },
         {
-            "name": "spontA_245_ah",
+            "name": "spontE_048_oh",
             "start": 501.39,
-            "end": 501.97524999999996,
-            "token": "ah"
-        },
-        {
-            "name": "sun2_005_no",
-            "start": 508.73,
-            "end": 509.764625,
-            "token": "no"
-        },
-        {
-            "name": "spontA_065_oh",
-            "start": 517.0,
-            "end": 517.74025,
+            "end": 502.13512499999996,
             "token": "oh"
         },
         {
-            "name": "PS_057_wow",
-            "start": 519.15,
-            "end": 519.887375,
-            "token": "wow"
+            "name": "spontA_091_mhm",
+            "start": 508.73,
+            "end": 509.24350000000004,
+            "token": "mhm"
         },
         {
-            "name": "spontA_275_ah",
+            "name": "spontF_048_yeah",
+            "start": 517.0,
+            "end": 517.7745,
+            "token": "yeah"
+        },
+        {
+            "name": "PR_048_right",
+            "start": 519.15,
+            "end": 519.785125,
+            "token": "right"
+        },
+        {
+            "name": "PR_043_right",
             "start": 533.55,
-            "end": 534.3774999999999,
-            "token": "ah"
+            "end": 534.2099999999999,
+            "token": "right"
         }
     ]
 }

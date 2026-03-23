@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03089",
     "context_channel": 1,
-    "context_text": "<A> i did live i did live with a a girl in an apartment and she had a wired hair terrier / <B> wow / <A> and it it was a in inside the house / <B> yeah / <A> and i ah was somewhat attached to that to her her name was patches um and she didn't hu she didn't bother my allergies because she had really short hair / <B> yeah / <A> so when when her hair got longer i could i could tell { because i'd } / <B> [ uh-huh ]",
+    "context_text": "<A> i did live i did live with a a girl in an apartment and she had a wired hair terrier / <B> oh / <A> and it it was a in inside the house / <B> wow / <A> and i ah was somewhat attached to that to her her name was patches um and she didn't hu she didn't bother my allergies because she had really short hair / <B> oh / <A> so when when her hair got longer i could i could tell { because i'd } / <B> [ exactly ]",
     "context_start": 134.22,
-    "context_end": 160.532375,
+    "context_end": 161.0395,
     "feedback": [
         {
-            "name": "NegS_008_wow",
+            "name": "spontE_043_oh",
             "start": 139.45,
-            "end": 140.4055,
+            "end": 140.10825,
+            "token": "oh"
+        },
+        {
+            "name": "PS_095_wow",
+            "start": 142.88,
+            "end": 143.91537499999998,
             "token": "wow"
         },
         {
-            "name": "spontA_374_yeah",
-            "start": 142.88,
-            "end": 143.685,
-            "token": "yeah"
-        },
-        {
-            "name": "spontA_355_yeah",
+            "name": "NegS_042_oh",
             "start": 155.14,
-            "end": 155.749125,
-            "token": "yeah"
+            "end": 156.3405,
+            "token": "oh"
         },
         {
-            "name": "spontA_158_uh-huh",
+            "name": "sun_026_exactly",
             "start": 160.01,
-            "end": 160.532375,
-            "token": "uh-huh"
+            "end": 161.0395,
+            "token": "exactly"
         }
     ]
 }

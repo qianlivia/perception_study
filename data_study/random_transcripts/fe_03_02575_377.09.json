@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02575",
     "context_channel": 0,
-    "context_text": "<B> the ah um prior governor was very very unpopular { he } / <A> [ no ] / <B> was just he just ah he was very heavy handed ah liked to play a kind of revenge old style gotcha politics / <A> yes / <B> and ah that hurt ah townsend ah you know she got tarred with all the negative aspects of of the incumbent / <A> ah / <B> but couldn't take any credit for any of the positive aspects so { that ah } / <A> [ yeah ]",
+    "context_text": "<B> the ah um prior governor was very very unpopular { he } / <A> [ right ] / <B> was just he just ah he was very heavy handed ah liked to play a kind of revenge old style gotcha politics / <A> okay / <B> and ah that hurt ah townsend ah you know she got tarred with all the negative aspects of of the incumbent / <A> right / <B> but couldn't take any credit for any of the positive aspects so { that ah } / <A> [ mhm ]",
     "context_start": 377.09,
-    "context_end": 412.2045,
+    "context_end": 412.12212500000004,
     "feedback": [
         {
-            "name": "NR_086_no",
+            "name": "PR_043_right",
             "start": 383.08,
-            "end": 384.07349999999997,
-            "token": "no"
+            "end": 383.74,
+            "token": "right"
         },
         {
-            "name": "sun1_026_yes",
+            "name": "spontD_386_okay",
             "start": 395.63,
-            "end": 396.20525,
-            "token": "yes"
+            "end": 396.33299999999997,
+            "token": "okay"
         },
         {
-            "name": "NS_056_ah",
+            "name": "sun_013_right",
             "start": 406.26,
-            "end": 407.235,
-            "token": "ah"
+            "end": 407.13349999999997,
+            "token": "right"
         },
         {
-            "name": "spontE_161_yeah",
+            "name": "spontA_390_mhm",
             "start": 411.35,
-            "end": 412.2045,
-            "token": "yeah"
+            "end": 412.12212500000004,
+            "token": "mhm"
         }
     ]
 }

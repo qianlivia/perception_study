@@ -1,39 +1,39 @@
 {
     "name": "fe_03_01449",
     "context_channel": 0,
-    "context_text": "<B> it's always nice to go back to your own home / <A> yeah / <B> because i tried that i tried moving to that place that i really really liked and then it just wasn't really really special any more { it } / <A> [ no ] / <B> was like you know i really liked this better when it was a vacation spot / <A> no / <B> so that's what happened when i moved to tracey i missed southern california cause / <A> ooh / <B> i'd been here my entire life lived in the same city most of my life until i was like eighteen and then / <A> no",
+    "context_text": "<B> it's always nice to go back to your own home / <A> wow / <B> because i tried that i tried moving to that place that i really really liked and then it just wasn't really really special any more { it } / <A> [ right ] / <B> was like you know i really liked this better when it was a vacation spot / <A> right / <B> so that's what happened when i moved to tracey i missed southern california cause / <A> exactly / <B> i'd been here my entire life lived in the same city most of my life until i was like eighteen and then / <A> mhm",
     "context_start": 504.22,
-    "context_end": 527.6006249999999,
+    "context_end": 526.96825,
     "feedback": [
         {
-            "name": "spontF_295_yeah",
+            "name": "PS_139_wow",
             "start": 506.36,
-            "end": 506.878375,
-            "token": "yeah"
+            "end": 507.63175,
+            "token": "wow"
         },
         {
-            "name": "NR_076_no",
+            "name": "sun1_029_right",
             "start": 511.82,
-            "end": 512.458625,
-            "token": "no"
+            "end": 512.512,
+            "token": "right"
         },
         {
-            "name": "NR_006_no",
+            "name": "spontC_360_right",
             "start": 516.14,
-            "end": 516.916125,
-            "token": "no"
+            "end": 516.718875,
+            "token": "right"
         },
         {
-            "name": "PS_121_ooh",
+            "name": "sun_026_exactly",
             "start": 519.94,
-            "end": 521.11,
-            "token": "ooh"
+            "end": 520.9695,
+            "token": "exactly"
         },
         {
-            "name": "NR_114_no",
+            "name": "spontA_330_mhm",
             "start": 526.29,
-            "end": 527.6006249999999,
-            "token": "no"
+            "end": 526.96825,
+            "token": "mhm"
         }
     ]
 }

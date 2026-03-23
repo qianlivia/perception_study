@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04957",
     "context_channel": 0,
-    "context_text": "<B> getting you know i don't even know what they're saying i i yeah i can't follow it but you know i know { it's } / <A> [ wow ] / <B> not good / <A> okay / <B> and there they are they're hipping hopping around in the back of that car and they're going up and down and you know i guess i'm getting to be too old but it it bothers me and as far as censorship is in one way i don't like it { we } / <A> [ no ] / <B> had it in catholic school a great deal censorship when i / <A> yeah",
+    "context_text": "<B> getting you know i don't even know what they're saying i i yeah i can't follow it but you know i know { it's } / <A> [ right ] / <B> not good / <A> yeah / <B> and there they are they're hipping hopping around in the back of that car and they're going up and down and you know i guess i'm getting to be too old but it it bothers me and as far as censorship is in one way i don't like it { we } / <A> [ right ] / <B> had it in catholic school a great deal censorship when i / <A> mhm",
     "context_start": 423.43,
-    "context_end": 449.539,
+    "context_end": 449.807375,
     "feedback": [
         {
-            "name": "PS_060_wow",
+            "name": "spontC_360_right",
             "start": 429.88,
-            "end": 431.146875,
-            "token": "wow"
+            "end": 430.458875,
+            "token": "right"
         },
         {
-            "name": "spontC_017_okay",
+            "name": "spontC_346_yeah",
             "start": 431.95,
-            "end": 432.755625,
-            "token": "okay"
-        },
-        {
-            "name": "NR_022_no",
-            "start": 445.46,
-            "end": 446.62762499999997,
-            "token": "no"
-        },
-        {
-            "name": "spontF_177_yeah",
-            "start": 449.03,
-            "end": 449.539,
+            "end": 432.379125,
             "token": "yeah"
+        },
+        {
+            "name": "PR_043_right",
+            "start": 445.46,
+            "end": 446.12,
+            "token": "right"
+        },
+        {
+            "name": "spontB_324_mhm",
+            "start": 449.03,
+            "end": 449.807375,
+            "token": "mhm"
         }
     ]
 }

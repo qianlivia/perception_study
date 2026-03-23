@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01505",
     "context_channel": 0,
-    "context_text": "<B> no he really doesn't know much of what's going on uh he kinda asked me something today / <A> yeah / <B> he he ga he asked he's very observant you know he asked about the yellow ribbons / <A> ooh / <B> that everyone has out and he is like why are they there what are they p what are they for you know so { i } / <A> [ ooh ] / <B> explained th to him as best i could { and } / <A> [ yeah ]",
+    "context_text": "<B> no he really doesn't know much of what's going on uh he kinda asked me something today / <A> oh / <B> he he ga he asked he's very observant you know he asked about the yellow ribbons / <A> oh / <B> that everyone has out and he is like why are they there what are they p what are they for you know so { i } / <A> [ really ] / <B> explained th to him as best i could { and } / <A> [ right ]",
     "context_start": 498.28,
-    "context_end": 519.515625,
+    "context_end": 519.329375,
     "feedback": [
         {
-            "name": "spontA_422_yeah",
+            "name": "spontE_295_oh",
             "start": 505.25,
-            "end": 505.8135,
-            "token": "yeah"
+            "end": 505.994125,
+            "token": "oh"
         },
         {
-            "name": "spontE_283_ooh",
+            "name": "Sy_069_oh",
             "start": 510.05,
-            "end": 511.02225,
-            "token": "ooh"
+            "end": 511.209,
+            "token": "oh"
         },
         {
-            "name": "spontC_185_ooh",
+            "name": "sun2_001_really",
             "start": 515.51,
-            "end": 516.276875,
-            "token": "ooh"
+            "end": 516.240625,
+            "token": "really"
         },
         {
-            "name": "PR_061_yeah",
+            "name": "sun_028_right",
             "start": 518.6,
-            "end": 519.515625,
-            "token": "yeah"
+            "end": 519.329375,
+            "token": "right"
         }
     ]
 }

@@ -1,27 +1,27 @@
 {
     "name": "fe_03_01415",
     "context_channel": 0,
-    "context_text": "<B> um as far as my daughter is concerned she's only five she's not totally aware of what's going on but try to explain to her you know what she needs to do in case she's not with me you know { um } / <A> [ wow ] / <B> stuff like that also um as far as monies in the bank and stuff like { that } / <A> [ wow ] / <B> i try to monitor to see what's going on so that at least if anything happens { you } / <A> [ no ]",
+    "context_text": "<B> um as far as my daughter is concerned she's only five she's not totally aware of what's going on but try to explain to her you know what she needs to do in case she's not with me you know { um } / <A> [ right ] / <B> stuff like that also um as far as monies in the bank and stuff like { that } / <A> [ right ] / <B> i try to monitor to see what's going on so that at least if anything happens { you } / <A> [ yeah ]",
     "context_start": 88.24,
-    "context_end": 119.185,
+    "context_end": 119.015875,
     "feedback": [
         {
-            "name": "PS_071_wow",
+            "name": "sun_007_right",
             "start": 102.79,
-            "end": 103.69175000000001,
-            "token": "wow"
+            "end": 103.6795,
+            "token": "right"
         },
         {
-            "name": "PS_092_wow",
+            "name": "sun1_029_right",
             "start": 110.65,
-            "end": 111.567125,
-            "token": "wow"
+            "end": 111.342,
+            "token": "right"
         },
         {
-            "name": "spontA_267_no",
+            "name": "spontC_299_yeah",
             "start": 118.39,
-            "end": 119.185,
-            "token": "no"
+            "end": 119.015875,
+            "token": "yeah"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01463",
     "context_channel": 0,
-    "context_text": "<B> well um i haven't intentionally not flown { but } / <A> [ yeah ] / <B> but um i don't to begin with i wasn't a person that flew more than maybe once or twice a year { anyways } / <A> [ mhm ] / <B> to visit family and all my family is within the united states / <A> yeah / <B> uh but um i live in in a part of texas that's uh outside of dallas / <A> wow",
+    "context_text": "<B> well um i haven't intentionally not flown { but } / <A> [ right ] / <B> but um i don't to begin with i wasn't a person that flew more than maybe once or twice a year { anyways } / <A> [ oh ] / <B> to visit family and all my family is within the united states / <A> right / <B> uh but um i live in in a part of texas that's uh outside of dallas / <A> yeah",
     "context_start": 93.1,
-    "context_end": 119.235,
+    "context_end": 118.170125,
     "feedback": [
         {
-            "name": "spontD_145_yeah",
+            "name": "sun1_032_right",
             "start": 97.46,
-            "end": 98.133625,
-            "token": "yeah"
+            "end": 98.30337499999999,
+            "token": "right"
         },
         {
-            "name": "spontF_315_mhm",
+            "name": "PS_015_oh",
             "start": 104.31,
-            "end": 105.013875,
-            "token": "mhm"
+            "end": 105.3715,
+            "token": "oh"
         },
         {
-            "name": "spontD_338_yeah",
+            "name": "sun1_029_right",
             "start": 109.46,
-            "end": 110.115375,
-            "token": "yeah"
+            "end": 110.15199999999999,
+            "token": "right"
         },
         {
-            "name": "PS_155_wow",
+            "name": "spontE_274_yeah",
             "start": 117.44,
-            "end": 119.235,
-            "token": "wow"
+            "end": 118.170125,
+            "token": "yeah"
         }
     ]
 }

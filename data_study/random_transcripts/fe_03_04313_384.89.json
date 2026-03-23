@@ -1,38 +1,38 @@
 {
     "name": "fe_03_04313",
     "context_channel": 0,
-    "context_text": "<B> yeah she finally broke she finally came out she okay for my whole life she lied to me { my } / <A> [ no ] / <B> whole life she told me that she had that he had died / <A> mhm / <B> and then finally around what six months ago when she went into a coma { and she } / <A> [ yeah ] / <B> came out of it and she was alive / <A> exactly / <B> all of a sudden she wanted to tell me the truth so that's when i found his name and everything like that and blah blah blah blah / <A> right",
+    "context_text": "<B> yeah she finally broke she finally came out she okay for my whole life she lied to me { my } / <A> [ mhm ] / <B> whole life she told me that she had that he had died / <A> oh / <B> and then finally around what six months ago when she went into a coma { and she } / <A> [ right ] / <B> came out of it and she was alive / <A> yeah / <B> all of a sudden she wanted to tell me the truth so that's when i found his name and everything like that and blah blah blah blah / <A> right",
     "context_start": 384.89,
-    "context_end": 405.185125,
+    "context_end": 405.403125,
     "feedback": [
         {
-            "name": "NR_098_no",
+            "name": "sun_017_mhm",
             "start": 389.41,
-            "end": 389.9055,
-            "token": "no"
-        },
-        {
-            "name": "spontD_347_mhm",
-            "start": 391.86,
-            "end": 392.53725000000003,
+            "end": 390.361625,
             "token": "mhm"
         },
         {
-            "name": "spontD_205_yeah",
+            "name": "sun1_010_oh",
+            "start": 391.86,
+            "end": 392.59675,
+            "token": "oh"
+        },
+        {
+            "name": "sun1_030_right",
             "start": 396.68,
-            "end": 397.384625,
+            "end": 397.473625,
+            "token": "right"
+        },
+        {
+            "name": "spontC_504_yeah",
+            "start": 398.97,
+            "end": 399.457375,
             "token": "yeah"
         },
         {
-            "name": "sun_038_exactly",
-            "start": 398.97,
-            "end": 400.05550000000005,
-            "token": "exactly"
-        },
-        {
-            "name": "PR_048_right",
+            "name": "sun1_033_right",
             "start": 404.55,
-            "end": 405.185125,
+            "end": 405.403125,
             "token": "right"
         }
     ]

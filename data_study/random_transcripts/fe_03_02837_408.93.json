@@ -1,27 +1,27 @@
 {
     "name": "fe_03_02837",
     "context_channel": 1,
-    "context_text": "<A> know what what the how the school is run / <B> yeah / <A> you know check check out with the other teachers and see { what } / <B> [ yes ] / <A> they feel about it / <B> wow",
+    "context_text": "<A> know what what the how the school is run / <B> right / <A> you know check check out with the other teachers and see { what } / <B> [ yeah ] / <A> they feel about it / <B> yeah",
     "context_start": 408.93,
-    "context_end": 419.127125,
+    "context_end": 418.912,
     "feedback": [
         {
-            "name": "spontC_007_yeah",
+            "name": "sun1_032_right",
             "start": 412.7,
-            "end": 413.15725,
+            "end": 413.54337499999997,
+            "token": "right"
+        },
+        {
+            "name": "spontA_208_yeah",
+            "start": 416.34,
+            "end": 417.134125,
             "token": "yeah"
         },
         {
-            "name": "PR_003_yes",
-            "start": 416.34,
-            "end": 417.921875,
-            "token": "yes"
-        },
-        {
-            "name": "PS_092_wow",
+            "name": "spontF_127_yeah",
             "start": 418.21,
-            "end": 419.127125,
-            "token": "wow"
+            "end": 418.912,
+            "token": "yeah"
         }
     ]
 }

@@ -1,27 +1,27 @@
 {
     "name": "fe_03_05600",
     "context_channel": 1,
-    "context_text": "<A> uh someone else from the area it's like from man manhattan from manhattan / <B> mhm / <A> i was talking to him well uh is it different now uh the skyline is different in in new york / <B> uh-huh / <A> and uh and and bush is is is trying to and you know is trying to end is trying to like peace you know / <B> uh-huh",
+    "context_text": "<A> uh someone else from the area it's like from man manhattan from manhattan / <B> yeah / <A> i was talking to him well uh is it different now uh the skyline is different in in new york / <B> mhm / <A> and uh and and bush is is is trying to and you know is trying to end is trying to like peace you know / <B> wow",
     "context_start": 41.06,
-    "context_end": 64.9405,
+    "context_end": 65.566625,
     "feedback": [
         {
-            "name": "spontD_133_mhm",
+            "name": "sun1_011_yeah",
             "start": 47.25,
-            "end": 47.89025,
+            "end": 47.915875,
+            "token": "yeah"
+        },
+        {
+            "name": "NS_071_mhm",
+            "start": 54.45,
+            "end": 55.538000000000004,
             "token": "mhm"
         },
         {
-            "name": "spontD_206_uh-huh",
-            "start": 54.45,
-            "end": 55.078500000000005,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontC_133_uh-huh",
+            "name": "PS_078_wow",
             "start": 64.48,
-            "end": 64.9405,
-            "token": "uh-huh"
+            "end": 65.566625,
+            "token": "wow"
         }
     ]
 }

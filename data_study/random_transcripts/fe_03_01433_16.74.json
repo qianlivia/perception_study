@@ -1,9 +1,9 @@
 {
     "name": "fe_03_01433",
     "context_channel": 1,
-    "context_text": "<A> [ oh yeah oh ] okay um all right well i'll give it a shot um well since september eleventh um i've been depressed / <B> yeah / <A> and i've been um more uh involved with my family uh because it makes you realize you know just how you can't take things for granted and that any moment things can be pulled away from you / <B> yes / <A> um and uh i've been uh i guess car i guess i've been more making things more of a home like uh making sure to converse with them more i've also been hugging everybody more / <B> ah / <A> because you know i you just took it for granted that they were there you know and like the towers they were just always there you know { i knew } / <B> [ yeah ]",
+    "context_text": "<A> [ oh yeah oh ] okay um all right well i'll give it a shot um well since september eleventh um i've been depressed / <B> yeah / <A> and i've been um more uh involved with my family uh because it makes you realize you know just how you can't take things for granted and that any moment things can be pulled away from you / <B> right / <A> um and uh i've been uh i guess car i guess i've been more making things more of a home like uh making sure to converse with them more i've also been hugging everybody more / <B> exactly / <A> because you know i you just took it for granted that they were there you know and like the towers they were just always there you know { i knew } / <B> [ uh-huh ]",
     "context_start": 16.74,
-    "context_end": 53.923375,
+    "context_end": 54.01225,
     "feedback": [
         {
             "name": "spontC_324_yeah",
@@ -12,22 +12,22 @@
             "token": "yeah"
         },
         {
-            "name": "PR_024_yes",
+            "name": "sun1_029_right",
             "start": 35.75,
-            "end": 36.7475,
-            "token": "yes"
+            "end": 36.442,
+            "token": "right"
         },
         {
-            "name": "PS_198_ah",
+            "name": "sun_041_exactly",
             "start": 46.64,
-            "end": 48.0,
-            "token": "ah"
+            "end": 47.593,
+            "token": "exactly"
         },
         {
-            "name": "spontF_497_yeah",
+            "name": "spontF_359_uh-huh",
             "start": 53.36,
-            "end": 53.923375,
-            "token": "yeah"
+            "end": 54.01225,
+            "token": "uh-huh"
         }
     ]
 }

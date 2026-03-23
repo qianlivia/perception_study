@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00647",
     "context_channel": 0,
-    "context_text": "<B> uh i read a lot on ashcroft before he became attorney general { and } / <A> [ oh ] / <B> it's like this is so strange that all these / <A> yeah / <B> things sort of fit in you know not that i really believe { the } / <A> [ mhm ] / <B> government would have something to do with it but / <A> yeah",
+    "context_text": "<B> uh i read a lot on ashcroft before he became attorney general { and } / <A> [ yeah ] / <B> it's like this is so strange that all these / <A> oh / <B> things sort of fit in you know not that i really believe { the } / <A> [ right ] / <B> government would have something to do with it but / <A> mhm",
     "context_start": 253.16,
-    "context_end": 269.19875,
+    "context_end": 269.137875,
     "feedback": [
         {
-            "name": "Sy_039_oh",
+            "name": "spontA_422_yeah",
             "start": 257.93,
-            "end": 259.2255,
+            "end": 258.4935,
+            "token": "yeah"
+        },
+        {
+            "name": "Sy_056_oh",
+            "start": 262.06,
+            "end": 263.34612500000003,
             "token": "oh"
         },
         {
-            "name": "spontE_091_yeah",
-            "start": 262.06,
-            "end": 262.640125,
-            "token": "yeah"
-        },
-        {
-            "name": "spontE_171_mhm",
+            "name": "sun1_029_right",
             "start": 266.17,
-            "end": 266.76412500000004,
-            "token": "mhm"
+            "end": 266.862,
+            "token": "right"
         },
         {
-            "name": "spontA_316_yeah",
+            "name": "spontA_379_mhm",
             "start": 268.62,
-            "end": 269.19875,
-            "token": "yeah"
+            "end": 269.137875,
+            "token": "mhm"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03009",
     "context_channel": 1,
-    "context_text": "<A> yeah i don't know how much my son makes cause he's never told me and i've never asked he is the communication systems um coordinator for the country music association / <B> uh-huh / <A> yeah and he just really got lucky to get the job i well i say lucky he'd had some talent / <B> mhm / <A> but when he graduated from college he had two opportunities and he wanted to take one of them / <B> oh / <A> that wasn't his it was a mm a kind of a more negative experience / <B> oh",
+    "context_text": "<A> yeah i don't know how much my son makes cause he's never told me and i've never asked he is the communication systems um coordinator for the country music association / <B> yeah / <A> yeah and he just really got lucky to get the job i well i say lucky he'd had some talent / <B> uh-huh / <A> but when he graduated from college he had two opportunities and he wanted to take one of them / <B> uh-huh / <A> that wasn't his it was a mm a kind of a more negative experience / <B> mhm",
     "context_start": 412.69,
-    "context_end": 443.7895,
+    "context_end": 444.04575,
     "feedback": [
         {
-            "name": "spontA_158_uh-huh",
+            "name": "spontC_174_yeah",
             "start": 425.01,
-            "end": 425.532375,
+            "end": 425.6535,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_401_uh-huh",
+            "start": 431.92,
+            "end": 432.5785,
             "token": "uh-huh"
         },
         {
-            "name": "spontC_111_mhm",
-            "start": 431.92,
-            "end": 432.35150000000004,
-            "token": "mhm"
-        },
-        {
-            "name": "NS_101_oh",
+            "name": "spontC_370_uh-huh",
             "start": 437.52,
-            "end": 438.43899999999996,
-            "token": "oh"
+            "end": 438.006625,
+            "token": "uh-huh"
         },
         {
-            "name": "spontF_109_oh",
+            "name": "spontC_356_mhm",
             "start": 443.45,
-            "end": 443.7895,
-            "token": "oh"
+            "end": 444.04575,
+            "token": "mhm"
         }
     ]
 }

@@ -1,45 +1,45 @@
 {
     "name": "fe_03_00719",
     "context_channel": 0,
-    "context_text": "<B> mhm and i i mean it it's an out for him but i don't think he wants an out / <A> uh-huh / <B> i think he wants to test us / <A> yeah / <B> and h he wants to blow up his little oil fields a and you know because he said he would / <A> mhm / <B> and that would be what he meant what he said was it would break america's neck / <A> ooh / <B> and that is what it would do / <A> wow / <B> it is true / <A> yeah",
+    "context_text": "<B> mhm and i i mean it it's an out for him but i don't think he wants an out / <A> yeah / <B> i think he wants to test us / <A> exactly / <B> and h he wants to blow up his little oil fields a and you know because he said he would / <A> right / <B> and that would be what he meant what he said was it would break america's neck / <A> yeah / <B> and that is what it would do / <A> mhm / <B> it is true / <A> really",
     "context_start": 409.65,
-    "context_end": 432.986125,
+    "context_end": 432.93225,
     "feedback": [
         {
-            "name": "spontC_091_uh-huh",
+            "name": "spontD_323_yeah",
             "start": 414.99,
-            "end": 415.5085,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontC_324_yeah",
-            "start": 417.43,
-            "end": 418.037875,
+            "end": 415.7955,
             "token": "yeah"
         },
         {
-            "name": "PR_046_mhm",
+            "name": "sun_041_exactly",
+            "start": 417.43,
+            "end": 418.383,
+            "token": "exactly"
+        },
+        {
+            "name": "sun1_029_right",
             "start": 423.95,
-            "end": 424.88975,
+            "end": 424.642,
+            "token": "right"
+        },
+        {
+            "name": "spontD_287_yeah",
+            "start": 428.94,
+            "end": 429.39775,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_355_mhm",
+            "start": 430.69,
+            "end": 431.228,
             "token": "mhm"
         },
         {
-            "name": "spontA_094_ooh",
-            "start": 428.94,
-            "end": 429.913625,
-            "token": "ooh"
-        },
-        {
-            "name": "PS_157_wow",
-            "start": 430.69,
-            "end": 432.154,
-            "token": "wow"
-        },
-        {
-            "name": "spontF_289_yeah",
+            "name": "NS_082_really",
             "start": 432.18,
-            "end": 432.986125,
-            "token": "yeah"
+            "end": 432.93225,
+            "token": "really"
         }
     ]
 }

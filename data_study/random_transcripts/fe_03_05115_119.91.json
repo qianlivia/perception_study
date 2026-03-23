@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05115",
     "context_channel": 1,
-    "context_text": "<A> um one time you know i thought he was really good they're talking about how people were protesting the us in the streets over there in iraq and everything / <B> yes / <A> and his comment was to that it was um that's good you know now they're free and they can finally do that whereas if they did that before they'd be killed / <B> yeah / <A> which is good you know um / <B> no / <A> yeah i think it is eliminating a threat in some way um i just hope we don't try to take over their economy and { it } / <B> [ yeah ]",
+    "context_text": "<A> um one time you know i thought he was really good they're talking about how people were protesting the us in the streets over there in iraq and everything / <B> mhm / <A> and his comment was to that it was um that's good you know now they're free and they can finally do that whereas if they did that before they'd be killed / <B> yeah / <A> which is good you know um / <B> right / <A> yeah i think it is eliminating a threat in some way um i just hope we don't try to take over their economy and { it } / <B> [ exactly ]",
     "context_start": 119.91,
-    "context_end": 149.00775000000002,
+    "context_end": 149.6355,
     "feedback": [
         {
-            "name": "sun1_028_yes",
+            "name": "spontA_358_mhm",
             "start": 128.88,
-            "end": 129.850125,
-            "token": "yes"
+            "end": 129.378625,
+            "token": "mhm"
         },
         {
-            "name": "spontB_157_yeah",
+            "name": "spontD_230_yeah",
             "start": 137.36,
-            "end": 138.031875,
+            "end": 137.9855,
             "token": "yeah"
         },
         {
-            "name": "NR_032_no",
+            "name": "sun1_031_right",
             "start": 138.99,
-            "end": 139.8665,
-            "token": "no"
+            "end": 139.78425000000001,
+            "token": "right"
         },
         {
-            "name": "spontD_287_yeah",
+            "name": "sun_038_exactly",
             "start": 148.55,
-            "end": 149.00775000000002,
-            "token": "yeah"
+            "end": 149.6355,
+            "token": "exactly"
         }
     ]
 }

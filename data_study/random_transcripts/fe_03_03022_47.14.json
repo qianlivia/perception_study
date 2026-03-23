@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03022",
     "context_channel": 0,
-    "context_text": "<B> good well what i recommend if you're gonna get a dog is to do a lot of research and make sure you get a breed that's gonna be that's gonna suit your lifestyle / <A> mhm / <B> um my cousin for instance got a jack russell terrier and it tore her house apart { because she } / <A> [ yeah ] / <B> didn't give it they have a lot of energy like border collies have a lot of energy / <A> ah / <B> uh a lot of the hunting dogs weimaraners things like that you have to walk 'em a lot i have a german shepherd / <A> yeah",
+    "context_text": "<B> good well what i recommend if you're gonna get a dog is to do a lot of research and make sure you get a breed that's gonna be that's gonna suit your lifestyle / <A> mhm / <B> um my cousin for instance got a jack russell terrier and it tore her house apart { because she } / <A> [ yeah ] / <B> didn't give it they have a lot of energy like border collies have a lot of energy / <A> mhm / <B> uh a lot of the hunting dogs weimaraners things like that you have to walk 'em a lot i have a german shepherd / <A> really",
     "context_start": 47.14,
-    "context_end": 75.4245,
+    "context_end": 75.42649999999999,
     "feedback": [
         {
-            "name": "spontE_268_mhm",
+            "name": "spontE_294_mhm",
             "start": 57.19,
-            "end": 57.757875,
+            "end": 57.788125,
             "token": "mhm"
         },
         {
-            "name": "spontE_290_yeah",
+            "name": "spontC_084_yeah",
             "start": 63.06,
-            "end": 63.854125,
+            "end": 63.487500000000004,
             "token": "yeah"
         },
         {
-            "name": "spontB_148_ah",
+            "name": "PR_046_mhm",
             "start": 68.12,
-            "end": 69.07287500000001,
-            "token": "ah"
+            "end": 69.05975000000001,
+            "token": "mhm"
         },
         {
-            "name": "spontE_161_yeah",
+            "name": "NS_002_really",
             "start": 74.57,
-            "end": 75.4245,
-            "token": "yeah"
+            "end": 75.42649999999999,
+            "token": "really"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04805",
     "context_channel": 1,
-    "context_text": "<A> yeah but here's the thing you g you go outside the city you go across the border into like jersey or pennsylvania / <B> no / <A> and there's a whole industry set up for cigarettes just uh so you can bypass the city taxes / <B> no / <A> though they're supposed to be cracking down on that and making it a uniform price in most of the northeast i think they're having a little problem with the other states because { it } / <B> [ yeah ] / <A> would interfere with you know like pennsylvania compared to new york is uh maybe a fifth of the size in population / <B> wow",
+    "context_text": "<A> yeah but here's the thing you g you go outside the city you go across the border into like jersey or pennsylvania / <B> okay / <A> and there's a whole industry set up for cigarettes just uh so you can bypass the city taxes / <B> right / <A> though they're supposed to be cracking down on that and making it a uniform price in most of the northeast i think they're having a little problem with the other states because { it } / <B> [ mhm ] / <A> would interfere with you know like pennsylvania compared to new york is uh maybe a fifth of the size in population / <B> mhm",
     "context_start": 444.71,
-    "context_end": 477.367,
+    "context_end": 476.839125,
     "feedback": [
         {
-            "name": "NR_085_no",
+            "name": "spontA_198_okay",
             "start": 450.05,
-            "end": 450.92287500000003,
-            "token": "no"
+            "end": 450.719625,
+            "token": "okay"
         },
         {
-            "name": "NR_052_no",
+            "name": "PR_048_right",
             "start": 458.26,
-            "end": 459.010625,
-            "token": "no"
+            "end": 458.895125,
+            "token": "right"
         },
         {
-            "name": "spontC_092_yeah",
+            "name": "spontB_312_mhm",
             "start": 468.09,
-            "end": 468.558875,
-            "token": "yeah"
+            "end": 468.75174999999996,
+            "token": "mhm"
         },
         {
-            "name": "PS_082_wow",
+            "name": "spontB_154_mhm",
             "start": 476.24,
-            "end": 477.367,
-            "token": "wow"
+            "end": 476.839125,
+            "token": "mhm"
         }
     ]
 }

@@ -1,45 +1,45 @@
 {
     "name": "fe_03_05675",
     "context_channel": 1,
-    "context_text": "<A> well he's taken care of it very well you know he's he's cut the taxes for the most wealthy in the country he's taking away as much as he can from everybody else he's going to destroy the health insurance system / <B> yeah / <A> uh he's working on dismantling medicare / <B> yes / <A> um raising taxes ah on the state and local level / <B> no / <A> which compensate for the ah federal tax cuts i mean he's doing he's doing everything for this for the people i / <B> uh-huh / <A> mean you'll you'll see that he it's he's dismantling more and more social service programs / <B> oh / <A> uh because he doesn't have to pay for them / <B> mhm",
+    "context_text": "<A> well he's taken care of it very well you know he's he's cut the taxes for the most wealthy in the country he's taking away as much as he can from everybody else he's going to destroy the health insurance system / <B> right / <A> uh he's working on dismantling medicare / <B> yeah / <A> um raising taxes ah on the state and local level / <B> uh-huh / <A> which compensate for the ah federal tax cuts i mean he's doing he's doing everything for this for the people i / <B> mhm / <A> mean you'll you'll see that he it's he's dismantling more and more social service programs / <B> mhm / <A> uh because he doesn't have to pay for them / <B> wow",
     "context_start": 335.88,
-    "context_end": 378.307125,
+    "context_end": 378.18525,
     "feedback": [
         {
-            "name": "spontD_408_yeah",
+            "name": "sun_028_right",
             "start": 347.74,
-            "end": 348.466375,
+            "end": 348.469375,
+            "token": "right"
+        },
+        {
+            "name": "spontD_353_yeah",
+            "start": 351.03,
+            "end": 351.64874999999995,
             "token": "yeah"
         },
         {
-            "name": "sun_023_yes",
-            "start": 351.03,
-            "end": 351.86887499999995,
-            "token": "yes"
-        },
-        {
-            "name": "spontE_345_no",
+            "name": "spontB_198_uh-huh",
             "start": 356.06,
-            "end": 356.8145,
-            "token": "no"
-        },
-        {
-            "name": "spontD_021_uh-huh",
-            "start": 363.49,
-            "end": 363.94175,
+            "end": 356.55325,
             "token": "uh-huh"
         },
         {
-            "name": "NS_101_oh",
-            "start": 374.68,
-            "end": 375.599,
-            "token": "oh"
+            "name": "spontF_281_mhm",
+            "start": 363.49,
+            "end": 364.392375,
+            "token": "mhm"
         },
         {
-            "name": "PR_045_mhm",
-            "start": 377.38,
-            "end": 378.307125,
+            "name": "spontA_239_mhm",
+            "start": 374.68,
+            "end": 375.192375,
             "token": "mhm"
+        },
+        {
+            "name": "PS_183_wow",
+            "start": 377.38,
+            "end": 378.18525,
+            "token": "wow"
         }
     ]
 }

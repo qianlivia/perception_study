@@ -1,27 +1,27 @@
 {
     "name": "fe_03_00103",
     "context_channel": 0,
-    "context_text": "<B> and i actually watched it in israel which is where i am from / <A> yeah / <B> and i watched after we knew who the survivor was so / <A> yeah / <B> a great element of of you know like the t trying to figure out and guessing and stuff was lost / <A> yeah",
+    "context_text": "<B> and i actually watched it in israel which is where i am from / <A> really / <B> and i watched after we knew who the survivor was so / <A> oh / <B> a great element of of you know like the t trying to figure out and guessing and stuff was lost / <A> mhm",
     "context_start": 75.43,
-    "context_end": 89.583125,
+    "context_end": 89.91775,
     "feedback": [
         {
-            "name": "spontE_297_yeah",
+            "name": "NS_082_really",
             "start": 78.72,
-            "end": 79.41125,
-            "token": "yeah"
+            "end": 79.47225,
+            "token": "really"
         },
         {
-            "name": "spontF_310_yeah",
+            "name": "spontF_288_oh",
             "start": 82.46,
-            "end": 83.34949999999999,
-            "token": "yeah"
+            "end": 83.32987499999999,
+            "token": "oh"
         },
         {
-            "name": "spontE_355_yeah",
+            "name": "spontB_212_mhm",
             "start": 89.14,
-            "end": 89.583125,
-            "token": "yeah"
+            "end": 89.91775,
+            "token": "mhm"
         }
     ]
 }

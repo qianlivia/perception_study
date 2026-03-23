@@ -1,39 +1,39 @@
 {
     "name": "fe_03_02935",
     "context_channel": 1,
-    "context_text": "<A> ye yeah i mean you can watch i do i will i do like to watch the olympics you know when / <B> mhm / <A> those are on cause i i like to watch that type of sport you { know } / <B> [ ooh ] / <A> diving and uh now the figure skatin figure skating i used to like it and it's gotten a little annoying over the last couple of years but / <B> ooh / <A> all a bunch of prima donnas but i don't know my wife actually used to work for uh us swimming we used to live in colorado springs / <B> mhm / <A> and she worked for um us swimming at the uh us olympic training center / <B> absolutely",
+    "context_text": "<A> ye yeah i mean you can watch i do i will i do like to watch the olympics you know when / <B> right / <A> those are on cause i i like to watch that type of sport you { know } / <B> [ right ] / <A> diving and uh now the figure skatin figure skating i used to like it and it's gotten a little annoying over the last couple of years but / <B> right / <A> all a bunch of prima donnas but i don't know my wife actually used to work for uh us swimming we used to live in colorado springs / <B> really / <A> and she worked for um us swimming at the uh us olympic training center / <B> really",
     "context_start": 546.06,
-    "context_end": 579.392125,
+    "context_end": 578.9064999999999,
     "feedback": [
         {
-            "name": "spontE_225_mhm",
+            "name": "sun_007_right",
             "start": 550.2,
-            "end": 550.666,
-            "token": "mhm"
+            "end": 551.0895,
+            "token": "right"
         },
         {
-            "name": "spontF_486_ooh",
+            "name": "sun1_033_right",
             "start": 553.45,
-            "end": 554.4418750000001,
-            "token": "ooh"
+            "end": 554.303125,
+            "token": "right"
         },
         {
-            "name": "PS_186_ooh",
+            "name": "sun_028_right",
             "start": 561.17,
-            "end": 561.7584999999999,
-            "token": "ooh"
+            "end": 561.899375,
+            "token": "right"
         },
         {
-            "name": "spontA_120_mhm",
+            "name": "PS_019_really",
             "start": 571.34,
-            "end": 571.794875,
-            "token": "mhm"
+            "end": 572.1295,
+            "token": "really"
         },
         {
-            "name": "sun_035_absolutely",
+            "name": "NS_002_really",
             "start": 578.05,
-            "end": 579.392125,
-            "token": "absolutely"
+            "end": 578.9064999999999,
+            "token": "really"
         }
     ]
 }

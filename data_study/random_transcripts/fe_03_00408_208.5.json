@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00408",
     "context_channel": 1,
-    "context_text": "<A> it's um undergr no it's in a university level { it's an } / <B> [ no ] / <A> undergrad class but i'm { a } / <B> [ mhm ] / <A> graduate student / <B> yeah / <A> so basically i mean i i i like computers as as a tool of communication um but i am skeptical in the sense that it's always good for us to ah create some realities through the computers like / <B> uh-huh",
+    "context_text": "<A> it's um undergr no it's in a university level { it's an } / <B> [ mhm ] / <A> undergrad class but i'm { a } / <B> [ mhm ] / <A> graduate student / <B> uh-huh / <A> so basically i mean i i i like computers as as a tool of communication um but i am skeptical in the sense that it's always good for us to ah create some realities through the computers like / <B> really",
     "context_start": 208.5,
-    "context_end": 233.72687499999998,
+    "context_end": 233.9965,
     "feedback": [
         {
-            "name": "spontA_381_no",
+            "name": "spontC_388_mhm",
             "start": 213.16,
-            "end": 213.91625,
-            "token": "no"
-        },
-        {
-            "name": "spontC_111_mhm",
-            "start": 214.93,
-            "end": 215.3615,
+            "end": 213.7065,
             "token": "mhm"
         },
         {
-            "name": "spontF_261_yeah",
-            "start": 216.36,
-            "end": 216.91875000000002,
-            "token": "yeah"
+            "name": "spontA_282_mhm",
+            "start": 214.93,
+            "end": 215.486625,
+            "token": "mhm"
         },
         {
-            "name": "spontF_180_uh-huh",
-            "start": 233.14,
-            "end": 233.72687499999998,
+            "name": "spontC_189_uh-huh",
+            "start": 216.36,
+            "end": 216.84025000000003,
             "token": "uh-huh"
+        },
+        {
+            "name": "NS_002_really",
+            "start": 233.14,
+            "end": 233.9965,
+            "token": "really"
         }
     ]
 }

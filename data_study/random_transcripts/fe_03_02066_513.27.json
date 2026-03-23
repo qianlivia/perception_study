@@ -1,39 +1,39 @@
 {
     "name": "fe_03_02066",
     "context_channel": 0,
-    "context_text": "<B> that are asked because you and i may have a opinion and someone else may have another / <A> yeah / <B> totally different from what w uh we're talking about they move people move to different cities for jobs and things of that sort / <A> mhm / <B> what is -ever 's available in that city i moved here b because i retired { but you're } / <A> [ oh ] / <B> here because you're in the military / <A> uh-huh / <B> there's always a reason / <A> yeah",
+    "context_text": "<B> that are asked because you and i may have a opinion and someone else may have another / <A> mhm / <B> totally different from what w uh we're talking about they move people move to different cities for jobs and things of that sort / <A> uh-huh / <B> what is -ever 's available in that city i moved here b because i retired { but you're } / <A> [ right ] / <B> here because you're in the military / <A> mhm / <B> there's always a reason / <A> mhm",
     "context_start": 513.27,
-    "context_end": 536.0796250000001,
+    "context_end": 535.9266250000001,
     "feedback": [
         {
-            "name": "spontC_266_yeah",
+            "name": "PR_051_mhm",
             "start": 518.42,
-            "end": 518.979375,
-            "token": "yeah"
-        },
-        {
-            "name": "spontB_307_mhm",
-            "start": 525.96,
-            "end": 526.5673750000001,
+            "end": 519.24275,
             "token": "mhm"
         },
         {
-            "name": "spontD_379_oh",
-            "start": 531.05,
-            "end": 532.147125,
-            "token": "oh"
-        },
-        {
-            "name": "spontD_276_uh-huh",
-            "start": 533.53,
-            "end": 533.971375,
+            "name": "spontE_040_uh-huh",
+            "start": 525.96,
+            "end": 526.490125,
             "token": "uh-huh"
         },
         {
-            "name": "spontD_267_yeah",
+            "name": "spontC_360_right",
+            "start": 531.05,
+            "end": 531.628875,
+            "token": "right"
+        },
+        {
+            "name": "spontD_190_mhm",
+            "start": 533.53,
+            "end": 534.0375,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_288_mhm",
             "start": 535.33,
-            "end": 536.0796250000001,
-            "token": "yeah"
+            "end": 535.9266250000001,
+            "token": "mhm"
         }
     ]
 }

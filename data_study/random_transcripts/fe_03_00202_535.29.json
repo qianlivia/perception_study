@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00202",
     "context_channel": 0,
-    "context_text": "<B> because i i had always known about hanukkah { but i'd } / <A> [ no ] / <B> but i'd never known that that was kind of secondary in that these two holidays were much more important { and } / <A> [ absolutely ] / <B> um kind of when they started giving them off it was something that um i realized and that / <A> uh-huh / <B> i saw but { that was just one } / <A> [ no ]",
+    "context_text": "<B> because i i had always known about hanukkah { but i'd } / <A> [ mhm ] / <B> but i'd never known that that was kind of secondary in that these two holidays were much more important { and } / <A> [ mhm ] / <B> um kind of when they started giving them off it was something that um i realized and that / <A> yeah / <B> i saw but { that was just one } / <A> [ really ]",
     "context_start": 535.29,
-    "context_end": 555.70475,
+    "context_end": 555.79225,
     "feedback": [
         {
-            "name": "NR_002_no",
+            "name": "spontE_120_mhm",
             "start": 539.24,
-            "end": 540.009125,
-            "token": "no"
+            "end": 539.77425,
+            "token": "mhm"
         },
         {
-            "name": "sun_002_absolutely",
+            "name": "spontA_408_mhm",
             "start": 544.92,
-            "end": 545.9654999999999,
-            "token": "absolutely"
+            "end": 545.437875,
+            "token": "mhm"
         },
         {
-            "name": "spontE_090_uh-huh",
+            "name": "spontA_422_yeah",
             "start": 551.95,
-            "end": 552.491625,
-            "token": "uh-huh"
+            "end": 552.5135,
+            "token": "yeah"
         },
         {
-            "name": "NR_120_no",
+            "name": "NS_082_really",
             "start": 555.04,
-            "end": 555.70475,
-            "token": "no"
+            "end": 555.79225,
+            "token": "really"
         }
     ]
 }

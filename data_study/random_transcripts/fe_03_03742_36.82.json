@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03742",
     "context_channel": 0,
-    "context_text": "<B> well i make minimum wage uh uh officially as / <A> uh-huh / <B> part of my waitress job { but yeah } / <A> [ yeah ] / <B> you get tips on top of that but the restaurant will only pay you minimum wage so i know / <A> oh / <B> it's seventy five / <A> sure",
+    "context_text": "<B> well i make minimum wage uh uh officially as / <A> yeah / <B> part of my waitress job { but yeah } / <A> [ okay ] / <B> you get tips on top of that but the restaurant will only pay you minimum wage so i know / <A> yeah / <B> it's seventy five / <A> right",
     "context_start": 36.82,
-    "context_end": 49.43575,
+    "context_end": 49.2935,
     "feedback": [
         {
-            "name": "spontC_189_uh-huh",
+            "name": "spontC_077_yeah",
             "start": 41.27,
-            "end": 41.75025,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontD_393_yeah",
-            "start": 43.35,
-            "end": 43.851875,
+            "end": 41.801625,
             "token": "yeah"
         },
         {
-            "name": "PS_104_oh",
-            "start": 46.82,
-            "end": 47.555875,
-            "token": "oh"
+            "name": "spontF_643_okay",
+            "start": 43.35,
+            "end": 44.058,
+            "token": "okay"
         },
         {
-            "name": "sun_050_sure",
+            "name": "spontB_299_yeah",
+            "start": 46.82,
+            "end": 47.4795,
+            "token": "yeah"
+        },
+        {
+            "name": "sun_013_right",
             "start": 48.42,
-            "end": 49.43575,
-            "token": "sure"
+            "end": 49.2935,
+            "token": "right"
         }
     ]
 }

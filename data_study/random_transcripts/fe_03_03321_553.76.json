@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03321",
     "context_channel": 0,
-    "context_text": "<B> um i think if you look on the whole if you look in communities there is these was just one day last week where i drove around our community you know and it was saturday morning it was little league it was there { was like this fishing thing } / <A> [ yeah ] / <B> going on their first holy communion was happening { and } / <A> [ oh ] / <B> it just really struck me and i said here we are just one little town { in this little } / <A> [ wow ] / <B> corner of pennsylvania i said and this is going on everywhere you know you got hundreds of thousands or tens of thousands of people volunteering and you know and and helping out and doing things and and doing good in the world you know and uh and and happy things happening / <A> yeah",
+    "context_text": "<B> um i think if you look on the whole if you look in communities there is these was just one day last week where i drove around our community you know and it was saturday morning it was little league it was there { was like this fishing thing } / <A> [ yeah ] / <B> going on their first holy communion was happening { and } / <A> [ yeah ] / <B> it just really struck me and i said here we are just one little town { in this little } / <A> [ mhm ] / <B> corner of pennsylvania i said and this is going on everywhere you know you got hundreds of thousands or tens of thousands of people volunteering and you know and and helping out and doing things and and doing good in the world you know and uh and and happy things happening / <A> mhm",
     "context_start": 553.76,
-    "context_end": 586.6495,
+    "context_end": 586.2965,
     "feedback": [
         {
-            "name": "spontC_247_yeah",
+            "name": "spontF_383_yeah",
             "start": 563.64,
-            "end": 564.312625,
+            "end": 564.144125,
             "token": "yeah"
         },
         {
-            "name": "spontF_288_oh",
+            "name": "spontD_365_yeah",
             "start": 567.01,
-            "end": 567.879875,
-            "token": "oh"
-        },
-        {
-            "name": "PS_079_wow",
-            "start": 570.72,
-            "end": 571.772,
-            "token": "wow"
-        },
-        {
-            "name": "spontE_196_yeah",
-            "start": 585.75,
-            "end": 586.6495,
+            "end": 567.86625,
             "token": "yeah"
+        },
+        {
+            "name": "spontD_344_mhm",
+            "start": 570.72,
+            "end": 571.2358750000001,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_388_mhm",
+            "start": 585.75,
+            "end": 586.2965,
+            "token": "mhm"
         }
     ]
 }

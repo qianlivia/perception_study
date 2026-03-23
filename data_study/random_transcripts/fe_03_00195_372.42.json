@@ -1,45 +1,45 @@
 {
     "name": "fe_03_00195",
     "context_channel": 0,
-    "context_text": "<B> just as ecstatic yeah i you know the funny thing is i was always like i was never a big fan of baseball / <A> uh-huh / <B> but um i ha uh but i did feel this sort of you know really strong devotion to baseball and but not as much as in boston i mean and i was i was born and raised in philly / <A> uh-huh / <B> and now being a transplant here in massachusetts for i don't know two two three years it just doesn't feel like this is like a significant event you know like this { is } / <A> [ yeah ] / <B> part of your culture and so you're bred this whole thing so / <A> no / <B> i mean at at work it's it's huge you / <A> ooh / <B> know everybody talks about it and it they're right on the game they know what's going on with all the players and it's like incredible and even to the the cashiers at the front end they all know about this stuff i'm like damn i gotta get involved because this is you know i'm looking like a complete fool not knowing anything about the game but um so it's amazing i mean i i didn't experience that in philadelphia as much yeah / <A> yeah",
+    "context_text": "<B> just as ecstatic yeah i you know the funny thing is i was always like i was never a big fan of baseball / <A> mhm / <B> but um i ha uh but i did feel this sort of you know really strong devotion to baseball and but not as much as in boston i mean and i was i was born and raised in philly / <A> really / <B> and now being a transplant here in massachusetts for i don't know two two three years it just doesn't feel like this is like a significant event you know like this { is } / <A> [ mhm ] / <B> part of your culture and so you're bred this whole thing so / <A> yeah / <B> i mean at at work it's it's huge you / <A> exactly / <B> know everybody talks about it and it they're right on the game they know what's going on with all the players and it's like incredible and even to the the cashiers at the front end they all know about this stuff i'm like damn i gotta get involved because this is you know i'm looking like a complete fool not knowing anything about the game but um so it's amazing i mean i i didn't experience that in philadelphia as much yeah / <A> okay",
     "context_start": 372.42,
-    "context_end": 425.337,
+    "context_end": 425.219375,
     "feedback": [
         {
-            "name": "spontA_277_uh-huh",
+            "name": "sun1_008_mhm",
             "start": 377.71,
-            "end": 378.26525,
-            "token": "uh-huh"
+            "end": 378.316,
+            "token": "mhm"
         },
         {
-            "name": "spontA_361_uh-huh",
+            "name": "PS_002_really",
             "start": 388.4,
-            "end": 388.915125,
-            "token": "uh-huh"
+            "end": 389.19287499999996,
+            "token": "really"
         },
         {
-            "name": "spontE_258_yeah",
+            "name": "spontC_322_mhm",
             "start": 395.83,
-            "end": 396.458125,
-            "token": "yeah"
+            "end": 396.402875,
+            "token": "mhm"
         },
         {
-            "name": "NR_078_no",
+            "name": "spontD_393_yeah",
             "start": 399.23,
-            "end": 399.953375,
-            "token": "no"
-        },
-        {
-            "name": "NegS_053_ooh",
-            "start": 402.36,
-            "end": 403.5285,
-            "token": "ooh"
-        },
-        {
-            "name": "spontE_329_yeah",
-            "start": 424.69,
-            "end": 425.337,
+            "end": 399.731875,
             "token": "yeah"
+        },
+        {
+            "name": "sun_042_exactly",
+            "start": 402.36,
+            "end": 403.31725,
+            "token": "exactly"
+        },
+        {
+            "name": "spontC_401_okay",
+            "start": 424.69,
+            "end": 425.219375,
+            "token": "okay"
         }
     ]
 }

@@ -1,39 +1,39 @@
 {
     "name": "fe_03_01807",
     "context_channel": 0,
-    "context_text": "<B> right oh well that's a good program thank you for telling me about that i i did a volunteer teaching um teaching adults actually for computers / <A> yeah / <B> for adults that had never been um never logged on to a computer / <A> mhm / <B> and we got them set up with a free hotmail account and told them showed them how to surf the internet um it was like a five week course / <A> mhm / <B> um for like an hour and a half / <A> uh-huh / <B> um and i re i i enjoyed that you know and { i } / <A> [ yeah ]",
+    "context_text": "<B> right oh well that's a good program thank you for telling me about that i i did a volunteer teaching um teaching adults actually for computers / <A> okay / <B> for adults that had never been um never logged on to a computer / <A> mhm / <B> and we got them set up with a free hotmail account and told them showed them how to surf the internet um it was like a five week course / <A> yeah / <B> um for like an hour and a half / <A> okay / <B> um and i re i i enjoyed that you know and { i } / <A> [ okay ]",
     "context_start": 417.76,
-    "context_end": 449.46675000000005,
+    "context_end": 449.45950000000005,
     "feedback": [
         {
-            "name": "spontE_276_yeah",
+            "name": "spontD_279_okay",
             "start": 427.41,
-            "end": 427.87775000000005,
-            "token": "yeah"
+            "end": 428.085125,
+            "token": "okay"
         },
         {
-            "name": "PR_046_mhm",
+            "name": "spontA_403_mhm",
             "start": 433.24,
-            "end": 434.17975,
+            "end": 433.799375,
             "token": "mhm"
         },
         {
-            "name": "spontF_312_mhm",
+            "name": "spontD_200_yeah",
             "start": 441.28,
-            "end": 441.79862499999996,
-            "token": "mhm"
-        },
-        {
-            "name": "spontE_038_uh-huh",
-            "start": 444.45,
-            "end": 444.868875,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontD_273_yeah",
-            "start": 448.79,
-            "end": 449.46675000000005,
+            "end": 441.948875,
             "token": "yeah"
+        },
+        {
+            "name": "spontF_181_okay",
+            "start": 444.45,
+            "end": 445.191875,
+            "token": "okay"
+        },
+        {
+            "name": "spontB_195_okay",
+            "start": 448.79,
+            "end": 449.45950000000005,
+            "token": "okay"
         }
     ]
 }

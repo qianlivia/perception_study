@@ -1,39 +1,39 @@
 {
     "name": "fe_03_00374",
     "context_channel": 0,
-    "context_text": "<B> yeah th that's cool yeah i know i know the city quite well { although } / <A> [ yeah ] / <B> i'm not sure that ah i'd like to live there i don't think / <A> uh-huh / <B> but um i've go gotten too used to the ah too used to the sunshine / <A> mhm / <B> oh very good yeah we have um we have ah down here we actually live out in the country so { we're } / <A> [ uh-huh ] / <B> we're out out in the west almost out in the everglades so we've { got plenty of 'em } / <A> [ okay ]",
+    "context_text": "<B> yeah th that's cool yeah i know i know the city quite well { although } / <A> [ mhm ] / <B> i'm not sure that ah i'd like to live there i don't think / <A> yeah / <B> but um i've go gotten too used to the ah too used to the sunshine / <A> right / <B> oh very good yeah we have um we have ah down here we actually live out in the country so { we're } / <A> [ yeah ] / <B> we're out out in the west almost out in the everglades so we've { got plenty of 'em } / <A> [ mhm ]",
     "context_start": 213.77,
-    "context_end": 238.1195,
+    "context_end": 238.050625,
     "feedback": [
         {
-            "name": "spontD_408_yeah",
+            "name": "spontD_165_mhm",
             "start": 217.49,
-            "end": 218.216375,
-            "token": "yeah"
-        },
-        {
-            "name": "spontE_284_uh-huh",
-            "start": 220.66,
-            "end": 221.125,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontE_118_mhm",
-            "start": 225.7,
-            "end": 226.29049999999998,
+            "end": 218.111375,
             "token": "mhm"
         },
         {
-            "name": "spontA_290_uh-huh",
-            "start": 234.29,
-            "end": 234.78975,
-            "token": "uh-huh"
+            "name": "spontD_200_yeah",
+            "start": 220.66,
+            "end": 221.328875,
+            "token": "yeah"
         },
         {
-            "name": "spontB_195_okay",
+            "name": "sun_007_right",
+            "start": 225.7,
+            "end": 226.5895,
+            "token": "right"
+        },
+        {
+            "name": "spontA_208_yeah",
+            "start": 234.29,
+            "end": 235.084125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_068_mhm",
             "start": 237.45,
-            "end": 238.1195,
-            "token": "okay"
+            "end": 238.050625,
+            "token": "mhm"
         }
     ]
 }

@@ -1,39 +1,39 @@
 {
     "name": "fe_03_05057",
     "context_channel": 1,
-    "context_text": "<A> uh you're hurting my feelings all right well i don't see now i don't i don't know if you in in like hawaii there's a lot of uh a lot of professional athletes but i know in philadelphia we have a lot of professional athletes that { get } / <B> [ yeah ] / <A> paid / <B> mhm / <A> a whole of money um i believe they should be able to strike cause everyone should have that opportunity but at the same time they're making you know two hundred three hundred percent what the rest of the world is actually making two { hundred } / <B> [ right ] / <A> percent more um i think you know if you look at it i i heard that the general who ran the war did made a hundred and sixty five thousand dollars he makes that a year / <B> yeah / <A> alan arvison makes fifteen thousand dollars a year you know and and it just seems it just seems backwards you know { i } / <B> [ wow ]",
+    "context_text": "<A> uh you're hurting my feelings all right well i don't see now i don't i don't know if you in in like hawaii there's a lot of uh a lot of professional athletes but i know in philadelphia we have a lot of professional athletes that { get } / <B> [ oh ] / <A> paid / <B> wow / <A> a whole of money um i believe they should be able to strike cause everyone should have that opportunity but at the same time they're making you know two hundred three hundred percent what the rest of the world is actually making two { hundred } / <B> [ okay ] / <A> percent more um i think you know if you look at it i i heard that the general who ran the war did made a hundred and sixty five thousand dollars he makes that a year / <B> mhm / <A> alan arvison makes fifteen thousand dollars a year you know and and it just seems it just seems backwards you know { i } / <B> [ mhm ]",
     "context_start": 34.28,
-    "context_end": 81.0275,
+    "context_end": 80.545875,
     "feedback": [
         {
-            "name": "spontD_231_yeah",
+            "name": "spontC_248_oh",
             "start": 47.0,
-            "end": 47.580375,
-            "token": "yeah"
+            "end": 47.644875,
+            "token": "oh"
         },
         {
-            "name": "spontA_407_mhm",
+            "name": "PS_085_wow",
             "start": 47.43,
-            "end": 47.950625,
+            "end": 48.299,
+            "token": "wow"
+        },
+        {
+            "name": "spontC_017_okay",
+            "start": 60.79,
+            "end": 61.595625,
+            "token": "okay"
+        },
+        {
+            "name": "spontB_312_mhm",
+            "start": 72.35,
+            "end": 73.01174999999999,
             "token": "mhm"
         },
         {
-            "name": "sun1_029_right",
-            "start": 60.79,
-            "end": 61.482,
-            "token": "right"
-        },
-        {
-            "name": "spontF_547_yeah",
-            "start": 72.35,
-            "end": 72.743625,
-            "token": "yeah"
-        },
-        {
-            "name": "PS_176_wow",
+            "name": "spontD_344_mhm",
             "start": 80.03,
-            "end": 81.0275,
-            "token": "wow"
+            "end": 80.545875,
+            "token": "mhm"
         }
     ]
 }

@@ -1,44 +1,44 @@
 {
     "name": "fe_03_01436",
     "context_channel": 0,
-    "context_text": "<B> and uh it it made me cause you know that that's our where we shop and go out to eat a lot now / <A> uh-huh / <B> or we used to so now we start we eat closer to home and you know if we decide to take trips we we take the the two year old with us / <A> wow / <B> and you know we try to encourage my old my oldest child to you know try to do more things with the kids / <A> ooh / <B> cause you just never know what's going to happen / <A> yeah / <B> and i you know they even though they've dropped the the the status to elevated instead of you know the next to the highest / <A> ah / <B> i think i think that the terrorists may be watching that because / <A> yeah",
+    "context_text": "<B> and uh it it made me cause you know that that's our where we shop and go out to eat a lot now / <A> oh / <B> or we used to so now we start we eat closer to home and you know if we decide to take trips we we take the the two year old with us / <A> wow / <B> and you know we try to encourage my old my oldest child to you know try to do more things with the kids / <A> yeah / <B> cause you just never know what's going to happen / <A> oh / <B> and i you know they even though they've dropped the the the status to elevated instead of you know the next to the highest / <A> yeah / <B> i think i think that the terrorists may be watching that because / <A> yeah",
     "context_start": 540.58,
-    "context_end": 590.186125,
+    "context_end": 589.891375,
     "feedback": [
         {
-            "name": "spontA_069_uh-huh",
+            "name": "spontC_100_oh",
             "start": 549.51,
-            "end": 550.004875,
-            "token": "uh-huh"
+            "end": 550.125,
+            "token": "oh"
         },
         {
-            "name": "PS_074_wow",
+            "name": "PS_127_wow",
             "start": 562.12,
-            "end": 562.95725,
+            "end": 563.263375,
             "token": "wow"
         },
         {
-            "name": "spontF_486_ooh",
+            "name": "spontD_083_yeah",
             "start": 569.56,
-            "end": 570.551875,
-            "token": "ooh"
-        },
-        {
-            "name": "spontC_183_yeah",
-            "start": 573.02,
-            "end": 573.8009999999999,
+            "end": 570.5063749999999,
             "token": "yeah"
         },
         {
-            "name": "spontF_629_ah",
-            "start": 583.81,
-            "end": 584.47525,
-            "token": "ah"
+            "name": "NS_103_oh",
+            "start": 573.02,
+            "end": 573.8265,
+            "token": "oh"
         },
         {
-            "name": "spontB_143_yeah",
+            "name": "spontA_117_yeah",
+            "start": 583.81,
+            "end": 584.449,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_397_yeah",
             "start": 589.51,
-            "end": 590.186125,
+            "end": 589.891375,
             "token": "yeah"
         }
     ]

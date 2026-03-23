@@ -1,27 +1,27 @@
 {
     "name": "fe_03_02244",
     "context_channel": 0,
-    "context_text": "<B> and do what they call a blind challenge / <A> oh / <B> in which they make 'em eat the stuff but they don't tell you whether they're getting the allergen or the non-allergen / <A> mhm / <B> and you just wait and notice and see if there's a breakout / <A> yeah",
+    "context_text": "<B> and do what they call a blind challenge / <A> yeah / <B> in which they make 'em eat the stuff but they don't tell you whether they're getting the allergen or the non-allergen / <A> right / <B> and you just wait and notice and see if there's a breakout / <A> okay",
     "context_start": 474.21,
-    "context_end": 486.37937500000004,
+    "context_end": 486.23687500000005,
     "feedback": [
         {
-            "name": "spontF_465_oh",
+            "name": "spontE_067_yeah",
             "start": 476.3,
-            "end": 476.967625,
-            "token": "oh"
-        },
-        {
-            "name": "spontA_132_mhm",
-            "start": 482.83,
-            "end": 483.410125,
-            "token": "mhm"
-        },
-        {
-            "name": "spontE_197_yeah",
-            "start": 485.72,
-            "end": 486.37937500000004,
+            "end": 476.894875,
             "token": "yeah"
+        },
+        {
+            "name": "sun1_031_right",
+            "start": 482.83,
+            "end": 483.62424999999996,
+            "token": "right"
+        },
+        {
+            "name": "spontE_391_okay",
+            "start": 485.72,
+            "end": 486.23687500000005,
+            "token": "okay"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00085",
     "context_channel": 1,
-    "context_text": "<A> that's right no i i i don't have tv because i i mean i don't pay for cable because first of all it's expensive but most importantly because if i have the channels i know that i'm going to watch tv { and a } / <B> [ oh ] / <A> lot so i prefer not to have it but whenever i have to go to someone place { someone } / <B> [ oh ] / <A> else place i i don't watch tv { and } / <B> [ yeah ] / <A> i i think that at the beginning i liked i like reality shows / <B> mhm",
+    "context_text": "<A> that's right no i i i don't have tv because i i mean i don't pay for cable because first of all it's expensive but most importantly because if i have the channels i know that i'm going to watch tv { and a } / <B> [ right ] / <A> lot so i prefer not to have it but whenever i have to go to someone place { someone } / <B> [ oh ] / <A> else place i i don't watch tv { and } / <B> [ mhm ] / <A> i i think that at the beginning i liked i like reality shows / <B> yeah",
     "context_start": 95.27,
-    "context_end": 124.100875,
+    "context_end": 124.54675,
     "feedback": [
         {
-            "name": "spontE_293_oh",
+            "name": "spontC_360_right",
             "start": 108.12,
-            "end": 108.63875,
-            "token": "oh"
+            "end": 108.698875,
+            "token": "right"
         },
         {
-            "name": "PS_194_oh",
+            "name": "NS_014_oh",
             "start": 114.08,
-            "end": 114.88374999999999,
+            "end": 114.876625,
             "token": "oh"
         },
         {
-            "name": "spontB_051_yeah",
+            "name": "spontC_392_mhm",
             "start": 117.29,
-            "end": 117.78137500000001,
-            "token": "yeah"
+            "end": 117.913375,
+            "token": "mhm"
         },
         {
-            "name": "spontC_314_mhm",
+            "name": "spontF_239_yeah",
             "start": 123.56,
-            "end": 124.100875,
-            "token": "mhm"
+            "end": 124.54675,
+            "token": "yeah"
         }
     ]
 }

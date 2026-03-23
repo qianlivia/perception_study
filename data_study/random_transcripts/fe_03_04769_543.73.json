@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04769",
     "context_channel": 1,
-    "context_text": "<A> yeah okay yeah so i i enjoyed that a lot because um i really don't think that there's been that much emphasis on on the asian american experience / <B> yeah / <A> in um at least the u i haven't been exposed to much { ah } / <B> [ yeah ] / <A> you know in in my readings so it was really interesting to read ah her perspective on growing up in the united states as a chinese woman / <B> mhm / <A> and um and you know the kinds of problems she had with a ah cultural clashes between her family and you know the expectations of the society around her { so } / <B> [ yeah ]",
+    "context_text": "<A> yeah okay yeah so i i enjoyed that a lot because um i really don't think that there's been that much emphasis on on the asian american experience / <B> yeah / <A> in um at least the u i haven't been exposed to much { ah } / <B> [ okay ] / <A> you know in in my readings so it was really interesting to read ah her perspective on growing up in the united states as a chinese woman / <B> mhm / <A> and um and you know the kinds of problems she had with a ah cultural clashes between her family and you know the expectations of the society around her { so } / <B> [ mhm ]",
     "context_start": 543.73,
-    "context_end": 572.28875,
+    "context_end": 572.3050000000001,
     "feedback": [
         {
-            "name": "spontB_226_yeah",
+            "name": "spontD_407_yeah",
             "start": 551.75,
-            "end": 552.199,
+            "end": 552.167625,
             "token": "yeah"
         },
         {
-            "name": "spontD_338_yeah",
+            "name": "spontB_195_okay",
             "start": 555.98,
-            "end": 556.6353750000001,
-            "token": "yeah"
+            "end": 556.6495,
+            "token": "okay"
         },
         {
-            "name": "spontA_058_mhm",
+            "name": "spontB_284_mhm",
             "start": 562.81,
-            "end": 563.3138749999999,
+            "end": 563.4237499999999,
             "token": "mhm"
         },
         {
-            "name": "spontF_062_yeah",
+            "name": "spontC_350_mhm",
             "start": 571.74,
-            "end": 572.28875,
-            "token": "yeah"
+            "end": 572.3050000000001,
+            "token": "mhm"
         }
     ]
 }

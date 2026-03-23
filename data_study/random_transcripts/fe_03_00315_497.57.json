@@ -1,39 +1,39 @@
 {
     "name": "fe_03_00315",
     "context_channel": 1,
-    "context_text": "<A> it seems like the solution to terrorism is keeping your head / <B> okay / <A> finding what the challenge is / <B> yeah / <A> and believing that there are solutions to it find { out } / <B> [ mhm ] / <A> ye okay how are we going to solve this because what they're trying to do is uh is cause damage how do we stop the damage reverse it / <B> ah / <A> and and i i wonder if you can even use something like that for well i guess when the plane in pennsylvania went down / <B> yeah",
+    "context_text": "<A> it seems like the solution to terrorism is keeping your head / <B> oh / <A> finding what the challenge is / <B> wow / <A> and believing that there are solutions to it find { out } / <B> [ uh-huh ] / <A> ye okay how are we going to solve this because what they're trying to do is uh is cause damage how do we stop the damage reverse it / <B> uh-huh / <A> and and i i wonder if you can even use something like that for well i guess when the plane in pennsylvania went down / <B> mhm",
     "context_start": 497.57,
-    "context_end": 528.606,
+    "context_end": 528.826625,
     "feedback": [
         {
-            "name": "spontE_158_okay",
+            "name": "PS_010_oh",
             "start": 502.14,
-            "end": 502.759,
-            "token": "okay"
+            "end": 503.57599999999996,
+            "token": "oh"
         },
         {
-            "name": "spontE_245_yeah",
+            "name": "PS_043_wow",
             "start": 505.69,
-            "end": 506.510875,
-            "token": "yeah"
+            "end": 507.02524999999997,
+            "token": "wow"
         },
         {
-            "name": "spontC_178_mhm",
+            "name": "spontA_240_uh-huh",
             "start": 509.93,
-            "end": 510.493625,
-            "token": "mhm"
+            "end": 510.4465,
+            "token": "uh-huh"
         },
         {
-            "name": "spontC_073_ah",
+            "name": "spontA_086_uh-huh",
             "start": 519.0,
-            "end": 519.82425,
-            "token": "ah"
+            "end": 519.510125,
+            "token": "uh-huh"
         },
         {
-            "name": "spontB_094_yeah",
+            "name": "spontA_282_mhm",
             "start": 528.27,
-            "end": 528.606,
-            "token": "yeah"
+            "end": 528.826625,
+            "token": "mhm"
         }
     ]
 }

@@ -1,27 +1,27 @@
 {
     "name": "fe_03_02620",
     "context_channel": 1,
-    "context_text": "<A> really i'm really disappointed with some of the the news coverage lately of of a lot of the people showing that they want us out / <B> no / <A> and and then they you know two weeks ago they were all happy that we were there and and you know i was happy and { i thought } / <B> [ yeah ] / <A> gosh you know they really they really wanted to be liberated and they really wanted to be free and / <B> mhm",
+    "context_text": "<A> really i'm really disappointed with some of the the news coverage lately of of a lot of the people showing that they want us out / <B> right / <A> and and then they you know two weeks ago they were all happy that we were there and and you know i was happy and { i thought } / <B> [ yeah ] / <A> gosh you know they really they really wanted to be liberated and they really wanted to be free and / <B> yeah",
     "context_start": 106.96,
-    "context_end": 125.97824999999999,
+    "context_end": 125.67112499999999,
     "feedback": [
         {
-            "name": "spontB_093_no",
+            "name": "PR_048_right",
             "start": 114.05,
-            "end": 114.961,
-            "token": "no"
+            "end": 114.685125,
+            "token": "right"
         },
         {
-            "name": "spontF_101_yeah",
+            "name": "PS_042_yeah",
             "start": 120.26,
-            "end": 120.868375,
+            "end": 121.626625,
             "token": "yeah"
         },
         {
-            "name": "sun1_001_mhm",
+            "name": "spontD_228_yeah",
             "start": 125.1,
-            "end": 125.97824999999999,
-            "token": "mhm"
+            "end": 125.67112499999999,
+            "token": "yeah"
         }
     ]
 }

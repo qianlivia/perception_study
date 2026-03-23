@@ -1,32 +1,32 @@
 {
     "name": "fe_03_05143",
     "context_channel": 0,
-    "context_text": "<B> [ yeah mhm we use cellphones quite a bit ] um ah the one we're we're ready to get new ones and they come out with um we've had ours a couple of years and and the new we're our where we're at our reception is variable / <A> yeah / <B> and ah and the n neighbors have a new one and the new ones are a lot better { but } / <A> [ okay ] / <B> we've tried to ah ah i mean we have nationwide free calling / <A> uh-huh / <B> er no not free it's not long distance / <A> oh",
+    "context_text": "<B> [ yeah mhm we use cellphones quite a bit ] um ah the one we're we're ready to get new ones and they come out with um we've had ours a couple of years and and the new we're our where we're at our reception is variable / <A> right / <B> and ah and the n neighbors have a new one and the new ones are a lot better { but } / <A> [ right ] / <B> we've tried to ah ah i mean we have nationwide free calling / <A> oh / <B> er no not free it's not long distance / <A> oh",
     "context_start": 496.19,
-    "context_end": 538.956625,
+    "context_end": 539.02125,
     "feedback": [
         {
-            "name": "spontE_067_yeah",
+            "name": "sun1_032_right",
             "start": 519.42,
-            "end": 520.014875,
-            "token": "yeah"
+            "end": 520.263375,
+            "token": "right"
         },
         {
-            "name": "spontC_286_okay",
+            "name": "sun_007_right",
             "start": 525.72,
-            "end": 526.3720000000001,
-            "token": "okay"
+            "end": 526.6095,
+            "token": "right"
         },
         {
-            "name": "spontF_470_uh-huh",
+            "name": "PS_010_oh",
             "start": 533.05,
-            "end": 533.574125,
-            "token": "uh-huh"
+            "end": 534.486,
+            "token": "oh"
         },
         {
-            "name": "spontD_032_oh",
+            "name": "spontD_193_oh",
             "start": 538.27,
-            "end": 538.956625,
+            "end": 539.02125,
             "token": "oh"
         }
     ]

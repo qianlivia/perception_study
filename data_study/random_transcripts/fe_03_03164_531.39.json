@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03164",
     "context_channel": 1,
-    "context_text": "<A> but before then um i had a number of dogs and um they were just um irreplaceable { i } / <B> [ uh-huh ] / <A> still you know i will treasure the memories of them um over the years um i remember one of them died and that one was called nancy / <B> oh / <A> and yeah i remember my nieces having a ceremony for for nancy / <B> yeah / <A> it was s so so / <B> uh-huh",
+    "context_text": "<A> but before then um i had a number of dogs and um they were just um irreplaceable { i } / <B> [ right ] / <A> still you know i will treasure the memories of them um over the years um i remember one of them died and that one was called nancy / <B> uh-huh / <A> and yeah i remember my nieces having a ceremony for for nancy / <B> right / <A> it was s so so / <B> right",
     "context_start": 531.39,
-    "context_end": 563.6291249999999,
+    "context_end": 563.665125,
     "feedback": [
         {
-            "name": "spontA_093_uh-huh",
+            "name": "sun_007_right",
             "start": 541.41,
-            "end": 541.951375,
-            "token": "uh-huh"
+            "end": 542.2995,
+            "token": "right"
         },
         {
-            "name": "spontC_004_oh",
+            "name": "spontC_091_uh-huh",
             "start": 553.56,
-            "end": 554.197875,
-            "token": "oh"
-        },
-        {
-            "name": "spontA_437_yeah",
-            "start": 561.24,
-            "end": 561.995625,
-            "token": "yeah"
-        },
-        {
-            "name": "spontC_132_uh-huh",
-            "start": 563.03,
-            "end": 563.6291249999999,
+            "end": 554.0785,
             "token": "uh-huh"
+        },
+        {
+            "name": "PR_043_right",
+            "start": 561.24,
+            "end": 561.9,
+            "token": "right"
+        },
+        {
+            "name": "PR_048_right",
+            "start": 563.03,
+            "end": 563.665125,
+            "token": "right"
         }
     ]
 }

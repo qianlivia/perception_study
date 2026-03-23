@@ -1,39 +1,39 @@
 {
     "name": "fe_03_04809",
     "context_channel": 1,
-    "context_text": "<A> mhm yeah i yeah actually you know there's another thing i it's kind of funny cause i'm taking an economics class right now and uh we talked about government how government taxes affect people buying cigarettes you know / <B> yeah / <A> and that's the thing like a dollar or two tax on cigarette companies or on buying a pack of cigarettes / <B> yeah / <A> affects it very little like people still buy the same amount almost / <B> yeah / <A> and / <B> oh / <A> and that was one thing the government is trying to uh they call them sin taxes / <B> okay",
+    "context_text": "<A> mhm yeah i yeah actually you know there's another thing i it's kind of funny cause i'm taking an economics class right now and uh we talked about government how government taxes affect people buying cigarettes you know / <B> mhm / <A> and that's the thing like a dollar or two tax on cigarette companies or on buying a pack of cigarettes / <B> okay / <A> affects it very little like people still buy the same amount almost / <B> wow / <A> and / <B> uh-huh / <A> and that was one thing the government is trying to uh they call them sin taxes / <B> mhm",
     "context_start": 377.44,
-    "context_end": 416.4995,
+    "context_end": 416.56225,
     "feedback": [
         {
-            "name": "spontF_041_yeah",
+            "name": "spontA_390_mhm",
             "start": 394.79,
-            "end": 395.6575,
-            "token": "yeah"
+            "end": 395.56212500000004,
+            "token": "mhm"
         },
         {
-            "name": "spontD_013_yeah",
+            "name": "spontC_020_okay",
             "start": 401.56,
-            "end": 402.275,
-            "token": "yeah"
-        },
-        {
-            "name": "spontA_416_yeah",
-            "start": 406.87,
-            "end": 407.37962500000003,
-            "token": "yeah"
-        },
-        {
-            "name": "Sy_077_oh",
-            "start": 408.4,
-            "end": 409.43474999999995,
-            "token": "oh"
-        },
-        {
-            "name": "spontB_195_okay",
-            "start": 415.83,
-            "end": 416.4995,
+            "end": 402.035,
             "token": "okay"
+        },
+        {
+            "name": "PS_142_wow",
+            "start": 406.87,
+            "end": 408.19875,
+            "token": "wow"
+        },
+        {
+            "name": "spontF_037_uh-huh",
+            "start": 408.4,
+            "end": 408.96625,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PR_057_mhm",
+            "start": 415.83,
+            "end": 416.56225,
+            "token": "mhm"
         }
     ]
 }

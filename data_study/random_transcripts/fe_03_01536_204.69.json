@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01536",
     "context_channel": 1,
-    "context_text": "<A> [ absolutely not only that but i think ] the strikes are the ones that it hurts the little the little guy { i } / <B> [ absolutely ] / <A> mean it puts everybody out of business the people who are selling the hot dogs { and the tee } / <B> [ yeah ] / <A> shirts and the ticker takers and all the people who clean up the restrooms after the games and / <B> wow / <A> all those people what do they do you { know } / <B> [ yeah ]",
+    "context_text": "<A> [ absolutely not only that but i think ] the strikes are the ones that it hurts the little the little guy { i } / <B> [ uh-huh ] / <A> mean it puts everybody out of business the people who are selling the hot dogs { and the tee } / <B> [ right ] / <A> shirts and the ticker takers and all the people who clean up the restrooms after the games and / <B> mhm / <A> all those people what do they do you { know } / <B> [ right ]",
     "context_start": 204.69,
-    "context_end": 221.91275,
+    "context_end": 222.30362499999998,
     "feedback": [
         {
-            "name": "sun_027_absolutely",
+            "name": "spontE_065_uh-huh",
             "start": 209.66,
-            "end": 210.79399999999998,
-            "token": "absolutely"
+            "end": 210.104375,
+            "token": "uh-huh"
         },
         {
-            "name": "spontC_352_yeah",
+            "name": "sun1_031_right",
             "start": 213.52,
-            "end": 214.21912500000002,
-            "token": "yeah"
+            "end": 214.31425000000002,
+            "token": "right"
         },
         {
-            "name": "PS_157_wow",
+            "name": "spontF_619_mhm",
             "start": 219.34,
-            "end": 220.804,
-            "token": "wow"
+            "end": 219.88475,
+            "token": "mhm"
         },
         {
-            "name": "spontB_393_yeah",
+            "name": "sun1_030_right",
             "start": 221.51,
-            "end": 221.91275,
-            "token": "yeah"
+            "end": 222.30362499999998,
+            "token": "right"
         }
     ]
 }

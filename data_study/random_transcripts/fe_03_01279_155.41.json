@@ -1,27 +1,27 @@
 {
     "name": "fe_03_01279",
     "context_channel": 0,
-    "context_text": "<B> that's funny / <A> no / <B> uh-huh cough um when i when i do grab the paper at work um i well look at the front page but then mostly the letter to letters to the editor / <A> ooh / <B> i find those um you know more revealing about what people are thinking / <A> oh",
+    "context_text": "<B> that's funny / <A> wow / <B> uh-huh cough um when i when i do grab the paper at work um i well look at the front page but then mostly the letter to letters to the editor / <A> mhm / <B> i find those um you know more revealing about what people are thinking / <A> exactly",
     "context_start": 155.41,
-    "context_end": 177.080375,
+    "context_end": 177.1855,
     "feedback": [
         {
-            "name": "sun2_029_no",
+            "name": "PS_183_wow",
             "start": 156.13,
-            "end": 156.869125,
-            "token": "no"
+            "end": 156.93525,
+            "token": "wow"
         },
         {
-            "name": "spontE_034_ooh",
+            "name": "spontB_191_mhm",
             "start": 169.73,
-            "end": 170.952375,
-            "token": "ooh"
+            "end": 170.455375,
+            "token": "mhm"
         },
         {
-            "name": "NS_025_oh",
+            "name": "sun_038_exactly",
             "start": 176.1,
-            "end": 177.080375,
-            "token": "oh"
+            "end": 177.1855,
+            "token": "exactly"
         }
     ]
 }

@@ -1,44 +1,44 @@
 {
     "name": "fe_03_01293",
     "context_channel": 0,
-    "context_text": "<B> um not amer you know i've only rec i received some emails from a couple of people where they have uh petitions that they they want signed / <A> mhm / <B> um to um just say sign on we're academics against war and / <A> yeah / <B> uh things like that so but usually the topic doesn't come up much uh / <A> uh-huh / <B> in i i don't know i guess it it is really multi national the department { i mean we do } / <A> [ yeah ] / <B> have a lot of chinese people from / <A> no / <B> uh m we actually figured it out that i think it the the a big group there is is actually korean so / <A> yeah",
+    "context_text": "<B> um not amer you know i've only rec i received some emails from a couple of people where they have uh petitions that they they want signed / <A> right / <B> um to um just say sign on we're academics against war and / <A> mhm / <B> uh things like that so but usually the topic doesn't come up much uh / <A> yeah / <B> in i i don't know i guess it it is really multi national the department { i mean we do } / <A> [ uh-huh ] / <B> have a lot of chinese people from / <A> mhm / <B> uh m we actually figured it out that i think it the the a big group there is is actually korean so / <A> yeah",
     "context_start": 304.17,
-    "context_end": 340.83562500000005,
+    "context_end": 340.93012500000003,
     "feedback": [
         {
-            "name": "spontF_611_mhm",
+            "name": "sun1_032_right",
             "start": 312.98,
-            "end": 313.53312500000004,
+            "end": 313.823375,
+            "token": "right"
+        },
+        {
+            "name": "spontA_064_mhm",
+            "start": 319.6,
+            "end": 320.123125,
             "token": "mhm"
         },
         {
-            "name": "spontF_101_yeah",
-            "start": 319.6,
-            "end": 320.20837500000005,
+            "name": "spontE_252_yeah",
+            "start": 324.73,
+            "end": 325.36575,
             "token": "yeah"
         },
         {
-            "name": "spontD_070_uh-huh",
-            "start": 324.73,
-            "end": 325.23825,
+            "name": "spontE_092_uh-huh",
+            "start": 329.87,
+            "end": 330.413125,
             "token": "uh-huh"
         },
         {
-            "name": "spontF_295_yeah",
-            "start": 329.87,
-            "end": 330.388375,
-            "token": "yeah"
-        },
-        {
-            "name": "NR_045_no",
+            "name": "sun1_006_mhm",
             "start": 332.24,
-            "end": 333.18,
-            "token": "no"
+            "end": 332.94,
+            "token": "mhm"
         },
         {
-            "name": "spontF_221_yeah",
+            "name": "spontE_091_yeah",
             "start": 340.35,
-            "end": 340.83562500000005,
+            "end": 340.93012500000003,
             "token": "yeah"
         }
     ]

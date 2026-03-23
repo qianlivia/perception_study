@@ -1,26 +1,26 @@
 {
     "name": "fe_03_02385",
     "context_channel": 0,
-    "context_text": "<B> cartons here are over thirty dollars i { smoke } / <A> [ wow ] / <B> really the cheapest cigarettes i can find and i you know because they're always coming out with new ones / <A> wow / <B> i go into the store i just say what's your cheapest carton of cigarettes / <A> mhm",
+    "context_text": "<B> cartons here are over thirty dollars i { smoke } / <A> [ okay ] / <B> really the cheapest cigarettes i can find and i you know because they're always coming out with new ones / <A> mhm / <B> i go into the store i just say what's your cheapest carton of cigarettes / <A> mhm",
     "context_start": 523.33,
-    "context_end": 537.966,
+    "context_end": 537.898,
     "feedback": [
         {
-            "name": "PS_024_wow",
+            "name": "spontD_383_okay",
             "start": 527.22,
-            "end": 528.74725,
-            "token": "wow"
+            "end": 527.891375,
+            "token": "okay"
         },
         {
-            "name": "PS_034_wow",
+            "name": "spontA_319_mhm",
             "start": 532.78,
-            "end": 533.597625,
-            "token": "wow"
+            "end": 533.3752499999999,
+            "token": "mhm"
         },
         {
-            "name": "sun1_008_mhm",
+            "name": "spontC_355_mhm",
             "start": 537.36,
-            "end": 537.966,
+            "end": 537.898,
             "token": "mhm"
         }
     ]

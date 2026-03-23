@@ -1,39 +1,39 @@
 {
     "name": "fe_03_00963",
     "context_channel": 0,
-    "context_text": "<B> um you know since then i've traveled uh oh twice i believe / <A> ooh / <B> and both times uh the the heightened security was not as significant as i expected it to be / <A> uh-huh / <B> uh but you know the the the the first time i was flying out of my home area which is a very small airport / <A> yeah / <B> uh and the security there was drastically higher than what it had been but it still was it still seemed somewhat laid-back / <A> mhm / <B> uh but com compared to what it used to be with a small town airport it was drastically more significant / <A> wow",
+    "context_text": "<B> um you know since then i've traveled uh oh twice i believe / <A> right / <B> and both times uh the the heightened security was not as significant as i expected it to be / <A> oh / <B> uh but you know the the the the first time i was flying out of my home area which is a very small airport / <A> yeah / <B> uh and the security there was drastically higher than what it had been but it still was it still seemed somewhat laid-back / <A> wow / <B> uh but com compared to what it used to be with a small town airport it was drastically more significant / <A> okay",
     "context_start": 82.81,
-    "context_end": 125.3575,
+    "context_end": 125.068,
     "feedback": [
         {
-            "name": "spontA_102_ooh",
+            "name": "PR_048_right",
             "start": 90.56,
-            "end": 91.128375,
-            "token": "ooh"
+            "end": 91.195125,
+            "token": "right"
         },
         {
-            "name": "spontD_021_uh-huh",
+            "name": "PS_193_oh",
             "start": 98.82,
-            "end": 99.27175,
-            "token": "uh-huh"
+            "end": 100.62712499999999,
+            "token": "oh"
         },
         {
-            "name": "spontE_288_yeah",
+            "name": "spontF_041_yeah",
             "start": 107.57,
-            "end": 108.19762499999999,
+            "end": 108.4375,
             "token": "yeah"
         },
         {
-            "name": "spontC_496_mhm",
+            "name": "PS_034_wow",
             "start": 116.76,
-            "end": 117.352125,
-            "token": "mhm"
+            "end": 117.57762500000001,
+            "token": "wow"
         },
         {
-            "name": "PS_176_wow",
+            "name": "spontF_643_okay",
             "start": 124.36,
-            "end": 125.3575,
-            "token": "wow"
+            "end": 125.068,
+            "token": "okay"
         }
     ]
 }

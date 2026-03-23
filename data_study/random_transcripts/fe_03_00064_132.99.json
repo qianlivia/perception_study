@@ -1,27 +1,27 @@
 {
     "name": "fe_03_00064",
     "context_channel": 1,
-    "context_text": "<A> but now he's like smoking like four cigars a day / <B> okay / <A> and so in one hand it's good because you're not inhaling the smoke / <B> oh / <A> but it it still is compulsive as it ever was you know the the need to light up and to have something in your hand and uh the cigar just replaces the cigarette / <B> yeah",
+    "context_text": "<A> but now he's like smoking like four cigars a day / <B> right / <A> and so in one hand it's good because you're not inhaling the smoke / <B> yeah / <A> but it it still is compulsive as it ever was you know the the need to light up and to have something in your hand and uh the cigar just replaces the cigarette / <B> right",
     "context_start": 132.99,
-    "context_end": 153.111625,
+    "context_end": 153.148875,
     "feedback": [
         {
-            "name": "spontF_518_okay",
+            "name": "sun_013_right",
             "start": 135.75,
-            "end": 136.456,
-            "token": "okay"
+            "end": 136.6235,
+            "token": "right"
         },
         {
-            "name": "PS_040_oh",
+            "name": "spontB_097_yeah",
             "start": 141.83,
-            "end": 143.72675,
-            "token": "oh"
+            "end": 142.403625,
+            "token": "yeah"
         },
         {
-            "name": "spontC_280_yeah",
+            "name": "spontC_360_right",
             "start": 152.57,
-            "end": 153.111625,
-            "token": "yeah"
+            "end": 153.148875,
+            "token": "right"
         }
     ]
 }

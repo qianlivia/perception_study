@@ -1,39 +1,39 @@
 {
     "name": "fe_03_01471",
     "context_channel": 0,
-    "context_text": "<B> and and i was um a marine wife { and } / <A> [ uh-huh ] / <B> i really i really felt that after the attack i really felt that we should have been over there in iraq the very next day / <A> yeah / <B> i had a very very strong sense of um why are we dragging our feet and this really bothered me because it was like you know we are one of the strongest richest most powerful nations in the whole world { and } / <A> [ yeah ] / <B> i i felt that at the time right after the attack that we should have been doing something right away { you } / <A> [ yeah ] / <B> know right away because what had happened to all of it the innocent blood that had been shed really really bothered me / <A> yeah",
+    "context_text": "<B> and and i was um a marine wife { and } / <A> [ yeah ] / <B> i really i really felt that after the attack i really felt that we should have been over there in iraq the very next day / <A> right / <B> i had a very very strong sense of um why are we dragging our feet and this really bothered me because it was like you know we are one of the strongest richest most powerful nations in the whole world { and } / <A> [ mhm ] / <B> i i felt that at the time right after the attack that we should have been doing something right away { you } / <A> [ mhm ] / <B> know right away because what had happened to all of it the innocent blood that had been shed really really bothered me / <A> right",
     "context_start": 463.35,
-    "context_end": 505.42674999999997,
+    "context_end": 505.233625,
     "feedback": [
         {
-            "name": "spontD_334_uh-huh",
+            "name": "PR_047_yeah",
             "start": 467.52,
-            "end": 468.04375,
-            "token": "uh-huh"
+            "end": 468.229875,
+            "token": "yeah"
         },
         {
-            "name": "spontB_141_yeah",
+            "name": "PR_048_right",
             "start": 474.98,
-            "end": 475.710375,
-            "token": "yeah"
+            "end": 475.61512500000003,
+            "token": "right"
         },
         {
-            "name": "spontA_452_yeah",
+            "name": "spontA_147_mhm",
             "start": 488.42,
-            "end": 488.885375,
-            "token": "yeah"
+            "end": 488.89325,
+            "token": "mhm"
         },
         {
-            "name": "sun1_022_yeah",
+            "name": "spontC_496_mhm",
             "start": 497.17,
-            "end": 498.002625,
-            "token": "yeah"
+            "end": 497.762125,
+            "token": "mhm"
         },
         {
-            "name": "spontB_323_yeah",
+            "name": "sun1_030_right",
             "start": 504.44,
-            "end": 505.42674999999997,
-            "token": "yeah"
+            "end": 505.233625,
+            "token": "right"
         }
     ]
 }

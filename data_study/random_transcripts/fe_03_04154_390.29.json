@@ -1,45 +1,45 @@
 {
     "name": "fe_03_04154",
     "context_channel": 0,
-    "context_text": "<B> i don't know i i guess because of the the jobs that i've had they're so stressful and there's so much responsibility you're responsible for everything { that i } / <A> [ uh-huh ] / <B> guess it having your own business kinda like i don't know maybe i'm wrong but it's like a breather for me / <A> mhm / <B> because it's like um there's so much responsibilities for patients and / <A> ooh / <B> and everything else / <A> yeah / <B> i don't know maybe it would be easier i / <A> absolutely / <B> uh i and and it's just so competitive out there you you do have a point i mean it's competitive it's / <A> uh-huh",
+    "context_text": "<B> i don't know i i guess because of the the jobs that i've had they're so stressful and there's so much responsibility you're responsible for everything { that i } / <A> [ right ] / <B> guess it having your own business kinda like i don't know maybe i'm wrong but it's like a breather for me / <A> yeah / <B> because it's like um there's so much responsibilities for patients and / <A> mhm / <B> and everything else / <A> mhm / <B> i don't know maybe it would be easier i / <A> exactly / <B> uh i and and it's just so competitive out there you you do have a point i mean it's competitive it's / <A> yeah",
     "context_start": 390.29,
-    "context_end": 426.2275,
+    "context_end": 426.2355,
     "feedback": [
         {
-            "name": "spontF_316_uh-huh",
+            "name": "spontC_360_right",
             "start": 398.71,
-            "end": 399.260875,
-            "token": "uh-huh"
+            "end": 399.28887499999996,
+            "token": "right"
         },
         {
-            "name": "spontE_262_mhm",
+            "name": "spontF_367_yeah",
             "start": 405.68,
-            "end": 406.25725,
-            "token": "mhm"
-        },
-        {
-            "name": "spontF_454_ooh",
-            "start": 411.28,
-            "end": 411.7845,
-            "token": "ooh"
-        },
-        {
-            "name": "spontC_251_yeah",
-            "start": 412.84,
-            "end": 413.5875,
+            "end": 406.484625,
             "token": "yeah"
         },
         {
-            "name": "sun_027_absolutely",
-            "start": 416.19,
-            "end": 417.324,
-            "token": "absolutely"
+            "name": "sun_012_mhm",
+            "start": 411.28,
+            "end": 412.288375,
+            "token": "mhm"
         },
         {
-            "name": "spontD_028_uh-huh",
+            "name": "spontF_513_mhm",
+            "start": 412.84,
+            "end": 413.3485,
+            "token": "mhm"
+        },
+        {
+            "name": "sun_016_exactly",
+            "start": 416.19,
+            "end": 417.2235,
+            "token": "exactly"
+        },
+        {
+            "name": "spontF_020_yeah",
             "start": 425.72,
-            "end": 426.2275,
-            "token": "uh-huh"
+            "end": 426.2355,
+            "token": "yeah"
         }
     ]
 }

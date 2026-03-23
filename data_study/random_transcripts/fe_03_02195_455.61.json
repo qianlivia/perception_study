@@ -1,39 +1,39 @@
 {
     "name": "fe_03_02195",
     "context_channel": 1,
-    "context_text": "<A> yeah yeah that i mean there's really it's only and the and there there's only like one percent oh not one percent excuse me one fourth i heard the same thing i think / <B> yeah / <A> one fourth of people who actually are at a healthy weight / <B> mhm / <A> and then some people are you know like a another fourth is really you know unhealthy and obese and then the other people are just you know not at the right weight like they could you know lose weight or { mm } / <B> [ uh-huh ] / <A> yeah like i i'd probably actually be considered overweight / <B> yeah / <A> um only not because i'm out of shape i'm actually i work out every day for for like and hour or more / <B> yeah",
+    "context_text": "<A> yeah yeah that i mean there's really it's only and the and there there's only like one percent oh not one percent excuse me one fourth i heard the same thing i think / <B> okay / <A> one fourth of people who actually are at a healthy weight / <B> yeah / <A> and then some people are you know like a another fourth is really you know unhealthy and obese and then the other people are just you know not at the right weight like they could you know lose weight or { mm } / <B> [ okay ] / <A> yeah like i i'd probably actually be considered overweight / <B> yeah / <A> um only not because i'm out of shape i'm actually i work out every day for for like and hour or more / <B> uh-huh",
     "context_start": 455.61,
-    "context_end": 485.10262500000005,
+    "context_end": 484.83837500000004,
     "feedback": [
         {
-            "name": "spontB_186_yeah",
+            "name": "spontE_005_okay",
             "start": 463.28,
-            "end": 463.85699999999997,
-            "token": "yeah"
+            "end": 463.83037499999995,
+            "token": "okay"
         },
         {
-            "name": "sun_017_mhm",
+            "name": "spontF_140_yeah",
             "start": 467.25,
-            "end": 468.201625,
-            "token": "mhm"
+            "end": 468.06,
+            "token": "yeah"
         },
         {
-            "name": "spontD_079_uh-huh",
+            "name": "spontC_134_okay",
             "start": 476.76,
-            "end": 477.306375,
-            "token": "uh-huh"
+            "end": 477.567125,
+            "token": "okay"
         },
         {
-            "name": "spontB_371_yeah",
+            "name": "spontF_662_yeah",
             "start": 480.04,
-            "end": 480.40825,
+            "end": 480.7445,
             "token": "yeah"
         },
         {
-            "name": "spontC_117_yeah",
+            "name": "spontF_206_uh-huh",
             "start": 484.41,
-            "end": 485.10262500000005,
-            "token": "yeah"
+            "end": 484.83837500000004,
+            "token": "uh-huh"
         }
     ]
 }

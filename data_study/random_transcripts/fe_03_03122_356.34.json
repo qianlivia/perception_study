@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03122",
     "context_channel": 1,
-    "context_text": "<A> no no cats now monty is very much an only he well we have there are homeless cats that live in our driveway but ah / <B> uh-huh / <A> and and we feed them and monty tolerates that but that's as far as it goes so / <B> ah / <A> but ah yeah he tolerates the squirrels although he does chase them up the up the trees in the back yard and yeah you know i think he feels he has chores he has certain chores and keeping the yard free of of squirrels and even though i feed the birds he likes to chase the you know the birds if there gets { to be too } / <B> [ yeah ] / <A> many and yes you know dog chores barking at the mailman { that sort } / <B> [ uh-huh ]",
+    "context_text": "<A> no no cats now monty is very much an only he well we have there are homeless cats that live in our driveway but ah / <B> uh-huh / <A> and and we feed them and monty tolerates that but that's as far as it goes so / <B> uh-huh / <A> but ah yeah he tolerates the squirrels although he does chase them up the up the trees in the back yard and yeah you know i think he feels he has chores he has certain chores and keeping the yard free of of squirrels and even though i feed the birds he likes to chase the you know the birds if there gets { to be too } / <B> [ right ] / <A> many and yes you know dog chores barking at the mailman { that sort } / <B> [ okay ]",
     "context_start": 356.34,
-    "context_end": 397.60425,
+    "context_end": 397.726,
     "feedback": [
         {
-            "name": "spontE_304_uh-huh",
+            "name": "spontD_334_uh-huh",
             "start": 364.14,
-            "end": 364.62762499999997,
+            "end": 364.66375,
             "token": "uh-huh"
         },
         {
-            "name": "spontA_275_ah",
+            "name": "spontA_361_uh-huh",
             "start": 372.64,
-            "end": 373.4675,
-            "token": "ah"
-        },
-        {
-            "name": "spontC_290_yeah",
-            "start": 393.11,
-            "end": 394.07575,
-            "token": "yeah"
-        },
-        {
-            "name": "spontD_153_uh-huh",
-            "start": 397.02,
-            "end": 397.60425,
+            "end": 373.155125,
             "token": "uh-huh"
+        },
+        {
+            "name": "spontC_360_right",
+            "start": 393.11,
+            "end": 393.688875,
+            "token": "right"
+        },
+        {
+            "name": "spontF_518_okay",
+            "start": 397.02,
+            "end": 397.726,
+            "token": "okay"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05767",
     "context_channel": 1,
-    "context_text": "<A> right well you know look look at the supermarket it's five for a dollar right and they have these scanners and and and the computers tell you the change and all that / <B> no / <A> so you know when you i worked in the supermarket a and p when i was a ch a kid { seventeen } / <B> [ oh ] / <A> and ah you had to do everything you know by your mind right / <B> okay / <A> so if it was five for a dollar and you only bought three you know it's sixty cents / <B> yeah",
+    "context_text": "<A> right well you know look look at the supermarket it's five for a dollar right and they have these scanners and and and the computers tell you the change and all that / <B> okay / <A> so you know when you i worked in the supermarket a and p when i was a ch a kid { seventeen } / <B> [ right ] / <A> and ah you had to do everything you know by your mind right / <B> yeah / <A> so if it was five for a dollar and you only bought three you know it's sixty cents / <B> okay",
     "context_start": 527.14,
-    "context_end": 550.290875,
+    "context_end": 549.969375,
     "feedback": [
         {
-            "name": "NR_063_no",
+            "name": "spontD_279_okay",
             "start": 535.77,
-            "end": 536.53,
-            "token": "no"
-        },
-        {
-            "name": "spontF_465_oh",
-            "start": 540.82,
-            "end": 541.4876250000001,
-            "token": "oh"
-        },
-        {
-            "name": "spontE_275_okay",
-            "start": 544.85,
-            "end": 545.41075,
+            "end": 536.445125,
             "token": "okay"
         },
         {
-            "name": "spontB_150_yeah",
-            "start": 549.44,
-            "end": 550.290875,
+            "name": "sun_007_right",
+            "start": 540.82,
+            "end": 541.7095,
+            "token": "right"
+        },
+        {
+            "name": "spontC_117_yeah",
+            "start": 544.85,
+            "end": 545.542625,
             "token": "yeah"
+        },
+        {
+            "name": "spontC_401_okay",
+            "start": 549.44,
+            "end": 549.969375,
+            "token": "okay"
         }
     ]
 }

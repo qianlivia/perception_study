@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05507",
     "context_channel": 0,
-    "context_text": "<B> yeah i i i think it's a big step really uh to look things uh cause you're going from like potty humor to adult { and } / <A> [ wow ] / <B> they've gotta make uh the transfer in there somewhere you know they gotta kinda guide you through it somewhere in there / <A> yes / <B> and you know how it is as a teenager you you make a joke out of anything especially with uh serious / <A> mhm / <B> so yeah especially you know they sit down in the class and they talk about each day's like if they had to read a chapter last night then the next day they sit down in class they go over the chapter / <A> yeah",
+    "context_text": "<B> yeah i i i think it's a big step really uh to look things uh cause you're going from like potty humor to adult { and } / <A> [ really ] / <B> they've gotta make uh the transfer in there somewhere you know they gotta kinda guide you through it somewhere in there / <A> wow / <B> and you know how it is as a teenager you you make a joke out of anything especially with uh serious / <A> right / <B> so yeah especially you know they sit down in the class and they talk about each day's like if they had to read a chapter last night then the next day they sit down in class they go over the chapter / <A> right",
     "context_start": 528.58,
-    "context_end": 567.27675,
+    "context_end": 567.1635,
     "feedback": [
         {
-            "name": "PS_067_wow",
+            "name": "PS_070_really",
             "start": 539.14,
-            "end": 540.204625,
+            "end": 539.828625,
+            "token": "really"
+        },
+        {
+            "name": "PS_075_wow",
+            "start": 546.88,
+            "end": 548.12925,
             "token": "wow"
         },
         {
-            "name": "sun_032_yes",
-            "start": 546.88,
-            "end": 547.85675,
-            "token": "yes"
-        },
-        {
-            "name": "sun1_002_mhm",
+            "name": "sun1_030_right",
             "start": 554.49,
-            "end": 555.2798750000001,
-            "token": "mhm"
+            "end": 555.283625,
+            "token": "right"
         },
         {
-            "name": "spontB_323_yeah",
+            "name": "sun_013_right",
             "start": 566.29,
-            "end": 567.27675,
-            "token": "yeah"
+            "end": 567.1635,
+            "token": "right"
         }
     ]
 }

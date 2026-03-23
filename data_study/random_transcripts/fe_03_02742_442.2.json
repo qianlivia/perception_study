@@ -1,27 +1,27 @@
 {
     "name": "fe_03_02742",
     "context_channel": 1,
-    "context_text": "<A> not at all i graduated from old miss and and but everybody in my husband's family went to a different out of state school / <B> yeah / <A> and uh one of them went to mississippi state here briefly but there i i just don't have any preference you know i just kinda like if they're from mississippi i'll pull for 'em since we're so abused you know { just } / <B> [ uh-huh ] / <A> let someone win / <B> yeah",
+    "context_text": "<A> not at all i graduated from old miss and and but everybody in my husband's family went to a different out of state school / <B> yeah / <A> and uh one of them went to mississippi state here briefly but there i i just don't have any preference you know i just kinda like if they're from mississippi i'll pull for 'em since we're so abused you know { just } / <B> [ okay ] / <A> let someone win / <B> oh",
     "context_start": 442.2,
-    "context_end": 462.81012499999997,
+    "context_end": 462.987625,
     "feedback": [
         {
-            "name": "spontB_292_yeah",
+            "name": "spontE_379_yeah",
             "start": 450.43,
-            "end": 451.0015,
+            "end": 451.34475000000003,
             "token": "yeah"
         },
         {
-            "name": "spontF_286_uh-huh",
+            "name": "spontE_071_okay",
             "start": 460.52,
-            "end": 461.0435,
-            "token": "uh-huh"
+            "end": 461.174,
+            "token": "okay"
         },
         {
-            "name": "spontA_211_yeah",
+            "name": "spontF_125_oh",
             "start": 462.14,
-            "end": 462.81012499999997,
-            "token": "yeah"
+            "end": 462.987625,
+            "token": "oh"
         }
     ]
 }

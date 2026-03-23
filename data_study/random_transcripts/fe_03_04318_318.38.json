@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04318",
     "context_channel": 0,
-    "context_text": "<B> right yeah i could i know i can do a better job this time right { with all of } / <A> [ right ] / <B> the / <A> yeah / <B> things you've learned and yeah and all the experiences we we've had it's it's kind of a way of looking at things { but } / <A> [ ah ] / <B> it / <A> wow",
+    "context_text": "<B> right yeah i could i know i can do a better job this time right { with all of } / <A> [ yeah ] / <B> the / <A> oh / <B> things you've learned and yeah and all the experiences we we've had it's it's kind of a way of looking at things { but } / <A> [ right ] / <B> it / <A> mhm",
     "context_start": 318.38,
-    "context_end": 335.137625,
+    "context_end": 334.924875,
     "feedback": [
         {
-            "name": "sun_028_right",
+            "name": "spontB_226_yeah",
             "start": 322.09,
-            "end": 322.819375,
-            "token": "right"
-        },
-        {
-            "name": "PR_055_yeah",
-            "start": 323.22,
-            "end": 323.91312500000004,
+            "end": 322.539,
             "token": "yeah"
         },
         {
-            "name": "spontC_214_ah",
-            "start": 332.46,
-            "end": 333.273125,
-            "token": "ah"
+            "name": "spontF_612_oh",
+            "start": 323.22,
+            "end": 323.83062500000005,
+            "token": "oh"
         },
         {
-            "name": "PS_034_wow",
+            "name": "PR_048_right",
+            "start": 332.46,
+            "end": 333.095125,
+            "token": "right"
+        },
+        {
+            "name": "spontB_356_mhm",
             "start": 334.32,
-            "end": 335.137625,
-            "token": "wow"
+            "end": 334.924875,
+            "token": "mhm"
         }
     ]
 }

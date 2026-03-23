@@ -1,38 +1,38 @@
 {
     "name": "fe_03_04295",
     "context_channel": 1,
-    "context_text": "<A> yeah ah but i guess you know having a lot of money isn't necessarily the answer too cause i've i've known people who've who've had enormous amounts of money and who are miserable / <B> yes / <A> so i mean going back and changing that and and completely having more money than i would have ever needed wouldn't necessarily have made my life better it would have been different but i don't know if it's necessarily i would say it could it would definitely be better { i } / <B> [ no ] / <A> mean i i don't regret most of the things i've done i just { wish } / <B> [ aha ] / <A> i had done them / <B> ooh / <A> i guess i just wish i'd learned earlier and been more dedicated earlier i was too much { of } / <B> [ mhm ]",
+    "context_text": "<A> yeah ah but i guess you know having a lot of money isn't necessarily the answer too cause i've i've known people who've who've had enormous amounts of money and who are miserable / <B> mhm / <A> so i mean going back and changing that and and completely having more money than i would have ever needed wouldn't necessarily have made my life better it would have been different but i don't know if it's necessarily i would say it could it would definitely be better { i } / <B> [ right ] / <A> mean i i don't regret most of the things i've done i just { wish } / <B> [ right ] / <A> i had done them / <B> yeah / <A> i guess i just wish i'd learned earlier and been more dedicated earlier i was too much { of } / <B> [ mhm ]",
     "context_start": 289.6,
-    "context_end": 329.04312500000003,
+    "context_end": 329.19,
     "feedback": [
         {
-            "name": "PR_060_yes",
+            "name": "spontA_282_mhm",
             "start": 299.94,
-            "end": 300.8805,
-            "token": "yes"
+            "end": 300.496625,
+            "token": "mhm"
         },
         {
-            "name": "NR_109_no",
+            "name": "sun1_033_right",
             "start": 318.16,
-            "end": 318.9445,
-            "token": "no"
+            "end": 319.013125,
+            "token": "right"
         },
         {
-            "name": "PS_143_aha",
+            "name": "sun_007_right",
             "start": 322.04,
-            "end": 323.363125,
-            "token": "aha"
+            "end": 322.9295,
+            "token": "right"
         },
         {
-            "name": "PS_177_ooh",
+            "name": "PR_062_yeah",
             "start": 324.25,
-            "end": 325.846375,
-            "token": "ooh"
+            "end": 324.76225,
+            "token": "yeah"
         },
         {
-            "name": "spontF_611_mhm",
+            "name": "sun1_006_mhm",
             "start": 328.49,
-            "end": 329.04312500000003,
+            "end": 329.19,
             "token": "mhm"
         }
     ]

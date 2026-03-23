@@ -1,51 +1,51 @@
 {
     "name": "fe_03_03018",
     "context_channel": 1,
-    "context_text": "<A> contemplated also getting um a dog a couple of years ago / <B> yeah / <A> uh with my boyfriend and i and we thought well maybe we'd get like a mid sized small dog / <B> oh / <A> and we were looking at maybe getting a terrier but we'd heard from so many people after doing a lot of research that apparently they get um suicidal if they're not run enough / <B> wow / <A> yeah and i didn't i didn't know that about terriers but apparently they just have this innate need to run and { and } / <B> [ yeah ] / <A> also they like to sort of run after cats so / <B> ooh / <A> it seemed like the wrong choice after that we just said you know what maybe we better not um get a dog for now i { you know who } / <B> [ no ] / <A> knows what kind of personality type they're gonna be carrying { with } / <B> [ yeah ]",
+    "context_text": "<A> contemplated also getting um a dog a couple of years ago / <B> mhm / <A> uh with my boyfriend and i and we thought well maybe we'd get like a mid sized small dog / <B> right / <A> and we were looking at maybe getting a terrier but we'd heard from so many people after doing a lot of research that apparently they get um suicidal if they're not run enough / <B> mhm / <A> yeah and i didn't i didn't know that about terriers but apparently they just have this innate need to run and { and } / <B> [ wow ] / <A> also they like to sort of run after cats so / <B> oh / <A> it seemed like the wrong choice after that we just said you know what maybe we better not um get a dog for now i { you know who } / <B> [ uh-huh ] / <A> knows what kind of personality type they're gonna be carrying { with } / <B> [ right ]",
     "context_start": 534.65,
-    "context_end": 578.8555,
+    "context_end": 578.922,
     "feedback": [
         {
-            "name": "spontD_365_yeah",
+            "name": "spontF_611_mhm",
             "start": 538.75,
-            "end": 539.60625,
-            "token": "yeah"
+            "end": 539.303125,
+            "token": "mhm"
         },
         {
-            "name": "spontF_102_oh",
+            "name": "PR_043_right",
             "start": 544.68,
-            "end": 545.2835,
-            "token": "oh"
+            "end": 545.3399999999999,
+            "token": "right"
         },
         {
-            "name": "PS_139_wow",
+            "name": "spontE_262_mhm",
             "start": 555.96,
-            "end": 557.23175,
+            "end": 556.5372500000001,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_117_wow",
+            "start": 562.33,
+            "end": 564.061625,
             "token": "wow"
         },
         {
-            "name": "spontB_373_yeah",
-            "start": 562.33,
-            "end": 562.7415000000001,
-            "token": "yeah"
-        },
-        {
-            "name": "PS_162_ooh",
+            "name": "spontA_071_oh",
             "start": 567.1,
-            "end": 568.1085,
-            "token": "ooh"
+            "end": 567.7175,
+            "token": "oh"
         },
         {
-            "name": "NR_110_no",
+            "name": "spontF_470_uh-huh",
             "start": 575.08,
-            "end": 576.1245,
-            "token": "no"
+            "end": 575.6041250000001,
+            "token": "uh-huh"
         },
         {
-            "name": "spontD_230_yeah",
+            "name": "sun1_029_right",
             "start": 578.23,
-            "end": 578.8555,
-            "token": "yeah"
+            "end": 578.922,
+            "token": "right"
         }
     ]
 }

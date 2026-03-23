@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01501",
     "context_channel": 1,
-    "context_text": "<A> life is i don't feel as safe as i did before then i never really thought that much about someone from outside our country hurting us { cause } / <B> [ no ] / <A> we're such a powerful nation i / <B> yeah / <A> just can't believe that that happened even to this day i mean i know it did but i just can't imagine that that was able to happen in our country / <B> yeah / <A> and i don't really know if i fully rely on the uh security new pr uh administrative program / <B> yeah",
+    "context_text": "<A> life is i don't feel as safe as i did before then i never really thought that much about someone from outside our country hurting us { cause } / <B> [ wow ] / <A> we're such a powerful nation i / <B> right / <A> just can't believe that that happened even to this day i mean i know it did but i just can't imagine that that was able to happen in our country / <B> yeah / <A> and i don't really know if i fully rely on the uh security new pr uh administrative program / <B> oh",
     "context_start": 33.1,
-    "context_end": 72.47250000000001,
+    "context_end": 72.771375,
     "feedback": [
         {
-            "name": "NR_036_no",
+            "name": "PS_132_wow",
             "start": 47.53,
-            "end": 48.219375,
-            "token": "no"
+            "end": 48.672000000000004,
+            "token": "wow"
         },
         {
-            "name": "spontF_641_yeah",
+            "name": "sun_013_right",
             "start": 50.28,
-            "end": 50.837375,
-            "token": "yeah"
+            "end": 51.1535,
+            "token": "right"
         },
         {
-            "name": "spontA_174_yeah",
+            "name": "spontC_183_yeah",
             "start": 60.36,
-            "end": 60.856125,
+            "end": 61.141,
             "token": "yeah"
         },
         {
-            "name": "spontF_485_yeah",
+            "name": "spontF_110_oh",
             "start": 71.87,
-            "end": 72.47250000000001,
-            "token": "yeah"
+            "end": 72.771375,
+            "token": "oh"
         }
     ]
 }

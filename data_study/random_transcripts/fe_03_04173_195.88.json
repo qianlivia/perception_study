@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04173",
     "context_channel": 0,
-    "context_text": "<B> well no i think i think i would start with i think uh i think if i were going to start a business uh a a movie production company would { be } / <A> [ mhm ] / <B> something i'd do maybe after i ran a theatre company cause that's smaller { you know } / <A> [ absolutely ] / <B> that's more manageable i mean like here in new york they have small theatre companies that are like / <A> yeah / <B> ninety nine seats and you know in a a actually it's not i just came from an event tonight that had a fundraiser for a theatre company that's sort of / <A> yes",
+    "context_text": "<B> well no i think i think i would start with i think uh i think if i were going to start a business uh a a movie production company would { be } / <A> [ okay ] / <B> something i'd do maybe after i ran a theatre company cause that's smaller { you know } / <A> [ mhm ] / <B> that's more manageable i mean like here in new york they have small theatre companies that are like / <A> okay / <B> ninety nine seats and you know in a a actually it's not i just came from an event tonight that had a fundraiser for a theatre company that's sort of / <A> okay",
     "context_start": 195.88,
-    "context_end": 220.68762500000003,
+    "context_end": 220.47412500000002,
     "feedback": [
         {
-            "name": "spontB_200_mhm",
+            "name": "spontF_643_okay",
             "start": 202.26,
-            "end": 202.79387499999999,
+            "end": 202.968,
+            "token": "okay"
+        },
+        {
+            "name": "spontA_331_mhm",
+            "start": 206.35,
+            "end": 207.008875,
             "token": "mhm"
         },
         {
-            "name": "sun_024_absolutely",
-            "start": 206.35,
-            "end": 207.689,
-            "token": "absolutely"
-        },
-        {
-            "name": "spontD_205_yeah",
+            "name": "spontE_158_okay",
             "start": 211.3,
-            "end": 212.004625,
-            "token": "yeah"
+            "end": 211.919,
+            "token": "okay"
         },
         {
-            "name": "spontB_368_yes",
+            "name": "spontF_074_okay",
             "start": 219.83,
-            "end": 220.68762500000003,
-            "token": "yes"
+            "end": 220.47412500000002,
+            "token": "okay"
         }
     ]
 }

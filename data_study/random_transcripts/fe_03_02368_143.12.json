@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02368",
     "context_channel": 1,
-    "context_text": "<A> [ no cause ] most people are like it has some it has to personally affect them / <B> yeah / <A> like you know { touch } / <B> [ yeah ] / <A> them real something real close to home / <B> ah / <A> has to affect them before they stop doing something that we might think is negative and they don't / <B> yep",
+    "context_text": "<A> [ no cause ] most people are like it has some it has to personally affect them / <B> right / <A> like you know { touch } / <B> [ oh ] / <A> them real something real close to home / <B> right / <A> has to affect them before they stop doing something that we might think is negative and they don't / <B> yeah",
     "context_start": 143.12,
-    "context_end": 159.89275,
+    "context_end": 159.750375,
     "feedback": [
         {
-            "name": "sun1_023_yeah",
+            "name": "PR_043_right",
             "start": 148.01,
-            "end": 148.391875,
-            "token": "yeah"
+            "end": 148.67,
+            "token": "right"
         },
         {
-            "name": "spontA_448_yeah",
+            "name": "Sy_062_oh",
             "start": 149.75,
-            "end": 150.26925,
-            "token": "yeah"
+            "end": 151.071,
+            "token": "oh"
         },
         {
-            "name": "NS_056_ah",
+            "name": "sun1_029_right",
             "start": 152.44,
-            "end": 153.415,
-            "token": "ah"
+            "end": 153.132,
+            "token": "right"
         },
         {
-            "name": "PR_027_yep",
+            "name": "spontA_337_yeah",
             "start": 159.35,
-            "end": 159.89275,
-            "token": "yep"
+            "end": 159.750375,
+            "token": "yeah"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01213",
     "context_channel": 0,
-    "context_text": "<B> [ um and ] yeah and i mean that that person's job is you know to watch for drugs you know they woul they would { be } / <A> [ yeah ] / <B> prosecuting as well and / <A> uh-huh / <B> they're right there on the campus that's like their beat if you will / <A> mhm / <B> and to keep aware and deal with wi deal with problems uh course that teacher is shouldn't have to deal you know they're trying to teach you know deal { with } / <A> [ wow ]",
+    "context_text": "<B> [ um and ] yeah and i mean that that person's job is you know to watch for drugs you know they woul they would { be } / <A> [ right ] / <B> prosecuting as well and / <A> oh / <B> they're right there on the campus that's like their beat if you will / <A> yeah / <B> and to keep aware and deal with wi deal with problems uh course that teacher is shouldn't have to deal you know they're trying to teach you know deal { with } / <A> [ right ]",
     "context_start": 434.13,
-    "context_end": 456.654,
+    "context_end": 456.0795,
     "feedback": [
         {
-            "name": "spontB_239_yeah",
+            "name": "PR_048_right",
             "start": 441.27,
-            "end": 441.816875,
+            "end": 441.905125,
+            "token": "right"
+        },
+        {
+            "name": "Sy_041_oh",
+            "start": 443.12,
+            "end": 444.794125,
+            "token": "oh"
+        },
+        {
+            "name": "spontC_026_yeah",
+            "start": 446.81,
+            "end": 447.459,
             "token": "yeah"
         },
         {
-            "name": "spontA_296_uh-huh",
-            "start": 443.12,
-            "end": 443.7015,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontA_239_mhm",
-            "start": 446.81,
-            "end": 447.322375,
-            "token": "mhm"
-        },
-        {
-            "name": "PS_157_wow",
+            "name": "sun_007_right",
             "start": 455.19,
-            "end": 456.654,
-            "token": "wow"
+            "end": 456.0795,
+            "token": "right"
         }
     ]
 }

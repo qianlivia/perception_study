@@ -1,39 +1,39 @@
 {
     "name": "fe_03_04446",
     "context_channel": 0,
-    "context_text": "<B> i went to a um private school and then when i transferred i transferred to the public high school for my uh sen junior and senior year and / <A> yeah / <B> when i uh graduate when i transferred from my private school i was ahead of everybody i was ahead of the graduating seniors when i entered the public school / <A> yeah / <B> uh the private school that i attended had a much um quicker pace of learning and { a } / <A> [ wow ] / <B> much um strin more stringent uh curriculum we had uh what would be a harder curriculum than public school in our area / <A> uh-huh / <B> and uh when i attended the public school i actually my eleventh i technically graduated uh the day that i entered the public school cause i had all of my credits to pass the public high school / <A> ooh",
+    "context_text": "<B> i went to a um private school and then when i transferred i transferred to the public high school for my uh sen junior and senior year and / <A> right / <B> when i uh graduate when i transferred from my private school i was ahead of everybody i was ahead of the graduating seniors when i entered the public school / <A> right / <B> uh the private school that i attended had a much um quicker pace of learning and { a } / <A> [ okay ] / <B> much um strin more stringent uh curriculum we had uh what would be a harder curriculum than public school in our area / <A> exactly / <B> and uh when i attended the public school i actually my eleventh i technically graduated uh the day that i entered the public school cause i had all of my credits to pass the public high school / <A> oh",
     "context_start": 117.82,
-    "context_end": 166.60475,
+    "context_end": 165.9475,
     "feedback": [
         {
-            "name": "spontA_337_yeah",
+            "name": "sun_028_right",
             "start": 127.23,
-            "end": 127.630375,
-            "token": "yeah"
+            "end": 127.95937500000001,
+            "token": "right"
         },
         {
-            "name": "spontB_223_yeah",
+            "name": "sun_007_right",
             "start": 137.58,
-            "end": 138.38612500000002,
-            "token": "yeah"
+            "end": 138.4695,
+            "token": "right"
         },
         {
-            "name": "PS_115_wow",
+            "name": "spontF_386_okay",
             "start": 143.99,
-            "end": 145.08100000000002,
-            "token": "wow"
+            "end": 144.48112500000002,
+            "token": "okay"
         },
         {
-            "name": "spontB_383_uh-huh",
+            "name": "sun_015_exactly",
             "start": 151.86,
-            "end": 152.462375,
-            "token": "uh-huh"
+            "end": 152.96175000000002,
+            "token": "exactly"
         },
         {
-            "name": "PS_140_ooh",
+            "name": "spontE_356_oh",
             "start": 165.32,
-            "end": 166.60475,
-            "token": "ooh"
+            "end": 165.9475,
+            "token": "oh"
         }
     ]
 }

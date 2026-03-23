@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01583",
     "context_channel": 0,
-    "context_text": "<B> but i ironically enough you know a lot of african americans are probably racial profiling of arabs at the airport / <A> oh / <B> so of course you know like i it it depends on what you racially profile for there's there's stupid racial profiling and smart racial profiling { like } / <A> [ ah ] / <B> when when you're actually like okay you know you've got like a black guy fine you know they they always arrest them for drug charges that's stupid that's like a waste of time / <A> uh-huh / <B> that's r that's not equitable cause like you're always but you know when you have like airplanes fine where are the m majority of the attackers coming from well they're coming from saudi arabia / <A> mhm",
+    "context_text": "<B> but i ironically enough you know a lot of african americans are probably racial profiling of arabs at the airport / <A> mhm / <B> so of course you know like i it it depends on what you racially profile for there's there's stupid racial profiling and smart racial profiling { like } / <A> [ okay ] / <B> when when you're actually like okay you know you've got like a black guy fine you know they they always arrest them for drug charges that's stupid that's like a waste of time / <A> mhm / <B> that's r that's not equitable cause like you're always but you know when you have like airplanes fine where are the m majority of the attackers coming from well they're coming from saudi arabia / <A> right",
     "context_start": 237.72,
-    "context_end": 272.227375,
+    "context_end": 272.02887499999997,
     "feedback": [
         {
-            "name": "spontC_046_oh",
+            "name": "NS_071_mhm",
             "start": 242.83,
-            "end": 243.23812500000003,
-            "token": "oh"
-        },
-        {
-            "name": "Sy_026_ah",
-            "start": 252.42,
-            "end": 253.42825,
-            "token": "ah"
-        },
-        {
-            "name": "spontD_028_uh-huh",
-            "start": 261.74,
-            "end": 262.2475,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontB_324_mhm",
-            "start": 271.45,
-            "end": 272.227375,
+            "end": 243.918,
             "token": "mhm"
+        },
+        {
+            "name": "spontC_286_okay",
+            "start": 252.42,
+            "end": 253.07199999999997,
+            "token": "okay"
+        },
+        {
+            "name": "spontC_243_mhm",
+            "start": 261.74,
+            "end": 262.265125,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_360_right",
+            "start": 271.45,
+            "end": 272.02887499999997,
+            "token": "right"
         }
     ]
 }

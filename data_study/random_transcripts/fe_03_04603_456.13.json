@@ -1,27 +1,27 @@
 {
     "name": "fe_03_04603",
     "context_channel": 1,
-    "context_text": "<A> but when you rent it you know you can pause it go to the restroom you know and come back um you know you don't have to pay the you know concession stand prices { you } / <B> [ oh ] / <A> know but like you s like you the point you brought out before once again you still have you still have to deal with the interruptions / <B> yeah / <A> you know um be it ah those stupid telemarketers or / <B> yeah",
+    "context_text": "<A> but when you rent it you know you can pause it go to the restroom you know and come back um you know you don't have to pay the you know concession stand prices { you } / <B> [ right ] / <A> know but like you s like you the point you brought out before once again you still have you still have to deal with the interruptions / <B> wow / <A> you know um be it ah those stupid telemarketers or / <B> right",
     "context_start": 456.13,
-    "context_end": 479.145125,
+    "context_end": 479.322,
     "feedback": [
         {
-            "name": "spontB_304_oh",
+            "name": "sun1_030_right",
             "start": 464.98,
-            "end": 466.104375,
-            "token": "oh"
+            "end": 465.77362500000004,
+            "token": "right"
         },
         {
-            "name": "spontB_381_yeah",
+            "name": "PS_083_wow",
             "start": 473.19,
-            "end": 473.639375,
-            "token": "yeah"
+            "end": 474.08925,
+            "token": "wow"
         },
         {
-            "name": "spontC_271_yeah",
+            "name": "sun1_029_right",
             "start": 478.63,
-            "end": 479.145125,
-            "token": "yeah"
+            "end": 479.322,
+            "token": "right"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04205",
     "context_channel": 0,
-    "context_text": "<B> i'm running up again but when i first read it you know it sounded well it sounded too good to be true and now i'm saying that it is i'm might be able to send ten thousand people to your website and that you / <A> yeah / <B> know one outta ten / <A> oh / <B> so i even bought the thing { and } / <A> [ ooh ] / <B> i only made my money back my money that's one good thing about it though / <A> ooh",
+    "context_text": "<B> i'm running up again but when i first read it you know it sounded well it sounded too good to be true and now i'm saying that it is i'm might be able to send ten thousand people to your website and that you / <A> right / <B> know one outta ten / <A> uh-huh / <B> so i even bought the thing { and } / <A> [ really ] / <B> i only made my money back my money that's one good thing about it though / <A> right",
     "context_start": 328.25,
-    "context_end": 346.29449999999997,
+    "context_end": 345.81,
     "feedback": [
         {
-            "name": "spontC_290_yeah",
+            "name": "sun_028_right",
             "start": 337.61,
-            "end": 338.57575,
-            "token": "yeah"
+            "end": 338.339375,
+            "token": "right"
         },
         {
-            "name": "Sy_051_oh",
+            "name": "spontB_137_uh-huh",
             "start": 339.35,
-            "end": 340.73375000000004,
-            "token": "oh"
+            "end": 339.901,
+            "token": "uh-huh"
         },
         {
-            "name": "spontB_350_ooh",
+            "name": "NS_082_really",
             "start": 341.71,
-            "end": 342.2895,
-            "token": "ooh"
+            "end": 342.46225,
+            "token": "really"
         },
         {
-            "name": "spontE_157_ooh",
+            "name": "PR_043_right",
             "start": 345.15,
-            "end": 346.29449999999997,
-            "token": "ooh"
+            "end": 345.81,
+            "token": "right"
         }
     ]
 }

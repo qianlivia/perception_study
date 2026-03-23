@@ -1,27 +1,27 @@
 {
     "name": "fe_03_00859",
     "context_channel": 0,
-    "context_text": "<B> think by the time you hit high school you should have some career goals { and they } / <A> [ wow ] / <B> don't teach it's 'cause that's not a class you teach that's a class you ask / <A> uh-huh / <B> so so any idea how long we are supposed to go on / <A> uh-huh",
+    "context_text": "<B> think by the time you hit high school you should have some career goals { and they } / <A> [ yeah ] / <B> don't teach it's 'cause that's not a class you teach that's a class you ask / <A> mhm / <B> so so any idea how long we are supposed to go on / <A> mhm",
     "context_start": 476.25,
-    "context_end": 490.467625,
+    "context_end": 490.96162499999997,
     "feedback": [
         {
-            "name": "PS_161_wow",
+            "name": "spontD_013_yeah",
             "start": 479.28,
-            "end": 480.17337499999996,
-            "token": "wow"
+            "end": 479.99499999999995,
+            "token": "yeah"
         },
         {
-            "name": "spontD_026_uh-huh",
+            "name": "spontC_387_mhm",
             "start": 483.52,
-            "end": 483.987875,
-            "token": "uh-huh"
+            "end": 484.125,
+            "token": "mhm"
         },
         {
-            "name": "spontC_097_uh-huh",
+            "name": "sun_017_mhm",
             "start": 490.01,
-            "end": 490.467625,
-            "token": "uh-huh"
+            "end": 490.96162499999997,
+            "token": "mhm"
         }
     ]
 }

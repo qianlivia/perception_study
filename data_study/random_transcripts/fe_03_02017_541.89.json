@@ -1,27 +1,27 @@
 {
     "name": "fe_03_02017",
     "context_channel": 0,
-    "context_text": "<B> we're we're hired by the corporate companies / <A> yeah / <B> and we go and like tomorrow i do an interview with um one of the managers at an apartment complex / <A> mhm / <B> and she doesn't know i'm doing that / <A> mhm",
+    "context_text": "<B> we're we're hired by the corporate companies / <A> right / <B> and we go and like tomorrow i do an interview with um one of the managers at an apartment complex / <A> yeah / <B> and she doesn't know i'm doing that / <A> right",
     "context_start": 541.89,
-    "context_end": 557.569375,
+    "context_end": 557.745125,
     "feedback": [
         {
-            "name": "spontE_239_yeah",
+            "name": "sun1_032_right",
             "start": 545.25,
-            "end": 545.976875,
+            "end": 546.093375,
+            "token": "right"
+        },
+        {
+            "name": "spontE_067_yeah",
+            "start": 554.45,
+            "end": 555.044875,
             "token": "yeah"
         },
         {
-            "name": "spontB_187_mhm",
-            "start": 554.45,
-            "end": 555.001125,
-            "token": "mhm"
-        },
-        {
-            "name": "spontE_361_mhm",
+            "name": "PR_048_right",
             "start": 557.11,
-            "end": 557.569375,
-            "token": "mhm"
+            "end": 557.745125,
+            "token": "right"
         }
     ]
 }

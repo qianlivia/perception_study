@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04103",
     "context_channel": 1,
-    "context_text": "<A> yeah well i think that's wonderful i think that's terrific now uh the reason that that i would like to have a music school / <B> okay / <A> of is becau cause i know there are a lot of talented people / <B> yeah / <A> that have a very hard time with studies it's very expensive here you need a a teacher a voice teacher and you need somebody well to to help you with languages { and you need } / <B> [ yeah ] / <A> uh somebody to teach us your repertoire { you } / <B> [ ah ]",
+    "context_text": "<A> yeah well i think that's wonderful i think that's terrific now uh the reason that that i would like to have a music school / <B> mhm / <A> of is becau cause i know there are a lot of talented people / <B> really / <A> that have a very hard time with studies it's very expensive here you need a a teacher a voice teacher and you need somebody well to to help you with languages { and you need } / <B> [ uh-huh ] / <A> uh somebody to teach us your repertoire { you } / <B> [ oh ]",
     "context_start": 456.79,
-    "context_end": 489.921625,
+    "context_end": 489.65587500000004,
     "feedback": [
         {
-            "name": "spontF_518_okay",
+            "name": "spontA_147_mhm",
             "start": 466.68,
-            "end": 467.386,
-            "token": "okay"
+            "end": 467.15325,
+            "token": "mhm"
         },
         {
-            "name": "spontD_382_yeah",
+            "name": "NS_082_really",
             "start": 470.84,
-            "end": 471.26937499999997,
-            "token": "yeah"
+            "end": 471.59225,
+            "token": "really"
         },
         {
-            "name": "spontC_127_yeah",
+            "name": "spontA_313_uh-huh",
             "start": 484.61,
-            "end": 485.187875,
-            "token": "yeah"
+            "end": 485.20387500000004,
+            "token": "uh-huh"
         },
         {
-            "name": "spontF_040_ah",
+            "name": "PS_104_oh",
             "start": 488.92,
-            "end": 489.921625,
-            "token": "ah"
+            "end": 489.65587500000004,
+            "token": "oh"
         }
     ]
 }

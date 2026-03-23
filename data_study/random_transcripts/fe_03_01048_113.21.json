@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01048",
     "context_channel": 0,
-    "context_text": "<B> feel that as long as it's done in good taste and it's not openly pornographic / <A> mhm / <B> i don't have a problem with it now / <A> mhm / <B> for instance the movie barber shop { now } / <A> [ yeah ] / <B> i went to see barber shop i thought it was hilarious / <A> right",
+    "context_text": "<B> feel that as long as it's done in good taste and it's not openly pornographic / <A> mhm / <B> i don't have a problem with it now / <A> yeah / <B> for instance the movie barber shop { now } / <A> [ right ] / <B> i went to see barber shop i thought it was hilarious / <A> yeah",
     "context_start": 113.21,
-    "context_end": 128.03,
+    "context_end": 127.706,
     "feedback": [
         {
-            "name": "spontF_513_mhm",
+            "name": "spontC_387_mhm",
             "start": 118.97,
-            "end": 119.4785,
+            "end": 119.575,
             "token": "mhm"
         },
         {
-            "name": "spontF_315_mhm",
+            "name": "spontA_292_yeah",
             "start": 120.73,
-            "end": 121.433875,
-            "token": "mhm"
-        },
-        {
-            "name": "spontD_364_yeah",
-            "start": 124.05,
-            "end": 124.900375,
+            "end": 121.373625,
             "token": "yeah"
         },
         {
-            "name": "PR_043_right",
-            "start": 127.37,
-            "end": 128.03,
+            "name": "sun1_032_right",
+            "start": 124.05,
+            "end": 124.89337499999999,
             "token": "right"
+        },
+        {
+            "name": "spontB_094_yeah",
+            "start": 127.37,
+            "end": 127.706,
+            "token": "yeah"
         }
     ]
 }

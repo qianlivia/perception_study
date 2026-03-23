@@ -1,38 +1,38 @@
 {
     "name": "fe_03_02693",
     "context_channel": 1,
-    "context_text": "<A> well my uh our tradition with my in laws is they take us on a birthday shopping trip / <B> really / <A> and we can buy whatever we want / <B> wow / <A> and they take us out to a special birthday lunch / <B> uh-huh / <A> we can pick whatever restaurant we want / <B> mhm / <A> and if we want a homemade cake or if we want um if we want um you know a store bought cake or if we just want desert at the restaurant { and } / <B> [ yeah ]",
+    "context_text": "<A> well my uh our tradition with my in laws is they take us on a birthday shopping trip / <B> exactly / <A> and we can buy whatever we want / <B> oh / <A> and they take us out to a special birthday lunch / <B> yeah / <A> we can pick whatever restaurant we want / <B> right / <A> and if we want a homemade cake or if we want um if we want um you know a store bought cake or if we just want desert at the restaurant { and } / <B> [ yeah ]",
     "context_start": 375.45,
-    "context_end": 403.475625,
+    "context_end": 403.1235,
     "feedback": [
         {
-            "name": "NS_002_really",
+            "name": "sun_015_exactly",
             "start": 381.26,
-            "end": 382.1165,
-            "token": "really"
+            "end": 382.36175,
+            "token": "exactly"
         },
         {
-            "name": "PS_031_wow",
+            "name": "PS_040_oh",
             "start": 383.95,
-            "end": 384.71175,
-            "token": "wow"
+            "end": 385.84675,
+            "token": "oh"
         },
         {
-            "name": "sun_022_uh-huh",
+            "name": "spontF_243_yeah",
             "start": 386.85,
-            "end": 388.029875,
-            "token": "uh-huh"
+            "end": 387.692625,
+            "token": "yeah"
         },
         {
-            "name": "spontF_513_mhm",
+            "name": "sun_007_right",
             "start": 390.85,
-            "end": 391.35850000000005,
-            "token": "mhm"
+            "end": 391.7395,
+            "token": "right"
         },
         {
-            "name": "PR_061_yeah",
+            "name": "spontA_422_yeah",
             "start": 402.56,
-            "end": 403.475625,
+            "end": 403.1235,
             "token": "yeah"
         }
     ]

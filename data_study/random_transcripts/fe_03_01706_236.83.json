@@ -1,56 +1,56 @@
 {
     "name": "fe_03_01706",
     "context_channel": 0,
-    "context_text": "<B> we do have some experience at this i mean you look at japan { you look } / <A> [ yeah ] / <B> at germany / <A> yeah / <B> uh you look at south korea / <A> no / <B> our military has done this before { and } / <A> [ wow ] / <B> you know we and we don't stay i mean we stayed in europe because of the threat of russia / <A> yeah / <B> uh but europeans allowed us i mean it wasn't { that they } / <A> [ uh-huh ] / <B> wanted us out because { we } / <A> [ yeah ] / <B> for a p part of their economy by then / <A> yeah",
+    "context_text": "<B> we do have some experience at this i mean you look at japan { you look } / <A> [ right ] / <B> at germany / <A> okay / <B> uh you look at south korea / <A> yeah / <B> our military has done this before { and } / <A> [ oh ] / <B> you know we and we don't stay i mean we stayed in europe because of the threat of russia / <A> uh-huh / <B> uh but europeans allowed us i mean it wasn't { that they } / <A> [ yeah ] / <B> wanted us out because { we } / <A> [ yeah ] / <B> for a p part of their economy by then / <A> yeah",
     "context_start": 236.83,
-    "context_end": 263.16725,
+    "context_end": 262.97225,
     "feedback": [
         {
-            "name": "spontB_216_yeah",
+            "name": "spontC_360_right",
             "start": 240.17,
-            "end": 240.65875,
-            "token": "yeah"
+            "end": 240.748875,
+            "token": "right"
         },
         {
-            "name": "spontF_142_yeah",
+            "name": "spontE_071_okay",
             "start": 241.65,
-            "end": 242.115125,
-            "token": "yeah"
+            "end": 242.304,
+            "token": "okay"
         },
         {
-            "name": "NR_115_no",
+            "name": "spontA_414_yeah",
             "start": 243.6,
-            "end": 244.68937499999998,
-            "token": "no"
-        },
-        {
-            "name": "PS_156_wow",
-            "start": 246.61,
-            "end": 247.55075000000002,
-            "token": "wow"
-        },
-        {
-            "name": "PR_047_yeah",
-            "start": 254.04,
-            "end": 254.749875,
+            "end": 244.077875,
             "token": "yeah"
         },
         {
-            "name": "spontF_079_uh-huh",
-            "start": 257.83,
-            "end": 258.46999999999997,
+            "name": "Sy_011_oh",
+            "start": 246.61,
+            "end": 247.848125,
+            "token": "oh"
+        },
+        {
+            "name": "spontC_358_uh-huh",
+            "start": 254.04,
+            "end": 254.625,
             "token": "uh-huh"
         },
         {
-            "name": "spontC_346_yeah",
-            "start": 259.73,
-            "end": 260.159125,
+            "name": "spontB_057_yeah",
+            "start": 257.83,
+            "end": 258.37512499999997,
             "token": "yeah"
         },
         {
-            "name": "spontB_390_yeah",
+            "name": "PS_042_yeah",
+            "start": 259.73,
+            "end": 261.096625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_173_yeah",
             "start": 262.44,
-            "end": 263.16725,
+            "end": 262.97225,
             "token": "yeah"
         }
     ]

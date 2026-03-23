@@ -1,45 +1,45 @@
 {
     "name": "fe_03_00225",
     "context_channel": 1,
-    "context_text": "<A> um like free uh in india we generally don't have love marriages / <B> okay / <A> and it's all arranged by our families and / <B> mhm / <A> so um actually when we get married / <B> uh-huh / <A> so that's where the love starts and i don't know it's kind of which gets us together and because we don't know each other before marriage / <B> no / <A> so we try to understand each other after marriage { and we try } / <B> [ ooh ] / <A> to change accordingly / <B> really",
+    "context_text": "<A> um like free uh in india we generally don't have love marriages / <B> mhm / <A> and it's all arranged by our families and / <B> right / <A> so um actually when we get married / <B> mhm / <A> so that's where the love starts and i don't know it's kind of which gets us together and because we don't know each other before marriage / <B> oh / <A> so we try to understand each other after marriage { and we try } / <B> [ uh-huh ] / <A> to change accordingly / <B> oh",
     "context_start": 226.52,
-    "context_end": 261.62949999999995,
+    "context_end": 261.937125,
     "feedback": [
         {
-            "name": "spontC_401_okay",
+            "name": "spontA_298_mhm",
             "start": 232.11,
-            "end": 232.639375,
-            "token": "okay"
-        },
-        {
-            "name": "spontE_241_mhm",
-            "start": 235.69,
-            "end": 236.239,
+            "end": 232.64587500000002,
             "token": "mhm"
         },
         {
-            "name": "spontA_158_uh-huh",
+            "name": "PR_043_right",
+            "start": 235.69,
+            "end": 236.35,
+            "token": "right"
+        },
+        {
+            "name": "spontC_111_mhm",
             "start": 240.77,
-            "end": 241.29237500000002,
+            "end": 241.2015,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_032_oh",
+            "start": 253.93,
+            "end": 254.83587500000002,
+            "token": "oh"
+        },
+        {
+            "name": "spontA_413_uh-huh",
+            "start": 257.6,
+            "end": 258.101375,
             "token": "uh-huh"
         },
         {
-            "name": "NR_037_no",
-            "start": 253.93,
-            "end": 254.40062500000002,
-            "token": "no"
-        },
-        {
-            "name": "spontA_092_ooh",
-            "start": 257.6,
-            "end": 258.44162500000004,
-            "token": "ooh"
-        },
-        {
-            "name": "PS_019_really",
+            "name": "spontD_379_oh",
             "start": 260.84,
-            "end": 261.62949999999995,
-            "token": "really"
+            "end": 261.937125,
+            "token": "oh"
         }
     ]
 }

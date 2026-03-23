@@ -1,39 +1,39 @@
 {
     "name": "fe_03_02714",
     "context_channel": 0,
-    "context_text": "<B> i think uh north korea is uh an issue that needs to be addressed you know however uh you need to tread lightly with uh what that country and their dictator a / <A> wow / <B> very dangerous uh country { seeing } / <A> [ wow ] / <B> that they have uh one missile pointing at south korea and one in tokyo / <A> no / <B> you know it's really yeah really dangerous more dangerous than uh the issue with iraq / <A> oh / <B> so / <A> uh-huh",
+    "context_text": "<B> i think uh north korea is uh an issue that needs to be addressed you know however uh you need to tread lightly with uh what that country and their dictator a / <A> right / <B> very dangerous uh country { seeing } / <A> [ really ] / <B> that they have uh one missile pointing at south korea and one in tokyo / <A> mhm / <B> you know it's really yeah really dangerous more dangerous than uh the issue with iraq / <A> wow / <B> so / <A> wow",
     "context_start": 38.62,
-    "context_end": 69.47087499999999,
+    "context_end": 70.063,
     "feedback": [
         {
-            "name": "PS_084_wow",
+            "name": "sun1_033_right",
             "start": 50.1,
-            "end": 51.124875,
-            "token": "wow"
+            "end": 50.953125,
+            "token": "right"
         },
         {
-            "name": "PS_101_wow",
+            "name": "PS_070_really",
             "start": 53.21,
-            "end": 54.148375,
+            "end": 53.898625,
+            "token": "really"
+        },
+        {
+            "name": "spontC_180_mhm",
+            "start": 59.19,
+            "end": 59.734375,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_082_wow",
+            "start": 66.93,
+            "end": 68.057,
             "token": "wow"
         },
         {
-            "name": "Sy_001_no",
-            "start": 59.19,
-            "end": 60.972125,
-            "token": "no"
-        },
-        {
-            "name": "Sy_071_oh",
-            "start": 66.93,
-            "end": 67.94912500000001,
-            "token": "oh"
-        },
-        {
-            "name": "spontC_128_uh-huh",
+            "name": "PS_178_wow",
             "start": 68.97,
-            "end": 69.47087499999999,
-            "token": "uh-huh"
+            "end": 70.063,
+            "token": "wow"
         }
     ]
 }

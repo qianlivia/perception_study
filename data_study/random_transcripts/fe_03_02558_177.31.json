@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02558",
     "context_channel": 0,
-    "context_text": "<B> and ah it's not within our it's not within our capacity to ah change that / <A> oh / <B> but i think that ah the the link the idea that the al qaeda that those who attacked us at the world trade center and at the pentagon / <A> uh-huh / <B> that they are not ah living on thin air and that every / <A> no / <B> single country that harbors that supports iraq being one of them syria being one of them / <A> mhm",
+    "context_text": "<B> and ah it's not within our it's not within our capacity to ah change that / <A> mhm / <B> but i think that ah the the link the idea that the al qaeda that those who attacked us at the world trade center and at the pentagon / <A> mhm / <B> that they are not ah living on thin air and that every / <A> wow / <B> single country that harbors that supports iraq being one of them syria being one of them / <A> uh-huh",
     "context_start": 177.31,
-    "context_end": 217.6465,
+    "context_end": 217.630875,
     "feedback": [
         {
-            "name": "Sy_041_oh",
+            "name": "spontA_407_mhm",
             "start": 186.47,
-            "end": 188.144125,
-            "token": "oh"
-        },
-        {
-            "name": "spontA_401_uh-huh",
-            "start": 202.85,
-            "end": 203.379,
-            "token": "uh-huh"
-        },
-        {
-            "name": "NR_092_no",
-            "start": 209.01,
-            "end": 210.05225,
-            "token": "no"
-        },
-        {
-            "name": "spontA_269_mhm",
-            "start": 217.13,
-            "end": 217.6465,
+            "end": 186.990625,
             "token": "mhm"
+        },
+        {
+            "name": "spontF_039_mhm",
+            "start": 202.85,
+            "end": 203.45024999999998,
+            "token": "mhm"
+        },
+        {
+            "name": "NegS_065_wow",
+            "start": 209.01,
+            "end": 209.92399999999998,
+            "token": "wow"
+        },
+        {
+            "name": "spontC_128_uh-huh",
+            "start": 217.13,
+            "end": 217.630875,
+            "token": "uh-huh"
         }
     ]
 }

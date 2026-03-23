@@ -1,27 +1,27 @@
 {
     "name": "fe_03_05847",
     "context_channel": 1,
-    "context_text": "<A> the gulf and the atlantic it that that's gonna you know that that transmits up here even { in the } / <B> [ yeah ] / <A> water and it just takes a week or two for it to move / <B> mhm / <A> so yeah but pacific's definitely cold that's why even in the summer you'll see people with like uh rash guards or like wet suits you know like real you know like short sleeve ones / <B> uh-huh",
+    "context_text": "<A> the gulf and the atlantic it that that's gonna you know that that transmits up here even { in the } / <B> [ oh ] / <A> water and it just takes a week or two for it to move / <B> uh-huh / <A> so yeah but pacific's definitely cold that's why even in the summer you'll see people with like uh rash guards or like wet suits you know like real you know like short sleeve ones / <B> mhm",
     "context_start": 501.0,
-    "context_end": 520.2479999999999,
+    "context_end": 520.032375,
     "feedback": [
         {
-            "name": "spontB_186_yeah",
+            "name": "spontF_288_oh",
             "start": 506.06,
-            "end": 506.637,
-            "token": "yeah"
+            "end": 506.929875,
+            "token": "oh"
         },
         {
-            "name": "spontF_513_mhm",
+            "name": "spontA_243_uh-huh",
             "start": 509.08,
-            "end": 509.5885,
-            "token": "mhm"
+            "end": 509.62,
+            "token": "uh-huh"
         },
         {
-            "name": "spontA_329_uh-huh",
+            "name": "spontA_239_mhm",
             "start": 519.52,
-            "end": 520.2479999999999,
-            "token": "uh-huh"
+            "end": 520.032375,
+            "token": "mhm"
         }
     ]
 }

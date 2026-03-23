@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02843",
     "context_channel": 0,
-    "context_text": "<B> you see them like appear at charities like oh you know uh be i i helped donate like two thousand dollars and please people call in and just give us your money for to help these poor kids it's like hello um why don't you donate more money { 'cause } / <A> [ mhm ] / <B> you obviously can afford it half the people here are you know out of jobs or trying to pay off their mortgage or what not { so what do you do } / <A> [ yeah ] / <B> you're just buying another mansion / <A> mhm / <B> yeah uh i i don't like it like all there's a lotta those people today { they're } / <A> [ yeah ]",
+    "context_text": "<B> you see them like appear at charities like oh you know uh be i i helped donate like two thousand dollars and please people call in and just give us your money for to help these poor kids it's like hello um why don't you donate more money { 'cause } / <A> [ oh ] / <B> you obviously can afford it half the people here are you know out of jobs or trying to pay off their mortgage or what not { so what do you do } / <A> [ oh ] / <B> you're just buying another mansion / <A> mhm / <B> yeah uh i i don't like it like all there's a lotta those people today { they're } / <A> [ right ]",
     "context_start": 476.25,
-    "context_end": 504.6355,
+    "context_end": 504.49,
     "feedback": [
         {
-            "name": "spontE_154_mhm",
+            "name": "spontF_207_oh",
             "start": 489.0,
-            "end": 489.6,
-            "token": "mhm"
+            "end": 489.384375,
+            "token": "oh"
         },
         {
-            "name": "spontE_026_yeah",
+            "name": "Sy_039_oh",
             "start": 495.05,
-            "end": 495.80325,
-            "token": "yeah"
+            "end": 496.3455,
+            "token": "oh"
         },
         {
-            "name": "spontE_156_mhm",
+            "name": "spontA_061_mhm",
             "start": 498.42,
-            "end": 499.02612500000004,
+            "end": 498.945375,
             "token": "mhm"
         },
         {
-            "name": "spontD_323_yeah",
+            "name": "PR_043_right",
             "start": 503.83,
-            "end": 504.6355,
-            "token": "yeah"
+            "end": 504.49,
+            "token": "right"
         }
     ]
 }

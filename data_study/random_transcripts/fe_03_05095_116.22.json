@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05095",
     "context_channel": 0,
-    "context_text": "<B> i have also heard um my friend i in atlanta had a similar problem she said she had very high shoes with like a platform kind { of } / <A> [ uh-huh ] / <B> heel and she thought maybe they suspected that there was you know li it was hollow with something in it or something { because } / <A> [ uh-huh ] / <B> they made her take her shoes off / <A> yeah / <B> um i i guess they just have to do these things randomly { but } / <A> [ yeah ]",
+    "context_text": "<B> i have also heard um my friend i in atlanta had a similar problem she said she had very high shoes with like a platform kind { of } / <A> [ yeah ] / <B> heel and she thought maybe they suspected that there was you know li it was hollow with something in it or something { because } / <A> [ right ] / <B> they made her take her shoes off / <A> yeah / <B> um i i guess they just have to do these things randomly { but } / <A> [ oh ]",
     "context_start": 116.22,
-    "context_end": 138.739625,
+    "context_end": 139.061375,
     "feedback": [
         {
-            "name": "spontD_026_uh-huh",
+            "name": "sun_011_yeah",
             "start": 125.56,
-            "end": 126.02787500000001,
-            "token": "uh-huh"
+            "end": 126.23075,
+            "token": "yeah"
         },
         {
-            "name": "spontC_095_uh-huh",
+            "name": "sun_028_right",
             "start": 132.13,
-            "end": 132.665875,
-            "token": "uh-huh"
+            "end": 132.859375,
+            "token": "right"
         },
         {
-            "name": "spontA_441_yeah",
+            "name": "spontF_562_yeah",
             "start": 133.71,
-            "end": 134.149125,
+            "end": 134.278875,
             "token": "yeah"
         },
         {
-            "name": "spontF_225_yeah",
+            "name": "spontA_108_oh",
             "start": 138.14,
-            "end": 138.739625,
-            "token": "yeah"
+            "end": 139.061375,
+            "token": "oh"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05286",
     "context_channel": 1,
-    "context_text": "<A> there's a um you know pretty big hispanic population right near usc so it's like { we're } / <B> [ yeah ] / <A> surrounded by it / <B> ooh / <A> but i don't know uh i really don't know you know maybe they do celebrate it maybe they don't / <B> yeah / <A> yeah i but i think they have like a i don't know a parade or something some kind of fair { that's all } / <B> [ wow ]",
+    "context_text": "<A> there's a um you know pretty big hispanic population right near usc so it's like { we're } / <B> [ yeah ] / <A> surrounded by it / <B> right / <A> but i don't know uh i really don't know you know maybe they do celebrate it maybe they don't / <B> wow / <A> yeah i but i think they have like a i don't know a parade or something some kind of fair { that's all } / <B> [ yeah ]",
     "context_start": 550.97,
-    "context_end": 573.49575,
+    "context_end": 572.661875,
     "feedback": [
         {
-            "name": "spontC_166_yeah",
+            "name": "spontC_084_yeah",
             "start": 555.76,
-            "end": 556.54175,
+            "end": 556.1875,
             "token": "yeah"
         },
         {
-            "name": "spontE_034_ooh",
+            "name": "sun1_032_right",
             "start": 558.65,
-            "end": 559.872375,
-            "token": "ooh"
+            "end": 559.493375,
+            "token": "right"
         },
         {
-            "name": "spontA_110_yeah",
+            "name": "PS_088_wow",
             "start": 564.81,
-            "end": 565.742125,
-            "token": "yeah"
+            "end": 565.9192499999999,
+            "token": "wow"
         },
         {
-            "name": "PS_108_wow",
+            "name": "spontB_276_yeah",
             "start": 572.35,
-            "end": 573.49575,
-            "token": "wow"
+            "end": 572.661875,
+            "token": "yeah"
         }
     ]
 }

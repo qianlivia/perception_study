@@ -1,32 +1,32 @@
 {
     "name": "fe_03_05335",
     "context_channel": 0,
-    "context_text": "<B> i uh got i got i contacted the aq ah not the aqha the uh american kennel club / <A> yes / <B> and got uh a lead on some breeder and actually they told me basically to go to the internet and get it off of there so i printed off twenty six pages of doberman breeders in { the } / <A> [ uh-huh ] / <B> united states so of course i i started with the ones closer to kentucky / <A> yeah / <B> uh and started calling and it took me two weeks to find anybody that had any puppies for sale and uh i finally found some a little bit west of fort worth texas / <A> yeah",
+    "context_text": "<B> i uh got i got i contacted the aq ah not the aqha the uh american kennel club / <A> yeah / <B> and got uh a lead on some breeder and actually they told me basically to go to the internet and get it off of there so i printed off twenty six pages of doberman breeders in { the } / <A> [ yeah ] / <B> united states so of course i i started with the ones closer to kentucky / <A> okay / <B> uh and started calling and it took me two weeks to find anybody that had any puppies for sale and uh i finally found some a little bit west of fort worth texas / <A> yeah",
     "context_start": 367.62,
-    "context_end": 406.091875,
+    "context_end": 406.0575,
     "feedback": [
         {
-            "name": "PR_009_yes",
+            "name": "spontF_491_yeah",
             "start": 374.92,
-            "end": 375.701125,
-            "token": "yes"
-        },
-        {
-            "name": "spontA_240_uh-huh",
-            "start": 386.44,
-            "end": 386.9565,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontC_393_yeah",
-            "start": 391.74,
-            "end": 392.45050000000003,
+            "end": 375.686625,
             "token": "yeah"
         },
         {
-            "name": "spontD_074_yeah",
+            "name": "spontF_243_yeah",
+            "start": 386.44,
+            "end": 387.282625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_386_okay",
+            "start": 391.74,
+            "end": 392.231125,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_041_yeah",
             "start": 405.19,
-            "end": 406.091875,
+            "end": 406.0575,
             "token": "yeah"
         }
     ]

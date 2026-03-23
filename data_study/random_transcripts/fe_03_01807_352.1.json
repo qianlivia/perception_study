@@ -1,32 +1,32 @@
 {
     "name": "fe_03_01807",
     "context_channel": 1,
-    "context_text": "<A> [ that's true ] there's a program called teach for america that um allows you to teach a lot quicker than i think you start teaching um or being a teacher aide while you're taking classes and { it's } / <B> [ yeah ] / <A> supposed to be a quick route to they they place you i think in schools that are have trouble finding teachers the disadvantaged schools / <B> oh / <A> and that can be both rewarding and stressful because { those } / <B> [ yeah ] / <A> schools are pretty stressed but / <B> yeah",
+    "context_text": "<A> [ that's true ] there's a program called teach for america that um allows you to teach a lot quicker than i think you start teaching um or being a teacher aide while you're taking classes and { it's } / <B> [ right ] / <A> supposed to be a quick route to they they place you i think in schools that are have trouble finding teachers the disadvantaged schools / <B> uh-huh / <A> and that can be both rewarding and stressful because { those } / <B> [ uh-huh ] / <A> schools are pretty stressed but / <B> yeah",
     "context_start": 352.1,
-    "context_end": 380.59225,
+    "context_end": 380.36725,
     "feedback": [
         {
-            "name": "spontC_266_yeah",
+            "name": "sun_013_right",
             "start": 367.17,
-            "end": 367.729375,
-            "token": "yeah"
+            "end": 368.0435,
+            "token": "right"
         },
         {
-            "name": "Sy_070_oh",
+            "name": "spontD_152_uh-huh",
             "start": 374.58,
-            "end": 375.87,
-            "token": "oh"
+            "end": 375.136375,
+            "token": "uh-huh"
         },
         {
-            "name": "spontB_238_yeah",
+            "name": "spontA_313_uh-huh",
             "start": 377.93,
-            "end": 378.9085,
-            "token": "yeah"
+            "end": 378.52387500000003,
+            "token": "uh-huh"
         },
         {
-            "name": "spontD_162_yeah",
+            "name": "spontD_142_yeah",
             "start": 379.89,
-            "end": 380.59225,
+            "end": 380.36725,
             "token": "yeah"
         }
     ]

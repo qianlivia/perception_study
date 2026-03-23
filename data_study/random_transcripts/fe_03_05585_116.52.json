@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05585",
     "context_channel": 1,
-    "context_text": "<A> just because of what happened and you know you realize how fragile fragile / <B> yeah / <A> stuff is and i also i think i you know living in new york city like i appreciate new york city a lot more now / <B> yes / <A> i think cause you know n not just cause i was born here / <B> no / <A> um but you know just i mean i feel you know we get picked on because we're number one and we're on top and i realize / <B> mhm",
+    "context_text": "<A> just because of what happened and you know you realize how fragile fragile / <B> yeah / <A> stuff is and i also i think i you know living in new york city like i appreciate new york city a lot more now / <B> right / <A> i think cause you know n not just cause i was born here / <B> yeah / <A> um but you know just i mean i feel you know we get picked on because we're number one and we're on top and i realize / <B> right",
     "context_start": 116.52,
-    "context_end": 141.638125,
+    "context_end": 141.88425,
     "feedback": [
         {
-            "name": "spontF_432_yeah",
+            "name": "spontE_267_yeah",
             "start": 121.51,
-            "end": 122.16487500000001,
+            "end": 122.19187500000001,
             "token": "yeah"
         },
         {
-            "name": "spontF_329_yes",
+            "name": "sun_013_right",
             "start": 129.48,
-            "end": 130.199625,
-            "token": "yes"
+            "end": 130.3535,
+            "token": "right"
         },
         {
-            "name": "NR_015_no",
+            "name": "spontD_287_yeah",
             "start": 133.35,
-            "end": 134.16575,
-            "token": "no"
+            "end": 133.80775,
+            "token": "yeah"
         },
         {
-            "name": "spontC_309_mhm",
+            "name": "sun1_031_right",
             "start": 141.09,
-            "end": 141.638125,
-            "token": "mhm"
+            "end": 141.88425,
+            "token": "right"
         }
     ]
 }

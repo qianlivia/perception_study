@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05193",
     "context_channel": 0,
-    "context_text": "<B> and um we'll get a one of the big big meals but we'll split it / <A> uh-huh / <B> and that's another thing that i i don't eat there is like you su suggested we our eating habits have changed because ah we don't need all that food and ah i find that if i eat ah t a a big meal then again ah i just don't feel the best / <A> uh-huh / <B> so anyway ah that's the way when we do eat out ah we do ah occasionally go to well burger king or mcdonald's or a fast food place and just { get } / <A> [ ooh ] / <B> a hamburger or something like that but ah my wife is quite ah knowledgeable in regard to diet / <A> yeah",
+    "context_text": "<B> and um we'll get a one of the big big meals but we'll split it / <A> yeah / <B> and that's another thing that i i don't eat there is like you su suggested we our eating habits have changed because ah we don't need all that food and ah i find that if i eat ah t a a big meal then again ah i just don't feel the best / <A> right / <B> so anyway ah that's the way when we do eat out ah we do ah occasionally go to well burger king or mcdonald's or a fast food place and just { get } / <A> [ yeah ] / <B> a hamburger or something like that but ah my wife is quite ah knowledgeable in regard to diet / <A> right",
     "context_start": 269.15,
-    "context_end": 322.626125,
+    "context_end": 322.822,
     "feedback": [
         {
-            "name": "spontA_037_uh-huh",
+            "name": "spontA_336_yeah",
             "start": 274.85,
-            "end": 275.438875,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontC_133_uh-huh",
-            "start": 298.05,
-            "end": 298.51050000000004,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontE_283_ooh",
-            "start": 311.98,
-            "end": 312.95225,
-            "token": "ooh"
-        },
-        {
-            "name": "spontA_174_yeah",
-            "start": 322.13,
-            "end": 322.626125,
+            "end": 275.464625,
             "token": "yeah"
+        },
+        {
+            "name": "spontC_360_right",
+            "start": 298.05,
+            "end": 298.628875,
+            "token": "right"
+        },
+        {
+            "name": "spontE_243_yeah",
+            "start": 311.98,
+            "end": 312.604375,
+            "token": "yeah"
+        },
+        {
+            "name": "sun1_029_right",
+            "start": 322.13,
+            "end": 322.822,
+            "token": "right"
         }
     ]
 }

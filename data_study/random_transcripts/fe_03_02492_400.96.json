@@ -1,27 +1,27 @@
 {
     "name": "fe_03_02492",
     "context_channel": 0,
-    "context_text": "<B> and you we're we're nosy / <A> yeah / <B> we're nosy and and it's just we like to see that other people a are other similar to us with that you know i i think we we become more comfortable as as like you know people that are living in this day and age maybe that's part of it too with all the crap going on it's like you know it's a diversion you you know the wars and the { the } / <A> [ ooh ] / <B> unexpected this and that and tragedies it's it's kind of lighthearted and there's no to it not really / <A> uh-huh",
+    "context_text": "<B> and you we're we're nosy / <A> uh-huh / <B> we're nosy and and it's just we like to see that other people a are other similar to us with that you know i i think we we become more comfortable as as like you know people that are living in this day and age maybe that's part of it too with all the crap going on it's like you know it's a diversion you you know the wars and the { the } / <A> [ yeah ] / <B> unexpected this and that and tragedies it's it's kind of lighthearted and there's no to it not really / <A> wow",
     "context_start": 400.96,
-    "context_end": 434.02637500000003,
+    "context_end": 434.06800000000004,
     "feedback": [
         {
-            "name": "spontD_281_yeah",
+            "name": "spontF_116_uh-huh",
             "start": 402.82,
-            "end": 403.328375,
+            "end": 403.417625,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_205_yeah",
+            "start": 424.61,
+            "end": 425.35325,
             "token": "yeah"
         },
         {
-            "name": "spontA_135_ooh",
-            "start": 424.61,
-            "end": 425.648,
-            "token": "ooh"
-        },
-        {
-            "name": "spontA_406_uh-huh",
+            "name": "PS_105_wow",
             "start": 433.42,
-            "end": 434.02637500000003,
-            "token": "uh-huh"
+            "end": 434.06800000000004,
+            "token": "wow"
         }
     ]
 }

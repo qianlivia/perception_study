@@ -1,57 +1,57 @@
 {
     "name": "fe_03_05390",
     "context_channel": 1,
-    "context_text": "<A> [ yeah i mean ] fortunately i i really believe that you know let's say if let's say if my kid did something wrong you know / <B> oh / <A> uh i think he should pay for it you know / <B> wow / <A> this is but then some of the laws in this country are so i mean for example some of the drug uh / <B> ah / <A> are so so way out of whack you know / <B> wow / <A> that that you might have a tough time saying { do i } / <B> [ oh ] / <A> want to uh for a for a simple thing somebody does you know he may go to jail for ten years you know / <B> no / <A> and you know the law's wrong you know / <B> yeah / <A> but uh so it at that time { that } / <B> [ yeah ]",
+    "context_text": "<A> [ yeah i mean ] fortunately i i really believe that you know let's say if let's say if my kid did something wrong you know / <B> right / <A> uh i think he should pay for it you know / <B> oh / <A> this is but then some of the laws in this country are so i mean for example some of the drug uh / <B> exactly / <A> are so so way out of whack you know / <B> uh-huh / <A> that that you might have a tough time saying { do i } / <B> [ mhm ] / <A> want to uh for a for a simple thing somebody does you know he may go to jail for ten years you know / <B> oh / <A> and you know the law's wrong you know / <B> okay / <A> but uh so it at that time { that } / <B> [ right ]",
     "context_start": 145.96,
-    "context_end": 179.6045,
+    "context_end": 179.653625,
     "feedback": [
         {
-            "name": "NegS_042_oh",
+            "name": "sun_028_right",
             "start": 152.55,
-            "end": 153.75050000000002,
-            "token": "oh"
+            "end": 153.27937500000002,
+            "token": "right"
         },
         {
-            "name": "PS_064_wow",
+            "name": "Sy_020_oh",
             "start": 154.71,
-            "end": 155.59787500000002,
-            "token": "wow"
-        },
-        {
-            "name": "spontC_173_ah",
-            "start": 162.13,
-            "end": 163.194,
-            "token": "ah"
-        },
-        {
-            "name": "PS_092_wow",
-            "start": 165.53,
-            "end": 166.447125,
-            "token": "wow"
-        },
-        {
-            "name": "spontA_108_oh",
-            "start": 167.73,
-            "end": 168.651375,
+            "end": 156.58337500000002,
             "token": "oh"
         },
         {
-            "name": "NR_058_no",
+            "name": "sun_038_exactly",
+            "start": 162.13,
+            "end": 163.2155,
+            "token": "exactly"
+        },
+        {
+            "name": "NS_037_uh-huh",
+            "start": 165.53,
+            "end": 166.619625,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_120_mhm",
+            "start": 167.73,
+            "end": 168.18487499999998,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_499_oh",
             "start": 173.05,
-            "end": 173.753375,
-            "token": "no"
+            "end": 173.980625,
+            "token": "oh"
         },
         {
-            "name": "spontE_168_yeah",
+            "name": "sun1_017_okay",
             "start": 175.32,
-            "end": 176.02612499999998,
-            "token": "yeah"
+            "end": 176.232875,
+            "token": "okay"
         },
         {
-            "name": "spontB_328_yeah",
+            "name": "sun1_030_right",
             "start": 178.86,
-            "end": 179.6045,
-            "token": "yeah"
+            "end": 179.653625,
+            "token": "right"
         }
     ]
 }

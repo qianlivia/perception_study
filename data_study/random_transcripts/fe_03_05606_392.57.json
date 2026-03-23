@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05606",
     "context_channel": 0,
-    "context_text": "<B> that is a major issue is that how much liberty are we willing to give up for safety / <A> uh-huh / <B> and you know i mean um i mean ben franklin said you know those who are willing to give up essential liberty for safety deserve neither / <A> uh-huh / <B> you know so you know liberty you know there there safety is an illusion / <A> uh-huh / <B> it's impossible to to be safe at all times you know you know could die tomorrow walking crossing the street so i mean it's it's basically you know directly or indirectly um the war of terrorism has made the government you know um given the government the opportunity to control us more strictly you know { and } / <A> [ wow ]",
+    "context_text": "<B> that is a major issue is that how much liberty are we willing to give up for safety / <A> yeah / <B> and you know i mean um i mean ben franklin said you know those who are willing to give up essential liberty for safety deserve neither / <A> uh-huh / <B> you know so you know liberty you know there there safety is an illusion / <A> mhm / <B> it's impossible to to be safe at all times you know you know could die tomorrow walking crossing the street so i mean it's it's basically you know directly or indirectly um the war of terrorism has made the government you know um given the government the opportunity to control us more strictly you know { and } / <A> [ right ]",
     "context_start": 392.57,
-    "context_end": 439.429125,
+    "context_end": 439.35887499999995,
     "feedback": [
         {
-            "name": "spontB_198_uh-huh",
+            "name": "spontA_422_yeah",
             "start": 398.37,
-            "end": 398.86325,
-            "token": "uh-huh"
+            "end": 398.9335,
+            "token": "yeah"
         },
         {
-            "name": "spontD_152_uh-huh",
+            "name": "spontC_186_uh-huh",
             "start": 408.57,
-            "end": 409.126375,
+            "end": 409.04525,
             "token": "uh-huh"
         },
         {
-            "name": "spontF_082_uh-huh",
+            "name": "spontE_225_mhm",
             "start": 414.76,
-            "end": 415.6195,
-            "token": "uh-huh"
+            "end": 415.226,
+            "token": "mhm"
         },
         {
-            "name": "spontA_261_wow",
+            "name": "spontC_360_right",
             "start": 438.78,
-            "end": 439.429125,
-            "token": "wow"
+            "end": 439.35887499999995,
+            "token": "right"
         }
     ]
 }

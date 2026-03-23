@@ -1,39 +1,39 @@
 {
     "name": "fe_03_00058",
     "context_channel": 0,
-    "context_text": "<B> yeah pretty dangerous my uh i get very nervous about my son because he just got out of college / <A> uh-huh / <B> and of course during college a lot of what they do / <A> yeah / <B> so i we've always preached to him please you know if you're going to if you are going to drink stay home or stay wherever you are / <A> mhm / <B> and uh so you don't get in any trouble or hurt somebody you know / <A> wow / <B> including yourself that's all / <A> yeah",
+    "context_text": "<B> yeah pretty dangerous my uh i get very nervous about my son because he just got out of college / <A> okay / <B> and of course during college a lot of what they do / <A> mhm / <B> so i we've always preached to him please you know if you're going to if you are going to drink stay home or stay wherever you are / <A> mhm / <B> and uh so you don't get in any trouble or hurt somebody you know / <A> okay / <B> including yourself that's all / <A> right",
     "context_start": 163.88,
-    "context_end": 200.516375,
+    "context_end": 200.753375,
     "feedback": [
         {
-            "name": "spontA_315_uh-huh",
+            "name": "spontD_383_okay",
             "start": 174.45,
-            "end": 174.9665,
-            "token": "uh-huh"
+            "end": 175.121375,
+            "token": "okay"
         },
         {
-            "name": "spontF_512_yeah",
+            "name": "spontC_392_mhm",
             "start": 179.47,
-            "end": 180.45625,
-            "token": "yeah"
-        },
-        {
-            "name": "spontC_355_mhm",
-            "start": 190.92,
-            "end": 191.458,
+            "end": 180.093375,
             "token": "mhm"
         },
         {
-            "name": "PS_107_wow",
-            "start": 196.52,
-            "end": 197.816125,
-            "token": "wow"
+            "name": "spontA_407_mhm",
+            "start": 190.92,
+            "end": 191.44062499999998,
+            "token": "mhm"
         },
         {
-            "name": "spontC_139_yeah",
+            "name": "spontF_234_okay",
+            "start": 196.52,
+            "end": 197.147875,
+            "token": "okay"
+        },
+        {
+            "name": "sun1_032_right",
             "start": 199.91,
-            "end": 200.516375,
-            "token": "yeah"
+            "end": 200.753375,
+            "token": "right"
         }
     ]
 }

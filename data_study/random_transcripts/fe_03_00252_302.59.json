@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00252",
     "context_channel": 1,
-    "context_text": "<A> but you know i didn't know that so i did a first i got on my phone because i i was at my client's office so i always used their phone first so i quickly dialed the phone and i kept getting the all circuits are busy message so i { was like } / <B> [ absolutely ] / <A> you know what i'm gonna try my cell phone so i then get on the cell phone and try and i kept getting the same thing i was like oh my god what if my family's there you know i have friends who live like in different parts of the city like they live in the bronx and in / <B> yeah / <A> queens and in brooklyn and in staten island and stuff but they're in the city all the time so i was like oh my god did they maybe go downtown today who knows like one of my girlfriends / <B> oh / <A> is an attorney so she's always downtown for whatever reason / <B> yes",
+    "context_text": "<A> but you know i didn't know that so i did a first i got on my phone because i i was at my client's office so i always used their phone first so i quickly dialed the phone and i kept getting the all circuits are busy message so i { was like } / <B> [ right ] / <A> you know what i'm gonna try my cell phone so i then get on the cell phone and try and i kept getting the same thing i was like oh my god what if my family's there you know i have friends who live like in different parts of the city like they live in the bronx and in / <B> right / <A> queens and in brooklyn and in staten island and stuff but they're in the city all the time so i was like oh my god did they maybe go downtown today who knows like one of my girlfriends / <B> yeah / <A> is an attorney so she's always downtown for whatever reason / <B> right",
     "context_start": 302.59,
-    "context_end": 338.45275,
+    "context_end": 338.443625,
     "feedback": [
         {
-            "name": "sun_002_absolutely",
+            "name": "sun_028_right",
             "start": 314.32,
-            "end": 315.3655,
-            "token": "absolutely"
+            "end": 315.049375,
+            "token": "right"
         },
         {
-            "name": "spontB_275_yeah",
+            "name": "spontC_360_right",
             "start": 326.3,
-            "end": 326.844,
+            "end": 326.878875,
+            "token": "right"
+        },
+        {
+            "name": "spontA_441_yeah",
+            "start": 334.39,
+            "end": 334.829125,
             "token": "yeah"
         },
         {
-            "name": "spontA_122_oh",
-            "start": 334.39,
-            "end": 335.15175,
-            "token": "oh"
-        },
-        {
-            "name": "PR_050_yes",
+            "name": "sun1_030_right",
             "start": 337.65,
-            "end": 338.45275,
-            "token": "yes"
+            "end": 338.443625,
+            "token": "right"
         }
     ]
 }

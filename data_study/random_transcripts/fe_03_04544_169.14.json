@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04544",
     "context_channel": 0,
-    "context_text": "<B> yeah no i agree with that the only problem i have with affirmative action or in general with what's going on with the news the news are misleading you { because } / <A> [ wow ] / <B> all the time you know uh people are waiting for drama { and you } / <A> [ yeah ] / <B> don't have uh you don't have uh so people sometimes say it's too much affirmative action but unfortunately it's entertainment / <A> yeah / <B> and uh uh it's why sometime people are upset because it's too much but guess what when we have an earthquake you see only the building falling you don't see the building which stay stay there because if you see it's not entertainment { so } / <A> [ oh ]",
+    "context_text": "<B> yeah no i agree with that the only problem i have with affirmative action or in general with what's going on with the news the news are misleading you { because } / <A> [ mhm ] / <B> all the time you know uh people are waiting for drama { and you } / <A> [ oh ] / <B> don't have uh you don't have uh so people sometimes say it's too much affirmative action but unfortunately it's entertainment / <A> right / <B> and uh uh it's why sometime people are upset because it's too much but guess what when we have an earthquake you see only the building falling you don't see the building which stay stay there because if you see it's not entertainment { so } / <A> [ really ]",
     "context_start": 169.14,
-    "context_end": 201.237625,
+    "context_end": 201.2065,
     "feedback": [
         {
-            "name": "PS_190_wow",
+            "name": "spontB_302_mhm",
             "start": 177.78,
-            "end": 179.136875,
-            "token": "wow"
+            "end": 178.339,
+            "token": "mhm"
         },
         {
-            "name": "spontD_236_yeah",
+            "name": "spontA_122_oh",
             "start": 181.54,
-            "end": 182.29125,
-            "token": "yeah"
-        },
-        {
-            "name": "spontC_280_yeah",
-            "start": 187.9,
-            "end": 188.44162500000002,
-            "token": "yeah"
-        },
-        {
-            "name": "spontF_292_oh",
-            "start": 200.35,
-            "end": 201.237625,
+            "end": 182.30175,
             "token": "oh"
+        },
+        {
+            "name": "sun1_033_right",
+            "start": 187.9,
+            "end": 188.753125,
+            "token": "right"
+        },
+        {
+            "name": "NS_002_really",
+            "start": 200.35,
+            "end": 201.2065,
+            "token": "really"
         }
     ]
 }

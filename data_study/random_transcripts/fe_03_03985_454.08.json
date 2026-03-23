@@ -1,27 +1,27 @@
 {
     "name": "fe_03_03985",
     "context_channel": 1,
-    "context_text": "<A> he was classic i mean / <B> yeah / <A> it was many years later that i realized how good he was and then i had to see anything i could with him you know / <B> mhm / <A> and bob hope / <B> uh-huh",
+    "context_text": "<A> he was classic i mean / <B> right / <A> it was many years later that i realized how good he was and then i had to see anything i could with him you know / <B> okay / <A> and bob hope / <B> right",
     "context_start": 454.08,
-    "context_end": 465.16075,
+    "context_end": 465.4995,
     "feedback": [
         {
-            "name": "spontE_067_yeah",
+            "name": "sun1_030_right",
             "start": 455.15,
-            "end": 455.744875,
-            "token": "yeah"
+            "end": 455.943625,
+            "token": "right"
         },
         {
-            "name": "spontA_253_mhm",
+            "name": "spontC_401_okay",
             "start": 462.26,
-            "end": 462.733625,
-            "token": "mhm"
+            "end": 462.789375,
+            "token": "okay"
         },
         {
-            "name": "spontC_195_uh-huh",
+            "name": "sun_007_right",
             "start": 464.61,
-            "end": 465.16075,
-            "token": "uh-huh"
+            "end": 465.4995,
+            "token": "right"
         }
     ]
 }

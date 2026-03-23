@@ -1,27 +1,27 @@
 {
     "name": "fe_03_02839",
     "context_channel": 0,
-    "context_text": "<B> yet they put two women together / <A> mhm / <B> to discuss televised sports which is so it's kinda weird / <A> yeah / <B> it's more of a guy's domain / <A> uh-huh",
+    "context_text": "<B> yet they put two women together / <A> uh-huh / <B> to discuss televised sports which is so it's kinda weird / <A> right / <B> it's more of a guy's domain / <A> okay",
     "context_start": 257.34,
-    "context_end": 267.09375,
+    "context_end": 267.70799999999997,
     "feedback": [
         {
-            "name": "spontB_240_mhm",
+            "name": "spontD_020_uh-huh",
             "start": 260.77,
-            "end": 261.255875,
-            "token": "mhm"
-        },
-        {
-            "name": "spontD_236_yeah",
-            "start": 263.77,
-            "end": 264.52125,
-            "token": "yeah"
-        },
-        {
-            "name": "spontA_041_uh-huh",
-            "start": 266.53,
-            "end": 267.09375,
+            "end": 261.27462499999996,
             "token": "uh-huh"
+        },
+        {
+            "name": "sun_028_right",
+            "start": 263.77,
+            "end": 264.499375,
+            "token": "right"
+        },
+        {
+            "name": "spontF_583_okay",
+            "start": 266.53,
+            "end": 267.70799999999997,
+            "token": "okay"
         }
     ]
 }

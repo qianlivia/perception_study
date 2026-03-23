@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05492",
     "context_channel": 1,
-    "context_text": "<A> you know we talk from you know we come from a very open part of the country / <B> okay / <A> and you know you can go to the south in in t i remember when i was your age / <B> oh / <A> i went to texas in southern texas brownsville and { they } / <B> [ mhm ] / <A> had never seen a jew / <B> oh",
+    "context_text": "<A> you know we talk from you know we come from a very open part of the country / <B> okay / <A> and you know you can go to the south in in t i remember when i was your age / <B> yeah / <A> i went to texas in southern texas brownsville and { they } / <B> [ mhm ] / <A> had never seen a jew / <B> right",
     "context_start": 309.92,
-    "context_end": 328.522375,
+    "context_end": 328.61424999999997,
     "feedback": [
         {
-            "name": "spontC_511_okay",
+            "name": "spontD_386_okay",
             "start": 315.69,
-            "end": 316.200875,
+            "end": 316.393,
             "token": "okay"
         },
         {
-            "name": "spontC_018_oh",
+            "name": "spontB_345_yeah",
             "start": 322.45,
-            "end": 323.229625,
-            "token": "oh"
+            "end": 322.887,
+            "token": "yeah"
         },
         {
-            "name": "PR_032_mhm",
+            "name": "spontD_344_mhm",
             "start": 326.12,
-            "end": 326.851375,
+            "end": 326.635875,
             "token": "mhm"
         },
         {
-            "name": "spontF_320_oh",
+            "name": "sun1_031_right",
             "start": 327.82,
-            "end": 328.522375,
-            "token": "oh"
+            "end": 328.61424999999997,
+            "token": "right"
         }
     ]
 }

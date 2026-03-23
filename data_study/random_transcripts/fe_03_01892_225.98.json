@@ -1,39 +1,39 @@
 {
     "name": "fe_03_01892",
     "context_channel": 0,
-    "context_text": "<B> right right but i mean i know that i strongly you know i did you know i mean i had a child out of wedlock and i kind of went against my parents you know i had to drop out of college and then i ended up i'm back in it now / <A> yeah / <B> but they supported me through everything you know { they } / <A> [ oh ] / <B> they're really really good parents and i have to always thank them for that you know at first they weren't all there for me but i mean they came through / <A> yeah / <B> they handled it better than i thought they would and now you know this is their grandbaby you know { they want } / <A> [ mhm ] / <B> her all of the time and you can have her you know but i i love my daughter she's she's wild and i stay home during the day with her / <A> wow",
+    "context_text": "<B> right right but i mean i know that i strongly you know i did you know i mean i had a child out of wedlock and i kind of went against my parents you know i had to drop out of college and then i ended up i'm back in it now / <A> yeah / <B> but they supported me through everything you know { they } / <A> [ wow ] / <B> they're really really good parents and i have to always thank them for that you know at first they weren't all there for me but i mean they came through / <A> okay / <B> they handled it better than i thought they would and now you know this is their grandbaby you know { they want } / <A> [ right ] / <B> her all of the time and you can have her you know but i i love my daughter she's she's wild and i stay home during the day with her / <A> right",
     "context_start": 225.98,
-    "context_end": 265.816625,
+    "context_end": 265.6935,
     "feedback": [
         {
-            "name": "spontD_184_yeah",
+            "name": "spontC_335_yeah",
             "start": 238.31,
-            "end": 238.92775,
+            "end": 239.4615,
             "token": "yeah"
         },
         {
-            "name": "PS_035_oh",
+            "name": "PS_141_wow",
             "start": 242.24,
-            "end": 243.071625,
-            "token": "oh"
-        },
-        {
-            "name": "spontE_297_yeah",
-            "start": 251.06,
-            "end": 251.75125,
-            "token": "yeah"
-        },
-        {
-            "name": "spontC_322_mhm",
-            "start": 256.07,
-            "end": 256.642875,
-            "token": "mhm"
-        },
-        {
-            "name": "PS_100_wow",
-            "start": 264.82,
-            "end": 265.816625,
+            "end": 243.994,
             "token": "wow"
+        },
+        {
+            "name": "sun1_017_okay",
+            "start": 251.06,
+            "end": 251.97287500000002,
+            "token": "okay"
+        },
+        {
+            "name": "PR_048_right",
+            "start": 256.07,
+            "end": 256.705125,
+            "token": "right"
+        },
+        {
+            "name": "sun_013_right",
+            "start": 264.82,
+            "end": 265.6935,
+            "token": "right"
         }
     ]
 }

@@ -1,45 +1,45 @@
 {
     "name": "fe_03_04447",
     "context_channel": 1,
-    "context_text": "<A> and uh i pay double i mean i pay for the private and the public education / <B> yeah / <A> i i feel strongly about it uh not that i not that i uh have to sit 'em in school and pray every day { or } / <B> [ uh-huh ] / <A> that that excludes em but at the same { time } / <B> [ mhm ] / <A> i feel that that the values that they're being taught uh th the like you say teachers are being asked to be what they never were they're not they're not social workers they're not they're not { supposed to } / <B> [ uh-huh ] / <A> be disciplinarians they're supposed to be educators / <B> uh-huh / <A> uh i feel that then uh that um people like me have been excluded from the mainstream and been / <B> yeah",
+    "context_text": "<A> and uh i pay double i mean i pay for the private and the public education / <B> right / <A> i i feel strongly about it uh not that i not that i uh have to sit 'em in school and pray every day { or } / <B> [ mhm ] / <A> that that excludes em but at the same { time } / <B> [ exactly ] / <A> i feel that that the values that they're being taught uh th the like you say teachers are being asked to be what they never were they're not they're not social workers they're not they're not { supposed to } / <B> [ right ] / <A> be disciplinarians they're supposed to be educators / <B> yeah / <A> uh i feel that then uh that um people like me have been excluded from the mainstream and been / <B> mhm",
     "context_start": 195.67,
-    "context_end": 229.75925,
+    "context_end": 229.827,
     "feedback": [
         {
-            "name": "spont_220_yeah",
+            "name": "PR_048_right",
             "start": 200.71,
-            "end": 201.416625,
-            "token": "yeah"
+            "end": 201.345125,
+            "token": "right"
         },
         {
-            "name": "spontF_037_uh-huh",
+            "name": "spontC_499_mhm",
             "start": 208.02,
-            "end": 208.58625,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontA_345_mhm",
-            "start": 210.05,
-            "end": 210.74550000000002,
+            "end": 208.761875,
             "token": "mhm"
         },
         {
-            "name": "spontE_040_uh-huh",
+            "name": "sun_042_exactly",
+            "start": 210.05,
+            "end": 211.00725,
+            "token": "exactly"
+        },
+        {
+            "name": "sun1_033_right",
             "start": 219.89,
-            "end": 220.42012499999998,
-            "token": "uh-huh"
+            "end": 220.743125,
+            "token": "right"
         },
         {
-            "name": "spontC_133_uh-huh",
+            "name": "PR_052_yeah",
             "start": 222.27,
-            "end": 222.7305,
-            "token": "uh-huh"
+            "end": 223.120875,
+            "token": "yeah"
         },
         {
-            "name": "spontF_552_yeah",
+            "name": "spontA_054_mhm",
             "start": 229.3,
-            "end": 229.75925,
-            "token": "yeah"
+            "end": 229.827,
+            "token": "mhm"
         }
     ]
 }

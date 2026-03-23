@@ -1,27 +1,27 @@
 {
     "name": "fe_03_02210",
     "context_channel": 1,
-    "context_text": "<A> and they have on it that they have it started in san francisco so the first one time you go there it will um come up to a san francisco page / <B> yes / <A> but they have other cities that you can go and find information out or jobs or whatever um it's just unreal it's i've never seen anything like it / <B> yeah / <A> you know and they have part time jobs etcetera jobs they have you know chat rooms they have um apartments for rent and just stuff an and legitimate businesses around here use it { and i think } / <B> [ uh-huh ]",
+    "context_text": "<A> and they have on it that they have it started in san francisco so the first one time you go there it will um come up to a san francisco page / <B> right / <A> but they have other cities that you can go and find information out or jobs or whatever um it's just unreal it's i've never seen anything like it / <B> really / <A> you know and they have part time jobs etcetera jobs they have you know chat rooms they have um apartments for rent and just stuff an and legitimate businesses around here use it { and i think } / <B> [ okay ]",
     "context_start": 522.43,
-    "context_end": 561.520875,
+    "context_end": 561.4768750000001,
     "feedback": [
         {
-            "name": "PR_019_yes",
+            "name": "PR_043_right",
             "start": 532.52,
-            "end": 533.63825,
-            "token": "yes"
+            "end": 533.18,
+            "token": "right"
         },
         {
-            "name": "spontC_281_yeah",
+            "name": "PS_070_really",
             "start": 543.99,
-            "end": 544.5265,
-            "token": "yeah"
+            "end": 544.678625,
+            "token": "really"
         },
         {
-            "name": "spontD_084_uh-huh",
+            "name": "spontE_391_okay",
             "start": 560.96,
-            "end": 561.520875,
-            "token": "uh-huh"
+            "end": 561.4768750000001,
+            "token": "okay"
         }
     ]
 }

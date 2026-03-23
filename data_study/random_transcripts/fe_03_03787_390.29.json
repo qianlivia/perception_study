@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03787",
     "context_channel": 1,
-    "context_text": "<A> like you don't you know i would feel so offended but it helped me when i got older because they would always say lighten up { you } / <B> [ uh-huh ] / <A> know that was like they what they always said to me now like you've got to lighten up okay we're just teasing you { you } / <B> [ yeah ] / <A> can't you know get offended by every joke we make about you { and it helped } / <B> [ no ] / <A> cause now i don't take when people tease me you know it's part of my sense of humor / <B> uh-huh",
+    "context_text": "<A> like you don't you know i would feel so offended but it helped me when i got older because they would always say lighten up { you } / <B> [ yeah ] / <A> know that was like they what they always said to me now like you've got to lighten up okay we're just teasing you { you } / <B> [ uh-huh ] / <A> can't you know get offended by every joke we make about you { and it helped } / <B> [ mhm ] / <A> cause now i don't take when people tease me you know it's part of my sense of humor / <B> mhm",
     "context_start": 390.29,
-    "context_end": 411.01000000000005,
+    "context_end": 411.03787500000004,
     "feedback": [
         {
-            "name": "spontA_093_uh-huh",
+            "name": "spontA_106_yeah",
             "start": 396.68,
-            "end": 397.221375,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontF_240_yeah",
-            "start": 401.65,
-            "end": 402.219875,
+            "end": 397.19462500000003,
             "token": "yeah"
         },
         {
-            "name": "NR_026_no",
-            "start": 405.46,
-            "end": 406.421625,
-            "token": "no"
+            "name": "spontD_380_uh-huh",
+            "start": 401.65,
+            "end": 402.16612499999997,
+            "token": "uh-huh"
         },
         {
-            "name": "spontA_243_uh-huh",
+            "name": "spontA_395_mhm",
+            "start": 405.46,
+            "end": 406.07462499999997,
+            "token": "mhm"
+        },
+        {
+            "name": "spontE_268_mhm",
             "start": 410.47,
-            "end": 411.01000000000005,
-            "token": "uh-huh"
+            "end": 411.03787500000004,
+            "token": "mhm"
         }
     ]
 }

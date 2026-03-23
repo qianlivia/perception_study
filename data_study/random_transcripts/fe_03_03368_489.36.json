@@ -1,39 +1,39 @@
 {
     "name": "fe_03_03368",
     "context_channel": 0,
-    "context_text": "<B> [ i do too ] i think that um that that's something that i wouldn't be able to get past um the the way i feel / <A> yeah / <B> is that uh if if they're gorgeous and { i fall } / <A> [ yeah ] / <B> in love with them for who they are { and then } / <A> [ yeah ] / <B> afterwards something happened like their face got { burnt or } / <A> [ okay ] / <B> something that would be fine because i love them for who they are / <A> oh",
+    "context_text": "<B> [ i do too ] i think that um that that's something that i wouldn't be able to get past um the the way i feel / <A> really / <B> is that uh if if they're gorgeous and { i fall } / <A> [ mhm ] / <B> in love with them for who they are { and then } / <A> [ yeah ] / <B> afterwards something happened like their face got { burnt or } / <A> [ really ] / <B> something that would be fine because i love them for who they are / <A> right",
     "context_start": 489.36,
-    "context_end": 511.290875,
+    "context_end": 510.963375,
     "feedback": [
         {
-            "name": "spontD_240_yeah",
+            "name": "NS_082_really",
             "start": 496.28,
-            "end": 496.94275,
-            "token": "yeah"
+            "end": 497.03225,
+            "token": "really"
         },
         {
-            "name": "spontF_441_yeah",
+            "name": "spontB_326_mhm",
             "start": 501.02,
-            "end": 501.513875,
-            "token": "yeah"
+            "end": 501.563,
+            "token": "mhm"
         },
         {
-            "name": "spontB_322_yeah",
+            "name": "spontD_083_yeah",
             "start": 503.07,
-            "end": 503.96625,
+            "end": 504.016375,
             "token": "yeah"
         },
         {
-            "name": "spontE_152_okay",
+            "name": "sun2_001_really",
             "start": 506.42,
-            "end": 507.04725,
-            "token": "okay"
+            "end": 507.150625,
+            "token": "really"
         },
         {
-            "name": "spontF_016_oh",
+            "name": "sun1_032_right",
             "start": 510.12,
-            "end": 511.290875,
-            "token": "oh"
+            "end": 510.963375,
+            "token": "right"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03076",
     "context_channel": 0,
-    "context_text": "<B> oh i really do that bugs me or especially when you know we've got a neighbor that we live next to and they've got a really oh i'd say you know it's a medium sized dog but to me it's a big dog / <A> uh-huh / <B> you know big dogs lay big poops / <A> mhm / <B> okay the kids like to play outside you know w i a one thing i would you know i just absolutely hate is if the kids step in that and then they track it in our carpet / <A> uh-huh / <B> because then we're left to clean it up and that just / <A> uh-huh",
+    "context_text": "<B> oh i really do that bugs me or especially when you know we've got a neighbor that we live next to and they've got a really oh i'd say you know it's a medium sized dog but to me it's a big dog / <A> oh / <B> you know big dogs lay big poops / <A> right / <B> okay the kids like to play outside you know w i a one thing i would you know i just absolutely hate is if the kids step in that and then they track it in our carpet / <A> yeah / <B> because then we're left to clean it up and that just / <A> yeah",
     "context_start": 276.47,
-    "context_end": 306.80962500000004,
+    "context_end": 306.29462500000005,
     "feedback": [
         {
-            "name": "spontA_076_uh-huh",
+            "name": "spontF_499_oh",
             "start": 288.82,
-            "end": 289.342375,
-            "token": "uh-huh"
+            "end": 289.750625,
+            "token": "oh"
         },
         {
-            "name": "spontA_319_mhm",
+            "name": "sun1_030_right",
             "start": 291.23,
-            "end": 291.82525000000004,
-            "token": "mhm"
+            "end": 292.02362500000004,
+            "token": "right"
         },
         {
-            "name": "spontE_321_uh-huh",
+            "name": "spontF_624_yeah",
             "start": 302.96,
-            "end": 303.455625,
-            "token": "uh-huh"
+            "end": 303.45437499999997,
+            "token": "yeah"
         },
         {
-            "name": "NS_037_uh-huh",
+            "name": "spontA_382_yeah",
             "start": 305.72,
-            "end": 306.80962500000004,
-            "token": "uh-huh"
+            "end": 306.29462500000005,
+            "token": "yeah"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03380",
     "context_channel": 1,
-    "context_text": "<A> another year and then we we lived together we lived together actually before we we it was about six months before the divorce finally went through { we were } / <B> [ yeah ] / <A> living together and um you know he was like i wanna marry you right now you know i'm tired of this let's get this done and / <B> yep / <A> um i finally got the divorce and it it actually came on my birthday { it was } / <B> [ yeah ] / <A> final on my birthday it was great that's the best birthday present in the world { you } / <B> [ yeah ]",
+    "context_text": "<A> another year and then we we lived together we lived together actually before we we it was about six months before the divorce finally went through { we were } / <B> [ right ] / <A> living together and um you know he was like i wanna marry you right now you know i'm tired of this let's get this done and / <B> right / <A> um i finally got the divorce and it it actually came on my birthday { it was } / <B> [ yeah ] / <A> final on my birthday it was great that's the best birthday present in the world { you } / <B> [ mhm ]",
     "context_start": 460.71,
-    "context_end": 485.786125,
+    "context_end": 485.507,
     "feedback": [
         {
-            "name": "PR_054_yeah",
+            "name": "PR_048_right",
             "start": 468.87,
-            "end": 469.845375,
-            "token": "yeah"
+            "end": 469.505125,
+            "token": "right"
         },
         {
-            "name": "PR_020_yep",
+            "name": "sun1_029_right",
             "start": 476.16,
-            "end": 476.81162500000005,
-            "token": "yep"
+            "end": 476.85200000000003,
+            "token": "right"
         },
         {
-            "name": "spontD_407_yeah",
+            "name": "spontD_236_yeah",
             "start": 481.17,
-            "end": 481.587625,
+            "end": 481.92125000000004,
             "token": "yeah"
         },
         {
-            "name": "spontF_289_yeah",
+            "name": "spontA_054_mhm",
             "start": 484.98,
-            "end": 485.786125,
-            "token": "yeah"
+            "end": 485.507,
+            "token": "mhm"
         }
     ]
 }

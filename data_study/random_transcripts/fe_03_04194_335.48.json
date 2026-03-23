@@ -1,39 +1,39 @@
 {
     "name": "fe_03_04194",
     "context_channel": 0,
-    "context_text": "<B> is no the big studios the big eight studios have all the power { and unfortunately } / <A> [ uh-huh ] / <B> the way films are budgeted the big blockbuster films even they are so expensive that studios get together to finance a film because { it's just } / <A> [ wow ] / <B> because it just takes so much to produce a great blockbuster film { but what i'd } / <A> [ yeah ] / <B> like to do i mean one of the studios or the earlier studios that isn't really run this way anymore was united artists / <A> mhm / <B> and it was called united artists because it was run by um actors um it was the artists themselves who wanted to run that studio { so that it would be } / <A> [ wow ]",
+    "context_text": "<B> is no the big studios the big eight studios have all the power { and unfortunately } / <A> [ okay ] / <B> the way films are budgeted the big blockbuster films even they are so expensive that studios get together to finance a film because { it's just } / <A> [ mhm ] / <B> because it just takes so much to produce a great blockbuster film { but what i'd } / <A> [ oh ] / <B> like to do i mean one of the studios or the earlier studios that isn't really run this way anymore was united artists / <A> mhm / <B> and it was called united artists because it was run by um actors um it was the artists themselves who wanted to run that studio { so that it would be } / <A> [ yeah ]",
     "context_start": 335.48,
-    "context_end": 373.23400000000004,
+    "context_end": 372.1845,
     "feedback": [
         {
-            "name": "spontB_318_uh-huh",
+            "name": "spontF_386_okay",
             "start": 339.89,
-            "end": 340.566375,
-            "token": "uh-huh"
+            "end": 340.381125,
+            "token": "okay"
         },
         {
-            "name": "PS_172_wow",
+            "name": "spontC_304_mhm",
             "start": 351.49,
-            "end": 353.2345,
-            "token": "wow"
-        },
-        {
-            "name": "spontE_366_yeah",
-            "start": 355.43,
-            "end": 356.397,
-            "token": "yeah"
-        },
-        {
-            "name": "NS_071_mhm",
-            "start": 362.7,
-            "end": 363.788,
+            "end": 352.008,
             "token": "mhm"
         },
         {
-            "name": "PS_141_wow",
+            "name": "spontF_016_oh",
+            "start": 355.43,
+            "end": 356.60087500000003,
+            "token": "oh"
+        },
+        {
+            "name": "spontB_191_mhm",
+            "start": 362.7,
+            "end": 363.425375,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_662_yeah",
             "start": 371.48,
-            "end": 373.23400000000004,
-            "token": "wow"
+            "end": 372.1845,
+            "token": "yeah"
         }
     ]
 }

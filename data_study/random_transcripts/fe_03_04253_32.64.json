@@ -1,45 +1,45 @@
 {
     "name": "fe_03_04253",
     "context_channel": 1,
-    "context_text": "<A> um i was i went to um uh i was born in a in the city and i was going to school in the city / <B> yeah / <A> um i had the opportunity to go to a special school that was um away from my neighborhood { um } / <B> [ yeah ] / <A> i went and did that and i think i would not do that again i think i would stay in my neighborhood school because it it would have been i would have stayed more with my friends and / <B> uh-huh / <A> like they still go back to the old um reunions and stuff / <B> yeah / <A> um wh where i went to school uh people came from like all over the place { so that } / <B> [ yeah ] / <A> when once you left school there was you know everybody got either got well we didn't have school buses in those days but everybody got on a trolley or a train or a bus and / <B> uh-huh",
+    "context_text": "<A> um i was i went to um uh i was born in a in the city and i was going to school in the city / <B> yeah / <A> um i had the opportunity to go to a special school that was um away from my neighborhood { um } / <B> [ yeah ] / <A> i went and did that and i think i would not do that again i think i would stay in my neighborhood school because it it would have been i would have stayed more with my friends and / <B> yeah / <A> like they still go back to the old um reunions and stuff / <B> mhm / <A> um wh where i went to school uh people came from like all over the place { so that } / <B> [ okay ] / <A> when once you left school there was you know everybody got either got well we didn't have school buses in those days but everybody got on a trolley or a train or a bus and / <B> yeah",
     "context_start": 32.64,
-    "context_end": 86.65525,
+    "context_end": 86.812,
     "feedback": [
         {
-            "name": "spontB_135_yeah",
+            "name": "spontE_239_yeah",
             "start": 42.19,
-            "end": 42.666,
+            "end": 42.916875,
             "token": "yeah"
         },
         {
-            "name": "spontE_196_yeah",
+            "name": "spontC_122_yeah",
             "start": 50.97,
-            "end": 51.8695,
+            "end": 51.731875,
             "token": "yeah"
         },
         {
-            "name": "spontB_180_uh-huh",
+            "name": "spontF_054_yeah",
             "start": 63.13,
-            "end": 63.662375000000004,
-            "token": "uh-huh"
+            "end": 63.724875000000004,
+            "token": "yeah"
         },
         {
-            "name": "spontF_659_yeah",
+            "name": "spontA_269_mhm",
             "start": 69.02,
-            "end": 69.45025,
-            "token": "yeah"
+            "end": 69.53649999999999,
+            "token": "mhm"
         },
         {
-            "name": "spontB_037_yeah",
+            "name": "spontF_181_okay",
             "start": 75.04,
-            "end": 75.74650000000001,
-            "token": "yeah"
+            "end": 75.781875,
+            "token": "okay"
         },
         {
-            "name": "spontA_199_uh-huh",
+            "name": "spontD_052_yeah",
             "start": 86.05,
-            "end": 86.65525,
-            "token": "uh-huh"
+            "end": 86.812,
+            "token": "yeah"
         }
     ]
 }

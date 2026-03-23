@@ -1,27 +1,27 @@
 {
     "name": "fe_03_02044",
     "context_channel": 0,
-    "context_text": "<B> yeah we've been because like i said we just got a dog so and when we moved into this house it's nice because it has sidewalks and that so we've been walking like crazy trying to wear him out / <A> mhm / <B> and outside playing ball and that so / <A> yep / <B> yeah but um / <A> mhm",
+    "context_text": "<B> yeah we've been because like i said we just got a dog so and when we moved into this house it's nice because it has sidewalks and that so we've been walking like crazy trying to wear him out / <A> yeah / <B> and outside playing ball and that so / <A> right / <B> yeah but um / <A> right",
     "context_start": 169.03,
-    "context_end": 184.14437500000003,
+    "context_end": 184.30200000000002,
     "feedback": [
         {
-            "name": "spontB_121_mhm",
+            "name": "spontC_063_yeah",
             "start": 179.1,
-            "end": 179.6335,
-            "token": "mhm"
+            "end": 179.614,
+            "token": "yeah"
         },
         {
-            "name": "PR_027_yep",
+            "name": "spontC_360_right",
             "start": 181.59,
-            "end": 182.13275000000002,
-            "token": "yep"
+            "end": 182.168875,
+            "token": "right"
         },
         {
-            "name": "spontC_380_mhm",
+            "name": "sun1_029_right",
             "start": 183.61,
-            "end": 184.14437500000003,
-            "token": "mhm"
+            "end": 184.30200000000002,
+            "token": "right"
         }
     ]
 }

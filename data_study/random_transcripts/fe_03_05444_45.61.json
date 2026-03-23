@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05444",
     "context_channel": 1,
-    "context_text": "<A> yeah exactly um i've found that uh uh you don't have tivo do you / <B> oh / <A> oh i i've found that now that i've had it for a couple of years and you get kind of accustomed to fast forwarding through the parts that bore you uh not being able to do that in the movie theater just makes these things uh i don't know a a little bit difficult to sit through / <B> oh / <A> uh i mean the the pausing is nice too but but fast forwarding through the the silly back story love story part / <B> yeah / <A> is uh it's a pretty nice feature too um i guess uh i guess the other thing was uh they they asked what was the last movie we saw / <B> uh-huh",
+    "context_text": "<A> yeah exactly um i've found that uh uh you don't have tivo do you / <B> yeah / <A> oh i i've found that now that i've had it for a couple of years and you get kind of accustomed to fast forwarding through the parts that bore you uh not being able to do that in the movie theater just makes these things uh i don't know a a little bit difficult to sit through / <B> okay / <A> uh i mean the the pausing is nice too but but fast forwarding through the the silly back story love story part / <B> yeah / <A> is uh it's a pretty nice feature too um i guess uh i guess the other thing was uh they they asked what was the last movie we saw / <B> mhm",
     "context_start": 45.61,
-    "context_end": 92.7525,
+    "context_end": 93.13975,
     "feedback": [
         {
-            "name": "spontF_499_oh",
+            "name": "PR_052_yeah",
             "start": 52.51,
-            "end": 53.440625,
-            "token": "oh"
-        },
-        {
-            "name": "Sy_003_oh",
-            "start": 70.59,
-            "end": 71.497,
-            "token": "oh"
-        },
-        {
-            "name": "spontD_338_yeah",
-            "start": 81.07,
-            "end": 81.725375,
+            "end": 53.360875,
             "token": "yeah"
         },
         {
-            "name": "spontD_080_uh-huh",
+            "name": "spontE_405_okay",
+            "start": 70.59,
+            "end": 71.264375,
+            "token": "okay"
+        },
+        {
+            "name": "spontA_355_yeah",
+            "start": 81.07,
+            "end": 81.679125,
+            "token": "yeah"
+        },
+        {
+            "name": "PR_046_mhm",
             "start": 92.2,
-            "end": 92.7525,
-            "token": "uh-huh"
+            "end": 93.13975,
+            "token": "mhm"
         }
     ]
 }

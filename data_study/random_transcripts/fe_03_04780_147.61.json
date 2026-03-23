@@ -1,39 +1,39 @@
 {
     "name": "fe_03_04780",
     "context_channel": 0,
-    "context_text": "<B> right oh yeah absolutely like my my dad my dad quit smoking cigarettes um but he only smokes cigars and usually only socially he doesn't smoke in the house anymore but my mother will never quit cause she doesn't want to quit / <A> yes / <B> you know we we all told her you should quit um my parents are in england so i i don't i don't know if they have any ads over there / <A> yeah / <B> but um it doesn't if they do it hasn't done any good for her i i think maybe it helps prevent um somewhat in in teenagers picking it up / <A> wow / <B> and not having it out there so much i mean when i was a teenager it was everywhere everybody smoked / <A> uh-huh / <B> and and i guess ah now there's a lot more education about what damage it does to the body and i think teenagers are a lot more aware of it / <A> oh",
+    "context_text": "<B> right oh yeah absolutely like my my dad my dad quit smoking cigarettes um but he only smokes cigars and usually only socially he doesn't smoke in the house anymore but my mother will never quit cause she doesn't want to quit / <A> right / <B> you know we we all told her you should quit um my parents are in england so i i don't i don't know if they have any ads over there / <A> right / <B> but um it doesn't if they do it hasn't done any good for her i i think maybe it helps prevent um somewhat in in teenagers picking it up / <A> yeah / <B> and not having it out there so much i mean when i was a teenager it was everywhere everybody smoked / <A> right / <B> and and i guess ah now there's a lot more education about what damage it does to the body and i think teenagers are a lot more aware of it / <A> yeah",
     "context_start": 147.61,
-    "context_end": 202.81825,
+    "context_end": 202.886375,
     "feedback": [
         {
-            "name": "spontF_214_yes",
+            "name": "sun_028_right",
             "start": 161.04,
-            "end": 161.883375,
-            "token": "yes"
+            "end": 161.769375,
+            "token": "right"
         },
         {
-            "name": "sun1_022_yeah",
+            "name": "sun_013_right",
             "start": 170.94,
-            "end": 171.772625,
+            "end": 171.8135,
+            "token": "right"
+        },
+        {
+            "name": "spontD_083_yeah",
+            "start": 185.31,
+            "end": 186.256375,
             "token": "yeah"
         },
         {
-            "name": "PS_165_wow",
-            "start": 185.31,
-            "end": 186.546125,
-            "token": "wow"
-        },
-        {
-            "name": "spontC_207_uh-huh",
+            "name": "sun1_032_right",
             "start": 191.48,
-            "end": 191.960875,
-            "token": "uh-huh"
+            "end": 192.323375,
+            "token": "right"
         },
         {
-            "name": "spontE_043_oh",
+            "name": "spontD_408_yeah",
             "start": 202.16,
-            "end": 202.81825,
-            "token": "oh"
+            "end": 202.886375,
+            "token": "yeah"
         }
     ]
 }

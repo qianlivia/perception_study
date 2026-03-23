@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03465",
     "context_channel": 1,
-    "context_text": "<A> um they're talking about what's the most important thing in a life partner / <B> yeah / <A> and i'm thirty about to be thirty five i've been { with } / <B> [ uh-huh ] / <A> the same girl for more than twelve years / <B> no / <A> we're still not married / <B> really",
+    "context_text": "<A> um they're talking about what's the most important thing in a life partner / <B> wow / <A> and i'm thirty about to be thirty five i've been { with } / <B> [ okay ] / <A> the same girl for more than twelve years / <B> really / <A> we're still not married / <B> exactly",
     "context_start": 13.35,
-    "context_end": 29.53225,
+    "context_end": 29.8095,
     "feedback": [
         {
-            "name": "PR_055_yeah",
+            "name": "PS_155_wow",
             "start": 18.9,
-            "end": 19.593124999999997,
-            "token": "yeah"
+            "end": 20.695,
+            "token": "wow"
         },
         {
-            "name": "spontF_058_uh-huh",
+            "name": "spontC_020_okay",
             "start": 23.27,
-            "end": 23.7805,
-            "token": "uh-huh"
+            "end": 23.745,
+            "token": "okay"
         },
         {
-            "name": "NR_038_no",
+            "name": "sun2_001_really",
             "start": 26.99,
-            "end": 27.812624999999997,
-            "token": "no"
+            "end": 27.720625,
+            "token": "really"
         },
         {
-            "name": "NS_082_really",
+            "name": "sun_026_exactly",
             "start": 28.78,
-            "end": 29.53225,
-            "token": "really"
+            "end": 29.8095,
+            "token": "exactly"
         }
     ]
 }

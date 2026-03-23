@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02326",
     "context_channel": 0,
-    "context_text": "<B> no it's just comes you know genetically like i'm twenty three now but { i have } / <A> [ yes ] / <B> some bags under my eyes and i've had them ever since i was like twelve so { there's } / <A> [ uh-huh ] / <B> like in our genes / <A> absolutely / <B> so i just put make up over them so you can't see them but { you know that's } / <A> [ okay ]",
+    "context_text": "<B> no it's just comes you know genetically like i'm twenty three now but { i have } / <A> [ yeah ] / <B> some bags under my eyes and i've had them ever since i was like twelve so { there's } / <A> [ wow ] / <B> like in our genes / <A> yeah / <B> so i just put make up over them so you can't see them but { you know that's } / <A> [ wow ]",
     "context_start": 312.9,
-    "context_end": 328.202,
+    "context_end": 328.790375,
     "feedback": [
         {
-            "name": "PR_050_yes",
+            "name": "spontE_228_yeah",
             "start": 317.48,
-            "end": 318.28275,
-            "token": "yes"
+            "end": 318.09112500000003,
+            "token": "yeah"
         },
         {
-            "name": "spontF_258_uh-huh",
+            "name": "PS_067_wow",
             "start": 321.68,
-            "end": 322.27025000000003,
-            "token": "uh-huh"
+            "end": 322.744625,
+            "token": "wow"
         },
         {
-            "name": "sun_002_absolutely",
+            "name": "spontC_278_yeah",
             "start": 323.59,
-            "end": 324.6355,
-            "token": "absolutely"
+            "end": 324.28049999999996,
+            "token": "yeah"
         },
         {
-            "name": "spontC_286_okay",
+            "name": "PS_135_wow",
             "start": 327.55,
-            "end": 328.202,
-            "token": "okay"
+            "end": 328.790375,
+            "token": "wow"
         }
     ]
 }

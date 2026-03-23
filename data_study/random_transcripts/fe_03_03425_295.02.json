@@ -1,39 +1,39 @@
 {
     "name": "fe_03_03425",
     "context_channel": 1,
-    "context_text": "<A> yeah they one actually the our daughter's adoption she's going to be a year in two weeks / <B> yeah / <A> and her adoption was final this past monday / <B> okay / <A> so she's from los angeles she's filipino / <B> yeah / <A> and my son is korean / <B> ah / <A> he's from los angeles too he's just turned five / <B> yeah",
+    "context_text": "<A> yeah they one actually the our daughter's adoption she's going to be a year in two weeks / <B> wow / <A> and her adoption was final this past monday / <B> yeah / <A> so she's from los angeles she's filipino / <B> right / <A> and my son is korean / <B> okay / <A> he's from los angeles too he's just turned five / <B> mhm",
     "context_start": 295.02,
-    "context_end": 317.94874999999996,
+    "context_end": 317.773375,
     "feedback": [
         {
-            "name": "spontB_051_yeah",
+            "name": "PS_171_wow",
             "start": 303.7,
-            "end": 304.191375,
+            "end": 305.844875,
+            "token": "wow"
+        },
+        {
+            "name": "spontF_299_yeah",
+            "start": 309.18,
+            "end": 309.703125,
             "token": "yeah"
         },
         {
-            "name": "spontF_074_okay",
-            "start": 309.18,
-            "end": 309.824125,
+            "name": "PR_048_right",
+            "start": 312.49,
+            "end": 313.125125,
+            "token": "right"
+        },
+        {
+            "name": "spontD_383_okay",
+            "start": 314.82,
+            "end": 315.491375,
             "token": "okay"
         },
         {
-            "name": "spontD_024_yeah",
-            "start": 312.49,
-            "end": 312.910125,
-            "token": "yeah"
-        },
-        {
-            "name": "spontA_245_ah",
-            "start": 314.82,
-            "end": 315.40524999999997,
-            "token": "ah"
-        },
-        {
-            "name": "spontD_353_yeah",
+            "name": "spontB_351_mhm",
             "start": 317.33,
-            "end": 317.94874999999996,
-            "token": "yeah"
+            "end": 317.773375,
+            "token": "mhm"
         }
     ]
 }

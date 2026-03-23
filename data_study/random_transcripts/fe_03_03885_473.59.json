@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03885",
     "context_channel": 1,
-    "context_text": "<A> makes you feel better / <B> wow / <A> so that's uh one thing that i do try to find things that are funny even when i rent movies um at blockbuster or we have video places that rent movies for like ninety nine cents / <B> no / <A> i always look for a comedy or something light hearted / <B> mhm / <A> where my husband would like something more serious or / <B> yes",
+    "context_text": "<A> makes you feel better / <B> right / <A> so that's uh one thing that i do try to find things that are funny even when i rent movies um at blockbuster or we have video places that rent movies for like ninety nine cents / <B> mhm / <A> i always look for a comedy or something light hearted / <B> right / <A> where my husband would like something more serious or / <B> right",
     "context_start": 473.59,
-    "context_end": 497.27524999999997,
+    "context_end": 497.429375,
     "feedback": [
         {
-            "name": "PS_155_wow",
+            "name": "sun_013_right",
             "start": 474.69,
-            "end": 476.485,
-            "token": "wow"
+            "end": 475.5635,
+            "token": "right"
         },
         {
-            "name": "sun2_021_no",
+            "name": "spontE_049_mhm",
             "start": 488.79,
-            "end": 489.71562500000005,
-            "token": "no"
-        },
-        {
-            "name": "spontA_070_mhm",
-            "start": 491.82,
-            "end": 492.34999999999997,
+            "end": 489.38800000000003,
             "token": "mhm"
         },
         {
-            "name": "sun1_026_yes",
+            "name": "sun1_030_right",
+            "start": 491.82,
+            "end": 492.613625,
+            "token": "right"
+        },
+        {
+            "name": "sun_028_right",
             "start": 496.7,
-            "end": 497.27524999999997,
-            "token": "yes"
+            "end": 497.429375,
+            "token": "right"
         }
     ]
 }

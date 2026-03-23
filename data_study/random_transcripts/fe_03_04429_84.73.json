@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04429",
     "context_channel": 0,
-    "context_text": "<B> what i had mentioned to uh the guy i spoke to before is um when i was young uh my parents um basically it was in two states pennsylvania new jersey but { we } / <A> [ no ] / <B> moved like about six times and every time we moved i'd give up friends okay / <A> yeah / <B> and you know we'd move for like three four years or something like that so um the friends that i have like i have maybe f i'd say four or five friends that i've had for fifteen twenty years now sometimes i've lost touch and then gotten back but um they're i mean such good friends i don't think i would you know / <A> yeah / <B> you know what you know if they said i got news for you sometimes it would be more with relatives you know s some relatives i'd i i would take the million dollars but you know the friends i want okay / <A> mhm",
+    "context_text": "<B> what i had mentioned to uh the guy i spoke to before is um when i was young uh my parents um basically it was in two states pennsylvania new jersey but { we } / <A> [ mhm ] / <B> moved like about six times and every time we moved i'd give up friends okay / <A> mhm / <B> and you know we'd move for like three four years or something like that so um the friends that i have like i have maybe f i'd say four or five friends that i've had for fifteen twenty years now sometimes i've lost touch and then gotten back but um they're i mean such good friends i don't think i would you know / <A> okay / <B> you know what you know if they said i got news for you sometimes it would be more with relatives you know s some relatives i'd i i would take the million dollars but you know the friends i want okay / <A> yeah",
     "context_start": 84.73,
-    "context_end": 146.042125,
+    "context_end": 146.176625,
     "feedback": [
         {
-            "name": "NR_072_no",
+            "name": "spontA_068_mhm",
             "start": 97.35,
-            "end": 98.22587499999999,
-            "token": "no"
-        },
-        {
-            "name": "spontD_101_yeah",
-            "start": 104.34,
-            "end": 105.105625,
-            "token": "yeah"
-        },
-        {
-            "name": "spontF_048_yeah",
-            "start": 128.77,
-            "end": 129.5445,
-            "token": "yeah"
-        },
-        {
-            "name": "spontC_496_mhm",
-            "start": 145.45,
-            "end": 146.042125,
+            "end": 97.95062499999999,
             "token": "mhm"
+        },
+        {
+            "name": "spontC_350_mhm",
+            "start": 104.34,
+            "end": 104.905,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_511_okay",
+            "start": 128.77,
+            "end": 129.280875,
+            "token": "okay"
+        },
+        {
+            "name": "spontA_421_yeah",
+            "start": 145.45,
+            "end": 146.176625,
+            "token": "yeah"
         }
     ]
 }

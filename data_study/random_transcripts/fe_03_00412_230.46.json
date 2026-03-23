@@ -1,45 +1,45 @@
 {
     "name": "fe_03_00412",
     "context_channel": 0,
-    "context_text": "<B> no i agree i think it's all real interesting and i think that you know because the computer like the robot you know it is cool { how } / <A> [ mhm ] / <B> they have the robot that connects you but but like you can take bits and pieces of anybody any word { that } / <A> [ mhm ] / <B> um people say and um you know cut them up and put them together to form different words and computerize the whole thing so / <A> yeah / <B> that's kind of interesting um perhaps that's what they are going to use this study for um i guess i don't know but it also might help to improve communication on the phone / <A> exactly / <B> but um yeah so um yeah computers and education i mean um it's interesting i got i went to college um for art graphic art / <A> yeah / <B> and when i was um going to school in uh i i studied in texas they didn't uh computers weren't incorporated in to our studies at that time / <A> okay",
+    "context_text": "<B> no i agree i think it's all real interesting and i think that you know because the computer like the robot you know it is cool { how } / <A> [ mhm ] / <B> they have the robot that connects you but but like you can take bits and pieces of anybody any word { that } / <A> [ exactly ] / <B> um people say and um you know cut them up and put them together to form different words and computerize the whole thing so / <A> uh-huh / <B> that's kind of interesting um perhaps that's what they are going to use this study for um i guess i don't know but it also might help to improve communication on the phone / <A> mhm / <B> but um yeah so um yeah computers and education i mean um it's interesting i got i went to college um for art graphic art / <A> mhm / <B> and when i was um going to school in uh i i studied in texas they didn't uh computers weren't incorporated in to our studies at that time / <A> wow",
     "context_start": 230.46,
-    "context_end": 296.554375,
+    "context_end": 297.40725,
     "feedback": [
         {
-            "name": "spontA_330_mhm",
+            "name": "spontF_312_mhm",
             "start": 237.97,
-            "end": 238.64825,
+            "end": 238.48862499999998,
+            "token": "mhm"
+        },
+        {
+            "name": "sun_016_exactly",
+            "start": 245.15,
+            "end": 246.1835,
+            "token": "exactly"
+        },
+        {
+            "name": "spontC_091_uh-huh",
+            "start": 254.18,
+            "end": 254.6985,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_496_mhm",
+            "start": 268.04,
+            "end": 268.54650000000004,
             "token": "mhm"
         },
         {
             "name": "spontC_496_mhm",
-            "start": 245.15,
-            "end": 245.74212500000002,
+            "start": 284.48,
+            "end": 285.072125,
             "token": "mhm"
         },
         {
-            "name": "spontC_266_yeah",
-            "start": 254.18,
-            "end": 254.739375,
-            "token": "yeah"
-        },
-        {
-            "name": "sun_038_exactly",
-            "start": 268.04,
-            "end": 269.12550000000005,
-            "token": "exactly"
-        },
-        {
-            "name": "spontC_336_yeah",
-            "start": 284.48,
-            "end": 285.082125,
-            "token": "yeah"
-        },
-        {
-            "name": "spontE_405_okay",
+            "name": "PS_024_wow",
             "start": 295.88,
-            "end": 296.554375,
-            "token": "okay"
+            "end": 297.40725,
+            "token": "wow"
         }
     ]
 }

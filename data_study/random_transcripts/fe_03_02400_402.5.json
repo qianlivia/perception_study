@@ -1,39 +1,39 @@
 {
     "name": "fe_03_02400",
     "context_channel": 0,
-    "context_text": "<B> really it's really an excuse that we use with ourselves when my stepfather wa had his surgery / <A> ooh / <B> i had been off cigarettes about a year / <A> no / <B> and while he was in surgery i was in the waiting room smoking i went back to smoking after he's having cancer surgery / <A> wow / <B> isn't that awful / <A> uh-huh / <B> worst part / <A> wow",
+    "context_text": "<B> really it's really an excuse that we use with ourselves when my stepfather wa had his surgery / <A> right / <B> i had been off cigarettes about a year / <A> right / <B> and while he was in surgery i was in the waiting room smoking i went back to smoking after he's having cancer surgery / <A> mhm / <B> isn't that awful / <A> exactly / <B> worst part / <A> really",
     "context_start": 402.5,
-    "context_end": 426.30237500000004,
+    "context_end": 426.048625,
     "feedback": [
         {
-            "name": "spontF_642_ooh",
+            "name": "sun1_032_right",
             "start": 409.27,
-            "end": 410.233,
-            "token": "ooh"
+            "end": 410.11337499999996,
+            "token": "right"
         },
         {
-            "name": "NR_058_no",
+            "name": "PR_043_right",
             "start": 413.42,
-            "end": 414.123375,
-            "token": "no"
+            "end": 414.08000000000004,
+            "token": "right"
         },
         {
-            "name": "PS_095_wow",
+            "name": "spontE_294_mhm",
             "start": 421.86,
-            "end": 422.895375,
-            "token": "wow"
+            "end": 422.458125,
+            "token": "mhm"
         },
         {
-            "name": "spontA_035_uh-huh",
+            "name": "sun_038_exactly",
             "start": 423.6,
-            "end": 424.07412500000004,
-            "token": "uh-huh"
+            "end": 424.68550000000005,
+            "token": "exactly"
         },
         {
-            "name": "PS_129_wow",
+            "name": "PS_070_really",
             "start": 425.36,
-            "end": 426.30237500000004,
-            "token": "wow"
+            "end": 426.048625,
+            "token": "really"
         }
     ]
 }

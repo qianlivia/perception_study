@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03647",
     "context_channel": 1,
-    "context_text": "<A> you know how they have salary caps for for those that are maybe like have been in uh the league longer i mean / <B> yeah / <A> the older you get / <B> yeah / <A> you you need you need more especially if you have a family / <B> yeah / <A> there it just goes back to well okay well why you didn't educate yourself or something you know / <B> mhm",
+    "context_text": "<A> you know how they have salary caps for for those that are maybe like have been in uh the league longer i mean / <B> yeah / <A> the older you get / <B> yeah / <A> you you need you need more especially if you have a family / <B> wow / <A> there it just goes back to well okay well why you didn't educate yourself or something you know / <B> right",
     "context_start": 138.68,
-    "context_end": 159.665375,
+    "context_end": 159.8295,
     "feedback": [
         {
-            "name": "spontD_231_yeah",
+            "name": "spontF_560_yeah",
             "start": 145.42,
-            "end": 146.000375,
+            "end": 146.00562499999998,
             "token": "yeah"
         },
         {
-            "name": "spontE_245_yeah",
+            "name": "spontB_373_yeah",
             "start": 148.62,
-            "end": 149.440875,
+            "end": 149.0315,
             "token": "yeah"
         },
         {
-            "name": "spontD_228_yeah",
+            "name": "PS_084_wow",
             "start": 152.69,
-            "end": 153.261125,
-            "token": "yeah"
+            "end": 153.714875,
+            "token": "wow"
         },
         {
-            "name": "spontB_191_mhm",
+            "name": "sun_007_right",
             "start": 158.94,
-            "end": 159.665375,
-            "token": "mhm"
+            "end": 159.8295,
+            "token": "right"
         }
     ]
 }

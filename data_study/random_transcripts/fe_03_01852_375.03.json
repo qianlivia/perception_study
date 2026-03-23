@@ -1,27 +1,27 @@
 {
     "name": "fe_03_01852",
     "context_channel": 0,
-    "context_text": "<B> nah / <A> wow / <B> but you see now then now they got um you can get your degree completely on line they / <A> mhm / <B> complete on line universities and all that that's that one's beyond me / <A> yeah",
+    "context_text": "<B> nah / <A> uh-huh / <B> but you see now then now they got um you can get your degree completely on line they / <A> exactly / <B> complete on line universities and all that that's that one's beyond me / <A> right",
     "context_start": 375.03,
-    "context_end": 389.51175,
+    "context_end": 389.14000000000004,
     "feedback": [
         {
-            "name": "PS_049_wow",
+            "name": "spontF_035_uh-huh",
             "start": 376.04,
-            "end": 377.846625,
-            "token": "wow"
+            "end": 376.57625,
+            "token": "uh-huh"
         },
         {
-            "name": "spontF_038_mhm",
+            "name": "sun_038_exactly",
             "start": 380.76,
-            "end": 381.288875,
-            "token": "mhm"
+            "end": 381.8455,
+            "token": "exactly"
         },
         {
-            "name": "spontF_111_yeah",
+            "name": "PR_043_right",
             "start": 388.48,
-            "end": 389.51175,
-            "token": "yeah"
+            "end": 389.14000000000004,
+            "token": "right"
         }
     ]
 }

@@ -1,50 +1,50 @@
 {
     "name": "fe_03_02113",
     "context_channel": 1,
-    "context_text": "<A> well see our this when you live uh in florida in a retirement community they're all displaced northerners / <B> mhm / <A> so generally all of our families are still up north / <B> oh / <A> and that's a good bonding when when holidays come and { uh } / <B> [ mhm ] / <A> everybody gets together because most of us aren't with our family so / <B> yeah / <A> our friends down here become an extension of your family { just } / <B> [ yeah ] / <A> because family is always so far away / <B> right / <A> almost everybody that retires here is from up north in cold weather / <B> yeah",
+    "context_text": "<A> well see our this when you live uh in florida in a retirement community they're all displaced northerners / <B> wow / <A> so generally all of our families are still up north / <B> exactly / <A> and that's a good bonding when when holidays come and { uh } / <B> [ yeah ] / <A> everybody gets together because most of us aren't with our family so / <B> yeah / <A> our friends down here become an extension of your family { just } / <B> [ okay ] / <A> because family is always so far away / <B> yeah / <A> almost everybody that retires here is from up north in cold weather / <B> yeah",
     "context_start": 420.12,
-    "context_end": 459.01837500000005,
+    "context_end": 459.286,
     "feedback": [
         {
-            "name": "spontE_049_mhm",
+            "name": "PS_152_wow",
             "start": 428.12,
-            "end": 428.718,
-            "token": "mhm"
+            "end": 428.715875,
+            "token": "wow"
         },
         {
-            "name": "spontB_365_oh",
+            "name": "sun_015_exactly",
             "start": 432.36,
-            "end": 432.95425,
-            "token": "oh"
+            "end": 433.46175,
+            "token": "exactly"
         },
         {
-            "name": "spontA_288_mhm",
+            "name": "spontA_133_yeah",
             "start": 437.88,
-            "end": 438.476625,
-            "token": "mhm"
+            "end": 438.512875,
+            "token": "yeah"
         },
         {
-            "name": "spontB_023_yeah",
+            "name": "spontB_037_yeah",
             "start": 443.75,
-            "end": 444.617125,
+            "end": 444.4565,
             "token": "yeah"
         },
         {
-            "name": "spontE_196_yeah",
+            "name": "spontB_018_okay",
             "start": 450.13,
-            "end": 451.0295,
+            "end": 450.697625,
+            "token": "okay"
+        },
+        {
+            "name": "spontC_035_yeah",
+            "start": 453.14,
+            "end": 453.715875,
             "token": "yeah"
         },
         {
-            "name": "sun_028_right",
-            "start": 453.14,
-            "end": 453.869375,
-            "token": "right"
-        },
-        {
-            "name": "spontF_101_yeah",
+            "name": "spontB_022_yeah",
             "start": 458.41,
-            "end": 459.01837500000005,
+            "end": 459.286,
             "token": "yeah"
         }
     ]

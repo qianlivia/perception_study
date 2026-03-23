@@ -1,39 +1,39 @@
 {
     "name": "fe_03_04344",
     "context_channel": 0,
-    "context_text": "<B> i think it would depend on whether or not i could explain beforehand { to } / <A> [ yeah ] / <B> my best friend why i was doing what i was doing / <A> yeah / <B> and i would have to figure out some way in which i could compensate her and her family / <A> uh-huh / <B> with my ah winnings if i decided to accept them / <A> oh / <B> b but ah ah i'm not sure i would / <A> yeah",
+    "context_text": "<B> i think it would depend on whether or not i could explain beforehand { to } / <A> [ okay ] / <B> my best friend why i was doing what i was doing / <A> right / <B> and i would have to figure out some way in which i could compensate her and her family / <A> uh-huh / <B> with my ah winnings if i decided to accept them / <A> yeah / <B> b but ah ah i'm not sure i would / <A> right",
     "context_start": 14.61,
-    "context_end": 47.88,
+    "context_end": 48.163125,
     "feedback": [
         {
-            "name": "spontF_641_yeah",
+            "name": "spontE_405_okay",
             "start": 19.65,
-            "end": 20.207375,
-            "token": "yeah"
+            "end": 20.324375,
+            "token": "okay"
         },
         {
-            "name": "spontF_508_yeah",
+            "name": "sun_007_right",
             "start": 24.4,
-            "end": 25.109624999999998,
-            "token": "yeah"
+            "end": 25.289499999999997,
+            "token": "right"
         },
         {
-            "name": "spontC_207_uh-huh",
+            "name": "spontD_152_uh-huh",
             "start": 35.77,
-            "end": 36.250875,
+            "end": 36.326375000000006,
             "token": "uh-huh"
         },
         {
-            "name": "spontD_193_oh",
+            "name": "sun_045_yeah",
             "start": 43.96,
-            "end": 44.71125,
-            "token": "oh"
+            "end": 44.399125,
+            "token": "yeah"
         },
         {
-            "name": "spontC_353_yeah",
+            "name": "sun1_033_right",
             "start": 47.31,
-            "end": 47.88,
-            "token": "yeah"
+            "end": 48.163125,
+            "token": "right"
         }
     ]
 }

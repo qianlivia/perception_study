@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04566",
     "context_channel": 0,
-    "context_text": "<B> [ oh all right so in others ] you buy a tape and many different people see it at different times / <A> yeah / <B> yes so then i guess it may make sense { in } / <A> [ yeah ] / <B> my in my tape store once a tape 's been around the store for a while they usually sell it out for sometimes as low as as ten bucks { but } / <A> [ yeah ] / <B> matter of fact occasionally they'll have a special where it's as low as like three for twenty / <A> yeah",
+    "context_text": "<B> [ oh all right so in others ] you buy a tape and many different people see it at different times / <A> right / <B> yes so then i guess it may make sense { in } / <A> [ uh-huh ] / <B> my in my tape store once a tape 's been around the store for a while they usually sell it out for sometimes as low as as ten bucks { but } / <A> [ right ] / <B> matter of fact occasionally they'll have a special where it's as low as like three for twenty / <A> mhm",
     "context_start": 504.13,
-    "context_end": 524.8787500000001,
+    "context_end": 525.051375,
     "feedback": [
         {
-            "name": "spontC_135_yeah",
+            "name": "PR_043_right",
             "start": 508.36,
-            "end": 509.04762500000004,
-            "token": "yeah"
+            "end": 509.02000000000004,
+            "token": "right"
         },
         {
-            "name": "spontD_390_yeah",
+            "name": "spontC_207_uh-huh",
             "start": 511.28,
-            "end": 512.314,
-            "token": "yeah"
+            "end": 511.760875,
+            "token": "uh-huh"
         },
         {
-            "name": "spontB_316_yeah",
+            "name": "sun1_030_right",
             "start": 520.18,
-            "end": 520.78325,
-            "token": "yeah"
+            "end": 520.973625,
+            "token": "right"
         },
         {
-            "name": "spontF_062_yeah",
+            "name": "spontE_122_mhm",
             "start": 524.33,
-            "end": 524.8787500000001,
-            "token": "yeah"
+            "end": 525.051375,
+            "token": "mhm"
         }
     ]
 }

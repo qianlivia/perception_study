@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01371",
     "context_channel": 1,
-    "context_text": "<A> i mean if it's a book that the school has banned then the parent you know should should know have that list anyway / <B> yeah / <A> so if they want them to still read it they can read it at home / <B> yeah / <A> but um i do think that the parents should have the final veto especially / <B> yeah / <A> in the you're not allowed to read for whatever reason / <B> yes",
+    "context_text": "<A> i mean if it's a book that the school has banned then the parent you know should should know have that list anyway / <B> okay / <A> so if they want them to still read it they can read it at home / <B> really / <A> but um i do think that the parents should have the final veto especially / <B> right / <A> in the you're not allowed to read for whatever reason / <B> uh-huh",
     "context_start": 157.51,
-    "context_end": 180.347125,
+    "context_end": 179.867625,
     "feedback": [
         {
-            "name": "spontB_143_yeah",
+            "name": "spontC_020_okay",
             "start": 165.1,
-            "end": 165.776125,
-            "token": "yeah"
+            "end": 165.575,
+            "token": "okay"
         },
         {
-            "name": "spontD_083_yeah",
+            "name": "sun2_001_really",
             "start": 168.34,
-            "end": 169.286375,
-            "token": "yeah"
+            "end": 169.070625,
+            "token": "really"
         },
         {
-            "name": "spontD_180_yeah",
+            "name": "sun_028_right",
             "start": 173.44,
-            "end": 174.083125,
-            "token": "yeah"
+            "end": 174.169375,
+            "token": "right"
         },
         {
-            "name": "PR_014_yes",
+            "name": "spontE_304_uh-huh",
             "start": 179.38,
-            "end": 180.347125,
-            "token": "yes"
+            "end": 179.867625,
+            "token": "uh-huh"
         }
     ]
 }

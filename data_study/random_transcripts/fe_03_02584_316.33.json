@@ -1,45 +1,45 @@
 {
     "name": "fe_03_02584",
     "context_channel": 1,
-    "context_text": "<A> [ well i can see ] i can see why a lot of people don't vote because it's they feel helpless / <B> yeah / <A> because the majority tends to follow whoever is going to offer them something and as long as people are looking for a handout that's the way their votes will go / <B> mhm / <A> which means they're controlled / <B> oh / <A> but you know i'm i'm not prepared to try to change the minds of a couple of hundred million people / <B> oh / <A> i can / <B> ooh / <A> i can only control what goes on in my life and the way i treat my neighbors and / <B> oh",
+    "context_text": "<A> [ well i can see ] i can see why a lot of people don't vote because it's they feel helpless / <B> right / <A> because the majority tends to follow whoever is going to offer them something and as long as people are looking for a handout that's the way their votes will go / <B> mhm / <A> which means they're controlled / <B> mhm / <A> but you know i'm i'm not prepared to try to change the minds of a couple of hundred million people / <B> right / <A> i can / <B> mhm / <A> i can only control what goes on in my life and the way i treat my neighbors and / <B> right",
     "context_start": 316.33,
-    "context_end": 351.341375,
+    "context_end": 351.08000000000004,
     "feedback": [
         {
-            "name": "spontC_299_yeah",
+            "name": "spontC_360_right",
             "start": 322.36,
-            "end": 322.985875,
-            "token": "yeah"
+            "end": 322.938875,
+            "token": "right"
         },
         {
-            "name": "spontB_187_mhm",
+            "name": "spontA_132_mhm",
             "start": 332.0,
-            "end": 332.551125,
+            "end": 332.580125,
             "token": "mhm"
         },
         {
-            "name": "spontE_176_oh",
+            "name": "spontA_393_mhm",
             "start": 334.46,
-            "end": 334.94075,
-            "token": "oh"
+            "end": 335.163125,
+            "token": "mhm"
         },
         {
-            "name": "PS_193_oh",
+            "name": "sun1_032_right",
             "start": 342.7,
-            "end": 344.507125,
-            "token": "oh"
+            "end": 343.54337499999997,
+            "token": "right"
         },
         {
-            "name": "PS_016_ooh",
+            "name": "spontC_178_mhm",
             "start": 344.24,
-            "end": 345.4965,
-            "token": "ooh"
+            "end": 344.803625,
+            "token": "mhm"
         },
         {
-            "name": "spontA_108_oh",
+            "name": "PR_043_right",
             "start": 350.42,
-            "end": 351.341375,
-            "token": "oh"
+            "end": 351.08000000000004,
+            "token": "right"
         }
     ]
 }

@@ -1,27 +1,27 @@
 {
     "name": "fe_03_03868",
     "context_channel": 1,
-    "context_text": "<A> and you can tell the difference between a joke where you're trying to manipulate around it to { prove } / <B> [ yeah ] / <A> a point or just a joke where you're just trying to be light / <B> wow / <A> and that's what i guess the difference is is where you're trying to as long as you you're covering bases and you're not just pointing to one certain thing / <B> uh-huh",
+    "context_text": "<A> and you can tell the difference between a joke where you're trying to manipulate around it to { prove } / <B> [ yeah ] / <A> a point or just a joke where you're just trying to be light / <B> right / <A> and that's what i guess the difference is is where you're trying to as long as you you're covering bases and you're not just pointing to one certain thing / <B> mhm",
     "context_start": 363.18,
-    "context_end": 386.69525,
+    "context_end": 386.79025,
     "feedback": [
         {
-            "name": "spontA_273_yeah",
+            "name": "spontF_140_yeah",
             "start": 370.54,
-            "end": 371.10575,
+            "end": 371.35,
             "token": "yeah"
         },
         {
-            "name": "PS_092_wow",
+            "name": "sun1_032_right",
             "start": 374.62,
-            "end": 375.537125,
-            "token": "wow"
+            "end": 375.463375,
+            "token": "right"
         },
         {
-            "name": "spontA_277_uh-huh",
+            "name": "spontD_204_mhm",
             "start": 386.14,
-            "end": 386.69525,
-            "token": "uh-huh"
+            "end": 386.79025,
+            "token": "mhm"
         }
     ]
 }

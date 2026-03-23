@@ -1,27 +1,27 @@
 {
     "name": "fe_03_02859",
     "context_channel": 1,
-    "context_text": "<A> i don't know why some people do other / <B> uh-huh / <A> than it's been men for so long that some { people } / <B> [ wow ] / <A> don't like change / <B> uh-huh",
+    "context_text": "<A> i don't know why some people do other / <B> exactly / <A> than it's been men for so long that some { people } / <B> [ yeah ] / <A> don't like change / <B> really",
     "context_start": 472.23,
-    "context_end": 478.729875,
+    "context_end": 478.4065,
     "feedback": [
         {
-            "name": "spontE_321_uh-huh",
+            "name": "sun_026_exactly",
             "start": 473.84,
-            "end": 474.335625,
-            "token": "uh-huh"
+            "end": 474.86949999999996,
+            "token": "exactly"
         },
         {
-            "name": "PS_142_wow",
+            "name": "spontF_625_yeah",
             "start": 476.08,
-            "end": 477.40875,
-            "token": "wow"
+            "end": 476.58975,
+            "token": "yeah"
         },
         {
-            "name": "sun_022_uh-huh",
+            "name": "NS_002_really",
             "start": 477.55,
-            "end": 478.729875,
-            "token": "uh-huh"
+            "end": 478.4065,
+            "token": "really"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00349",
     "context_channel": 1,
-    "context_text": "<A> yeah i mean i guess the pr the program i'm in has a very entrepreneurial attitude and a lot of people who finish the program end up you know trying to start a business or what have you but i don't know i mean it's a different market than is was a couple of years ago / <B> uh-huh / <A> uhm so i guess um i i guess i've been thinking you know once i graduate i i try to start my own business do some kind of consulting or if i ended with a good product idea seeing what i can do with that if i can { get other } / <B> [ oh ] / <A> people interested but i don't know i mean we'll see what happens when i actually get out / <B> yeah / <A> but ah you know i imagine sort of so you're in the bay area / <B> mhm",
+    "context_text": "<A> yeah i mean i guess the pr the program i'm in has a very entrepreneurial attitude and a lot of people who finish the program end up you know trying to start a business or what have you but i don't know i mean it's a different market than is was a couple of years ago / <B> right / <A> uhm so i guess um i i guess i've been thinking you know once i graduate i i try to start my own business do some kind of consulting or if i ended with a good product idea seeing what i can do with that if i can { get other } / <B> [ mhm ] / <A> people interested but i don't know i mean we'll see what happens when i actually get out / <B> right / <A> but ah you know i imagine sort of so you're in the bay area / <B> right",
     "context_start": 113.32,
-    "context_end": 152.376,
+    "context_end": 152.405125,
     "feedback": [
         {
-            "name": "spontC_386_uh-huh",
+            "name": "sun_028_right",
             "start": 127.63,
-            "end": 128.1765,
-            "token": "uh-huh"
+            "end": 128.359375,
+            "token": "right"
         },
         {
-            "name": "spontB_181_oh",
+            "name": "spontF_051_mhm",
             "start": 139.9,
-            "end": 140.502375,
-            "token": "oh"
-        },
-        {
-            "name": "spontE_119_yeah",
-            "start": 144.97,
-            "end": 145.72675,
-            "token": "yeah"
-        },
-        {
-            "name": "sun1_008_mhm",
-            "start": 151.77,
-            "end": 152.376,
+            "end": 140.45362500000002,
             "token": "mhm"
+        },
+        {
+            "name": "sun1_030_right",
+            "start": 144.97,
+            "end": 145.763625,
+            "token": "right"
+        },
+        {
+            "name": "PR_048_right",
+            "start": 151.77,
+            "end": 152.405125,
+            "token": "right"
         }
     ]
 }

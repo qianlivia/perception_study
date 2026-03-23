@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02062",
     "context_channel": 1,
-    "context_text": "<A> like i used to my parents are actually they're both teachers um when we were little like they've always been really good at like making a buck stretch / <B> yeah / <A> and they used to um gather students and go skiing with students in the french alps / <B> yeah / <A> um but they would do it so that like you know if if you buy ten tickets you get one free kinda thing like { with all } / <B> [ yeah ] / <A> these airlines so basically we would go skiing through the french alps for three weeks for for { like two } / <B> [ no ]",
+    "context_text": "<A> like i used to my parents are actually they're both teachers um when we were little like they've always been really good at like making a buck stretch / <B> yeah / <A> and they used to um gather students and go skiing with students in the french alps / <B> yeah / <A> um but they would do it so that like you know if if you buy ten tickets you get one free kinda thing like { with all } / <B> [ right ] / <A> these airlines so basically we would go skiing through the french alps for three weeks for for { like two } / <B> [ yeah ]",
     "context_start": 393.97,
-    "context_end": 419.41024999999996,
+    "context_end": 419.45175,
     "feedback": [
         {
-            "name": "spontC_255_yeah",
+            "name": "PR_036_yeah",
             "start": 402.18,
-            "end": 402.757875,
+            "end": 402.984375,
             "token": "yeah"
         },
         {
-            "name": "spontC_043_yeah",
+            "name": "spontD_130_yeah",
             "start": 408.15,
-            "end": 408.685,
+            "end": 408.75287499999996,
             "token": "yeah"
         },
         {
-            "name": "spontB_226_yeah",
+            "name": "sun1_030_right",
             "start": 413.95,
-            "end": 414.399,
-            "token": "yeah"
+            "end": 414.743625,
+            "token": "right"
         },
         {
-            "name": "NR_119_no",
+            "name": "spontC_224_yeah",
             "start": 418.65,
-            "end": 419.41024999999996,
-            "token": "no"
+            "end": 419.45175,
+            "token": "yeah"
         }
     ]
 }

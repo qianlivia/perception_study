@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04083",
     "context_channel": 1,
-    "context_text": "<A> [ it's just a ] real it's a real crazy thing you know crazy thing you know { you } / <B> [ really ] / <A> call up a bank and you tell them that you're a professional and then they start asking you um all these really really t ridiculous questions so i it is i've ch i've noticed that there's a real barrier a real barrier for um a class barrier you know like a w uh you have to be born in the wealthy class i believe too / <B> mhm / <A> in order to well in medicine it's a little bit different because you can go into a hospital and you don't have to worry about the state boards and / <B> oh / <A> that sort of thing which is it's it's actually it's a little easier { but } / <B> [ okay ]",
+    "context_text": "<A> [ it's just a ] real it's a real crazy thing you know crazy thing you know { you } / <B> [ okay ] / <A> call up a bank and you tell them that you're a professional and then they start asking you um all these really really t ridiculous questions so i it is i've ch i've noticed that there's a real barrier a real barrier for um a class barrier you know like a w uh you have to be born in the wealthy class i believe too / <B> wow / <A> in order to well in medicine it's a little bit different because you can go into a hospital and you don't have to worry about the state boards and / <B> right / <A> that sort of thing which is it's it's actually it's a little easier { but } / <B> [ oh ]",
     "context_start": 279.16,
-    "context_end": 328.194125,
+    "context_end": 328.11825,
     "feedback": [
         {
-            "name": "PS_002_really",
+            "name": "spontF_386_okay",
             "start": 283.08,
-            "end": 283.87287499999996,
-            "token": "really"
-        },
-        {
-            "name": "spontC_243_mhm",
-            "start": 308.72,
-            "end": 309.24512500000003,
-            "token": "mhm"
-        },
-        {
-            "name": "spontA_278_oh",
-            "start": 322.38,
-            "end": 323.04025,
-            "token": "oh"
-        },
-        {
-            "name": "spontF_074_okay",
-            "start": 327.55,
-            "end": 328.194125,
+            "end": 283.571125,
             "token": "okay"
+        },
+        {
+            "name": "PS_169_wow",
+            "start": 308.72,
+            "end": 310.16,
+            "token": "wow"
+        },
+        {
+            "name": "sun1_029_right",
+            "start": 322.38,
+            "end": 323.072,
+            "token": "right"
+        },
+        {
+            "name": "spontF_277_oh",
+            "start": 327.55,
+            "end": 328.11825,
+            "token": "oh"
         }
     ]
 }

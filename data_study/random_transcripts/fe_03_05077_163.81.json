@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05077",
     "context_channel": 1,
-    "context_text": "<A> like a per c and we g i boarded with him i bought his ticket you know and / <B> mhm / <A> then my boarding pass was didn't really say anything special on it but his had s all over it so i guess that meant security so then we went up to the security thing and it's like the same old thing in the past like / <B> yeah / <A> um you know when you used to fly i always used to take my belt off because i had this one belt with a silver buckle on it and it always sets the security off / <B> absolutely / <A> uh in his case um you know i mean w we both had carry ons and i guess they must do like a random lottery thing or something / <B> yes",
+    "context_text": "<A> like a per c and we g i boarded with him i bought his ticket you know and / <B> really / <A> then my boarding pass was didn't really say anything special on it but his had s all over it so i guess that meant security so then we went up to the security thing and it's like the same old thing in the past like / <B> uh-huh / <A> um you know when you used to fly i always used to take my belt off because i had this one belt with a silver buckle on it and it always sets the security off / <B> yeah / <A> uh in his case um you know i mean w we both had carry ons and i guess they must do like a random lottery thing or something / <B> mhm",
     "context_start": 163.81,
-    "context_end": 197.66675,
+    "context_end": 197.42225,
     "feedback": [
         {
-            "name": "PR_046_mhm",
+            "name": "PS_019_really",
             "start": 168.73,
-            "end": 169.66975,
-            "token": "mhm"
+            "end": 169.5195,
+            "token": "really"
         },
         {
-            "name": "spontE_003_yeah",
+            "name": "spontF_118_uh-huh",
             "start": 180.88,
-            "end": 181.264375,
+            "end": 181.4055,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_414_yeah",
+            "start": 187.58,
+            "end": 188.05787500000002,
             "token": "yeah"
         },
         {
-            "name": "sun_004_absolutely",
-            "start": 187.58,
-            "end": 189.010375,
-            "token": "absolutely"
-        },
-        {
-            "name": "sun_032_yes",
+            "name": "PR_057_mhm",
             "start": 196.69,
-            "end": 197.66675,
-            "token": "yes"
+            "end": 197.42225,
+            "token": "mhm"
         }
     ]
 }

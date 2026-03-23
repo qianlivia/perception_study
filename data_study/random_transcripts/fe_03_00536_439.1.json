@@ -1,27 +1,27 @@
 {
     "name": "fe_03_00536",
     "context_channel": 1,
-    "context_text": "<A> no like in india like women don't smoke that's a big advantage / <B> yeah / <A> and very few men uh smoke they do it's very hard to control them but that's okay { if there } / <B> [ yeah ] / <A> was some point or that they would so but women rare it's like / <B> oh",
+    "context_text": "<A> no like in india like women don't smoke that's a big advantage / <B> really / <A> and very few men uh smoke they do it's very hard to control them but that's okay { if there } / <B> [ oh ] / <A> was some point or that they would so but women rare it's like / <B> exactly",
     "context_start": 439.1,
-    "context_end": 457.56975,
+    "context_end": 456.77175,
     "feedback": [
         {
-            "name": "spontD_162_yeah",
+            "name": "PS_002_really",
             "start": 443.99,
-            "end": 444.69225,
-            "token": "yeah"
+            "end": 444.782875,
+            "token": "really"
         },
         {
-            "name": "spontF_560_yeah",
+            "name": "spontC_320_oh",
             "start": 451.4,
-            "end": 451.98562499999997,
-            "token": "yeah"
+            "end": 452.61525,
+            "token": "oh"
         },
         {
-            "name": "spontF_582_oh",
+            "name": "sun_015_exactly",
             "start": 455.67,
-            "end": 457.56975,
-            "token": "oh"
+            "end": 456.77175,
+            "token": "exactly"
         }
     ]
 }

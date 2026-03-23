@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03787",
     "context_channel": 1,
-    "context_text": "<A> mean but i don't you know like when people are like yeah you're alcoholics i'm like yeah well we kinda are you know like it's true it's a stereotype that's true { you } / <B> [ ooh ] / <A> know if it for whatever happened in history you know like / <B> no / <A> and culturally like we certainly like alcohol you know and { it's just } / <B> [ uh-huh ] / <A> i'm not gonna get mad you know like / <B> yeah",
+    "context_text": "<A> mean but i don't you know like when people are like yeah you're alcoholics i'm like yeah well we kinda are you know like it's true it's a stereotype that's true { you } / <B> [ okay ] / <A> know if it for whatever happened in history you know like / <B> right / <A> and culturally like we certainly like alcohol you know and { it's just } / <B> [ uh-huh ] / <A> i'm not gonna get mad you know like / <B> okay",
     "context_start": 195.17,
-    "context_end": 214.14100000000002,
+    "context_end": 214.030875,
     "feedback": [
         {
-            "name": "NegS_051_ooh",
+            "name": "spontE_071_okay",
             "start": 202.92,
-            "end": 204.07524999999998,
-            "token": "ooh"
+            "end": 203.57399999999998,
+            "token": "okay"
         },
         {
-            "name": "NR_019_no",
+            "name": "sun1_031_right",
             "start": 206.42,
-            "end": 207.454375,
-            "token": "no"
+            "end": 207.21425,
+            "token": "right"
         },
         {
-            "name": "spontC_189_uh-huh",
+            "name": "spontC_378_uh-huh",
             "start": 210.43,
-            "end": 210.91025000000002,
+            "end": 210.93675000000002,
             "token": "uh-huh"
         },
         {
-            "name": "spontB_252_yeah",
+            "name": "spontC_511_okay",
             "start": 213.52,
-            "end": 214.14100000000002,
-            "token": "yeah"
+            "end": 214.030875,
+            "token": "okay"
         }
     ]
 }

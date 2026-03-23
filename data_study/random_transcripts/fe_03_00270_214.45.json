@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00270",
     "context_channel": 0,
-    "context_text": "<B> and that was spooky enough / <A> ah / <B> as it happened npr had their correspondents live you know the everyday voices that you hear on npr / <A> uh-huh / <B> they had those people standing there watching it talking to the listeners just as they would / <A> yes / <B> and they were relating the coverage live / <A> uh-huh",
+    "context_text": "<B> and that was spooky enough / <A> mhm / <B> as it happened npr had their correspondents live you know the everyday voices that you hear on npr / <A> yeah / <B> they had those people standing there watching it talking to the listeners just as they would / <A> yeah / <B> and they were relating the coverage live / <A> really",
     "context_start": 214.45,
-    "context_end": 240.206625,
+    "context_end": 240.5095,
     "feedback": [
         {
-            "name": "PS_199_ah",
+            "name": "spontD_347_mhm",
             "start": 216.94,
-            "end": 218.240125,
-            "token": "ah"
+            "end": 217.61724999999998,
+            "token": "mhm"
         },
         {
-            "name": "spontC_371_uh-huh",
+            "name": "spontB_313_yeah",
             "start": 225.32,
-            "end": 225.798125,
-            "token": "uh-huh"
+            "end": 226.302875,
+            "token": "yeah"
         },
         {
-            "name": "PR_022_yes",
+            "name": "spontB_306_yeah",
             "start": 234.38,
-            "end": 235.39862499999998,
-            "token": "yes"
+            "end": 234.9315,
+            "token": "yeah"
         },
         {
-            "name": "spontC_370_uh-huh",
+            "name": "PS_019_really",
             "start": 239.72,
-            "end": 240.206625,
-            "token": "uh-huh"
+            "end": 240.5095,
+            "token": "really"
         }
     ]
 }

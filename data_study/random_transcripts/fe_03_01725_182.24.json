@@ -1,27 +1,27 @@
 {
     "name": "fe_03_01725",
     "context_channel": 0,
-    "context_text": "<B> you know / <A> mhm / <B> we have everything and they don't have those countries that don't have anything cough / <A> uh-huh / <B> that's why everybody { wants to } / <A> [ yeah ]",
+    "context_text": "<B> you know / <A> right / <B> we have everything and they don't have those countries that don't have anything cough / <A> mhm / <B> that's why everybody { wants to } / <A> [ uh-huh ]",
     "context_start": 182.24,
-    "context_end": 189.533125,
+    "context_end": 190.019875,
     "feedback": [
         {
-            "name": "spontC_330_mhm",
+            "name": "sun1_032_right",
             "start": 183.35,
-            "end": 183.83362499999998,
+            "end": 184.193375,
+            "token": "right"
+        },
+        {
+            "name": "spontD_178_mhm",
+            "start": 186.71,
+            "end": 187.32925,
             "token": "mhm"
         },
         {
-            "name": "spontA_312_uh-huh",
-            "start": 186.71,
-            "end": 187.27,
-            "token": "uh-huh"
-        },
-        {
-            "name": "PR_055_yeah",
+            "name": "sun_022_uh-huh",
             "start": 188.84,
-            "end": 189.533125,
-            "token": "yeah"
+            "end": 190.019875,
+            "token": "uh-huh"
         }
     ]
 }

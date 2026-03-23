@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01726",
     "context_channel": 0,
-    "context_text": "<B> oh sorry i i was just going to say that you know i think that he mainly hit the world trade centers because it a lot of people take a lot of pride in new york { city } / <A> [ uh-huh ] / <B> even though it is a dirty city / <A> wow / <B> for the most part there are a lot of things there to be proud of like the statue and { you } / <A> [ uh-huh ] / <B> know the world trade center it kind of stands for america / <A> no",
+    "context_text": "<B> oh sorry i i was just going to say that you know i think that he mainly hit the world trade centers because it a lot of people take a lot of pride in new york { city } / <A> [ yeah ] / <B> even though it is a dirty city / <A> mhm / <B> for the most part there are a lot of things there to be proud of like the statue and { you } / <A> [ oh ] / <B> know the world trade center it kind of stands for america / <A> right",
     "context_start": 264.16,
-    "context_end": 284.255125,
+    "context_end": 284.013375,
     "feedback": [
         {
-            "name": "spontA_312_uh-huh",
+            "name": "spontB_144_yeah",
             "start": 273.11,
-            "end": 273.67,
-            "token": "uh-huh"
+            "end": 273.701,
+            "token": "yeah"
         },
         {
-            "name": "PS_094_wow",
+            "name": "sun1_009_mhm",
             "start": 275.52,
-            "end": 276.55449999999996,
-            "token": "wow"
+            "end": 276.36312499999997,
+            "token": "mhm"
         },
         {
-            "name": "spontD_043_uh-huh",
+            "name": "spontF_320_oh",
             "start": 280.01,
-            "end": 280.493875,
-            "token": "uh-huh"
+            "end": 280.712375,
+            "token": "oh"
         },
         {
-            "name": "sun_033_no",
+            "name": "sun1_032_right",
             "start": 283.17,
-            "end": 284.255125,
-            "token": "no"
+            "end": 284.013375,
+            "token": "right"
         }
     ]
 }

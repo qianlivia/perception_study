@@ -1,45 +1,45 @@
 {
     "name": "fe_03_02410",
     "context_channel": 1,
-    "context_text": "<A> money in there they just meddle in one they think well america's always been like think of what's best for now you know they { never } / <B> [ ah ] / <A> think that's where they give here like all those weapons in the eighties / <B> oh / <A> and came back wow hussein's our enemy now ironic / <B> yeah / <A> isn't it / <B> mhm / <A> and i wonder who gave him all the weapons and russian helped too though russia / <B> yeah / <A> sold him most of the nuclear arms they have / <B> really",
+    "context_text": "<A> money in there they just meddle in one they think well america's always been like think of what's best for now you know they { never } / <B> [ right ] / <A> think that's where they give here like all those weapons in the eighties / <B> exactly / <A> and came back wow hussein's our enemy now ironic / <B> right / <A> isn't it / <B> oh / <A> and i wonder who gave him all the weapons and russian helped too though russia / <B> wow / <A> sold him most of the nuclear arms they have / <B> right",
     "context_start": 567.82,
-    "context_end": 590.662875,
+    "context_end": 590.7435,
     "feedback": [
         {
-            "name": "NS_056_ah",
+            "name": "sun1_033_right",
             "start": 574.68,
-            "end": 575.655,
-            "token": "ah"
+            "end": 575.5331249999999,
+            "token": "right"
         },
         {
-            "name": "spontC_018_oh",
+            "name": "sun_016_exactly",
             "start": 578.17,
-            "end": 578.949625,
+            "end": 579.2035,
+            "token": "exactly"
+        },
+        {
+            "name": "spontC_360_right",
+            "start": 581.84,
+            "end": 582.4188750000001,
+            "token": "right"
+        },
+        {
+            "name": "spontD_114_oh",
+            "start": 583.42,
+            "end": 584.0464999999999,
             "token": "oh"
         },
         {
-            "name": "spontB_037_yeah",
-            "start": 581.84,
-            "end": 582.5465,
-            "token": "yeah"
-        },
-        {
-            "name": "spontC_178_mhm",
-            "start": 583.42,
-            "end": 583.983625,
-            "token": "mhm"
-        },
-        {
-            "name": "spontA_210_yeah",
+            "name": "PS_171_wow",
             "start": 587.82,
-            "end": 588.81325,
-            "token": "yeah"
+            "end": 589.964875,
+            "token": "wow"
         },
         {
-            "name": "PS_002_really",
+            "name": "sun_013_right",
             "start": 589.87,
-            "end": 590.662875,
-            "token": "really"
+            "end": 590.7435,
+            "token": "right"
         }
     ]
 }

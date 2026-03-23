@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04732",
     "context_channel": 1,
-    "context_text": "<A> oh god i it's so easy it's so fun you kinda you'll you'll like start to figure out which ones you wanna do like certain companies make it too hard / <B> mhm / <A> where like they want so many details it's just ridiculous no one can remember all of that stuff / <B> no / <A> but then other companies are totally great to work for and you know totally worth the money { just i } / <B> [ okay ] / <A> mean it's just you know you you can't think of it as really making money it is really is like a side hobby { for } / <B> [ yeah ]",
+    "context_text": "<A> oh god i it's so easy it's so fun you kinda you'll you'll like start to figure out which ones you wanna do like certain companies make it too hard / <B> yeah / <A> where like they want so many details it's just ridiculous no one can remember all of that stuff / <B> right / <A> but then other companies are totally great to work for and you know totally worth the money { just i } / <B> [ right ] / <A> mean it's just you know you you can't think of it as really making money it is really is like a side hobby { for } / <B> [ okay ]",
     "context_start": 368.55,
-    "context_end": 393.3035,
+    "context_end": 393.15387499999997,
     "feedback": [
         {
-            "name": "spontF_121_mhm",
+            "name": "spontA_273_yeah",
             "start": 376.33,
-            "end": 376.877,
-            "token": "mhm"
-        },
-        {
-            "name": "NR_007_no",
-            "start": 381.21,
-            "end": 382.062375,
-            "token": "no"
-        },
-        {
-            "name": "spontE_152_okay",
-            "start": 387.1,
-            "end": 387.72725,
-            "token": "okay"
-        },
-        {
-            "name": "spontF_380_yeah",
-            "start": 392.69,
-            "end": 393.3035,
+            "end": 376.89574999999996,
             "token": "yeah"
+        },
+        {
+            "name": "sun_013_right",
+            "start": 381.21,
+            "end": 382.08349999999996,
+            "token": "right"
+        },
+        {
+            "name": "sun1_029_right",
+            "start": 387.1,
+            "end": 387.79200000000003,
+            "token": "right"
+        },
+        {
+            "name": "spontD_411_okay",
+            "start": 392.69,
+            "end": 393.15387499999997,
+            "token": "okay"
         }
     ]
 }

@@ -1,39 +1,39 @@
 {
     "name": "fe_03_01608",
     "context_channel": 1,
-    "context_text": "<A> other than a year when he was out here when we first got married and he was in the military { he } / <B> [ yeah ] / <A> didn't ever live anywhere else / <B> yeah / <A> me on the other hand i didn't move to colorado until i was almost eleven it was a couple of months before i turned eleven { and } / <B> [ yeah ] / <A> so i remember living somewhere else although you know colorado's my home i mean i went to high school there you know i we got married there you know all that kind { of } / <B> [ wow ] / <A> stuff but you know so i'm used to living somewhere else / <B> mhm",
+    "context_text": "<A> other than a year when he was out here when we first got married and he was in the military { he } / <B> [ mhm ] / <A> didn't ever live anywhere else / <B> yeah / <A> me on the other hand i didn't move to colorado until i was almost eleven it was a couple of months before i turned eleven { and } / <B> [ exactly ] / <A> so i remember living somewhere else although you know colorado's my home i mean i went to high school there you know i we got married there you know all that kind { of } / <B> [ yeah ] / <A> stuff but you know so i'm used to living somewhere else / <B> oh",
     "context_start": 427.45,
-    "context_end": 451.907875,
+    "context_end": 452.82599999999996,
     "feedback": [
         {
-            "name": "spontA_284_yeah",
+            "name": "spontC_212_mhm",
             "start": 431.23,
-            "end": 431.98150000000004,
-            "token": "yeah"
-        },
-        {
-            "name": "sun1_021_yeah",
-            "start": 434.58,
-            "end": 435.313875,
-            "token": "yeah"
-        },
-        {
-            "name": "spontB_052_yeah",
-            "start": 439.55,
-            "end": 440.047375,
-            "token": "yeah"
-        },
-        {
-            "name": "PS_060_wow",
-            "start": 447.32,
-            "end": 448.586875,
-            "token": "wow"
-        },
-        {
-            "name": "spontA_408_mhm",
-            "start": 451.39,
-            "end": 451.907875,
+            "end": 431.71375,
             "token": "mhm"
+        },
+        {
+            "name": "spontE_023_yeah",
+            "start": 434.58,
+            "end": 435.11562499999997,
+            "token": "yeah"
+        },
+        {
+            "name": "sun_041_exactly",
+            "start": 439.55,
+            "end": 440.503,
+            "token": "exactly"
+        },
+        {
+            "name": "spontF_595_yeah",
+            "start": 447.32,
+            "end": 447.932,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_010_oh",
+            "start": 451.39,
+            "end": 452.82599999999996,
+            "token": "oh"
         }
     ]
 }

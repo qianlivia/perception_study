@@ -1,27 +1,27 @@
 {
     "name": "fe_03_03135",
     "context_channel": 0,
-    "context_text": "<B> and then you know since the bird can't move any more cause its spinal cord is broken / <A> wow / <B> it just sucks out the insides / <A> yeah / <B> so yeah there is um unsightly scooping needed / <A> oh",
+    "context_text": "<B> and then you know since the bird can't move any more cause its spinal cord is broken / <A> right / <B> it just sucks out the insides / <A> mhm / <B> so yeah there is um unsightly scooping needed / <A> right",
     "context_start": 413.41,
-    "context_end": 426.17674999999997,
+    "context_end": 425.009375,
     "feedback": [
         {
-            "name": "PS_142_wow",
+            "name": "sun1_029_right",
             "start": 417.69,
-            "end": 419.01875,
-            "token": "wow"
+            "end": 418.382,
+            "token": "right"
         },
         {
-            "name": "spontB_144_yeah",
+            "name": "sun1_007_mhm",
             "start": 419.61,
-            "end": 420.201,
-            "token": "yeah"
+            "end": 420.4585,
+            "token": "mhm"
         },
         {
-            "name": "PS_040_oh",
+            "name": "sun_028_right",
             "start": 424.28,
-            "end": 426.17674999999997,
-            "token": "oh"
+            "end": 425.009375,
+            "token": "right"
         }
     ]
 }

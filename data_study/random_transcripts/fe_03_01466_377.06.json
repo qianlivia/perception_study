@@ -1,39 +1,39 @@
 {
     "name": "fe_03_01466",
     "context_channel": 1,
-    "context_text": "<A> like that all that stuff is just like wow this really could be happening and we'd have no idea / <B> mhm / <A> that kind of thing and which is like so i mean i we really can't just judge the government what they're doing i mean i mean there's not many people who've i mean dead compared to americans as over there i mean it's sad how many people have died i wonder how many of them were like trying to kill american soldiers and what not { and } / <B> [ uh-huh ] / <A> so it's just it's sad but it's just like i guess it needed to be done because i mean i'm sure the the president and everyone doesn't want war as much as we do but it that must of been the only way and so i just go with what they decided and it makes me sad that there's so many people against it { and } / <B> [ uh-huh ] / <A> see these soldiers are coming home or they're leaving and they i mean i i i guarantee at least half of them don't want to and don't support it but it's just what they need to do / <B> yeah / <A> and so it's kinda sad when they come home to a country that's half of the people are unappreciative of { for } / <B> [ oh ]",
+    "context_text": "<A> like that all that stuff is just like wow this really could be happening and we'd have no idea / <B> uh-huh / <A> that kind of thing and which is like so i mean i we really can't just judge the government what they're doing i mean i mean there's not many people who've i mean dead compared to americans as over there i mean it's sad how many people have died i wonder how many of them were like trying to kill american soldiers and what not { and } / <B> [ mhm ] / <A> so it's just it's sad but it's just like i guess it needed to be done because i mean i'm sure the the president and everyone doesn't want war as much as we do but it that must of been the only way and so i just go with what they decided and it makes me sad that there's so many people against it { and } / <B> [ exactly ] / <A> see these soldiers are coming home or they're leaving and they i mean i i i guarantee at least half of them don't want to and don't support it but it's just what they need to do / <B> okay / <A> and so it's kinda sad when they come home to a country that's half of the people are unappreciative of { for } / <B> [ yeah ]",
     "context_start": 377.06,
-    "context_end": 441.021,
+    "context_end": 440.486625,
     "feedback": [
         {
-            "name": "spontF_311_mhm",
+            "name": "spontD_020_uh-huh",
             "start": 381.7,
-            "end": 382.200125,
+            "end": 382.20462499999996,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_120_mhm",
+            "start": 403.05,
+            "end": 403.504875,
             "token": "mhm"
         },
         {
-            "name": "spontA_329_uh-huh",
-            "start": 403.05,
-            "end": 403.778,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontC_171_uh-huh",
+            "name": "sun_042_exactly",
             "start": 422.56,
-            "end": 423.12225,
-            "token": "uh-huh"
+            "end": 423.51725,
+            "token": "exactly"
         },
         {
-            "name": "spontF_243_yeah",
+            "name": "spontF_317_okay",
             "start": 433.43,
-            "end": 434.272625,
-            "token": "yeah"
+            "end": 434.282,
+            "token": "okay"
         },
         {
-            "name": "Sy_008_oh",
+            "name": "spontA_421_yeah",
             "start": 439.76,
-            "end": 441.021,
-            "token": "oh"
+            "end": 440.486625,
+            "token": "yeah"
         }
     ]
 }

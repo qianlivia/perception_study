@@ -1,27 +1,27 @@
 {
     "name": "fe_03_05542",
     "context_channel": 1,
-    "context_text": "<A> i don't know like i i didn't i did all right in college and you know like i studied when i needed to and i did work and everything but i don't know for me it was kind of you know a time to relax and i / <B> mhm / <A> wasn't as motivated and all my friends were kind of into partying so { i } / <B> [ wow ] / <A> i did i did it somewhat but not nearly as much as i'm trying to now / <B> wow",
+    "context_text": "<A> i don't know like i i didn't i did all right in college and you know like i studied when i needed to and i did work and everything but i don't know for me it was kind of you know a time to relax and i / <B> right / <A> wasn't as motivated and all my friends were kind of into partying so { i } / <B> [ oh ] / <A> i did i did it somewhat but not nearly as much as i'm trying to now / <B> exactly",
     "context_start": 202.01,
-    "context_end": 227.27525,
+    "context_end": 226.893,
     "feedback": [
         {
-            "name": "spontE_120_mhm",
+            "name": "PR_043_right",
             "start": 215.72,
-            "end": 216.25424999999998,
-            "token": "mhm"
+            "end": 216.38,
+            "token": "right"
         },
         {
-            "name": "PS_114_wow",
+            "name": "Sy_044_oh",
             "start": 220.93,
-            "end": 222.093875,
-            "token": "wow"
+            "end": 222.04987500000001,
+            "token": "oh"
         },
         {
-            "name": "PS_043_wow",
+            "name": "sun_041_exactly",
             "start": 225.94,
-            "end": 227.27525,
-            "token": "wow"
+            "end": 226.893,
+            "token": "exactly"
         }
     ]
 }

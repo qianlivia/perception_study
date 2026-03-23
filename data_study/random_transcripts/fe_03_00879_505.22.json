@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00879",
     "context_channel": 0,
-    "context_text": "<B> well i'm i'm looking forward to seeing the second half of the ernest hemingway movie / <A> no / <B> um yeah i saw the first half and now i'm going to i have to go see the second half the uh it was ernest hemingway is played by stacy keach / <A> yeah / <B> which uh he is a pretty good actor he hasn't done much lately i think this is an older an older movie / <A> yeah / <B> and uh yeah the first half of the movie was um ri just as ernest hemingway was starting out writing and he moved to paris / <A> yeah",
+    "context_text": "<B> well i'm i'm looking forward to seeing the second half of the ernest hemingway movie / <A> oh / <B> um yeah i saw the first half and now i'm going to i have to go see the second half the uh it was ernest hemingway is played by stacy keach / <A> right / <B> which uh he is a pretty good actor he hasn't done much lately i think this is an older an older movie / <A> yeah / <B> and uh yeah the first half of the movie was um ri just as ernest hemingway was starting out writing and he moved to paris / <A> oh",
     "context_start": 505.22,
-    "context_end": 537.21275,
+    "context_end": 537.1648749999999,
     "feedback": [
         {
-            "name": "sun2_005_no",
+            "name": "spontC_046_oh",
             "start": 509.96,
-            "end": 510.994625,
-            "token": "no"
+            "end": 510.36812499999996,
+            "token": "oh"
         },
         {
-            "name": "spontD_083_yeah",
+            "name": "PR_048_right",
             "start": 518.88,
-            "end": 519.826375,
-            "token": "yeah"
+            "end": 519.515125,
+            "token": "right"
         },
         {
-            "name": "spontC_043_yeah",
+            "name": "spontA_052_yeah",
             "start": 526.94,
-            "end": 527.475,
+            "end": 527.537625,
             "token": "yeah"
         },
         {
-            "name": "spontA_046_yeah",
+            "name": "spontC_248_oh",
             "start": 536.52,
-            "end": 537.21275,
-            "token": "yeah"
+            "end": 537.1648749999999,
+            "token": "oh"
         }
     ]
 }

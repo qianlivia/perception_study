@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02568",
     "context_channel": 1,
-    "context_text": "<A> france had a lot of those contracts that's why we're so against the french { you } / <B> [ uh-huh ] / <A> know so that's like six hundred billion dollars worth of oil / <B> yeah / <A> that now he has complete control over / <B> mhm / <A> and even like you were saying about you know daddy bush well daddy bush was you know they asked his opinion and he was like well i'm not really sure that we should be invading iraq at this time / <B> no",
+    "context_text": "<A> france had a lot of those contracts that's why we're so against the french { you } / <B> [ wow ] / <A> know so that's like six hundred billion dollars worth of oil / <B> oh / <A> that now he has complete control over / <B> okay / <A> and even like you were saying about you know daddy bush well daddy bush was you know they asked his opinion and he was like well i'm not really sure that we should be invading iraq at this time / <B> right",
     "context_start": 461.56,
-    "context_end": 487.817125,
+    "context_end": 488.12337499999995,
     "feedback": [
         {
-            "name": "spontC_347_uh-huh",
+            "name": "PS_110_wow",
             "start": 466.31,
-            "end": 466.85325,
-            "token": "uh-huh"
+            "end": 467.3375,
+            "token": "wow"
         },
         {
-            "name": "spontB_321_yeah",
+            "name": "PS_194_oh",
             "start": 471.31,
-            "end": 471.756125,
-            "token": "yeah"
+            "end": 472.11375,
+            "token": "oh"
         },
         {
-            "name": "spontA_314_mhm",
+            "name": "spontB_195_okay",
             "start": 474.86,
-            "end": 475.45387500000004,
-            "token": "mhm"
+            "end": 475.52950000000004,
+            "token": "okay"
         },
         {
-            "name": "spontF_264_no",
+            "name": "sun1_032_right",
             "start": 487.28,
-            "end": 487.817125,
-            "token": "no"
+            "end": 488.12337499999995,
+            "token": "right"
         }
     ]
 }

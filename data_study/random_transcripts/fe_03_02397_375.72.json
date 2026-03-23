@@ -1,45 +1,45 @@
 {
     "name": "fe_03_02397",
     "context_channel": 1,
-    "context_text": "<A> [ right that's that's ] that's that's wh that's what they're looking at i think how do we value um the usage of these products and what they do to you um because for me i'm a hundred and sixty pounds / <B> mhm / <A> i feel i'm overweight and whenever i say boy i gotta lose ten pounds somebody's looking at me like we wish we can be your size / <B> oh / <A> why do you feel you're over weight i i don't look at and i don't look at it as a health conscious issue just the issue of you know i can stand to lose a l little bit of weight / <B> right / <A> n not trying i'm i'm a diabetic { i } / <B> [ ooh ] / <A> have a bad back um i have high blood pressure typical normal um diseases that blacks in their forties start developing / <B> wow / <A> um but i choose you know i i didn't choose to get the diabetes or the high blood pressure it's more hereditary as we were talking about but i choose not to smoke and to drink to worsen my condition so tho those diseases { and that's } / <B> [ uh-huh ]",
+    "context_text": "<A> [ right that's that's ] that's that's wh that's what they're looking at i think how do we value um the usage of these products and what they do to you um because for me i'm a hundred and sixty pounds / <B> right / <A> i feel i'm overweight and whenever i say boy i gotta lose ten pounds somebody's looking at me like we wish we can be your size / <B> mhm / <A> why do you feel you're over weight i i don't look at and i don't look at it as a health conscious issue just the issue of you know i can stand to lose a l little bit of weight / <B> oh / <A> n not trying i'm i'm a diabetic { i } / <B> [ okay ] / <A> have a bad back um i have high blood pressure typical normal um diseases that blacks in their forties start developing / <B> mhm / <A> um but i choose you know i i didn't choose to get the diabetes or the high blood pressure it's more hereditary as we were talking about but i choose not to smoke and to drink to worsen my condition so tho those diseases { and that's } / <B> [ yeah ]",
     "context_start": 375.72,
-    "context_end": 446.91075,
+    "context_end": 446.977125,
     "feedback": [
         {
-            "name": "spontC_327_mhm",
-            "start": 390.13,
-            "end": 390.64225,
-            "token": "mhm"
-        },
-        {
-            "name": "spontF_087_oh",
-            "start": 398.08,
-            "end": 398.805125,
-            "token": "oh"
-        },
-        {
             "name": "PR_048_right",
-            "start": 414.09,
-            "end": 414.725125,
+            "start": 390.13,
+            "end": 390.765125,
             "token": "right"
         },
         {
-            "name": "PS_133_ooh",
+            "name": "spontD_115_mhm",
+            "start": 398.08,
+            "end": 398.56987499999997,
+            "token": "mhm"
+        },
+        {
+            "name": "spontB_181_oh",
+            "start": 414.09,
+            "end": 414.69237499999997,
+            "token": "oh"
+        },
+        {
+            "name": "spontD_279_okay",
             "start": 417.12,
-            "end": 418.455,
-            "token": "ooh"
+            "end": 417.795125,
+            "token": "okay"
         },
         {
-            "name": "PS_164_wow",
+            "name": "spontA_343_mhm",
             "start": 427.84,
-            "end": 428.97925,
-            "token": "wow"
+            "end": 428.38962499999997,
+            "token": "mhm"
         },
         {
-            "name": "spontC_195_uh-huh",
+            "name": "spontF_630_yeah",
             "start": 446.36,
-            "end": 446.91075,
-            "token": "uh-huh"
+            "end": 446.977125,
+            "token": "yeah"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01311",
     "context_channel": 0,
-    "context_text": "<B> right right right right i i'm i'm i'm so glad somebody i talked to somebody that is in total agreement with me because i don't know i would've dealt with it but i really appreciate how you feel about cigarettes and i feel about cigarettes because it it's i mean it i'm that we are both in total agreement about { it } / <A> [ oh ] / <B> but like i say this awful if you are pregnant and you have to be exposed to it you you you are in a public place and people are smoking in there infringing upon your space { and } / <A> [ mhm ] / <B> besides that they are smoking and they have a filter they have they are getting less smoke than we are / <A> mhm / <B> as non smokers because we are getting the smoke / <A> mhm",
+    "context_text": "<B> right right right right i i'm i'm i'm so glad somebody i talked to somebody that is in total agreement with me because i don't know i would've dealt with it but i really appreciate how you feel about cigarettes and i feel about cigarettes because it it's i mean it i'm that we are both in total agreement about { it } / <A> [ wow ] / <B> but like i say this awful if you are pregnant and you have to be exposed to it you you you are in a public place and people are smoking in there infringing upon your space { and } / <A> [ oh ] / <B> besides that they are smoking and they have a filter they have they are getting less smoke than we are / <A> yeah / <B> as non smokers because we are getting the smoke / <A> yeah",
     "context_start": 210.58,
-    "context_end": 250.18212499999998,
+    "context_end": 249.819375,
     "feedback": [
         {
-            "name": "PS_015_oh",
+            "name": "PS_154_wow",
             "start": 228.02,
-            "end": 229.0815,
+            "end": 229.5085,
+            "token": "wow"
+        },
+        {
+            "name": "Sy_077_oh",
+            "start": 238.94,
+            "end": 239.97475,
             "token": "oh"
         },
         {
-            "name": "spontB_326_mhm",
-            "start": 238.94,
-            "end": 239.483,
-            "token": "mhm"
-        },
-        {
-            "name": "spontA_239_mhm",
+            "name": "spontA_387_yeah",
             "start": 244.73,
-            "end": 245.24237499999998,
-            "token": "mhm"
+            "end": 245.268125,
+            "token": "yeah"
         },
         {
-            "name": "spontA_390_mhm",
+            "name": "spontA_391_yeah",
             "start": 249.41,
-            "end": 250.18212499999998,
-            "token": "mhm"
+            "end": 249.819375,
+            "token": "yeah"
         }
     ]
 }

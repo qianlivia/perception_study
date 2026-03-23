@@ -1,51 +1,51 @@
 {
     "name": "fe_03_01586",
     "context_channel": 1,
-    "context_text": "<A> right right like what is this that you know maybe with the whole little color coding thing had more to do with it hold on a sec you've got to wait a second hello / <B> oh / <A> okay maybe the whole color coding thing has more to do with airport security that we don't know about or something { i } / <B> [ mhm ] / <A> don't know i'm just like oh my gosh i think { and like } / <B> [ yeah ] / <A> i i'm a teacher and a lot of my kids don't wanna fly like i teach se like seniors in high school it's { nearly about the } / <B> [ oh ] / <A> time for them to be thinking about their their school their senior class trip and { they } / <B> [ oh ] / <A> normally go to the bahamas or something nice like that and now they have to go to new york for an afternoon of shopping which i { think is } / <B> [ wow ] / <A> really s yes i think that's so sad because they lived all cause it's three four hours from new york but to new york but / <B> no",
+    "context_text": "<A> right right like what is this that you know maybe with the whole little color coding thing had more to do with it hold on a sec you've got to wait a second hello / <B> yeah / <A> okay maybe the whole color coding thing has more to do with airport security that we don't know about or something { i } / <B> [ oh ] / <A> don't know i'm just like oh my gosh i think { and like } / <B> [ right ] / <A> i i'm a teacher and a lot of my kids don't wanna fly like i teach se like seniors in high school it's { nearly about the } / <B> [ uh-huh ] / <A> time for them to be thinking about their their school their senior class trip and { they } / <B> [ okay ] / <A> normally go to the bahamas or something nice like that and now they have to go to new york for an afternoon of shopping which i { think is } / <B> [ yeah ] / <A> really s yes i think that's so sad because they lived all cause it's three four hours from new york but to new york but / <B> okay",
     "context_start": 369.63,
-    "context_end": 420.28612499999997,
+    "context_end": 420.162,
     "feedback": [
         {
-            "name": "spontF_612_oh",
+            "name": "spontC_323_yeah",
             "start": 379.2,
-            "end": 379.810625,
-            "token": "oh"
-        },
-        {
-            "name": "spontD_186_mhm",
-            "start": 386.13,
-            "end": 386.72125,
-            "token": "mhm"
-        },
-        {
-            "name": "spontE_094_yeah",
-            "start": 390.13,
-            "end": 390.897875,
+            "end": 380.06512499999997,
             "token": "yeah"
         },
         {
-            "name": "spontB_365_oh",
+            "name": "PS_050_oh",
+            "start": 386.13,
+            "end": 386.7965,
+            "token": "oh"
+        },
+        {
+            "name": "sun_028_right",
+            "start": 390.13,
+            "end": 390.859375,
+            "token": "right"
+        },
+        {
+            "name": "spontA_254_uh-huh",
             "start": 397.41,
-            "end": 398.00425,
-            "token": "oh"
+            "end": 397.80850000000004,
+            "token": "uh-huh"
         },
         {
-            "name": "PS_015_oh",
+            "name": "spontF_583_okay",
             "start": 402.79,
-            "end": 403.85150000000004,
-            "token": "oh"
+            "end": 403.968,
+            "token": "okay"
         },
         {
-            "name": "PS_164_wow",
+            "name": "spontD_407_yeah",
             "start": 410.86,
-            "end": 411.99925,
-            "token": "wow"
+            "end": 411.277625,
+            "token": "yeah"
         },
         {
-            "name": "NR_006_no",
+            "name": "spontC_286_okay",
             "start": 419.51,
-            "end": 420.28612499999997,
-            "token": "no"
+            "end": 420.162,
+            "token": "okay"
         }
     ]
 }

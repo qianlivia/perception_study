@@ -1,38 +1,38 @@
 {
     "name": "fe_03_05113",
     "context_channel": 1,
-    "context_text": "<A> at least the united states are giving them a chance to live and he won't even give them a chance to live or do anything else so { i } / <B> [ yeah ] / <A> i think we're doing a great job uh uh of course there'll always be wars and rumors of wars from { my } / <B> [ yep ] / <A> understanding but i think we done the best thing we could do when we went over there and went to war with that country and mr bush and our leaders and lots of people done a lot of thinking and talking { and } / <B> [ wow ] / <A> praying and everything else about this situation and { i'm } / <B> [ oh ] / <A> proud of it / <B> uh-huh",
+    "context_text": "<A> at least the united states are giving them a chance to live and he won't even give them a chance to live or do anything else so { i } / <B> [ okay ] / <A> i think we're doing a great job uh uh of course there'll always be wars and rumors of wars from { my } / <B> [ right ] / <A> understanding but i think we done the best thing we could do when we went over there and went to war with that country and mr bush and our leaders and lots of people done a lot of thinking and talking { and } / <B> [ right ] / <A> praying and everything else about this situation and { i'm } / <B> [ exactly ] / <A> proud of it / <B> uh-huh",
     "context_start": 236.27,
-    "context_end": 267.610625,
+    "context_end": 267.86650000000003,
     "feedback": [
         {
-            "name": "spontE_258_yeah",
+            "name": "spontF_053_okay",
             "start": 241.2,
-            "end": 241.828125,
-            "token": "yeah"
+            "end": 242.02824999999999,
+            "token": "okay"
         },
         {
-            "name": "PR_028_yep",
+            "name": "PR_043_right",
             "start": 247.85,
-            "end": 248.6345,
-            "token": "yep"
+            "end": 248.51,
+            "token": "right"
         },
         {
-            "name": "PS_020_wow",
+            "name": "sun1_031_right",
             "start": 262.38,
-            "end": 263.3895,
-            "token": "wow"
+            "end": 263.17425,
+            "token": "right"
         },
         {
-            "name": "spontA_122_oh",
+            "name": "sun_016_exactly",
             "start": 265.27,
-            "end": 266.03175,
-            "token": "oh"
+            "end": 266.3035,
+            "token": "exactly"
         },
         {
-            "name": "spontD_047_uh-huh",
+            "name": "sun1_038_uh-huh",
             "start": 267.16,
-            "end": 267.610625,
+            "end": 267.86650000000003,
             "token": "uh-huh"
         }
     ]

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02577",
     "context_channel": 1,
-    "context_text": "<A> i feel like once they find myself once they find all the weapons of mass destruction and have gone over the country with a fine-toothed comb which is what they're doing now city to city and / <B> mhm / <A> th a lo from what i hear a lot of em have been buried so they may not ever find all of em but { once they } / <B> [ uh-huh ] / <A> feel satisfied that they have found the ones that they can find that are there even if we don't find saddam hussein or prove that he's dead or anything i feel like they might declare it a victory you know { they've } / <B> [ wow ] / <A> released thousands already released thousands of prisoners of war that they had captured / <B> ah",
+    "context_text": "<A> i feel like once they find myself once they find all the weapons of mass destruction and have gone over the country with a fine-toothed comb which is what they're doing now city to city and / <B> exactly / <A> th a lo from what i hear a lot of em have been buried so they may not ever find all of em but { once they } / <B> [ wow ] / <A> feel satisfied that they have found the ones that they can find that are there even if we don't find saddam hussein or prove that he's dead or anything i feel like they might declare it a victory you know { they've } / <B> [ yeah ] / <A> released thousands already released thousands of prisoners of war that they had captured / <B> yeah",
     "context_start": 348.99,
-    "context_end": 386.574,
+    "context_end": 386.314625,
     "feedback": [
         {
-            "name": "spontF_611_mhm",
+            "name": "sun_038_exactly",
             "start": 359.85,
-            "end": 360.40312500000005,
-            "token": "mhm"
+            "end": 360.93550000000005,
+            "token": "exactly"
         },
         {
-            "name": "spontD_153_uh-huh",
+            "name": "PS_128_wow",
             "start": 366.2,
-            "end": 366.78425,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontF_097_wow",
-            "start": 379.31,
-            "end": 379.754125,
+            "end": 367.293,
             "token": "wow"
         },
         {
-            "name": "spontC_173_ah",
+            "name": "spontB_100_yeah",
+            "start": 379.31,
+            "end": 379.98425,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_367_yeah",
             "start": 385.51,
-            "end": 386.574,
-            "token": "ah"
+            "end": 386.314625,
+            "token": "yeah"
         }
     ]
 }

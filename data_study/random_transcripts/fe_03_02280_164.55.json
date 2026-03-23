@@ -1,50 +1,50 @@
 {
     "name": "fe_03_02280",
     "context_channel": 1,
-    "context_text": "<A> um because i just notice that when i exercise i like non drowsy like you feel much better but it just prevents me from getting sick / <B> uh-huh / <A> um cough and because i live in new york like you can pretty much catch anything from anything so um i tend to you know i know this is probably not effective but i tend to you know take the subway wash my hands you { know go } / <B> [ oh ] / <A> back on the subway go home wash my hands you know all that stuff so / <B> oh / <A> um but i think half the time that that i get sick is is either because um i i travel a lot for work um so being on an airplane / <B> ooh / <A> and then um and then taking the train so / <B> uh-huh / <A> so yeah so it's and then you know just generally i'll just like pop a few pills or something especially aspirin if / <B> yeah / <A> i get sick but that's generally the extent of it i mean something like a cold is just having a cold is just annoying but you can generally get through it { the } / <B> [ yeah ]",
+    "context_text": "<A> um because i just notice that when i exercise i like non drowsy like you feel much better but it just prevents me from getting sick / <B> okay / <A> um cough and because i live in new york like you can pretty much catch anything from anything so um i tend to you know i know this is probably not effective but i tend to you know take the subway wash my hands you { know go } / <B> [ yeah ] / <A> back on the subway go home wash my hands you know all that stuff so / <B> mhm / <A> um but i think half the time that that i get sick is is either because um i i travel a lot for work um so being on an airplane / <B> right / <A> and then um and then taking the train so / <B> exactly / <A> so yeah so it's and then you know just generally i'll just like pop a few pills or something especially aspirin if / <B> okay / <A> i get sick but that's generally the extent of it i mean something like a cold is just having a cold is just annoying but you can generally get through it { the } / <B> [ yeah ]",
     "context_start": 164.55,
-    "context_end": 214.799125,
+    "context_end": 214.833125,
     "feedback": [
         {
-            "name": "PR_053_uh-huh",
+            "name": "spontD_279_okay",
             "start": 171.56,
-            "end": 172.4275,
-            "token": "uh-huh"
+            "end": 172.235125,
+            "token": "okay"
         },
         {
-            "name": "spontE_301_oh",
+            "name": "spontB_316_yeah",
             "start": 183.9,
-            "end": 184.91525000000001,
-            "token": "oh"
-        },
-        {
-            "name": "spontD_379_oh",
-            "start": 187.01,
-            "end": 188.107125,
-            "token": "oh"
-        },
-        {
-            "name": "NegS_014_ooh",
-            "start": 196.18,
-            "end": 197.30225000000002,
-            "token": "ooh"
-        },
-        {
-            "name": "sun1_036_uh-huh",
-            "start": 199.23,
-            "end": 200.21175,
-            "token": "uh-huh"
-        },
-        {
-            "name": "PR_061_yeah",
-            "start": 206.11,
-            "end": 207.02562500000002,
+            "end": 184.50325,
             "token": "yeah"
         },
         {
-            "name": "spontA_355_yeah",
+            "name": "spontA_409_mhm",
+            "start": 187.01,
+            "end": 187.57625,
+            "token": "mhm"
+        },
+        {
+            "name": "sun1_031_right",
+            "start": 196.18,
+            "end": 196.97425,
+            "token": "right"
+        },
+        {
+            "name": "sun_042_exactly",
+            "start": 199.23,
+            "end": 200.18724999999998,
+            "token": "exactly"
+        },
+        {
+            "name": "spontF_518_okay",
+            "start": 206.11,
+            "end": 206.816,
+            "token": "okay"
+        },
+        {
+            "name": "spontD_180_yeah",
             "start": 214.19,
-            "end": 214.799125,
+            "end": 214.833125,
             "token": "yeah"
         }
     ]

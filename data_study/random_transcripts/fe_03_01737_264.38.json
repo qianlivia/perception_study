@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01737",
     "context_channel": 1,
-    "context_text": "<A> [ mhm ] mhm you know what i'm always worried like when i hear things about north korea i work for this really small company / <B> uh-huh / <A> and they make um spent nuclear fuel boxes for power companies / <B> ooh / <A> and it's like we're really struggling for business right now and they're um cough they're some of their customers are in south korea it's wild you know and korea in a whole and north and south korea it's not really a big place / <B> yeah / <A> you know so it's like every time i hear about korea my ears kind of perk up because i you / <B> mhm",
+    "context_text": "<A> [ mhm ] mhm you know what i'm always worried like when i hear things about north korea i work for this really small company / <B> exactly / <A> and they make um spent nuclear fuel boxes for power companies / <B> mhm / <A> and it's like we're really struggling for business right now and they're um cough they're some of their customers are in south korea it's wild you know and korea in a whole and north and south korea it's not really a big place / <B> yeah / <A> you know so it's like every time i hear about korea my ears kind of perk up because i you / <B> uh-huh",
     "context_start": 264.38,
-    "context_end": 302.63125,
+    "context_end": 302.46837500000004,
     "feedback": [
         {
-            "name": "spontF_359_uh-huh",
+            "name": "sun_042_exactly",
             "start": 273.32,
-            "end": 273.97225,
-            "token": "uh-huh"
+            "end": 274.27725,
+            "token": "exactly"
         },
         {
-            "name": "spontF_454_ooh",
+            "name": "spontB_312_mhm",
             "start": 277.71,
-            "end": 278.2145,
-            "token": "ooh"
+            "end": 278.37174999999996,
+            "token": "mhm"
         },
         {
-            "name": "spontB_362_yeah",
+            "name": "spontD_395_yeah",
             "start": 295.23,
-            "end": 295.868625,
+            "end": 296.075625,
             "token": "yeah"
         },
         {
-            "name": "spontD_186_mhm",
+            "name": "spontF_206_uh-huh",
             "start": 302.04,
-            "end": 302.63125,
-            "token": "mhm"
+            "end": 302.46837500000004,
+            "token": "uh-huh"
         }
     ]
 }

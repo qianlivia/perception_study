@@ -1,39 +1,39 @@
 {
     "name": "fe_03_00258",
     "context_channel": 0,
-    "context_text": "<B> well my own you know my own thoughts on that situation is that that long before this terrorism thing i've always felt that there will never be peace in the middle east / <A> no / <B> you know there wasn't there ha there hasn't been peace in the middle east you know you know uhm it's always been a uh uh uh a boiling cauldron / <A> wow / <B> and um and i and i see these religious differences and and um i still think that because of the lack of education / <A> wow / <B> in those areas that you know uh that people are easily brainwashed both sides / <A> wow / <B> by uh by the local propaganda people / <A> mhm",
+    "context_text": "<B> well my own you know my own thoughts on that situation is that that long before this terrorism thing i've always felt that there will never be peace in the middle east / <A> right / <B> you know there wasn't there ha there hasn't been peace in the middle east you know you know uhm it's always been a uh uh uh a boiling cauldron / <A> right / <B> and um and i and i see these religious differences and and um i still think that because of the lack of education / <A> yeah / <B> in those areas that you know uh that people are easily brainwashed both sides / <A> exactly / <B> by uh by the local propaganda people / <A> right",
     "context_start": 419.66,
-    "context_end": 472.1345,
+    "context_end": 472.23512500000004,
     "feedback": [
         {
-            "name": "NR_060_no",
+            "name": "sun1_033_right",
             "start": 432.63,
-            "end": 433.104125,
-            "token": "no"
+            "end": 433.483125,
+            "token": "right"
         },
         {
-            "name": "PS_183_wow",
+            "name": "sun1_032_right",
             "start": 445.67,
-            "end": 446.47525,
-            "token": "wow"
+            "end": 446.513375,
+            "token": "right"
         },
         {
-            "name": "PS_034_wow",
+            "name": "spontF_570_yeah",
             "start": 459.29,
-            "end": 460.10762500000004,
-            "token": "wow"
+            "end": 460.171125,
+            "token": "yeah"
         },
         {
-            "name": "PS_120_wow",
+            "name": "sun_041_exactly",
             "start": 467.11,
-            "end": 468.207875,
-            "token": "wow"
+            "end": 468.063,
+            "token": "exactly"
         },
         {
-            "name": "spontA_415_mhm",
+            "name": "PR_048_right",
             "start": 471.6,
-            "end": 472.1345,
-            "token": "mhm"
+            "end": 472.23512500000004,
+            "token": "right"
         }
     ]
 }

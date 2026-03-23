@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02780",
     "context_channel": 1,
-    "context_text": "<A> [ well that ] is true now that does bring back something though / <B> yeah / <A> for a while i was um all enthralled with the um the atlanta team ah the uh braves and ah i did watch this was several years ago / <B> no / <A> uh we had a friend who was ah quite a ah baseball fan and so i would watch it so that i would have something to talk about with him / <B> yeah / <A> when he would come to visit us but um um and when i was young ah i remember the durham bulls and / <B> wow",
+    "context_text": "<A> [ well that ] is true now that does bring back something though / <B> exactly / <A> for a while i was um all enthralled with the um the atlanta team ah the uh braves and ah i did watch this was several years ago / <B> oh / <A> uh we had a friend who was ah quite a ah baseball fan and so i would watch it so that i would have something to talk about with him / <B> mhm / <A> when he would come to visit us but um um and when i was young ah i remember the durham bulls and / <B> right",
     "context_start": 135.11,
-    "context_end": 174.44925,
+    "context_end": 174.34425000000002,
     "feedback": [
         {
-            "name": "spontF_261_yeah",
+            "name": "sun_042_exactly",
             "start": 139.57,
-            "end": 140.12875,
-            "token": "yeah"
+            "end": 140.52724999999998,
+            "token": "exactly"
         },
         {
-            "name": "NR_053_no",
+            "name": "spontB_181_oh",
             "start": 153.66,
-            "end": 154.46375,
-            "token": "no"
+            "end": 154.262375,
+            "token": "oh"
         },
         {
-            "name": "spontA_043_yeah",
+            "name": "spontF_038_mhm",
             "start": 164.51,
-            "end": 165.13062499999998,
-            "token": "yeah"
+            "end": 165.038875,
+            "token": "mhm"
         },
         {
-            "name": "PS_083_wow",
+            "name": "sun1_031_right",
             "start": 173.55,
-            "end": 174.44925,
-            "token": "wow"
+            "end": 174.34425000000002,
+            "token": "right"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02030",
     "context_channel": 1,
-    "context_text": "<A> that's a good thing and it's you know if you can if you don't mind paying for it and you know / <B> yeah / <A> and i don't mind i you know my time is very valuable i i work a you know / <B> yeah / <A> spend a lot of time working in / <B> uh-huh / <A> and um i feel that you know that that's the least i can do to reward myself / <B> wow",
+    "context_text": "<A> that's a good thing and it's you know if you can if you don't mind paying for it and you know / <B> wow / <A> and i don't mind i you know my time is very valuable i i work a you know / <B> mhm / <A> spend a lot of time working in / <B> right / <A> and um i feel that you know that that's the least i can do to reward myself / <B> okay",
     "context_start": 533.79,
-    "context_end": 554.41725,
+    "context_end": 554.1519999999999,
     "feedback": [
         {
-            "name": "spontB_063_yeah",
+            "name": "PS_085_wow",
             "start": 539.2,
-            "end": 539.6476250000001,
-            "token": "yeah"
-        },
-        {
-            "name": "spontB_143_yeah",
-            "start": 544.89,
-            "end": 545.5661249999999,
-            "token": "yeah"
-        },
-        {
-            "name": "spontD_380_uh-huh",
-            "start": 547.05,
-            "end": 547.5661249999999,
-            "token": "uh-huh"
-        },
-        {
-            "name": "PS_184_wow",
-            "start": 553.3,
-            "end": 554.41725,
+            "end": 540.0690000000001,
             "token": "wow"
+        },
+        {
+            "name": "spontC_180_mhm",
+            "start": 544.89,
+            "end": 545.4343749999999,
+            "token": "mhm"
+        },
+        {
+            "name": "PR_043_right",
+            "start": 547.05,
+            "end": 547.7099999999999,
+            "token": "right"
+        },
+        {
+            "name": "spontF_317_okay",
+            "start": 553.3,
+            "end": 554.1519999999999,
+            "token": "okay"
         }
     ]
 }

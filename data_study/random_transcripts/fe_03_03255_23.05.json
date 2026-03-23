@@ -1,27 +1,27 @@
 {
     "name": "fe_03_03255",
     "context_channel": 0,
-    "context_text": "<B> and um i'd prefer a man that loved the lord how much he goes to church is not that important to me { but } / <A> [ uh-huh ] / <B> mostly important that he will love my three kids just as they were his own / <A> mhm / <B> um and be spiritually led because most men that are spiritually led they have morals they are less likely to cheat / <A> no",
+    "context_text": "<B> and um i'd prefer a man that loved the lord how much he goes to church is not that important to me { but } / <A> [ right ] / <B> mostly important that he will love my three kids just as they were his own / <A> oh / <B> um and be spiritually led because most men that are spiritually led they have morals they are less likely to cheat / <A> right",
     "context_start": 23.05,
-    "context_end": 43.90525,
+    "context_end": 43.75,
     "feedback": [
         {
-            "name": "sun1_035_uh-huh",
+            "name": "spontC_360_right",
             "start": 32.28,
-            "end": 33.302875,
-            "token": "uh-huh"
+            "end": 32.858875,
+            "token": "right"
         },
         {
-            "name": "spontC_380_mhm",
+            "name": "spontD_193_oh",
             "start": 36.64,
-            "end": 37.174375,
-            "token": "mhm"
+            "end": 37.39125,
+            "token": "oh"
         },
         {
-            "name": "NR_088_no",
+            "name": "PR_043_right",
             "start": 43.09,
-            "end": 43.90525,
-            "token": "no"
+            "end": 43.75,
+            "token": "right"
         }
     ]
 }

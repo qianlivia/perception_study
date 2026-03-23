@@ -1,51 +1,51 @@
 {
     "name": "fe_03_02248",
     "context_channel": 1,
-    "context_text": "<A> s you know we're in the middle of april here and we just had a cold snap not long ago right in the middle of april { and } / <B> [ mhm ] / <A> i mean it's like where did that come from { you } / <B> [ yeah ] / <A> know okay this is supposed to be hot weather { not } / <B> [ yeah ] / <A> cold weather and it's you know it gets hot for two or or cold for two or three days and then all of a sudden it's it's you know rainy and { then all of a } / <B> [ ooh ] / <A> sudden it's hot eighty degree hot / <B> yeah / <A> and then everything opens up and blooms again / <B> yeah / <A> and then it's ah you know back to you know the cold the rain and i mean it's just there's there's the seasons don't seem to stay as level i mean they don't { seem } / <B> [ oh ]",
+    "context_text": "<A> s you know we're in the middle of april here and we just had a cold snap not long ago right in the middle of april { and } / <B> [ oh ] / <A> i mean it's like where did that come from { you } / <B> [ mhm ] / <A> know okay this is supposed to be hot weather { not } / <B> [ right ] / <A> cold weather and it's you know it gets hot for two or or cold for two or three days and then all of a sudden it's it's you know rainy and { then all of a } / <B> [ right ] / <A> sudden it's hot eighty degree hot / <B> yeah / <A> and then everything opens up and blooms again / <B> really / <A> and then it's ah you know back to you know the cold the rain and i mean it's just there's there's the seasons don't seem to stay as level i mean they don't { seem } / <B> [ yeah ]",
     "context_start": 326.0,
-    "context_end": 362.899,
+    "context_end": 361.289,
     "feedback": [
         {
-            "name": "spontA_331_mhm",
+            "name": "spontC_100_oh",
             "start": 332.44,
-            "end": 333.098875,
+            "end": 333.055,
+            "token": "oh"
+        },
+        {
+            "name": "spontC_304_mhm",
+            "start": 334.99,
+            "end": 335.508,
             "token": "mhm"
         },
         {
-            "name": "PR_052_yeah",
-            "start": 334.99,
-            "end": 335.840875,
-            "token": "yeah"
-        },
-        {
-            "name": "spontA_337_yeah",
+            "name": "sun_013_right",
             "start": 337.29,
-            "end": 337.690375,
-            "token": "yeah"
+            "end": 338.1635,
+            "token": "right"
         },
         {
-            "name": "NegS_051_ooh",
+            "name": "PR_048_right",
             "start": 344.87,
-            "end": 346.02525,
-            "token": "ooh"
+            "end": 345.505125,
+            "token": "right"
         },
         {
-            "name": "spontB_082_yeah",
+            "name": "spontF_552_yeah",
             "start": 347.07,
-            "end": 348.081125,
+            "end": 347.52925,
             "token": "yeah"
         },
         {
-            "name": "spontD_336_yeah",
+            "name": "NS_002_really",
             "start": 349.62,
-            "end": 350.62,
-            "token": "yeah"
+            "end": 350.4765,
+            "token": "really"
         },
         {
-            "name": "PS_170_oh",
+            "name": "spontA_117_yeah",
             "start": 360.65,
-            "end": 362.899,
-            "token": "oh"
+            "end": 361.289,
+            "token": "yeah"
         }
     ]
 }

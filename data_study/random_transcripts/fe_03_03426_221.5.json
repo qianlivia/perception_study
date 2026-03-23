@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03426",
     "context_channel": 1,
-    "context_text": "<A> well you know it's it's it's two things we're into instant gratification / <B> oh / <A> everyone wants everything right now / <B> uh-huh / <A> give it to me now and then the other thing is that we kinda live in a disposable society from disposable pens to disposable marriages / <B> mhm / <A> my sister god bless her got married they went to the justice of the peace to get married because he's a teacher and it was a small town and they said well you can't live together and not be married { you know } / <B> [ yeah ]",
+    "context_text": "<A> well you know it's it's it's two things we're into instant gratification / <B> yeah / <A> everyone wants everything right now / <B> mhm / <A> give it to me now and then the other thing is that we kinda live in a disposable society from disposable pens to disposable marriages / <B> uh-huh / <A> my sister god bless her got married they went to the justice of the peace to get married because he's a teacher and it was a small town and they said well you can't live together and not be married { you know } / <B> [ right ]",
     "context_start": 221.5,
-    "context_end": 249.142375,
+    "context_end": 249.273125,
     "feedback": [
         {
-            "name": "PS_015_oh",
+            "name": "spontF_380_yeah",
             "start": 225.67,
-            "end": 226.73149999999998,
-            "token": "oh"
+            "end": 226.28349999999998,
+            "token": "yeah"
         },
         {
-            "name": "spontD_146_uh-huh",
+            "name": "spontC_314_mhm",
             "start": 227.49,
-            "end": 228.009125,
-            "token": "uh-huh"
-        },
-        {
-            "name": "sun1_003_mhm",
-            "start": 235.37,
-            "end": 236.191,
+            "end": 228.030875,
             "token": "mhm"
         },
         {
-            "name": "spontE_272_yeah",
+            "name": "spontD_380_uh-huh",
+            "start": 235.37,
+            "end": 235.886125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "sun1_033_right",
             "start": 248.42,
-            "end": 249.142375,
-            "token": "yeah"
+            "end": 249.273125,
+            "token": "right"
         }
     ]
 }

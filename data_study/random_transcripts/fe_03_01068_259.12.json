@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01068",
     "context_channel": 1,
-    "context_text": "<A> and they were making a joke about or whoopi made a joke about um about how we have um th three people making um running the country / <B> no / <A> um president bush um secretary dick cheney and colin powell / <B> yeah / <A> and then but jimmy kimmel's cohost made the same exact joke his night but there was no way either one of them could see each other's show / <B> yeah / <A> i mean / <B> oh",
+    "context_text": "<A> and they were making a joke about or whoopi made a joke about um about how we have um th three people making um running the country / <B> mhm / <A> um president bush um secretary dick cheney and colin powell / <B> yeah / <A> and then but jimmy kimmel's cohost made the same exact joke his night but there was no way either one of them could see each other's show / <B> right / <A> i mean / <B> okay",
     "context_start": 259.12,
-    "context_end": 297.73974999999996,
+    "context_end": 296.315,
     "feedback": [
         {
-            "name": "NR_081_no",
+            "name": "spontB_183_mhm",
             "start": 275.59,
-            "end": 276.43825,
-            "token": "no"
+            "end": 276.14399999999995,
+            "token": "mhm"
         },
         {
-            "name": "spontF_491_yeah",
+            "name": "spontB_249_yeah",
             "start": 282.77,
-            "end": 283.53662499999996,
+            "end": 283.38399999999996,
             "token": "yeah"
         },
         {
-            "name": "spontA_335_yeah",
+            "name": "sun1_030_right",
             "start": 293.98,
-            "end": 294.647125,
-            "token": "yeah"
+            "end": 294.77362500000004,
+            "token": "right"
         },
         {
-            "name": "spontF_582_oh",
+            "name": "spontC_020_okay",
             "start": 295.84,
-            "end": 297.73974999999996,
-            "token": "oh"
+            "end": 296.315,
+            "token": "okay"
         }
     ]
 }

@@ -1,27 +1,27 @@
 {
     "name": "fe_03_05748",
     "context_channel": 1,
-    "context_text": "<A> got all the encyclopedias online / <B> no / <A> so she can just go to you know encyclopedia britannica / <B> oh / <A> type up her subject and find out about things and not have to worry about spending / <B> mhm",
+    "context_text": "<A> got all the encyclopedias online / <B> yeah / <A> so she can just go to you know encyclopedia britannica / <B> mhm / <A> type up her subject and find out about things and not have to worry about spending / <B> right",
     "context_start": 355.89,
-    "context_end": 368.354625,
+    "context_end": 368.469375,
     "feedback": [
         {
-            "name": "NR_022_no",
+            "name": "PR_010_yeah",
             "start": 358.19,
-            "end": 359.357625,
-            "token": "no"
+            "end": 358.922625,
+            "token": "yeah"
         },
         {
-            "name": "Sy_066_oh",
+            "name": "spontA_058_mhm",
             "start": 362.21,
-            "end": 363.42699999999996,
-            "token": "oh"
+            "end": 362.713875,
+            "token": "mhm"
         },
         {
-            "name": "spontA_395_mhm",
+            "name": "sun_028_right",
             "start": 367.74,
-            "end": 368.354625,
-            "token": "mhm"
+            "end": 368.469375,
+            "token": "right"
         }
     ]
 }

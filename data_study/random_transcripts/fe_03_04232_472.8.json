@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04232",
     "context_channel": 0,
-    "context_text": "<B> that's another thing i wish i could go back in time and change my our decision on moving here because i did there here we go with the government because i moved here with my husband's job and lost my good job they're giving me a hard time collecting unemployment and i { think } / <A> [ yeah ] / <B> they should change that i had my it was my husband's job what { was } / <A> [ yep ] / <B> i going to do when i'm down here without a job fighting unemployment / <A> mhm / <B> i just i give up if the jobs down here don't don't pay { they } / <A> [ no ]",
+    "context_text": "<B> that's another thing i wish i could go back in time and change my our decision on moving here because i did there here we go with the government because i moved here with my husband's job and lost my good job they're giving me a hard time collecting unemployment and i { think } / <A> [ really ] / <B> they should change that i had my it was my husband's job what { was } / <A> [ right ] / <B> i going to do when i'm down here without a job fighting unemployment / <A> yeah / <B> i just i give up if the jobs down here don't don't pay { they } / <A> [ yeah ]",
     "context_start": 472.8,
-    "context_end": 505.830875,
+    "context_end": 505.464625,
     "feedback": [
         {
-            "name": "spontB_136_yeah",
+            "name": "PS_002_really",
             "start": 488.68,
-            "end": 489.476875,
+            "end": 489.472875,
+            "token": "really"
+        },
+        {
+            "name": "PR_048_right",
+            "start": 492.45,
+            "end": 493.085125,
+            "token": "right"
+        },
+        {
+            "name": "spontF_127_yeah",
+            "start": 498.66,
+            "end": 499.362,
             "token": "yeah"
         },
         {
-            "name": "sun_019_yep",
-            "start": 492.45,
-            "end": 493.203,
-            "token": "yep"
-        },
-        {
-            "name": "PR_032_mhm",
-            "start": 498.66,
-            "end": 499.39137500000004,
-            "token": "mhm"
-        },
-        {
-            "name": "NR_094_no",
+            "name": "spontC_075_yeah",
             "start": 504.81,
-            "end": 505.830875,
-            "token": "no"
+            "end": 505.464625,
+            "token": "yeah"
         }
     ]
 }

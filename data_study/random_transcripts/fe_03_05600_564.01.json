@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05600",
     "context_channel": 1,
-    "context_text": "<A> uh they they don't talk about their jobs uh russell don't talk about his job you know we uh-hung with him at a casino uh one { night } / <B> [ mhm ] / <A> uh me and my friends we all hung out with him kept them up all night / <B> yeah / <A> and gambled his money away he kept gambling his money away / <B> mhm / <A> otherwise he's a cool he's a cool guy / <B> ooh",
+    "context_text": "<A> uh they they don't talk about their jobs uh russell don't talk about his job you know we uh-hung with him at a casino uh one { night } / <B> [ right ] / <A> uh me and my friends we all hung out with him kept them up all night / <B> really / <A> and gambled his money away he kept gambling his money away / <B> yeah / <A> otherwise he's a cool he's a cool guy / <B> exactly",
     "context_start": 564.01,
-    "context_end": 584.189375,
+    "context_end": 584.2395,
     "feedback": [
         {
-            "name": "PR_063_mhm",
+            "name": "sun1_031_right",
             "start": 571.54,
-            "end": 572.2275,
-            "token": "mhm"
+            "end": 572.33425,
+            "token": "right"
         },
         {
-            "name": "spontE_124_yeah",
+            "name": "NS_082_really",
             "start": 576.21,
-            "end": 577.0968750000001,
+            "end": 576.96225,
+            "token": "really"
+        },
+        {
+            "name": "spontA_448_yeah",
+            "start": 580.55,
+            "end": 581.06925,
             "token": "yeah"
         },
         {
-            "name": "spontB_121_mhm",
-            "start": 580.55,
-            "end": 581.0835,
-            "token": "mhm"
-        },
-        {
-            "name": "PS_166_ooh",
+            "name": "sun_026_exactly",
             "start": 583.21,
-            "end": 584.189375,
-            "token": "ooh"
+            "end": 584.2395,
+            "token": "exactly"
         }
     ]
 }

@@ -1,27 +1,27 @@
 {
     "name": "fe_03_02906",
     "context_channel": 0,
-    "context_text": "<B> figure skating yeah you know what i just recently started watching is golf i always thought golf was boring and it is kind of boring { to watch but } / <A> [ mhm ] / <B> when when you they've got a really close game { that's } / <A> [ yeah ] / <B> kind of fun to watch / <A> sure",
+    "context_text": "<B> figure skating yeah you know what i just recently started watching is golf i always thought golf was boring and it is kind of boring { to watch but } / <A> [ yeah ] / <B> when when you they've got a really close game { that's } / <A> [ mhm ] / <B> kind of fun to watch / <A> right",
     "context_start": 371.82,
-    "context_end": 387.57775000000004,
+    "context_end": 387.35512500000004,
     "feedback": [
         {
-            "name": "PR_063_mhm",
+            "name": "spontE_067_yeah",
             "start": 381.01,
-            "end": 381.6975,
-            "token": "mhm"
-        },
-        {
-            "name": "spontD_180_yeah",
-            "start": 384.99,
-            "end": 385.633125,
+            "end": 381.604875,
             "token": "yeah"
         },
         {
-            "name": "sun_052_sure",
+            "name": "spontA_0101_mhm",
+            "start": 384.99,
+            "end": 385.54537500000004,
+            "token": "mhm"
+        },
+        {
+            "name": "PR_048_right",
             "start": 386.72,
-            "end": 387.57775000000004,
-            "token": "sure"
+            "end": 387.35512500000004,
+            "token": "right"
         }
     ]
 }

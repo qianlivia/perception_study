@@ -1,39 +1,39 @@
 {
     "name": "fe_03_02375",
     "context_channel": 0,
-    "context_text": "<B> no it was it's what you call lucaplecomy which is a um it it's a temporary situa it's a it's a changing of the cells / <A> mhm / <B> and it could change and turn cancerous or it can revert back to normal healthy cells { if } / <A> [ yes ] / <B> you eliminate the cause / <A> oh / <B> and the cause of of the irritation of the of the change was was the smoking / <A> wow / <B> and um and then i said well i'm not gonna gain weight because i'm very you know i'm very active and i'm very involved with with weight and i just had to you know watch it so i so i just didn't feed my face you know instead of putting of a cigarette in my mouth i wouldn't put a piece of chocolate in my mouth / <A> yeah",
+    "context_text": "<B> no it was it's what you call lucaplecomy which is a um it it's a temporary situa it's a it's a changing of the cells / <A> oh / <B> and it could change and turn cancerous or it can revert back to normal healthy cells { if } / <A> [ mhm ] / <B> you eliminate the cause / <A> right / <B> and the cause of of the irritation of the of the change was was the smoking / <A> yeah / <B> and um and then i said well i'm not gonna gain weight because i'm very you know i'm very active and i'm very involved with with weight and i just had to you know watch it so i so i just didn't feed my face you know instead of putting of a cigarette in my mouth i wouldn't put a piece of chocolate in my mouth / <A> wow",
     "context_start": 405.26,
-    "context_end": 447.128,
+    "context_end": 447.99675,
     "feedback": [
         {
-            "name": "spontD_038_mhm",
+            "name": "spontF_320_oh",
             "start": 413.03,
-            "end": 413.56337499999995,
-            "token": "mhm"
-        },
-        {
-            "name": "PR_007_yes",
-            "start": 420.11,
-            "end": 421.029,
-            "token": "yes"
-        },
-        {
-            "name": "spontB_365_oh",
-            "start": 422.98,
-            "end": 423.57425,
+            "end": 413.732375,
             "token": "oh"
         },
         {
-            "name": "PS_172_wow",
-            "start": 428.65,
-            "end": 430.3945,
-            "token": "wow"
+            "name": "spontC_180_mhm",
+            "start": 420.11,
+            "end": 420.654375,
+            "token": "mhm"
         },
         {
-            "name": "spontC_389_yeah",
-            "start": 446.61,
-            "end": 447.128,
+            "name": "sun1_029_right",
+            "start": 422.98,
+            "end": 423.672,
+            "token": "right"
+        },
+        {
+            "name": "spontB_051_yeah",
+            "start": 428.65,
+            "end": 429.141375,
             "token": "yeah"
+        },
+        {
+            "name": "PS_063_wow",
+            "start": 446.61,
+            "end": 447.99675,
+            "token": "wow"
         }
     ]
 }

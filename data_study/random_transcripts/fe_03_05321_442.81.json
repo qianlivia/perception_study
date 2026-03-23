@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05321",
     "context_channel": 1,
-    "context_text": "<A> you know cause soccer 's getting more popular all the time / <B> yeah / <A> i know down here in georgia they uh they found that they made a a stocker a soccer 's uh what do they call it's not a stadium i forget what it's called but uh they got a pavilion that's what it is / <B> uh-huh / <A> they got a soccer pavilion down here in in georgia / <B> mhm / <A> little town where i live / <B> yeah",
+    "context_text": "<A> you know cause soccer 's getting more popular all the time / <B> right / <A> i know down here in georgia they uh they found that they made a a stocker a soccer 's uh what do they call it's not a stadium i forget what it's called but uh they got a pavilion that's what it is / <B> mhm / <A> they got a soccer pavilion down here in in georgia / <B> mhm / <A> little town where i live / <B> okay",
     "context_start": 442.81,
-    "context_end": 464.442125,
+    "context_end": 464.548,
     "feedback": [
         {
-            "name": "spontE_355_yeah",
+            "name": "spontC_360_right",
             "start": 445.42,
-            "end": 445.863125,
-            "token": "yeah"
+            "end": 445.998875,
+            "token": "right"
         },
         {
-            "name": "spontF_079_uh-huh",
+            "name": "spontD_133_mhm",
             "start": 458.15,
-            "end": 458.78999999999996,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontC_350_mhm",
-            "start": 462.09,
-            "end": 462.655,
+            "end": 458.79024999999996,
             "token": "mhm"
         },
         {
-            "name": "spontC_336_yeah",
+            "name": "spontD_204_mhm",
+            "start": 462.09,
+            "end": 462.74025,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_643_okay",
             "start": 463.84,
-            "end": 464.442125,
-            "token": "yeah"
+            "end": 464.548,
+            "token": "okay"
         }
     ]
 }

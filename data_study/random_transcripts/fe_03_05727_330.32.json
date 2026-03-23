@@ -1,38 +1,38 @@
 {
     "name": "fe_03_05727",
     "context_channel": 1,
-    "context_text": "<A> they can show they're computer literate and { that } / <B> [ ooh ] / <A> kinda stuff i mean i can't / <B> mhm / <A> imagine being anywhere in any job or any / <B> yeah / <A> field of study and not be exposed to computers { or be } / <B> [ yeah ] / <A> expected to have some minimal / <B> yeah",
+    "context_text": "<A> they can show they're computer literate and { that } / <B> [ right ] / <A> kinda stuff i mean i can't / <B> yeah / <A> imagine being anywhere in any job or any / <B> right / <A> field of study and not be exposed to computers { or be } / <B> [ mhm ] / <A> expected to have some minimal / <B> yeah",
     "context_start": 330.32,
-    "context_end": 345.440375,
+    "context_end": 345.96425,
     "feedback": [
         {
-            "name": "PS_087_ooh",
+            "name": "sun1_032_right",
             "start": 333.36,
-            "end": 334.52875,
-            "token": "ooh"
+            "end": 334.203375,
+            "token": "right"
         },
         {
-            "name": "spontA_400_mhm",
+            "name": "spontB_057_yeah",
             "start": 335.55,
-            "end": 336.3705,
+            "end": 336.095125,
+            "token": "yeah"
+        },
+        {
+            "name": "sun_007_right",
+            "start": 338.9,
+            "end": 339.7895,
+            "token": "right"
+        },
+        {
+            "name": "sun_017_mhm",
+            "start": 342.57,
+            "end": 343.521625,
             "token": "mhm"
         },
         {
-            "name": "spontB_026_yeah",
-            "start": 338.9,
-            "end": 339.48949999999996,
-            "token": "yeah"
-        },
-        {
-            "name": "spontB_051_yeah",
-            "start": 342.57,
-            "end": 343.061375,
-            "token": "yeah"
-        },
-        {
-            "name": "spontA_337_yeah",
+            "name": "spontB_349_yeah",
             "start": 345.04,
-            "end": 345.440375,
+            "end": 345.96425,
             "token": "yeah"
         }
     ]

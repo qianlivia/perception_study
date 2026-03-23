@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02901",
     "context_channel": 1,
-    "context_text": "<A> yeah and yeah we know we just baseball doesn't have any performers anymore / <B> yeah / <A> not like babe ruth or carl yastrzemski or anything / <B> yeah / <A> you know who actually actually appeal to the crowd / <B> oh / <A> { nowadays } / <B> [ no ]",
+    "context_text": "<A> yeah and yeah we know we just baseball doesn't have any performers anymore / <B> right / <A> not like babe ruth or carl yastrzemski or anything / <B> okay / <A> you know who actually actually appeal to the crowd / <B> yeah / <A> { nowadays } / <B> [ wow ]",
     "context_start": 347.31,
-    "context_end": 359.13475000000005,
+    "context_end": 359.5045,
     "feedback": [
         {
-            "name": "spontC_205_yeah",
+            "name": "sun1_030_right",
             "start": 351.75,
-            "end": 352.49325,
-            "token": "yeah"
+            "end": 352.543625,
+            "token": "right"
         },
         {
-            "name": "spontB_216_yeah",
+            "name": "spontF_643_okay",
             "start": 355.09,
-            "end": 355.57874999999996,
+            "end": 355.798,
+            "token": "okay"
+        },
+        {
+            "name": "spontD_280_yeah",
+            "start": 357.9,
+            "end": 358.63725,
             "token": "yeah"
         },
         {
-            "name": "spontF_277_oh",
-            "start": 357.9,
-            "end": 358.46824999999995,
-            "token": "oh"
-        },
-        {
-            "name": "NR_120_no",
+            "name": "PS_094_wow",
             "start": 358.47,
-            "end": 359.13475000000005,
-            "token": "no"
+            "end": 359.5045,
+            "token": "wow"
         }
     ]
 }

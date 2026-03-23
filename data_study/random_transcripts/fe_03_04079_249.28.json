@@ -1,27 +1,27 @@
 {
     "name": "fe_03_04079",
     "context_channel": 0,
-    "context_text": "<B> just because i don't want anyone taking care of my child / <A> oh / <B> while they're young / <A> oh / <B> so that was nothing that i complained about i went to s i went to college but i didn't complete my degree / <A> okay",
+    "context_text": "<B> just because i don't want anyone taking care of my child / <A> really / <B> while they're young / <A> right / <B> so that was nothing that i complained about i went to s i went to college but i didn't complete my degree / <A> right",
     "context_start": 249.28,
-    "context_end": 261.516625,
+    "context_end": 261.7095,
     "feedback": [
         {
-            "name": "PS_001_oh",
+            "name": "PS_019_really",
             "start": 251.52,
-            "end": 252.60175,
-            "token": "oh"
+            "end": 252.3095,
+            "token": "really"
         },
         {
-            "name": "NS_097_oh",
+            "name": "sun1_029_right",
             "start": 253.04,
-            "end": 253.70999999999998,
-            "token": "oh"
+            "end": 253.732,
+            "token": "right"
         },
         {
-            "name": "spontD_033_okay",
+            "name": "sun_007_right",
             "start": 260.82,
-            "end": 261.516625,
-            "token": "okay"
+            "end": 261.7095,
+            "token": "right"
         }
     ]
 }

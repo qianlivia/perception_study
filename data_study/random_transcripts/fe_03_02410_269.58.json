@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02410",
     "context_channel": 1,
-    "context_text": "<A> nothing's going on i just think the united states is trying to globalize their dem democratic economy / <B> no / <A> that's what i think they're trying to do i don't { have } / <B> [ wow ] / <A> have any i don't have anything against it / <B> yeah / <A> it'll be good for the other nations / <B> yeah",
+    "context_text": "<A> nothing's going on i just think the united states is trying to globalize their dem democratic economy / <B> yeah / <A> that's what i think they're trying to do i don't { have } / <B> [ okay ] / <A> have any i don't have anything against it / <B> oh / <A> it'll be good for the other nations / <B> okay",
     "context_start": 269.58,
-    "context_end": 283.83362500000004,
+    "context_end": 284.012,
     "feedback": [
         {
-            "name": "sun_033_no",
+            "name": "spontE_274_yeah",
             "start": 276.11,
-            "end": 277.195125,
-            "token": "no"
+            "end": 276.840125,
+            "token": "yeah"
         },
         {
-            "name": "PS_113_wow",
+            "name": "spontD_033_okay",
             "start": 278.59,
-            "end": 279.61862499999995,
-            "token": "wow"
+            "end": 279.28662499999996,
+            "token": "okay"
         },
         {
-            "name": "spontF_362_yeah",
+            "name": "Sy_070_oh",
             "start": 280.78,
-            "end": 281.319375,
-            "token": "yeah"
+            "end": 282.07,
+            "token": "oh"
         },
         {
-            "name": "spontD_145_yeah",
+            "name": "spontF_317_okay",
             "start": 283.16,
-            "end": 283.83362500000004,
-            "token": "yeah"
+            "end": 284.012,
+            "token": "okay"
         }
     ]
 }

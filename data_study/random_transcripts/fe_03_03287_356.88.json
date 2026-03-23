@@ -1,38 +1,38 @@
 {
     "name": "fe_03_03287",
     "context_channel": 1,
-    "context_text": "<A> he supported my decision that i did not want my kids raised in day care { i did } / <B> [ ooh ] / <A> not want to pay someone to raise my children / <B> yeah / <A> and so and you know a lot of people would have told me i was crazy um we needed two incomes you know i mean / <B> ooh / <A> i mean once again back to a superficial society where money's everything / <B> uh-huh / <A> but you know he has been very supportive and i went to school to be a physical therapist and so you know i left something really major behind / <B> yeah",
+    "context_text": "<A> he supported my decision that i did not want my kids raised in day care { i did } / <B> [ oh ] / <A> not want to pay someone to raise my children / <B> yeah / <A> and so and you know a lot of people would have told me i was crazy um we needed two incomes you know i mean / <B> yeah / <A> i mean once again back to a superficial society where money's everything / <B> uh-huh / <A> but you know he has been very supportive and i went to school to be a physical therapist and so you know i left something really major behind / <B> yeah",
     "context_start": 356.88,
-    "context_end": 386.994875,
+    "context_end": 387.231875,
     "feedback": [
         {
-            "name": "NegS_014_ooh",
+            "name": "spontF_125_oh",
             "start": 361.55,
-            "end": 362.67225,
-            "token": "ooh"
+            "end": 362.397625,
+            "token": "oh"
         },
         {
-            "name": "spontB_224_yeah",
+            "name": "spontF_562_yeah",
             "start": 365.4,
-            "end": 366.27349999999996,
+            "end": 365.96887499999997,
             "token": "yeah"
         },
         {
-            "name": "PS_099_ooh",
+            "name": "spontE_170_yeah",
             "start": 373.05,
-            "end": 373.759,
-            "token": "ooh"
+            "end": 373.875,
+            "token": "yeah"
         },
         {
-            "name": "spontA_321_uh-huh",
+            "name": "spontF_092_uh-huh",
             "start": 377.91,
-            "end": 378.469375,
+            "end": 378.589125,
             "token": "uh-huh"
         },
         {
-            "name": "spontC_321_yeah",
+            "name": "spontD_074_yeah",
             "start": 386.33,
-            "end": 386.994875,
+            "end": 387.231875,
             "token": "yeah"
         }
     ]

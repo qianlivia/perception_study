@@ -1,51 +1,51 @@
 {
     "name": "fe_03_01494",
     "context_channel": 1,
-    "context_text": "<A> [ yeah me neither cause ] i i feel like you know why i'm gonna be start looking at people and uh and saying well you're from there so i guess / <B> yeah / <A> you may be i'm like you know you don't / <B> no / <A> know you don't know who will be the person that come after you and i think { that } / <B> [ uh-huh ] / <A> it's when it's your time to go it's your time to go { it } / <B> [ oh ] / <A> doesn't matter you know so just live your life as it is uh as full as you { can } / <B> [ ooh ] / <A> right now and instead of just watching tv and then kinda okay today i'm gonna do this because / <B> yes / <A> it seems like you know it's like when they have these like high alerts over the united states you { know } / <B> [ ooh ]",
+    "context_text": "<A> [ yeah me neither cause ] i i feel like you know why i'm gonna be start looking at people and uh and saying well you're from there so i guess / <B> uh-huh / <A> you may be i'm like you know you don't / <B> mhm / <A> know you don't know who will be the person that come after you and i think { that } / <B> [ right ] / <A> it's when it's your time to go it's your time to go { it } / <B> [ yeah ] / <A> doesn't matter you know so just live your life as it is uh as full as you { can } / <B> [ yeah ] / <A> right now and instead of just watching tv and then kinda okay today i'm gonna do this because / <B> yeah / <A> it seems like you know it's like when they have these like high alerts over the united states you { know } / <B> [ mhm ]",
     "context_start": 311.65,
-    "context_end": 345.10949999999997,
+    "context_end": 344.989375,
     "feedback": [
         {
-            "name": "spontF_041_yeah",
+            "name": "spontF_494_uh-huh",
             "start": 318.27,
-            "end": 319.1375,
-            "token": "yeah"
-        },
-        {
-            "name": "NR_078_no",
-            "start": 320.67,
-            "end": 321.393375,
-            "token": "no"
-        },
-        {
-            "name": "spontD_047_uh-huh",
-            "start": 324.36,
-            "end": 324.810625,
+            "end": 318.82237499999997,
             "token": "uh-huh"
         },
         {
-            "name": "Sy_016_oh",
+            "name": "spontC_355_mhm",
+            "start": 320.67,
+            "end": 321.208,
+            "token": "mhm"
+        },
+        {
+            "name": "PR_048_right",
+            "start": 324.36,
+            "end": 324.99512500000003,
+            "token": "right"
+        },
+        {
+            "name": "spontF_625_yeah",
             "start": 327.87,
-            "end": 329.34925,
-            "token": "oh"
+            "end": 328.37975,
+            "token": "yeah"
         },
         {
-            "name": "spontE_283_ooh",
+            "name": "spontE_270_yeah",
             "start": 332.65,
-            "end": 333.62224999999995,
-            "token": "ooh"
+            "end": 333.32062499999995,
+            "token": "yeah"
         },
         {
-            "name": "PR_023_yes",
+            "name": "spontA_297_yeah",
             "start": 339.47,
-            "end": 340.49025,
-            "token": "yes"
+            "end": 340.01637500000004,
+            "token": "yeah"
         },
         {
-            "name": "spontB_350_ooh",
+            "name": "spontE_361_mhm",
             "start": 344.53,
-            "end": 345.10949999999997,
-            "token": "ooh"
+            "end": 344.989375,
+            "token": "mhm"
         }
     ]
 }

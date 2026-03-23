@@ -1,38 +1,38 @@
 {
     "name": "fe_03_00719",
     "context_channel": 1,
-    "context_text": "<A> i i was i mean that struck me because i was hearing it for the first time / <B> yeah / <A> um and them saying well that is serious and that's more serious / <B> yeah / <A> so but um on the other hand um i was just reading something today on the internet that said you know if this man really wants to stay in power which he does / <B> oh / <A> um then the best thing to do is to get rid of it -cause if he doesn't then and we attack then he is not going to be there anymore so { he } / <B> [ yeah ] / <A> is not so dumb / <B> mhm",
+    "context_text": "<A> i i was i mean that struck me because i was hearing it for the first time / <B> uh-huh / <A> um and them saying well that is serious and that's more serious / <B> mhm / <A> so but um on the other hand um i was just reading something today on the internet that said you know if this man really wants to stay in power which he does / <B> yeah / <A> um then the best thing to do is to get rid of it -cause if he doesn't then and we attack then he is not going to be there anymore so { he } / <B> [ really ] / <A> is not so dumb / <B> mhm",
     "context_start": 117.01,
-    "context_end": 153.311375,
+    "context_end": 153.394625,
     "feedback": [
         {
-            "name": "spontA_382_yeah",
+            "name": "spontF_258_uh-huh",
             "start": 122.07,
-            "end": 122.64462499999999,
-            "token": "yeah"
+            "end": 122.66024999999999,
+            "token": "uh-huh"
         },
         {
-            "name": "spontC_398_yeah",
+            "name": "spontC_304_mhm",
             "start": 127.21,
-            "end": 127.56412499999999,
-            "token": "yeah"
+            "end": 127.728,
+            "token": "mhm"
         },
         {
-            "name": "NS_103_oh",
+            "name": "spontB_327_yeah",
             "start": 138.96,
-            "end": 139.7665,
-            "token": "oh"
-        },
-        {
-            "name": "spontA_273_yeah",
-            "start": 150.46,
-            "end": 151.02575000000002,
+            "end": 139.81525000000002,
             "token": "yeah"
         },
         {
-            "name": "spontA_153_mhm",
+            "name": "PS_019_really",
+            "start": 150.46,
+            "end": 151.2495,
+            "token": "really"
+        },
+        {
+            "name": "spontA_395_mhm",
             "start": 152.78,
-            "end": 153.311375,
+            "end": 153.394625,
             "token": "mhm"
         }
     ]

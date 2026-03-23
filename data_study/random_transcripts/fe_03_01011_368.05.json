@@ -1,39 +1,39 @@
 {
     "name": "fe_03_01011",
     "context_channel": 0,
-    "context_text": "<B> our company i worked for a wireless company and um they closed down the chicago location that's where i'm from they { closed } / <A> [ yeah ] / <B> that down back in late august / <A> yeah / <B> and um i did start a business after that but it didn't take off and so i've been looking for the last probably two months three months but two months really more digilent { diligently } / <A> [ wow ] / <B> so um yeah i'm still i'm still looking the economy's just so poor people are looking at to try and get me to take ten thousand dollars less than / <A> yeah / <B> than i'd worked for for the last thirteen years and i i just you know / <A> ooh",
+    "context_text": "<B> our company i worked for a wireless company and um they closed down the chicago location that's where i'm from they { closed } / <A> [ right ] / <B> that down back in late august / <A> right / <B> and um i did start a business after that but it didn't take off and so i've been looking for the last probably two months three months but two months really more digilent { diligently } / <A> [ yeah ] / <B> so um yeah i'm still i'm still looking the economy's just so poor people are looking at to try and get me to take ten thousand dollars less than / <A> mhm / <B> than i'd worked for for the last thirteen years and i i just you know / <A> mhm",
     "context_start": 368.05,
-    "context_end": 401.92425000000003,
+    "context_end": 401.48725,
     "feedback": [
         {
-            "name": "spontD_130_yeah",
+            "name": "sun_028_right",
             "start": 374.56,
-            "end": 375.162875,
-            "token": "yeah"
+            "end": 375.289375,
+            "token": "right"
         },
         {
-            "name": "spontE_379_yeah",
+            "name": "sun1_032_right",
             "start": 376.32,
-            "end": 377.23475,
-            "token": "yeah"
+            "end": 377.163375,
+            "token": "right"
         },
         {
-            "name": "PS_128_wow",
+            "name": "spontD_173_yeah",
             "start": 388.23,
-            "end": 389.32300000000004,
-            "token": "wow"
-        },
-        {
-            "name": "spontD_231_yeah",
-            "start": 396.67,
-            "end": 397.250375,
+            "end": 388.76225,
             "token": "yeah"
         },
         {
-            "name": "PS_059_ooh",
+            "name": "spontC_350_mhm",
+            "start": 396.67,
+            "end": 397.235,
+            "token": "mhm"
+        },
+        {
+            "name": "spontD_347_mhm",
             "start": 400.81,
-            "end": 401.92425000000003,
-            "token": "ooh"
+            "end": 401.48725,
+            "token": "mhm"
         }
     ]
 }

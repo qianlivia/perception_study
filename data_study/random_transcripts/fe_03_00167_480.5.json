@@ -1,27 +1,27 @@
 {
     "name": "fe_03_00167",
     "context_channel": 0,
-    "context_text": "<B> it would take away the distraction / <A> ooh / <B> of everyone as soon as you open presents then wanting to run off and do your own thing and { and } / <A> [ uh-huh ] / <B> maybe encourage more family / <A> uh-huh",
+    "context_text": "<B> it would take away the distraction / <A> right / <B> of everyone as soon as you open presents then wanting to run off and do your own thing and { and } / <A> [ yeah ] / <B> maybe encourage more family / <A> okay",
     "context_start": 480.5,
-    "context_end": 490.86175000000003,
+    "context_end": 490.89950000000005,
     "feedback": [
         {
-            "name": "NegS_038_ooh",
+            "name": "sun1_033_right",
             "start": 483.39,
-            "end": 484.403125,
-            "token": "ooh"
+            "end": 484.24312499999996,
+            "token": "right"
         },
         {
-            "name": "spontB_129_uh-huh",
+            "name": "sun1_022_yeah",
             "start": 487.77,
-            "end": 488.253375,
-            "token": "uh-huh"
+            "end": 488.602625,
+            "token": "yeah"
         },
         {
-            "name": "spontD_113_uh-huh",
+            "name": "spontB_195_okay",
             "start": 490.23,
-            "end": 490.86175000000003,
-            "token": "uh-huh"
+            "end": 490.89950000000005,
+            "token": "okay"
         }
     ]
 }

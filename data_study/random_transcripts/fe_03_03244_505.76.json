@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03244",
     "context_channel": 1,
-    "context_text": "<A> nobody's buying everybody's holding on / <B> ooh / <A> and i mean that's you know we're built on a kind of a debt economy you go out use your credit card spend a lot of money / <B> no / <A> buy stuff and uh you know that's how how we keep growing so if { people } / <B> [ oh ] / <A> stop spending it's just a downward spiral / <B> oh",
+    "context_text": "<A> nobody's buying everybody's holding on / <B> mhm / <A> and i mean that's you know we're built on a kind of a debt economy you go out use your credit card spend a lot of money / <B> yeah / <A> buy stuff and uh you know that's how how we keep growing so if { people } / <B> [ right ] / <A> stop spending it's just a downward spiral / <B> right",
     "context_start": 505.76,
-    "context_end": 526.891625,
+    "context_end": 526.789375,
     "feedback": [
         {
-            "name": "PS_166_ooh",
+            "name": "spontB_351_mhm",
             "start": 508.13,
-            "end": 509.109375,
-            "token": "ooh"
+            "end": 508.573375,
+            "token": "mhm"
         },
         {
-            "name": "spontC_498_no",
+            "name": "spontD_130_yeah",
             "start": 514.98,
-            "end": 515.80175,
-            "token": "no"
+            "end": 515.5828750000001,
+            "token": "yeah"
         },
         {
-            "name": "PS_180_oh",
+            "name": "sun1_031_right",
             "start": 522.19,
-            "end": 523.319875,
-            "token": "oh"
+            "end": 522.9842500000001,
+            "token": "right"
         },
         {
-            "name": "PS_035_oh",
+            "name": "sun_028_right",
             "start": 526.06,
-            "end": 526.891625,
-            "token": "oh"
+            "end": 526.789375,
+            "token": "right"
         }
     ]
 }

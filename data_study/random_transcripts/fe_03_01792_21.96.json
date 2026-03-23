@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01792",
     "context_channel": 0,
-    "context_text": "<B> so do i i've i have ah five children right now they're aged seventeen through twenty six and the ah it's been amazing how positive the effects of computers have been for them / <A> oh / <B> i remember when they were younger and they were contributing or participating in science fairs even in junior high and grade school / <A> okay / <B> and i used to say well the kids with the computers get the as and and win the science fairs because of you know the pretty graphics and the typed reports and all that / <A> no / <B> um my youngest now is a a senior in high school and she's doing student teaching / <A> wow",
+    "context_text": "<B> so do i i've i have ah five children right now they're aged seventeen through twenty six and the ah it's been amazing how positive the effects of computers have been for them / <A> uh-huh / <B> i remember when they were younger and they were contributing or participating in science fairs even in junior high and grade school / <A> right / <B> and i used to say well the kids with the computers get the as and and win the science fairs because of you know the pretty graphics and the typed reports and all that / <A> yeah / <B> um my youngest now is a a senior in high school and she's doing student teaching / <A> right",
     "context_start": 21.96,
-    "context_end": 70.188375,
+    "context_end": 70.093375,
     "feedback": [
         {
-            "name": "spontE_293_oh",
+            "name": "spontD_070_uh-huh",
             "start": 35.0,
-            "end": 35.51875,
-            "token": "oh"
+            "end": 35.50825,
+            "token": "uh-huh"
         },
         {
-            "name": "spontB_019_okay",
+            "name": "sun_013_right",
             "start": 44.83,
-            "end": 45.523125,
-            "token": "okay"
+            "end": 45.7035,
+            "token": "right"
         },
         {
-            "name": "NR_016_no",
+            "name": "spontB_373_yeah",
             "start": 59.22,
-            "end": 59.954375,
-            "token": "no"
+            "end": 59.631499999999996,
+            "token": "yeah"
         },
         {
-            "name": "PS_101_wow",
+            "name": "sun1_032_right",
             "start": 69.25,
-            "end": 70.188375,
-            "token": "wow"
+            "end": 70.093375,
+            "token": "right"
         }
     ]
 }

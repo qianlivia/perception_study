@@ -1,39 +1,39 @@
 {
     "name": "fe_03_01849",
     "context_channel": 0,
-    "context_text": "<B> mhm well i i've um was exposed to um computer technology fairly early on in my career because i we're in northern california in um the bay area / <A> oh / <B> and um gosh one of my early jobs was was working for a company um that had a very early version of electronic mail um this is back { in the } / <A> [ uh-huh ] / <B> early eighties before you know before almost anybody had a computer on their desk / <A> okay / <B> and everybody was pretty much reliant on mainframe so / <A> yeah / <B> it's been part of my my um computers have been sort of part of what i do for a long time / <A> yes",
+    "context_text": "<B> mhm well i i've um was exposed to um computer technology fairly early on in my career because i we're in northern california in um the bay area / <A> uh-huh / <B> and um gosh one of my early jobs was was working for a company um that had a very early version of electronic mail um this is back { in the } / <A> [ uh-huh ] / <B> early eighties before you know before almost anybody had a computer on their desk / <A> uh-huh / <B> and everybody was pretty much reliant on mainframe so / <A> really / <B> it's been part of my my um computers have been sort of part of what i do for a long time / <A> yeah",
     "context_start": 414.05,
-    "context_end": 452.361625,
+    "context_end": 451.398375,
     "feedback": [
         {
-            "name": "spontE_293_oh",
+            "name": "spontA_413_uh-huh",
             "start": 424.31,
-            "end": 424.82875,
-            "token": "oh"
-        },
-        {
-            "name": "spontC_371_uh-huh",
-            "start": 435.41,
-            "end": 435.888125,
+            "end": 424.811375,
             "token": "uh-huh"
         },
         {
-            "name": "spontD_073_okay",
+            "name": "spontC_095_uh-huh",
+            "start": 435.41,
+            "end": 435.945875,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_386_uh-huh",
             "start": 441.02,
-            "end": 441.761125,
-            "token": "okay"
+            "end": 441.56649999999996,
+            "token": "uh-huh"
         },
         {
-            "name": "spontC_125_yeah",
+            "name": "NS_082_really",
             "start": 444.19,
-            "end": 444.92325,
-            "token": "yeah"
+            "end": 444.94225,
+            "token": "really"
         },
         {
-            "name": "PR_006_yes",
+            "name": "spontD_281_yeah",
             "start": 450.89,
-            "end": 452.361625,
-            "token": "yes"
+            "end": 451.398375,
+            "token": "yeah"
         }
     ]
 }

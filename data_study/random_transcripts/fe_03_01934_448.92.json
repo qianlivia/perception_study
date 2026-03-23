@@ -1,27 +1,27 @@
 {
     "name": "fe_03_01934",
     "context_channel": 0,
-    "context_text": "<B> but yeah i would say that i truly believe that / <A> no / <B> because my friends and i are very close and we've been friends for years and years and i can talk to them and rely on them more and plus i know that they care about me because they want to not because they're related to me and feel an obligation and and that's that's a special gift to have somebody who wants your friendship and cares about you because they just want to / <A> uh-huh / <B> you know what i mean / <A> sure",
+    "context_text": "<B> but yeah i would say that i truly believe that / <A> yeah / <B> because my friends and i are very close and we've been friends for years and years and i can talk to them and rely on them more and plus i know that they care about me because they want to not because they're related to me and feel an obligation and and that's that's a special gift to have somebody who wants your friendship and cares about you because they just want to / <A> right / <B> you know what i mean / <A> mhm",
     "context_start": 448.92,
-    "context_end": 480.23775,
+    "context_end": 480.282375,
     "feedback": [
         {
-            "name": "spontC_400_no",
+            "name": "spontF_299_yeah",
             "start": 452.62,
-            "end": 453.244875,
-            "token": "no"
+            "end": 453.143125,
+            "token": "yeah"
         },
         {
-            "name": "spontC_133_uh-huh",
+            "name": "sun_007_right",
             "start": 478.0,
-            "end": 478.4605,
-            "token": "uh-huh"
+            "end": 478.8895,
+            "token": "right"
         },
         {
-            "name": "sun_052_sure",
+            "name": "spontF_281_mhm",
             "start": 479.38,
-            "end": 480.23775,
-            "token": "sure"
+            "end": 480.282375,
+            "token": "mhm"
         }
     ]
 }

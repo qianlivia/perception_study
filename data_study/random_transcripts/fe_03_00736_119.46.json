@@ -1,39 +1,39 @@
 {
     "name": "fe_03_00736",
     "context_channel": 1,
-    "context_text": "<A> have you ever uh seen eddie izzard / <B> yeah / <A> oh he is really really cool he's { an intelligent } / <B> [ wow ] / <A> and wise comedian as well he talks about the history and { he's not } / <B> [ uh-huh ] / <A> he doesn't go over the line / <B> mhm / <A> you know as far as like sexual or pointing like fingers at certain social or ethnic groups and stuff like that yeah he's really cool / <B> no",
+    "context_text": "<A> have you ever uh seen eddie izzard / <B> yeah / <A> oh he is really really cool he's { an intelligent } / <B> [ right ] / <A> and wise comedian as well he talks about the history and { he's not } / <B> [ yeah ] / <A> he doesn't go over the line / <B> wow / <A> you know as far as like sexual or pointing like fingers at certain social or ethnic groups and stuff like that yeah he's really cool / <B> mhm",
     "context_start": 119.46,
-    "context_end": 136.22375,
+    "context_end": 135.912375,
     "feedback": [
         {
-            "name": "spontB_282_yeah",
+            "name": "spontC_024_yeah",
             "start": 121.46,
-            "end": 122.265625,
+            "end": 122.199625,
             "token": "yeah"
         },
         {
-            "name": "PS_187_wow",
+            "name": "sun_013_right",
             "start": 123.66,
-            "end": 124.6725,
+            "end": 124.5335,
+            "token": "right"
+        },
+        {
+            "name": "PR_052_yeah",
+            "start": 127.24,
+            "end": 128.09087499999998,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_031_wow",
+            "start": 128.59,
+            "end": 129.35175,
             "token": "wow"
         },
         {
-            "name": "spontC_128_uh-huh",
-            "start": 127.24,
-            "end": 127.74087499999999,
-            "token": "uh-huh"
-        },
-        {
-            "name": "PR_046_mhm",
-            "start": 128.59,
-            "end": 129.52975,
-            "token": "mhm"
-        },
-        {
-            "name": "NR_053_no",
+            "name": "spontF_257_mhm",
             "start": 135.42,
-            "end": 136.22375,
-            "token": "no"
+            "end": 135.912375,
+            "token": "mhm"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01777",
     "context_channel": 0,
-    "context_text": "<B> [ exactly if you look ] back on i mean you know christianity and the the and / <A> mhm / <B> i mean i'm you know that's that's my faith but at the same time you look { back at } / <A> [ uh-huh ] / <B> something like the crusades { ah } / <A> [ wow ] / <B> good grief they're going in conquering countries in the name of god and / <A> oh",
+    "context_text": "<B> [ exactly if you look ] back on i mean you know christianity and the the and / <A> really / <B> i mean i'm you know that's that's my faith but at the same time you look { back at } / <A> [ right ] / <B> something like the crusades { ah } / <A> [ oh ] / <B> good grief they're going in conquering countries in the name of god and / <A> yeah",
     "context_start": 161.61,
-    "context_end": 178.941875,
+    "context_end": 178.19925,
     "feedback": [
         {
-            "name": "spontA_344_mhm",
+            "name": "sun2_001_really",
             "start": 166.39,
-            "end": 167.12974999999997,
-            "token": "mhm"
+            "end": 167.120625,
+            "token": "really"
         },
         {
-            "name": "spontD_153_uh-huh",
+            "name": "sun_028_right",
             "start": 170.83,
-            "end": 171.41425,
-            "token": "uh-huh"
+            "end": 171.55937500000002,
+            "token": "right"
         },
         {
-            "name": "PS_031_wow",
+            "name": "Sy_066_oh",
             "start": 173.0,
-            "end": 173.76175,
-            "token": "wow"
+            "end": 174.217,
+            "token": "oh"
         },
         {
-            "name": "NS_010_oh",
+            "name": "spontA_448_yeah",
             "start": 177.68,
-            "end": 178.941875,
-            "token": "oh"
+            "end": 178.19925,
+            "token": "yeah"
         }
     ]
 }

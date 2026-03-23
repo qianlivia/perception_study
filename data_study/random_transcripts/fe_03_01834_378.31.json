@@ -1,57 +1,57 @@
 {
     "name": "fe_03_01834",
     "context_channel": 1,
-    "context_text": "<A> i'm a psychology student { and } / <B> [ no ] / <A> i haven't seen any data to support that argument i would { have } / <B> [ yeah ] / <A> to see ah what i have seen are um is research to the contrary that it is helping students / <B> mhm / <A> yeah so uh unless i see something that i guess because of my nature as a scientist i i have to see proof / <B> sure / <A> before i believe it and i just don't believe that that's true i think that um that it may replace television time ah and i think that it's better than that television because it's more interactive i i don't think the television is bad either i don't think pbs is bad { for kids } / <B> [ mhm ] / <A> or the { discovery } / <B> [ oh ] / <A> channel / <B> mhm / <A> but um especially what i've seen is that there is a lot of um programming for children with disabilities / <B> mhm",
+    "context_text": "<A> i'm a psychology student { and } / <B> [ yeah ] / <A> i haven't seen any data to support that argument i would { have } / <B> [ mhm ] / <A> to see ah what i have seen are um is research to the contrary that it is helping students / <B> okay / <A> yeah so uh unless i see something that i guess because of my nature as a scientist i i have to see proof / <B> yeah / <A> before i believe it and i just don't believe that that's true i think that um that it may replace television time ah and i think that it's better than that television because it's more interactive i i don't think the television is bad either i don't think pbs is bad { for kids } / <B> [ mhm ] / <A> or the { discovery } / <B> [ okay ] / <A> channel / <B> mhm / <A> but um especially what i've seen is that there is a lot of um programming for children with disabilities / <B> okay",
     "context_start": 378.31,
-    "context_end": 432.013125,
+    "context_end": 432.352,
     "feedback": [
         {
-            "name": "NR_059_no",
+            "name": "spontA_416_yeah",
             "start": 380.04,
-            "end": 380.91537500000004,
-            "token": "no"
-        },
-        {
-            "name": "spontE_245_yeah",
-            "start": 384.73,
-            "end": 385.550875,
+            "end": 380.54962500000005,
             "token": "yeah"
         },
         {
-            "name": "spontC_184_mhm",
+            "name": "spontE_118_mhm",
+            "start": 384.73,
+            "end": 385.32050000000004,
+            "token": "mhm"
+        },
+        {
+            "name": "spontD_279_okay",
             "start": 394.18,
-            "end": 394.7565,
-            "token": "mhm"
+            "end": 394.855125,
+            "token": "okay"
         },
         {
-            "name": "sun_051_sure",
+            "name": "spontC_385_yeah",
             "start": 403.82,
-            "end": 404.587625,
-            "token": "sure"
+            "end": 404.397875,
+            "token": "yeah"
         },
         {
-            "name": "spontB_154_mhm",
+            "name": "spontB_187_mhm",
             "start": 421.73,
-            "end": 422.32912500000003,
+            "end": 422.28112500000003,
             "token": "mhm"
         },
         {
-            "name": "spontE_048_oh",
+            "name": "spontF_074_okay",
             "start": 422.42,
-            "end": 423.165125,
-            "token": "oh"
+            "end": 423.064125,
+            "token": "okay"
         },
         {
-            "name": "PR_046_mhm",
+            "name": "spontD_347_mhm",
             "start": 423.75,
-            "end": 424.68975,
+            "end": 424.42725,
             "token": "mhm"
         },
         {
-            "name": "spontA_107_mhm",
+            "name": "spontF_317_okay",
             "start": 431.5,
-            "end": 432.013125,
-            "token": "mhm"
+            "end": 432.352,
+            "token": "okay"
         }
     ]
 }

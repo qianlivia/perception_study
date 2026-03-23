@@ -1,38 +1,38 @@
 {
     "name": "fe_03_03532",
     "context_channel": 0,
-    "context_text": "<B> [ you know i if ] if kfc were forced to s say pay seven dollars an hour seven and a half an hour something like that which is what they're talking about / <A> yeah / <B> we'd be paying an extra dollar for chicken too / <A> no / <B> you know they've got to pass it on they've got to make a profit / <A> okay / <B> so in my opinion is the minimum wage affects the people that i think can afford to be affected and that's the younger people and the older retired people that are not going back and you know and i'm in that position going back { and } / <A> [ yeah ] / <B> working for kfc / <A> mhm",
+    "context_text": "<B> [ you know i if ] if kfc were forced to s say pay seven dollars an hour seven and a half an hour something like that which is what they're talking about / <A> really / <B> we'd be paying an extra dollar for chicken too / <A> yeah / <B> you know they've got to pass it on they've got to make a profit / <A> right / <B> so in my opinion is the minimum wage affects the people that i think can afford to be affected and that's the younger people and the older retired people that are not going back and you know and i'm in that position going back { and } / <A> [ oh ] / <B> working for kfc / <A> mhm",
     "context_start": 346.44,
-    "context_end": 379.734125,
+    "context_end": 379.87225,
     "feedback": [
         {
-            "name": "sun1_011_yeah",
+            "name": "PS_002_really",
             "start": 355.76,
-            "end": 356.425875,
-            "token": "yeah"
+            "end": 356.552875,
+            "token": "really"
         },
         {
-            "name": "NR_007_no",
+            "name": "spontF_497_yeah",
             "start": 359.76,
-            "end": 360.612375,
-            "token": "no"
-        },
-        {
-            "name": "spontD_089_okay",
-            "start": 363.81,
-            "end": 364.615125,
-            "token": "okay"
-        },
-        {
-            "name": "spontB_316_yeah",
-            "start": 377.29,
-            "end": 377.89325,
+            "end": 360.323375,
             "token": "yeah"
         },
         {
-            "name": "spontE_171_mhm",
+            "name": "sun1_033_right",
+            "start": 363.81,
+            "end": 364.663125,
+            "token": "right"
+        },
+        {
+            "name": "PS_008_oh",
+            "start": 377.29,
+            "end": 377.89862500000004,
+            "token": "oh"
+        },
+        {
+            "name": "PR_057_mhm",
             "start": 379.14,
-            "end": 379.734125,
+            "end": 379.87225,
             "token": "mhm"
         }
     ]

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02966",
     "context_channel": 0,
-    "context_text": "<B> yeah well my daughter really gets into basketball and hollers { and } / <A> [ yeah ] / <B> but / <A> yeah / <B> she i i don't know a lot about it she's teaching me / <A> yeah / <B> but uh i know uh the spurs are a home team and i know the team members and uh / <A> wow",
+    "context_text": "<B> yeah well my daughter really gets into basketball and hollers { and } / <A> [ right ] / <B> but / <A> yeah / <B> she i i don't know a lot about it she's teaching me / <A> okay / <B> but uh i know uh the spurs are a home team and i know the team members and uh / <A> right",
     "context_start": 222.77,
-    "context_end": 242.3025,
+    "context_end": 241.33350000000002,
     "feedback": [
         {
-            "name": "spontA_046_yeah",
+            "name": "sun_007_right",
             "start": 226.99,
-            "end": 227.68275,
-            "token": "yeah"
+            "end": 227.8795,
+            "token": "right"
         },
         {
-            "name": "spontE_245_yeah",
+            "name": "spontE_026_yeah",
             "start": 228.13,
-            "end": 228.950875,
+            "end": 228.88325,
             "token": "yeah"
         },
         {
-            "name": "spontA_426_yeah",
+            "name": "spontD_022_okay",
             "start": 233.6,
-            "end": 234.267125,
-            "token": "yeah"
+            "end": 234.069,
+            "token": "okay"
         },
         {
-            "name": "PS_119_wow",
+            "name": "sun_013_right",
             "start": 240.46,
-            "end": 242.3025,
-            "token": "wow"
+            "end": 241.33350000000002,
+            "token": "right"
         }
     ]
 }

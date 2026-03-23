@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02799",
     "context_channel": 0,
-    "context_text": "<B> well we're in tennessee over here you probably can tell by my accent { but } / <A> [ yeah ] / <B> but we um we watch ah the pacers ah in / <A> okay / <B> indiana cause my husband's from indiana / <A> yeah / <B> and um we'll watch indiana of course / <A> yeah",
+    "context_text": "<B> well we're in tennessee over here you probably can tell by my accent { but } / <A> [ yeah ] / <B> but we um we watch ah the pacers ah in / <A> okay / <B> indiana cause my husband's from indiana / <A> right / <B> and um we'll watch indiana of course / <A> exactly",
     "context_start": 70.05,
-    "context_end": 87.754625,
+    "context_end": 88.1695,
     "feedback": [
         {
-            "name": "spontF_137_yeah",
+            "name": "spontB_082_yeah",
             "start": 74.79,
-            "end": 75.274,
+            "end": 75.80112500000001,
             "token": "yeah"
         },
         {
-            "name": "spontF_386_okay",
+            "name": "spontF_074_okay",
             "start": 81.08,
-            "end": 81.571125,
+            "end": 81.724125,
             "token": "okay"
         },
         {
-            "name": "spontC_077_yeah",
+            "name": "sun1_032_right",
             "start": 83.5,
-            "end": 84.031625,
-            "token": "yeah"
+            "end": 84.343375,
+            "token": "right"
         },
         {
-            "name": "spontA_336_yeah",
+            "name": "sun_026_exactly",
             "start": 87.14,
-            "end": 87.754625,
-            "token": "yeah"
+            "end": 88.1695,
+            "token": "exactly"
         }
     ]
 }

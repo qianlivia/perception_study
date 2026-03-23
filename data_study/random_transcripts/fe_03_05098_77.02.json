@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05098",
     "context_channel": 1,
-    "context_text": "<A> well i just think that having very good airport security will just lessen uh lessen the use of airports and planes as a viable venue / <B> mhm / <A> but however that'll just i guess shunt the the intentions of of terrorism towards other venues like for example let's say freeways / <B> exactly / <A> or let's say uh common public squares { you know } / <B> [ no ] / <A> the more you tighten up on one area it just makes it you just uh you're just uh dampening their resolve but i mean providing more obstacles but { i } / <B> [ aha ]",
+    "context_text": "<A> well i just think that having very good airport security will just lessen uh lessen the use of airports and planes as a viable venue / <B> yeah / <A> but however that'll just i guess shunt the the intentions of of terrorism towards other venues like for example let's say freeways / <B> yeah / <A> or let's say uh common public squares { you know } / <B> [ uh-huh ] / <A> the more you tighten up on one area it just makes it you just uh you're just uh dampening their resolve but i mean providing more obstacles but { i } / <B> [ right ]",
     "context_start": 77.02,
-    "context_end": 116.483125,
+    "context_end": 115.953625,
     "feedback": [
         {
-            "name": "spontF_619_mhm",
+            "name": "spontF_029_yeah",
             "start": 87.86,
-            "end": 88.40474999999999,
-            "token": "mhm"
+            "end": 88.43525,
+            "token": "yeah"
         },
         {
-            "name": "sun_041_exactly",
+            "name": "spontB_306_yeah",
             "start": 100.7,
-            "end": 101.653,
-            "token": "exactly"
+            "end": 101.25150000000001,
+            "token": "yeah"
         },
         {
-            "name": "NR_060_no",
+            "name": "spontA_315_uh-huh",
             "start": 105.99,
-            "end": 106.464125,
-            "token": "no"
+            "end": 106.50649999999999,
+            "token": "uh-huh"
         },
         {
-            "name": "PS_143_aha",
+            "name": "sun1_030_right",
             "start": 115.16,
-            "end": 116.483125,
-            "token": "aha"
+            "end": 115.953625,
+            "token": "right"
         }
     ]
 }

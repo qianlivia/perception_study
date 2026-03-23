@@ -1,39 +1,39 @@
 {
     "name": "fe_03_04062",
     "context_channel": 1,
-    "context_text": "<A> yeah if you go by yourself yes but i i think if you go with a travel agent it's the same as if you go to an airline with a travel agent / <B> mhm / <A> you can get a price / <B> no / <A> because you say okay i will try to get let's just put put a number a thousand passengers a year or two thousand passengers a year / <B> yes / <A> yeah you should you should be able to get a price { and i } / <B> [ mhm ] / <A> know from the airline industry / <B> no",
+    "context_text": "<A> yeah if you go by yourself yes but i i think if you go with a travel agent it's the same as if you go to an airline with a travel agent / <B> oh / <A> you can get a price / <B> right / <A> because you say okay i will try to get let's just put put a number a thousand passengers a year or two thousand passengers a year / <B> right / <A> yeah you should you should be able to get a price { and i } / <B> [ mhm ] / <A> know from the airline industry / <B> uh-huh",
     "context_start": 514.67,
-    "context_end": 537.30525,
+    "context_end": 537.271375,
     "feedback": [
         {
-            "name": "spontE_049_mhm",
+            "name": "spontF_016_oh",
             "start": 521.0,
-            "end": 521.598,
-            "token": "mhm"
+            "end": 522.170875,
+            "token": "oh"
         },
         {
-            "name": "NR_034_no",
+            "name": "sun1_031_right",
             "start": 522.62,
-            "end": 523.4415,
-            "token": "no"
+            "end": 523.41425,
+            "token": "right"
         },
         {
-            "name": "PR_015_yes",
+            "name": "sun1_030_right",
             "start": 530.72,
-            "end": 531.713625,
-            "token": "yes"
+            "end": 531.513625,
+            "token": "right"
         },
         {
-            "name": "spontC_380_mhm",
+            "name": "spontD_195_mhm",
             "start": 534.17,
-            "end": 534.7043749999999,
+            "end": 535.065625,
             "token": "mhm"
         },
         {
-            "name": "NR_093_no",
+            "name": "PS_036_uh-huh",
             "start": 536.26,
-            "end": 537.30525,
-            "token": "no"
+            "end": 537.271375,
+            "token": "uh-huh"
         }
     ]
 }

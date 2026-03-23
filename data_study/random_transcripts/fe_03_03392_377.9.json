@@ -1,39 +1,39 @@
 {
     "name": "fe_03_03392",
     "context_channel": 0,
-    "context_text": "<B> oh my my problem always has been that they come in packs like you know i i last year for instance um i met somebody on a softball team / <A> yeah / <B> and i thought okay well at that point in time he seemed okay { and } / <A> [ uh-huh ] / <B> then as friends brought other guys around all of a sudden i realized that i was extremely desperate when i thought he was okay / <A> yeah / <B> and i start to ante up and then that's when i get myself into trouble it's like i i don't know if / <A> right / <B> if you are surrounded by friends who like are setting you up here and there and you're just like this is so tragic and then { all } / <A> [ yeah ]",
+    "context_text": "<B> oh my my problem always has been that they come in packs like you know i i last year for instance um i met somebody on a softball team / <A> yeah / <B> and i thought okay well at that point in time he seemed okay { and } / <A> [ right ] / <B> then as friends brought other guys around all of a sudden i realized that i was extremely desperate when i thought he was okay / <A> yeah / <B> and i start to ante up and then that's when i get myself into trouble it's like i i don't know if / <A> wow / <B> if you are surrounded by friends who like are setting you up here and there and you're just like this is so tragic and then { all } / <A> [ uh-huh ]",
     "context_start": 377.9,
-    "context_end": 409.784125,
+    "context_end": 409.909125,
     "feedback": [
         {
-            "name": "PR_039_yeah",
+            "name": "spontF_136_yeah",
             "start": 385.75,
-            "end": 386.579375,
+            "end": 386.24475,
             "token": "yeah"
         },
         {
-            "name": "spontA_199_uh-huh",
+            "name": "sun1_031_right",
             "start": 389.64,
-            "end": 390.24525,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontD_338_yeah",
-            "start": 398.0,
-            "end": 398.655375,
-            "token": "yeah"
-        },
-        {
-            "name": "sun_028_right",
-            "start": 403.36,
-            "end": 404.089375,
+            "end": 390.43424999999996,
             "token": "right"
         },
         {
-            "name": "spontC_398_yeah",
-            "start": 409.43,
-            "end": 409.784125,
+            "name": "spontF_512_yeah",
+            "start": 398.0,
+            "end": 398.98625,
             "token": "yeah"
+        },
+        {
+            "name": "PS_114_wow",
+            "start": 403.36,
+            "end": 404.52387500000003,
+            "token": "wow"
+        },
+        {
+            "name": "spontE_236_uh-huh",
+            "start": 409.43,
+            "end": 409.909125,
+            "token": "uh-huh"
         }
     ]
 }

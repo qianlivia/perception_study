@@ -1,45 +1,45 @@
 {
     "name": "fe_03_03329",
     "context_channel": 0,
-    "context_text": "<B> yeah he healed me from a stroke / <A> yeah / <B> yeah so if you would have saw me you wouldn't think i had one / <A> yeah / <B> it's uh i fell back and my i was paralyzed but i asked him to forgive me for my sins and i'm walking around / <A> mhm / <B> but they found a scar on my head to prove that i had it / <A> yeah / <B> so uh it it affects my personality which means what it does is because i had a stroke in the front lobe it makes behavior problems with anger and temper / <A> no / <B> and i wanna know why all my life i was having problems with my anger / <A> okay",
+    "context_text": "<B> yeah he healed me from a stroke / <A> oh / <B> yeah so if you would have saw me you wouldn't think i had one / <A> really / <B> it's uh i fell back and my i was paralyzed but i asked him to forgive me for my sins and i'm walking around / <A> yeah / <B> but they found a scar on my head to prove that i had it / <A> really / <B> so uh it it affects my personality which means what it does is because i had a stroke in the front lobe it makes behavior problems with anger and temper / <A> wow / <B> and i wanna know why all my life i was having problems with my anger / <A> mhm",
     "context_start": 229.04,
-    "context_end": 267.45825,
+    "context_end": 267.36225,
     "feedback": [
         {
-            "name": "spontB_301_yeah",
+            "name": "spontD_114_oh",
             "start": 232.46,
-            "end": 233.426625,
-            "token": "yeah"
+            "end": 233.0865,
+            "token": "oh"
         },
         {
-            "name": "spontD_365_yeah",
+            "name": "NS_082_really",
             "start": 236.15,
-            "end": 237.00625,
-            "token": "yeah"
+            "end": 236.90225,
+            "token": "really"
         },
         {
-            "name": "sun_017_mhm",
+            "name": "spontC_138_yeah",
             "start": 244.27,
-            "end": 245.22162500000002,
-            "token": "mhm"
-        },
-        {
-            "name": "PR_035_yeah",
-            "start": 249.21,
-            "end": 250.008625,
+            "end": 244.76737500000002,
             "token": "yeah"
         },
         {
-            "name": "NR_113_no",
-            "start": 262.38,
-            "end": 263.033,
-            "token": "no"
+            "name": "PS_070_really",
+            "start": 249.21,
+            "end": 249.898625,
+            "token": "really"
         },
         {
-            "name": "spontF_053_okay",
+            "name": "PS_173_wow",
+            "start": 262.38,
+            "end": 263.503625,
+            "token": "wow"
+        },
+        {
+            "name": "PR_057_mhm",
             "start": 266.63,
-            "end": 267.45825,
-            "token": "okay"
+            "end": 267.36225,
+            "token": "mhm"
         }
     ]
 }

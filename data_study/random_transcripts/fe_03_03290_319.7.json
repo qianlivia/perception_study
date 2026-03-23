@@ -1,39 +1,39 @@
 {
     "name": "fe_03_03290",
     "context_channel": 0,
-    "context_text": "<B> right and i also believe in a marriage that the woman is the husband's backbone / <A> yeah / <B> because i believe he's supposed to be the supporter { you } / <A> [ ooh ] / <B> know he's supposed to support the family / <A> uh-huh / <B> financially / <A> yeah / <B> teaching the children right from wrong / <A> no",
+    "context_text": "<B> right and i also believe in a marriage that the woman is the husband's backbone / <A> right / <B> because i believe he's supposed to be the supporter { you } / <A> [ yeah ] / <B> know he's supposed to support the family / <A> uh-huh / <B> financially / <A> yeah / <B> teaching the children right from wrong / <A> wow",
     "context_start": 319.7,
-    "context_end": 339.84287500000005,
+    "context_end": 340.32687500000003,
     "feedback": [
         {
-            "name": "spontB_150_yeah",
+            "name": "sun1_032_right",
             "start": 328.36,
-            "end": 329.210875,
+            "end": 329.203375,
+            "token": "right"
+        },
+        {
+            "name": "spontC_024_yeah",
+            "start": 332.17,
+            "end": 332.909625,
             "token": "yeah"
         },
         {
-            "name": "PS_150_ooh",
-            "start": 332.17,
-            "end": 334.04562500000003,
-            "token": "ooh"
-        },
-        {
-            "name": "spontD_337_uh-huh",
+            "name": "spontD_041_uh-huh",
             "start": 334.09,
-            "end": 334.59999999999997,
+            "end": 334.62562499999996,
             "token": "uh-huh"
         },
         {
-            "name": "spontC_213_yeah",
+            "name": "spontC_299_yeah",
             "start": 336.32,
-            "end": 336.9235,
+            "end": 336.945875,
             "token": "yeah"
         },
         {
-            "name": "NR_085_no",
+            "name": "PS_190_wow",
             "start": 338.97,
-            "end": 339.84287500000005,
-            "token": "no"
+            "end": 340.32687500000003,
+            "token": "wow"
         }
     ]
 }

@@ -1,39 +1,39 @@
 {
     "name": "fe_03_03936",
     "context_channel": 1,
-    "context_text": "<A> right right also in a way i guess it is it is ah truly a ah ah a matter of personal taste / <B> yeah / <A> in many ways um ah i mean i i remember the well there was a movie out out just recently um barber shop i guess it was / <B> yeah / <A> right and where they were they were the one of the characters i ah i don't know it must be one of the characters was was bad mouthing martin luther king and / <B> yeah / <A> a lot of the the sort of the ah leaders of the civil rights and civil right movement and people really were up in arms about that and i suppose they would / <B> uh-huh / <A> say that was in bad taste and um you know there's the argument that you know free speech is free speech and { you know } / <B> [ wow ]",
+    "context_text": "<A> right right also in a way i guess it is it is ah truly a ah ah a matter of personal taste / <B> uh-huh / <A> in many ways um ah i mean i i remember the well there was a movie out out just recently um barber shop i guess it was / <B> wow / <A> right and where they were they were the one of the characters i ah i don't know it must be one of the characters was was bad mouthing martin luther king and / <B> yeah / <A> a lot of the the sort of the ah leaders of the civil rights and civil right movement and people really were up in arms about that and i suppose they would / <B> right / <A> say that was in bad taste and um you know there's the argument that you know free speech is free speech and { you know } / <B> [ okay ]",
     "context_start": 279.6,
-    "context_end": 319.436125,
+    "context_end": 319.05199999999996,
     "feedback": [
         {
-            "name": "spontF_497_yeah",
+            "name": "spontE_282_uh-huh",
             "start": 286.98,
-            "end": 287.543375,
-            "token": "yeah"
-        },
-        {
-            "name": "spontD_287_yeah",
-            "start": 296.18,
-            "end": 296.63775,
-            "token": "yeah"
-        },
-        {
-            "name": "spontA_391_yeah",
-            "start": 304.29,
-            "end": 304.69937500000003,
-            "token": "yeah"
-        },
-        {
-            "name": "spontE_058_uh-huh",
-            "start": 312.05,
-            "end": 312.516875,
+            "end": 287.45725000000004,
             "token": "uh-huh"
         },
         {
-            "name": "PS_165_wow",
-            "start": 318.2,
-            "end": 319.436125,
+            "name": "PS_011_wow",
+            "start": 296.18,
+            "end": 297.42400000000004,
             "token": "wow"
+        },
+        {
+            "name": "spontA_229_yeah",
+            "start": 304.29,
+            "end": 304.731875,
+            "token": "yeah"
+        },
+        {
+            "name": "sun_013_right",
+            "start": 312.05,
+            "end": 312.9235,
+            "token": "right"
+        },
+        {
+            "name": "spontF_317_okay",
+            "start": 318.2,
+            "end": 319.05199999999996,
+            "token": "okay"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01223",
     "context_channel": 0,
-    "context_text": "<B> [ and the ] and there's kids just um i don't know i think that w we feel there's still concern down in the south more about um the black white issue / <A> uh-huh / <B> and the black kids and the white kids still for some reason you know don't aren't best of friends or you know they don't see { each } / <A> [ yeah ] / <B> other as you know or friends you know good friends / <A> mhm / <B> and um i think that has a lot problems / <A> wow",
+    "context_text": "<B> [ and the ] and there's kids just um i don't know i think that w we feel there's still concern down in the south more about um the black white issue / <A> mhm / <B> and the black kids and the white kids still for some reason you know don't aren't best of friends or you know they don't see { each } / <A> [ right ] / <B> other as you know or friends you know good friends / <A> yeah / <B> and um i think that has a lot problems / <A> yeah",
     "context_start": 195.91,
-    "context_end": 237.96249999999998,
+    "context_end": 237.50437499999998,
     "feedback": [
         {
-            "name": "spontF_494_uh-huh",
+            "name": "spontB_307_mhm",
             "start": 213.91,
-            "end": 214.462375,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontC_135_yeah",
-            "start": 226.09,
-            "end": 226.777625,
-            "token": "yeah"
-        },
-        {
-            "name": "spontA_200_mhm",
-            "start": 232.13,
-            "end": 232.7045,
+            "end": 214.517375,
             "token": "mhm"
         },
         {
-            "name": "PS_061_wow",
+            "name": "sun1_031_right",
+            "start": 226.09,
+            "end": 226.88425,
+            "token": "right"
+        },
+        {
+            "name": "spontC_197_yeah",
+            "start": 232.13,
+            "end": 232.693625,
+            "token": "yeah"
+        },
+        {
+            "name": "PR_036_yeah",
             "start": 236.7,
-            "end": 237.96249999999998,
-            "token": "wow"
+            "end": 237.50437499999998,
+            "token": "yeah"
         }
     ]
 }

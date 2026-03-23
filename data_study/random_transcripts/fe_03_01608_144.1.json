@@ -1,44 +1,44 @@
 {
     "name": "fe_03_01608",
     "context_channel": 1,
-    "context_text": "<A> [ trying to ] remember because it was so long ago but it was just kind of you know ridiculous i thought you know why am i waiting in this l long line and i get up there and you know you're going through in like three seconds you know { where } / <B> [ oh ] / <A> you were before and then you get up to the the ticket gate where right where you're you know about ready to board the plane and they r randomly were um you know choosing people and they think they had predetermined the people that they were gonna { you know } / <B> [ yeah ] / <A> pull pull out you know predetermined as in you know half hour before we were boarding or whatever / <B> oh / <A> but um my husband did a lot of travelling during that time he started a job in october of that year and / <B> no / <A> travelled until um i think february { you } / <B> [ mhm ] / <A> know he was travelling almost weekly and he said you know even then he d he never got pulled aside as much as he thought he should have tr basing that he was travelling weekly you know he { said he } / <B> [ yeah ]",
+    "context_text": "<A> [ trying to ] remember because it was so long ago but it was just kind of you know ridiculous i thought you know why am i waiting in this l long line and i get up there and you know you're going through in like three seconds you know { where } / <B> [ uh-huh ] / <A> you were before and then you get up to the the ticket gate where right where you're you know about ready to board the plane and they r randomly were um you know choosing people and they think they had predetermined the people that they were gonna { you know } / <B> [ right ] / <A> pull pull out you know predetermined as in you know half hour before we were boarding or whatever / <B> mhm / <A> but um my husband did a lot of travelling during that time he started a job in october of that year and / <B> okay / <A> travelled until um i think february { you } / <B> [ right ] / <A> know he was travelling almost weekly and he said you know even then he d he never got pulled aside as much as he thought he should have tr basing that he was travelling weekly you know he { said he } / <B> [ yeah ]",
     "context_start": 144.1,
-    "context_end": 194.627125,
+    "context_end": 194.764375,
     "feedback": [
         {
-            "name": "PS_040_oh",
+            "name": "spontD_040_uh-huh",
             "start": 155.36,
-            "end": 157.25675,
-            "token": "oh"
+            "end": 155.81750000000002,
+            "token": "uh-huh"
         },
         {
-            "name": "spontF_020_yeah",
+            "name": "PR_043_right",
             "start": 170.06,
-            "end": 170.5755,
-            "token": "yeah"
+            "end": 170.72,
+            "token": "right"
         },
         {
-            "name": "spontD_114_oh",
+            "name": "spontA_409_mhm",
             "start": 175.18,
-            "end": 175.8065,
-            "token": "oh"
-        },
-        {
-            "name": "NR_016_no",
-            "start": 180.74,
-            "end": 181.474375,
-            "token": "no"
-        },
-        {
-            "name": "sun1_009_mhm",
-            "start": 184.48,
-            "end": 185.32312499999998,
+            "end": 175.74625,
             "token": "mhm"
         },
         {
-            "name": "spontA_426_yeah",
+            "name": "spontD_279_okay",
+            "start": 180.74,
+            "end": 181.41512500000002,
+            "token": "okay"
+        },
+        {
+            "name": "sun_028_right",
+            "start": 184.48,
+            "end": 185.209375,
+            "token": "right"
+        },
+        {
+            "name": "PR_036_yeah",
             "start": 193.96,
-            "end": 194.627125,
+            "end": 194.764375,
             "token": "yeah"
         }
     ]

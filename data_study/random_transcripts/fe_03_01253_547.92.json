@@ -1,39 +1,39 @@
 {
     "name": "fe_03_01253",
     "context_channel": 0,
-    "context_text": "<B> took him in there with me and he watched the movie i mean he ju he wasn't even speaking at the time { and he } / <A> [ ah ] / <B> watched the movie it was a little it was and we went and watched that movie and that you know that was it was really nice but { i } / <A> [ yeah ] / <B> do enjoy the big screen now that does make a difference but / <A> ah / <B> but nowadays you can buy tvs that are so big that you feel like you are at the theatre { we } / <A> [ wow ] / <B> don't have one but they are nice i { got } / <A> [ wow ]",
+    "context_text": "<B> took him in there with me and he watched the movie i mean he ju he wasn't even speaking at the time { and he } / <A> [ right ] / <B> watched the movie it was a little it was and we went and watched that movie and that you know that was it was really nice but { i } / <A> [ mhm ] / <B> do enjoy the big screen now that does make a difference but / <A> yeah / <B> but nowadays you can buy tvs that are so big that you feel like you are at the theatre { we } / <A> [ mhm ] / <B> don't have one but they are nice i { got } / <A> [ mhm ]",
     "context_start": 547.92,
-    "context_end": 575.6300000000001,
+    "context_end": 574.64175,
     "feedback": [
         {
-            "name": "NS_095_ah",
+            "name": "sun1_032_right",
             "start": 553.53,
-            "end": 554.589625,
-            "token": "ah"
+            "end": 554.373375,
+            "token": "right"
         },
         {
-            "name": "spontE_119_yeah",
+            "name": "NS_071_mhm",
             "start": 561.21,
-            "end": 561.96675,
+            "end": 562.298,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_271_yeah",
+            "start": 564.57,
+            "end": 565.0851250000001,
             "token": "yeah"
         },
         {
-            "name": "NS_039_ah",
-            "start": 564.57,
-            "end": 565.4763750000001,
-            "token": "ah"
-        },
-        {
-            "name": "NegS_008_wow",
+            "name": "spontD_204_mhm",
             "start": 570.66,
-            "end": 571.6155,
-            "token": "wow"
+            "end": 571.31025,
+            "token": "mhm"
         },
         {
-            "name": "PS_169_wow",
+            "name": "spontC_235_mhm",
             "start": 574.19,
-            "end": 575.6300000000001,
-            "token": "wow"
+            "end": 574.64175,
+            "token": "mhm"
         }
     ]
 }

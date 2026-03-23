@@ -1,45 +1,45 @@
 {
     "name": "fe_03_01761",
     "context_channel": 1,
-    "context_text": "<A> now and i can understand why other countries will be really you know annoyed / <B> wow / <A> at at that fact and / <B> yep / <A> i am a little annoyed at that fact myself / <B> ooh / <A> i mean you know i look at other countries and i think okay would i would i live would i want to be a resident of any other country um and you know nowadays it's a it's little bit harder to to say / <B> mhm / <A> as you know years ago you know i'm a democrat so / <B> wow / <A> you know whe when clinton was in office i was like hey yeah you know / <B> yeah",
+    "context_text": "<A> now and i can understand why other countries will be really you know annoyed / <B> yeah / <A> at at that fact and / <B> right / <A> i am a little annoyed at that fact myself / <B> mhm / <A> i mean you know i look at other countries and i think okay would i would i live would i want to be a resident of any other country um and you know nowadays it's a it's little bit harder to to say / <B> really / <A> as you know years ago you know i'm a democrat so / <B> wow / <A> you know whe when clinton was in office i was like hey yeah you know / <B> okay",
     "context_start": 109.2,
-    "context_end": 136.58575000000002,
+    "context_end": 136.264125,
     "feedback": [
         {
-            "name": "PS_083_wow",
+            "name": "PR_040_yeah",
             "start": 112.41,
-            "end": 113.30924999999999,
-            "token": "wow"
+            "end": 113.0185,
+            "token": "yeah"
         },
         {
-            "name": "PR_027_yep",
+            "name": "sun1_031_right",
             "start": 113.87,
-            "end": 114.41275,
-            "token": "yep"
+            "end": 114.66425000000001,
+            "token": "right"
         },
         {
-            "name": "spontB_352_ooh",
+            "name": "spontE_361_mhm",
             "start": 116.01,
-            "end": 116.77550000000001,
-            "token": "ooh"
-        },
-        {
-            "name": "spontA_358_mhm",
-            "start": 129.18,
-            "end": 129.678625,
+            "end": 116.469375,
             "token": "mhm"
         },
         {
-            "name": "PS_145_wow",
+            "name": "PS_019_really",
+            "start": 129.18,
+            "end": 129.9695,
+            "token": "really"
+        },
+        {
+            "name": "PS_156_wow",
             "start": 132.3,
-            "end": 133.1935,
+            "end": 133.24075000000002,
             "token": "wow"
         },
         {
-            "name": "spontC_290_yeah",
+            "name": "spontF_074_okay",
             "start": 135.62,
-            "end": 136.58575000000002,
-            "token": "yeah"
+            "end": 136.264125,
+            "token": "okay"
         }
     ]
 }

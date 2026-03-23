@@ -1,38 +1,38 @@
 {
     "name": "fe_03_02868",
     "context_channel": 0,
-    "context_text": "<B> okay well it's basically uh uh before they had free agency it was you'd get you'd get drafted from the uh from the uh college draft / <A> oh / <B> and you'd be with a team / <A> mhm / <B> basically that was that was your team you { were } / <A> [ yeah ] / <B> with the team for the for the rest of your career unless { they } / <A> [ wow ] / <B> unless they traded ya / <A> oh",
+    "context_text": "<B> okay well it's basically uh uh before they had free agency it was you'd get you'd get drafted from the uh from the uh college draft / <A> mhm / <B> and you'd be with a team / <A> right / <B> basically that was that was your team you { were } / <A> [ right ] / <B> with the team for the for the rest of your career unless { they } / <A> [ wow ] / <B> unless they traded ya / <A> oh",
     "context_start": 526.03,
-    "context_end": 546.083125,
+    "context_end": 545.957125,
     "feedback": [
         {
-            "name": "spontC_100_oh",
+            "name": "spontA_120_mhm",
             "start": 535.87,
-            "end": 536.485,
-            "token": "oh"
-        },
-        {
-            "name": "spontC_392_mhm",
-            "start": 537.94,
-            "end": 538.5633750000001,
+            "end": 536.324875,
             "token": "mhm"
         },
         {
-            "name": "sun1_021_yeah",
-            "start": 540.45,
-            "end": 541.1838750000001,
-            "token": "yeah"
+            "name": "spontC_360_right",
+            "start": 537.94,
+            "end": 538.5188750000001,
+            "token": "right"
         },
         {
-            "name": "PS_101_wow",
+            "name": "sun1_032_right",
+            "start": 540.45,
+            "end": 541.2933750000001,
+            "token": "right"
+        },
+        {
+            "name": "PS_173_wow",
             "start": 543.07,
-            "end": 544.008375,
+            "end": 544.193625,
             "token": "wow"
         },
         {
-            "name": "Sy_012_oh",
+            "name": "spontD_379_oh",
             "start": 544.86,
-            "end": 546.083125,
+            "end": 545.957125,
             "token": "oh"
         }
     ]

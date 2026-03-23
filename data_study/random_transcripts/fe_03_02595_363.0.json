@@ -1,45 +1,45 @@
 {
     "name": "fe_03_02595",
     "context_channel": 1,
-    "context_text": "<A> yeah oh yeah they i mean because they kept saying like they brought up they kept bringing things to the un that like proved to be forgeries like they they brought this um document that that they'd intercepted from nigeria { that said } / <B> [ yeah ] / <A> that iraq was working on nuclear weapons { and } / <B> [ yeah ] / <A> they gave it to the un and like within two hours the un had like proved it was a forgery / <B> ooh / <A> there was another there was another thing where they um what was it they found a oh yeah they they published this thing like proving all these chemicals weapons iraq had that turned out to be this like fifteen year old like college term paper that someone had written they { just } / <B> [ yeah ] / <A> like plagiarized it this { is and this is } / <B> [ oh ] / <A> like our government you know so { i } / <B> [ yes ]",
+    "context_text": "<A> yeah oh yeah they i mean because they kept saying like they brought up they kept bringing things to the un that like proved to be forgeries like they they brought this um document that that they'd intercepted from nigeria { that said } / <B> [ yeah ] / <A> that iraq was working on nuclear weapons { and } / <B> [ uh-huh ] / <A> they gave it to the un and like within two hours the un had like proved it was a forgery / <B> okay / <A> there was another there was another thing where they um what was it they found a oh yeah they they published this thing like proving all these chemicals weapons iraq had that turned out to be this like fifteen year old like college term paper that someone had written they { just } / <B> [ right ] / <A> like plagiarized it this { is and this is } / <B> [ mhm ] / <A> like our government you know so { i } / <B> [ oh ]",
     "context_start": 363.0,
-    "context_end": 402.321125,
+    "context_end": 402.20025000000004,
     "feedback": [
         {
-            "name": "spontF_625_yeah",
+            "name": "spontD_101_yeah",
             "start": 376.26,
-            "end": 376.76975,
+            "end": 377.025625,
             "token": "yeah"
         },
         {
-            "name": "spontC_506_yeah",
+            "name": "spontD_152_uh-huh",
             "start": 378.43,
-            "end": 378.94937500000003,
-            "token": "yeah"
+            "end": 378.986375,
+            "token": "uh-huh"
         },
         {
-            "name": "spontF_252_ooh",
+            "name": "spontF_518_okay",
             "start": 383.17,
-            "end": 384.25662500000004,
-            "token": "ooh"
+            "end": 383.87600000000003,
+            "token": "okay"
         },
         {
-            "name": "spontD_173_yeah",
+            "name": "spontC_360_right",
             "start": 397.9,
-            "end": 398.43224999999995,
-            "token": "yeah"
+            "end": 398.47887499999996,
+            "token": "right"
         },
         {
-            "name": "Sy_051_oh",
+            "name": "spontE_054_mhm",
             "start": 399.78,
-            "end": 401.16375,
-            "token": "oh"
+            "end": 400.49587499999996,
+            "token": "mhm"
         },
         {
-            "name": "PR_009_yes",
+            "name": "spontA_278_oh",
             "start": 401.54,
-            "end": 402.321125,
-            "token": "yes"
+            "end": 402.20025000000004,
+            "token": "oh"
         }
     ]
 }

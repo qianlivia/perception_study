@@ -1,51 +1,51 @@
 {
     "name": "fe_03_01726",
     "context_channel": 0,
-    "context_text": "<B> [ but c e ] even though o osama bin laden had a huge inheritance i still think that most of his funds because he had to have millions / <A> exactly / <B> um come from came from definitely came from saddam and afghanistan the taliban / <A> mhm / <B> no doubt in my mind you know and / <A> yeah / <B> saddam hussein has a lot of money a lot of money probably / <A> uh-huh / <B> too much for his own good / <A> oh / <B> and uh yeah he definitely was giving money to them and i'm glad that president bush did something about it { because } / <A> [ mhm ] / <B> i think i think he knew that as well he just had no proof / <A> yeah",
+    "context_text": "<B> [ but c e ] even though o osama bin laden had a huge inheritance i still think that most of his funds because he had to have millions / <A> uh-huh / <B> um come from came from definitely came from saddam and afghanistan the taliban / <A> wow / <B> no doubt in my mind you know and / <A> exactly / <B> saddam hussein has a lot of money a lot of money probably / <A> mhm / <B> too much for his own good / <A> right / <B> and uh yeah he definitely was giving money to them and i'm glad that president bush did something about it { because } / <A> [ yeah ] / <B> i think i think he knew that as well he just had no proof / <A> mhm",
     "context_start": 371.57,
-    "context_end": 406.279125,
+    "context_end": 406.40362500000003,
     "feedback": [
         {
-            "name": "sun_041_exactly",
+            "name": "spontC_378_uh-huh",
             "start": 380.0,
-            "end": 380.953,
-            "token": "exactly"
-        },
-        {
-            "name": "spontA_403_mhm",
-            "start": 386.43,
-            "end": 386.989375,
-            "token": "mhm"
-        },
-        {
-            "name": "spontC_319_yeah",
-            "start": 388.65,
-            "end": 389.1395,
-            "token": "yeah"
-        },
-        {
-            "name": "spontC_133_uh-huh",
-            "start": 392.81,
-            "end": 393.2705,
+            "end": 380.50675,
             "token": "uh-huh"
         },
         {
-            "name": "PS_008_oh",
-            "start": 395.71,
-            "end": 396.318625,
-            "token": "oh"
+            "name": "PS_178_wow",
+            "start": 386.43,
+            "end": 387.523,
+            "token": "wow"
         },
         {
-            "name": "spontA_282_mhm",
-            "start": 401.96,
-            "end": 402.516625,
+            "name": "sun_016_exactly",
+            "start": 388.65,
+            "end": 389.6835,
+            "token": "exactly"
+        },
+        {
+            "name": "sun1_005_mhm",
+            "start": 392.81,
+            "end": 393.58,
             "token": "mhm"
         },
         {
-            "name": "spontC_346_yeah",
-            "start": 405.85,
-            "end": 406.279125,
+            "name": "PR_043_right",
+            "start": 395.71,
+            "end": 396.37,
+            "token": "right"
+        },
+        {
+            "name": "spontA_210_yeah",
+            "start": 401.96,
+            "end": 402.95324999999997,
             "token": "yeah"
+        },
+        {
+            "name": "spontF_051_mhm",
+            "start": 405.85,
+            "end": 406.40362500000003,
+            "token": "mhm"
         }
     ]
 }

@@ -1,39 +1,39 @@
 {
     "name": "fe_03_04362",
     "context_channel": 1,
-    "context_text": "<A> i always think about that too whether i'd take you know they say you g you get more if you spread it out over a long period of time / <B> ooh / <A> but then you get you know you get it right away if you take the lump sum / <B> wow / <A> so i think about that too like you know best friend a million or would i take you know twenty thousand versus three hundred thousand / <B> yeah / <A> so but knowing me i'd probably take it over the long haul though { you know } / <B> [ wow ] / <A> cause if you're young and you know you invest it you'd have a little bit coming in every year to live off of / <B> mhm",
+    "context_text": "<A> i always think about that too whether i'd take you know they say you g you get more if you spread it out over a long period of time / <B> okay / <A> but then you get you know you get it right away if you take the lump sum / <B> right / <A> so i think about that too like you know best friend a million or would i take you know twenty thousand versus three hundred thousand / <B> uh-huh / <A> so but knowing me i'd probably take it over the long haul though { you know } / <B> [ right ] / <A> cause if you're young and you know you invest it you'd have a little bit coming in every year to live off of / <B> yeah",
     "context_start": 283.4,
-    "context_end": 314.44225,
+    "context_end": 314.64212499999996,
     "feedback": [
         {
-            "name": "spontF_252_ooh",
+            "name": "spontC_172_okay",
             "start": 290.2,
-            "end": 291.286625,
-            "token": "ooh"
+            "end": 290.611125,
+            "token": "okay"
         },
         {
-            "name": "PS_145_wow",
+            "name": "sun_028_right",
             "start": 294.77,
-            "end": 295.6635,
-            "token": "wow"
+            "end": 295.499375,
+            "token": "right"
         },
         {
-            "name": "spontD_145_yeah",
+            "name": "spontA_277_uh-huh",
             "start": 302.15,
-            "end": 302.823625,
-            "token": "yeah"
+            "end": 302.70525,
+            "token": "uh-huh"
         },
         {
-            "name": "PS_060_wow",
+            "name": "PR_043_right",
             "start": 306.6,
-            "end": 307.86687500000005,
-            "token": "wow"
+            "end": 307.26000000000005,
+            "token": "right"
         },
         {
-            "name": "PR_057_mhm",
+            "name": "spontA_110_yeah",
             "start": 313.71,
-            "end": 314.44225,
-            "token": "mhm"
+            "end": 314.64212499999996,
+            "token": "yeah"
         }
     ]
 }

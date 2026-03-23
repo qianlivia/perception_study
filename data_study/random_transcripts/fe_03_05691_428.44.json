@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05691",
     "context_channel": 0,
-    "context_text": "<B> you never really get a sense that there's like a new approach to these problems { when i see } / <A> [ ooh ] / <B> footage from the middle east it's like i've seen these videos since i was about ten years old / <A> yeah / <B> it's the same video in a way you know what { i mean } / <A> [ oh ] / <B> yeah all all about revenge rather than okay where can we go with this / <A> yeah",
+    "context_text": "<B> you never really get a sense that there's like a new approach to these problems { when i see } / <A> [ okay ] / <B> footage from the middle east it's like i've seen these videos since i was about ten years old / <A> okay / <B> it's the same video in a way you know what { i mean } / <A> [ wow ] / <B> yeah all all about revenge rather than okay where can we go with this / <A> wow",
     "context_start": 428.44,
-    "context_end": 444.40425,
+    "context_end": 445.11675,
     "feedback": [
         {
-            "name": "spontE_174_ooh",
+            "name": "spontD_073_okay",
             "start": 432.02,
-            "end": 432.64374999999995,
-            "token": "ooh"
+            "end": 432.761125,
+            "token": "okay"
         },
         {
-            "name": "spontB_376_yeah",
+            "name": "spontD_410_okay",
             "start": 437.6,
-            "end": 438.323375,
-            "token": "yeah"
+            "end": 438.02375,
+            "token": "okay"
         },
         {
-            "name": "spontD_032_oh",
+            "name": "PS_115_wow",
             "start": 439.6,
-            "end": 440.286625,
-            "token": "oh"
+            "end": 440.69100000000003,
+            "token": "wow"
         },
         {
-            "name": "spontB_100_yeah",
+            "name": "PS_063_wow",
             "start": 443.73,
-            "end": 444.40425,
-            "token": "yeah"
+            "end": 445.11675,
+            "token": "wow"
         }
     ]
 }

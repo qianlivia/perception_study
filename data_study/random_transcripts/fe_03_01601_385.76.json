@@ -1,38 +1,38 @@
 {
     "name": "fe_03_01601",
     "context_channel": 1,
-    "context_text": "<A> yes and um my let's see um my great grandparents uh were mormons that came over from like wales i think / <B> yeah / <A> they were welsh miners who were converts who came over oh gosh and i i can't remember my genealogy too much but it must've been around like the turn of the century or something you know and um they uh they they settled in salt lake city and actually my father was born in bingham canyon { up } / <B> [ uh-huh ] / <A> there's a big copper mine / <B> wow / <A> and um and then they immigrated out to california during the depression because there was like no work / <B> yeah / <A> and so they immigrated out to uh california so a and i've actually been to yeah salt lake city a couple of times and saw where my fa before the copper mine um uh made the city disappear i actually saw the the city where he was born / <B> yeah",
+    "context_text": "<A> yes and um my let's see um my great grandparents uh were mormons that came over from like wales i think / <B> mhm / <A> they were welsh miners who were converts who came over oh gosh and i i can't remember my genealogy too much but it must've been around like the turn of the century or something you know and um they uh they they settled in salt lake city and actually my father was born in bingham canyon { up } / <B> [ oh ] / <A> there's a big copper mine / <B> yeah / <A> and um and then they immigrated out to california during the depression because there was like no work / <B> right / <A> and so they immigrated out to uh california so a and i've actually been to yeah salt lake city a couple of times and saw where my fa before the copper mine um uh made the city disappear i actually saw the the city where he was born / <B> yeah",
     "context_start": 385.76,
-    "context_end": 450.97812500000003,
+    "context_end": 450.861125,
     "feedback": [
         {
-            "name": "spontA_387_yeah",
+            "name": "spontA_343_mhm",
             "start": 400.99,
-            "end": 401.528125,
-            "token": "yeah"
+            "end": 401.539625,
+            "token": "mhm"
         },
         {
-            "name": "spontD_106_uh-huh",
+            "name": "spontF_569_oh",
             "start": 423.7,
-            "end": 424.1375,
-            "token": "uh-huh"
+            "end": 424.77625,
+            "token": "oh"
         },
         {
-            "name": "PS_151_wow",
+            "name": "spontC_385_yeah",
             "start": 425.71,
-            "end": 426.88475,
-            "token": "wow"
-        },
-        {
-            "name": "spontB_374_yeah",
-            "start": 433.07,
-            "end": 433.755375,
+            "end": 426.287875,
             "token": "yeah"
         },
         {
-            "name": "spontF_157_yeah",
+            "name": "sun1_032_right",
+            "start": 433.07,
+            "end": 433.913375,
+            "token": "right"
+        },
+        {
+            "name": "spontD_228_yeah",
             "start": 450.29,
-            "end": 450.97812500000003,
+            "end": 450.861125,
             "token": "yeah"
         }
     ]

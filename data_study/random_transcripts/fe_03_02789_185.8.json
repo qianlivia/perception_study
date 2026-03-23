@@ -1,32 +1,32 @@
 {
     "name": "fe_03_02789",
     "context_channel": 1,
-    "context_text": "<A> yeah exactly no i mean uh i i know that actually what originally spurred my interest in baseball was was just having played it { and } / <B> [ oh ] / <A> uh and my my first actually it was and then watching it with my dad so we sorta had something my for some reason i i grew up in mississippi / <B> exactly / <A> so uh and i was never terribly interested or even adept at sports { and } / <B> [ no ] / <A> my and my dad uh i would say was probably more athletic and is more of a good ole boy / <B> mhm",
+    "context_text": "<A> yeah exactly no i mean uh i i know that actually what originally spurred my interest in baseball was was just having played it { and } / <B> [ yeah ] / <A> uh and my my first actually it was and then watching it with my dad so we sorta had something my for some reason i i grew up in mississippi / <B> wow / <A> so uh and i was never terribly interested or even adept at sports { and } / <B> [ wow ] / <A> my and my dad uh i would say was probably more athletic and is more of a good ole boy / <B> mhm",
     "context_start": 185.8,
-    "context_end": 218.90275000000003,
+    "context_end": 218.6545,
     "feedback": [
         {
-            "name": "spontE_048_oh",
+            "name": "spontF_041_yeah",
             "start": 194.78,
-            "end": 195.525125,
-            "token": "oh"
+            "end": 195.6475,
+            "token": "yeah"
         },
         {
-            "name": "sun_029_exactly",
+            "name": "PS_135_wow",
             "start": 207.14,
-            "end": 208.280375,
-            "token": "exactly"
+            "end": 208.380375,
+            "token": "wow"
         },
         {
-            "name": "NR_080_no",
+            "name": "PS_172_wow",
             "start": 211.45,
-            "end": 212.32475,
-            "token": "no"
+            "end": 213.19449999999998,
+            "token": "wow"
         },
         {
-            "name": "PR_051_mhm",
+            "name": "spontA_200_mhm",
             "start": 218.08,
-            "end": 218.90275000000003,
+            "end": 218.6545,
             "token": "mhm"
         }
     ]

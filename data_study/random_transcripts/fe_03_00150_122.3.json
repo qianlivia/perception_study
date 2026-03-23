@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00150",
     "context_channel": 1,
-    "context_text": "<A> yeah i think you're probably right on target again we've got the oil question you know and yeah we have oil we can use in the us but we'd rather not use that so that we have it as a last resort / <B> yeah / <A> you know and i think you're right that hmm we don't get you know anything from north korea { you } / <B> [ uh-huh ] / <A> know we don't really get anything from the other countries that might pose a threat like we think india you know { is } / <B> [ uh-huh ] / <A> is testing war heads and everything like we don't really get anything from them { so } / <B> [ yeah ]",
+    "context_text": "<A> yeah i think you're probably right on target again we've got the oil question you know and yeah we have oil we can use in the us but we'd rather not use that so that we have it as a last resort / <B> mhm / <A> you know and i think you're right that hmm we don't get you know anything from north korea { you } / <B> [ uh-huh ] / <A> know we don't really get anything from the other countries that might pose a threat like we think india you know { is } / <B> [ right ] / <A> is testing war heads and everything like we don't really get anything from them { so } / <B> [ okay ]",
     "context_start": 122.3,
-    "context_end": 154.02275,
+    "context_end": 154.071875,
     "feedback": [
         {
-            "name": "spontB_216_yeah",
+            "name": "spontA_288_mhm",
             "start": 134.24,
-            "end": 134.72875000000002,
-            "token": "yeah"
+            "end": 134.836625,
+            "token": "mhm"
         },
         {
-            "name": "sun1_035_uh-huh",
+            "name": "spontD_113_uh-huh",
             "start": 140.45,
-            "end": 141.472875,
+            "end": 141.08175,
             "token": "uh-huh"
         },
         {
-            "name": "spontA_413_uh-huh",
+            "name": "sun1_032_right",
             "start": 148.56,
-            "end": 149.061375,
-            "token": "uh-huh"
+            "end": 149.403375,
+            "token": "right"
         },
         {
-            "name": "spontA_046_yeah",
+            "name": "spontF_181_okay",
             "start": 153.33,
-            "end": 154.02275,
-            "token": "yeah"
+            "end": 154.071875,
+            "token": "okay"
         }
     ]
 }

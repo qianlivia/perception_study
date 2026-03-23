@@ -1,27 +1,27 @@
 {
     "name": "fe_03_05126",
     "context_channel": 0,
-    "context_text": "<B> northern part of ohio / <A> absolutely / <B> and ohio is basically a republican state except the very northern tip where i live / <A> no / <B> so it's and and the consensus even seems to be even from some of the republican that are are around our community that they're not as supportive of the his his uh goals / <A> yes",
+    "context_text": "<B> northern part of ohio / <A> right / <B> and ohio is basically a republican state except the very northern tip where i live / <A> right / <B> so it's and and the consensus even seems to be even from some of the republican that are are around our community that they're not as supportive of the his his uh goals / <A> uh-huh",
     "context_start": 129.82,
-    "context_end": 154.22762500000002,
+    "context_end": 153.87912500000002,
     "feedback": [
         {
-            "name": "sun_037_absolutely",
+            "name": "sun1_031_right",
             "start": 131.46,
-            "end": 132.61925,
-            "token": "absolutely"
+            "end": 132.25425,
+            "token": "right"
         },
         {
-            "name": "NR_024_no",
+            "name": "sun_007_right",
             "start": 137.97,
-            "end": 139.026875,
-            "token": "no"
+            "end": 138.8595,
+            "token": "right"
         },
         {
-            "name": "spontB_368_yes",
+            "name": "spontE_081_uh-huh",
             "start": 153.37,
-            "end": 154.22762500000002,
-            "token": "yes"
+            "end": 153.87912500000002,
+            "token": "uh-huh"
         }
     ]
 }

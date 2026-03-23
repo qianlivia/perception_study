@@ -1,32 +1,32 @@
 {
     "name": "fe_03_02101",
     "context_channel": 1,
-    "context_text": "<A> right yeah we found out about friends uh our house burned down in august / <B> mhm / <A> and we had no insurance and we had no you know no nothing and uh we i was surprised at the number of people that said okay / <B> yeah / <A> here here you know we had some some neighbors that we didn't really even think of as close friends { that } / <B> [ uh-huh ] / <A> said no you're not going any you're staying here at our place for a couple of days at least until we figure out what's going on / <B> uh-huh",
+    "context_text": "<A> right yeah we found out about friends uh our house burned down in august / <B> right / <A> and we had no insurance and we had no you know no nothing and uh we i was surprised at the number of people that said okay / <B> right / <A> here here you know we had some some neighbors that we didn't really even think of as close friends { that } / <B> [ really ] / <A> said no you're not going any you're staying here at our place for a couple of days at least until we figure out what's going on / <B> uh-huh",
     "context_start": 180.45,
-    "context_end": 217.86825000000002,
+    "context_end": 217.94500000000002,
     "feedback": [
         {
-            "name": "spontE_156_mhm",
+            "name": "sun_007_right",
             "start": 186.17,
-            "end": 186.77612499999998,
-            "token": "mhm"
+            "end": 187.05949999999999,
+            "token": "right"
         },
         {
-            "name": "spontC_084_yeah",
+            "name": "sun_013_right",
             "start": 201.07,
-            "end": 201.4975,
-            "token": "yeah"
+            "end": 201.9435,
+            "token": "right"
         },
         {
-            "name": "spontF_058_uh-huh",
+            "name": "NS_082_really",
             "start": 208.44,
-            "end": 208.9505,
-            "token": "uh-huh"
+            "end": 209.19225,
+            "token": "really"
         },
         {
-            "name": "spontD_070_uh-huh",
+            "name": "spontC_358_uh-huh",
             "start": 217.36,
-            "end": 217.86825000000002,
+            "end": 217.94500000000002,
             "token": "uh-huh"
         }
     ]

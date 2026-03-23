@@ -1,27 +1,27 @@
 {
     "name": "fe_03_00359",
     "context_channel": 0,
-    "context_text": "<B> you know because i always move around i'm / <A> wow / <B> i i uh i come from china / <A> mhm / <B> and i always move around i i have stayed in the united states for four years right now / <A> oh",
+    "context_text": "<B> you know because i always move around i'm / <A> really / <B> i i uh i come from china / <A> mhm / <B> and i always move around i i have stayed in the united states for four years right now / <A> right",
     "context_start": 217.23,
-    "context_end": 233.039875,
+    "context_end": 232.57999999999998,
     "feedback": [
         {
-            "name": "PS_128_wow",
+            "name": "NS_002_really",
             "start": 220.37,
-            "end": 221.463,
-            "token": "wow"
+            "end": 221.22650000000002,
+            "token": "really"
         },
         {
-            "name": "NS_071_mhm",
+            "name": "spontA_343_mhm",
             "start": 223.75,
-            "end": 224.838,
+            "end": 224.299625,
             "token": "mhm"
         },
         {
-            "name": "Sy_044_oh",
+            "name": "PR_043_right",
             "start": 231.92,
-            "end": 233.039875,
-            "token": "oh"
+            "end": 232.57999999999998,
+            "token": "right"
         }
     ]
 }

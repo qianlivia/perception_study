@@ -1,39 +1,39 @@
 {
     "name": "fe_03_00068",
     "context_channel": 0,
-    "context_text": "<B> yeah an and it's it's just so hard because people you know try to cold turkey the nicotine patches you name it an and you know they still can't stop { smoking } / <A> [ oh ] / <B> and and it's it's uh it's a dangerous thing for { just } / <A> [ yeah ] / <B> even the environment the people { around } / <A> [ mhm ] / <B> them children / <A> uh-huh / <B> e especially themselves and um i i try to tell my friends to quit smoking but it's not working / <A> no",
+    "context_text": "<B> yeah an and it's it's just so hard because people you know try to cold turkey the nicotine patches you name it an and you know they still can't stop { smoking } / <A> [ right ] / <B> and and it's it's uh it's a dangerous thing for { just } / <A> [ oh ] / <B> even the environment the people { around } / <A> [ exactly ] / <B> them children / <A> uh-huh / <B> e especially themselves and um i i try to tell my friends to quit smoking but it's not working / <A> right",
     "context_start": 96.52,
-    "context_end": 123.29462500000001,
+    "context_end": 122.89512500000001,
     "feedback": [
         {
-            "name": "spontF_102_oh",
+            "name": "spontC_360_right",
             "start": 104.34,
-            "end": 104.9435,
+            "end": 104.918875,
+            "token": "right"
+        },
+        {
+            "name": "spontC_320_oh",
+            "start": 109.94,
+            "end": 111.15525,
             "token": "oh"
         },
         {
-            "name": "spontC_374_yeah",
-            "start": 109.94,
-            "end": 110.450375,
-            "token": "yeah"
-        },
-        {
-            "name": "spontD_178_mhm",
+            "name": "sun_015_exactly",
             "start": 112.07,
-            "end": 112.68924999999999,
-            "token": "mhm"
+            "end": 113.17174999999999,
+            "token": "exactly"
         },
         {
-            "name": "spontC_358_uh-huh",
+            "name": "spontF_092_uh-huh",
             "start": 114.49,
-            "end": 115.07499999999999,
+            "end": 115.169125,
             "token": "uh-huh"
         },
         {
-            "name": "sun2_005_no",
+            "name": "PR_048_right",
             "start": 122.26,
-            "end": 123.29462500000001,
-            "token": "no"
+            "end": 122.89512500000001,
+            "token": "right"
         }
     ]
 }

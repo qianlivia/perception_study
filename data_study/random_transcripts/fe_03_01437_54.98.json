@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01437",
     "context_channel": 0,
-    "context_text": "<B> you know it makes you kinda think that one day they might not be there you know i wo / <A> yeah / <B> sometimes planes scare me { i know } / <A> [ uh-huh ] / <B> it may sound kinda funny but sometimes i hear a plane coming especially now with the war also you know / <A> wow / <B> you hear a plane and you like look out to make sure that it's not going to crash cause i'm real close to new orleans / <A> oh",
+    "context_text": "<B> you know it makes you kinda think that one day they might not be there you know i wo / <A> yeah / <B> sometimes planes scare me { i know } / <A> [ yeah ] / <B> it may sound kinda funny but sometimes i hear a plane coming especially now with the war also you know / <A> right / <B> you hear a plane and you like look out to make sure that it's not going to crash cause i'm real close to new orleans / <A> right",
     "context_start": 54.98,
-    "context_end": 71.17,
+    "context_end": 71.353125,
     "feedback": [
         {
-            "name": "sun1_021_yeah",
+            "name": "spontD_240_yeah",
             "start": 58.1,
-            "end": 58.833875,
+            "end": 58.762750000000004,
             "token": "yeah"
         },
         {
-            "name": "spontE_261_uh-huh",
+            "name": "spontA_073_yeah",
             "start": 60.46,
-            "end": 61.0345,
-            "token": "uh-huh"
+            "end": 61.611625000000004,
+            "token": "yeah"
         },
         {
-            "name": "PS_024_wow",
+            "name": "PR_048_right",
             "start": 65.46,
-            "end": 66.98724999999999,
-            "token": "wow"
+            "end": 66.095125,
+            "token": "right"
         },
         {
-            "name": "NS_097_oh",
+            "name": "sun1_033_right",
             "start": 70.5,
-            "end": 71.17,
-            "token": "oh"
+            "end": 71.353125,
+            "token": "right"
         }
     ]
 }

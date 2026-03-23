@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01349",
     "context_channel": 0,
-    "context_text": "<B> and it sounds like you may have a bright one though too so they have a the gate program / <A> yeah / <B> well at least here in california they have a gate program it's for the the gifted and talented / <A> oh / <B> education and they challenge the kids more at school th their assignments are modified and then they have additional classes / <A> yeah / <B> that are after school that are really fun they do things like plays and have science projects / <A> uh-huh",
+    "context_text": "<B> and it sounds like you may have a bright one though too so they have a the gate program / <A> right / <B> well at least here in california they have a gate program it's for the the gifted and talented / <A> right / <B> education and they challenge the kids more at school th their assignments are modified and then they have additional classes / <A> right / <B> that are after school that are really fun they do things like plays and have science projects / <A> oh",
     "context_start": 546.58,
-    "context_end": 570.003,
+    "context_end": 569.8395,
     "feedback": [
         {
-            "name": "spontF_624_yeah",
+            "name": "sun1_030_right",
             "start": 551.04,
-            "end": 551.534375,
-            "token": "yeah"
+            "end": 551.833625,
+            "token": "right"
         },
         {
-            "name": "spontF_569_oh",
+            "name": "sun1_031_right",
             "start": 556.67,
-            "end": 557.7462499999999,
-            "token": "oh"
+            "end": 557.46425,
+            "token": "right"
         },
         {
-            "name": "spontF_142_yeah",
+            "name": "sun_013_right",
             "start": 564.62,
-            "end": 565.085125,
-            "token": "yeah"
+            "end": 565.4935,
+            "token": "right"
         },
         {
-            "name": "spontC_136_uh-huh",
+            "name": "spontF_109_oh",
             "start": 569.5,
-            "end": 570.003,
-            "token": "uh-huh"
+            "end": 569.8395,
+            "token": "oh"
         }
     ]
 }

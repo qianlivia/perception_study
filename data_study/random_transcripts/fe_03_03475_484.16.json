@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03475",
     "context_channel": 1,
-    "context_text": "<A> and i think we get along we don't he's not like an extreme you know an extremist { when it comes to } / <B> [ wow ] / <A> his religion and i'm not either / <B> oh / <A> and um you know i think i don't have a problem with it like my father { doesn't } / <B> [ mhm ] / <A> really care but you know i mean he doesn't care for my husband to be he's my husband's muslim / <B> uh-huh",
+    "context_text": "<A> and i think we get along we don't he's not like an extreme you know an extremist { when it comes to } / <B> [ oh ] / <A> his religion and i'm not either / <B> mhm / <A> and um you know i think i don't have a problem with it like my father { doesn't } / <B> [ mhm ] / <A> really care but you know i mean he doesn't care for my husband to be he's my husband's muslim / <B> mhm",
     "context_start": 484.16,
-    "context_end": 505.289,
+    "context_end": 505.27225,
     "feedback": [
         {
-            "name": "PS_071_wow",
+            "name": "Sy_003_oh",
             "start": 490.4,
-            "end": 491.30174999999997,
-            "token": "wow"
-        },
-        {
-            "name": "spontF_612_oh",
-            "start": 492.89,
-            "end": 493.500625,
+            "end": 491.30699999999996,
             "token": "oh"
         },
         {
-            "name": "spontC_348_mhm",
-            "start": 498.23,
-            "end": 498.82,
+            "name": "spontD_038_mhm",
+            "start": 492.89,
+            "end": 493.42337499999996,
             "token": "mhm"
         },
         {
-            "name": "spontA_401_uh-huh",
+            "name": "spontA_415_mhm",
+            "start": 498.23,
+            "end": 498.7645,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_327_mhm",
             "start": 504.76,
-            "end": 505.289,
-            "token": "uh-huh"
+            "end": 505.27225,
+            "token": "mhm"
         }
     ]
 }

@@ -1,39 +1,39 @@
 {
     "name": "fe_03_03675",
     "context_channel": 1,
-    "context_text": "<A> it's there's days where it's really really hot and there's days where it's really really cold and then there's good days but mostly it's hot here / <B> uh-huh / <A> but it's like the humid hot it's not like dry hot like in the desert which is kinda nice cause it's just hot but { you're } / <B> [ uh-huh ] / <A> not really really sweaty or smell anything like that / <B> mhm / <A> like here it's like really really humid hot so if you don't have { your } / <B> [ uh-huh ] / <A> ac then i'm pretty / <B> ooh",
+    "context_text": "<A> it's there's days where it's really really hot and there's days where it's really really cold and then there's good days but mostly it's hot here / <B> right / <A> but it's like the humid hot it's not like dry hot like in the desert which is kinda nice cause it's just hot but { you're } / <B> [ really ] / <A> not really really sweaty or smell anything like that / <B> yeah / <A> like here it's like really really humid hot so if you don't have { your } / <B> [ right ] / <A> ac then i'm pretty / <B> okay",
     "context_start": 393.46,
-    "context_end": 410.58000000000004,
+    "context_end": 409.84325,
     "feedback": [
         {
-            "name": "spontB_099_uh-huh",
+            "name": "PR_043_right",
             "start": 397.67,
-            "end": 398.36275,
-            "token": "uh-huh"
+            "end": 398.33000000000004,
+            "token": "right"
         },
         {
-            "name": "spontF_634_uh-huh",
+            "name": "sun2_001_really",
             "start": 402.62,
-            "end": 403.16425,
-            "token": "uh-huh"
+            "end": 403.350625,
+            "token": "really"
         },
         {
-            "name": "spontA_061_mhm",
+            "name": "spontE_059_yeah",
             "start": 404.79,
-            "end": 405.315375,
-            "token": "mhm"
+            "end": 405.671375,
+            "token": "yeah"
         },
         {
-            "name": "spontE_065_uh-huh",
+            "name": "sun1_030_right",
             "start": 407.19,
-            "end": 407.634375,
-            "token": "uh-huh"
+            "end": 407.983625,
+            "token": "right"
         },
         {
-            "name": "PS_121_ooh",
+            "name": "spontB_028_okay",
             "start": 409.41,
-            "end": 410.58000000000004,
-            "token": "ooh"
+            "end": 409.84325,
+            "token": "okay"
         }
     ]
 }

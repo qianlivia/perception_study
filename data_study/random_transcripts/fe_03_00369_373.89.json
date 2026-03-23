@@ -1,45 +1,45 @@
 {
     "name": "fe_03_00369",
     "context_channel": 1,
-    "context_text": "<A> um they yeah it's kind of frustrating sometimes to think man they're just playing a game and / <B> yeah / <A> paid millions you know / <B> yeah / <A> um and yeah it's you know it's really hard to get there whatever but yeah i am i'm not in th i'm not so sure about the whole just um how it's so commercialized now / <B> oh / <A> you know like the world series behind the play is this big blue screen that they can put up you know a uh an advertisement for your area or whatever { and } / <B> [ uh-huh ] / <A> it's just so advertised that gets kind of you know a pay everything every uniform you know is uh has a name or every field has { you know } / <B> [ uh-huh ] / <A> coors field or / <B> absolutely",
+    "context_text": "<A> um they yeah it's kind of frustrating sometimes to think man they're just playing a game and / <B> right / <A> paid millions you know / <B> yeah / <A> um and yeah it's you know it's really hard to get there whatever but yeah i am i'm not in th i'm not so sure about the whole just um how it's so commercialized now / <B> oh / <A> you know like the world series behind the play is this big blue screen that they can put up you know a uh an advertisement for your area or whatever { and } / <B> [ exactly ] / <A> it's just so advertised that gets kind of you know a pay everything every uniform you know is uh has a name or every field has { you know } / <B> [ uh-huh ] / <A> coors field or / <B> okay",
     "context_start": 373.89,
-    "context_end": 419.14925,
+    "context_end": 418.453875,
     "feedback": [
         {
-            "name": "spontE_062_yeah",
+            "name": "PR_048_right",
             "start": 380.69,
-            "end": 381.352125,
-            "token": "yeah"
+            "end": 381.325125,
+            "token": "right"
         },
         {
-            "name": "spontE_329_yeah",
+            "name": "spontC_127_yeah",
             "start": 382.71,
-            "end": 383.35699999999997,
+            "end": 383.287875,
             "token": "yeah"
         },
         {
-            "name": "spontC_018_oh",
+            "name": "Sy_065_oh",
             "start": 395.8,
-            "end": 396.579625,
+            "end": 397.02775,
             "token": "oh"
         },
         {
-            "name": "spontA_277_uh-huh",
+            "name": "sun_015_exactly",
             "start": 406.02,
-            "end": 406.57525,
-            "token": "uh-huh"
+            "end": 407.12174999999996,
+            "token": "exactly"
         },
         {
-            "name": "spontF_306_uh-huh",
+            "name": "spontD_026_uh-huh",
             "start": 416.28,
-            "end": 416.7295,
+            "end": 416.74787499999996,
             "token": "uh-huh"
         },
         {
-            "name": "sun_037_absolutely",
+            "name": "spontD_411_okay",
             "start": 417.99,
-            "end": 419.14925,
-            "token": "absolutely"
+            "end": 418.453875,
+            "token": "okay"
         }
     ]
 }

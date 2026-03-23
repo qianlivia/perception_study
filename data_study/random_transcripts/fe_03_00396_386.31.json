@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00396",
     "context_channel": 1,
-    "context_text": "<A> i don't know others of others but in my in my opinion i think i want peace yes i think / <B> oh / <A> how do i say actually i felt very very sorry for about nine one one yeah but uh i think sometimes i think there are / <B> mhm / <A> other kind of not for kind of more complicated reasons for war in iraq / <B> yeah / <A> kind of oh you profit some politic / <B> mhm",
+    "context_text": "<A> i don't know others of others but in my in my opinion i think i want peace yes i think / <B> yeah / <A> how do i say actually i felt very very sorry for about nine one one yeah but uh i think sometimes i think there are / <B> exactly / <A> other kind of not for kind of more complicated reasons for war in iraq / <B> yeah / <A> kind of oh you profit some politic / <B> right",
     "context_start": 386.31,
-    "context_end": 432.61525,
+    "context_end": 432.9095,
     "feedback": [
         {
-            "name": "Sy_065_oh",
+            "name": "spontB_052_yeah",
             "start": 398.6,
-            "end": 399.82775000000004,
-            "token": "oh"
-        },
-        {
-            "name": "spontC_327_mhm",
-            "start": 414.42,
-            "end": 414.93225,
-            "token": "mhm"
-        },
-        {
-            "name": "spontF_261_yeah",
-            "start": 423.91,
-            "end": 424.46875,
+            "end": 399.097375,
             "token": "yeah"
         },
         {
-            "name": "spontA_319_mhm",
+            "name": "sun_042_exactly",
+            "start": 414.42,
+            "end": 415.37725,
+            "token": "exactly"
+        },
+        {
+            "name": "spontB_082_yeah",
+            "start": 423.91,
+            "end": 424.921125,
+            "token": "yeah"
+        },
+        {
+            "name": "sun_007_right",
             "start": 432.02,
-            "end": 432.61525,
-            "token": "mhm"
+            "end": 432.9095,
+            "token": "right"
         }
     ]
 }

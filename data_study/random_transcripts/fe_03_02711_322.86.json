@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02711",
     "context_channel": 0,
-    "context_text": "<B> absolutely i mean we're very lucky um cause y i had a few friends who were against the war and then i'd i've really you know wanted it i felt it was the only thing to do / <A> yeah / <B> but then you know looking back of course and seeing well i think they said a hundred and twenty five were killed which of course in war is { very } / <A> [ yeah ] / <B> good i mean you of course being a doctor yo that would / <A> wow / <B> certainly uh confirm that compared to the statistics you know from vietnam and all the { others } / <A> [ yep ]",
+    "context_text": "<B> absolutely i mean we're very lucky um cause y i had a few friends who were against the war and then i'd i've really you know wanted it i felt it was the only thing to do / <A> yeah / <B> but then you know looking back of course and seeing well i think they said a hundred and twenty five were killed which of course in war is { very } / <A> [ yeah ] / <B> good i mean you of course being a doctor yo that would / <A> uh-huh / <B> certainly uh confirm that compared to the statistics you know from vietnam and all the { others } / <A> [ mhm ]",
     "context_start": 322.86,
-    "context_end": 349.673,
+    "context_end": 349.51525000000004,
     "feedback": [
         {
-            "name": "spontA_316_yeah",
+            "name": "spontB_379_yeah",
             "start": 332.24,
-            "end": 332.81875,
+            "end": 332.743875,
             "token": "yeah"
         },
         {
-            "name": "spontD_231_yeah",
+            "name": "spontA_391_yeah",
             "start": 340.48,
-            "end": 341.060375,
+            "end": 340.88937500000003,
             "token": "yeah"
         },
         {
-            "name": "PS_097_wow",
+            "name": "spontF_463_uh-huh",
             "start": 343.83,
-            "end": 345.47774999999996,
-            "token": "wow"
+            "end": 344.337625,
+            "token": "uh-huh"
         },
         {
-            "name": "sun_019_yep",
+            "name": "spontA_319_mhm",
             "start": 348.92,
-            "end": 349.673,
-            "token": "yep"
+            "end": 349.51525000000004,
+            "token": "mhm"
         }
     ]
 }

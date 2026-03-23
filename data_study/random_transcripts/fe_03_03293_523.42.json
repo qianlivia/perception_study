@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03293",
     "context_channel": 0,
-    "context_text": "<B> uh i would say his worrying worrying about the future or something that might happen that really won't happen and / <A> mhm / <B> just conjuring up all this stupid stuff in his head for no reason / <A> uh-huh / <B> i'd rather him just relax and be positive and plan well and live life as though it was the most exciting thing on earth which it is { and i think } / <A> [ exactly ] / <B> we all tend to forget in the day to day boring stuff / <A> uh-huh",
+    "context_text": "<B> uh i would say his worrying worrying about the future or something that might happen that really won't happen and / <A> okay / <B> just conjuring up all this stupid stuff in his head for no reason / <A> really / <B> i'd rather him just relax and be positive and plan well and live life as though it was the most exciting thing on earth which it is { and i think } / <A> [ mhm ] / <B> we all tend to forget in the day to day boring stuff / <A> right",
     "context_start": 523.42,
-    "context_end": 554.183,
+    "context_end": 554.523375,
     "feedback": [
         {
-            "name": "spontC_356_mhm",
+            "name": "spontD_410_okay",
             "start": 532.4,
-            "end": 532.9957499999999,
+            "end": 532.82375,
+            "token": "okay"
+        },
+        {
+            "name": "NS_002_really",
+            "start": 536.9,
+            "end": 537.7565,
+            "token": "really"
+        },
+        {
+            "name": "spontA_239_mhm",
+            "start": 548.81,
+            "end": 549.322375,
             "token": "mhm"
         },
         {
-            "name": "spontF_035_uh-huh",
-            "start": 536.9,
-            "end": 537.43625,
-            "token": "uh-huh"
-        },
-        {
-            "name": "sun_015_exactly",
-            "start": 548.81,
-            "end": 549.91175,
-            "token": "exactly"
-        },
-        {
-            "name": "spontC_136_uh-huh",
+            "name": "sun1_032_right",
             "start": 553.68,
-            "end": 554.183,
-            "token": "uh-huh"
+            "end": 554.523375,
+            "token": "right"
         }
     ]
 }

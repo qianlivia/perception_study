@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00364",
     "context_channel": 1,
-    "context_text": "<A> because usually i sit and ride the house / <B> no / <A> yeah actually i went to meditation center / <B> mhm / <A> mm maybe for eight months / <B> yeah / <A> ah maybe it was five years ago / <B> no",
+    "context_text": "<A> because usually i sit and ride the house / <B> right / <A> yeah actually i went to meditation center / <B> wow / <A> mm maybe for eight months / <B> right / <A> ah maybe it was five years ago / <B> mhm",
     "context_start": 109.37,
-    "context_end": 126.09349999999999,
+    "context_end": 125.698,
     "feedback": [
         {
-            "name": "spontB_093_no",
+            "name": "PR_048_right",
             "start": 112.97,
-            "end": 113.881,
-            "token": "no"
+            "end": 113.605125,
+            "token": "right"
         },
         {
-            "name": "spontF_051_mhm",
+            "name": "PS_114_wow",
             "start": 117.79,
-            "end": 118.343625,
-            "token": "mhm"
+            "end": 118.95387500000001,
+            "token": "wow"
         },
         {
-            "name": "spontB_323_yeah",
+            "name": "sun1_033_right",
             "start": 120.94,
-            "end": 121.92675,
-            "token": "yeah"
+            "end": 121.793125,
+            "token": "right"
         },
         {
-            "name": "NR_086_no",
+            "name": "spontE_049_mhm",
             "start": 125.1,
-            "end": 126.09349999999999,
-            "token": "no"
+            "end": 125.698,
+            "token": "mhm"
         }
     ]
 }

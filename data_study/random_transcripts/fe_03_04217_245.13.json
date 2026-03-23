@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04217",
     "context_channel": 0,
-    "context_text": "<B> yeah it's crazy i actually i i'm in the process right now of um i'm studying for my real estate license { and } / <A> [ yeah ] / <B> i and i and a lot of the uh comments that i get is that you're going to find a lot of people um moving to the area from other parts of the country where they're used to a lot more house for a { lot } / <A> [ yes ] / <B> less money and / <A> mhm / <B> certainly a lot less property taxes our property taxes are very high here so um it's you know it's like how do you sell how do you sell somebody that and you know the answer is location location location / <A> ooh",
+    "context_text": "<B> yeah it's crazy i actually i i'm in the process right now of um i'm studying for my real estate license { and } / <A> [ right ] / <B> i and i and a lot of the uh comments that i get is that you're going to find a lot of people um moving to the area from other parts of the country where they're used to a lot more house for a { lot } / <A> [ wow ] / <B> less money and / <A> okay / <B> certainly a lot less property taxes our property taxes are very high here so um it's you know it's like how do you sell how do you sell somebody that and you know the answer is location location location / <A> okay",
     "context_start": 245.13,
-    "context_end": 278.26712499999996,
+    "context_end": 277.9395,
     "feedback": [
         {
-            "name": "spontD_281_yeah",
+            "name": "PR_048_right",
             "start": 251.38,
-            "end": 251.888375,
-            "token": "yeah"
+            "end": 252.01512499999998,
+            "token": "right"
         },
         {
-            "name": "PR_024_yes",
+            "name": "PS_154_wow",
             "start": 263.41,
-            "end": 264.4075,
-            "token": "yes"
+            "end": 264.8985,
+            "token": "wow"
         },
         {
-            "name": "spontA_319_mhm",
+            "name": "spontC_017_okay",
             "start": 265.02,
-            "end": 265.61525,
-            "token": "mhm"
+            "end": 265.825625,
+            "token": "okay"
         },
         {
-            "name": "spontF_032_ooh",
+            "name": "spontB_195_okay",
             "start": 277.27,
-            "end": 278.26712499999996,
-            "token": "ooh"
+            "end": 277.9395,
+            "token": "okay"
         }
     ]
 }

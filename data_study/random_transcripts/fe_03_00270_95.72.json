@@ -1,45 +1,45 @@
 {
     "name": "fe_03_00270",
     "context_channel": 0,
-    "context_text": "<B> and that was really spooky because i got to my appointment and uh the person with whom i had the appointment did you hear anything on the news and i said yes i heard all of it and i related to this person / <A> yeah / <B> and i told told them that it sounded just like a bad science fiction novel that i had read / <A> uh-huh / <B> and i had at the time when i lived in denver my tv room was partially under ground so i / <A> no / <B> couldn't any broadcast tv { and i } / <A> [ ooh ] / <B> didn't have cable i didn't have dish / <A> okay / <B> so i really couldn't get tv / <A> oh",
+    "context_text": "<B> and that was really spooky because i got to my appointment and uh the person with whom i had the appointment did you hear anything on the news and i said yes i heard all of it and i related to this person / <A> wow / <B> and i told told them that it sounded just like a bad science fiction novel that i had read / <A> right / <B> and i had at the time when i lived in denver my tv room was partially under ground so i / <A> right / <B> couldn't any broadcast tv { and i } / <A> [ mhm ] / <B> didn't have cable i didn't have dish / <A> mhm / <B> so i really couldn't get tv / <A> mhm",
     "context_start": 95.72,
-    "context_end": 129.024375,
+    "context_end": 129.29887499999998,
     "feedback": [
         {
-            "name": "spontC_075_yeah",
+            "name": "PS_117_wow",
             "start": 107.5,
-            "end": 108.154625,
-            "token": "yeah"
+            "end": 109.231625,
+            "token": "wow"
         },
         {
-            "name": "spontF_494_uh-huh",
+            "name": "sun_028_right",
             "start": 112.79,
-            "end": 113.342375,
-            "token": "uh-huh"
+            "end": 113.51937500000001,
+            "token": "right"
         },
         {
-            "name": "sun2_033_no",
+            "name": "sun1_033_right",
             "start": 121.5,
-            "end": 122.75275,
-            "token": "no"
+            "end": 122.353125,
+            "token": "right"
         },
         {
-            "name": "PS_158_ooh",
+            "name": "spontA_120_mhm",
             "start": 123.56,
-            "end": 124.838125,
-            "token": "ooh"
+            "end": 124.014875,
+            "token": "mhm"
         },
         {
-            "name": "spontF_583_okay",
+            "name": "spontC_327_mhm",
             "start": 126.08,
-            "end": 127.258,
-            "token": "okay"
+            "end": 126.59224999999999,
+            "token": "mhm"
         },
         {
-            "name": "spontF_207_oh",
+            "name": "spontA_331_mhm",
             "start": 128.64,
-            "end": 129.024375,
-            "token": "oh"
+            "end": 129.29887499999998,
+            "token": "mhm"
         }
     ]
 }

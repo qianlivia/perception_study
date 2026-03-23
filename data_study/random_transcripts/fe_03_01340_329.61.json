@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01340",
     "context_channel": 0,
-    "context_text": "<B> know i can't and if they're not at school and they're not with you and they're somewhere else it's like okay how do you know what they're doing / <A> wow / <B> you know but you that's where you have to have trust in your children / <A> no / <B> and know that they'll make um a pretty proper decision / <A> uh-huh / <B> you know i mean a a a right decision on what not to do and what to do so / <A> right",
+    "context_text": "<B> know i can't and if they're not at school and they're not with you and they're somewhere else it's like okay how do you know what they're doing / <A> oh / <B> you know but you that's where you have to have trust in your children / <A> wow / <B> and know that they'll make um a pretty proper decision / <A> right / <B> you know i mean a a a right decision on what not to do and what to do so / <A> mhm",
     "context_start": 329.61,
-    "context_end": 354.895125,
+    "context_end": 354.819375,
     "feedback": [
         {
-            "name": "PS_131_wow",
+            "name": "spontD_379_oh",
             "start": 338.66,
-            "end": 339.637625,
+            "end": 339.75712500000003,
+            "token": "oh"
+        },
+        {
+            "name": "PS_173_wow",
+            "start": 342.75,
+            "end": 343.873625,
             "token": "wow"
         },
         {
-            "name": "NR_023_no",
-            "start": 342.75,
-            "end": 343.353125,
-            "token": "no"
-        },
-        {
-            "name": "spontE_227_uh-huh",
+            "name": "sun1_032_right",
             "start": 348.21,
-            "end": 348.631625,
-            "token": "uh-huh"
+            "end": 349.05337499999996,
+            "token": "right"
         },
         {
-            "name": "PR_048_right",
+            "name": "spontA_403_mhm",
             "start": 354.26,
-            "end": 354.895125,
-            "token": "right"
+            "end": 354.819375,
+            "token": "mhm"
         }
     ]
 }

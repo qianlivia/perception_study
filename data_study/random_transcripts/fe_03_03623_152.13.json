@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03623",
     "context_channel": 1,
-    "context_text": "<A> could understand if you had maybe a couple of kids and the place you were working the benefits were just outrageous but the / <B> yeah / <A> even then i don't see how you would i mean if you could walk to work every day and you didn't have to you know put clothes on anyone { then i } / <B> [ mhm ] / <A> guess i could i could understand it but uh jeez i mean i { would } / <B> [ yeah ] / <A> say las vegas is not terribly expensive it's not nearly as expensive as oklahoma is but / <B> wow",
+    "context_text": "<A> could understand if you had maybe a couple of kids and the place you were working the benefits were just outrageous but the / <B> oh / <A> even then i don't see how you would i mean if you could walk to work every day and you didn't have to you know put clothes on anyone { then i } / <B> [ uh-huh ] / <A> guess i could i could understand it but uh jeez i mean i { would } / <B> [ mhm ] / <A> say las vegas is not terribly expensive it's not nearly as expensive as oklahoma is but / <B> yeah",
     "context_start": 152.13,
-    "context_end": 176.329,
+    "context_end": 176.44287500000002,
     "feedback": [
         {
-            "name": "spontE_003_yeah",
+            "name": "PS_194_oh",
             "start": 158.2,
-            "end": 158.584375,
-            "token": "yeah"
+            "end": 159.00375,
+            "token": "oh"
         },
         {
-            "name": "sun1_001_mhm",
+            "name": "spontA_086_uh-huh",
             "start": 165.46,
-            "end": 166.33825000000002,
+            "end": 165.970125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_180_mhm",
+            "start": 170.02,
+            "end": 170.564375,
             "token": "mhm"
         },
         {
-            "name": "spontB_366_yeah",
-            "start": 170.02,
-            "end": 170.67625,
-            "token": "yeah"
-        },
-        {
-            "name": "PS_085_wow",
+            "name": "spontB_313_yeah",
             "start": 175.46,
-            "end": 176.329,
-            "token": "wow"
+            "end": 176.44287500000002,
+            "token": "yeah"
         }
     ]
 }

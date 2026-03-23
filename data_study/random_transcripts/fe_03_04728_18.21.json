@@ -1,27 +1,27 @@
 {
     "name": "fe_03_04728",
     "context_channel": 0,
-    "context_text": "<B> yeah yeah i i think that'd be a hobby i { think } / <A> [ okay ] / <B> anything you do outside your regular work { i would consider as } / <A> [ mhm ] / <B> hobby you know / <A> yeah",
+    "context_text": "<B> yeah yeah i i think that'd be a hobby i { think } / <A> [ yeah ] / <B> anything you do outside your regular work { i would consider as } / <A> [ right ] / <B> hobby you know / <A> oh",
     "context_start": 18.21,
-    "context_end": 28.05625,
+    "context_end": 29.033375,
     "feedback": [
         {
-            "name": "spontD_383_okay",
+            "name": "spontA_273_yeah",
             "start": 20.42,
-            "end": 21.091375000000003,
-            "token": "okay"
-        },
-        {
-            "name": "spontF_619_mhm",
-            "start": 24.15,
-            "end": 24.69475,
-            "token": "mhm"
-        },
-        {
-            "name": "spontB_322_yeah",
-            "start": 27.16,
-            "end": 28.05625,
+            "end": 20.985750000000003,
             "token": "yeah"
+        },
+        {
+            "name": "sun_007_right",
+            "start": 24.15,
+            "end": 25.039499999999997,
+            "token": "right"
+        },
+        {
+            "name": "Sy_020_oh",
+            "start": 27.16,
+            "end": 29.033375,
+            "token": "oh"
         }
     ]
 }

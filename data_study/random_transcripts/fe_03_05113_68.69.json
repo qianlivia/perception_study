@@ -1,63 +1,63 @@
 {
     "name": "fe_03_05113",
     "context_channel": 1,
-    "context_text": "<A> was a bit i if we since we're having to have a war i'm { glad we } / <B> [ oh ] / <A> went over there and had a war not that they come over here / <B> uh-huh / <A> and uh i i wouldn't want a war here in the united states / <B> ooh / <A> and i think mr bush done an excellent job for if we didn't know where to what to expect m most people i don't think and my little bit of knowledge i don't believe we've ever fought a war over there in that part of the country / <B> okay / <A> in all that sand and all that stuff / <B> no / <A> it it was new to us and { i } / <B> [ mhm ] / <A> think they've done a great job and i still think they're doing a great job we've still got a lot of people over there / <B> yeah / <A> and uh of course i have a flag flying right here in my front yard i'm very very patriotic type person / <B> uh-huh / <A> and uh it makes me mad when i see people downgrade the united states and say that we're not doing right and / <B> mhm",
+    "context_text": "<A> was a bit i if we since we're having to have a war i'm { glad we } / <B> [ mhm ] / <A> went over there and had a war not that they come over here / <B> yeah / <A> and uh i i wouldn't want a war here in the united states / <B> yeah / <A> and i think mr bush done an excellent job for if we didn't know where to what to expect m most people i don't think and my little bit of knowledge i don't believe we've ever fought a war over there in that part of the country / <B> mhm / <A> in all that sand and all that stuff / <B> okay / <A> it it was new to us and { i } / <B> [ mhm ] / <A> think they've done a great job and i still think they're doing a great job we've still got a lot of people over there / <B> mhm / <A> and uh of course i have a flag flying right here in my front yard i'm very very patriotic type person / <B> right / <A> and uh it makes me mad when i see people downgrade the united states and say that we're not doing right and / <B> really",
     "context_start": 68.69,
-    "context_end": 117.619125,
+    "context_end": 117.8095,
     "feedback": [
         {
-            "name": "Sy_013_oh",
+            "name": "spontF_311_mhm",
             "start": 73.02,
-            "end": 74.235,
-            "token": "oh"
-        },
-        {
-            "name": "spontC_186_uh-huh",
-            "start": 76.14,
-            "end": 76.61525,
-            "token": "uh-huh"
-        },
-        {
-            "name": "PS_016_ooh",
-            "start": 79.3,
-            "end": 80.5565,
-            "token": "ooh"
-        },
-        {
-            "name": "spontD_410_okay",
-            "start": 91.75,
-            "end": 92.17375,
-            "token": "okay"
-        },
-        {
-            "name": "NR_002_no",
-            "start": 94.04,
-            "end": 94.80912500000001,
-            "token": "no"
-        },
-        {
-            "name": "sun1_004_mhm",
-            "start": 96.58,
-            "end": 97.23,
+            "end": 73.520125,
             "token": "mhm"
         },
         {
-            "name": "PR_055_yeah",
-            "start": 100.98,
-            "end": 101.673125,
+            "name": "spontA_287_yeah",
+            "start": 76.14,
+            "end": 76.97575,
             "token": "yeah"
         },
         {
-            "name": "spontA_115_uh-huh",
-            "start": 108.52,
-            "end": 109.017125,
-            "token": "uh-huh"
+            "name": "spontB_051_yeah",
+            "start": 79.3,
+            "end": 79.791375,
+            "token": "yeah"
         },
         {
-            "name": "spontB_154_mhm",
-            "start": 117.02,
-            "end": 117.619125,
+            "name": "spontC_392_mhm",
+            "start": 91.75,
+            "end": 92.373375,
             "token": "mhm"
+        },
+        {
+            "name": "spontE_152_okay",
+            "start": 94.04,
+            "end": 94.66725000000001,
+            "token": "okay"
+        },
+        {
+            "name": "sun1_003_mhm",
+            "start": 96.58,
+            "end": 97.401,
+            "token": "mhm"
+        },
+        {
+            "name": "spontB_225_mhm",
+            "start": 100.98,
+            "end": 101.520375,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_360_right",
+            "start": 108.52,
+            "end": 109.09887499999999,
+            "token": "right"
+        },
+        {
+            "name": "PS_019_really",
+            "start": 117.02,
+            "end": 117.8095,
+            "token": "really"
         }
     ]
 }

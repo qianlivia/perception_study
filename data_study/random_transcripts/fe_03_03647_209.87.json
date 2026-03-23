@@ -1,51 +1,51 @@
 {
     "name": "fe_03_03647",
     "context_channel": 1,
-    "context_text": "<A> exactly you you know what a and another thing that's funny is check it out like um i say it was about a year and a half ago i got laid off of a with dell communications company right / <B> no / <A> and i i was probably making close to thirty five a year / <B> mhm / <A> that comes out probably to maybe about sixteen dollars an hour or more / <B> oh / <A> and um when i got laid off i got on unemployment and i was / <B> yeah / <A> getting i was getting about three hundred a week / <B> wow / <A> which which averages out to more than minimum wage / <B> yeah / <A> so my incentive to to look for something that would pay me more was was like you know really great you know what i'm saying it's like i felt like if if unemployment was paying me more than i could make in minimum wage { i was wasting } / <B> [ yeah ]",
+    "context_text": "<A> exactly you you know what a and another thing that's funny is check it out like um i say it was about a year and a half ago i got laid off of a with dell communications company right / <B> right / <A> and i i was probably making close to thirty five a year / <B> mhm / <A> that comes out probably to maybe about sixteen dollars an hour or more / <B> right / <A> and um when i got laid off i got on unemployment and i was / <B> right / <A> getting i was getting about three hundred a week / <B> mhm / <A> which which averages out to more than minimum wage / <B> mhm / <A> so my incentive to to look for something that would pay me more was was like you know really great you know what i'm saying it's like i felt like if if unemployment was paying me more than i could make in minimum wage { i was wasting } / <B> [ mhm ]",
     "context_start": 209.87,
-    "context_end": 259.34200000000004,
+    "context_end": 259.4345,
     "feedback": [
         {
-            "name": "NR_022_no",
+            "name": "PR_043_right",
             "start": 222.11,
-            "end": 223.277625,
-            "token": "no"
+            "end": 222.77,
+            "token": "right"
         },
         {
-            "name": "spontA_410_mhm",
+            "name": "PR_051_mhm",
             "start": 225.78,
-            "end": 226.27100000000002,
+            "end": 226.60275000000001,
             "token": "mhm"
         },
         {
-            "name": "Sy_012_oh",
+            "name": "sun_007_right",
             "start": 230.68,
-            "end": 231.90312500000002,
-            "token": "oh"
+            "end": 231.5695,
+            "token": "right"
         },
         {
-            "name": "spontC_307_yeah",
+            "name": "spontC_360_right",
             "start": 235.01,
-            "end": 235.597875,
-            "token": "yeah"
+            "end": 235.588875,
+            "token": "right"
         },
         {
-            "name": "PS_064_wow",
+            "name": "spontA_379_mhm",
             "start": 240.31,
-            "end": 241.197875,
-            "token": "wow"
+            "end": 240.827875,
+            "token": "mhm"
         },
         {
-            "name": "spontE_269_yeah",
+            "name": "spontA_239_mhm",
             "start": 245.88,
-            "end": 246.674125,
-            "token": "yeah"
+            "end": 246.392375,
+            "token": "mhm"
         },
         {
-            "name": "spontA_356_yeah",
+            "name": "spontA_200_mhm",
             "start": 258.86,
-            "end": 259.34200000000004,
-            "token": "yeah"
+            "end": 259.4345,
+            "token": "mhm"
         }
     ]
 }

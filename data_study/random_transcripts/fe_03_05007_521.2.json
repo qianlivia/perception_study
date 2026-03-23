@@ -1,51 +1,51 @@
 {
     "name": "fe_03_05007",
     "context_channel": 1,
-    "context_text": "<A> that's that's b that's a big thing uh it's it's the common denominator is where do we stand in this this war against terrorism / <B> mhm / <A> and how is it gonna affect everybody i mean what they don't realize is is that um by not uniting number one canada's getting poor / <B> ah / <A> but the public relations of these states is getting worse / <B> uh-huh / <A> i'm i'm petrified to go in any other country you know i'm like { well } / <B> [ oh ] / <A> i'm am american and i'm like / <B> ooh / <A> like number one i never go to france it's just if anything just say you're canadian and you'll be fine / <B> yeah / <A> it's and actually it is a g it is a valid point but um i don't know i just um i don't know i just uh i i see so many i see i i see so many young people who are who have the right track but they're not voicing their opinions { i mean } / <B> [ yeah ]",
+    "context_text": "<A> that's that's b that's a big thing uh it's it's the common denominator is where do we stand in this this war against terrorism / <B> right / <A> and how is it gonna affect everybody i mean what they don't realize is is that um by not uniting number one canada's getting poor / <B> mhm / <A> but the public relations of these states is getting worse / <B> mhm / <A> i'm i'm petrified to go in any other country you know i'm like { well } / <B> [ okay ] / <A> i'm am american and i'm like / <B> right / <A> like number one i never go to france it's just if anything just say you're canadian and you'll be fine / <B> mhm / <A> it's and actually it is a g it is a valid point but um i don't know i just um i don't know i just uh i i see so many i see i i see so many young people who are who have the right track but they're not voicing their opinions { i mean } / <B> [ uh-huh ]",
     "context_start": 521.2,
-    "context_end": 567.93575,
+    "context_end": 567.8164999999999,
     "feedback": [
         {
-            "name": "spontA_285_mhm",
+            "name": "sun1_030_right",
             "start": 528.4,
-            "end": 528.9454999999999,
+            "end": 529.193625,
+            "token": "right"
+        },
+        {
+            "name": "spontC_387_mhm",
+            "start": 537.56,
+            "end": 538.165,
             "token": "mhm"
         },
         {
-            "name": "spontF_040_ah",
-            "start": 537.56,
-            "end": 538.5616249999999,
-            "token": "ah"
-        },
-        {
-            "name": "spontC_303_uh-huh",
+            "name": "spontE_271_mhm",
             "start": 541.44,
-            "end": 541.969375,
-            "token": "uh-huh"
+            "end": 542.037,
+            "token": "mhm"
         },
         {
-            "name": "PS_001_oh",
+            "name": "spontB_028_okay",
             "start": 544.81,
-            "end": 545.89175,
-            "token": "oh"
+            "end": 545.24325,
+            "token": "okay"
         },
         {
-            "name": "spontA_102_ooh",
+            "name": "PR_048_right",
             "start": 548.08,
-            "end": 548.648375,
-            "token": "ooh"
+            "end": 548.7151250000001,
+            "token": "right"
         },
         {
-            "name": "spontE_067_yeah",
+            "name": "spontC_348_mhm",
             "start": 554.55,
-            "end": 555.144875,
-            "token": "yeah"
+            "end": 555.14,
+            "token": "mhm"
         },
         {
-            "name": "spontE_252_yeah",
+            "name": "spontA_315_uh-huh",
             "start": 567.3,
-            "end": 567.93575,
-            "token": "yeah"
+            "end": 567.8164999999999,
+            "token": "uh-huh"
         }
     ]
 }

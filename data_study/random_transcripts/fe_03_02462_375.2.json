@@ -1,45 +1,45 @@
 {
     "name": "fe_03_02462",
     "context_channel": 1,
-    "context_text": "<A> [ and then ] it's also you know what it is it's easier sometimes when i watch tv { because } / <B> [ ooh ] / <A> if i want to watch like a movie / <B> mhm / <A> or something like this if i like kind of like like start watching it after it's been been on for like { half } / <B> [ yeah ] / <A> an hour or so { it's } / <B> [ okay ] / <A> kind of hard for me to get into it plus i really have to watch closely / <B> wow / <A> to um you know to be able to follow the movie / <B> uh-huh",
+    "context_text": "<A> [ and then ] it's also you know what it is it's easier sometimes when i watch tv { because } / <B> [ right ] / <A> if i want to watch like a movie / <B> yeah / <A> or something like this if i like kind of like like start watching it after it's been been on for like { half } / <B> [ yeah ] / <A> an hour or so { it's } / <B> [ okay ] / <A> kind of hard for me to get into it plus i really have to watch closely / <B> mhm / <A> to um you know to be able to follow the movie / <B> wow",
     "context_start": 375.2,
-    "context_end": 400.44325,
+    "context_end": 400.737,
     "feedback": [
         {
-            "name": "NegS_045_ooh",
+            "name": "sun1_029_right",
             "start": 380.27,
-            "end": 381.443,
-            "token": "ooh"
+            "end": 380.962,
+            "token": "right"
         },
         {
-            "name": "spontA_358_mhm",
+            "name": "spontD_184_yeah",
             "start": 382.55,
-            "end": 383.048625,
-            "token": "mhm"
-        },
-        {
-            "name": "spontE_121_yeah",
-            "start": 389.23,
-            "end": 389.982375,
+            "end": 383.16775,
             "token": "yeah"
         },
         {
-            "name": "spontD_033_okay",
+            "name": "spontD_270_yeah",
+            "start": 389.23,
+            "end": 389.90200000000004,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_511_okay",
             "start": 390.7,
-            "end": 391.396625,
+            "end": 391.210875,
             "token": "okay"
         },
         {
-            "name": "PS_192_wow",
+            "name": "spontA_410_mhm",
             "start": 395.7,
-            "end": 396.359875,
-            "token": "wow"
+            "end": 396.191,
+            "token": "mhm"
         },
         {
-            "name": "sun1_034_uh-huh",
+            "name": "NegS_044_wow",
             "start": 399.63,
-            "end": 400.44325,
-            "token": "uh-huh"
+            "end": 400.737,
+            "token": "wow"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01819",
     "context_channel": 1,
-    "context_text": "<A> and they weren't afraid of it at all i mean and it was just simple things you know it had pictures you { know } / <B> [ yeah ] / <A> and if something that matches it you know matching colors matching um shapes / <B> wow / <A> letters uh they they can start very early my / <B> mhm / <A> my two year old uh granddaughter um she's helped her parents use it so i'm sure she's not going to be afraid of it at three / <B> uh-huh",
+    "context_text": "<A> and they weren't afraid of it at all i mean and it was just simple things you know it had pictures you { know } / <B> [ yeah ] / <A> and if something that matches it you know matching colors matching um shapes / <B> yeah / <A> letters uh they they can start very early my / <B> right / <A> my two year old uh granddaughter um she's helped her parents use it so i'm sure she's not going to be afraid of it at three / <B> mhm",
     "context_start": 460.45,
-    "context_end": 483.129125,
+    "context_end": 483.04862499999996,
     "feedback": [
         {
-            "name": "spontB_327_yeah",
+            "name": "spontB_026_yeah",
             "start": 465.59,
-            "end": 466.44525,
+            "end": 466.17949999999996,
             "token": "yeah"
         },
         {
-            "name": "PS_172_wow",
+            "name": "spontA_155_yeah",
             "start": 471.47,
-            "end": 473.21450000000004,
-            "token": "wow"
+            "end": 471.995375,
+            "token": "yeah"
         },
         {
-            "name": "spontC_387_mhm",
+            "name": "sun1_033_right",
             "start": 474.3,
-            "end": 474.90500000000003,
-            "token": "mhm"
+            "end": 475.153125,
+            "token": "right"
         },
         {
-            "name": "spontC_132_uh-huh",
+            "name": "spontF_312_mhm",
             "start": 482.53,
-            "end": 483.129125,
-            "token": "uh-huh"
+            "end": 483.04862499999996,
+            "token": "mhm"
         }
     ]
 }

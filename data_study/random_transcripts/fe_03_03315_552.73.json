@@ -1,39 +1,39 @@
 {
     "name": "fe_03_03315",
     "context_channel": 1,
-    "context_text": "<A> yeah i i mean we don't know what's a scam or what's not and { that } / <B> [ ah ] / <A> that's the problem i got a company i'm working global work solutions you know and you place ads around the internet / <B> yeah / <A> you know and if people click on your ad and people sign up to do the same thing you're doing or { buy } / <B> [ yeah ] / <A> the product then you get the commission i've started this about almost two weeks ago / <B> no / <A> i have not got any click ons you know / <B> okay",
+    "context_text": "<A> yeah i i mean we don't know what's a scam or what's not and { that } / <B> [ wow ] / <A> that's the problem i got a company i'm working global work solutions you know and you place ads around the internet / <B> okay / <A> you know and if people click on your ad and people sign up to do the same thing you're doing or { buy } / <B> [ oh ] / <A> the product then you get the commission i've started this about almost two weeks ago / <B> exactly / <A> i have not got any click ons you know / <B> mhm",
     "context_start": 552.73,
-    "context_end": 581.861,
+    "context_end": 581.8997499999999,
     "feedback": [
         {
-            "name": "NS_056_ah",
+            "name": "PS_063_wow",
             "start": 556.62,
-            "end": 557.595,
-            "token": "ah"
+            "end": 558.00675,
+            "token": "wow"
         },
         {
-            "name": "spontC_192_yeah",
+            "name": "spontE_405_okay",
             "start": 564.52,
-            "end": 564.9717499999999,
-            "token": "yeah"
-        },
-        {
-            "name": "spontE_125_yeah",
-            "start": 571.07,
-            "end": 571.8452500000001,
-            "token": "yeah"
-        },
-        {
-            "name": "NR_036_no",
-            "start": 577.15,
-            "end": 577.839375,
-            "token": "no"
-        },
-        {
-            "name": "spontB_120_okay",
-            "start": 581.16,
-            "end": 581.861,
+            "end": 565.194375,
             "token": "okay"
+        },
+        {
+            "name": "spontE_285_oh",
+            "start": 571.07,
+            "end": 571.6651250000001,
+            "token": "oh"
+        },
+        {
+            "name": "sun_015_exactly",
+            "start": 577.15,
+            "end": 578.25175,
+            "token": "exactly"
+        },
+        {
+            "name": "spontA_344_mhm",
+            "start": 581.16,
+            "end": 581.8997499999999,
+            "token": "mhm"
         }
     ]
 }

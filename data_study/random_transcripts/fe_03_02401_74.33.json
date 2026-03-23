@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02401",
     "context_channel": 1,
-    "context_text": "<A> um well i was going to say alcohol but i get your point now because if someone's drinking yes they're ruining their own life and of course they're ruining the lives of their friends and families but not well i guess it is directly but it's not { the } / <B> [ yeah ] / <A> same as smoking um oh i don't know between those two { i } / <B> [ oh ] / <A> mean none of these things are great / <B> okay / <A> um i would say still stick with the alcohol i don't know pr it probably is smoking though { why } / <B> [ okay ]",
+    "context_text": "<A> um well i was going to say alcohol but i get your point now because if someone's drinking yes they're ruining their own life and of course they're ruining the lives of their friends and families but not well i guess it is directly but it's not { the } / <B> [ okay ] / <A> same as smoking um oh i don't know between those two { i } / <B> [ yeah ] / <A> mean none of these things are great / <B> mhm / <A> um i would say still stick with the alcohol i don't know pr it probably is smoking though { why } / <B> [ right ]",
     "context_start": 74.33,
-    "context_end": 101.721375,
+    "context_end": 101.843625,
     "feedback": [
         {
-            "name": "spontB_379_yeah",
+            "name": "spontE_158_okay",
             "start": 86.99,
-            "end": 87.49387499999999,
+            "end": 87.609,
+            "token": "okay"
+        },
+        {
+            "name": "spontA_392_yeah",
+            "start": 91.63,
+            "end": 92.393625,
             "token": "yeah"
         },
         {
-            "name": "Sy_010_oh",
-            "start": 91.63,
-            "end": 92.94262499999999,
-            "token": "oh"
-        },
-        {
-            "name": "spontC_134_okay",
+            "name": "spontC_184_mhm",
             "start": 93.98,
-            "end": 94.787125,
-            "token": "okay"
+            "end": 94.5565,
+            "token": "mhm"
         },
         {
-            "name": "spontD_383_okay",
+            "name": "sun1_030_right",
             "start": 101.05,
-            "end": 101.721375,
-            "token": "okay"
+            "end": 101.843625,
+            "token": "right"
         }
     ]
 }

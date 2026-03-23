@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05223",
     "context_channel": 0,
-    "context_text": "<B> it's not a daily thing / <A> yeah / <B> but ah every so often it ah you're i'm about to come down with something and i'll be like okay let me ah let me start let me start ah taking that and it seems to work / <A> yeah / <B> it seems to work um but the o but ah yeah the the fact is is that ah the north east really like i know i was in washington yesterday and ah and um it was beautiful out there / <A> mhm / <B> and i was just walking around in the heat and then ah you walk into an air conditioned room and so it's / <A> no",
+    "context_text": "<B> it's not a daily thing / <A> okay / <B> but ah every so often it ah you're i'm about to come down with something and i'll be like okay let me ah let me start let me start ah taking that and it seems to work / <A> yeah / <B> it seems to work um but the o but ah yeah the the fact is is that ah the north east really like i know i was in washington yesterday and ah and um it was beautiful out there / <A> mhm / <B> and i was just walking around in the heat and then ah you walk into an air conditioned room and so it's / <A> right",
     "context_start": 300.29,
-    "context_end": 334.795125,
+    "context_end": 334.345125,
     "feedback": [
         {
-            "name": "spontB_037_yeah",
+            "name": "spontE_405_okay",
             "start": 301.24,
-            "end": 301.9465,
-            "token": "yeah"
+            "end": 301.914375,
+            "token": "okay"
         },
         {
-            "name": "spontC_063_yeah",
+            "name": "spontB_276_yeah",
             "start": 313.42,
-            "end": 313.934,
+            "end": 313.731875,
             "token": "yeah"
         },
         {
-            "name": "spontD_133_mhm",
+            "name": "spontE_154_mhm",
             "start": 326.92,
-            "end": 327.56025,
+            "end": 327.52000000000004,
             "token": "mhm"
         },
         {
-            "name": "sun_033_no",
+            "name": "PR_048_right",
             "start": 333.71,
-            "end": 334.795125,
-            "token": "no"
+            "end": 334.345125,
+            "token": "right"
         }
     ]
 }

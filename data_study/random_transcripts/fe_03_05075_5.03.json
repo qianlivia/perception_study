@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05075",
     "context_channel": 1,
-    "context_text": "<A> just a minute joe so uh yeah i guess we're supposed to talk about uh they like to talk about nine eleven / <B> oh / <A> indirectly of course on this / <B> uh-huh / <A> thing / <B> uh-huh / <A> because it just seems like uh this is like the third this is the third time of doing it and uh each time they think they uh they're talking about uh uh some kind of terrorist events / <B> yeah",
+    "context_text": "<A> just a minute joe so uh yeah i guess we're supposed to talk about uh they like to talk about nine eleven / <B> right / <A> indirectly of course on this / <B> yeah / <A> thing / <B> mhm / <A> because it just seems like uh this is like the third this is the third time of doing it and uh each time they think they uh they're talking about uh uh some kind of terrorist events / <B> uh-huh",
     "context_start": 5.03,
-    "context_end": 30.872,
+    "context_end": 30.777250000000002,
     "feedback": [
         {
-            "name": "spontE_295_oh",
+            "name": "PR_043_right",
             "start": 13.27,
-            "end": 14.014125,
-            "token": "oh"
+            "end": 13.93,
+            "token": "right"
         },
         {
-            "name": "spontC_013_uh-huh",
+            "name": "spontD_338_yeah",
             "start": 15.22,
-            "end": 15.714875000000001,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontE_173_uh-huh",
-            "start": 16.8,
-            "end": 17.4085,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontF_595_yeah",
-            "start": 30.26,
-            "end": 30.872,
+            "end": 15.875375,
             "token": "yeah"
+        },
+        {
+            "name": "spontC_499_mhm",
+            "start": 16.8,
+            "end": 17.541875,
+            "token": "mhm"
+        },
+        {
+            "name": "spontD_034_uh-huh",
+            "start": 30.26,
+            "end": 30.777250000000002,
+            "token": "uh-huh"
         }
     ]
 }

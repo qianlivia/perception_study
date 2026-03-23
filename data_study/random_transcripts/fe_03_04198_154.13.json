@@ -1,39 +1,39 @@
 {
     "name": "fe_03_04198",
     "context_channel": 1,
-    "context_text": "<A> i my plan actually is to i've been looking into a certain building here in town and / <B> wow / <A> um if i get it i think i'm gonna buy it straight out / <B> yeah / <A> it would be better i i find it would be better instead of going through a loan company / <B> no / <A> buy it straight out and set it up the way i want it / <B> yes / <A> and get it completely um what's the word i'm looking for um get it completely done the way i want it / <B> oh",
+    "context_text": "<A> i my plan actually is to i've been looking into a certain building here in town and / <B> right / <A> um if i get it i think i'm gonna buy it straight out / <B> yeah / <A> it would be better i i find it would be better instead of going through a loan company / <B> yeah / <A> buy it straight out and set it up the way i want it / <B> right / <A> and get it completely um what's the word i'm looking for um get it completely done the way i want it / <B> yeah",
     "context_start": 154.13,
-    "context_end": 185.88375000000002,
+    "context_end": 185.9345,
     "feedback": [
         {
-            "name": "PS_113_wow",
+            "name": "sun_028_right",
             "start": 161.78,
-            "end": 162.808625,
-            "token": "wow"
+            "end": 162.509375,
+            "token": "right"
         },
         {
-            "name": "spontD_250_yeah",
+            "name": "PR_052_yeah",
             "start": 165.34,
-            "end": 165.755875,
+            "end": 166.190875,
             "token": "yeah"
         },
         {
-            "name": "NR_039_no",
+            "name": "spontB_309_yeah",
             "start": 170.29,
-            "end": 170.919875,
-            "token": "no"
+            "end": 171.255375,
+            "token": "yeah"
         },
         {
-            "name": "PR_006_yes",
+            "name": "sun1_033_right",
             "start": 174.72,
-            "end": 176.191625,
-            "token": "yes"
+            "end": 175.573125,
+            "token": "right"
         },
         {
-            "name": "PS_194_oh",
+            "name": "spontE_161_yeah",
             "start": 185.08,
-            "end": 185.88375000000002,
-            "token": "oh"
+            "end": 185.9345,
+            "token": "yeah"
         }
     ]
 }

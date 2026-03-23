@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02270",
     "context_channel": 1,
-    "context_text": "<A> so the seasons people get ill when the seasons change is the topic right / <B> no / <A> um i don't know i'm i'm from i grew up in new york and ah so it's a pretty drastic change of seasons up there / <B> no / <A> and so like ah you know during during the winter usually when the winter season would hit um remember it as summer / <B> yeah / <A> lotta people would get sick they say the average person gets sick once a year maybe twice a year i don't know / <B> yeah",
+    "context_text": "<A> so the seasons people get ill when the seasons change is the topic right / <B> uh-huh / <A> um i don't know i'm i'm from i grew up in new york and ah so it's a pretty drastic change of seasons up there / <B> exactly / <A> and so like ah you know during during the winter usually when the winter season would hit um remember it as summer / <B> right / <A> lotta people would get sick they say the average person gets sick once a year maybe twice a year i don't know / <B> really",
     "context_start": 28.63,
-    "context_end": 58.568125,
+    "context_end": 58.8865,
     "feedback": [
         {
-            "name": "NR_109_no",
+            "name": "spontA_086_uh-huh",
             "start": 33.46,
-            "end": 34.2445,
-            "token": "no"
+            "end": 33.970125,
+            "token": "uh-huh"
         },
         {
-            "name": "spontB_093_no",
+            "name": "sun_029_exactly",
             "start": 43.15,
-            "end": 44.061,
-            "token": "no"
+            "end": 44.290375,
+            "token": "exactly"
         },
         {
-            "name": "spontE_245_yeah",
+            "name": "sun_028_right",
             "start": 52.13,
-            "end": 52.950875,
-            "token": "yeah"
+            "end": 52.859375,
+            "token": "right"
         },
         {
-            "name": "spontA_387_yeah",
+            "name": "NS_002_really",
             "start": 58.03,
-            "end": 58.568125,
-            "token": "yeah"
+            "end": 58.8865,
+            "token": "really"
         }
     ]
 }

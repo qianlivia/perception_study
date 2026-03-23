@@ -1,45 +1,45 @@
 {
     "name": "fe_03_04520",
     "context_channel": 0,
-    "context_text": "<B> right or ah the ah there's just the procedures of you know not just allotting everybody { so much } / <A> [ oh ] / <B> money to spend you know it's { like giving } / <A> [ mhm ] / <B> them an allowance and then if they { don't } / <A> [ mhm ] / <B> spend it then the next year they get less / <A> yeah / <B> they figure they don't need as much but you know the needs change from time to time especially in the music department / <A> uh-huh / <B> because one year you may not need any instruments { the next year } / <A> [ yeah ]",
+    "context_text": "<B> right or ah the ah there's just the procedures of you know not just allotting everybody { so much } / <A> [ right ] / <B> money to spend you know it's { like giving } / <A> [ right ] / <B> them an allowance and then if they { don't } / <A> [ uh-huh ] / <B> spend it then the next year they get less / <A> exactly / <B> they figure they don't need as much but you know the needs change from time to time especially in the music department / <A> exactly / <B> because one year you may not need any instruments { the next year } / <A> [ right ]",
     "context_start": 387.95,
-    "context_end": 410.814,
+    "context_end": 410.942,
     "feedback": [
         {
-            "name": "NegS_042_oh",
+            "name": "PR_048_right",
             "start": 393.73,
-            "end": 394.9305,
-            "token": "oh"
+            "end": 394.36512500000003,
+            "token": "right"
         },
         {
-            "name": "sun1_002_mhm",
+            "name": "sun_013_right",
             "start": 396.26,
-            "end": 397.049875,
-            "token": "mhm"
+            "end": 397.13349999999997,
+            "token": "right"
         },
         {
-            "name": "spontC_311_mhm",
+            "name": "spontD_380_uh-huh",
             "start": 397.97,
-            "end": 398.49512500000003,
-            "token": "mhm"
-        },
-        {
-            "name": "spontE_023_yeah",
-            "start": 400.86,
-            "end": 401.395625,
-            "token": "yeah"
-        },
-        {
-            "name": "spontC_191_uh-huh",
-            "start": 407.06,
-            "end": 407.538125,
+            "end": 398.486125,
             "token": "uh-huh"
         },
         {
-            "name": "spontE_047_yeah",
+            "name": "sun_042_exactly",
+            "start": 400.86,
+            "end": 401.81725,
+            "token": "exactly"
+        },
+        {
+            "name": "sun_038_exactly",
+            "start": 407.06,
+            "end": 408.1455,
+            "token": "exactly"
+        },
+        {
+            "name": "sun1_029_right",
             "start": 410.25,
-            "end": 410.814,
-            "token": "yeah"
+            "end": 410.942,
+            "token": "right"
         }
     ]
 }

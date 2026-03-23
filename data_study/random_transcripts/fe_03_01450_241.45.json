@@ -1,27 +1,27 @@
 {
     "name": "fe_03_01450",
     "context_channel": 0,
-    "context_text": "<B> and and poison crops or or harm / <A> yeah / <B> the the cattle that and nobody would know until it goes to market / <A> mhm / <B> and and they wouldn't even be tested for you know so many things / <A> yeah",
+    "context_text": "<B> and and poison crops or or harm / <A> right / <B> the the cattle that and nobody would know until it goes to market / <A> yeah / <B> and and they wouldn't even be tested for you know so many things / <A> right",
     "context_start": 241.45,
-    "context_end": 253.32325,
+    "context_end": 253.30937500000002,
     "feedback": [
         {
-            "name": "spontF_295_yeah",
+            "name": "sun1_030_right",
             "start": 243.77,
-            "end": 244.288375,
-            "token": "yeah"
+            "end": 244.563625,
+            "token": "right"
         },
         {
-            "name": "spontE_294_mhm",
+            "name": "spontF_299_yeah",
             "start": 248.24,
-            "end": 248.83812500000002,
-            "token": "mhm"
+            "end": 248.763125,
+            "token": "yeah"
         },
         {
-            "name": "spontC_205_yeah",
+            "name": "sun_028_right",
             "start": 252.58,
-            "end": 253.32325,
-            "token": "yeah"
+            "end": 253.30937500000002,
+            "token": "right"
         }
     ]
 }

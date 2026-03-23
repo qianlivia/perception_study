@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02322",
     "context_channel": 1,
-    "context_text": "<A> do you know it's it's you know it's in the well i took my son too and he was allergic to flour and all this stuff but i don't think it really has that much difference i think it's the season when it's all that you know the pollen in the air { it will } / <B> [ wow ] / <A> just trigger off same symptoms like if you have a cold { you're } / <B> [ yeah ] / <A> sneezing and you're coughing you're having difficulty breathing / <B> yeah / <A> then the flour comes into part but the winter is better { for } / <B> [ oh ]",
+    "context_text": "<A> do you know it's it's you know it's in the well i took my son too and he was allergic to flour and all this stuff but i don't think it really has that much difference i think it's the season when it's all that you know the pollen in the air { it will } / <B> [ uh-huh ] / <A> just trigger off same symptoms like if you have a cold { you're } / <B> [ yeah ] / <A> sneezing and you're coughing you're having difficulty breathing / <B> okay / <A> then the flour comes into part but the winter is better { for } / <B> [ yeah ]",
     "context_start": 347.63,
-    "context_end": 375.524875,
+    "context_end": 375.749,
     "feedback": [
         {
-            "name": "PS_172_wow",
+            "name": "spontF_075_uh-huh",
             "start": 361.78,
-            "end": 363.5245,
-            "token": "wow"
+            "end": 362.49787499999996,
+            "token": "uh-huh"
         },
         {
-            "name": "spontA_320_yeah",
+            "name": "spontC_062_yeah",
             "start": 364.99,
-            "end": 365.672375,
+            "end": 365.71475,
             "token": "yeah"
         },
         {
-            "name": "spontC_504_yeah",
+            "name": "spontF_053_okay",
             "start": 369.22,
-            "end": 369.707375,
-            "token": "yeah"
+            "end": 370.04825000000005,
+            "token": "okay"
         },
         {
-            "name": "spontC_248_oh",
+            "name": "spontA_332_yeah",
             "start": 374.88,
-            "end": 375.524875,
-            "token": "oh"
+            "end": 375.749,
+            "token": "yeah"
         }
     ]
 }

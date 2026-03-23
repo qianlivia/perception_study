@@ -1,27 +1,27 @@
 {
     "name": "fe_03_01653",
     "context_channel": 0,
-    "context_text": "<B> agree with you i think i i think we did that's what happened they { pulled out } / <A> [ oh ] / <B> too soon and i think they should stay this time / <A> yeah / <B> although the people seem to be against us now at first they were all for us / <A> yeah",
+    "context_text": "<B> agree with you i think i i think we did that's what happened they { pulled out } / <A> [ right ] / <B> too soon and i think they should stay this time / <A> mhm / <B> although the people seem to be against us now at first they were all for us / <A> okay",
     "context_start": 66.88,
-    "context_end": 78.67675,
+    "context_end": 78.613125,
     "feedback": [
         {
-            "name": "Sy_008_oh",
+            "name": "sun1_031_right",
             "start": 70.36,
-            "end": 71.621,
-            "token": "oh"
+            "end": 71.15425,
+            "token": "right"
         },
         {
-            "name": "spontF_641_yeah",
+            "name": "spontA_407_mhm",
             "start": 73.07,
-            "end": 73.62737499999999,
-            "token": "yeah"
+            "end": 73.59062499999999,
+            "token": "mhm"
         },
         {
-            "name": "spontE_119_yeah",
+            "name": "spontB_019_okay",
             "start": 77.92,
-            "end": 78.67675,
-            "token": "yeah"
+            "end": 78.613125,
+            "token": "okay"
         }
     ]
 }

@@ -1,39 +1,39 @@
 {
     "name": "fe_03_04447",
     "context_channel": 1,
-    "context_text": "<A> so the medical field { uh } / <B> [ wow ] / <A> for women / <B> sure / <A> is is a tremendous tremendous field in opportunity / <B> mhm / <A> and and it's basic i have a son that has special needs / <B> uh-huh / <A> and so one of us had had to be around twenty four seven { and and it } / <B> [ yeah ]",
+    "context_text": "<A> so the medical field { uh } / <B> [ really ] / <A> for women / <B> right / <A> is is a tremendous tremendous field in opportunity / <B> yeah / <A> and and it's basic i have a son that has special needs / <B> oh / <A> and so one of us had had to be around twenty four seven { and and it } / <B> [ mhm ]",
     "context_start": 540.58,
-    "context_end": 554.460875,
+    "context_end": 554.161125,
     "feedback": [
         {
-            "name": "PS_062_wow",
+            "name": "PS_002_really",
             "start": 541.88,
-            "end": 542.800375,
-            "token": "wow"
+            "end": 542.672875,
+            "token": "really"
         },
         {
-            "name": "sun_052_sure",
+            "name": "sun1_031_right",
             "start": 543.53,
-            "end": 544.38775,
-            "token": "sure"
+            "end": 544.32425,
+            "token": "right"
         },
         {
-            "name": "sun1_001_mhm",
+            "name": "spontC_138_yeah",
             "start": 546.64,
-            "end": 547.51825,
-            "token": "mhm"
-        },
-        {
-            "name": "spontA_158_uh-huh",
-            "start": 549.66,
-            "end": 550.182375,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontB_150_yeah",
-            "start": 553.61,
-            "end": 554.460875,
+            "end": 547.137375,
             "token": "yeah"
+        },
+        {
+            "name": "spontF_465_oh",
+            "start": 549.66,
+            "end": 550.327625,
+            "token": "oh"
+        },
+        {
+            "name": "spontB_187_mhm",
+            "start": 553.61,
+            "end": 554.161125,
+            "token": "mhm"
         }
     ]
 }

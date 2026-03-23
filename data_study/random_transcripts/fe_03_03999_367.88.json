@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03999",
     "context_channel": 0,
-    "context_text": "<B> [ exactly exactly ] so that that that really made me give serious thought to / <A> yeah / <B> to that whole topic i was like if i could've just said that one thing yeah and that person wouldn't been in this situation from the beginning you know / <A> okay / <B> but still i mean the person is wrong for whatever they did wrong / <A> oh / <B> but if there's some kind of way that you can get them out of that situation and then get them help / <A> yeah",
+    "context_text": "<B> [ exactly exactly ] so that that that really made me give serious thought to / <A> right / <B> to that whole topic i was like if i could've just said that one thing yeah and that person wouldn't been in this situation from the beginning you know / <A> okay / <B> but still i mean the person is wrong for whatever they did wrong / <A> yeah / <B> but if there's some kind of way that you can get them out of that situation and then get them help / <A> okay",
     "context_start": 367.88,
-    "context_end": 394.164,
+    "context_end": 394.083875,
     "feedback": [
         {
-            "name": "spontA_441_yeah",
+            "name": "spontC_360_right",
             "start": 373.4,
-            "end": 373.83912499999997,
-            "token": "yeah"
+            "end": 373.97887499999996,
+            "token": "right"
         },
         {
-            "name": "spontB_028_okay",
+            "name": "spontD_033_okay",
             "start": 381.41,
-            "end": 381.84325,
+            "end": 382.106625,
             "token": "okay"
         },
         {
-            "name": "PS_032_oh",
+            "name": "spontD_230_yeah",
             "start": 387.79,
-            "end": 388.695875,
-            "token": "oh"
+            "end": 388.4155,
+            "token": "yeah"
         },
         {
-            "name": "spontB_275_yeah",
+            "name": "spontD_411_okay",
             "start": 393.62,
-            "end": 394.164,
-            "token": "yeah"
+            "end": 394.083875,
+            "token": "okay"
         }
     ]
 }

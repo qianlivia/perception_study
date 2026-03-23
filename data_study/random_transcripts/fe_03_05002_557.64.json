@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05002",
     "context_channel": 0,
-    "context_text": "<B> and then i got i got ball shy so / <A> no / <B> i wanna play again but i wanna say i i wasn't very good then so i doubt i got any better and having not played for another fifteen years / <A> no / <B> but it's always fun playing a sport too cause you stay active and / <A> ooh / <B> fun being part of a team / <A> mhm",
+    "context_text": "<B> and then i got i got ball shy so / <A> right / <B> i wanna play again but i wanna say i i wasn't very good then so i doubt i got any better and having not played for another fifteen years / <A> right / <B> but it's always fun playing a sport too cause you stay active and / <A> oh / <B> fun being part of a team / <A> okay",
     "context_start": 557.64,
-    "context_end": 576.998875,
+    "context_end": 576.963875,
     "feedback": [
         {
-            "name": "NR_039_no",
+            "name": "sun_013_right",
             "start": 559.86,
-            "end": 560.489875,
-            "token": "no"
+            "end": 560.7335,
+            "token": "right"
         },
         {
-            "name": "sun2_021_no",
+            "name": "sun1_030_right",
             "start": 567.99,
-            "end": 568.915625,
-            "token": "no"
+            "end": 568.783625,
+            "token": "right"
         },
         {
-            "name": "spontA_135_ooh",
+            "name": "PS_193_oh",
             "start": 573.53,
-            "end": 574.568,
-            "token": "ooh"
+            "end": 575.337125,
+            "token": "oh"
         },
         {
-            "name": "spontD_030_mhm",
+            "name": "spontD_411_okay",
             "start": 576.5,
-            "end": 576.998875,
-            "token": "mhm"
+            "end": 576.963875,
+            "token": "okay"
         }
     ]
 }

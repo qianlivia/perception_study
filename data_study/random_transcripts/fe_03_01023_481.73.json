@@ -1,39 +1,39 @@
 {
     "name": "fe_03_01023",
     "context_channel": 0,
-    "context_text": "<B> it's just more of a protection thing you don't want to go out and start wars on your own and not { have other } / <A> [ uh-huh ] / <B> countries backing you up { yeah i } / <A> [ uh-huh ] / <B> totally i totally agree { i mean i } / <A> [ yeah ] / <B> think of a couple of years ago when i wasn't a parent i may have thought differently but you { know i } / <A> [ no ] / <B> understand the war against terrorism but i don't understand going to war against the the um / <A> oh",
+    "context_text": "<B> it's just more of a protection thing you don't want to go out and start wars on your own and not { have other } / <A> [ mhm ] / <B> countries backing you up { yeah i } / <A> [ yeah ] / <B> totally i totally agree { i mean i } / <A> [ right ] / <B> think of a couple of years ago when i wasn't a parent i may have thought differently but you { know i } / <A> [ mhm ] / <B> understand the war against terrorism but i don't understand going to war against the the um / <A> mhm",
     "context_start": 481.73,
-    "context_end": 501.661,
+    "context_end": 500.94,
     "feedback": [
         {
-            "name": "spontF_309_uh-huh",
+            "name": "spontF_311_mhm",
             "start": 486.14,
-            "end": 486.677125,
-            "token": "uh-huh"
+            "end": 486.640125,
+            "token": "mhm"
         },
         {
-            "name": "spontE_070_uh-huh",
+            "name": "spontD_273_yeah",
             "start": 488.11,
-            "end": 488.58475,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontD_013_yeah",
-            "start": 490.31,
-            "end": 491.025,
+            "end": 488.78675000000004,
             "token": "yeah"
         },
         {
-            "name": "sun2_005_no",
-            "start": 494.89,
-            "end": 495.924625,
-            "token": "no"
+            "name": "spontC_360_right",
+            "start": 490.31,
+            "end": 490.888875,
+            "token": "right"
         },
         {
-            "name": "Sy_062_oh",
+            "name": "spontE_118_mhm",
+            "start": 494.89,
+            "end": 495.4805,
+            "token": "mhm"
+        },
+        {
+            "name": "spontE_154_mhm",
             "start": 500.34,
-            "end": 501.661,
-            "token": "oh"
+            "end": 500.94,
+            "token": "mhm"
         }
     ]
 }

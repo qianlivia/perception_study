@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05219",
     "context_channel": 1,
-    "context_text": "<A> yeah i think the cold wet weather kills off a lot of the problems that i have / <B> mhm / <A> ah you know like with the allergies but ah you know i've done pretty well with with the allergies i had to careful because benadryl and things like that / <B> uh-huh / <A> stops the urinary tract / <B> uh-huh / <A> ah and that's not good / <B> yeah",
+    "context_text": "<A> yeah i think the cold wet weather kills off a lot of the problems that i have / <B> wow / <A> ah you know like with the allergies but ah you know i've done pretty well with with the allergies i had to careful because benadryl and things like that / <B> right / <A> stops the urinary tract / <B> right / <A> ah and that's not good / <B> wow",
     "context_start": 566.8,
-    "context_end": 597.307125,
+    "context_end": 598.0995,
     "feedback": [
         {
-            "name": "spontE_122_mhm",
+            "name": "PS_094_wow",
             "start": 573.47,
-            "end": 574.191375,
-            "token": "mhm"
+            "end": 574.5045,
+            "token": "wow"
         },
         {
-            "name": "spontD_028_uh-huh",
+            "name": "sun1_031_right",
             "start": 590.7,
-            "end": 591.2075000000001,
-            "token": "uh-huh"
+            "end": 591.4942500000001,
+            "token": "right"
         },
         {
-            "name": "spontC_091_uh-huh",
+            "name": "sun_028_right",
             "start": 593.75,
-            "end": 594.2685,
-            "token": "uh-huh"
+            "end": 594.479375,
+            "token": "right"
         },
         {
-            "name": "spontB_023_yeah",
+            "name": "PS_118_wow",
             "start": 596.44,
-            "end": 597.307125,
-            "token": "yeah"
+            "end": 598.0995,
+            "token": "wow"
         }
     ]
 }

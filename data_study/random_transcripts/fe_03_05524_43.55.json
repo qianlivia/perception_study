@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05524",
     "context_channel": 1,
-    "context_text": "<A> and uh generally i walk on that probably five six days a week about thirty minutes a day / <B> uh-huh / <A> and then uh i just had rotator cuff surgery on my uh right shoulder / <B> mhm / <A> where i had a detached ligament and uh i've had to do a lot of arm exercises on that for about the last probably nine ten weeks / <B> right / <A> and uh other than that i just like to get out on the lake and fish and do you know basically uh yard work stuff like that / <B> wow",
+    "context_text": "<A> and uh generally i walk on that probably five six days a week about thirty minutes a day / <B> yeah / <A> and then uh i just had rotator cuff surgery on my uh right shoulder / <B> mhm / <A> where i had a detached ligament and uh i've had to do a lot of arm exercises on that for about the last probably nine ten weeks / <B> mhm / <A> and uh other than that i just like to get out on the lake and fish and do you know basically uh yard work stuff like that / <B> mhm",
     "context_start": 43.55,
-    "context_end": 77.996125,
+    "context_end": 77.53,
     "feedback": [
         {
-            "name": "spontD_146_uh-huh",
+            "name": "spontD_323_yeah",
             "start": 49.77,
-            "end": 50.289125000000006,
-            "token": "uh-huh"
+            "end": 50.575500000000005,
+            "token": "yeah"
         },
         {
-            "name": "spontA_390_mhm",
+            "name": "spontB_337_mhm",
             "start": 56.49,
-            "end": 57.262125000000005,
+            "end": 57.236250000000005,
             "token": "mhm"
         },
         {
-            "name": "sun1_030_right",
+            "name": "spontA_132_mhm",
             "start": 65.56,
-            "end": 66.35362500000001,
-            "token": "right"
+            "end": 66.140125,
+            "token": "mhm"
         },
         {
-            "name": "PS_165_wow",
+            "name": "sun1_005_mhm",
             "start": 76.76,
-            "end": 77.996125,
-            "token": "wow"
+            "end": 77.53,
+            "token": "mhm"
         }
     ]
 }

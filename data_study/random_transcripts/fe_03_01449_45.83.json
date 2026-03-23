@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01449",
     "context_channel": 0,
-    "context_text": "<B> my life isn't quite as hard as yours but um it really hit home for me i was actually / <A> yeah / <B> um i never watch the news ever { and i } / <A> [ oh ] / <B> happened to have the news on and saw the second han uh plane hit live / <A> mhm / <B> and that just totally freaked me out and um when i was a little kid my mom always said you know i know exactly what i was doing the day that jfk was shot / <A> wow",
+    "context_text": "<B> my life isn't quite as hard as yours but um it really hit home for me i was actually / <A> mhm / <B> um i never watch the news ever { and i } / <A> [ right ] / <B> happened to have the news on and saw the second han uh plane hit live / <A> wow / <B> and that just totally freaked me out and um when i was a little kid my mom always said you know i know exactly what i was doing the day that jfk was shot / <A> okay",
     "context_start": 45.83,
-    "context_end": 68.87450000000001,
+    "context_end": 68.47825,
     "feedback": [
         {
-            "name": "spontB_313_yeah",
+            "name": "spontC_314_mhm",
             "start": 50.12,
-            "end": 51.102875,
-            "token": "yeah"
-        },
-        {
-            "name": "PS_028_oh",
-            "start": 53.24,
-            "end": 55.000875,
-            "token": "oh"
-        },
-        {
-            "name": "PR_032_mhm",
-            "start": 57.9,
-            "end": 58.631375,
+            "end": 50.660875,
             "token": "mhm"
         },
         {
-            "name": "PS_149_wow",
-            "start": 67.65,
-            "end": 68.87450000000001,
+            "name": "PR_043_right",
+            "start": 53.24,
+            "end": 53.9,
+            "token": "right"
+        },
+        {
+            "name": "PS_114_wow",
+            "start": 57.9,
+            "end": 59.063874999999996,
             "token": "wow"
+        },
+        {
+            "name": "spontF_053_okay",
+            "start": 67.65,
+            "end": 68.47825,
+            "token": "okay"
         }
     ]
 }

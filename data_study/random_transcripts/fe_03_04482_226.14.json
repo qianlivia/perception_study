@@ -1,32 +1,32 @@
 {
     "name": "fe_03_04482",
     "context_channel": 0,
-    "context_text": "<B> um it's a it's named for a plan they take from our richer public schools / <A> wow / <B> um we actually give money to the poorer public schools / <A> yeah / <B> um within the area to kinda even everything out / <A> absolutely / <B> but that doesn't necessarily work either we've had / <A> yeah",
+    "context_text": "<B> um it's a it's named for a plan they take from our richer public schools / <A> really / <B> um we actually give money to the poorer public schools / <A> oh / <B> um within the area to kinda even everything out / <A> yeah / <B> but that doesn't necessarily work either we've had / <A> yeah",
     "context_start": 226.14,
-    "context_end": 241.75125,
+    "context_end": 241.726875,
     "feedback": [
         {
-            "name": "PS_176_wow",
+            "name": "PS_070_really",
             "start": 230.63,
-            "end": 231.6275,
-            "token": "wow"
+            "end": 231.318625,
+            "token": "really"
         },
         {
-            "name": "spontB_374_yeah",
+            "name": "spontF_292_oh",
             "start": 234.49,
-            "end": 235.175375,
+            "end": 235.37762500000002,
+            "token": "oh"
+        },
+        {
+            "name": "spontB_371_yeah",
+            "start": 237.88,
+            "end": 238.24824999999998,
             "token": "yeah"
         },
         {
-            "name": "sun_002_absolutely",
-            "start": 237.88,
-            "end": 238.9255,
-            "token": "absolutely"
-        },
-        {
-            "name": "spontF_287_yeah",
+            "name": "spontF_047_yeah",
             "start": 241.12,
-            "end": 241.75125,
+            "end": 241.726875,
             "token": "yeah"
         }
     ]

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02113",
     "context_channel": 0,
-    "context_text": "<B> well we go out to restaurants and we have our friends at the rest we go to hotels / <A> yes / <B> on trips in { the } / <A> [ okay ] / <B> city we don't go outside the city very much / <A> oh / <B> we stay in the city when we go to a hotel we stay there but we go back to those places and we have i guess friends there / <A> oh",
+    "context_text": "<B> well we go out to restaurants and we have our friends at the rest we go to hotels / <A> yeah / <B> on trips in { the } / <A> [ uh-huh ] / <B> city we don't go outside the city very much / <A> yeah / <B> we stay in the city when we go to a hotel we stay there but we go back to those places and we have i guess friends there / <A> yeah",
     "context_start": 367.55,
-    "context_end": 392.4375,
+    "context_end": 392.487125,
     "feedback": [
         {
-            "name": "sun1_025_yes",
+            "name": "spontB_136_yeah",
             "start": 374.19,
-            "end": 374.940625,
-            "token": "yes"
+            "end": 374.986875,
+            "token": "yeah"
         },
         {
-            "name": "spontE_391_okay",
+            "name": "spontF_058_uh-huh",
             "start": 376.82,
-            "end": 377.336875,
-            "token": "okay"
+            "end": 377.3305,
+            "token": "uh-huh"
         },
         {
-            "name": "NS_025_oh",
+            "name": "spontC_353_yeah",
             "start": 379.78,
-            "end": 380.76037499999995,
-            "token": "oh"
+            "end": 380.34999999999997,
+            "token": "yeah"
         },
         {
-            "name": "spontA_071_oh",
+            "name": "spontA_426_yeah",
             "start": 391.82,
-            "end": 392.4375,
-            "token": "oh"
+            "end": 392.487125,
+            "token": "yeah"
         }
     ]
 }

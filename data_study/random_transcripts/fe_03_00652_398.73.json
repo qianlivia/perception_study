@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00652",
     "context_channel": 1,
-    "context_text": "<A> i was at my i have twin boys and they were born { like } / <B> [ yeah ] / <A> uhm uhm uhm almost exactly a month before august twelfth on august twelfth / <B> yeah / <A> and i remember my my grandmother was in helping me take care of them came { and woke } / <B> [ yeah ] / <A> me up and we just sat there in shock all day and i'm just you know looking at your new life is going wow i brought them in to this felt so guilty you know that you { know } / <B> [ mhm ]",
+    "context_text": "<A> i was at my i have twin boys and they were born { like } / <B> [ exactly ] / <A> uhm uhm uhm almost exactly a month before august twelfth on august twelfth / <B> right / <A> and i remember my my grandmother was in helping me take care of them came { and woke } / <B> [ right ] / <A> me up and we just sat there in shock all day and i'm just you know looking at your new life is going wow i brought them in to this felt so guilty you know that you { know } / <B> [ oh ]",
     "context_start": 398.73,
-    "context_end": 422.2195,
+    "context_end": 423.392375,
     "feedback": [
         {
-            "name": "spontA_195_yeah",
+            "name": "sun_016_exactly",
             "start": 401.69,
-            "end": 402.12262499999997,
-            "token": "yeah"
+            "end": 402.7235,
+            "token": "exactly"
         },
         {
-            "name": "spontA_355_yeah",
+            "name": "sun_013_right",
             "start": 406.35,
-            "end": 406.95912500000003,
-            "token": "yeah"
+            "end": 407.2235,
+            "token": "right"
         },
         {
-            "name": "spontD_172_yeah",
+            "name": "sun1_029_right",
             "start": 411.43,
-            "end": 412.2235,
-            "token": "yeah"
+            "end": 412.122,
+            "token": "right"
         },
         {
-            "name": "spontB_377_mhm",
+            "name": "Sy_022_oh",
             "start": 421.57,
-            "end": 422.2195,
-            "token": "mhm"
+            "end": 423.392375,
+            "token": "oh"
         }
     ]
 }

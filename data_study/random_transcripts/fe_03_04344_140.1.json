@@ -1,45 +1,45 @@
 {
     "name": "fe_03_04344",
     "context_channel": 0,
-    "context_text": "<B> but i'm thinking because my best friend had so many um problems with her she had a a an incredibly ill child who required tremendous tremendous financial you know { b } / <A> [ okay ] / <B> um if i could aid her and make life easier for her / <A> absolutely / <B> but still maintain contact not necessarily speaking / <A> no / <B> but maintain contact with her / <A> uh-huh / <B> that would be acceptable but um a a to just eliminate her immediately from my life / <A> yeah / <B> no no / <A> sure",
+    "context_text": "<B> but i'm thinking because my best friend had so many um problems with her she had a a an incredibly ill child who required tremendous tremendous financial you know { b } / <A> [ wow ] / <B> um if i could aid her and make life easier for her / <A> okay / <B> but still maintain contact not necessarily speaking / <A> yeah / <B> but maintain contact with her / <A> oh / <B> that would be acceptable but um a a to just eliminate her immediately from my life / <A> right / <B> no no / <A> mhm",
     "context_start": 140.1,
-    "context_end": 180.26575,
+    "context_end": 179.922625,
     "feedback": [
         {
-            "name": "sun1_017_okay",
+            "name": "PS_095_wow",
             "start": 156.45,
-            "end": 157.362875,
+            "end": 157.48537499999998,
+            "token": "wow"
+        },
+        {
+            "name": "spontB_195_okay",
+            "start": 162.57,
+            "end": 163.2395,
             "token": "okay"
         },
         {
-            "name": "PR_049_absolutely",
-            "start": 162.57,
-            "end": 163.656625,
-            "token": "absolutely"
-        },
-        {
-            "name": "NR_003_no",
+            "name": "spontA_117_yeah",
             "start": 166.18,
-            "end": 166.809875,
-            "token": "no"
-        },
-        {
-            "name": "spontD_079_uh-huh",
-            "start": 169.34,
-            "end": 169.88637500000002,
-            "token": "uh-huh"
-        },
-        {
-            "name": "PR_031_yeah",
-            "start": 177.74,
-            "end": 178.143125,
+            "end": 166.81900000000002,
             "token": "yeah"
         },
         {
-            "name": "sun_050_sure",
+            "name": "NS_101_oh",
+            "start": 169.34,
+            "end": 170.25900000000001,
+            "token": "oh"
+        },
+        {
+            "name": "PR_048_right",
+            "start": 177.74,
+            "end": 178.375125,
+            "token": "right"
+        },
+        {
+            "name": "spontA_334_mhm",
             "start": 179.25,
-            "end": 180.26575,
-            "token": "sure"
+            "end": 179.922625,
+            "token": "mhm"
         }
     ]
 }

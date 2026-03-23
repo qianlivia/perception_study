@@ -1,27 +1,27 @@
 {
     "name": "fe_03_02246",
     "context_channel": 0,
-    "context_text": "<B> yeah i think someone once told me that uh your body has a lot to deal with uh like the ah the barometric pressure and stuff so if it's raining a lot like it tends to cause more depression / <A> mhm / <B> and if it's not when it's not raining the pressure's higher so then it causes you to be ah at a higher emotional plateau or whatever / <A> mhm / <B> um but i found that interesting 'cause it it is kind of true you get more depressed and kind of ah i mean just today it was sunny and now it's it's raining where i am so ah i ah i was like happy before i was going to go out and now it's raining so / <A> no",
+    "context_text": "<B> yeah i think someone once told me that uh your body has a lot to deal with uh like the ah the barometric pressure and stuff so if it's raining a lot like it tends to cause more depression / <A> right / <B> and if it's not when it's not raining the pressure's higher so then it causes you to be ah at a higher emotional plateau or whatever / <A> really / <B> um but i found that interesting 'cause it it is kind of true you get more depressed and kind of ah i mean just today it was sunny and now it's it's raining where i am so ah i ah i was like happy before i was going to go out and now it's raining so / <A> okay",
     "context_start": 100.32,
-    "context_end": 137.977625,
+    "context_end": 137.4385,
     "feedback": [
         {
-            "name": "spontC_311_mhm",
+            "name": "sun1_031_right",
             "start": 109.91,
-            "end": 110.435125,
-            "token": "mhm"
+            "end": 110.70425,
+            "token": "right"
         },
         {
-            "name": "spontC_313_mhm",
+            "name": "NS_002_really",
             "start": 120.38,
-            "end": 120.87525,
-            "token": "mhm"
+            "end": 121.23649999999999,
+            "token": "really"
         },
         {
-            "name": "NR_022_no",
+            "name": "spontA_257_okay",
             "start": 136.81,
-            "end": 137.977625,
-            "token": "no"
+            "end": 137.4385,
+            "token": "okay"
         }
     ]
 }

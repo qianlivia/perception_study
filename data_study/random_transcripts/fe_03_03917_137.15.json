@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03917",
     "context_channel": 0,
-    "context_text": "<B> i'm fifty two so i've / <A> ah / <B> seen the when comedy first came on / <A> ooh / <B> television and i was younger where my kids are now / <A> yeah / <B> and what they're showing now and ah there's quite a swing / <A> uh-huh",
+    "context_text": "<B> i'm fifty two so i've / <A> right / <B> seen the when comedy first came on / <A> wow / <B> television and i was younger where my kids are now / <A> right / <B> and what they're showing now and ah there's quite a swing / <A> okay",
     "context_start": 137.15,
-    "context_end": 152.73075,
+    "context_end": 153.032,
     "feedback": [
         {
-            "name": "spontC_073_ah",
+            "name": "PR_048_right",
             "start": 138.64,
-            "end": 139.46425,
-            "token": "ah"
+            "end": 139.27512499999997,
+            "token": "right"
         },
         {
-            "name": "spontE_034_ooh",
+            "name": "PS_105_wow",
             "start": 143.3,
-            "end": 144.522375,
-            "token": "ooh"
+            "end": 143.948,
+            "token": "wow"
         },
         {
-            "name": "spontA_052_yeah",
+            "name": "sun_007_right",
             "start": 147.28,
-            "end": 147.877625,
-            "token": "yeah"
+            "end": 148.1695,
+            "token": "right"
         },
         {
-            "name": "spontC_195_uh-huh",
+            "name": "spontF_317_okay",
             "start": 152.18,
-            "end": 152.73075,
-            "token": "uh-huh"
+            "end": 153.032,
+            "token": "okay"
         }
     ]
 }

@@ -1,39 +1,39 @@
 {
     "name": "fe_03_00124",
     "context_channel": 0,
-    "context_text": "<B> and they wrote to the newspaper you know letters to the editor it's a big thing in a small town / <A> wow / <B> they wrote letters to the editor ah describing this activity and and giving her name and for weeks people wrote letters about what a terrible person she was and she should go to afghanistan if she didn't like it here and uh jeez / <A> no / <B> and i understood her sentiment you know / <A> absolutely / <B> i i personally complained to the grocery store you know after a week i said you know could we go back to you know elvis presley and the beatles as some muzak i've had enough of patriotic music { it's } / <A> [ uh-huh ] / <B> beginning to get on my nerves / <A> uh-huh",
+    "context_text": "<B> and they wrote to the newspaper you know letters to the editor it's a big thing in a small town / <A> mhm / <B> they wrote letters to the editor ah describing this activity and and giving her name and for weeks people wrote letters about what a terrible person she was and she should go to afghanistan if she didn't like it here and uh jeez / <A> right / <B> and i understood her sentiment you know / <A> okay / <B> i i personally complained to the grocery store you know after a week i said you know could we go back to you know elvis presley and the beatles as some muzak i've had enough of patriotic music { it's } / <A> [ okay ] / <B> beginning to get on my nerves / <A> mhm",
     "context_start": 481.12,
-    "context_end": 524.441375,
+    "context_end": 524.526,
     "feedback": [
         {
-            "name": "NegS_008_wow",
+            "name": "spontE_054_mhm",
             "start": 486.97,
-            "end": 487.9255,
-            "token": "wow"
+            "end": 487.685875,
+            "token": "mhm"
         },
         {
-            "name": "NR_003_no",
+            "name": "sun_028_right",
             "start": 504.1,
-            "end": 504.72987500000005,
-            "token": "no"
+            "end": 504.829375,
+            "token": "right"
         },
         {
-            "name": "PR_049_absolutely",
+            "name": "spontF_317_okay",
             "start": 507.3,
-            "end": 508.38662500000004,
-            "token": "absolutely"
+            "end": 508.152,
+            "token": "okay"
         },
         {
-            "name": "spontE_321_uh-huh",
+            "name": "spontB_120_okay",
             "start": 521.19,
-            "end": 521.6856250000001,
-            "token": "uh-huh"
+            "end": 521.8910000000001,
+            "token": "okay"
         },
         {
-            "name": "spontE_378_uh-huh",
+            "name": "sun1_008_mhm",
             "start": 523.92,
-            "end": 524.441375,
-            "token": "uh-huh"
+            "end": 524.526,
+            "token": "mhm"
         }
     ]
 }

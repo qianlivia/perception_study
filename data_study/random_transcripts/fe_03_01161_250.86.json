@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01161",
     "context_channel": 0,
-    "context_text": "<B> never you know i never learned the second languages that were spoke in the house / <A> yeah / <B> there's a lot of things i'd go back and change though / <A> uh-huh / <B> and some things i wouldn't change though because the things that i did led me to where i am today / <A> right / <B> and to who i'm married to and to you know the / <A> uh-huh",
+    "context_text": "<B> never you know i never learned the second languages that were spoke in the house / <A> okay / <B> there's a lot of things i'd go back and change though / <A> yeah / <B> and some things i wouldn't change though because the things that i did led me to where i am today / <A> okay / <B> and to who i'm married to and to you know the / <A> really",
     "context_start": 250.86,
-    "context_end": 269.760625,
+    "context_end": 269.878625,
     "feedback": [
         {
-            "name": "spontE_366_yeah",
+            "name": "spontF_583_okay",
             "start": 256.01,
-            "end": 256.977,
+            "end": 257.188,
+            "token": "okay"
+        },
+        {
+            "name": "spontA_229_yeah",
+            "start": 259.45,
+            "end": 259.89187499999997,
             "token": "yeah"
         },
         {
-            "name": "PS_036_uh-huh",
-            "start": 259.45,
-            "end": 260.461375,
-            "token": "uh-huh"
-        },
-        {
-            "name": "sun1_030_right",
+            "name": "spontD_410_okay",
             "start": 266.57,
-            "end": 267.363625,
-            "token": "right"
+            "end": 266.99375,
+            "token": "okay"
         },
         {
-            "name": "spontE_032_uh-huh",
+            "name": "PS_070_really",
             "start": 269.19,
-            "end": 269.760625,
-            "token": "uh-huh"
+            "end": 269.878625,
+            "token": "really"
         }
     ]
 }

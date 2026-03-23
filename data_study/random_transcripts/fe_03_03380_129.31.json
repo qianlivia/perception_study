@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03380",
     "context_channel": 1,
-    "context_text": "<A> [ trust trust i think the most important ] thing is is trust if you don't trust each other if you have to even wonder about it { i } / <B> [ uh-huh ] / <A> think you have a problem / <B> mhm / <A> whether it's a problem within your own self for feeling that way or whether / <B> uh-huh / <A> there's really i mean there are signals / <B> wow",
+    "context_text": "<A> [ trust trust i think the most important ] thing is is trust if you don't trust each other if you have to even wonder about it { i } / <B> [ yeah ] / <A> think you have a problem / <B> yeah / <A> whether it's a problem within your own self for feeling that way or whether / <B> right / <A> there's really i mean there are signals / <B> mhm",
     "context_start": 129.31,
-    "context_end": 146.182375,
+    "context_end": 145.83125,
     "feedback": [
         {
-            "name": "spontB_348_uh-huh",
+            "name": "spontF_497_yeah",
             "start": 136.41,
-            "end": 136.949625,
-            "token": "uh-huh"
+            "end": 136.973375,
+            "token": "yeah"
         },
         {
-            "name": "spontA_091_mhm",
+            "name": "spontB_306_yeah",
             "start": 138.27,
-            "end": 138.7835,
-            "token": "mhm"
+            "end": 138.82150000000001,
+            "token": "yeah"
         },
         {
-            "name": "spontE_011_uh-huh",
+            "name": "sun1_029_right",
             "start": 142.78,
-            "end": 143.236375,
-            "token": "uh-huh"
+            "end": 143.472,
+            "token": "right"
         },
         {
-            "name": "PS_129_wow",
+            "name": "spontD_186_mhm",
             "start": 145.24,
-            "end": 146.182375,
-            "token": "wow"
+            "end": 145.83125,
+            "token": "mhm"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05089",
     "context_channel": 0,
-    "context_text": "<B> so that was kind of a like oh my god what the heck you know they should have like a security system on the door { you } / <A> [ mhm ] / <B> know like they have at the supermarket / <A> yeah / <B> you know when the supermarket people steal stuff the alarm goes / <A> oh / <B> my wife and me were talking about look at this anybody can walk in with a gun or a knife or a bomb or anything you know and the thing won't be go until we're over there in the in the middle of the airport that's what i was trying to say when i say we are more secure than uh the beg uh the doorway you go in the airport know what i'm saying / <A> wow",
+    "context_text": "<B> so that was kind of a like oh my god what the heck you know they should have like a security system on the door { you } / <A> [ yeah ] / <B> know like they have at the supermarket / <A> oh / <B> you know when the supermarket people steal stuff the alarm goes / <A> right / <B> my wife and me were talking about look at this anybody can walk in with a gun or a knife or a bomb or anything you know and the thing won't be go until we're over there in the in the middle of the airport that's what i was trying to say when i say we are more secure than uh the beg uh the doorway you go in the airport know what i'm saying / <A> uh-huh",
     "context_start": 484.24,
-    "context_end": 520.446625,
+    "context_end": 519.14675,
     "feedback": [
         {
-            "name": "spontA_318_mhm",
+            "name": "spontD_339_yeah",
             "start": 490.11,
-            "end": 490.786875,
-            "token": "mhm"
-        },
-        {
-            "name": "spontB_306_yeah",
-            "start": 494.06,
-            "end": 494.6115,
+            "end": 490.96387500000003,
             "token": "yeah"
         },
         {
-            "name": "Sy_055_oh",
-            "start": 497.81,
-            "end": 498.635875,
+            "name": "spontF_572_oh",
+            "start": 494.06,
+            "end": 495.182125,
             "token": "oh"
         },
         {
-            "name": "PS_049_wow",
+            "name": "sun1_032_right",
+            "start": 497.81,
+            "end": 498.653375,
+            "token": "right"
+        },
+        {
+            "name": "spontC_378_uh-huh",
             "start": 518.64,
-            "end": 520.446625,
-            "token": "wow"
+            "end": 519.14675,
+            "token": "uh-huh"
         }
     ]
 }

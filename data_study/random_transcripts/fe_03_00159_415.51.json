@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00159",
     "context_channel": 0,
-    "context_text": "<B> their company probably uhm i think there were a lot of like um silicon valley ones { ah } / <A> [ no ] / <B> you know i i don't know i really actually have never been west so i can't tell you if they're all booming as much as it seems to on the internet but it looks like all the opportunities i've seen are either in canada europe / <A> yeah / <B> or california / <A> mhm / <B> or so the some like government type linked ones { in } / <A> [ mhm ]",
+    "context_text": "<B> their company probably uhm i think there were a lot of like um silicon valley ones { ah } / <A> [ okay ] / <B> you know i i don't know i really actually have never been west so i can't tell you if they're all booming as much as it seems to on the internet but it looks like all the opportunities i've seen are either in canada europe / <A> really / <B> or california / <A> mhm / <B> or so the some like government type linked ones { in } / <A> [ exactly ]",
     "context_start": 415.51,
-    "context_end": 439.3135,
+    "context_end": 439.8655,
     "feedback": [
         {
-            "name": "sun_018_no",
+            "name": "spontD_033_okay",
             "start": 420.69,
-            "end": 421.418875,
-            "token": "no"
+            "end": 421.386625,
+            "token": "okay"
         },
         {
-            "name": "PR_061_yeah",
+            "name": "NS_002_really",
             "start": 433.18,
-            "end": 434.095625,
-            "token": "yeah"
+            "end": 434.0365,
+            "token": "really"
         },
         {
-            "name": "spontA_334_mhm",
+            "name": "spontA_400_mhm",
             "start": 434.65,
-            "end": 435.32262499999996,
+            "end": 435.47049999999996,
             "token": "mhm"
         },
         {
-            "name": "spontB_121_mhm",
+            "name": "sun_038_exactly",
             "start": 438.78,
-            "end": 439.3135,
-            "token": "mhm"
+            "end": 439.8655,
+            "token": "exactly"
         }
     ]
 }

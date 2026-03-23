@@ -1,27 +1,27 @@
 {
     "name": "fe_03_01292",
     "context_channel": 0,
-    "context_text": "<B> four and you know two and a half so / <A> mhm / <B> and i mean that's interesting because um you know i guess there've been a few things in the you know current life of humanity that like everybody remembers where they were that type of thing { you know } / <A> [ mhm ] / <B> like with the kennedy assassination and then / <A> uh-huh",
+    "context_text": "<B> four and you know two and a half so / <A> mhm / <B> and i mean that's interesting because um you know i guess there've been a few things in the you know current life of humanity that like everybody remembers where they were that type of thing { you know } / <A> [ mhm ] / <B> like with the kennedy assassination and then / <A> right",
     "context_start": 492.84,
-    "context_end": 509.667875,
+    "context_end": 509.993625,
     "feedback": [
         {
-            "name": "spontF_619_mhm",
+            "name": "spontE_122_mhm",
             "start": 494.76,
-            "end": 495.30475,
+            "end": 495.481375,
             "token": "mhm"
         },
         {
-            "name": "spontE_271_mhm",
+            "name": "spontA_064_mhm",
             "start": 506.22,
-            "end": 506.817,
+            "end": 506.743125,
             "token": "mhm"
         },
         {
-            "name": "spontD_372_uh-huh",
+            "name": "sun1_030_right",
             "start": 509.2,
-            "end": 509.667875,
-            "token": "uh-huh"
+            "end": 509.993625,
+            "token": "right"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04510",
     "context_channel": 1,
-    "context_text": "<A> no well i have three grandchildren and all of them are in private schools / <B> oh / <A> because of what you're talking about so i've seen what can happen in private school you know if the the appropriate resources the support of the parents right and { most of } / <B> [ okay ] / <A> all adequate funds / <B> oh / <A> yeah so / <B> ooh",
+    "context_text": "<A> no well i have three grandchildren and all of them are in private schools / <B> okay / <A> because of what you're talking about so i've seen what can happen in private school you know if the the appropriate resources the support of the parents right and { most of } / <B> [ right ] / <A> all adequate funds / <B> mhm / <A> yeah so / <B> uh-huh",
     "context_start": 134.98,
-    "context_end": 160.19225,
+    "context_end": 159.777125,
     "feedback": [
         {
-            "name": "PS_015_oh",
+            "name": "spontD_410_okay",
             "start": 140.79,
-            "end": 141.8515,
-            "token": "oh"
-        },
-        {
-            "name": "spontC_020_okay",
-            "start": 153.3,
-            "end": 153.775,
+            "end": 141.21375,
             "token": "okay"
         },
         {
-            "name": "spontD_032_oh",
-            "start": 156.23,
-            "end": 156.91662499999998,
-            "token": "oh"
+            "name": "PR_043_right",
+            "start": 153.3,
+            "end": 153.96,
+            "token": "right"
         },
         {
-            "name": "spontE_283_ooh",
+            "name": "spontC_178_mhm",
+            "start": 156.23,
+            "end": 156.793625,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_467_uh-huh",
             "start": 159.22,
-            "end": 160.19225,
-            "token": "ooh"
+            "end": 159.777125,
+            "token": "uh-huh"
         }
     ]
 }

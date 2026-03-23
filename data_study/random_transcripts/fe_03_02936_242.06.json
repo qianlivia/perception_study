@@ -1,39 +1,39 @@
 {
     "name": "fe_03_02936",
     "context_channel": 0,
-    "context_text": "<B> it's uh it's you have like long sticks uh maybe about like three or four feet long with { a } / <A> [ no ] / <B> net on the end almost / <A> uh-huh / <B> and uh it's it's kind of like a hockey but but you know the ball is obviously passed in the air / <A> uh-huh / <B> and uh you know you have a goalie i think it's like six guys on each side or nine { guys } / <A> [ wow ] / <B> and yeah just you know like like any other sport with a goal { except } / <A> [ uh-huh ]",
+    "context_text": "<B> it's uh it's you have like long sticks uh maybe about like three or four feet long with { a } / <A> [ oh ] / <B> net on the end almost / <A> right / <B> and uh it's it's kind of like a hockey but but you know the ball is obviously passed in the air / <A> oh / <B> and uh you know you have a goalie i think it's like six guys on each side or nine { guys } / <A> [ uh-huh ] / <B> and yeah just you know like like any other sport with a goal { except } / <A> [ yeah ]",
     "context_start": 242.06,
-    "context_end": 262.346375,
+    "context_end": 262.5945,
     "feedback": [
         {
-            "name": "spontA_095_no",
+            "name": "PS_032_oh",
             "start": 246.98,
-            "end": 247.815375,
-            "token": "no"
+            "end": 247.885875,
+            "token": "oh"
         },
         {
-            "name": "spontE_227_uh-huh",
+            "name": "PR_043_right",
             "start": 248.72,
-            "end": 249.141625,
-            "token": "uh-huh"
+            "end": 249.38,
+            "token": "right"
         },
         {
-            "name": "PR_053_uh-huh",
+            "name": "Sy_065_oh",
             "start": 254.02,
-            "end": 254.88750000000002,
-            "token": "uh-huh"
+            "end": 255.24775,
+            "token": "oh"
         },
         {
-            "name": "PS_151_wow",
+            "name": "spontA_041_uh-huh",
             "start": 257.84,
-            "end": 259.01475,
-            "token": "wow"
+            "end": 258.40375,
+            "token": "uh-huh"
         },
         {
-            "name": "spontA_406_uh-huh",
+            "name": "spontE_161_yeah",
             "start": 261.74,
-            "end": 262.346375,
-            "token": "uh-huh"
+            "end": 262.5945,
+            "token": "yeah"
         }
     ]
 }

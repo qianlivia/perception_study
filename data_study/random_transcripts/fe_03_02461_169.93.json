@@ -1,39 +1,39 @@
 {
     "name": "fe_03_02461",
     "context_channel": 0,
-    "context_text": "<B> all about the end and i don't really love that in our society / <A> mhm / <B> or or to to or to advocate it for for the next generation { yes we're } / <A> [ yes ] / <B> capitalists we're all capitalists but i mean to not see these people like in the survivor case where it's so beautiful there's such a gorgeous setting they may never be there again in their lives / <A> yeah / <B> and they're battling and dueling and and being nasty to each other for the end of of course winning which is a i mean they i think they choose these contestants because they're fiercely competitive / <A> yeah / <B> and in tiptop shape i appreciate all that but to not enjoy it and to not have the audience see us enjoy see them enjoy it somewhat / <A> wow",
+    "context_text": "<B> all about the end and i don't really love that in our society / <A> right / <B> or or to to or to advocate it for for the next generation { yes we're } / <A> [ really ] / <B> capitalists we're all capitalists but i mean to not see these people like in the survivor case where it's so beautiful there's such a gorgeous setting they may never be there again in their lives / <A> mhm / <B> and they're battling and dueling and and being nasty to each other for the end of of course winning which is a i mean they i think they choose these contestants because they're fiercely competitive / <A> mhm / <B> and in tiptop shape i appreciate all that but to not enjoy it and to not have the audience see us enjoy see them enjoy it somewhat / <A> mhm",
     "context_start": 169.93,
-    "context_end": 212.846125,
+    "context_end": 212.558375,
     "feedback": [
         {
-            "name": "spontA_403_mhm",
+            "name": "sun1_030_right",
             "start": 174.24,
-            "end": 174.799375,
+            "end": 175.033625,
+            "token": "right"
+        },
+        {
+            "name": "PS_070_really",
+            "start": 178.64,
+            "end": 179.328625,
+            "token": "really"
+        },
+        {
+            "name": "spontF_257_mhm",
+            "start": 190.66,
+            "end": 191.152375,
             "token": "mhm"
         },
         {
-            "name": "sun1_025_yes",
-            "start": 178.64,
-            "end": 179.390625,
-            "token": "yes"
-        },
-        {
-            "name": "spontB_143_yeah",
-            "start": 190.66,
-            "end": 191.336125,
-            "token": "yeah"
-        },
-        {
-            "name": "spontE_067_yeah",
+            "name": "spontE_054_mhm",
             "start": 202.47,
-            "end": 203.064875,
-            "token": "yeah"
+            "end": 203.185875,
+            "token": "mhm"
         },
         {
-            "name": "PS_107_wow",
+            "name": "sun_012_mhm",
             "start": 211.55,
-            "end": 212.846125,
-            "token": "wow"
+            "end": 212.558375,
+            "token": "mhm"
         }
     ]
 }

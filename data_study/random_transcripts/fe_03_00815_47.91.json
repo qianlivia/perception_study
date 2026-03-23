@@ -1,27 +1,27 @@
 {
     "name": "fe_03_00815",
     "context_channel": 0,
-    "context_text": "<B> know at the time that was that was the counselor's advice { that } / <A> [ mhm ] / <B> was where it was at that was where the money is and i guess to a certain extent um now also but i i find my natural liking is is more towards art you know something more artistic / <A> yeah / <B> you know maybe fashion design or or something with sketching / <A> uh-huh",
+    "context_text": "<B> know at the time that was that was the counselor's advice { that } / <A> [ wow ] / <B> was where it was at that was where the money is and i guess to a certain extent um now also but i i find my natural liking is is more towards art you know something more artistic / <A> mhm / <B> you know maybe fashion design or or something with sketching / <A> mhm",
     "context_start": 47.91,
-    "context_end": 73.3065,
+    "context_end": 73.16362500000001,
     "feedback": [
         {
-            "name": "spontC_355_mhm",
+            "name": "PS_107_wow",
             "start": 51.72,
-            "end": 52.257999999999996,
+            "end": 53.016125,
+            "token": "wow"
+        },
+        {
+            "name": "spontB_187_mhm",
+            "start": 66.25,
+            "end": 66.801125,
             "token": "mhm"
         },
         {
-            "name": "sun1_020_yeah",
-            "start": 66.25,
-            "end": 67.097,
-            "token": "yeah"
-        },
-        {
-            "name": "spontD_107_uh-huh",
+            "name": "spontC_330_mhm",
             "start": 72.68,
-            "end": 73.3065,
-            "token": "uh-huh"
+            "end": 73.16362500000001,
+            "token": "mhm"
         }
     ]
 }

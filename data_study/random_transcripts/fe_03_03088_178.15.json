@@ -1,51 +1,51 @@
 {
     "name": "fe_03_03088",
     "context_channel": 0,
-    "context_text": "<B> but yeah she has kind of a cocker spaniel's face got curly ears { she looks like } / <A> [ yeah ] / <B> a cocker spaniel but you can tell there's something else mixed in with her / <A> yeah / <B> and then we had another dog before her that was part beagle and part something else you could tell she was beagle she had the long floppy ears and all that / <A> mhm / <B> um and before that i don't know w we had a dog named tippy when i was a little kid um i don't know what she was she was literally a mutt i mean she had no discerning characteristics at all she was just { a } / <A> [ yeah ] / <B> very generic looking dog you know / <A> wow / <B> you couldn't tell what she was she was we got em all from the pound though { they were } / <A> [ wow ] / <B> all pound dogs um she was my favorite dog though { she } / <A> [ yeah ]",
+    "context_text": "<B> but yeah she has kind of a cocker spaniel's face got curly ears { she looks like } / <A> [ mhm ] / <B> a cocker spaniel but you can tell there's something else mixed in with her / <A> yeah / <B> and then we had another dog before her that was part beagle and part something else you could tell she was beagle she had the long floppy ears and all that / <A> really / <B> um and before that i don't know w we had a dog named tippy when i was a little kid um i don't know what she was she was literally a mutt i mean she had no discerning characteristics at all she was just { a } / <A> [ exactly ] / <B> very generic looking dog you know / <A> right / <B> you couldn't tell what she was she was we got em all from the pound though { they were } / <A> [ mhm ] / <B> all pound dogs um she was my favorite dog though { she } / <A> [ right ]",
     "context_start": 178.15,
-    "context_end": 224.076875,
+    "context_end": 224.32425,
     "feedback": [
         {
-            "name": "spontB_282_yeah",
+            "name": "PR_045_mhm",
             "start": 182.19,
-            "end": 182.995625,
-            "token": "yeah"
-        },
-        {
-            "name": "spontC_007_yeah",
-            "start": 186.16,
-            "end": 186.61724999999998,
-            "token": "yeah"
-        },
-        {
-            "name": "spontD_190_mhm",
-            "start": 197.46,
-            "end": 197.9675,
+            "end": 183.117125,
             "token": "mhm"
         },
         {
-            "name": "spontD_364_yeah",
+            "name": "spontC_255_yeah",
+            "start": 186.16,
+            "end": 186.737875,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_002_really",
+            "start": 197.46,
+            "end": 198.25287500000002,
+            "token": "really"
+        },
+        {
+            "name": "sun_015_exactly",
             "start": 211.26,
-            "end": 212.110375,
-            "token": "yeah"
+            "end": 212.36175,
+            "token": "exactly"
         },
         {
-            "name": "PS_120_wow",
+            "name": "sun1_032_right",
             "start": 213.38,
-            "end": 214.47787499999998,
-            "token": "wow"
+            "end": 214.223375,
+            "token": "right"
         },
         {
-            "name": "PS_037_wow",
+            "name": "spontB_324_mhm",
             "start": 218.16,
-            "end": 219.172625,
-            "token": "wow"
+            "end": 218.937375,
+            "token": "mhm"
         },
         {
-            "name": "spontB_239_yeah",
+            "name": "sun1_031_right",
             "start": 223.53,
-            "end": 224.076875,
-            "token": "yeah"
+            "end": 224.32425,
+            "token": "right"
         }
     ]
 }

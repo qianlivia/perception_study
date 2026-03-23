@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01021",
     "context_channel": 0,
-    "context_text": "<B> forces we've good security systems you { know } / <A> [ ooh ] / <B> everywhere from the top of the line all the way down to the little towns and whatever / <A> uh-huh / <B> you know they've protected us well and and we here other than of course back in you know before when they were all the states and stuff we've never been invaded / <A> no / <B> we we have never been invaded we have we have never we've had the locals who have done horrible things like the { federal building } / <A> [ no ]",
+    "context_text": "<B> forces we've good security systems you { know } / <A> [ oh ] / <B> everywhere from the top of the line all the way down to the little towns and whatever / <A> yeah / <B> you know they've protected us well and and we here other than of course back in you know before when they were all the states and stuff we've never been invaded / <A> uh-huh / <B> we we have never been invaded we have we have never we've had the locals who have done horrible things like the { federal building } / <A> [ okay ]",
     "context_start": 317.77,
-    "context_end": 352.51162500000004,
+    "context_end": 352.221375,
     "feedback": [
         {
-            "name": "spontF_252_ooh",
+            "name": "spontC_046_oh",
             "start": 321.24,
-            "end": 322.32662500000004,
-            "token": "ooh"
+            "end": 321.648125,
+            "token": "oh"
         },
         {
-            "name": "spontE_040_uh-huh",
+            "name": "spontE_003_yeah",
             "start": 327.54,
-            "end": 328.070125,
+            "end": 327.924375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_304_uh-huh",
+            "start": 340.49,
+            "end": 340.977625,
             "token": "uh-huh"
         },
         {
-            "name": "NR_119_no",
-            "start": 340.49,
-            "end": 341.25025,
-            "token": "no"
-        },
-        {
-            "name": "NR_026_no",
+            "name": "spontD_383_okay",
             "start": 351.55,
-            "end": 352.51162500000004,
-            "token": "no"
+            "end": 352.221375,
+            "token": "okay"
         }
     ]
 }

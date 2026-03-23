@@ -1,38 +1,38 @@
 {
     "name": "fe_03_04234",
     "context_channel": 0,
-    "context_text": "<B> you know you just don't want to believe it and then when it happens it you know it's just that feeling of it it's so final / <A> yeah / <B> you know you realize that you you know you miss hearing that tone that voice you know or that handwriting / <A> mhm / <B> and and you can't go back and capture that you know i i should have visited with her more about um family things / <A> wow / <B> i think my sister did but she's a long way away um you know i i i just think we all maybe if if you're married with children i don't know uh just make sure your children understand you know how much you love em / <A> yeah / <B> and and um are proud of em and any family things that need to be discussed you know have it out in the open { so } / <A> [ okay ]",
+    "context_text": "<B> you know you just don't want to believe it and then when it happens it you know it's just that feeling of it it's so final / <A> right / <B> you know you realize that you you know you miss hearing that tone that voice you know or that handwriting / <A> uh-huh / <B> and and you can't go back and capture that you know i i should have visited with her more about um family things / <A> right / <B> i think my sister did but she's a long way away um you know i i i just think we all maybe if if you're married with children i don't know uh just make sure your children understand you know how much you love em / <A> mhm / <B> and and um are proud of em and any family things that need to be discussed you know have it out in the open { so } / <A> [ okay ]",
     "context_start": 361.19,
-    "context_end": 417.91825,
+    "context_end": 417.761375,
     "feedback": [
         {
-            "name": "spontB_301_yeah",
+            "name": "sun1_031_right",
             "start": 368.5,
-            "end": 369.466625,
-            "token": "yeah"
+            "end": 369.29425,
+            "token": "right"
         },
         {
-            "name": "spontC_184_mhm",
+            "name": "spontC_189_uh-huh",
             "start": 377.16,
-            "end": 377.73650000000004,
+            "end": 377.64025000000004,
+            "token": "uh-huh"
+        },
+        {
+            "name": "sun1_030_right",
+            "start": 388.12,
+            "end": 388.913625,
+            "token": "right"
+        },
+        {
+            "name": "spontA_282_mhm",
+            "start": 406.06,
+            "end": 406.616625,
             "token": "mhm"
         },
         {
-            "name": "PS_176_wow",
-            "start": 388.12,
-            "end": 389.1175,
-            "token": "wow"
-        },
-        {
-            "name": "spontE_196_yeah",
-            "start": 406.06,
-            "end": 406.9595,
-            "token": "yeah"
-        },
-        {
-            "name": "spontF_053_okay",
+            "name": "spontD_383_okay",
             "start": 417.09,
-            "end": 417.91825,
+            "end": 417.761375,
             "token": "okay"
         }
     ]

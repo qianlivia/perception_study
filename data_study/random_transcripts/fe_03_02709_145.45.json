@@ -1,39 +1,39 @@
 {
     "name": "fe_03_02709",
     "context_channel": 0,
-    "context_text": "<B> some people go the hardware and buy compressors and i just kinda giggled about the whole thing because coming from detroit and living in chicago which is even more so / <A> yeah / <B> than detroit with snow / <A> mhm / <B> uh and it but it what happens here is that the roads can become very slick and the topography here is on the hilly side / <A> oh / <B> so i mean schools do close down with half an inch of snow which struck me as really strange { but that's still } / <A> [ mhm ] / <B> the way it is here but i have to admit that if i went back to chicago or detroit now and had to drive a car at least the first few times { i would be } / <A> [ uh-huh ]",
+    "context_text": "<B> some people go the hardware and buy compressors and i just kinda giggled about the whole thing because coming from detroit and living in chicago which is even more so / <A> right / <B> than detroit with snow / <A> okay / <B> uh and it but it what happens here is that the roads can become very slick and the topography here is on the hilly side / <A> mhm / <B> so i mean schools do close down with half an inch of snow which struck me as really strange { but that's still } / <A> [ exactly ] / <B> the way it is here but i have to admit that if i went back to chicago or detroit now and had to drive a car at least the first few times { i would be } / <A> [ yeah ]",
     "context_start": 145.45,
-    "context_end": 180.167625,
+    "context_end": 180.535375,
     "feedback": [
         {
-            "name": "spontF_041_yeah",
+            "name": "sun_028_right",
             "start": 154.49,
-            "end": 155.35750000000002,
-            "token": "yeah"
+            "end": 155.219375,
+            "token": "right"
         },
         {
-            "name": "spontD_165_mhm",
+            "name": "spontD_410_okay",
             "start": 156.65,
-            "end": 157.271375,
-            "token": "mhm"
+            "end": 157.07375000000002,
+            "token": "okay"
         },
         {
-            "name": "spontF_616_oh",
+            "name": "spontA_107_mhm",
             "start": 165.29,
-            "end": 166.06087499999998,
-            "token": "oh"
-        },
-        {
-            "name": "sun1_003_mhm",
-            "start": 170.2,
-            "end": 171.021,
+            "end": 165.803125,
             "token": "mhm"
         },
         {
-            "name": "spontF_116_uh-huh",
+            "name": "sun_015_exactly",
+            "start": 170.2,
+            "end": 171.30175,
+            "token": "exactly"
+        },
+        {
+            "name": "spontB_309_yeah",
             "start": 179.57,
-            "end": 180.167625,
-            "token": "uh-huh"
+            "end": 180.535375,
+            "token": "yeah"
         }
     ]
 }

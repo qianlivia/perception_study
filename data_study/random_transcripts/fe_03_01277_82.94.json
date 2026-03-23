@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01277",
     "context_channel": 0,
-    "context_text": "<B> yeah i i probably um i i run the tv most of the day when i'm like house cleaning and and { doing my } / <A> [ oh ] / <B> chores around the house and do whatnot um so i especially when there's tragedy like now i leave { it on } / <A> [ yes ] / <B> cnn { all day } / <A> [ wow ] / <B> so all i listen to is cnn but i do read the newspapers { and } / <A> uh-huh",
+    "context_text": "<B> yeah i i probably um i i run the tv most of the day when i'm like house cleaning and and { doing my } / <A> [ okay ] / <B> chores around the house and do whatnot um so i especially when there's tragedy like now i leave { it on } / <A> [ mhm ] / <B> cnn { all day } / <A> [ uh-huh ] / <B> so all i listen to is cnn but i do read the newspapers { and } / <A> really",
     "context_start": 82.94,
-    "context_end": 101.353,
+    "context_end": 101.70649999999999,
     "feedback": [
         {
-            "name": "spontF_277_oh",
+            "name": "spontD_033_okay",
             "start": 88.06,
-            "end": 88.62825000000001,
-            "token": "oh"
+            "end": 88.756625,
+            "token": "okay"
         },
         {
-            "name": "PR_060_yes",
+            "name": "spontA_200_mhm",
             "start": 95.41,
-            "end": 96.3505,
-            "token": "yes"
+            "end": 95.9845,
+            "token": "mhm"
         },
         {
-            "name": "PS_065_wow",
+            "name": "spontA_115_uh-huh",
             "start": 96.93,
-            "end": 97.74350000000001,
-            "token": "wow"
+            "end": 97.427125,
+            "token": "uh-huh"
         },
         {
-            "name": "spontC_136_uh-huh",
+            "name": "NS_002_really",
             "start": 100.85,
-            "end": 101.353,
-            "token": "uh-huh"
+            "end": 101.70649999999999,
+            "token": "really"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00468",
     "context_channel": 0,
-    "context_text": "<B> yes absolutely you know and it's it's fun because the children set the table and but you know we have to educate the children as / <A> mhm / <B> as a party not as a a duty / <A> oh / <B> you know as a party and and we you can't just said oh i don't like i don't like that how many things you don't like { you know } / <A> [ uh-huh ] / <B> you c it's okay not y you know maybe you don't like two or three vegetables but / <A> yeah",
+    "context_text": "<B> yes absolutely you know and it's it's fun because the children set the table and but you know we have to educate the children as / <A> yeah / <B> as a party not as a a duty / <A> right / <B> you know as a party and and we you can't just said oh i don't like i don't like that how many things you don't like { you know } / <A> [ right ] / <B> you c it's okay not y you know maybe you don't like two or three vegetables but / <A> okay",
     "context_start": 141.53,
-    "context_end": 167.82612500000002,
+    "context_end": 167.905,
     "feedback": [
         {
-            "name": "spontA_314_mhm",
+            "name": "spontD_393_yeah",
             "start": 150.55,
-            "end": 151.143875,
-            "token": "mhm"
-        },
-        {
-            "name": "Sy_056_oh",
-            "start": 154.14,
-            "end": 155.42612499999998,
-            "token": "oh"
-        },
-        {
-            "name": "spontF_206_uh-huh",
-            "start": 162.16,
-            "end": 162.58837499999998,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontC_395_yeah",
-            "start": 167.43,
-            "end": 167.82612500000002,
+            "end": 151.05187500000002,
             "token": "yeah"
+        },
+        {
+            "name": "PR_043_right",
+            "start": 154.14,
+            "end": 154.79999999999998,
+            "token": "right"
+        },
+        {
+            "name": "sun1_030_right",
+            "start": 162.16,
+            "end": 162.953625,
+            "token": "right"
+        },
+        {
+            "name": "spontC_020_okay",
+            "start": 167.43,
+            "end": 167.905,
+            "token": "okay"
         }
     ]
 }

@@ -1,39 +1,39 @@
 {
     "name": "fe_03_05585",
     "context_channel": 1,
-    "context_text": "<A> hit um so he got out but i just remember waking up and you know my phone 's been ringing and ringing and i finally woke up and answered it and { i } / <B> [ yeah ] / <A> turned on the tv just in time to see the second plane hit / <B> yeah / <A> and um yeah you know slowly you know you put together you know who got out who didn't and i you { know no } / <B> [ yes ] / <A> nobody i was real close to but definitely people i knew you know / <B> oh / <A> acquaintances or a couple of uh guys i went to high school with / <B> wow",
+    "context_text": "<A> hit um so he got out but i just remember waking up and you know my phone 's been ringing and ringing and i finally woke up and answered it and { i } / <B> [ really ] / <A> turned on the tv just in time to see the second plane hit / <B> oh / <A> and um yeah you know slowly you know you put together you know who got out who didn't and i you { know no } / <B> [ yeah ] / <A> nobody i was real close to but definitely people i knew you know / <B> okay / <A> acquaintances or a couple of uh guys i went to high school with / <B> uh-huh",
     "context_start": 259.87,
-    "context_end": 287.22675,
+    "context_end": 286.39237499999996,
     "feedback": [
         {
-            "name": "spontF_101_yeah",
+            "name": "sun2_001_really",
             "start": 266.32,
-            "end": 266.928375,
-            "token": "yeah"
+            "end": 267.05062499999997,
+            "token": "really"
         },
         {
-            "name": "sun_045_yeah",
+            "name": "NegS_042_oh",
             "start": 269.9,
-            "end": 270.33912499999997,
-            "token": "yeah"
-        },
-        {
-            "name": "sun_032_yes",
-            "start": 276.54,
-            "end": 277.51675,
-            "token": "yes"
-        },
-        {
-            "name": "PS_001_oh",
-            "start": 280.23,
-            "end": 281.31175,
+            "end": 271.10049999999995,
             "token": "oh"
         },
         {
-            "name": "PS_063_wow",
+            "name": "spontF_506_yeah",
+            "start": 276.54,
+            "end": 277.42425000000003,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_028_okay",
+            "start": 280.23,
+            "end": 280.66325,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_494_uh-huh",
             "start": 285.84,
-            "end": 287.22675,
-            "token": "wow"
+            "end": 286.39237499999996,
+            "token": "uh-huh"
         }
     ]
 }

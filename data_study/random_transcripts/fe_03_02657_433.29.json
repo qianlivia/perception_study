@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02657",
     "context_channel": 0,
-    "context_text": "<B> i mean those type of things make a community just you know it's so much nicer when you live in a { place } / <A> [ ooh ] / <B> where you know you know everybody around you i mean even { if it's just kind } / <A> [ yeah ] / <B> of like a just a friendly first you know friendly basis you don't { need to know } / <A> [ yeah ] / <B> like all their intimate details and whatnot but just you know hey that guy there the the guy's fred he's a architect and that { that } / <A> [ ooh ]",
+    "context_text": "<B> i mean those type of things make a community just you know it's so much nicer when you live in a { place } / <A> [ right ] / <B> where you know you know everybody around you i mean even { if it's just kind } / <A> [ right ] / <B> of like a just a friendly first you know friendly basis you don't { need to know } / <A> [ wow ] / <B> like all their intimate details and whatnot but just you know hey that guy there the the guy's fred he's a architect and that { that } / <A> [ okay ]",
     "context_start": 433.29,
-    "context_end": 457.923125,
+    "context_end": 457.5385,
     "feedback": [
         {
-            "name": "spontE_031_ooh",
+            "name": "sun_007_right",
             "start": 440.25,
-            "end": 440.99325,
-            "token": "ooh"
+            "end": 441.1395,
+            "token": "right"
         },
         {
-            "name": "PR_039_yeah",
+            "name": "PR_043_right",
             "start": 444.2,
-            "end": 445.029375,
-            "token": "yeah"
+            "end": 444.86,
+            "token": "right"
         },
         {
-            "name": "spontB_321_yeah",
+            "name": "PS_115_wow",
             "start": 448.93,
-            "end": 449.376125,
-            "token": "yeah"
+            "end": 450.021,
+            "token": "wow"
         },
         {
-            "name": "NegS_038_ooh",
+            "name": "spontA_257_okay",
             "start": 456.91,
-            "end": 457.923125,
-            "token": "ooh"
+            "end": 457.5385,
+            "token": "okay"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04560",
     "context_channel": 1,
-    "context_text": "<A> i mean i are you um cough can i ask your race are you a white man i i'm assuming you're a white male / <B> yeah / <A> okay i i'm i'm asian / <B> ooh / <A> and i am vehemently opposed to affirmative action primarily in academia but i guess we're talking about business um i'm i'm in working for about uh four years now / <B> yeah / <A> and um and in in in my workplace i don't there there is no um explicit affirmative action program per se / <B> yeah",
+    "context_text": "<A> i mean i are you um cough can i ask your race are you a white man i i'm assuming you're a white male / <B> right / <A> okay i i'm i'm asian / <B> right / <A> and i am vehemently opposed to affirmative action primarily in academia but i guess we're talking about business um i'm i'm in working for about uh four years now / <B> yeah / <A> and um and in in in my workplace i don't there there is no um explicit affirmative action program per se / <B> right",
     "context_start": 228.67,
-    "context_end": 276.036875,
+    "context_end": 276.3795,
     "feedback": [
         {
-            "name": "spontD_233_yeah",
+            "name": "sun1_033_right",
             "start": 239.15,
-            "end": 240.082875,
-            "token": "yeah"
+            "end": 240.003125,
+            "token": "right"
         },
         {
-            "name": "spontF_642_ooh",
+            "name": "PR_048_right",
             "start": 243.28,
-            "end": 244.243,
-            "token": "ooh"
+            "end": 243.915125,
+            "token": "right"
         },
         {
-            "name": "PR_035_yeah",
+            "name": "spontA_110_yeah",
             "start": 261.24,
-            "end": 262.038625,
+            "end": 262.172125,
             "token": "yeah"
         },
         {
-            "name": "spontB_239_yeah",
+            "name": "sun_007_right",
             "start": 275.49,
-            "end": 276.036875,
-            "token": "yeah"
+            "end": 276.3795,
+            "token": "right"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05748",
     "context_channel": 0,
-    "context_text": "<B> yeah versus looking at a looking at a computer screen that after a while hurts your eyes you know um the you know the glowing light { so } / <A> [ ah ] / <B> yeah i mean i hope that doesn't i i doubt it i mean i know um card catalogues have been basically replaced um / <A> yeah / <B> by computers and that to me makes a lot of sense it's / <A> mhm / <B> much easier to just type something in the computer than go through card catalogues / <A> yeah",
+    "context_text": "<B> yeah versus looking at a looking at a computer screen that after a while hurts your eyes you know um the you know the glowing light { so } / <A> [ right ] / <B> yeah i mean i hope that doesn't i i doubt it i mean i know um card catalogues have been basically replaced um / <A> mhm / <B> by computers and that to me makes a lot of sense it's / <A> really / <B> much easier to just type something in the computer than go through card catalogues / <A> mhm",
     "context_start": 556.81,
-    "context_end": 580.18575,
+    "context_end": 580.151875,
     "feedback": [
         {
-            "name": "spontC_173_ah",
+            "name": "sun1_033_right",
             "start": 564.61,
-            "end": 565.674,
-            "token": "ah"
+            "end": 565.463125,
+            "token": "right"
         },
         {
-            "name": "spontE_073_yeah",
+            "name": "spontC_313_mhm",
             "start": 572.4,
-            "end": 572.966,
-            "token": "yeah"
-        },
-        {
-            "name": "spontD_204_mhm",
-            "start": 575.58,
-            "end": 576.2302500000001,
+            "end": 572.89525,
             "token": "mhm"
         },
         {
-            "name": "spontA_233_yeah",
+            "name": "PS_070_really",
+            "start": 575.58,
+            "end": 576.268625,
+            "token": "really"
+        },
+        {
+            "name": "spontC_499_mhm",
             "start": 579.41,
-            "end": 580.18575,
-            "token": "yeah"
+            "end": 580.151875,
+            "token": "mhm"
         }
     ]
 }

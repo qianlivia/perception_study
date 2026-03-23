@@ -1,27 +1,27 @@
 {
     "name": "fe_03_04834",
     "context_channel": 1,
-    "context_text": "<A> is is okay what are you going to do do you take control ah and do you actually not only take control but then try to help out the situation / <B> yeah / <A> do i mean i'm just hoping that if i don't see something and somebody else says no don't go that way go this way / <B> yeah / <A> that it's the right move because unfortunately we had some people that i think were going up in the building when they should have been going down { but it } / <B> [ yeah ]",
+    "context_text": "<A> is is okay what are you going to do do you take control ah and do you actually not only take control but then try to help out the situation / <B> okay / <A> do i mean i'm just hoping that if i don't see something and somebody else says no don't go that way go this way / <B> mhm / <A> that it's the right move because unfortunately we had some people that i think were going up in the building when they should have been going down { but it } / <B> [ uh-huh ]",
     "context_start": 565.06,
-    "context_end": 589.5175,
+    "context_end": 589.2788750000001,
     "feedback": [
         {
-            "name": "spontD_393_yeah",
+            "name": "spontC_134_okay",
             "start": 574.43,
-            "end": 574.931875,
-            "token": "yeah"
+            "end": 575.237125,
+            "token": "okay"
         },
         {
-            "name": "spontB_097_yeah",
+            "name": "spontB_351_mhm",
             "start": 580.29,
-            "end": 580.863625,
-            "token": "yeah"
+            "end": 580.7333749999999,
+            "token": "mhm"
         },
         {
-            "name": "spontD_198_yeah",
+            "name": "spontA_201_uh-huh",
             "start": 588.83,
-            "end": 589.5175,
-            "token": "yeah"
+            "end": 589.2788750000001,
+            "token": "uh-huh"
         }
     ]
 }

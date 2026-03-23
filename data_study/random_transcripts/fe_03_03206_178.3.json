@@ -1,45 +1,45 @@
 {
     "name": "fe_03_03206",
     "context_channel": 0,
-    "context_text": "<B> uh it's good i used to have also a my parents had a cocker spaniel / <A> yeah / <B> and uh that was a good dog that was a nice dog it was blind / <A> wow / <B> but uh it would love to play ball it would love it just take the ball and { and it } / <A> [ yeah ] / <B> would take it a long time to find the ball because it was blind like i said / <A> ah / <B> like it it would smell you know the scent it would { smell the } / <A> [ yeah ] / <B> ball out and go find it and it would love bringing it back up to you and do it all over and over and over and over { for } / <A> [ yeah ]",
+    "context_text": "<B> uh it's good i used to have also a my parents had a cocker spaniel / <A> mhm / <B> and uh that was a good dog that was a nice dog it was blind / <A> exactly / <B> but uh it would love to play ball it would love it just take the ball and { and it } / <A> [ mhm ] / <B> would take it a long time to find the ball because it was blind like i said / <A> right / <B> like it it would smell you know the scent it would { smell the } / <A> [ right ] / <B> ball out and go find it and it would love bringing it back up to you and do it all over and over and over and over { for } / <A> [ right ]",
     "context_start": 178.3,
-    "context_end": 204.030375,
+    "context_end": 204.142,
     "feedback": [
         {
-            "name": "spontB_107_yeah",
+            "name": "spontC_387_mhm",
             "start": 183.16,
-            "end": 183.800625,
-            "token": "yeah"
+            "end": 183.765,
+            "token": "mhm"
         },
         {
-            "name": "PS_077_wow",
+            "name": "sun_041_exactly",
             "start": 186.87,
-            "end": 187.673875,
-            "token": "wow"
+            "end": 187.823,
+            "token": "exactly"
         },
         {
-            "name": "spontB_238_yeah",
+            "name": "spontF_121_mhm",
             "start": 191.63,
-            "end": 192.6085,
-            "token": "yeah"
+            "end": 192.177,
+            "token": "mhm"
         },
         {
-            "name": "spontA_245_ah",
+            "name": "sun1_032_right",
             "start": 194.87,
-            "end": 195.45525,
-            "token": "ah"
+            "end": 195.713375,
+            "token": "right"
         },
         {
-            "name": "spontF_041_yeah",
+            "name": "sun_013_right",
             "start": 197.59,
-            "end": 198.4575,
-            "token": "yeah"
+            "end": 198.4635,
+            "token": "right"
         },
         {
-            "name": "spontD_231_yeah",
+            "name": "sun1_029_right",
             "start": 203.45,
-            "end": 204.030375,
-            "token": "yeah"
+            "end": 204.142,
+            "token": "right"
         }
     ]
 }

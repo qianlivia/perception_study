@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01236",
     "context_channel": 1,
-    "context_text": "<A> work for i don't own a business at all and ah it the way i feel about it is i i'm sure that there's people in the past particularly who were hired to fill a quota / <B> yeah / <A> but and if you look at the big picture { like } / <B> [ ah ] / <A> like the big picture of the united states and the people who are afro american we were descended from slaves / <B> mhm / <A> um that unless you continually churn people and have an upwardly mobile that where it's possible to to go up / <B> mhm",
+    "context_text": "<A> work for i don't own a business at all and ah it the way i feel about it is i i'm sure that there's people in the past particularly who were hired to fill a quota / <B> mhm / <A> but and if you look at the big picture { like } / <B> [ okay ] / <A> like the big picture of the united states and the people who are afro american we were descended from slaves / <B> mhm / <A> um that unless you continually churn people and have an upwardly mobile that where it's possible to to go up / <B> oh",
     "context_start": 236.02,
-    "context_end": 279.398375,
+    "context_end": 279.462125,
     "feedback": [
         {
-            "name": "spontA_208_yeah",
+            "name": "spontE_361_mhm",
             "start": 251.79,
-            "end": 252.584125,
-            "token": "yeah"
+            "end": 252.249375,
+            "token": "mhm"
         },
         {
-            "name": "spontB_190_ah",
+            "name": "spontF_583_okay",
             "start": 256.56,
-            "end": 257.7745,
-            "token": "ah"
+            "end": 257.738,
+            "token": "okay"
         },
         {
-            "name": "spontA_331_mhm",
+            "name": "spontE_268_mhm",
             "start": 265.6,
-            "end": 266.25887500000005,
+            "end": 266.16787500000004,
             "token": "mhm"
         },
         {
-            "name": "sun_012_mhm",
+            "name": "PS_004_oh",
             "start": 278.39,
-            "end": 279.398375,
-            "token": "mhm"
+            "end": 279.462125,
+            "token": "oh"
         }
     ]
 }

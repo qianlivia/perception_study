@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01191",
     "context_channel": 1,
-    "context_text": "<A> gonna have to tell them mama cho is the lady that um has ninety of them but we here in atlanta we have a foundation we have the only foundation in the new y in the in the united states / <B> mhm / <A> we have a foundation um / <B> yeah / <A> and jane fonda is our co chairperson { but it } / <B> [ yeah ] / <A> was found by an african american a young lady in her thirties mary wims / <B> right",
+    "context_text": "<A> gonna have to tell them mama cho is the lady that um has ninety of them but we here in atlanta we have a foundation we have the only foundation in the new y in the in the united states / <B> oh / <A> we have a foundation um / <B> mhm / <A> and jane fonda is our co chairperson { but it } / <B> [ right ] / <A> was found by an african american a young lady in her thirties mary wims / <B> oh",
     "context_start": 487.96,
-    "context_end": 511.54337499999997,
+    "context_end": 512.062875,
     "feedback": [
         {
-            "name": "spontA_064_mhm",
+            "name": "Sy_069_oh",
             "start": 501.07,
-            "end": 501.593125,
+            "end": 502.229,
+            "token": "oh"
+        },
+        {
+            "name": "spontC_380_mhm",
+            "start": 503.05,
+            "end": 503.584375,
             "token": "mhm"
         },
         {
-            "name": "spontC_336_yeah",
-            "start": 503.05,
-            "end": 503.652125,
-            "token": "yeah"
-        },
-        {
-            "name": "spontA_448_yeah",
+            "name": "sun1_029_right",
             "start": 506.27,
-            "end": 506.78925,
-            "token": "yeah"
+            "end": 506.962,
+            "token": "right"
         },
         {
-            "name": "sun1_032_right",
+            "name": "Sy_006_oh",
             "start": 510.7,
-            "end": 511.54337499999997,
-            "token": "right"
+            "end": 512.062875,
+            "token": "oh"
         }
     ]
 }

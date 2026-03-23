@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00995",
     "context_channel": 1,
-    "context_text": "<A> and i will get you an invitation to the group / <B> yeah / <A> the only rule is you have to post something once a month / <B> no / <A> either a coupon { a } / <B> [ uh-huh ] / <A> freebie a you know i mean if you do mary kay / <B> yeah",
+    "context_text": "<A> and i will get you an invitation to the group / <B> really / <A> the only rule is you have to post something once a month / <B> uh-huh / <A> either a coupon { a } / <B> [ okay ] / <A> freebie a you know i mean if you do mary kay / <B> mhm",
     "context_start": 343.32,
-    "context_end": 358.085375,
+    "context_end": 358.192875,
     "feedback": [
         {
-            "name": "spontC_393_yeah",
+            "name": "NS_082_really",
             "start": 346.34,
-            "end": 347.0505,
-            "token": "yeah"
+            "end": 347.09225,
+            "token": "really"
         },
         {
-            "name": "sun2_025_no",
+            "name": "spontE_304_uh-huh",
             "start": 352.2,
-            "end": 353.0675,
-            "token": "no"
-        },
-        {
-            "name": "spontD_036_uh-huh",
-            "start": 354.48,
-            "end": 354.99037500000003,
+            "end": 352.68762499999997,
             "token": "uh-huh"
         },
         {
-            "name": "spontA_452_yeah",
+            "name": "spontE_391_okay",
+            "start": 354.48,
+            "end": 354.99687500000005,
+            "token": "okay"
+        },
+        {
+            "name": "spontC_322_mhm",
             "start": 357.62,
-            "end": 358.085375,
-            "token": "yeah"
+            "end": 358.192875,
+            "token": "mhm"
         }
     ]
 }

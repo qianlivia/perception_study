@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04445",
     "context_channel": 0,
-    "context_text": "<B> yeah there are a lot of negatives of what's going on in the school system right now i mean but there are still there are a lot of positives too / <A> yeah / <B> and there are some good public schools i mean there are good public schools in every state in the union and { there's } / <A> [ ooh ] / <B> bad ones i think { you } / <A> [ no ] / <B> just have to work at finding the one that's right for you and for your child / <A> uh-huh",
+    "context_text": "<B> yeah there are a lot of negatives of what's going on in the school system right now i mean but there are still there are a lot of positives too / <A> right / <B> and there are some good public schools i mean there are good public schools in every state in the union and { there's } / <A> [ yeah ] / <B> bad ones i think { you } / <A> [ okay ] / <B> just have to work at finding the one that's right for you and for your child / <A> mhm",
     "context_start": 531.02,
-    "context_end": 549.7950000000001,
+    "context_end": 549.925875,
     "feedback": [
         {
-            "name": "spontB_328_yeah",
+            "name": "sun_007_right",
             "start": 537.74,
-            "end": 538.4845,
+            "end": 538.6295,
+            "token": "right"
+        },
+        {
+            "name": "spontF_624_yeah",
+            "start": 543.7,
+            "end": 544.194375,
             "token": "yeah"
         },
         {
-            "name": "NegS_045_ooh",
-            "start": 543.7,
-            "end": 544.873,
-            "token": "ooh"
-        },
-        {
-            "name": "NR_027_no",
+            "name": "spontF_280_okay",
             "start": 545.71,
-            "end": 546.530375,
-            "token": "no"
+            "end": 546.431625,
+            "token": "okay"
         },
         {
-            "name": "spontC_358_uh-huh",
+            "name": "spontE_054_mhm",
             "start": 549.21,
-            "end": 549.7950000000001,
-            "token": "uh-huh"
+            "end": 549.925875,
+            "token": "mhm"
         }
     ]
 }

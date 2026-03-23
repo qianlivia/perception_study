@@ -1,39 +1,39 @@
 {
     "name": "fe_03_01012",
     "context_channel": 0,
-    "context_text": "<B> and i saw the um the one jet liner go into one world trade centre and i just looked and i thought you know what the heck is this and i heard a bunch of talking and all and it's the first time my wife never brought her cell phone with her so / <A> wow / <B> here she is going to a park which is only like about two miles away but she { yeah } / <A> [ okay ] / <B> dover delaware is only an hour and a half from washington dc an hour and a half from philadelphia and then we had the big air force base here / <A> yeah / <B> and new york is only three hours from here three and a half hours so so { this } / <A> [ mhm ] / <B> happened and i sat down and i'm thinking holy jeeze what the hell is going on here so { i'm } / <A> [ oh ]",
+    "context_text": "<B> and i saw the um the one jet liner go into one world trade centre and i just looked and i thought you know what the heck is this and i heard a bunch of talking and all and it's the first time my wife never brought her cell phone with her so / <A> yeah / <B> here she is going to a park which is only like about two miles away but she { yeah } / <A> [ right ] / <B> dover delaware is only an hour and a half from washington dc an hour and a half from philadelphia and then we had the big air force base here / <A> mhm / <B> and new york is only three hours from here three and a half hours so so { this } / <A> [ okay ] / <B> happened and i sat down and i'm thinking holy jeeze what the hell is going on here so { i'm } / <A> [ yeah ]",
     "context_start": 247.52,
-    "context_end": 283.28812500000004,
+    "context_end": 282.671,
     "feedback": [
         {
-            "name": "PS_034_wow",
+            "name": "spontB_094_yeah",
             "start": 260.55,
-            "end": 261.36762500000003,
-            "token": "wow"
-        },
-        {
-            "name": "spontC_172_okay",
-            "start": 264.19,
-            "end": 264.601125,
-            "token": "okay"
-        },
-        {
-            "name": "spontD_013_yeah",
-            "start": 272.25,
-            "end": 272.965,
+            "end": 260.886,
             "token": "yeah"
         },
         {
-            "name": "spontD_139_mhm",
-            "start": 276.96,
-            "end": 277.64599999999996,
+            "name": "sun1_030_right",
+            "start": 264.19,
+            "end": 264.983625,
+            "token": "right"
+        },
+        {
+            "name": "spontA_319_mhm",
+            "start": 272.25,
+            "end": 272.84525,
             "token": "mhm"
         },
         {
-            "name": "Sy_011_oh",
+            "name": "spontD_033_okay",
+            "start": 276.96,
+            "end": 277.65662499999996,
+            "token": "okay"
+        },
+        {
+            "name": "spontB_252_yeah",
             "start": 282.05,
-            "end": 283.28812500000004,
-            "token": "oh"
+            "end": 282.671,
+            "token": "yeah"
         }
     ]
 }

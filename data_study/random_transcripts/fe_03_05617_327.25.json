@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05617",
     "context_channel": 0,
-    "context_text": "<B> and um to get back to the subject um i thought that was very interesting when / <A> no / <B> um when the yankees ah when the yankees were were were winning / <A> yeah / <B> almost every year that then the other teams all felt that you know prices the the salary caps had to be lowered / <A> yeah / <B> you know it wasn't so much of a problem before { after } / <A> [ yeah ]",
+    "context_text": "<B> and um to get back to the subject um i thought that was very interesting when / <A> okay / <B> um when the yankees ah when the yankees were were were winning / <A> right / <B> almost every year that then the other teams all felt that you know prices the the salary caps had to be lowered / <A> really / <B> you know it wasn't so much of a problem before { after } / <A> [ mhm ]",
     "context_start": 327.25,
-    "context_end": 360.41125,
+    "context_end": 360.868375,
     "feedback": [
         {
-            "name": "NR_069_no",
+            "name": "spontF_053_okay",
             "start": 337.25,
-            "end": 338.00925,
-            "token": "no"
+            "end": 338.07825,
+            "token": "okay"
         },
         {
-            "name": "spontE_125_yeah",
+            "name": "PR_043_right",
             "start": 344.9,
-            "end": 345.67525,
-            "token": "yeah"
+            "end": 345.56,
+            "token": "right"
         },
         {
-            "name": "spontE_272_yeah",
+            "name": "PS_070_really",
             "start": 354.45,
-            "end": 355.172375,
-            "token": "yeah"
+            "end": 355.138625,
+            "token": "really"
         },
         {
-            "name": "spontF_328_yeah",
+            "name": "sun_012_mhm",
             "start": 359.86,
-            "end": 360.41125,
-            "token": "yeah"
+            "end": 360.868375,
+            "token": "mhm"
         }
     ]
 }

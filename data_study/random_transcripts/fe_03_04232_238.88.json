@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04232",
     "context_channel": 0,
-    "context_text": "<B> it would have been better if i was lazy not working and i could have got welfare but it's like it was you know just a lot of heartache back then a lot of hard times { you know } / <A> [ yes ] / <B> no insurance and / <A> yeah / <B> you know the daycare prices and that i mean i got help after a while but it was just the point like you had to { pay a } / <A> [ yeah ] / <B> lousy fifteen dollars back then which didn't even cover half the cost of daycare / <A> wow",
+    "context_text": "<B> it would have been better if i was lazy not working and i could have got welfare but it's like it was you know just a lot of heartache back then a lot of hard times { you know } / <A> [ right ] / <B> no insurance and / <A> right / <B> you know the daycare prices and that i mean i got help after a while but it was just the point like you had to { pay a } / <A> [ wow ] / <B> lousy fifteen dollars back then which didn't even cover half the cost of daycare / <A> exactly",
     "context_start": 238.88,
-    "context_end": 266.1225,
+    "context_end": 265.813,
     "feedback": [
         {
-            "name": "PR_060_yes",
+            "name": "sun1_029_right",
             "start": 249.64,
-            "end": 250.58049999999997,
-            "token": "yes"
+            "end": 250.332,
+            "token": "right"
         },
         {
-            "name": "spontF_367_yeah",
+            "name": "sun1_033_right",
             "start": 252.95,
-            "end": 253.75462499999998,
-            "token": "yeah"
+            "end": 253.803125,
+            "token": "right"
         },
         {
-            "name": "spontC_077_yeah",
+            "name": "PS_048_wow",
             "start": 259.55,
-            "end": 260.08162500000003,
-            "token": "yeah"
+            "end": 261.08250000000004,
+            "token": "wow"
         },
         {
-            "name": "PS_061_wow",
+            "name": "sun_041_exactly",
             "start": 264.86,
-            "end": 266.1225,
-            "token": "wow"
+            "end": 265.813,
+            "token": "exactly"
         }
     ]
 }

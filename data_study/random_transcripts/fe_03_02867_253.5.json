@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02867",
     "context_channel": 1,
-    "context_text": "<A> um no my son has gone he goes to the professional games he goes in seattle / <B> yeah / <A> and i've always told i've always said i want to go you know at least once i want to go go see a professional game / <B> uh-huh / <A> and i mean seattle's only like an hour and a half away so it's not like it's you know a { a } / <B> [ uh-huh ] / <A> long drive it's just a matter of thinking ahead of time let's get the tickets you know / <B> oh",
+    "context_text": "<A> um no my son has gone he goes to the professional games he goes in seattle / <B> yeah / <A> and i've always told i've always said i want to go you know at least once i want to go go see a professional game / <B> right / <A> and i mean seattle's only like an hour and a half away so it's not like it's you know a { a } / <B> [ okay ] / <A> long drive it's just a matter of thinking ahead of time let's get the tickets you know / <B> uh-huh",
     "context_start": 253.5,
-    "context_end": 279.25512499999996,
+    "context_end": 279.04587499999997,
     "feedback": [
         {
-            "name": "spontC_271_yeah",
+            "name": "spontC_389_yeah",
             "start": 259.04,
-            "end": 259.55512500000003,
+            "end": 259.558,
             "token": "yeah"
         },
         {
-            "name": "spontD_206_uh-huh",
+            "name": "spontC_360_right",
             "start": 266.83,
-            "end": 267.45849999999996,
-            "token": "uh-huh"
+            "end": 267.40887499999997,
+            "token": "right"
         },
         {
-            "name": "spontD_337_uh-huh",
+            "name": "spontE_005_okay",
             "start": 271.79,
-            "end": 272.3,
-            "token": "uh-huh"
+            "end": 272.340375,
+            "token": "okay"
         },
         {
-            "name": "spontE_048_oh",
+            "name": "spontC_095_uh-huh",
             "start": 278.51,
-            "end": 279.25512499999996,
-            "token": "oh"
+            "end": 279.04587499999997,
+            "token": "uh-huh"
         }
     ]
 }

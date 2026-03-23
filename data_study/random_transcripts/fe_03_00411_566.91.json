@@ -1,27 +1,27 @@
 {
     "name": "fe_03_00411",
     "context_channel": 1,
-    "context_text": "<A> i when i first got here at the university like i took all the classes that were like the freshman core classes { and } / <B> [ wow ] / <A> there was like two three hundred people in each class but now that i'm taking my i've been doing cs classes there's not more than like maybe twenty or thirty / <B> uh-huh / <A> and sometimes say twelve / <B> yeah",
+    "context_text": "<A> i when i first got here at the university like i took all the classes that were like the freshman core classes { and } / <B> [ right ] / <A> there was like two three hundred people in each class but now that i'm taking my i've been doing cs classes there's not more than like maybe twenty or thirty / <B> oh / <A> and sometimes say twelve / <B> right",
     "context_start": 566.91,
-    "context_end": 583.664,
+    "context_end": 583.963375,
     "feedback": [
         {
-            "name": "PS_097_wow",
+            "name": "PR_048_right",
             "start": 572.53,
-            "end": 574.17775,
-            "token": "wow"
+            "end": 573.165125,
+            "token": "right"
         },
         {
-            "name": "spontF_082_uh-huh",
+            "name": "spontC_018_oh",
             "start": 581.03,
-            "end": 581.8895,
-            "token": "uh-huh"
+            "end": 581.809625,
+            "token": "oh"
         },
         {
-            "name": "spontB_275_yeah",
+            "name": "sun1_032_right",
             "start": 583.12,
-            "end": 583.664,
-            "token": "yeah"
+            "end": 583.963375,
+            "token": "right"
         }
     ]
 }

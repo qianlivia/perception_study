@@ -1,39 +1,39 @@
 {
     "name": "fe_03_04470",
     "context_channel": 1,
-    "context_text": "<A> [ sure that you can't ] say the you know the pledge of allegiance or you can't say you know have a moment of prayer or something / <B> ah / <A> like that that that's really i just that's what i think definitely this country has gone off and / <B> mhm / <A> and i don't know they do it in other countries but like you said we were founded in god we trust we were founded with those religious beliefs i mean this was a country of religious freedom because / <B> oh / <A> people came wherever they were they were you know put upon { by } / <B> [ mhm ] / <A> the king of england or whatever they couldn't practise certain things or whatever country the people / <B> wow",
+    "context_text": "<A> [ sure that you can't ] say the you know the pledge of allegiance or you can't say you know have a moment of prayer or something / <B> right / <A> like that that that's really i just that's what i think definitely this country has gone off and / <B> yeah / <A> and i don't know they do it in other countries but like you said we were founded in god we trust we were founded with those religious beliefs i mean this was a country of religious freedom because / <B> yeah / <A> people came wherever they were they were you know put upon { by } / <B> [ yeah ] / <A> the king of england or whatever they couldn't practise certain things or whatever country the people / <B> okay",
     "context_start": 514.64,
-    "context_end": 543.6885000000001,
+    "context_end": 542.76075,
     "feedback": [
         {
-            "name": "spontC_173_ah",
+            "name": "sun1_029_right",
             "start": 520.12,
-            "end": 521.184,
-            "token": "ah"
+            "end": 520.812,
+            "token": "right"
         },
         {
-            "name": "NS_071_mhm",
+            "name": "spontA_110_yeah",
             "start": 525.09,
-            "end": 526.178,
-            "token": "mhm"
+            "end": 526.0221250000001,
+            "token": "yeah"
         },
         {
-            "name": "spontD_193_oh",
+            "name": "spontC_192_yeah",
             "start": 534.36,
-            "end": 535.11125,
-            "token": "oh"
+            "end": 534.81175,
+            "token": "yeah"
         },
         {
-            "name": "spontD_081_mhm",
+            "name": "spontE_125_yeah",
             "start": 537.79,
-            "end": 538.4354999999999,
-            "token": "mhm"
+            "end": 538.56525,
+            "token": "yeah"
         },
         {
-            "name": "PS_154_wow",
+            "name": "spontE_275_okay",
             "start": 542.2,
-            "end": 543.6885000000001,
-            "token": "wow"
+            "end": 542.76075,
+            "token": "okay"
         }
     ]
 }

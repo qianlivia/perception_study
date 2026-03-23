@@ -1,27 +1,27 @@
 {
     "name": "fe_03_00686",
     "context_channel": 0,
-    "context_text": "<B> just i'm really a lot more comfortable now that they got these um the machines that screen for bombs / <A> ooh / <B> and all the luggage cause i / <A> no / <B> think that you know that's one of the things i thought about you know that would be easy to do / <A> yeah",
+    "context_text": "<B> just i'm really a lot more comfortable now that they got these um the machines that screen for bombs / <A> right / <B> and all the luggage cause i / <A> mhm / <B> think that you know that's one of the things i thought about you know that would be easy to do / <A> right",
     "context_start": 68.03,
-    "context_end": 82.495125,
+    "context_end": 82.642,
     "feedback": [
         {
-            "name": "NegS_038_ooh",
+            "name": "spontC_360_right",
             "start": 75.4,
-            "end": 76.41312500000001,
-            "token": "ooh"
+            "end": 75.978875,
+            "token": "right"
         },
         {
-            "name": "NR_088_no",
+            "name": "spontE_049_mhm",
             "start": 76.76,
-            "end": 77.57525000000001,
-            "token": "no"
+            "end": 77.358,
+            "token": "mhm"
         },
         {
-            "name": "spontB_057_yeah",
+            "name": "sun1_029_right",
             "start": 81.95,
-            "end": 82.495125,
-            "token": "yeah"
+            "end": 82.642,
+            "token": "right"
         }
     ]
 }

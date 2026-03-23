@@ -1,45 +1,45 @@
 {
     "name": "fe_03_02163",
     "context_channel": 0,
-    "context_text": "<B> i like uh i like salads really i like salads and then i like uh uh well i like chicken i try to lay off uh meats a lot / <A> oh / <B> some time i just go like vegetables / <A> uh-huh / <B> um uh an entree or something you know { but } / <A> [ mhm ] / <B> uh basically i'm not really hard to please i'm not hard to please i mean if the food is cooked right / <A> yeah / <B> and good and uh uh i like meat loaves / <A> mhm / <B> and uh uh i don't i'm not a steak person / <A> sure",
+    "context_text": "<B> i like uh i like salads really i like salads and then i like uh uh well i like chicken i try to lay off uh meats a lot / <A> yeah / <B> some time i just go like vegetables / <A> mhm / <B> um uh an entree or something you know { but } / <A> [ oh ] / <B> uh basically i'm not really hard to please i'm not hard to please i mean if the food is cooked right / <A> right / <B> and good and uh uh i like meat loaves / <A> really / <B> and uh uh i don't i'm not a steak person / <A> okay",
     "context_start": 117.48,
-    "context_end": 147.75575,
+    "context_end": 147.414375,
     "feedback": [
         {
-            "name": "spontF_070_oh",
+            "name": "spontB_282_yeah",
             "start": 127.52,
-            "end": 127.983125,
-            "token": "oh"
-        },
-        {
-            "name": "spontE_070_uh-huh",
-            "start": 129.83,
-            "end": 130.30475,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontC_392_mhm",
-            "start": 132.9,
-            "end": 133.52337500000002,
-            "token": "mhm"
-        },
-        {
-            "name": "spontC_307_yeah",
-            "start": 139.61,
-            "end": 140.197875,
+            "end": 128.325625,
             "token": "yeah"
         },
         {
-            "name": "spontA_379_mhm",
-            "start": 143.26,
-            "end": 143.777875,
+            "name": "PR_032_mhm",
+            "start": 129.83,
+            "end": 130.56137500000003,
             "token": "mhm"
         },
         {
-            "name": "sun_050_sure",
+            "name": "Sy_069_oh",
+            "start": 132.9,
+            "end": 134.059,
+            "token": "oh"
+        },
+        {
+            "name": "sun_028_right",
+            "start": 139.61,
+            "end": 140.33937500000002,
+            "token": "right"
+        },
+        {
+            "name": "NS_082_really",
+            "start": 143.26,
+            "end": 144.01225,
+            "token": "really"
+        },
+        {
+            "name": "spontE_405_okay",
             "start": 146.74,
-            "end": 147.75575,
-            "token": "sure"
+            "end": 147.414375,
+            "token": "okay"
         }
     ]
 }

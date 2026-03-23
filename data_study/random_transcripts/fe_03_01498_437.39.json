@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01498",
     "context_channel": 1,
-    "context_text": "<A> so a lotta that stuff was our our w we were keeping up with down here / <B> right / <A> and um i guess because it was you know pretty close where they were finding these things and then you sit there { and say } / <B> [ mhm ] / <A> well did that person pass me in the mall or you know something of that sort and / <B> oh / <A> uh like be driving down a country road and you see somebody with a turban on and you say hm you know what / <B> uh-huh",
+    "context_text": "<A> so a lotta that stuff was our our w we were keeping up with down here / <B> mhm / <A> and um i guess because it was you know pretty close where they were finding these things and then you sit there { and say } / <B> [ right ] / <A> well did that person pass me in the mall or you know something of that sort and / <B> right / <A> uh like be driving down a country road and you see somebody with a turban on and you say hm you know what / <B> right",
     "context_start": 437.39,
-    "context_end": 459.94675,
+    "context_end": 460.132,
     "feedback": [
         {
-            "name": "sun_013_right",
+            "name": "spontA_200_mhm",
             "start": 442.47,
-            "end": 443.3435,
-            "token": "right"
-        },
-        {
-            "name": "spontD_139_mhm",
-            "start": 447.66,
-            "end": 448.346,
+            "end": 443.0445,
             "token": "mhm"
         },
         {
-            "name": "spontE_301_oh",
-            "start": 452.85,
-            "end": 453.86525,
-            "token": "oh"
+            "name": "sun1_032_right",
+            "start": 447.66,
+            "end": 448.503375,
+            "token": "right"
         },
         {
-            "name": "spontC_378_uh-huh",
+            "name": "PR_043_right",
+            "start": 452.85,
+            "end": 453.51000000000005,
+            "token": "right"
+        },
+        {
+            "name": "sun1_029_right",
             "start": 459.44,
-            "end": 459.94675,
-            "token": "uh-huh"
+            "end": 460.132,
+            "token": "right"
         }
     ]
 }

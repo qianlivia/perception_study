@@ -1,27 +1,27 @@
 {
     "name": "fe_03_00284",
     "context_channel": 1,
-    "context_text": "<A> like you know he was at the wrong airport so he had to take a train and that cab from bwi out to reagan to get his luggage and stuff so i guess like i mean in some instances like that was like a little severe / <B> [ no ] / <A> you know but i guess they're trying to make like regulations that people can follow rather than / <B> uh-huh / <A> ask people to make decisions / <B> oh",
+    "context_text": "<A> like you know he was at the wrong airport so he had to take a train and that cab from bwi out to reagan to get his luggage and stuff so i guess like i mean in some instances like that was like a little severe / <B> [ yeah ] / <A> you know but i guess they're trying to make like regulations that people can follow rather than / <B> okay / <A> ask people to make decisions / <B> yeah",
     "context_start": 396.87,
-    "context_end": 420.28775,
+    "context_end": 419.595625,
     "feedback": [
         {
-            "name": "NR_077_no",
+            "name": "spontB_373_yeah",
             "start": 409.13,
-            "end": 410.2955,
-            "token": "no"
+            "end": 409.5415,
+            "token": "yeah"
         },
         {
-            "name": "spontE_173_uh-huh",
+            "name": "spontC_134_okay",
             "start": 416.55,
-            "end": 417.1585,
-            "token": "uh-huh"
+            "end": 417.357125,
+            "token": "okay"
         },
         {
-            "name": "Sy_065_oh",
+            "name": "spontE_023_yeah",
             "start": 419.06,
-            "end": 420.28775,
-            "token": "oh"
+            "end": 419.595625,
+            "token": "yeah"
         }
     ]
 }

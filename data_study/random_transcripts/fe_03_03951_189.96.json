@@ -1,39 +1,39 @@
 {
     "name": "fe_03_03951",
     "context_channel": 1,
-    "context_text": "<A> you know and you know we come from a i come from a very large family and like so like you said like people with handicaps you know my dad only has one arm { from a } / <B> [ yeah ] / <A> farming accident my { husband } / <B> [ ooh ] / <A> has lou gehrig's disease so he's in a wheelchair / <B> oh / <A> you know so we've dealt with a lot of that in our family the kids are ah you know i don't want them making fun of people like that / <B> mhm / <A> because we we live it / <B> oh",
+    "context_text": "<A> you know and you know we come from a i come from a very large family and like so like you said like people with handicaps you know my dad only has one arm { from a } / <B> [ mhm ] / <A> farming accident my { husband } / <B> [ oh ] / <A> has lou gehrig's disease so he's in a wheelchair / <B> right / <A> you know so we've dealt with a lot of that in our family the kids are ah you know i don't want them making fun of people like that / <B> mhm / <A> because we we live it / <B> yeah",
     "context_start": 189.96,
-    "context_end": 216.36175,
+    "context_end": 215.774375,
     "feedback": [
         {
-            "name": "spontD_024_yeah",
+            "name": "spontA_345_mhm",
             "start": 199.74,
-            "end": 200.16012500000002,
-            "token": "yeah"
-        },
-        {
-            "name": "NegS_014_ooh",
-            "start": 201.6,
-            "end": 202.72225,
-            "token": "ooh"
-        },
-        {
-            "name": "spontA_122_oh",
-            "start": 204.51,
-            "end": 205.27175,
-            "token": "oh"
-        },
-        {
-            "name": "spontD_115_mhm",
-            "start": 213.28,
-            "end": 213.769875,
+            "end": 200.43550000000002,
             "token": "mhm"
         },
         {
-            "name": "PS_001_oh",
-            "start": 215.28,
-            "end": 216.36175,
+            "name": "spontF_292_oh",
+            "start": 201.6,
+            "end": 202.487625,
             "token": "oh"
+        },
+        {
+            "name": "sun1_029_right",
+            "start": 204.51,
+            "end": 205.202,
+            "token": "right"
+        },
+        {
+            "name": "spontF_038_mhm",
+            "start": 213.28,
+            "end": 213.808875,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_624_yeah",
+            "start": 215.28,
+            "end": 215.774375,
+            "token": "yeah"
         }
     ]
 }

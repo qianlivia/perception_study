@@ -1,39 +1,39 @@
 {
     "name": "fe_03_01935",
     "context_channel": 0,
-    "context_text": "<B> i had to work harder at having self confidence / <A> mhm / <B> because i was always yeah it did make me a little shyer because when i went to college for the first time you know i had a roommate and i had to deal with the dorm and i had to deal with a big group of other / <A> okay / <B> guys and that took me a while to adjust to / <A> yeah / <B> because i had never had to adjust to other people / <A> yeah / <B> because my it was just my my parents with me so i didn't have to it took me a while to adjust to a group of people so i / <A> yeah",
+    "context_text": "<B> i had to work harder at having self confidence / <A> mhm / <B> because i was always yeah it did make me a little shyer because when i went to college for the first time you know i had a roommate and i had to deal with the dorm and i had to deal with a big group of other / <A> exactly / <B> guys and that took me a while to adjust to / <A> uh-huh / <B> because i had never had to adjust to other people / <A> mhm / <B> because my it was just my my parents with me so i didn't have to it took me a while to adjust to a group of people so i / <A> right",
     "context_start": 261.89,
-    "context_end": 295.291875,
+    "context_end": 295.70362500000005,
     "feedback": [
         {
-            "name": "sun1_004_mhm",
+            "name": "spontA_253_mhm",
             "start": 265.42,
-            "end": 266.07,
+            "end": 265.89362500000004,
             "token": "mhm"
         },
         {
-            "name": "spontB_195_okay",
+            "name": "sun_042_exactly",
             "start": 277.04,
-            "end": 277.70950000000005,
-            "token": "okay"
+            "end": 277.99725,
+            "token": "exactly"
         },
         {
-            "name": "sun1_021_yeah",
+            "name": "spontF_575_uh-huh",
             "start": 282.14,
-            "end": 282.873875,
-            "token": "yeah"
+            "end": 282.6805,
+            "token": "uh-huh"
         },
         {
-            "name": "spontA_116_yeah",
+            "name": "sun1_006_mhm",
             "start": 285.89,
-            "end": 286.37624999999997,
-            "token": "yeah"
+            "end": 286.59,
+            "token": "mhm"
         },
         {
-            "name": "sun1_023_yeah",
+            "name": "sun1_030_right",
             "start": 294.91,
-            "end": 295.291875,
-            "token": "yeah"
+            "end": 295.70362500000005,
+            "token": "right"
         }
     ]
 }

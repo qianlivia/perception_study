@@ -1,39 +1,39 @@
 {
     "name": "fe_03_04309",
     "context_channel": 1,
-    "context_text": "<A> eight years of prosperity and no you know eight years going with the clinton administration in which he did his fair share of wrong but / <B> yeah / <A> it just seems like and since bush got in office nothing against him { but we } / <B> [ oh ] / <A> went from eight years of record breaking numbers the stock market climbing to ultimate highs the dot com business you know before the bubble busted was just / <B> yeah / <A> raving people were making a killing { more } / <B> [ oh ] / <A> self make millionaires than ever / <B> oh",
+    "context_text": "<A> eight years of prosperity and no you know eight years going with the clinton administration in which he did his fair share of wrong but / <B> mhm / <A> it just seems like and since bush got in office nothing against him { but we } / <B> [ mhm ] / <A> went from eight years of record breaking numbers the stock market climbing to ultimate highs the dot com business you know before the bubble busted was just / <B> okay / <A> raving people were making a killing { more } / <B> [ mhm ] / <A> self make millionaires than ever / <B> right",
     "context_start": 523.2,
-    "context_end": 546.7977500000001,
+    "context_end": 546.299375,
     "feedback": [
         {
-            "name": "spontC_183_yeah",
+            "name": "spontA_0101_mhm",
             "start": 528.68,
-            "end": 529.4609999999999,
-            "token": "yeah"
+            "end": 529.235375,
+            "token": "mhm"
         },
         {
-            "name": "PS_010_oh",
+            "name": "spontE_294_mhm",
             "start": 533.05,
-            "end": 534.486,
-            "token": "oh"
+            "end": 533.6481249999999,
+            "token": "mhm"
         },
         {
-            "name": "spontA_233_yeah",
+            "name": "spontB_120_okay",
             "start": 541.31,
-            "end": 542.08575,
-            "token": "yeah"
+            "end": 542.011,
+            "token": "okay"
         },
         {
-            "name": "PS_194_oh",
+            "name": "spontF_496_mhm",
             "start": 543.63,
-            "end": 544.43375,
-            "token": "oh"
+            "end": 544.1365,
+            "token": "mhm"
         },
         {
-            "name": "Sy_065_oh",
+            "name": "sun_028_right",
             "start": 545.57,
-            "end": 546.7977500000001,
-            "token": "oh"
+            "end": 546.299375,
+            "token": "right"
         }
     ]
 }

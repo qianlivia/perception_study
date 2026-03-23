@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05207",
     "context_channel": 1,
-    "context_text": "<A> think i think that uh i sometimes if you're going on a date you you you would want like a restaurant for example to provide a a setting that was a little more neutral well it's it's like you know if if you're going in a first date with someone you don't say come over to my house we'll have some dinner and has has very sort of aggressive overtones / <B> no / <A> you you you'd want to meet somewhere neutral hey we can go for coffee or go out meet you at this restaurant here uh so i i i think that's you know depending on the social situation it may be s similar to a faux pas to / <B> no / <A> uh to like come over to your house per se but but yeah yeah i i agree it's it's it's it's often sort of more cosy also at the risk of kowtowing to the great american gods of multitasking you can also you can eat and then watch a movie you know just eat and then it's it's easy to serve / <B> yeah / <A> way into something else / <B> wow",
+    "context_text": "<A> think i think that uh i sometimes if you're going on a date you you you would want like a restaurant for example to provide a a setting that was a little more neutral well it's it's like you know if if you're going in a first date with someone you don't say come over to my house we'll have some dinner and has has very sort of aggressive overtones / <B> mhm / <A> you you you'd want to meet somewhere neutral hey we can go for coffee or go out meet you at this restaurant here uh so i i i think that's you know depending on the social situation it may be s similar to a faux pas to / <B> oh / <A> uh to like come over to your house per se but but yeah yeah i i agree it's it's it's it's often sort of more cosy also at the risk of kowtowing to the great american gods of multitasking you can also you can eat and then watch a movie you know just eat and then it's it's easy to serve / <B> mhm / <A> way into something else / <B> mhm",
     "context_start": 159.74,
-    "context_end": 210.17725000000002,
+    "context_end": 209.67375,
     "feedback": [
         {
-            "name": "NR_098_no",
+            "name": "spontA_314_mhm",
             "start": 176.46,
-            "end": 176.9555,
-            "token": "no"
+            "end": 177.053875,
+            "token": "mhm"
         },
         {
-            "name": "NR_019_no",
+            "name": "spontF_616_oh",
             "start": 189.36,
-            "end": 190.39437500000003,
-            "token": "no"
+            "end": 190.130875,
+            "token": "oh"
         },
         {
-            "name": "PR_039_yeah",
+            "name": "spontC_184_mhm",
             "start": 207.61,
-            "end": 208.439375,
-            "token": "yeah"
+            "end": 208.18650000000002,
+            "token": "mhm"
         },
         {
-            "name": "PS_184_wow",
+            "name": "spontB_284_mhm",
             "start": 209.06,
-            "end": 210.17725000000002,
-            "token": "wow"
+            "end": 209.67375,
+            "token": "mhm"
         }
     ]
 }

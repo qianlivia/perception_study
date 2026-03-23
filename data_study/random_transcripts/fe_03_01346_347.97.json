@@ -1,39 +1,39 @@
 {
     "name": "fe_03_01346",
     "context_channel": 0,
-    "context_text": "<B> i mean i wrote a story about about the star football players stealing a bunch of stuff the school that they didn't really want in there / <A> wow / <B> kind of negative publicity for { the school } / <A> [ okay ] / <B> but it still went in / <A> mhm / <B> and that was with prior review um / <A> okay / <B> so i don't know it's in theory or in practice i mean in theory it's not so bad but if they actually do censor it that really irritates me / <A> uh-huh",
+    "context_text": "<B> i mean i wrote a story about about the star football players stealing a bunch of stuff the school that they didn't really want in there / <A> yeah / <B> kind of negative publicity for { the school } / <A> [ yeah ] / <B> but it still went in / <A> wow / <B> and that was with prior review um / <A> yeah / <B> so i don't know it's in theory or in practice i mean in theory it's not so bad but if they actually do censor it that really irritates me / <A> wow",
     "context_start": 347.97,
-    "context_end": 369.487625,
+    "context_end": 369.7835,
     "feedback": [
         {
-            "name": "PS_110_wow",
+            "name": "spontD_340_yeah",
             "start": 353.93,
-            "end": 354.9575,
+            "end": 354.736,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_142_yeah",
+            "start": 355.23,
+            "end": 355.70725000000004,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_160_wow",
+            "start": 357.24,
+            "end": 358.120875,
             "token": "wow"
         },
         {
-            "name": "spontF_074_okay",
-            "start": 355.23,
-            "end": 355.874125,
-            "token": "okay"
-        },
-        {
-            "name": "spontA_0101_mhm",
-            "start": 357.24,
-            "end": 357.79537500000004,
-            "token": "mhm"
-        },
-        {
-            "name": "spontD_410_okay",
+            "name": "spontA_414_yeah",
             "start": 359.25,
-            "end": 359.67375,
-            "token": "okay"
+            "end": 359.727875,
+            "token": "yeah"
         },
         {
-            "name": "spontF_116_uh-huh",
+            "name": "PS_145_wow",
             "start": 368.89,
-            "end": 369.487625,
-            "token": "uh-huh"
+            "end": 369.7835,
+            "token": "wow"
         }
     ]
 }

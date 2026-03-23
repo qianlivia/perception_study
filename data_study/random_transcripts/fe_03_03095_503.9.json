@@ -1,39 +1,39 @@
 {
     "name": "fe_03_03095",
     "context_channel": 1,
-    "context_text": "<A> it's it's you know a fairly good size not real super big but / <B> no / <A> got a big barn and oh when we first moved out here the people that had it had been in their family for almost a hundred years so it was almost a century farm had one of the old school houses on the property and / <B> yeah / <A> the fairgrounds came and took that you know and took to the / <B> ooh / <A> fair you know and restored it and we had well i guess there was two big barns but we burnt one of them down cause it was pretty pretty dilapidated / <B> yeah / <A> but slowly getting it cleaned up and g i guess they had nobody had lived here well they had somebody that had rented it you know off and on over the last five years before we moved here but really they didn't take you know very good care of it and stuff so we decided it was a good location it's only three miles out of town and right on the highway so / <B> absolutely",
+    "context_text": "<A> it's it's you know a fairly good size not real super big but / <B> mhm / <A> got a big barn and oh when we first moved out here the people that had it had been in their family for almost a hundred years so it was almost a century farm had one of the old school houses on the property and / <B> mhm / <A> the fairgrounds came and took that you know and took to the / <B> yeah / <A> fair you know and restored it and we had well i guess there was two big barns but we burnt one of them down cause it was pretty pretty dilapidated / <B> oh / <A> but slowly getting it cleaned up and g i guess they had nobody had lived here well they had somebody that had rented it you know off and on over the last five years before we moved here but really they didn't take you know very good care of it and stuff so we decided it was a good location it's only three miles out of town and right on the highway so / <B> uh-huh",
     "context_start": 503.9,
-    "context_end": 563.217875,
+    "context_end": 562.654125,
     "feedback": [
         {
-            "name": "NR_111_no",
+            "name": "NS_071_mhm",
             "start": 508.9,
-            "end": 509.647625,
-            "token": "no"
+            "end": 509.988,
+            "token": "mhm"
         },
         {
-            "name": "spontE_197_yeah",
+            "name": "spontA_132_mhm",
             "start": 523.76,
-            "end": 524.419375,
-            "token": "yeah"
+            "end": 524.340125,
+            "token": "mhm"
         },
         {
-            "name": "PS_121_ooh",
+            "name": "spontC_506_yeah",
             "start": 528.11,
-            "end": 529.28,
-            "token": "ooh"
-        },
-        {
-            "name": "spontB_297_yeah",
-            "start": 537.18,
-            "end": 537.6239999999999,
+            "end": 528.629375,
             "token": "yeah"
         },
         {
-            "name": "sun_044_absolutely",
+            "name": "PS_004_oh",
+            "start": 537.18,
+            "end": 538.252125,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_470_uh-huh",
             "start": 562.13,
-            "end": 563.217875,
-            "token": "absolutely"
+            "end": 562.654125,
+            "token": "uh-huh"
         }
     ]
 }

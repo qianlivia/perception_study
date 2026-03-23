@@ -1,27 +1,27 @@
 {
     "name": "fe_03_00085",
     "context_channel": 1,
-    "context_text": "<A> i mean basically uh a documentary about gun control in the us / <B> no / <A> and use it was really interesting and in a documentary to a reality show / <B> oh / <A> and i found god that documentary was interesting because he was discussing something interesting like / <B> yeah",
+    "context_text": "<A> i mean basically uh a documentary about gun control in the us / <B> yeah / <A> and use it was really interesting and in a documentary to a reality show / <B> right / <A> and i found god that documentary was interesting because he was discussing something interesting like / <B> right",
     "context_start": 265.69,
-    "context_end": 285.996875,
+    "context_end": 285.90425,
     "feedback": [
         {
-            "name": "NR_118_no",
+            "name": "spontF_491_yeah",
             "start": 270.3,
-            "end": 271.033875,
-            "token": "no"
-        },
-        {
-            "name": "spontD_193_oh",
-            "start": 277.55,
-            "end": 278.30125000000004,
-            "token": "oh"
-        },
-        {
-            "name": "spontE_124_yeah",
-            "start": 285.11,
-            "end": 285.996875,
+            "end": 271.066625,
             "token": "yeah"
+        },
+        {
+            "name": "sun1_029_right",
+            "start": 277.55,
+            "end": 278.242,
+            "token": "right"
+        },
+        {
+            "name": "sun1_031_right",
+            "start": 285.11,
+            "end": 285.90425,
+            "token": "right"
         }
     ]
 }

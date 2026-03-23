@@ -1,39 +1,39 @@
 {
     "name": "fe_03_01775",
     "context_channel": 0,
-    "context_text": "<B> remember like he obviously intended i think that they probably did have those weapons they probably just hid them somewhere else / <A> yeah / <B> i don't i don't know if you were watching the cnn coverage but they um they were talking to another president of another country right near by / <A> okay / <B> and he was all for saddam hussein i'm like they probably just gave it to him to hold / <A> yeah / <B> before they even did anything they probably even knew they probably knew we were coming / <A> oh / <B> at least approximate and then they were just like here you know / <A> yeah",
+    "context_text": "<B> remember like he obviously intended i think that they probably did have those weapons they probably just hid them somewhere else / <A> wow / <B> i don't i don't know if you were watching the cnn coverage but they um they were talking to another president of another country right near by / <A> okay / <B> and he was all for saddam hussein i'm like they probably just gave it to him to hold / <A> oh / <B> before they even did anything they probably even knew they probably knew we were coming / <A> right / <B> at least approximate and then they were just like here you know / <A> mhm",
     "context_start": 350.54,
-    "context_end": 380.393875,
+    "context_end": 380.4035,
     "feedback": [
         {
-            "name": "spontA_211_yeah",
+            "name": "PS_079_wow",
             "start": 357.75,
-            "end": 358.420125,
-            "token": "yeah"
+            "end": 358.802,
+            "token": "wow"
         },
         {
-            "name": "spontE_071_okay",
+            "name": "spontC_017_okay",
             "start": 365.91,
-            "end": 366.564,
+            "end": 366.71562500000005,
             "token": "okay"
         },
         {
-            "name": "spontD_013_yeah",
+            "name": "NS_097_oh",
             "start": 372.15,
-            "end": 372.86499999999995,
-            "token": "yeah"
-        },
-        {
-            "name": "PS_148_oh",
-            "start": 375.9,
-            "end": 377.18474999999995,
+            "end": 372.82,
             "token": "oh"
         },
         {
-            "name": "spontB_379_yeah",
+            "name": "sun1_033_right",
+            "start": 375.9,
+            "end": 376.75312499999995,
+            "token": "right"
+        },
+        {
+            "name": "spontA_091_mhm",
             "start": 379.89,
-            "end": 380.393875,
-            "token": "yeah"
+            "end": 380.4035,
+            "token": "mhm"
         }
     ]
 }

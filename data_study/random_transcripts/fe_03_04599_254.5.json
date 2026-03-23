@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04599",
     "context_channel": 0,
-    "context_text": "<B> yeah and you can you can't fight against against war against you know bad things if you are depressed / <A> wow / <B> so on the contrary watch i love lucy or read snoopy or i don't know what you want to do with it but i mean you know enjoy your life and for example if you have an earthquake you will see only the building falling / <A> no / <B> but they will never show the building which stand up and guess what the building falling is maybe one or or two percent of a of a b building in a city so you think is everything everywhere is bad when you have an earthquake but in reality you have two people dead { if } / <A> [ yeah ] / <B> you do the same thing in india you will have maybe two thousand / <A> no",
+    "context_text": "<B> yeah and you can you can't fight against against war against you know bad things if you are depressed / <A> yeah / <B> so on the contrary watch i love lucy or read snoopy or i don't know what you want to do with it but i mean you know enjoy your life and for example if you have an earthquake you will see only the building falling / <A> oh / <B> but they will never show the building which stand up and guess what the building falling is maybe one or or two percent of a of a b building in a city so you think is everything everywhere is bad when you have an earthquake but in reality you have two people dead { if } / <A> [ wow ] / <B> you do the same thing in india you will have maybe two thousand / <A> yeah",
     "context_start": 254.5,
-    "context_end": 294.24625000000003,
+    "context_end": 294.12962500000003,
     "feedback": [
         {
-            "name": "PS_131_wow",
+            "name": "spontC_504_yeah",
             "start": 261.19,
-            "end": 262.167625,
-            "token": "wow"
-        },
-        {
-            "name": "NR_047_no",
-            "start": 275.5,
-            "end": 276.718,
-            "token": "no"
-        },
-        {
-            "name": "spontE_331_yeah",
-            "start": 290.49,
-            "end": 291.19075000000004,
+            "end": 261.677375,
             "token": "yeah"
         },
         {
-            "name": "NR_013_no",
+            "name": "spontA_071_oh",
+            "start": 275.5,
+            "end": 276.1175,
+            "token": "oh"
+        },
+        {
+            "name": "PS_120_wow",
+            "start": 290.49,
+            "end": 291.587875,
+            "token": "wow"
+        },
+        {
+            "name": "spontB_385_yeah",
             "start": 293.68,
-            "end": 294.24625000000003,
-            "token": "no"
+            "end": 294.12962500000003,
+            "token": "yeah"
         }
     ]
 }

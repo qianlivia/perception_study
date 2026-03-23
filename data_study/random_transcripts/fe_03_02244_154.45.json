@@ -1,27 +1,27 @@
 {
     "name": "fe_03_02244",
     "context_channel": 0,
-    "context_text": "<B> yes we have to have one of those everywhere we go and he uses a nebulizer which is ah like a it shoots it up through a mist { instead } / <A> [ yeah ] / <B> of using the the spray like squirt inhaler that you would use / <A> no / <B> yeah oh i know and then i went in when mine started acting up / <A> yeah",
+    "context_text": "<B> yes we have to have one of those everywhere we go and he uses a nebulizer which is ah like a it shoots it up through a mist { instead } / <A> [ wow ] / <B> of using the the spray like squirt inhaler that you would use / <A> yeah / <B> yeah oh i know and then i went in when mine started acting up / <A> okay",
     "context_start": 154.45,
-    "context_end": 172.258625,
+    "context_end": 171.756875,
     "feedback": [
         {
-            "name": "spontB_082_yeah",
+            "name": "PS_043_wow",
             "start": 162.15,
-            "end": 163.161125,
-            "token": "yeah"
+            "end": 163.48525,
+            "token": "wow"
         },
         {
-            "name": "NR_015_no",
+            "name": "spontA_155_yeah",
             "start": 166.05,
-            "end": 166.86575000000002,
-            "token": "no"
+            "end": 166.575375,
+            "token": "yeah"
         },
         {
-            "name": "PR_041_yeah",
+            "name": "spontE_391_okay",
             "start": 171.24,
-            "end": 172.258625,
-            "token": "yeah"
+            "end": 171.756875,
+            "token": "okay"
         }
     ]
 }

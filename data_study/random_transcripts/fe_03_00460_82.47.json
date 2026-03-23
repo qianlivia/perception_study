@@ -1,39 +1,39 @@
 {
     "name": "fe_03_00460",
     "context_channel": 1,
-    "context_text": "<A> well i stay at home -cause i i have two children so / <B> oh / <A> we usually do things together with our children / <B> right / <A> so i have two girls and well usually we go out shopping do things { like } / <B> [ yes ] / <A> that do things with the kids / <B> wow / <A> you know hang you know go to like mcdonald's or things like that but { if i } / <B> [ yeah ]",
+    "context_text": "<A> well i stay at home -cause i i have two children so / <B> right / <A> we usually do things together with our children / <B> right / <A> so i have two girls and well usually we go out shopping do things { like } / <B> [ right ] / <A> that do things with the kids / <B> right / <A> you know hang you know go to like mcdonald's or things like that but { if i } / <B> [ mhm ]",
     "context_start": 82.47,
-    "context_end": 106.922125,
+    "context_end": 107.023125,
     "feedback": [
         {
-            "name": "spontC_100_oh",
-            "start": 86.73,
-            "end": 87.345,
-            "token": "oh"
-        },
-        {
             "name": "sun1_030_right",
-            "start": 90.18,
-            "end": 90.97362500000001,
+            "start": 86.73,
+            "end": 87.52362500000001,
             "token": "right"
         },
         {
-            "name": "PR_014_yes",
+            "name": "sun_028_right",
+            "start": 90.18,
+            "end": 90.90937500000001,
+            "token": "right"
+        },
+        {
+            "name": "spontC_360_right",
             "start": 97.18,
-            "end": 98.147125,
-            "token": "yes"
+            "end": 97.758875,
+            "token": "right"
         },
         {
-            "name": "PS_118_wow",
+            "name": "sun1_032_right",
             "start": 99.53,
-            "end": 101.1895,
-            "token": "wow"
+            "end": 100.373375,
+            "token": "right"
         },
         {
-            "name": "spontC_336_yeah",
+            "name": "spontA_393_mhm",
             "start": 106.32,
-            "end": 106.922125,
-            "token": "yeah"
+            "end": 107.023125,
+            "token": "mhm"
         }
     ]
 }

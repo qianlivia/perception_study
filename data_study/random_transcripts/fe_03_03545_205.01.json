@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03545",
     "context_channel": 0,
-    "context_text": "<B> and they they put people out of jobs but yet they don't want to pay people a living wage / <A> uh-huh / <B> and in san antonio / <A> yeah / <B> where i live near san antonio / <A> yeah / <B> they have a uh living wage law / <A> okay",
+    "context_text": "<B> and they they put people out of jobs but yet they don't want to pay people a living wage / <A> mhm / <B> and in san antonio / <A> okay / <B> where i live near san antonio / <A> right / <B> they have a uh living wage law / <A> yeah",
     "context_start": 205.01,
-    "context_end": 218.178,
+    "context_end": 218.044625,
     "feedback": [
         {
-            "name": "spontC_136_uh-huh",
+            "name": "spontB_307_mhm",
             "start": 209.62,
-            "end": 210.123,
-            "token": "uh-huh"
+            "end": 210.227375,
+            "token": "mhm"
         },
         {
-            "name": "spontE_329_yeah",
+            "name": "spontF_386_okay",
             "start": 212.74,
-            "end": 213.387,
-            "token": "yeah"
-        },
-        {
-            "name": "spontF_262_yeah",
-            "start": 214.61,
-            "end": 215.240125,
-            "token": "yeah"
-        },
-        {
-            "name": "spontF_643_okay",
-            "start": 217.47,
-            "end": 218.178,
+            "end": 213.23112500000002,
             "token": "okay"
+        },
+        {
+            "name": "sun1_029_right",
+            "start": 214.61,
+            "end": 215.30200000000002,
+            "token": "right"
+        },
+        {
+            "name": "spontA_382_yeah",
+            "start": 217.47,
+            "end": 218.044625,
+            "token": "yeah"
         }
     ]
 }

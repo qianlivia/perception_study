@@ -1,27 +1,27 @@
 {
     "name": "fe_03_02328",
     "context_channel": 1,
-    "context_text": "<A> which i think is a good thing you know y / <B> yeah / <A> y you don't necessarily have to go to the doctor all the time and s sometimes there are there are things that you can try things that you can do and like you { said if } / <B> [ yeah ] / <A> they work for you then / <B> mhm",
+    "context_text": "<A> which i think is a good thing you know y / <B> yeah / <A> y you don't necessarily have to go to the doctor all the time and s sometimes there are there are things that you can try things that you can do and like you { said if } / <B> [ right ] / <A> they work for you then / <B> yeah",
     "context_start": 429.58,
-    "context_end": 444.148,
+    "context_end": 443.7195,
     "feedback": [
         {
-            "name": "spontA_337_yeah",
+            "name": "spontB_139_yeah",
             "start": 431.25,
-            "end": 431.650375,
+            "end": 432.14175,
             "token": "yeah"
         },
         {
-            "name": "spontF_497_yeah",
+            "name": "sun1_031_right",
             "start": 441.29,
-            "end": 441.853375,
-            "token": "yeah"
+            "end": 442.08425,
+            "token": "right"
         },
         {
-            "name": "NS_071_mhm",
+            "name": "spontB_299_yeah",
             "start": 443.06,
-            "end": 444.148,
-            "token": "mhm"
+            "end": 443.7195,
+            "token": "yeah"
         }
     ]
 }

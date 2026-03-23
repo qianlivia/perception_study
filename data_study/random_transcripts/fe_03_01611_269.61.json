@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01611",
     "context_channel": 0,
-    "context_text": "<B> wouldn't really think the danger would be too high going to hawaii but where they're going you know going like into washington dc or { into } / <A> [ no ] / <B> one of the bigger airports you know that's probably where your danger really is but / <A> mhm / <B> yeah it's it's it's hard to tell you know i just kind of believe that you you're going to go when you're going to go and if it's if that's the way you're going to go well that's the way you're going to go you know i don't / <A> no / <B> think it really makes much difference but / <A> yeah",
+    "context_text": "<B> wouldn't really think the danger would be too high going to hawaii but where they're going you know going like into washington dc or { into } / <A> [ right ] / <B> one of the bigger airports you know that's probably where your danger really is but / <A> okay / <B> yeah it's it's it's hard to tell you know i just kind of believe that you you're going to go when you're going to go and if it's if that's the way you're going to go well that's the way you're going to go you know i don't / <A> mhm / <B> think it really makes much difference but / <A> exactly",
     "context_start": 269.61,
-    "context_end": 294.33187499999997,
+    "context_end": 294.9155,
     "feedback": [
         {
-            "name": "spontE_345_no",
+            "name": "sun1_032_right",
             "start": 275.83,
-            "end": 276.5845,
-            "token": "no"
+            "end": 276.67337499999996,
+            "token": "right"
         },
         {
-            "name": "spontB_191_mhm",
+            "name": "spontD_279_okay",
             "start": 281.34,
-            "end": 282.06537499999996,
+            "end": 282.01512499999995,
+            "token": "okay"
+        },
+        {
+            "name": "spontC_235_mhm",
+            "start": 291.38,
+            "end": 291.83175,
             "token": "mhm"
         },
         {
-            "name": "NR_114_no",
-            "start": 291.38,
-            "end": 292.690625,
-            "token": "no"
-        },
-        {
-            "name": "spontD_393_yeah",
+            "name": "sun_038_exactly",
             "start": 293.83,
-            "end": 294.33187499999997,
-            "token": "yeah"
+            "end": 294.9155,
+            "token": "exactly"
         }
     ]
 }

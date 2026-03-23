@@ -1,39 +1,39 @@
 {
     "name": "fe_03_04547",
     "context_channel": 1,
-    "context_text": "<A> it's exactly like martin luther king okay / <B> uh-huh / <A> all right now he got so far and he march i was i was born in sixty eight which is the year that he was / <B> mhm / <A> that he had passed but my uh mother and grandmother and the little bit that i get from where i you know was from he / <B> yeah / <A> was a very powerful colored black person { you know } / <B> [ yeah ] / <A> and they had someone had to get it knock him right on out of this world because he had all creeds and colors / <B> yeah",
+    "context_text": "<A> it's exactly like martin luther king okay / <B> wow / <A> all right now he got so far and he march i was i was born in sixty eight which is the year that he was / <B> mhm / <A> that he had passed but my uh mother and grandmother and the little bit that i get from where i you know was from he / <B> oh / <A> was a very powerful colored black person { you know } / <B> [ mhm ] / <A> and they had someone had to get it knock him right on out of this world because he had all creeds and colors / <B> okay",
     "context_start": 381.05,
-    "context_end": 410.403125,
+    "context_end": 410.550375,
     "feedback": [
         {
-            "name": "spontD_372_uh-huh",
+            "name": "PS_129_wow",
             "start": 384.22,
-            "end": 384.687875,
-            "token": "uh-huh"
+            "end": 385.16237500000005,
+            "token": "wow"
         },
         {
-            "name": "spontC_375_mhm",
+            "name": "sun1_007_mhm",
             "start": 390.93,
-            "end": 391.50212500000004,
+            "end": 391.7785,
             "token": "mhm"
         },
         {
-            "name": "spontC_352_yeah",
+            "name": "Sy_013_oh",
             "start": 397.84,
-            "end": 398.53912499999996,
-            "token": "yeah"
+            "end": 399.05499999999995,
+            "token": "oh"
         },
         {
-            "name": "spontF_287_yeah",
+            "name": "spontC_387_mhm",
             "start": 400.71,
-            "end": 401.34125,
-            "token": "yeah"
+            "end": 401.315,
+            "token": "mhm"
         },
         {
-            "name": "PR_031_yeah",
+            "name": "spontE_005_okay",
             "start": 410.0,
-            "end": 410.403125,
-            "token": "yeah"
+            "end": 410.550375,
+            "token": "okay"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00977",
     "context_channel": 0,
-    "context_text": "<B> um i'm line in in line with you i was i don't think that we're going to be able to resolve this until we did have an all out war and go after saddam hussein / <A> uh-huh / <B> and that's most unfortunate but the attack has been made on the us and i don't think that we'll ever be able to rest easy again / <A> yep / <B> because we know that we're all vulnerable / <A> yeah / <B> until we let people like him know that we are serious in defending our country from these terrorists / <A> no",
+    "context_text": "<B> um i'm line in in line with you i was i don't think that we're going to be able to resolve this until we did have an all out war and go after saddam hussein / <A> mhm / <B> and that's most unfortunate but the attack has been made on the us and i don't think that we'll ever be able to rest easy again / <A> right / <B> because we know that we're all vulnerable / <A> yeah / <B> until we let people like him know that we are serious in defending our country from these terrorists / <A> right",
     "context_start": 75.63,
-    "context_end": 112.3815,
+    "context_end": 112.403375,
     "feedback": [
         {
-            "name": "spontA_076_uh-huh",
+            "name": "spontE_049_mhm",
             "start": 87.43,
-            "end": 87.952375,
-            "token": "uh-huh"
+            "end": 88.028,
+            "token": "mhm"
         },
         {
-            "name": "PR_027_yep",
+            "name": "sun1_033_right",
             "start": 99.8,
-            "end": 100.34275,
-            "token": "yep"
+            "end": 100.653125,
+            "token": "right"
         },
         {
-            "name": "spontD_170_yeah",
+            "name": "spontE_243_yeah",
             "start": 102.47,
-            "end": 103.1405,
+            "end": 103.094375,
             "token": "yeah"
         },
         {
-            "name": "NR_034_no",
+            "name": "sun1_032_right",
             "start": 111.56,
-            "end": 112.3815,
-            "token": "no"
+            "end": 112.403375,
+            "token": "right"
         }
     ]
 }

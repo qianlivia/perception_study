@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01216",
     "context_channel": 1,
-    "context_text": "<A> yes you will hear that being bantered around more and more now because that's um gonna be one of the big things that come up the public schools are bankrupt in our system here in the city of minneapolis it costs over nine thousand dollars per student per year in the public schools / <B> yeah / <A> i paid for private school and i got three times the the education for my child for three thousand dollars a year / <B> no / <A> i'd like a six thousand dollar rebate / <B> wow / <A> well now i'm paying taxes for public school and doing double duty cause i do go to some private school and now i home school because my children are my children and they need an education { today } / <B> [ uh-huh ]",
+    "context_text": "<A> yes you will hear that being bantered around more and more now because that's um gonna be one of the big things that come up the public schools are bankrupt in our system here in the city of minneapolis it costs over nine thousand dollars per student per year in the public schools / <B> oh / <A> i paid for private school and i got three times the the education for my child for three thousand dollars a year / <B> mhm / <A> i'd like a six thousand dollar rebate / <B> right / <A> well now i'm paying taxes for public school and doing double duty cause i do go to some private school and now i home school because my children are my children and they need an education { today } / <B> [ right ]",
     "context_start": 303.04,
-    "context_end": 339.239125,
+    "context_end": 339.52425,
     "feedback": [
         {
-            "name": "spontD_382_yeah",
+            "name": "Sy_066_oh",
             "start": 318.6,
-            "end": 319.029375,
-            "token": "yeah"
+            "end": 319.817,
+            "token": "oh"
         },
         {
-            "name": "sun_040_no",
+            "name": "spontE_142_mhm",
             "start": 325.58,
-            "end": 326.221875,
-            "token": "no"
+            "end": 326.05537499999997,
+            "token": "mhm"
         },
         {
-            "name": "PS_018_wow",
+            "name": "spontC_360_right",
             "start": 327.86,
-            "end": 328.865625,
-            "token": "wow"
+            "end": 328.438875,
+            "token": "right"
         },
         {
-            "name": "spontE_081_uh-huh",
+            "name": "sun1_031_right",
             "start": 338.73,
-            "end": 339.239125,
-            "token": "uh-huh"
+            "end": 339.52425,
+            "token": "right"
         }
     ]
 }

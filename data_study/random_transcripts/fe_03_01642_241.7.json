@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01642",
     "context_channel": 0,
-    "context_text": "<B> what vietnam ah where you had life magazine and the media really there like look look { what we're doing to these } / <A> [ uh-huh ] / <B> people / <A> oh / <B> so there was a outcry even from our people like you know we need to stop / <A> oh / <B> there's no reason for this no reason / <A> wow",
+    "context_text": "<B> what vietnam ah where you had life magazine and the media really there like look look { what we're doing to these } / <A> [ really ] / <B> people / <A> mhm / <B> so there was a outcry even from our people like you know we need to stop / <A> uh-huh / <B> there's no reason for this no reason / <A> yeah",
     "context_start": 241.7,
-    "context_end": 254.6345,
+    "context_end": 254.07274999999998,
     "feedback": [
         {
-            "name": "spontA_296_uh-huh",
+            "name": "PS_070_really",
             "start": 247.03,
-            "end": 247.6115,
+            "end": 247.718625,
+            "token": "really"
+        },
+        {
+            "name": "spontC_309_mhm",
+            "start": 248.24,
+            "end": 248.788125,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_115_uh-huh",
+            "start": 251.81,
+            "end": 252.307125,
             "token": "uh-huh"
         },
         {
-            "name": "spontF_479_oh",
-            "start": 248.24,
-            "end": 249.19075,
-            "token": "oh"
-        },
-        {
-            "name": "PS_032_oh",
-            "start": 251.81,
-            "end": 252.715875,
-            "token": "oh"
-        },
-        {
-            "name": "PS_149_wow",
+            "name": "spontD_240_yeah",
             "start": 253.41,
-            "end": 254.6345,
-            "token": "wow"
+            "end": 254.07274999999998,
+            "token": "yeah"
         }
     ]
 }

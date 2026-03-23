@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02088",
     "context_channel": 0,
-    "context_text": "<B> uh well it seems to be the people that are my acquaintances are generally my friends as well like i don't really have people that i know that i don't hang out with you know what { i'm saying } / <A> [ oh ] / <B> so i have a few good friends and / <A> yeah / <B> then a bunch of say peripheral friends and then maybe a couple / <A> mhm / <B> of acquaintances / <A> uh-huh",
+    "context_text": "<B> uh well it seems to be the people that are my acquaintances are generally my friends as well like i don't really have people that i know that i don't hang out with you know what { i'm saying } / <A> [ right ] / <B> so i have a few good friends and / <A> okay / <B> then a bunch of say peripheral friends and then maybe a couple / <A> mhm / <B> of acquaintances / <A> mhm",
     "context_start": 15.9,
-    "context_end": 38.5675,
+    "context_end": 38.718875000000004,
     "feedback": [
         {
-            "name": "spontF_514_oh",
+            "name": "sun_028_right",
             "start": 27.75,
-            "end": 28.535125,
-            "token": "oh"
+            "end": 28.479375,
+            "token": "right"
         },
         {
-            "name": "spontB_224_yeah",
+            "name": "spontF_583_okay",
             "start": 32.6,
-            "end": 33.4735,
-            "token": "yeah"
+            "end": 33.778,
+            "token": "okay"
         },
         {
-            "name": "spontC_348_mhm",
+            "name": "spontC_392_mhm",
             "start": 35.9,
-            "end": 36.49,
+            "end": 36.523375,
             "token": "mhm"
         },
         {
-            "name": "spontD_199_uh-huh",
+            "name": "spontA_331_mhm",
             "start": 38.06,
-            "end": 38.5675,
-            "token": "uh-huh"
+            "end": 38.718875000000004,
+            "token": "mhm"
         }
     ]
 }

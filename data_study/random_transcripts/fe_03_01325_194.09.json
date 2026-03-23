@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01325",
     "context_channel": 1,
-    "context_text": "<A> well before i moved i'm in kentucky and before i moved to kentucky i lived in charleston and south carolina i'm { sorry } / <B> [ yeah ] / <A> and in charleston south carolina by myself i probably brought home between thirty five and forty and i was married and so you know with a combined income that was decent money for the area / <B> mhm / <A> and then i got divorced and moved to kentucky well my eyes got opened real wide because the job market here is not anything like it was in charleston the pay is very low and it took a little while to get everything adjusted because the cost of living here is a lot lower also but the bills i had made you know credit card bills { or car } / <B> [ ah ] / <A> payments i had made on charleston money / <B> no",
+    "context_text": "<A> well before i moved i'm in kentucky and before i moved to kentucky i lived in charleston and south carolina i'm { sorry } / <B> [ oh ] / <A> and in charleston south carolina by myself i probably brought home between thirty five and forty and i was married and so you know with a combined income that was decent money for the area / <B> right / <A> and then i got divorced and moved to kentucky well my eyes got opened real wide because the job market here is not anything like it was in charleston the pay is very low and it took a little while to get everything adjusted because the cost of living here is a lot lower also but the bills i had made you know credit card bills { or car } / <B> [ yeah ] / <A> payments i had made on charleston money / <B> mhm",
     "context_start": 194.09,
-    "context_end": 250.29662499999998,
+    "context_end": 250.113375,
     "feedback": [
         {
-            "name": "spontB_186_yeah",
+            "name": "spontC_112_oh",
             "start": 202.81,
-            "end": 203.387,
+            "end": 203.35512500000002,
+            "token": "oh"
+        },
+        {
+            "name": "sun1_031_right",
+            "start": 217.04,
+            "end": 217.83425,
+            "token": "right"
+        },
+        {
+            "name": "spontF_300_yeah",
+            "start": 246.17,
+            "end": 246.66062499999998,
             "token": "yeah"
         },
         {
-            "name": "spontA_288_mhm",
-            "start": 217.04,
-            "end": 217.63662499999998,
-            "token": "mhm"
-        },
-        {
-            "name": "spontC_173_ah",
-            "start": 246.17,
-            "end": 247.23399999999998,
-            "token": "ah"
-        },
-        {
-            "name": "NR_004_no",
+            "name": "spontB_351_mhm",
             "start": 249.67,
-            "end": 250.29662499999998,
-            "token": "no"
+            "end": 250.113375,
+            "token": "mhm"
         }
     ]
 }

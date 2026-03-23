@@ -1,39 +1,39 @@
 {
     "name": "fe_03_03287",
     "context_channel": 0,
-    "context_text": "<B> and your kids would be so much better because of it my mum was home with me until i was in i think second grade / <A> mhm / <B> and my brother i have a brother who's eleven years older than me so he went away to college / <A> yeah / <B> and while he was away at college um she knew she had to go back to work to help support him in college / <A> yeah / <B> so by then you know i was in ele elementary school and her job was such that she got me off to school and then she went to work and then i stayed at a neighbor across the street's house for a couple of hours after school until she came home / <A> no / <B> but i mean i think i just really really got such a strong foundation { uh } / <A> [ mhm ]",
+    "context_text": "<B> and your kids would be so much better because of it my mum was home with me until i was in i think second grade / <A> right / <B> and my brother i have a brother who's eleven years older than me so he went away to college / <A> yeah / <B> and while he was away at college um she knew she had to go back to work to help support him in college / <A> mhm / <B> so by then you know i was in ele elementary school and her job was such that she got me off to school and then she went to work and then i stayed at a neighbor across the street's house for a couple of hours after school until she came home / <A> yeah / <B> but i mean i think i just really really got such a strong foundation { uh } / <A> [ right ]",
     "context_start": 396.57,
-    "context_end": 431.004625,
+    "context_end": 431.25424999999996,
     "feedback": [
         {
-            "name": "spontA_058_mhm",
+            "name": "sun_013_right",
             "start": 402.0,
-            "end": 402.503875,
-            "token": "mhm"
+            "end": 402.8735,
+            "token": "right"
         },
         {
-            "name": "spontD_230_yeah",
+            "name": "spontB_366_yeah",
             "start": 406.43,
-            "end": 407.0555,
+            "end": 407.08625,
             "token": "yeah"
         },
         {
-            "name": "spontD_049_yeah",
+            "name": "spontE_049_mhm",
             "start": 413.6,
-            "end": 414.239125,
+            "end": 414.19800000000004,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_174_yeah",
+            "start": 425.97,
+            "end": 426.61350000000004,
             "token": "yeah"
         },
         {
-            "name": "NR_005_no",
-            "start": 425.97,
-            "end": 426.74437500000005,
-            "token": "no"
-        },
-        {
-            "name": "spontA_059_mhm",
+            "name": "sun1_031_right",
             "start": 430.46,
-            "end": 431.004625,
-            "token": "mhm"
+            "end": 431.25424999999996,
+            "token": "right"
         }
     ]
 }

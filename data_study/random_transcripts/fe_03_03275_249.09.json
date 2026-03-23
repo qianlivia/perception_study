@@ -1,39 +1,39 @@
 {
     "name": "fe_03_03275",
     "context_channel": 0,
-    "context_text": "<B> bringing your children up um we're fortunate all our kids are gainfully employed married have families their own homes and all so / <A> uh-huh / <B> um and i i think that they have also um looked for the same kind of things that we looked for in a relationship when when i was divorced someone said well you know what to look for the next time and i said it's not a matter of looking for something the next time it's knowing what you don't want not { what you } / <A> [ mhm ] / <B> want you know more um you know / <A> ooh / <B> you can always uh learn to enjoy the things the other person enjoys and so on and uh you know it makes for a a easier relationship that way but / <A> yes / <B> you know the things that destroyed it the first time and you stay away from that / <A> yeah",
+    "context_text": "<B> bringing your children up um we're fortunate all our kids are gainfully employed married have families their own homes and all so / <A> wow / <B> um and i i think that they have also um looked for the same kind of things that we looked for in a relationship when when i was divorced someone said well you know what to look for the next time and i said it's not a matter of looking for something the next time it's knowing what you don't want not { what you } / <A> [ uh-huh ] / <B> want you know more um you know / <A> really / <B> you can always uh learn to enjoy the things the other person enjoys and so on and uh you know it makes for a a easier relationship that way but / <A> mhm / <B> you know the things that destroyed it the first time and you stay away from that / <A> uh-huh",
     "context_start": 249.09,
-    "context_end": 300.634,
+    "context_end": 300.14637500000003,
     "feedback": [
         {
-            "name": "spontB_188_uh-huh",
+            "name": "PS_108_wow",
             "start": 257.97,
-            "end": 258.500125,
+            "end": 259.11575000000005,
+            "token": "wow"
+        },
+        {
+            "name": "spontC_371_uh-huh",
+            "start": 278.82,
+            "end": 279.29812499999997,
             "token": "uh-huh"
         },
         {
-            "name": "sun1_007_mhm",
-            "start": 278.82,
-            "end": 279.6685,
+            "name": "PS_002_really",
+            "start": 282.27,
+            "end": 283.06287499999996,
+            "token": "really"
+        },
+        {
+            "name": "spontE_241_mhm",
+            "start": 294.14,
+            "end": 294.68899999999996,
             "token": "mhm"
         },
         {
-            "name": "PS_186_ooh",
-            "start": 282.27,
-            "end": 282.8585,
-            "token": "ooh"
-        },
-        {
-            "name": "spontC_507_yes",
-            "start": 294.14,
-            "end": 294.66249999999997,
-            "token": "yes"
-        },
-        {
-            "name": "spontD_390_yeah",
+            "name": "spontD_079_uh-huh",
             "start": 299.6,
-            "end": 300.634,
-            "token": "yeah"
+            "end": 300.14637500000003,
+            "token": "uh-huh"
         }
     ]
 }

@@ -1,39 +1,39 @@
 {
     "name": "fe_03_05139",
     "context_channel": 1,
-    "context_text": "<A> and his concept of the computer was taking it apart a and not being able to put it back together / <B> wow / <A> but we had an old one around along with a printer { and he } / <B> [ uh-huh ] / <A> wasn't afraid of the technology he { grew up } / <B> [ yeah ] / <A> with it and then he started to go on the internet but he started to learn his basics as far as reading and arithmetic even before kindergarten / <B> uh-huh / <A> and then ah he goes to public school and he does very well at school and then he supplements you know the usual games on the computer / <B> uh-huh",
+    "context_text": "<A> and his concept of the computer was taking it apart a and not being able to put it back together / <B> yeah / <A> but we had an old one around along with a printer { and he } / <B> [ okay ] / <A> wasn't afraid of the technology he { grew up } / <B> [ yeah ] / <A> with it and then he started to go on the internet but he started to learn his basics as far as reading and arithmetic even before kindergarten / <B> mhm / <A> and then ah he goes to public school and he does very well at school and then he supplements you know the usual games on the computer / <B> okay",
     "context_start": 284.18,
-    "context_end": 318.18175,
+    "context_end": 318.31600000000003,
     "feedback": [
         {
-            "name": "PS_018_wow",
+            "name": "spontC_324_yeah",
             "start": 290.07,
-            "end": 291.075625,
-            "token": "wow"
-        },
-        {
-            "name": "spontD_276_uh-huh",
-            "start": 292.85,
-            "end": 293.291375,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontF_240_yeah",
-            "start": 295.58,
-            "end": 296.149875,
+            "end": 290.677875,
             "token": "yeah"
         },
         {
-            "name": "spontF_180_uh-huh",
-            "start": 305.89,
-            "end": 306.476875,
-            "token": "uh-huh"
+            "name": "spontC_511_okay",
+            "start": 292.85,
+            "end": 293.360875,
+            "token": "okay"
         },
         {
-            "name": "spontE_265_uh-huh",
+            "name": "spontB_063_yeah",
+            "start": 295.58,
+            "end": 296.027625,
+            "token": "yeah"
+        },
+        {
+            "name": "sun1_007_mhm",
+            "start": 305.89,
+            "end": 306.7385,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_518_okay",
             "start": 317.61,
-            "end": 318.18175,
-            "token": "uh-huh"
+            "end": 318.31600000000003,
+            "token": "okay"
         }
     ]
 }

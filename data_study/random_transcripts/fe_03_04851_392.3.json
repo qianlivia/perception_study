@@ -1,27 +1,27 @@
 {
     "name": "fe_03_04851",
     "context_channel": 0,
-    "context_text": "<B> i think so / <A> really / <B> i think because the way people seem to feel that we are i don't know i can't think of the word i'm looking for but kinda like that they they're amazed that that could happen to us like we're / <A> yeah / <B> untouchable you know whereas like obviously minorities have had a much harder road just through social structure to achieve what they've achieved and they're not maybe individuals are used to it but their culture is used to horrible things happening to em you know / <A> uh-huh",
+    "context_text": "<B> i think so / <A> mhm / <B> i think because the way people seem to feel that we are i don't know i can't think of the word i'm looking for but kinda like that they they're amazed that that could happen to us like we're / <A> okay / <B> untouchable you know whereas like obviously minorities have had a much harder road just through social structure to achieve what they've achieved and they're not maybe individuals are used to it but their culture is used to horrible things happening to em you know / <A> oh",
     "context_start": 392.3,
-    "context_end": 422.688875,
+    "context_end": 422.648125,
     "feedback": [
         {
-            "name": "NS_002_really",
+            "name": "spontD_137_mhm",
             "start": 393.26,
-            "end": 394.1165,
-            "token": "really"
+            "end": 393.773625,
+            "token": "mhm"
         },
         {
-            "name": "PR_041_yeah",
+            "name": "spontE_152_okay",
             "start": 405.38,
-            "end": 406.398625,
-            "token": "yeah"
+            "end": 406.00725,
+            "token": "okay"
         },
         {
-            "name": "spontA_201_uh-huh",
+            "name": "spontC_046_oh",
             "start": 422.24,
-            "end": 422.688875,
-            "token": "uh-huh"
+            "end": 422.648125,
+            "token": "oh"
         }
     ]
 }

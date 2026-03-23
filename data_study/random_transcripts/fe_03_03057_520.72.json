@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03057",
     "context_channel": 1,
-    "context_text": "<A> [ oh yeah ] oh yeah that that's our daily routine even my poodle inside the house { if } / <B> [ mhm ] / <A> it's not you know bad weather or anything um it's an everyday thing we go out in the front yard and we throw the ball and you know and she's like i said she's sixteen years old my poodle { and } / <B> [ mhm ] / <A> she's still very very active runs ah we have like a quarter acre property and she runs around she's still just as healthy as can be / <B> mhm / <A> um even with the flea the flea problem that we're having right now you know cause { it's the } / <B> [ wow ]",
+    "context_text": "<A> [ oh yeah ] oh yeah that that's our daily routine even my poodle inside the house { if } / <B> [ mhm ] / <A> it's not you know bad weather or anything um it's an everyday thing we go out in the front yard and we throw the ball and you know and she's like i said she's sixteen years old my poodle { and } / <B> [ oh ] / <A> she's still very very active runs ah we have like a quarter acre property and she runs around she's still just as healthy as can be / <B> wow / <A> um even with the flea the flea problem that we're having right now you know cause { it's the } / <B> [ mhm ]",
     "context_start": 520.72,
-    "context_end": 552.900375,
+    "context_end": 552.572125,
     "feedback": [
         {
-            "name": "spontC_226_mhm",
+            "name": "spontA_132_mhm",
             "start": 526.64,
-            "end": 527.147375,
+            "end": 527.2201249999999,
             "token": "mhm"
         },
         {
-            "name": "spontA_058_mhm",
+            "name": "sun1_012_oh",
             "start": 537.51,
-            "end": 538.013875,
-            "token": "mhm"
+            "end": 538.27375,
+            "token": "oh"
         },
         {
-            "name": "spontE_361_mhm",
+            "name": "PS_115_wow",
             "start": 546.98,
-            "end": 547.439375,
-            "token": "mhm"
+            "end": 548.071,
+            "token": "wow"
         },
         {
-            "name": "PS_062_wow",
+            "name": "spontC_496_mhm",
             "start": 551.98,
-            "end": 552.900375,
-            "token": "wow"
+            "end": 552.572125,
+            "token": "mhm"
         }
     ]
 }

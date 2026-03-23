@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05005",
     "context_channel": 1,
-    "context_text": "<A> it's pretty hard for me to say anything else about september eleventh without offending people you know um / <B> yes / <A> yeah i i don't know i think it was sort of premeditated on both sides you know it's funny that the guy who owned the the uh the towers / <B> mhm / <A> tried to buy them for ten years and three days three or four days after the after the h the he had gone through and and bought them and and all the paper work was final three days later the whole thing was destroyed and now he's overseeing the construction of the new towers you know what i mean it's a lot of money you know / <B> mhm / <A> so it's sort of fishy to me you know but uh / <B> uh-huh",
+    "context_text": "<A> it's pretty hard for me to say anything else about september eleventh without offending people you know um / <B> right / <A> yeah i i don't know i think it was sort of premeditated on both sides you know it's funny that the guy who owned the the uh the towers / <B> mhm / <A> tried to buy them for ten years and three days three or four days after the after the h the he had gone through and and bought them and and all the paper work was final three days later the whole thing was destroyed and now he's overseeing the construction of the new towers you know what i mean it's a lot of money you know / <B> mhm / <A> so it's sort of fishy to me you know but uh / <B> oh",
     "context_start": 418.46,
-    "context_end": 464.337875,
+    "context_end": 464.33425,
     "feedback": [
         {
-            "name": "PR_015_yes",
+            "name": "PR_048_right",
             "start": 426.59,
-            "end": 427.583625,
-            "token": "yes"
+            "end": 427.225125,
+            "token": "right"
         },
         {
-            "name": "spontD_137_mhm",
+            "name": "spontB_200_mhm",
             "start": 438.05,
-            "end": 438.563625,
+            "end": 438.58387500000003,
             "token": "mhm"
         },
         {
-            "name": "spontA_239_mhm",
+            "name": "spontC_226_mhm",
             "start": 459.18,
-            "end": 459.692375,
+            "end": 459.68737500000003,
             "token": "mhm"
         },
         {
-            "name": "spontC_263_uh-huh",
+            "name": "spontB_365_oh",
             "start": 463.74,
-            "end": 464.337875,
-            "token": "uh-huh"
+            "end": 464.33425,
+            "token": "oh"
         }
     ]
 }

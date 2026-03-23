@@ -1,38 +1,38 @@
 {
     "name": "fe_03_05817",
     "context_channel": 0,
-    "context_text": "<B> um yeah well i just feel that ah the market will probably um correct itself / <A> oh / <B> you know which it certainly has already / <A> oh / <B> um i know i have friends who ah who do audit type work / <A> uh-huh / <B> and they're they're totally they're saying you know everything's totally different now { it's } / <A> [ mhm ] / <B> so much harder there are so many more ah hoops and hurdles that they have to pass through / <A> oh",
+    "context_text": "<B> um yeah well i just feel that ah the market will probably um correct itself / <A> mhm / <B> you know which it certainly has already / <A> exactly / <B> um i know i have friends who ah who do audit type work / <A> mhm / <B> and they're they're totally they're saying you know everything's totally different now { it's } / <A> [ mhm ] / <B> so much harder there are so many more ah hoops and hurdles that they have to pass through / <A> oh",
     "context_start": 27.19,
-    "context_end": 49.9705,
+    "context_end": 49.67700000000001,
     "feedback": [
         {
-            "name": "Sy_008_oh",
+            "name": "spontD_165_mhm",
             "start": 33.26,
-            "end": 34.521,
-            "token": "oh"
-        },
-        {
-            "name": "spontC_018_oh",
-            "start": 35.73,
-            "end": 36.509625,
-            "token": "oh"
-        },
-        {
-            "name": "spontA_310_uh-huh",
-            "start": 40.1,
-            "end": 40.5695,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontC_243_mhm",
-            "start": 43.88,
-            "end": 44.405125000000005,
+            "end": 33.881375,
             "token": "mhm"
         },
         {
-            "name": "NegS_042_oh",
+            "name": "sun_029_exactly",
+            "start": 35.73,
+            "end": 36.870374999999996,
+            "token": "exactly"
+        },
+        {
+            "name": "spontD_178_mhm",
+            "start": 40.1,
+            "end": 40.71925,
+            "token": "mhm"
+        },
+        {
+            "name": "spontB_377_mhm",
+            "start": 43.88,
+            "end": 44.529500000000006,
+            "token": "mhm"
+        },
+        {
+            "name": "Sy_003_oh",
             "start": 48.77,
-            "end": 49.9705,
+            "end": 49.67700000000001,
             "token": "oh"
         }
     ]

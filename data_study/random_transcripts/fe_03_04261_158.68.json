@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04261",
     "context_channel": 0,
-    "context_text": "<B> my mid fifties and you know people told me you know when i was in my thirties you know and i was still thinking at that time well you know you know i should really maybe become a lawyer / <A> yeah / <B> you know i can still do it and people said you can still do it you've got plenty of time plenty of time and i never / <A> uh-huh / <B> did it and i know one guy that was in his thirties and / <A> no / <B> he went and he did it and he's been really really successful and / <A> wow",
+    "context_text": "<B> my mid fifties and you know people told me you know when i was in my thirties you know and i was still thinking at that time well you know you know i should really maybe become a lawyer / <A> wow / <B> you know i can still do it and people said you can still do it you've got plenty of time plenty of time and i never / <A> right / <B> did it and i know one guy that was in his thirties and / <A> mhm / <B> he went and he did it and he's been really really successful and / <A> uh-huh",
     "context_start": 158.68,
-    "context_end": 184.704,
+    "context_end": 183.681375,
     "feedback": [
         {
-            "name": "spontB_023_yeah",
+            "name": "PS_141_wow",
             "start": 169.86,
-            "end": 170.727125,
-            "token": "yeah"
-        },
-        {
-            "name": "spontD_334_uh-huh",
-            "start": 175.8,
-            "end": 176.32375000000002,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontA_380_no",
-            "start": 179.12,
-            "end": 179.993125,
-            "token": "no"
-        },
-        {
-            "name": "PS_157_wow",
-            "start": 183.24,
-            "end": 184.704,
+            "end": 171.614,
             "token": "wow"
+        },
+        {
+            "name": "sun_007_right",
+            "start": 175.8,
+            "end": 176.6895,
+            "token": "right"
+        },
+        {
+            "name": "sun1_001_mhm",
+            "start": 179.12,
+            "end": 179.99825,
+            "token": "mhm"
+        },
+        {
+            "name": "spontD_276_uh-huh",
+            "start": 183.24,
+            "end": 183.681375,
+            "token": "uh-huh"
         }
     ]
 }

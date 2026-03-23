@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00624",
     "context_channel": 0,
-    "context_text": "<B> that i uh i i don't know i would just not a uh not a home person i never / <A> yeah / <B> could get that in my i'm and i'm not i'm not saying anything about anybody else that is doing { it } / <A> [ no ] / <B> i'm just saying that everybody is different and it wasn't i couldn't get it in my mind that that was a job you know that / <A> oh / <B> the right mental thing about it and and course had already taught school a couple of years so i went { i } / <A> [ mhm ]",
+    "context_text": "<B> that i uh i i don't know i would just not a uh not a home person i never / <A> right / <B> could get that in my i'm and i'm not i'm not saying anything about anybody else that is doing { it } / <A> [ mhm ] / <B> i'm just saying that everybody is different and it wasn't i couldn't get it in my mind that that was a job you know that / <A> yeah / <B> the right mental thing about it and and course had already taught school a couple of years so i went { i } / <A> [ yeah ]",
     "context_start": 329.54,
-    "context_end": 353.285375,
+    "context_end": 353.66625,
     "feedback": [
         {
-            "name": "spontF_177_yeah",
+            "name": "sun1_030_right",
             "start": 334.76,
-            "end": 335.269,
+            "end": 335.553625,
+            "token": "right"
+        },
+        {
+            "name": "spontE_294_mhm",
+            "start": 338.81,
+            "end": 339.408125,
+            "token": "mhm"
+        },
+        {
+            "name": "spontB_249_yeah",
+            "start": 346.61,
+            "end": 347.224,
             "token": "yeah"
         },
         {
-            "name": "NR_078_no",
-            "start": 338.81,
-            "end": 339.533375,
-            "token": "no"
-        },
-        {
-            "name": "Sy_071_oh",
-            "start": 346.61,
-            "end": 347.629125,
-            "token": "oh"
-        },
-        {
-            "name": "spontE_142_mhm",
+            "name": "spontD_365_yeah",
             "start": 352.81,
-            "end": 353.285375,
-            "token": "mhm"
+            "end": 353.66625,
+            "token": "yeah"
         }
     ]
 }

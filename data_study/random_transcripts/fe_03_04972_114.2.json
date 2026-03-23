@@ -1,27 +1,27 @@
 {
     "name": "fe_03_04972",
     "context_channel": 1,
-    "context_text": "<A> um you know so maybe i i do too much and then you know figure the next day i figure oh maybe i shouldn't even bother you know or something i don't even / <B> yeah / <A> know what uh psyche i get into / <B> uh-huh / <A> but uh we have a a recumbent bike and we have the treadmill and and it's available and should be easy to do / <B> mhm",
+    "context_text": "<A> um you know so maybe i i do too much and then you know figure the next day i figure oh maybe i shouldn't even bother you know or something i don't even / <B> mhm / <A> know what uh psyche i get into / <B> exactly / <A> but uh we have a a recumbent bike and we have the treadmill and and it's available and should be easy to do / <B> yeah",
     "context_start": 114.2,
-    "context_end": 133.663375,
+    "context_end": 133.765125,
     "feedback": [
         {
-            "name": "spontD_180_yeah",
+            "name": "spontA_331_mhm",
             "start": 122.2,
-            "end": 122.843125,
-            "token": "yeah"
-        },
-        {
-            "name": "spontF_463_uh-huh",
-            "start": 125.17,
-            "end": 125.677625,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontB_351_mhm",
-            "start": 133.22,
-            "end": 133.663375,
+            "end": 122.858875,
             "token": "mhm"
+        },
+        {
+            "name": "sun_015_exactly",
+            "start": 125.17,
+            "end": 126.27175,
+            "token": "exactly"
+        },
+        {
+            "name": "spontB_057_yeah",
+            "start": 133.22,
+            "end": 133.765125,
+            "token": "yeah"
         }
     ]
 }

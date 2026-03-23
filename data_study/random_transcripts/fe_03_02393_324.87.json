@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02393",
     "context_channel": 0,
-    "context_text": "<B> how they this is how they're getting by this is how they're living { and } / <A> [ ooh ] / <B> some of these people were clean and sober years and years and years and years but what i learned there too it's a daily choice { you } / <A> [ yeah ] / <B> know and i think that's how life is lived is is just every day it's a it's a choice for this or choice for that and if you stop and think about how many choices you have to make you know { it's } / <A> [ wow ] / <B> it's really overwhelming and when people say well you don't make you know y you don't make decisions well yes you do you decided to get out of bed this morning { you know } / <A> [ mhm ]",
+    "context_text": "<B> how they this is how they're getting by this is how they're living { and } / <A> [ okay ] / <B> some of these people were clean and sober years and years and years and years but what i learned there too it's a daily choice { you } / <A> [ mhm ] / <B> know and i think that's how life is lived is is just every day it's a it's a choice for this or choice for that and if you stop and think about how many choices you have to make you know { it's } / <A> [ mhm ] / <B> it's really overwhelming and when people say well you don't make you know y you don't make decisions well yes you do you decided to get out of bed this morning { you know } / <A> [ right ]",
     "context_start": 324.87,
-    "context_end": 355.40725,
+    "context_end": 355.559375,
     "feedback": [
         {
-            "name": "PS_177_ooh",
+            "name": "spontB_120_okay",
             "start": 328.65,
-            "end": 330.246375,
-            "token": "ooh"
+            "end": 329.351,
+            "token": "okay"
         },
         {
-            "name": "spontE_062_yeah",
+            "name": "spontF_039_mhm",
             "start": 336.49,
-            "end": 337.152125,
-            "token": "yeah"
-        },
-        {
-            "name": "PS_132_wow",
-            "start": 346.59,
-            "end": 347.73199999999997,
-            "token": "wow"
-        },
-        {
-            "name": "spontE_262_mhm",
-            "start": 354.83,
-            "end": 355.40725,
+            "end": 337.09025,
             "token": "mhm"
+        },
+        {
+            "name": "spontA_395_mhm",
+            "start": 346.59,
+            "end": 347.20462499999996,
+            "token": "mhm"
+        },
+        {
+            "name": "sun_028_right",
+            "start": 354.83,
+            "end": 355.559375,
+            "token": "right"
         }
     ]
 }

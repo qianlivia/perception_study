@@ -1,27 +1,27 @@
 {
     "name": "fe_03_02859",
     "context_channel": 1,
-    "context_text": "<A> i was gonna say i i watch a lot a lot of sports with my husband / <B> yeah / <A> and uh when football 's on he seems to be glued to the set / <B> yeah / <A> um same with basketball but i think i can understand basketball a little easier / <B> ooh",
+    "context_text": "<A> i was gonna say i i watch a lot a lot of sports with my husband / <B> yeah / <A> and uh when football 's on he seems to be glued to the set / <B> right / <A> um same with basketball but i think i can understand basketball a little easier / <B> yeah",
     "context_start": 20.78,
-    "context_end": 32.5925,
+    "context_end": 32.388625,
     "feedback": [
         {
-            "name": "spontD_170_yeah",
+            "name": "spontB_224_yeah",
             "start": 23.48,
-            "end": 24.1505,
+            "end": 24.3535,
             "token": "yeah"
         },
         {
-            "name": "spontA_374_yeah",
+            "name": "sun1_030_right",
             "start": 27.38,
-            "end": 28.185,
-            "token": "yeah"
+            "end": 28.173624999999998,
+            "token": "right"
         },
         {
-            "name": "spontA_118_ooh",
+            "name": "PR_035_yeah",
             "start": 31.59,
-            "end": 32.5925,
-            "token": "ooh"
+            "end": 32.388625,
+            "token": "yeah"
         }
     ]
 }

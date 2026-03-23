@@ -1,39 +1,39 @@
 {
     "name": "fe_03_03457",
     "context_channel": 0,
-    "context_text": "<B> and um i listened to it briefly and then i said okay great they called when i wasn't here / <A> yeah / <B> so tonight they called back and um i said okay let me see how this is gonna go / <A> mhm / <B> and what it's like / <A> oh / <B> but no someone had told me about it / <A> uh-huh / <B> so i decided to try it / <A> no",
+    "context_text": "<B> and um i listened to it briefly and then i said okay great they called when i wasn't here / <A> okay / <B> so tonight they called back and um i said okay let me see how this is gonna go / <A> uh-huh / <B> and what it's like / <A> wow / <B> but no someone had told me about it / <A> uh-huh / <B> so i decided to try it / <A> right",
     "context_start": 269.07,
-    "context_end": 293.26374999999996,
+    "context_end": 293.253625,
     "feedback": [
         {
-            "name": "spontB_136_yeah",
+            "name": "spontB_028_okay",
             "start": 276.88,
-            "end": 277.676875,
-            "token": "yeah"
+            "end": 277.31325,
+            "token": "okay"
         },
         {
-            "name": "spontA_415_mhm",
+            "name": "spontB_137_uh-huh",
             "start": 283.62,
-            "end": 284.1545,
-            "token": "mhm"
-        },
-        {
-            "name": "Sy_012_oh",
-            "start": 285.92,
-            "end": 287.143125,
-            "token": "oh"
-        },
-        {
-            "name": "spontF_463_uh-huh",
-            "start": 290.11,
-            "end": 290.61762500000003,
+            "end": 284.171,
             "token": "uh-huh"
         },
         {
-            "name": "NR_053_no",
+            "name": "PS_156_wow",
+            "start": 285.92,
+            "end": 286.86075,
+            "token": "wow"
+        },
+        {
+            "name": "spontF_634_uh-huh",
+            "start": 290.11,
+            "end": 290.65425,
+            "token": "uh-huh"
+        },
+        {
+            "name": "sun1_030_right",
             "start": 292.46,
-            "end": 293.26374999999996,
-            "token": "no"
+            "end": 293.253625,
+            "token": "right"
         }
     ]
 }

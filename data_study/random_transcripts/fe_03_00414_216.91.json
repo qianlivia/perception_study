@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00414",
     "context_channel": 0,
-    "context_text": "<B> but avoid being cynical { try to } / <A> [ yeah ] / <B> be as optimistic as possible / <A> mhm / <B> tell him what's good and right and idealistic / <A> no / <B> and let the world tell him what is / <A> no",
+    "context_text": "<B> but avoid being cynical { try to } / <A> [ right ] / <B> be as optimistic as possible / <A> wow / <B> tell him what's good and right and idealistic / <A> yeah / <B> and let the world tell him what is / <A> okay",
     "context_start": 216.91,
-    "context_end": 229.11375,
+    "context_end": 228.877625,
     "feedback": [
         {
-            "name": "spontF_380_yeah",
+            "name": "PR_043_right",
             "start": 218.56,
-            "end": 219.1735,
+            "end": 219.22,
+            "token": "right"
+        },
+        {
+            "name": "NegS_056_wow",
+            "start": 220.92,
+            "end": 222.02325,
+            "token": "wow"
+        },
+        {
+            "name": "spontD_408_yeah",
+            "start": 223.87,
+            "end": 224.596375,
             "token": "yeah"
         },
         {
-            "name": "spontA_107_mhm",
-            "start": 220.92,
-            "end": 221.433125,
-            "token": "mhm"
-        },
-        {
-            "name": "NR_061_no",
-            "start": 223.87,
-            "end": 224.80325,
-            "token": "no"
-        },
-        {
-            "name": "NR_053_no",
+            "name": "spontB_018_okay",
             "start": 228.31,
-            "end": 229.11375,
-            "token": "no"
+            "end": 228.877625,
+            "token": "okay"
         }
     ]
 }

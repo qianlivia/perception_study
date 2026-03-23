@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01532",
     "context_channel": 0,
-    "context_text": "<B> yeah they there's certain yeah cert i don't know em by right off the cuff but / <A> no / <B> um there are a couple out there where you can self assign yeah but you have to go to em i want i want schedulers to contact me / <A> absolutely / <B> that's what i want but it's not you know it's not all like that { you } / <A> [ uh-huh ] / <B> have schedulers that contact you regularly and then you have you know you have to go to the sites and self assign and / <A> uh-huh",
+    "context_text": "<B> yeah they there's certain yeah cert i don't know em by right off the cuff but / <A> right / <B> um there are a couple out there where you can self assign yeah but you have to go to em i want i want schedulers to contact me / <A> right / <B> that's what i want but it's not you know it's not all like that { you } / <A> [ right ] / <B> have schedulers that contact you regularly and then you have you know you have to go to the sites and self assign and / <A> mhm",
     "context_start": 558.58,
-    "context_end": 584.9078750000001,
+    "context_end": 585.00625,
     "feedback": [
         {
-            "name": "NR_114_no",
+            "name": "sun1_029_right",
             "start": 563.43,
-            "end": 564.7406249999999,
-            "token": "no"
+            "end": 564.122,
+            "token": "right"
         },
         {
-            "name": "sun_004_absolutely",
+            "name": "sun1_033_right",
             "start": 572.43,
-            "end": 573.860375,
-            "token": "absolutely"
+            "end": 573.2831249999999,
+            "token": "right"
         },
         {
-            "name": "spontE_260_uh-huh",
+            "name": "sun_028_right",
             "start": 577.89,
-            "end": 578.4427499999999,
-            "token": "uh-huh"
+            "end": 578.619375,
+            "token": "right"
         },
         {
-            "name": "spontD_372_uh-huh",
+            "name": "spontA_409_mhm",
             "start": 584.44,
-            "end": 584.9078750000001,
-            "token": "uh-huh"
+            "end": 585.00625,
+            "token": "mhm"
         }
     ]
 }

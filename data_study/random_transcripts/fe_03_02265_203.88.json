@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02265",
     "context_channel": 0,
-    "context_text": "<B> never realised that until i started having my sinus problems so i whenever my kids get a real bad cough i always tell em first off start blowing your nose you know blow your nose blow your nose / <A> oh / <B> and or suck on like a hard piece of candy { and } / <A> [ ooh ] / <B> that'll stop the irritation and um that always seems to help and ah will keep the sinus infection from coming on and that flonaze is really good stuff and it's better to do the steroid that way versus taking it orally or { through } / <A> [ sure ] / <B> injections { you } / <A> [ uh-huh ]",
+    "context_text": "<B> never realised that until i started having my sinus problems so i whenever my kids get a real bad cough i always tell em first off start blowing your nose you know blow your nose blow your nose / <A> okay / <B> and or suck on like a hard piece of candy { and } / <A> [ mhm ] / <B> that'll stop the irritation and um that always seems to help and ah will keep the sinus infection from coming on and that flonaze is really good stuff and it's better to do the steroid that way versus taking it orally or { through } / <A> [ mhm ] / <B> injections { you } / <A> [ yeah ]",
     "context_start": 203.88,
-    "context_end": 235.215375,
+    "context_end": 235.45012499999999,
     "feedback": [
         {
-            "name": "spontF_277_oh",
+            "name": "spontC_017_okay",
             "start": 214.75,
-            "end": 215.31825,
-            "token": "oh"
+            "end": 215.555625,
+            "token": "okay"
         },
         {
-            "name": "PS_186_ooh",
+            "name": "spontA_358_mhm",
             "start": 218.02,
-            "end": 218.60850000000002,
-            "token": "ooh"
+            "end": 218.51862500000001,
+            "token": "mhm"
         },
         {
-            "name": "sun_047_sure",
+            "name": "spontC_304_mhm",
             "start": 233.07,
-            "end": 233.951125,
-            "token": "sure"
+            "end": 233.588,
+            "token": "mhm"
         },
         {
-            "name": "spontA_103_uh-huh",
+            "name": "spontE_274_yeah",
             "start": 234.72,
-            "end": 235.215375,
-            "token": "uh-huh"
+            "end": 235.45012499999999,
+            "token": "yeah"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03942",
     "context_channel": 0,
-    "context_text": "<B> i i don't know that there's much of that around now it's all kind of like i mean will and grace i guess is sort of i mean but it's not offensive { it's } / <A> [ mhm ] / <B> just you know that they are you know breaking certain norms by having gay characters { and } / <A> [ okay ] / <B> it's funny but { i } / <A> [ yeah ] / <B> don't think it's as outwardly offensive as you know the jeffersons or / <A> yeah",
+    "context_text": "<B> i i don't know that there's much of that around now it's all kind of like i mean will and grace i guess is sort of i mean but it's not offensive { it's } / <A> [ right ] / <B> just you know that they are you know breaking certain norms by having gay characters { and } / <A> [ mhm ] / <B> it's funny but { i } / <A> [ exactly ] / <B> don't think it's as outwardly offensive as you know the jeffersons or / <A> okay",
     "context_start": 530.22,
-    "context_end": 552.1946250000001,
+    "context_end": 552.14075,
     "feedback": [
         {
-            "name": "NS_071_mhm",
+            "name": "sun1_029_right",
             "start": 538.45,
-            "end": 539.538,
+            "end": 539.142,
+            "token": "right"
+        },
+        {
+            "name": "spontF_038_mhm",
+            "start": 545.23,
+            "end": 545.758875,
             "token": "mhm"
         },
         {
-            "name": "spontC_401_okay",
-            "start": 545.23,
-            "end": 545.759375,
-            "token": "okay"
-        },
-        {
-            "name": "spontB_299_yeah",
+            "name": "sun_041_exactly",
             "start": 546.8,
-            "end": 547.4594999999999,
-            "token": "yeah"
+            "end": 547.7529999999999,
+            "token": "exactly"
         },
         {
-            "name": "spontA_336_yeah",
+            "name": "spontE_275_okay",
             "start": 551.58,
-            "end": 552.1946250000001,
-            "token": "yeah"
+            "end": 552.14075,
+            "token": "okay"
         }
     ]
 }

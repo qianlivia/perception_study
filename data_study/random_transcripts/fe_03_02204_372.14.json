@@ -1,27 +1,27 @@
 {
     "name": "fe_03_02204",
     "context_channel": 1,
-    "context_text": "<A> and that one's sort of like a fast food style um but i couldn't get a half a chicken for a dollar fifty you know and and / <B> oh / <A> comes with ah stuffing and two vegetables / <B> exactly / <A> you know oh i love georgine 's oh my / <B> okay",
+    "context_text": "<A> and that one's sort of like a fast food style um but i couldn't get a half a chicken for a dollar fifty you know and and / <B> right / <A> comes with ah stuffing and two vegetables / <B> okay / <A> you know oh i love georgine 's oh my / <B> exactly",
     "context_start": 372.14,
-    "context_end": 386.635625,
+    "context_end": 386.8635,
     "feedback": [
         {
-            "name": "Sy_044_oh",
+            "name": "sun_028_right",
             "start": 380.04,
-            "end": 381.159875,
-            "token": "oh"
+            "end": 380.769375,
+            "token": "right"
         },
         {
-            "name": "sun_015_exactly",
+            "name": "spontF_181_okay",
             "start": 383.36,
-            "end": 384.46175,
-            "token": "exactly"
+            "end": 384.101875,
+            "token": "okay"
         },
         {
-            "name": "spontC_017_okay",
+            "name": "sun_016_exactly",
             "start": 385.83,
-            "end": 386.635625,
-            "token": "okay"
+            "end": 386.8635,
+            "token": "exactly"
         }
     ]
 }

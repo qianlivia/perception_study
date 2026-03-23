@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02839",
     "context_channel": 0,
-    "context_text": "<B> everything um and i did shoot a film in uh outside of pittsfield massachusetts / <A> yeah / <B> and that used to be all textile industries / <A> wow / <B> and they had three mills and the rest of it was textile / <A> uh-huh / <B> and everything was shut down / <A> no",
+    "context_text": "<B> everything um and i did shoot a film in uh outside of pittsfield massachusetts / <A> really / <B> and that used to be all textile industries / <A> oh / <B> and they had three mills and the rest of it was textile / <A> uh-huh / <B> and everything was shut down / <A> wow",
     "context_start": 491.86,
-    "context_end": 510.694375,
+    "context_end": 510.927875,
     "feedback": [
         {
-            "name": "spontD_395_yeah",
+            "name": "NS_082_really",
             "start": 498.48,
-            "end": 499.325625,
-            "token": "yeah"
+            "end": 499.23225,
+            "token": "really"
         },
         {
-            "name": "PS_023_wow",
+            "name": "spontD_114_oh",
             "start": 501.11,
-            "end": 501.8995,
-            "token": "wow"
+            "end": 501.73650000000004,
+            "token": "oh"
         },
         {
-            "name": "spontC_013_uh-huh",
+            "name": "spontE_321_uh-huh",
             "start": 506.93,
-            "end": 507.424875,
+            "end": 507.425625,
             "token": "uh-huh"
         },
         {
-            "name": "NR_070_no",
+            "name": "PS_120_wow",
             "start": 509.83,
-            "end": 510.694375,
-            "token": "no"
+            "end": 510.927875,
+            "token": "wow"
         }
     ]
 }

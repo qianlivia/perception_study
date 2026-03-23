@@ -1,27 +1,27 @@
 {
     "name": "fe_03_05231",
     "context_channel": 0,
-    "context_text": "<B> um the runny nose is like like really annoying so { i } / <A> [ uh-huh ] / <B> get pretty pissed too you know and um um i'm usually just like like because i go to college so right / <A> yeah / <B> when i get back to my dorm room i lie down and i don't get up for like hours { because i'm } / <A> [ aha ]",
+    "context_text": "<B> um the runny nose is like like really annoying so { i } / <A> [ okay ] / <B> get pretty pissed too you know and um um i'm usually just like like because i go to college so right / <A> okay / <B> when i get back to my dorm room i lie down and i don't get up for like hours { because i'm } / <A> [ right ]",
     "context_start": 206.9,
-    "context_end": 224.94875,
+    "context_end": 224.95425,
     "feedback": [
         {
-            "name": "spontB_234_uh-huh",
+            "name": "spontF_643_okay",
             "start": 210.65,
-            "end": 211.12925,
-            "token": "uh-huh"
+            "end": 211.358,
+            "token": "okay"
         },
         {
-            "name": "spontC_506_yeah",
+            "name": "spontB_019_okay",
             "start": 218.83,
-            "end": 219.349375,
-            "token": "yeah"
+            "end": 219.52312500000002,
+            "token": "okay"
         },
         {
-            "name": "spontA_328_aha",
+            "name": "sun1_031_right",
             "start": 224.16,
-            "end": 224.94875,
-            "token": "aha"
+            "end": 224.95425,
+            "token": "right"
         }
     ]
 }

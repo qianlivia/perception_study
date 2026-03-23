@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04180",
     "context_channel": 0,
-    "context_text": "<B> um it would well okay her stuff would probably be more high end / <A> sure / <B> because it's just unusual and might take longer to make / <A> yeah / <B> so the labor and the uh intri it's it'll be like really intricate and everything so it / <A> ah / <B> it would probably cost more / <A> ooh",
+    "context_text": "<B> um it would well okay her stuff would probably be more high end / <A> oh / <B> because it's just unusual and might take longer to make / <A> okay / <B> so the labor and the uh intri it's it'll be like really intricate and everything so it / <A> yeah / <B> it would probably cost more / <A> yeah",
     "context_start": 407.62,
-    "context_end": 428.8725,
+    "context_end": 428.37962500000003,
     "feedback": [
         {
-            "name": "sun_047_sure",
+            "name": "spontE_285_oh",
             "start": 413.41,
-            "end": 414.291125,
-            "token": "sure"
+            "end": 414.005125,
+            "token": "oh"
         },
         {
-            "name": "spontA_233_yeah",
+            "name": "spontB_195_okay",
             "start": 418.87,
-            "end": 419.64575,
+            "end": 419.53950000000003,
+            "token": "okay"
+        },
+        {
+            "name": "PR_040_yeah",
+            "start": 425.64,
+            "end": 426.2485,
             "token": "yeah"
         },
         {
-            "name": "spontB_235_ah",
-            "start": 425.64,
-            "end": 427.02675,
-            "token": "ah"
-        },
-        {
-            "name": "spontA_118_ooh",
+            "name": "spontA_416_yeah",
             "start": 427.87,
-            "end": 428.8725,
-            "token": "ooh"
+            "end": 428.37962500000003,
+            "token": "yeah"
         }
     ]
 }

@@ -1,39 +1,39 @@
 {
     "name": "fe_03_01314",
     "context_channel": 0,
-    "context_text": "<B> well i see people um i no longer work but i see people who stand outside their buildings and smoke / <A> ah / <B> and i always think gee when i worked i used to carry the load for the workers who went outside and smoked / <A> oh / <B> and that can cause resentment / <A> yeah / <B> um the lost time costs money to the business / <A> uh-huh / <B> uh so i think there are other um advantages to banning smoking / <A> absolutely",
+    "context_text": "<B> well i see people um i no longer work but i see people who stand outside their buildings and smoke / <A> oh / <B> and i always think gee when i worked i used to carry the load for the workers who went outside and smoked / <A> yeah / <B> and that can cause resentment / <A> right / <B> um the lost time costs money to the business / <A> yeah / <B> uh so i think there are other um advantages to banning smoking / <A> oh",
     "context_start": 431.6,
-    "context_end": 463.84925,
+    "context_end": 464.939,
     "feedback": [
         {
-            "name": "spontC_173_ah",
+            "name": "NS_097_oh",
             "start": 439.42,
-            "end": 440.48400000000004,
-            "token": "ah"
-        },
-        {
-            "name": "spontD_032_oh",
-            "start": 447.2,
-            "end": 447.886625,
+            "end": 440.09000000000003,
             "token": "oh"
         },
         {
-            "name": "spontD_397_yeah",
-            "start": 450.69,
-            "end": 451.071375,
+            "name": "spontF_295_yeah",
+            "start": 447.2,
+            "end": 447.718375,
             "token": "yeah"
         },
         {
-            "name": "spontF_009_uh-huh",
-            "start": 454.57,
-            "end": 454.95275,
-            "token": "uh-huh"
+            "name": "sun1_030_right",
+            "start": 450.69,
+            "end": 451.483625,
+            "token": "right"
         },
         {
-            "name": "sun_037_absolutely",
+            "name": "spontE_062_yeah",
+            "start": 454.57,
+            "end": 455.232125,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_170_oh",
             "start": 462.69,
-            "end": 463.84925,
-            "token": "absolutely"
+            "end": 464.939,
+            "token": "oh"
         }
     ]
 }

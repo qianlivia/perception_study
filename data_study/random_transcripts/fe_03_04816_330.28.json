@@ -1,57 +1,57 @@
 {
     "name": "fe_03_04816",
     "context_channel": 1,
-    "context_text": "<A> i understand for the people okay i understand if a person doesn't smoke { i } / <B> [ uh-huh ] / <A> me personally i wouldn't blow the smoke in front of 'em { or } / <B> [ uh-huh ] / <A> i would just hold on and you know when i'm not around a person i'll smoke / <B> wow / <A> but they should at least give us the choice where we can smoke / <B> oh / <A> and where we can't smoke / <B> ooh / <A> in in the workplace cool i understand there's no smoking in the workplace you're supposed to be working anyway / <B> mhm / <A> but but it it also it also depends on on where you work / <B> uh-huh / <A> you know 'cause if you work in office okay no smoking / <B> uh-huh",
+    "context_text": "<A> i understand for the people okay i understand if a person doesn't smoke { i } / <B> [ mhm ] / <A> me personally i wouldn't blow the smoke in front of 'em { or } / <B> [ mhm ] / <A> i would just hold on and you know when i'm not around a person i'll smoke / <B> wow / <A> but they should at least give us the choice where we can smoke / <B> exactly / <A> and where we can't smoke / <B> okay / <A> in in the workplace cool i understand there's no smoking in the workplace you're supposed to be working anyway / <B> uh-huh / <A> but but it it also it also depends on on where you work / <B> yeah / <A> you know 'cause if you work in office okay no smoking / <B> right",
     "context_start": 330.28,
-    "context_end": 365.93587499999995,
+    "context_end": 366.193625,
     "feedback": [
         {
-            "name": "spontF_571_uh-huh",
+            "name": "spontC_387_mhm",
             "start": 335.04,
-            "end": 335.577875,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontA_321_uh-huh",
-            "start": 337.56,
-            "end": 338.119375,
-            "token": "uh-huh"
-        },
-        {
-            "name": "PS_187_wow",
-            "start": 342.29,
-            "end": 343.3025,
-            "token": "wow"
-        },
-        {
-            "name": "Sy_003_oh",
-            "start": 347.19,
-            "end": 348.097,
-            "token": "oh"
-        },
-        {
-            "name": "spontE_174_ooh",
-            "start": 348.78,
-            "end": 349.40374999999995,
-            "token": "ooh"
-        },
-        {
-            "name": "spontA_064_mhm",
-            "start": 354.03,
-            "end": 354.55312499999997,
+            "end": 335.64500000000004,
             "token": "mhm"
         },
         {
-            "name": "spontC_379_uh-huh",
-            "start": 361.32,
-            "end": 361.78525,
+            "name": "spontA_343_mhm",
+            "start": 337.56,
+            "end": 338.109625,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_131_wow",
+            "start": 342.29,
+            "end": 343.267625,
+            "token": "wow"
+        },
+        {
+            "name": "sun_041_exactly",
+            "start": 347.19,
+            "end": 348.143,
+            "token": "exactly"
+        },
+        {
+            "name": "spontD_073_okay",
+            "start": 348.78,
+            "end": 349.521125,
+            "token": "okay"
+        },
+        {
+            "name": "spontE_282_uh-huh",
+            "start": 354.03,
+            "end": 354.50725,
             "token": "uh-huh"
         },
         {
-            "name": "spontC_095_uh-huh",
+            "name": "spontE_059_yeah",
+            "start": 361.32,
+            "end": 362.201375,
+            "token": "yeah"
+        },
+        {
+            "name": "sun1_030_right",
             "start": 365.4,
-            "end": 365.93587499999995,
-            "token": "uh-huh"
+            "end": 366.193625,
+            "token": "right"
         }
     ]
 }

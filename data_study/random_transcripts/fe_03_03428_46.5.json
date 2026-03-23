@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03428",
     "context_channel": 1,
-    "context_text": "<A> yes but also too trust a lotta times in marriages uh people think they can trust their spouse but they can't / <B> oh / <A> so i think if you have open communication is better than anything / <B> uh-huh / <A> because if there is problems in a marriage then the uh the the the partners can talk about it / <B> mhm / <A> and i have seen so many times where uh there's marriages that have not that the participants like one spouse would think they had a wonderful marriage and actually it wasn't that great and it was because the spouse would say i can't get my other partner to talk about the problems / <B> yeah",
+    "context_text": "<A> yes but also too trust a lotta times in marriages uh people think they can trust their spouse but they can't / <B> right / <A> so i think if you have open communication is better than anything / <B> mhm / <A> because if there is problems in a marriage then the uh the the the partners can talk about it / <B> mhm / <A> and i have seen so many times where uh there's marriages that have not that the participants like one spouse would think they had a wonderful marriage and actually it wasn't that great and it was because the spouse would say i can't get my other partner to talk about the problems / <B> right",
     "context_start": 46.5,
-    "context_end": 80.993625,
+    "context_end": 81.20949999999999,
     "feedback": [
         {
-            "name": "PS_035_oh",
+            "name": "sun1_032_right",
             "start": 53.22,
-            "end": 54.051625,
-            "token": "oh"
+            "end": 54.063375,
+            "token": "right"
         },
         {
-            "name": "spontE_304_uh-huh",
+            "name": "spontF_611_mhm",
             "start": 57.06,
-            "end": 57.547625000000004,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontB_212_mhm",
-            "start": 63.65,
-            "end": 64.42775,
+            "end": 57.613125000000004,
             "token": "mhm"
         },
         {
-            "name": "spontD_145_yeah",
+            "name": "spontC_330_mhm",
+            "start": 63.65,
+            "end": 64.133625,
+            "token": "mhm"
+        },
+        {
+            "name": "sun_007_right",
             "start": 80.32,
-            "end": 80.993625,
-            "token": "yeah"
+            "end": 81.20949999999999,
+            "token": "right"
         }
     ]
 }

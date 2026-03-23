@@ -1,39 +1,39 @@
 {
     "name": "fe_03_05010",
     "context_channel": 0,
-    "context_text": "<B> you know i mean it's like now everything's on the oscars you know anything that's public just about i mean i'm here in phoenix arizona and you know a couple of years ago we had the world series with the yankees i mean i was i was lucky enough to go but i mean you had to go through about like ten security procedures just to get in even with a ticket you know / <A> no / <B> i mean you know you had to be frisked you had to empty you had to empty out your pockets everything you know / <A> uh-huh / <B> i mean you had to take off your baseball cap so they could inspect the inside of it you know / <A> no / <B> i mean which is like i mean it's a pain in the arse but i mean it's like but you know it's li i mean you know what happened happened and we can't do anything about it now but we can sure as hell make sure it doesn't happen again you know / <A> no / <B> as far as like all these preparations it's like i'm sorry to say i haven't done that much i mean it's like i mean you know i go out and buy bottled water but i'm not one of em that's like going out and stocking up on it like constantly you know / <A> okay",
+    "context_text": "<B> you know i mean it's like now everything's on the oscars you know anything that's public just about i mean i'm here in phoenix arizona and you know a couple of years ago we had the world series with the yankees i mean i was i was lucky enough to go but i mean you had to go through about like ten security procedures just to get in even with a ticket you know / <A> mhm / <B> i mean you know you had to be frisked you had to empty you had to empty out your pockets everything you know / <A> yeah / <B> i mean you had to take off your baseball cap so they could inspect the inside of it you know / <A> mhm / <B> i mean which is like i mean it's a pain in the arse but i mean it's like but you know it's li i mean you know what happened happened and we can't do anything about it now but we can sure as hell make sure it doesn't happen again you know / <A> yeah / <B> as far as like all these preparations it's like i'm sorry to say i haven't done that much i mean it's like i mean you know i go out and buy bottled water but i'm not one of em that's like going out and stocking up on it like constantly you know / <A> right",
     "context_start": 110.87,
-    "context_end": 162.731,
+    "context_end": 162.883125,
     "feedback": [
         {
-            "name": "NR_003_no",
+            "name": "sun1_002_mhm",
             "start": 127.67,
-            "end": 128.29987500000001,
-            "token": "no"
+            "end": 128.459875,
+            "token": "mhm"
         },
         {
-            "name": "spontD_391_uh-huh",
+            "name": "spontC_335_yeah",
             "start": 133.34,
-            "end": 133.83025,
-            "token": "uh-huh"
+            "end": 134.4915,
+            "token": "yeah"
         },
         {
-            "name": "NR_063_no",
+            "name": "spontA_064_mhm",
             "start": 137.52,
-            "end": 138.28,
-            "token": "no"
+            "end": 138.043125,
+            "token": "mhm"
         },
         {
-            "name": "NR_048_no",
+            "name": "spontF_137_yeah",
             "start": 150.06,
-            "end": 150.67725000000002,
-            "token": "no"
+            "end": 150.544,
+            "token": "yeah"
         },
         {
-            "name": "spontB_120_okay",
+            "name": "sun1_033_right",
             "start": 162.03,
-            "end": 162.731,
-            "token": "okay"
+            "end": 162.883125,
+            "token": "right"
         }
     ]
 }

@@ -1,39 +1,39 @@
 {
     "name": "fe_03_05644",
     "context_channel": 1,
-    "context_text": "<A> like um you pretty much have to get there like at least two hours before your flight { if } / <B> [ mhm ] / <A> you want to if you want to make it on time / <B> no / <A> so like uh i mean it always took a while but now it's like ridiculous cause like they're always doing like like they do a lot more of the um like random searches like it's happened to me a couple of times where like you'll walk through the metal detector and / <B> right / <A> like you won't even set it off but they'll like pull you aside and um / <B> oh / <A> use like the thing like the uh handheld thing on you / <B> absolutely",
+    "context_text": "<A> like um you pretty much have to get there like at least two hours before your flight { if } / <B> [ okay ] / <A> you want to if you want to make it on time / <B> exactly / <A> so like uh i mean it always took a while but now it's like ridiculous cause like they're always doing like like they do a lot more of the um like random searches like it's happened to me a couple of times where like you'll walk through the metal detector and / <B> right / <A> like you won't even set it off but they'll like pull you aside and um / <B> uh-huh / <A> use like the thing like the uh handheld thing on you / <B> okay",
     "context_start": 215.82,
-    "context_end": 244.36925,
+    "context_end": 243.95112500000002,
     "feedback": [
         {
-            "name": "spontB_187_mhm",
+            "name": "spontF_074_okay",
             "start": 221.27,
-            "end": 221.82112500000002,
-            "token": "mhm"
+            "end": 221.914125,
+            "token": "okay"
         },
         {
-            "name": "NR_046_no",
+            "name": "sun_029_exactly",
             "start": 223.35,
-            "end": 224.13025,
-            "token": "no"
+            "end": 224.490375,
+            "token": "exactly"
         },
         {
-            "name": "sun1_031_right",
+            "name": "sun1_033_right",
             "start": 236.32,
-            "end": 237.11425,
+            "end": 237.173125,
             "token": "right"
         },
         {
-            "name": "spontF_514_oh",
+            "name": "spontC_189_uh-huh",
             "start": 239.93,
-            "end": 240.715125,
-            "token": "oh"
+            "end": 240.41025000000002,
+            "token": "uh-huh"
         },
         {
-            "name": "sun_037_absolutely",
+            "name": "spontD_073_okay",
             "start": 243.21,
-            "end": 244.36925,
-            "token": "absolutely"
+            "end": 243.95112500000002,
+            "token": "okay"
         }
     ]
 }

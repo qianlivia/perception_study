@@ -1,27 +1,27 @@
 {
     "name": "fe_03_04447",
     "context_channel": 1,
-    "context_text": "<A> uh terrible / <B> yeah / <A> um i um feel strongly about it { um } / <B> [ oh ] / <A> in fact i strong enough that i vote and i vote along one or two lines { of the } / <B> [ mhm ]",
+    "context_text": "<A> uh terrible / <B> right / <A> um i um feel strongly about it { um } / <B> [ wow ] / <A> in fact i strong enough that i vote and i vote along one or two lines { of the } / <B> [ really ]",
     "context_start": 294.89,
-    "context_end": 304.618875,
+    "context_end": 304.87225,
     "feedback": [
         {
-            "name": "spontD_395_yeah",
+            "name": "sun1_029_right",
             "start": 296.01,
-            "end": 296.855625,
-            "token": "yeah"
+            "end": 296.702,
+            "token": "right"
         },
         {
-            "name": "PS_004_oh",
+            "name": "PS_049_wow",
             "start": 299.48,
-            "end": 300.55212500000005,
-            "token": "oh"
+            "end": 301.286625,
+            "token": "wow"
         },
         {
-            "name": "spontD_030_mhm",
+            "name": "NS_082_really",
             "start": 304.12,
-            "end": 304.618875,
-            "token": "mhm"
+            "end": 304.87225,
+            "token": "really"
         }
     ]
 }

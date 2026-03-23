@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04316",
     "context_channel": 0,
-    "context_text": "<B> um i went to well from like first grade through eighth grade i went to um public school / <A> ah / <B> and the public school the system is not very good / <A> mhm / <B> so ah and then from from ninth grade through twelfth grade i went to a different school and ah i wish i coulda you know coulda started that other school earlier / <A> mhm / <B> you know what i'm saying / <A> ah",
+    "context_text": "<B> um i went to well from like first grade through eighth grade i went to um public school / <A> mhm / <B> and the public school the system is not very good / <A> okay / <B> so ah and then from from ninth grade through twelfth grade i went to a different school and ah i wish i coulda you know coulda started that other school earlier / <A> yeah / <B> you know what i'm saying / <A> mhm",
     "context_start": 267.03,
-    "context_end": 298.374,
+    "context_end": 297.88212500000003,
     "feedback": [
         {
-            "name": "NS_095_ah",
+            "name": "spontB_187_mhm",
             "start": 275.1,
-            "end": 276.159625,
-            "token": "ah"
+            "end": 275.65112500000004,
+            "token": "mhm"
         },
         {
-            "name": "spontD_190_mhm",
+            "name": "spontE_391_okay",
             "start": 280.88,
-            "end": 281.3875,
-            "token": "mhm"
+            "end": 281.396875,
+            "token": "okay"
         },
         {
-            "name": "spontA_400_mhm",
+            "name": "spontC_174_yeah",
             "start": 295.07,
-            "end": 295.8905,
-            "token": "mhm"
+            "end": 295.7135,
+            "token": "yeah"
         },
         {
-            "name": "spontC_173_ah",
+            "name": "spontC_375_mhm",
             "start": 297.31,
-            "end": 298.374,
-            "token": "ah"
+            "end": 297.88212500000003,
+            "token": "mhm"
         }
     ]
 }

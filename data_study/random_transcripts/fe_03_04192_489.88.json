@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04192",
     "context_channel": 1,
-    "context_text": "<A> i think that if you really have a passion for something the returns on owning your own business are so much greater than like / <B> yeah / <A> for instance if you're working for someone { you know } / <B> [ mhm ] / <A> you can't necessarily do exactly what you wanna do with the business you you / <B> yeah / <A> really have to go along with their model and their business plan and their vision and / <B> wow",
+    "context_text": "<A> i think that if you really have a passion for something the returns on owning your own business are so much greater than like / <B> right / <A> for instance if you're working for someone { you know } / <B> [ mhm ] / <A> you can't necessarily do exactly what you wanna do with the business you you / <B> oh / <A> really have to go along with their model and their business plan and their vision and / <B> yeah",
     "context_start": 489.88,
-    "context_end": 507.69849999999997,
+    "context_end": 507.004125,
     "feedback": [
         {
-            "name": "spontE_252_yeah",
+            "name": "sun_013_right",
             "start": 495.27,
-            "end": 495.90574999999995,
-            "token": "yeah"
+            "end": 496.14349999999996,
+            "token": "right"
         },
         {
-            "name": "spontC_392_mhm",
+            "name": "spontA_358_mhm",
             "start": 498.27,
-            "end": 498.893375,
+            "end": 498.768625,
             "token": "mhm"
         },
         {
-            "name": "spontD_397_yeah",
+            "name": "spontC_046_oh",
             "start": 501.93,
-            "end": 502.311375,
-            "token": "yeah"
+            "end": 502.338125,
+            "token": "oh"
         },
         {
-            "name": "PS_154_wow",
+            "name": "spontE_290_yeah",
             "start": 506.21,
-            "end": 507.69849999999997,
-            "token": "wow"
+            "end": 507.004125,
+            "token": "yeah"
         }
     ]
 }

@@ -1,32 +1,32 @@
 {
     "name": "fe_03_05559",
     "context_channel": 0,
-    "context_text": "<B> uh diet i that's something i need to improve um / <A> yeah / <B> i mean actually i don't eat much sweets or uh or alcohol or smoke or anything / <A> yeah / <B> um but as far as like eating enough vegetables and fruits i'm a little lacking there / <A> no / <B> um but i d uh i do try to uh to watch a little bit of m like i don't eat much fried fried food and stuff so i try to watch a little bit of what i eat / <A> yeah",
+    "context_text": "<B> uh diet i that's something i need to improve um / <A> uh-huh / <B> i mean actually i don't eat much sweets or uh or alcohol or smoke or anything / <A> uh-huh / <B> um but as far as like eating enough vegetables and fruits i'm a little lacking there / <A> yeah / <B> um but i d uh i do try to uh to watch a little bit of m like i don't eat much fried fried food and stuff so i try to watch a little bit of what i eat / <A> yeah",
     "context_start": 252.37,
-    "context_end": 282.98962500000005,
+    "context_end": 283.097125,
     "feedback": [
         {
-            "name": "spontD_230_yeah",
+            "name": "spontC_186_uh-huh",
             "start": 257.44,
-            "end": 258.0655,
-            "token": "yeah"
+            "end": 257.91525,
+            "token": "uh-huh"
         },
         {
-            "name": "spontC_251_yeah",
+            "name": "spontA_413_uh-huh",
             "start": 266.49,
-            "end": 267.2375,
+            "end": 266.991375,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_395_yeah",
+            "start": 272.12,
+            "end": 272.516125,
             "token": "yeah"
         },
         {
-            "name": "spontA_090_no",
-            "start": 272.12,
-            "end": 272.8265,
-            "token": "no"
-        },
-        {
-            "name": "spontA_416_yeah",
+            "name": "spontF_630_yeah",
             "start": 282.48,
-            "end": 282.98962500000005,
+            "end": 283.097125,
             "token": "yeah"
         }
     ]

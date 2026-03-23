@@ -1,27 +1,27 @@
 {
     "name": "fe_03_03840",
     "context_channel": 0,
-    "context_text": "<B> made a he made a joke that uh basically got him fired and i don't think that's right you know i mean everybody was real sensitive about the nine eleven stuff that happened but uh i mean that's that's his job you know he { he } / <A> [ okay ] / <B> yeah the name of the show was politically incorrect / <A> mhm / <B> you know what i mean it would be like if somebody uh hired you for a job uh you know of throwing water balloons and and then fired you one day because they didn't like the way you were throwing one at somebody { or something } / <A> [ yeah ]",
+    "context_text": "<B> made a he made a joke that uh basically got him fired and i don't think that's right you know i mean everybody was real sensitive about the nine eleven stuff that happened but uh i mean that's that's his job you know he { he } / <A> [ okay ] / <B> yeah the name of the show was politically incorrect / <A> right / <B> you know what i mean it would be like if somebody uh hired you for a job uh you know of throwing water balloons and and then fired you one day because they didn't like the way you were throwing one at somebody { or something } / <A> [ mhm ]",
     "context_start": 140.99,
-    "context_end": 169.952875,
+    "context_end": 169.56475,
     "feedback": [
         {
-            "name": "spontD_089_okay",
+            "name": "spontC_172_okay",
             "start": 152.82,
-            "end": 153.625125,
+            "end": 153.231125,
             "token": "okay"
         },
         {
-            "name": "spontA_393_mhm",
+            "name": "sun1_029_right",
             "start": 156.53,
-            "end": 157.233125,
-            "token": "mhm"
+            "end": 157.222,
+            "token": "right"
         },
         {
-            "name": "spontD_233_yeah",
+            "name": "spontF_619_mhm",
             "start": 169.02,
-            "end": 169.952875,
-            "token": "yeah"
+            "end": 169.56475,
+            "token": "mhm"
         }
     ]
 }

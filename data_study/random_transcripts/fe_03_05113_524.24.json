@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05113",
     "context_channel": 1,
-    "context_text": "<A> yes sir and because i i won't have a go in my lifetime i don't think anyway i don't have a desire to go over there but / <B> yeah / <A> but i'd feel safer going over there now than i would have before this war ever come up / <B> uh-huh / <A> and uh and i think again i i pray for mr mr bush for doing the job he done / <B> uh-huh / <A> uh one little one little well one little poem or whatever you want to call it a guy was sitting on a beach across from the white house one day and / <B> uh-huh",
+    "context_text": "<A> yes sir and because i i won't have a go in my lifetime i don't think anyway i don't have a desire to go over there but / <B> oh / <A> but i'd feel safer going over there now than i would have before this war ever come up / <B> yeah / <A> and uh and i think again i i pray for mr mr bush for doing the job he done / <B> yeah / <A> uh one little one little well one little poem or whatever you want to call it a guy was sitting on a beach across from the white house one day and / <B> okay",
     "context_start": 524.24,
-    "context_end": 554.258125,
+    "context_end": 554.4879999999999,
     "feedback": [
         {
-            "name": "spontC_323_yeah",
+            "name": "PS_193_oh",
             "start": 530.77,
-            "end": 531.635125,
+            "end": 532.577125,
+            "token": "oh"
+        },
+        {
+            "name": "spontD_180_yeah",
+            "start": 536.17,
+            "end": 536.813125,
             "token": "yeah"
         },
         {
-            "name": "spontD_146_uh-huh",
-            "start": 536.17,
-            "end": 536.689125,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontD_020_uh-huh",
+            "name": "spontF_222_yeah",
             "start": 542.83,
-            "end": 543.3346250000001,
-            "token": "uh-huh"
+            "end": 543.485,
+            "token": "yeah"
         },
         {
-            "name": "spontC_371_uh-huh",
+            "name": "spontF_643_okay",
             "start": 553.78,
-            "end": 554.258125,
-            "token": "uh-huh"
+            "end": 554.4879999999999,
+            "token": "okay"
         }
     ]
 }

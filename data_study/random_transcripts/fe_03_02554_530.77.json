@@ -1,27 +1,27 @@
 {
     "name": "fe_03_02554",
     "context_channel": 0,
-    "context_text": "<B> and he described a show on japanese tv which was just like fear factor where they make people do all sorts of you know { you } / <A> [ yeah ] / <B> know lie in a pit of snakes / <A> ooh / <B> and i thought my god what are the japanese people thinking you know that would never make it here in the us and lo and behold three years later it is but my point being if the show really originated in japan and i don't have any reason to doubt my friend was telling me the truth { it's } / <A> [ no ]",
+    "context_text": "<B> and he described a show on japanese tv which was just like fear factor where they make people do all sorts of you know { you } / <A> [ right ] / <B> know lie in a pit of snakes / <A> yeah / <B> and i thought my god what are the japanese people thinking you know that would never make it here in the us and lo and behold three years later it is but my point being if the show really originated in japan and i don't have any reason to doubt my friend was telling me the truth { it's } / <A> [ wow ]",
     "context_start": 530.77,
-    "context_end": 561.510875,
+    "context_end": 561.138,
     "feedback": [
         {
-            "name": "spontD_198_yeah",
+            "name": "sun1_032_right",
             "start": 539.05,
-            "end": 539.7375,
+            "end": 539.893375,
+            "token": "right"
+        },
+        {
+            "name": "spontF_441_yeah",
+            "start": 540.98,
+            "end": 541.473875,
             "token": "yeah"
         },
         {
-            "name": "PS_099_ooh",
-            "start": 540.98,
-            "end": 541.689,
-            "token": "ooh"
-        },
-        {
-            "name": "NR_094_no",
+            "name": "PS_105_wow",
             "start": 560.49,
-            "end": 561.510875,
-            "token": "no"
+            "end": 561.138,
+            "token": "wow"
         }
     ]
 }

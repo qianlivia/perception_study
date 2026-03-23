@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04412",
     "context_channel": 1,
-    "context_text": "<A> [ i don't i don't think ] i honestly i don't think that that even if you if you said yeah i'll take it and i won't speak to him that it would be possible in in my circumstance to completely sever communication / <B> yeah / <A> because because like i said the circle of friends are the same / <B> yeah / <A> um we we work in the same work for the same company so we would we we don't necessarily always interact at work cause we work different shifts / <B> uh-huh / <A> but but we both work at the same place / <B> oh",
+    "context_text": "<A> [ i don't i don't think ] i honestly i don't think that that even if you if you said yeah i'll take it and i won't speak to him that it would be possible in in my circumstance to completely sever communication / <B> mhm / <A> because because like i said the circle of friends are the same / <B> okay / <A> um we we work in the same work for the same company so we would we we don't necessarily always interact at work cause we work different shifts / <B> yeah / <A> but but we both work at the same place / <B> wow",
     "context_start": 401.44,
-    "context_end": 436.490375,
+    "context_end": 436.57462499999997,
     "feedback": [
         {
-            "name": "spontB_299_yeah",
+            "name": "sun1_004_mhm",
             "start": 416.74,
-            "end": 417.3995,
-            "token": "yeah"
+            "end": 417.39,
+            "token": "mhm"
         },
         {
-            "name": "spontD_236_yeah",
+            "name": "spontE_152_okay",
             "start": 421.14,
-            "end": 421.89125,
+            "end": 421.76725,
+            "token": "okay"
+        },
+        {
+            "name": "spontC_125_yeah",
+            "start": 431.66,
+            "end": 432.39325,
             "token": "yeah"
         },
         {
-            "name": "spontC_347_uh-huh",
-            "start": 431.66,
-            "end": 432.20325,
-            "token": "uh-huh"
-        },
-        {
-            "name": "NS_025_oh",
+            "name": "PS_067_wow",
             "start": 435.51,
-            "end": 436.490375,
-            "token": "oh"
+            "end": 436.57462499999997,
+            "token": "wow"
         }
     ]
 }

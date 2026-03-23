@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01225",
     "context_channel": 0,
-    "context_text": "<B> mhm yeah it's hard to d it's hard to get to each one of them and some of them are doing their very best to stay removed you know they know how like you say they know how to play the game they know how to um to get duck and dodge { and a } / <A> [ yeah ] / <B> teacher and a teacher can be completely um you know not completely unaware but very much aware until perhaps the middle of the school year / <A> no / <B> and that's a that's a tough period to try to you know shore somebody up after twenty / <A> mhm / <B> weeks of school / <A> no",
+    "context_text": "<B> mhm yeah it's hard to d it's hard to get to each one of them and some of them are doing their very best to stay removed you know they know how like you say they know how to play the game they know how to um to get duck and dodge { and a } / <A> [ yeah ] / <B> teacher and a teacher can be completely um you know not completely unaware but very much aware until perhaps the middle of the school year / <A> okay / <B> and that's a that's a tough period to try to you know shore somebody up after twenty / <A> really / <B> weeks of school / <A> oh",
     "context_start": 476.92,
-    "context_end": 515.448625,
+    "context_end": 515.36275,
     "feedback": [
         {
-            "name": "spontF_562_yeah",
+            "name": "spontE_219_yeah",
             "start": 493.38,
-            "end": 493.948875,
+            "end": 493.9215,
             "token": "yeah"
         },
         {
-            "name": "NR_084_no",
+            "name": "spontE_405_okay",
             "start": 504.91,
-            "end": 505.87737500000003,
-            "token": "no"
+            "end": 505.584375,
+            "token": "okay"
         },
         {
-            "name": "spontA_120_mhm",
+            "name": "PS_019_really",
             "start": 512.6,
-            "end": 513.054875,
-            "token": "mhm"
+            "end": 513.3895,
+            "token": "really"
         },
         {
-            "name": "sun2_028_no",
+            "name": "PS_014_oh",
             "start": 514.43,
-            "end": 515.448625,
-            "token": "no"
+            "end": 515.36275,
+            "token": "oh"
         }
     ]
 }

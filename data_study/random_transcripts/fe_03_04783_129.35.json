@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04783",
     "context_channel": 0,
-    "context_text": "<B> and your non smoking is inside well you know that's fine / <A> oh / <B> and then that way if someone wants to sit with their friend who is a smoker then they can go sit outside and down wind from them or whatever the case may be / <A> ooh / <B> and in the winter time i'm thinking it's not that a big a big deal to enclose the place / <A> yeah / <B> that they could even open the windows and air it out you know like in the morning or something / <A> okay",
+    "context_text": "<B> and your non smoking is inside well you know that's fine / <A> right / <B> and then that way if someone wants to sit with their friend who is a smoker then they can go sit outside and down wind from them or whatever the case may be / <A> oh / <B> and in the winter time i'm thinking it's not that a big a big deal to enclose the place / <A> really / <B> that they could even open the windows and air it out you know like in the morning or something / <A> mhm",
     "context_start": 129.35,
-    "context_end": 153.573125,
+    "context_end": 153.81975,
     "feedback": [
         {
-            "name": "spontC_248_oh",
+            "name": "sun1_029_right",
             "start": 131.95,
-            "end": 132.594875,
+            "end": 132.642,
+            "token": "right"
+        },
+        {
+            "name": "Sy_006_oh",
+            "start": 140.09,
+            "end": 141.452875,
             "token": "oh"
         },
         {
-            "name": "spontE_157_ooh",
-            "start": 140.09,
-            "end": 141.2345,
-            "token": "ooh"
-        },
-        {
-            "name": "spontD_408_yeah",
+            "name": "PS_002_really",
             "start": 146.67,
-            "end": 147.39637499999998,
-            "token": "yeah"
+            "end": 147.462875,
+            "token": "really"
         },
         {
-            "name": "spontB_019_okay",
+            "name": "PR_046_mhm",
             "start": 152.88,
-            "end": 153.573125,
-            "token": "okay"
+            "end": 153.81975,
+            "token": "mhm"
         }
     ]
 }

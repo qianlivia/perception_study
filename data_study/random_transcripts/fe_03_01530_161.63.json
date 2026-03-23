@@ -1,27 +1,27 @@
 {
     "name": "fe_03_01530",
     "context_channel": 1,
-    "context_text": "<A> so i guess that's that is what what the news is { in } / <B> [ no ] / <A> regards to baseball players and i read you know in history that i am aware of i cannot recall anything um to my knowledge of hearing about any other players besides baseball players striking / <B> yeah / <A> and i don't know where that comes from any different in regards to basketball or football hockey or / <B> really",
+    "context_text": "<A> so i guess that's that is what what the news is { in } / <B> [ okay ] / <A> regards to baseball players and i read you know in history that i am aware of i cannot recall anything um to my knowledge of hearing about any other players besides baseball players striking / <B> yeah / <A> and i don't know where that comes from any different in regards to basketball or football hockey or / <B> wow",
     "context_start": 161.63,
-    "context_end": 183.58225000000002,
+    "context_end": 183.73175,
     "feedback": [
         {
-            "name": "NR_075_no",
+            "name": "spontC_017_okay",
             "start": 164.76,
-            "end": 165.55262499999998,
-            "token": "no"
+            "end": 165.56562499999998,
+            "token": "okay"
         },
         {
-            "name": "spontA_340_yeah",
+            "name": "spontB_143_yeah",
             "start": 176.79,
-            "end": 177.2125,
+            "end": 177.466125,
             "token": "yeah"
         },
         {
-            "name": "NS_082_really",
+            "name": "PS_071_wow",
             "start": 182.83,
-            "end": 183.58225000000002,
-            "token": "really"
+            "end": 183.73175,
+            "token": "wow"
         }
     ]
 }

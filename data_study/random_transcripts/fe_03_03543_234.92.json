@@ -1,32 +1,32 @@
 {
     "name": "fe_03_03543",
     "context_channel": 1,
-    "context_text": "<A> so oh my gosh minimum wage then was yeah really bad / <B> wow / <A> i was at like four and a quarter / <B> ah / <A> you know but and then you've got minimum wage but they're always talking about raising it { but } / <B> [ yeah ] / <A> then the other jobs aren't going to raise their pay accordingly / <B> yeah",
+    "context_text": "<A> so oh my gosh minimum wage then was yeah really bad / <B> right / <A> i was at like four and a quarter / <B> right / <A> you know but and then you've got minimum wage but they're always talking about raising it { but } / <B> [ uh-huh ] / <A> then the other jobs aren't going to raise their pay accordingly / <B> yeah",
     "context_start": 234.92,
-    "context_end": 254.44537499999998,
+    "context_end": 254.726125,
     "feedback": [
         {
-            "name": "PS_187_wow",
+            "name": "sun1_031_right",
             "start": 240.3,
-            "end": 241.3125,
-            "token": "wow"
+            "end": 241.09425000000002,
+            "token": "right"
         },
         {
-            "name": "spontB_235_ah",
+            "name": "sun1_032_right",
             "start": 242.91,
-            "end": 244.29675,
-            "token": "ah"
+            "end": 243.753375,
+            "token": "right"
         },
         {
-            "name": "spontD_365_yeah",
+            "name": "spontD_026_uh-huh",
             "start": 248.46,
-            "end": 249.31625,
-            "token": "yeah"
+            "end": 248.927875,
+            "token": "uh-huh"
         },
         {
-            "name": "spontA_155_yeah",
+            "name": "spontB_223_yeah",
             "start": 253.92,
-            "end": 254.44537499999998,
+            "end": 254.726125,
             "token": "yeah"
         }
     ]

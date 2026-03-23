@@ -1,39 +1,39 @@
 {
     "name": "fe_03_02935",
     "context_channel": 1,
-    "context_text": "<A> um not really i mean my personal opinion is i think a lot of the sports players are are paid way too high / <B> wow / <A> you know that that does kind of disturb me a little bit you { know } / <B> [ yeah ] / <A> especially here in dallas the uh you know i mean the dallas cowboys / <B> wow / <A> are kinda like the definition of criminals / <B> yeah / <A> you know i mean most of the dallas cowboys at one point or another are wanted for some kind of crime { and } / <B> [ no ]",
+    "context_text": "<A> um not really i mean my personal opinion is i think a lot of the sports players are are paid way too high / <B> okay / <A> you know that that does kind of disturb me a little bit you { know } / <B> [ oh ] / <A> especially here in dallas the uh you know i mean the dallas cowboys / <B> uh-huh / <A> are kinda like the definition of criminals / <B> yeah / <A> you know i mean most of the dallas cowboys at one point or another are wanted for some kind of crime { and } / <B> [ yeah ]",
     "context_start": 425.43,
-    "context_end": 455.992125,
+    "context_end": 454.71299999999997,
     "feedback": [
         {
-            "name": "PS_094_wow",
+            "name": "spontE_152_okay",
             "start": 433.62,
-            "end": 434.6545,
-            "token": "wow"
+            "end": 434.24725,
+            "token": "okay"
         },
         {
-            "name": "spontC_324_yeah",
+            "name": "PS_040_oh",
             "start": 437.58,
-            "end": 438.18787499999996,
-            "token": "yeah"
+            "end": 439.47675,
+            "token": "oh"
         },
         {
-            "name": "spontF_097_wow",
+            "name": "spontA_060_uh-huh",
             "start": 444.04,
-            "end": 444.484125,
-            "token": "wow"
+            "end": 444.50712500000003,
+            "token": "uh-huh"
         },
         {
-            "name": "spontA_117_yeah",
+            "name": "spontC_335_yeah",
             "start": 448.5,
-            "end": 449.139,
+            "end": 449.6515,
             "token": "yeah"
         },
         {
-            "name": "Sy_001_no",
+            "name": "spontC_365_yeah",
             "start": 454.21,
-            "end": 455.992125,
-            "token": "no"
+            "end": 454.71299999999997,
+            "token": "yeah"
         }
     ]
 }

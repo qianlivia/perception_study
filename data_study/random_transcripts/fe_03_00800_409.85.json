@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00800",
     "context_channel": 0,
-    "context_text": "<B> um and ah it was just you know it was kind of slow because there were a lot of other ah places i it it was in a business district and there were you know tons of other places where people could go and it was a tiny little place but eventually / <A> oh / <B> um ended up doing so well that ah they opened up a liquor store next door and another deli / <A> uh-huh / <B> in the next town over so but that was after like it was the first two or three years that they weren't doing well then they started doing well and i think it was about four years after that { they were } / <A> [ ah ] / <B> eventually able to expand it so i mean it does it takes a lot of time and patience and i know there were several times where they had considered you know giving up and / <A> yeah",
+    "context_text": "<B> um and ah it was just you know it was kind of slow because there were a lot of other ah places i it it was in a business district and there were you know tons of other places where people could go and it was a tiny little place but eventually / <A> mhm / <B> um ended up doing so well that ah they opened up a liquor store next door and another deli / <A> yeah / <B> in the next town over so but that was after like it was the first two or three years that they weren't doing well then they started doing well and i think it was about four years after that { they were } / <A> [ mhm ] / <B> eventually able to expand it so i mean it does it takes a lot of time and patience and i know there were several times where they had considered you know giving up and / <A> wow",
     "context_start": 409.85,
-    "context_end": 456.0115,
+    "context_end": 456.25925,
     "feedback": [
         {
-            "name": "Sy_053_oh",
+            "name": "spontB_121_mhm",
             "start": 427.98,
-            "end": 429.5325,
-            "token": "oh"
+            "end": 428.5135,
+            "token": "mhm"
         },
         {
-            "name": "spontA_158_uh-huh",
+            "name": "spontA_332_yeah",
             "start": 434.84,
-            "end": 435.362375,
-            "token": "uh-huh"
-        },
-        {
-            "name": "NS_095_ah",
-            "start": 444.57,
-            "end": 445.629625,
-            "token": "ah"
-        },
-        {
-            "name": "spontA_127_yeah",
-            "start": 455.36,
-            "end": 456.0115,
+            "end": 435.709,
             "token": "yeah"
+        },
+        {
+            "name": "spontB_284_mhm",
+            "start": 444.57,
+            "end": 445.18375,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_083_wow",
+            "start": 455.36,
+            "end": 456.25925,
+            "token": "wow"
         }
     ]
 }

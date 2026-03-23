@@ -1,39 +1,39 @@
 {
     "name": "fe_03_03765",
     "context_channel": 1,
-    "context_text": "<A> yes that's true i'm just thinking in the line of like the little rascals / <B> uh-huh / <A> you know i think i don't think it hurts anybody { or } / <B> [ oh ] / <A> you know and uh like bud abbott lew costello { those } / <B> [ yeah ] / <A> kind of comedy but the comedies that get there and and start you know like picking on uh presidents or or uh you know people in in news all the time / <B> no / <A> like that i mean also there's a lot of comedy about heavy people / <B> wow",
+    "context_text": "<A> yes that's true i'm just thinking in the line of like the little rascals / <B> right / <A> you know i think i don't think it hurts anybody { or } / <B> [ yeah ] / <A> you know and uh like bud abbott lew costello { those } / <B> [ oh ] / <A> kind of comedy but the comedies that get there and and start you know like picking on uh presidents or or uh you know people in in news all the time / <B> uh-huh / <A> like that i mean also there's a lot of comedy about heavy people / <B> exactly",
     "context_start": 81.09,
-    "context_end": 119.705875,
+    "context_end": 120.1395,
     "feedback": [
         {
-            "name": "spontF_316_uh-huh",
+            "name": "sun1_031_right",
             "start": 87.17,
-            "end": 87.720875,
-            "token": "uh-huh"
+            "end": 87.96425,
+            "token": "right"
         },
         {
-            "name": "Sy_066_oh",
+            "name": "spontF_086_yeah",
             "start": 92.05,
-            "end": 93.267,
-            "token": "oh"
-        },
-        {
-            "name": "spontF_062_yeah",
-            "start": 96.22,
-            "end": 96.76875,
+            "end": 92.767,
             "token": "yeah"
         },
         {
-            "name": "NR_039_no",
-            "start": 112.54,
-            "end": 113.169875,
-            "token": "no"
+            "name": "spontE_15_oh",
+            "start": 96.22,
+            "end": 96.56325,
+            "token": "oh"
         },
         {
-            "name": "PS_152_wow",
+            "name": "spontE_089_uh-huh",
+            "start": 112.54,
+            "end": 113.010625,
+            "token": "uh-huh"
+        },
+        {
+            "name": "sun_026_exactly",
             "start": 119.11,
-            "end": 119.705875,
-            "token": "wow"
+            "end": 120.1395,
+            "token": "exactly"
         }
     ]
 }

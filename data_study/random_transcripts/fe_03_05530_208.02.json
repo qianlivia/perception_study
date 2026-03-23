@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05530",
     "context_channel": 1,
-    "context_text": "<A> i i've kind of got this philosophy that um i don't know i think i heard i was watching some talk show and tyra banks was on there and they they asked about her diet and she said that she eats whatever she wants and everyone was amazed and she said partially because she exercises every single day / <B> yeah / <A> because you know it's sort of like what goes in it doesn't stay in it comes out / <B> yeah / <A> so i i sort of try to live by that philosophy but i'm finding that you know with exercise every single day / <B> yes / <A> so you have to limit your intake / <B> uh-huh",
+    "context_text": "<A> i i've kind of got this philosophy that um i don't know i think i heard i was watching some talk show and tyra banks was on there and they they asked about her diet and she said that she eats whatever she wants and everyone was amazed and she said partially because she exercises every single day / <B> oh / <A> because you know it's sort of like what goes in it doesn't stay in it comes out / <B> mhm / <A> so i i sort of try to live by that philosophy but i'm finding that you know with exercise every single day / <B> yeah / <A> so you have to limit your intake / <B> okay",
     "context_start": 208.02,
-    "context_end": 239.643875,
+    "context_end": 239.861,
     "feedback": [
         {
-            "name": "spontD_281_yeah",
+            "name": "sun1_010_oh",
             "start": 222.81,
-            "end": 223.318375,
-            "token": "yeah"
+            "end": 223.54675,
+            "token": "oh"
         },
         {
-            "name": "spontF_088_yeah",
+            "name": "spontD_133_mhm",
             "start": 228.39,
-            "end": 228.923625,
+            "end": 229.03025,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_441_yeah",
+            "start": 235.42,
+            "end": 235.85912499999998,
             "token": "yeah"
         },
         {
-            "name": "spontB_368_yes",
-            "start": 235.42,
-            "end": 236.277625,
-            "token": "yes"
-        },
-        {
-            "name": "spontD_043_uh-huh",
+            "name": "spontB_120_okay",
             "start": 239.16,
-            "end": 239.643875,
-            "token": "uh-huh"
+            "end": 239.861,
+            "token": "okay"
         }
     ]
 }

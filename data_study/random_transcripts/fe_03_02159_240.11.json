@@ -1,27 +1,27 @@
 {
     "name": "fe_03_02159",
     "context_channel": 0,
-    "context_text": "<B> right i don't have a clue / <A> yeah / <B> and we've seen these stories too uh cough where uh people who are employed by restaurants as acts of either well it's malice { uh it may } / <A> [ ooh ] / <B> not be directed toward you specifically but you could be the the recipient of their particular anger or their jokes or their just plain nastiness / <A> uh-huh",
+    "context_text": "<B> right i don't have a clue / <A> uh-huh / <B> and we've seen these stories too uh cough where uh people who are employed by restaurants as acts of either well it's malice { uh it may } / <A> [ right ] / <B> not be directed toward you specifically but you could be the the recipient of their particular anger or their jokes or their just plain nastiness / <A> right",
     "context_start": 240.11,
-    "context_end": 266.83175,
+    "context_end": 266.989375,
     "feedback": [
         {
-            "name": "spontF_630_yeah",
+            "name": "spontA_103_uh-huh",
             "start": 241.69,
-            "end": 242.30712499999998,
-            "token": "yeah"
-        },
-        {
-            "name": "PS_126_ooh",
-            "start": 253.81,
-            "end": 254.911375,
-            "token": "ooh"
-        },
-        {
-            "name": "spontE_265_uh-huh",
-            "start": 266.26,
-            "end": 266.83175,
+            "end": 242.185375,
             "token": "uh-huh"
+        },
+        {
+            "name": "sun1_031_right",
+            "start": 253.81,
+            "end": 254.60425,
+            "token": "right"
+        },
+        {
+            "name": "sun_028_right",
+            "start": 266.26,
+            "end": 266.989375,
+            "token": "right"
         }
     ]
 }

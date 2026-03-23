@@ -1,27 +1,27 @@
 {
     "name": "fe_03_01819",
     "context_channel": 1,
-    "context_text": "<A> but um and probably use it as good for teaching and stuff like that but i mean as far as maths we used to think when we when the kids took our computers not computers calculators / <B> mhm / <A> that in a way it has hurt them because { they don't } / <B> [ yeah ] / <A> have they may not know how to add they depend on the calculator / <B> oh",
+    "context_text": "<A> but um and probably use it as good for teaching and stuff like that but i mean as far as maths we used to think when we when the kids took our computers not computers calculators / <B> right / <A> that in a way it has hurt them because { they don't } / <B> [ right ] / <A> have they may not know how to add they depend on the calculator / <B> wow",
     "context_start": 263.96,
-    "context_end": 281.13475,
+    "context_end": 281.18525,
     "feedback": [
         {
-            "name": "spontA_151_mhm",
+            "name": "sun1_030_right",
             "start": 273.57,
-            "end": 274.12149999999997,
-            "token": "mhm"
+            "end": 274.363625,
+            "token": "right"
         },
         {
-            "name": "spontB_379_yeah",
+            "name": "spontC_360_right",
             "start": 277.17,
-            "end": 277.673875,
-            "token": "yeah"
+            "end": 277.748875,
+            "token": "right"
         },
         {
-            "name": "PS_148_oh",
+            "name": "PS_043_wow",
             "start": 279.85,
-            "end": 281.13475,
-            "token": "oh"
+            "end": 281.18525,
+            "token": "wow"
         }
     ]
 }

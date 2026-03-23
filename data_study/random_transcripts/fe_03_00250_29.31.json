@@ -1,39 +1,39 @@
 {
     "name": "fe_03_00250",
     "context_channel": 1,
-    "context_text": "<A> huh let's see um breath i think i've become more tolerant / <B> uh-huh / <A> and more open um a litt definitely listen more / <B> uh-huh / <A> um i um people are very different from from me or do things different differently from the way i do them i tend to kind of pay attention and try to see if that way { and } / <B> [ oh ] / <A> try to find common ground as oppose to as opposed to ah as opposed to as differences / <B> oh / <A> so in in in that sense i think i think um that has i have changed that since / <B> okay",
+    "context_text": "<A> huh let's see um breath i think i've become more tolerant / <B> yeah / <A> and more open um a litt definitely listen more / <B> really / <A> um i um people are very different from from me or do things different differently from the way i do them i tend to kind of pay attention and try to see if that way { and } / <B> [ mhm ] / <A> try to find common ground as oppose to as opposed to ah as opposed to as differences / <B> yeah / <A> so in in in that sense i think i think um that has i have changed that since / <B> mhm",
     "context_start": 29.31,
-    "context_end": 69.399,
+    "context_end": 69.46587500000001,
     "feedback": [
         {
-            "name": "spontA_279_uh-huh",
+            "name": "spontE_252_yeah",
             "start": 37.49,
-            "end": 38.122625,
-            "token": "uh-huh"
+            "end": 38.125750000000004,
+            "token": "yeah"
         },
         {
-            "name": "spontF_559_uh-huh",
+            "name": "PS_019_really",
             "start": 41.29,
-            "end": 41.77075,
-            "token": "uh-huh"
+            "end": 42.079499999999996,
+            "token": "really"
         },
         {
-            "name": "spontF_207_oh",
+            "name": "spontF_513_mhm",
             "start": 52.75,
-            "end": 53.134375,
-            "token": "oh"
+            "end": 53.2585,
+            "token": "mhm"
         },
         {
-            "name": "PS_027_oh",
+            "name": "spontF_029_yeah",
             "start": 61.02,
-            "end": 62.290625000000006,
-            "token": "oh"
+            "end": 61.59525,
+            "token": "yeah"
         },
         {
-            "name": "spontD_022_okay",
+            "name": "spontA_298_mhm",
             "start": 68.93,
-            "end": 69.399,
-            "token": "okay"
+            "end": 69.46587500000001,
+            "token": "mhm"
         }
     ]
 }

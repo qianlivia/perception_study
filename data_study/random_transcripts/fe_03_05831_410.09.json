@@ -1,45 +1,45 @@
 {
     "name": "fe_03_05831",
     "context_channel": 1,
-    "context_text": "<A> think a l a lot of people feel that w it's just the same people you're putting into into power one way or the other i think that's why a lot of people have become / <B> uh-huh / <A> disillusioned just one corrupt person versus another corrupt person / <B> uh-huh / <A> and like what you said about em the clinton health reform em to me it seems like one's like important em w bills and them get to it get to what the senate and the congress / <B> wow / <A> em it all comes down to you know politics democrats versus republicans { if } / <B> [ yeah ] / <A> it's a democrat that backed plan then it's not gonna get there / <B> oh / <A> support it needs from republicans is not people with enough bravery / <B> right",
+    "context_text": "<A> think a l a lot of people feel that w it's just the same people you're putting into into power one way or the other i think that's why a lot of people have become / <B> wow / <A> disillusioned just one corrupt person versus another corrupt person / <B> yeah / <A> and like what you said about em the clinton health reform em to me it seems like one's like important em w bills and them get to it get to what the senate and the congress / <B> yeah / <A> em it all comes down to you know politics democrats versus republicans { if } / <B> [ really ] / <A> it's a democrat that backed plan then it's not gonna get there / <B> yeah / <A> support it needs from republicans is not people with enough bravery / <B> oh",
     "context_start": 410.09,
-    "context_end": 450.17425,
+    "context_end": 450.39912499999997,
     "feedback": [
         {
-            "name": "spontE_081_uh-huh",
+            "name": "PS_031_wow",
             "start": 420.58,
-            "end": 421.08912499999997,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontA_406_uh-huh",
-            "start": 424.21,
-            "end": 424.816375,
-            "token": "uh-huh"
-        },
-        {
-            "name": "NegS_056_wow",
-            "start": 436.13,
-            "end": 437.23325,
+            "end": 421.34175,
             "token": "wow"
         },
         {
-            "name": "spontF_485_yeah",
-            "start": 440.66,
-            "end": 441.26250000000005,
+            "name": "spontB_292_yeah",
+            "start": 424.21,
+            "end": 424.7815,
             "token": "yeah"
         },
         {
-            "name": "Sy_022_oh",
-            "start": 444.68,
-            "end": 446.50237500000003,
-            "token": "oh"
+            "name": "spontD_270_yeah",
+            "start": 436.13,
+            "end": 436.802,
+            "token": "yeah"
         },
         {
-            "name": "sun1_031_right",
+            "name": "NS_082_really",
+            "start": 440.66,
+            "end": 441.41225000000003,
+            "token": "really"
+        },
+        {
+            "name": "spontB_393_yeah",
+            "start": 444.68,
+            "end": 445.08275000000003,
+            "token": "yeah"
+        },
+        {
+            "name": "Sy_071_oh",
             "start": 449.38,
-            "end": 450.17425,
-            "token": "right"
+            "end": 450.39912499999997,
+            "token": "oh"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03518",
     "context_channel": 1,
-    "context_text": "<A> goes a lot further { than } / <B> [ mhm ] / <A> minimum wage up north it really does and that's why i think so many people are willing to move here and especially people bring their whole families and they get a house the size of my house and have three different families living in it extended { family } / <B> [ yeah ] / <A> and they all work minimum wage jobs but they're all doing fine because they're all living together and that's enough to take care of it but you { couldn't } / <B> [ ooh ] / <A> pay twelve hundred dollars for a two bedroom apartment and make five fifteen an hour and here the law is if you have a child you have to have a two bedroom apartment / <B> yeah",
+    "context_text": "<A> goes a lot further { than } / <B> [ really ] / <A> minimum wage up north it really does and that's why i think so many people are willing to move here and especially people bring their whole families and they get a house the size of my house and have three different families living in it extended { family } / <B> [ right ] / <A> and they all work minimum wage jobs but they're all doing fine because they're all living together and that's enough to take care of it but you { couldn't } / <B> [ right ] / <A> pay twelve hundred dollars for a two bedroom apartment and make five fifteen an hour and here the law is if you have a child you have to have a two bedroom apartment / <B> mhm",
     "context_start": 445.7,
-    "context_end": 474.671875,
+    "context_end": 474.82025,
     "feedback": [
         {
-            "name": "spontA_075_mhm",
+            "name": "PS_019_really",
             "start": 447.6,
-            "end": 448.20825,
-            "token": "mhm"
+            "end": 448.3895,
+            "token": "really"
         },
         {
-            "name": "spontC_117_yeah",
+            "name": "sun1_031_right",
             "start": 458.75,
-            "end": 459.442625,
-            "token": "yeah"
+            "end": 459.54425,
+            "token": "right"
         },
         {
-            "name": "spontA_092_ooh",
+            "name": "spontC_360_right",
             "start": 465.63,
-            "end": 466.471625,
-            "token": "ooh"
+            "end": 466.208875,
+            "token": "right"
         },
         {
-            "name": "spontB_276_yeah",
+            "name": "spontC_328_mhm",
             "start": 474.36,
-            "end": 474.671875,
-            "token": "yeah"
+            "end": 474.82025,
+            "token": "mhm"
         }
     ]
 }

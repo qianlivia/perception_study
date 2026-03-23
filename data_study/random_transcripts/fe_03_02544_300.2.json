@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02544",
     "context_channel": 1,
-    "context_text": "<A> enough that you see every day that's s that's so real especially with um you know the the reporting and things up close and in your face there's enough reality / <B> yes / <A> on day to day life and { just } / <B> [ uh-huh ] / <A> getting through that { other } / <B> [ yeah ] / <A> than watching other people who aren't like you and i / <B> ah",
+    "context_text": "<A> enough that you see every day that's s that's so real especially with um you know the the reporting and things up close and in your face there's enough reality / <B> mhm / <A> on day to day life and { just } / <B> [ yeah ] / <A> getting through that { other } / <B> [ okay ] / <A> than watching other people who aren't like you and i / <B> right",
     "context_start": 300.2,
-    "context_end": 317.558125,
+    "context_end": 317.489375,
     "feedback": [
         {
-            "name": "sun1_025_yes",
+            "name": "spontD_186_mhm",
             "start": 309.65,
-            "end": 310.400625,
-            "token": "yes"
+            "end": 310.24125,
+            "token": "mhm"
         },
         {
-            "name": "spontD_036_uh-huh",
+            "name": "spontC_026_yeah",
             "start": 311.45,
-            "end": 311.960375,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontD_270_yeah",
-            "start": 312.91,
-            "end": 313.58200000000005,
+            "end": 312.099,
             "token": "yeah"
         },
         {
-            "name": "NS_104_ah",
+            "name": "spontE_005_okay",
+            "start": 312.91,
+            "end": 313.460375,
+            "token": "okay"
+        },
+        {
+            "name": "sun_028_right",
             "start": 316.76,
-            "end": 317.558125,
-            "token": "ah"
+            "end": 317.489375,
+            "token": "right"
         }
     ]
 }

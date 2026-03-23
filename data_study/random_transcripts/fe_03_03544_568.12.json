@@ -1,39 +1,39 @@
 {
     "name": "fe_03_03544",
     "context_channel": 0,
-    "context_text": "<B> about what was happening and all of these issues and i i { can't } / <A> [ yeah ] / <B> tell you i remember exactly what i said but i know he had very sensible things to say and { plenty of } / <A> [ yeah ] / <B> warnings about you know what would happen uh { to } / <A> [ really ] / <B> that segment of the uh country if something wasn't done / <A> uh-huh / <B> and i think they have done some things / <A> yeah",
+    "context_text": "<B> about what was happening and all of these issues and i i { can't } / <A> [ mhm ] / <B> tell you i remember exactly what i said but i know he had very sensible things to say and { plenty of } / <A> [ right ] / <B> warnings about you know what would happen uh { to } / <A> [ oh ] / <B> that segment of the uh country if something wasn't done / <A> okay / <B> and i think they have done some things / <A> right",
     "context_start": 568.12,
-    "context_end": 589.22825,
+    "context_end": 589.7335,
     "feedback": [
         {
-            "name": "spontA_335_yeah",
+            "name": "spontD_133_mhm",
             "start": 572.27,
-            "end": 572.937125,
-            "token": "yeah"
+            "end": 572.91025,
+            "token": "mhm"
         },
         {
-            "name": "spontB_157_yeah",
+            "name": "sun1_029_right",
             "start": 576.91,
-            "end": 577.581875,
-            "token": "yeah"
+            "end": 577.602,
+            "token": "right"
         },
         {
-            "name": "sun2_001_really",
+            "name": "spontE_017_oh",
             "start": 580.95,
-            "end": 581.6806250000001,
-            "token": "really"
+            "end": 581.5360000000001,
+            "token": "oh"
         },
         {
-            "name": "spontF_564_uh-huh",
+            "name": "sun1_017_okay",
             "start": 585.55,
-            "end": 586.1875,
-            "token": "uh-huh"
+            "end": 586.4628749999999,
+            "token": "okay"
         },
         {
-            "name": "spontB_371_yeah",
+            "name": "sun_013_right",
             "start": 588.86,
-            "end": 589.22825,
-            "token": "yeah"
+            "end": 589.7335,
+            "token": "right"
         }
     ]
 }

@@ -1,27 +1,27 @@
 {
     "name": "fe_03_03195",
     "context_channel": 1,
-    "context_text": "<A> yeah { and } / <B> [ uh-huh ] / <A> hamsters and guinea pigs are not supposed to carry diseases / <B> yeah / <A> and this one got a disease { that } / <B> [ okay ]",
+    "context_text": "<A> yeah { and } / <B> [ really ] / <A> hamsters and guinea pigs are not supposed to carry diseases / <B> yeah / <A> and this one got a disease { that } / <B> [ right ]",
     "context_start": 487.06,
-    "context_end": 495.221,
+    "context_end": 495.313625,
     "feedback": [
         {
-            "name": "spontF_566_uh-huh",
+            "name": "sun2_001_really",
             "start": 488.14,
-            "end": 488.754375,
-            "token": "uh-huh"
+            "end": 488.87062499999996,
+            "token": "really"
         },
         {
-            "name": "PR_047_yeah",
+            "name": "spontD_236_yeah",
             "start": 491.95,
-            "end": 492.659875,
+            "end": 492.70125,
             "token": "yeah"
         },
         {
-            "name": "spontB_120_okay",
+            "name": "sun1_030_right",
             "start": 494.52,
-            "end": 495.221,
-            "token": "okay"
+            "end": 495.313625,
+            "token": "right"
         }
     ]
 }

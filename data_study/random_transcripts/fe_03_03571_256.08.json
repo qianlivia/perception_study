@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03571",
     "context_channel": 0,
-    "context_text": "<B> [ well ] it's not you know that's not always true because like i'm i'm older / <A> no / <B> and um i've i mean i've been a mom since i was nineteen / <A> uh-huh / <B> and so all i've i i haven't i've been a stay at home mom / <A> oh / <B> and if i wanted to go into the workforce the only kind of job i'm going to be able to get is a minimum wage job / <A> really",
+    "context_text": "<B> [ well ] it's not you know that's not always true because like i'm i'm older / <A> oh / <B> and um i've i mean i've been a mom since i was nineteen / <A> exactly / <B> and so all i've i i haven't i've been a stay at home mom / <A> mhm / <B> and if i wanted to go into the workforce the only kind of job i'm going to be able to get is a minimum wage job / <A> oh",
     "context_start": 256.08,
-    "context_end": 277.040625,
+    "context_end": 277.04675,
     "feedback": [
         {
-            "name": "spontE_345_no",
+            "name": "spontC_248_oh",
             "start": 260.39,
-            "end": 261.1445,
-            "token": "no"
-        },
-        {
-            "name": "spontD_021_uh-huh",
-            "start": 265.42,
-            "end": 265.87175,
-            "token": "uh-huh"
-        },
-        {
-            "name": "NS_103_oh",
-            "start": 270.26,
-            "end": 271.0665,
+            "end": 261.034875,
             "token": "oh"
         },
         {
-            "name": "sun2_001_really",
+            "name": "sun_016_exactly",
+            "start": 265.42,
+            "end": 266.4535,
+            "token": "exactly"
+        },
+        {
+            "name": "spontA_059_mhm",
+            "start": 270.26,
+            "end": 270.804625,
+            "token": "mhm"
+        },
+        {
+            "name": "sun1_010_oh",
             "start": 276.31,
-            "end": 277.040625,
-            "token": "really"
+            "end": 277.04675,
+            "token": "oh"
         }
     ]
 }

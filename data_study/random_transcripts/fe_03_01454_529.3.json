@@ -1,57 +1,57 @@
 {
     "name": "fe_03_01454",
     "context_channel": 1,
-    "context_text": "<A> thing that they might target / <B> ooh / <A> the only thing i have out here is i have palaverde { which is the } / <B> [ mhm ] / <A> largest nuclear facility / <B> uh-huh / <A> but from what i know that thing is the heaviest guarded facility there is / <B> uh-huh / <A> in the area and i have luke air force base here too / <B> yeah / <A> and they have a no fly zone if anything flies in their zone { they're basically } / <B> [ uh-huh ] / <A> even ordered to shoot it down / <B> oh / <A> so even in any and they tell me even if something hits it / <B> okay",
+    "context_text": "<A> thing that they might target / <B> uh-huh / <A> the only thing i have out here is i have palaverde { which is the } / <B> [ yeah ] / <A> largest nuclear facility / <B> right / <A> but from what i know that thing is the heaviest guarded facility there is / <B> right / <A> in the area and i have luke air force base here too / <B> okay / <A> and they have a no fly zone if anything flies in their zone { they're basically } / <B> [ yeah ] / <A> even ordered to shoot it down / <B> yeah / <A> so even in any and they tell me even if something hits it / <B> mhm",
     "context_start": 529.3,
-    "context_end": 557.7211249999999,
+    "context_end": 558.131,
     "feedback": [
         {
-            "name": "spontE_283_ooh",
+            "name": "spontA_312_uh-huh",
             "start": 530.73,
-            "end": 531.70225,
-            "token": "ooh"
+            "end": 531.29,
+            "token": "uh-huh"
         },
         {
-            "name": "spontC_496_mhm",
+            "name": "spontD_142_yeah",
             "start": 534.68,
-            "end": 535.272125,
-            "token": "mhm"
-        },
-        {
-            "name": "spontD_372_uh-huh",
-            "start": 537.03,
-            "end": 537.497875,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontA_041_uh-huh",
-            "start": 543.86,
-            "end": 544.42375,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontF_630_yeah",
-            "start": 546.64,
-            "end": 547.257125,
+            "end": 535.15725,
             "token": "yeah"
         },
         {
-            "name": "spontD_153_uh-huh",
-            "start": 550.54,
-            "end": 551.12425,
-            "token": "uh-huh"
+            "name": "sun1_029_right",
+            "start": 537.03,
+            "end": 537.722,
+            "token": "right"
         },
         {
-            "name": "Sy_022_oh",
-            "start": 552.85,
-            "end": 554.672375,
-            "token": "oh"
+            "name": "PR_048_right",
+            "start": 543.86,
+            "end": 544.495125,
+            "token": "right"
         },
         {
-            "name": "spontC_172_okay",
-            "start": 557.31,
-            "end": 557.7211249999999,
+            "name": "spontE_405_okay",
+            "start": 546.64,
+            "end": 547.314375,
             "token": "okay"
+        },
+        {
+            "name": "PR_036_yeah",
+            "start": 550.54,
+            "end": 551.344375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_261_yeah",
+            "start": 552.85,
+            "end": 553.40875,
+            "token": "yeah"
+        },
+        {
+            "name": "sun1_003_mhm",
+            "start": 557.31,
+            "end": 558.131,
+            "token": "mhm"
         }
     ]
 }

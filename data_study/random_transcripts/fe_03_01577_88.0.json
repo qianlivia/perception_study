@@ -1,32 +1,32 @@
 {
     "name": "fe_03_01577",
     "context_channel": 0,
-    "context_text": "<B> okay well i flew october right after a month after um the nine eleven incident and i / <A> yeah / <B> flew from connecticut to pittsburgh pennsylvania and i was not delayed one bit with the security / <A> yeah / <B> not one bit so my although when i was coming when i was returning i was on a shuttle headed to the uh parking parking garage and i heard one of the other passengers on the shuttle said that they were quite inconvenient um because they were th they select you at random to go through your luggage / <A> oh / <B> and and um i guess what happened was she had a connecting flight / <A> mhm",
+    "context_text": "<B> okay well i flew october right after a month after um the nine eleven incident and i / <A> oh / <B> flew from connecticut to pittsburgh pennsylvania and i was not delayed one bit with the security / <A> mhm / <B> not one bit so my although when i was coming when i was returning i was on a shuttle headed to the uh parking parking garage and i heard one of the other passengers on the shuttle said that they were quite inconvenient um because they were th they select you at random to go through your luggage / <A> right / <B> and and um i guess what happened was she had a connecting flight / <A> mhm",
     "context_start": 88.0,
-    "context_end": 133.168,
+    "context_end": 133.23,
     "feedback": [
         {
-            "name": "spontC_323_yeah",
+            "name": "Sy_061_oh",
             "start": 95.54,
-            "end": 96.40512500000001,
-            "token": "yeah"
-        },
-        {
-            "name": "spontA_297_yeah",
-            "start": 104.85,
-            "end": 105.39637499999999,
-            "token": "yeah"
-        },
-        {
-            "name": "NS_103_oh",
-            "start": 128.16,
-            "end": 128.9665,
+            "end": 96.58912500000001,
             "token": "oh"
         },
         {
-            "name": "spontC_355_mhm",
+            "name": "spontB_225_mhm",
+            "start": 104.85,
+            "end": 105.39037499999999,
+            "token": "mhm"
+        },
+        {
+            "name": "sun1_033_right",
+            "start": 128.16,
+            "end": 129.013125,
+            "token": "right"
+        },
+        {
+            "name": "spontE_154_mhm",
             "start": 132.63,
-            "end": 133.168,
+            "end": 133.23,
             "token": "mhm"
         }
     ]

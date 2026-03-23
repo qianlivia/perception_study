@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00360",
     "context_channel": 0,
-    "context_text": "<B> well i went to um in elementary they i mean they have programs like where you know if you're for the students who are sort of brighter or better { they'll } / <A> [ oh ] / <B> send to like and enrichment or some sort of like special you know progra i that was the like i i had these sort of once a week we would meet and um do special projects and then um and also like i mean there's different ways of dealing with it you can you can have like different math classes for um { when i was } / <A> [ mhm ] / <B> in elementary school they sort of rotated and they had like kind of the slow math class and the um / <A> mhm / <B> but when i was in high school it was sort of um it was sort of uh i guess they sort of separated things based on ability / <A> yeah",
+    "context_text": "<B> well i went to um in elementary they i mean they have programs like where you know if you're for the students who are sort of brighter or better { they'll } / <A> [ mhm ] / <B> send to like and enrichment or some sort of like special you know progra i that was the like i i had these sort of once a week we would meet and um do special projects and then um and also like i mean there's different ways of dealing with it you can you can have like different math classes for um { when i was } / <A> [ yeah ] / <B> in elementary school they sort of rotated and they had like kind of the slow math class and the um / <A> mhm / <B> but when i was in high school it was sort of um it was sort of uh i guess they sort of separated things based on ability / <A> right",
     "context_start": 354.56,
-    "context_end": 398.30287500000003,
+    "context_end": 398.248875,
     "feedback": [
         {
-            "name": "PS_012_oh",
+            "name": "spontC_328_mhm",
             "start": 363.99,
-            "end": 365.68775,
-            "token": "oh"
+            "end": 364.45025,
+            "token": "mhm"
         },
         {
-            "name": "spontB_356_mhm",
+            "name": "spontB_328_yeah",
             "start": 383.75,
-            "end": 384.354875,
-            "token": "mhm"
-        },
-        {
-            "name": "spontC_348_mhm",
-            "start": 388.58,
-            "end": 389.16999999999996,
-            "token": "mhm"
-        },
-        {
-            "name": "spontA_133_yeah",
-            "start": 397.67,
-            "end": 398.30287500000003,
+            "end": 384.4945,
             "token": "yeah"
+        },
+        {
+            "name": "spontD_178_mhm",
+            "start": 388.58,
+            "end": 389.19925,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_360_right",
+            "start": 397.67,
+            "end": 398.248875,
+            "token": "right"
         }
     ]
 }

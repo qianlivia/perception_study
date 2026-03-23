@@ -1,27 +1,27 @@
 {
     "name": "fe_03_01170",
     "context_channel": 1,
-    "context_text": "<A> and i had been divorced for about eleven years and moved she lives in talahassee and i moved out here to the pacific uh northwest / <B> uh-huh / <A> and all she wanted was for me to visit her i { mean i kept } / <B> [ wow ] / <A> in touch with her i'd call her and and i'd write her but i never would uh flew over to talahassee to see her / <B> mhm",
+    "context_text": "<A> and i had been divorced for about eleven years and moved she lives in talahassee and i moved out here to the pacific uh northwest / <B> right / <A> and all she wanted was for me to visit her i { mean i kept } / <B> [ right ] / <A> in touch with her i'd call her and and i'd write her but i never would uh flew over to talahassee to see her / <B> right",
     "context_start": 59.68,
-    "context_end": 82.167875,
+    "context_end": 82.235125,
     "feedback": [
         {
-            "name": "spontE_040_uh-huh",
+            "name": "PR_043_right",
             "start": 69.85,
-            "end": 70.38012499999999,
-            "token": "uh-huh"
+            "end": 70.50999999999999,
+            "token": "right"
         },
         {
-            "name": "PS_112_wow",
+            "name": "spontC_360_right",
             "start": 72.93,
-            "end": 74.141625,
-            "token": "wow"
+            "end": 73.508875,
+            "token": "right"
         },
         {
-            "name": "spontE_268_mhm",
+            "name": "PR_048_right",
             "start": 81.6,
-            "end": 82.167875,
-            "token": "mhm"
+            "end": 82.235125,
+            "token": "right"
         }
     ]
 }

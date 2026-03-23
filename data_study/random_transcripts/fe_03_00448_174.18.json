@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00448",
     "context_channel": 1,
-    "context_text": "<A> and they don't have that handle on the top or anything { and i mean they } / <B> [ yeah ] / <A> go really fast { but you } / <B> [ yeah ] / <A> just don't see it and and it's such a big deal because the weather people get all bent out of shape / <B> yeah / <A> and they assume that we're having some sort of a catastrophe { and } / <B> [ ah ]",
+    "context_text": "<A> and they don't have that handle on the top or anything { and i mean they } / <B> [ okay ] / <A> go really fast { but you } / <B> [ yeah ] / <A> just don't see it and and it's such a big deal because the weather people get all bent out of shape / <B> yeah / <A> and they assume that we're having some sort of a catastrophe { and } / <B> [ right ]",
     "context_start": 174.18,
-    "context_end": 190.375625,
+    "context_end": 190.163125,
     "feedback": [
         {
-            "name": "spontA_016_yeah",
+            "name": "spontF_518_okay",
             "start": 176.21,
-            "end": 177.1705,
-            "token": "yeah"
+            "end": 176.916,
+            "token": "okay"
         },
         {
-            "name": "spontF_595_yeah",
+            "name": "spontD_340_yeah",
             "start": 178.36,
-            "end": 178.972,
+            "end": 179.16600000000003,
             "token": "yeah"
         },
         {
-            "name": "spontB_370_yeah",
+            "name": "spontE_094_yeah",
             "start": 184.74,
-            "end": 185.36937500000002,
+            "end": 185.507875,
             "token": "yeah"
         },
         {
-            "name": "spontA_148_ah",
+            "name": "sun1_033_right",
             "start": 189.31,
-            "end": 190.375625,
-            "token": "ah"
+            "end": 190.163125,
+            "token": "right"
         }
     ]
 }

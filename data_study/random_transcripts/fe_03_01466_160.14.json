@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01466",
     "context_channel": 1,
-    "context_text": "<A> well i well like it it's like uh i was thinking about doing the rotc too / <B> wow / <A> but that just like i wa i wanted to and i thought i'd do it before my mission { but } / <B> [ oh ] / <A> when things came um up most likely if i were to join the rotc then i'd would of had to stay here and not be able to serve a mission / <B> ah / <A> so i i wanted to serve my mission first and probably join when i get back { or } / <B> [ yeah ]",
+    "context_text": "<A> well i well like it it's like uh i was thinking about doing the rotc too / <B> yeah / <A> but that just like i wa i wanted to and i thought i'd do it before my mission { but } / <B> [ wow ] / <A> when things came um up most likely if i were to join the rotc then i'd would of had to stay here and not be able to serve a mission / <B> right / <A> so i i wanted to serve my mission first and probably join when i get back { or } / <B> [ oh ]",
     "context_start": 160.14,
-    "context_end": 186.441875,
+    "context_end": 186.728875,
     "feedback": [
         {
-            "name": "PS_165_wow",
+            "name": "spontC_389_yeah",
             "start": 166.07,
-            "end": 167.30612499999998,
+            "end": 166.588,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_063_wow",
+            "start": 171.45,
+            "end": 172.83675,
             "token": "wow"
         },
         {
-            "name": "NS_091_oh",
-            "start": 171.45,
-            "end": 172.69899999999998,
-            "token": "oh"
-        },
-        {
-            "name": "NS_056_ah",
+            "name": "spontC_360_right",
             "start": 181.36,
-            "end": 182.335,
-            "token": "ah"
+            "end": 181.93887500000002,
+            "token": "right"
         },
         {
-            "name": "spontD_393_yeah",
+            "name": "PS_005_oh",
             "start": 185.94,
-            "end": 186.441875,
-            "token": "yeah"
+            "end": 186.728875,
+            "token": "oh"
         }
     ]
 }

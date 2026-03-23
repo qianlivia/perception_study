@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01285",
     "context_channel": 0,
-    "context_text": "<B> not a lot you'd be surprised no they don't really they don't tell us a lot of things some you know it guess you you just get things um important things as they come / <A> no / <B> like for instance on september eleventh / <A> mhm / <B> so soon as it happened they immediately with kids go get your kids from go off schools are closing { and } / <A> [ mhm ] / <B> we didn't even really nobody knew what was going on yet they know but we didn't know / <A> uh-huh",
+    "context_text": "<B> not a lot you'd be surprised no they don't really they don't tell us a lot of things some you know it guess you you just get things um important things as they come / <A> right / <B> like for instance on september eleventh / <A> right / <B> so soon as it happened they immediately with kids go get your kids from go off schools are closing { and } / <A> [ mhm ] / <B> we didn't even really nobody knew what was going on yet they know but we didn't know / <A> really",
     "context_start": 283.16,
-    "context_end": 325.65250000000003,
+    "context_end": 325.830625,
     "feedback": [
         {
-            "name": "sun2_044_no",
+            "name": "sun_007_right",
             "start": 303.26,
-            "end": 304.1425,
-            "token": "no"
+            "end": 304.1495,
+            "token": "right"
         },
         {
-            "name": "spontA_318_mhm",
+            "name": "sun1_032_right",
             "start": 310.09,
-            "end": 310.76687499999997,
-            "token": "mhm"
+            "end": 310.93337499999996,
+            "token": "right"
         },
         {
-            "name": "spontD_186_mhm",
+            "name": "spontC_348_mhm",
             "start": 319.02,
-            "end": 319.61125,
+            "end": 319.60999999999996,
             "token": "mhm"
         },
         {
-            "name": "spontD_080_uh-huh",
+            "name": "sun2_001_really",
             "start": 325.1,
-            "end": 325.65250000000003,
-            "token": "uh-huh"
+            "end": 325.830625,
+            "token": "really"
         }
     ]
 }

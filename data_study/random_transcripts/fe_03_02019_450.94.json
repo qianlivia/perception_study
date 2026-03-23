@@ -1,45 +1,45 @@
 {
     "name": "fe_03_02019",
     "context_channel": 1,
-    "context_text": "<A> well i know there was where we live there's like four walmarts within half hour of us you go each direction / <B> wow / <A> and the walmart one way they had to throw all their um frozen stuff and their refrigerated stuff out they had to throw all that out because they didn't have electric and then the other walmarts they got their electric back like in a day so their stuff was all right / <B> ah / <A> so i mean they may have lost the money if they had that happen at very many stores / <B> mhm / <A> but most of the towns had their electric back on within a day or two / <B> yeah / <A> and we live out in the country and / <B> yeah / <A> and everything s / <B> no",
+    "context_text": "<A> well i know there was where we live there's like four walmarts within half hour of us you go each direction / <B> uh-huh / <A> and the walmart one way they had to throw all their um frozen stuff and their refrigerated stuff out they had to throw all that out because they didn't have electric and then the other walmarts they got their electric back like in a day so their stuff was all right / <B> right / <A> so i mean they may have lost the money if they had that happen at very many stores / <B> wow / <A> but most of the towns had their electric back on within a day or two / <B> mhm / <A> and we live out in the country and / <B> right / <A> and everything s / <B> wow",
     "context_start": 450.94,
-    "context_end": 489.38887500000004,
+    "context_end": 490.1,
     "feedback": [
         {
-            "name": "PS_034_wow",
+            "name": "spontC_189_uh-huh",
             "start": 458.31,
-            "end": 459.127625,
+            "end": 458.79025,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_360_right",
+            "start": 473.43,
+            "end": 474.008875,
+            "token": "right"
+        },
+        {
+            "name": "PS_079_wow",
+            "start": 478.44,
+            "end": 479.492,
             "token": "wow"
         },
         {
-            "name": "NS_039_ah",
-            "start": 473.43,
-            "end": 474.33637500000003,
-            "token": "ah"
-        },
-        {
-            "name": "spontB_356_mhm",
-            "start": 478.44,
-            "end": 479.044875,
+            "name": "spontA_358_mhm",
+            "start": 483.22,
+            "end": 483.71862500000003,
             "token": "mhm"
         },
         {
-            "name": "spontE_051_yeah",
-            "start": 483.22,
-            "end": 483.99150000000003,
-            "token": "yeah"
-        },
-        {
-            "name": "spontB_016_yeah",
+            "name": "sun1_030_right",
             "start": 486.87,
-            "end": 487.264875,
-            "token": "yeah"
+            "end": 487.663625,
+            "token": "right"
         },
         {
-            "name": "sun_018_no",
+            "name": "PS_169_wow",
             "start": 488.66,
-            "end": 489.38887500000004,
-            "token": "no"
+            "end": 490.1,
+            "token": "wow"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05238",
     "context_channel": 1,
-    "context_text": "<A> well right and the other thing is that actually i heard this and i think it's true and that is um a lot of people who eat the junkiest food are often lower income people because let's face it mcdonalds is cheap / <B> yeah / <A> you know and so you can go and get a happy meal or or or big mac and fries and a soda for three fifty { but } / <B> [ yeah ] / <A> where else can you eat for three fifty { and } / <B> [ wow ] / <A> walk out full you know { it's } / <B> [ mhm ]",
+    "context_text": "<A> well right and the other thing is that actually i heard this and i think it's true and that is um a lot of people who eat the junkiest food are often lower income people because let's face it mcdonalds is cheap / <B> right / <A> you know and so you can go and get a happy meal or or or big mac and fries and a soda for three fifty { but } / <B> [ mhm ] / <A> where else can you eat for three fifty { and } / <B> [ okay ] / <A> walk out full you know { it's } / <B> [ oh ]",
     "context_start": 442.77,
-    "context_end": 465.98375,
+    "context_end": 467.177125,
     "feedback": [
         {
-            "name": "spontE_290_yeah",
+            "name": "sun_007_right",
             "start": 454.75,
-            "end": 455.544125,
-            "token": "yeah"
+            "end": 455.6395,
+            "token": "right"
         },
         {
-            "name": "spontD_236_yeah",
+            "name": "spontF_039_mhm",
             "start": 461.56,
-            "end": 462.31125000000003,
-            "token": "yeah"
-        },
-        {
-            "name": "NegS_044_wow",
-            "start": 463.73,
-            "end": 464.83700000000005,
-            "token": "wow"
-        },
-        {
-            "name": "spontB_284_mhm",
-            "start": 465.37,
-            "end": 465.98375,
+            "end": 462.16025,
             "token": "mhm"
+        },
+        {
+            "name": "spontF_643_okay",
+            "start": 463.73,
+            "end": 464.43800000000005,
+            "token": "okay"
+        },
+        {
+            "name": "PS_193_oh",
+            "start": 465.37,
+            "end": 467.177125,
+            "token": "oh"
         }
     ]
 }

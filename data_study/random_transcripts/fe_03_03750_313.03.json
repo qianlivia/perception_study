@@ -1,39 +1,39 @@
 {
     "name": "fe_03_03750",
     "context_channel": 1,
-    "context_text": "<A> mhm yeah but i don't feel that they can they can survive they usually that's their second job / <B> ooh / <A> so i guess maybe the answer is like more training programs so that people who need to support their families can either get the education or the training that they need so that they don't have to try and work three minimum wage jobs the books { that } / <B> [ oh ] / <A> i r that i read that was featured on oprah that's w what she did she like worked in florida as like a um a hotel maid um and she worked somewhere else on the east coast at a wal mart and for minimum wage and she you know you can't afford anything you can't pay rent mm i live about an about twenty minutes north of los angeles and our rent for a two bedroom is about twelve hundred dollars / <B> mhm / <A> so you couldn't afford that on minimum wage / <B> wow / <A> it's when a lot of people out here have three or four room mates / <B> mhm",
+    "context_text": "<A> mhm yeah but i don't feel that they can they can survive they usually that's their second job / <B> mhm / <A> so i guess maybe the answer is like more training programs so that people who need to support their families can either get the education or the training that they need so that they don't have to try and work three minimum wage jobs the books { that } / <B> [ mhm ] / <A> i r that i read that was featured on oprah that's w what she did she like worked in florida as like a um a hotel maid um and she worked somewhere else on the east coast at a wal mart and for minimum wage and she you know you can't afford anything you can't pay rent mm i live about an about twenty minutes north of los angeles and our rent for a two bedroom is about twelve hundred dollars / <B> mhm / <A> so you couldn't afford that on minimum wage / <B> mhm / <A> it's when a lot of people out here have three or four room mates / <B> okay",
     "context_start": 313.03,
-    "context_end": 375.74325,
+    "context_end": 375.681125,
     "feedback": [
         {
-            "name": "spontF_454_ooh",
+            "name": "spontA_075_mhm",
             "start": 321.29,
-            "end": 321.7945,
-            "token": "ooh"
+            "end": 321.89825,
+            "token": "mhm"
         },
         {
-            "name": "spontE_356_oh",
+            "name": "spontD_178_mhm",
             "start": 338.01,
-            "end": 338.6375,
-            "token": "oh"
+            "end": 338.62925,
+            "token": "mhm"
         },
         {
-            "name": "spontF_315_mhm",
+            "name": "spontE_268_mhm",
             "start": 366.2,
-            "end": 366.90387499999997,
+            "end": 366.767875,
             "token": "mhm"
         },
         {
-            "name": "PS_075_wow",
+            "name": "spontC_322_mhm",
             "start": 369.52,
-            "end": 370.76925,
-            "token": "wow"
+            "end": 370.092875,
+            "token": "mhm"
         },
         {
-            "name": "spontA_147_mhm",
+            "name": "spontC_172_okay",
             "start": 375.27,
-            "end": 375.74325,
-            "token": "mhm"
+            "end": 375.681125,
+            "token": "okay"
         }
     ]
 }

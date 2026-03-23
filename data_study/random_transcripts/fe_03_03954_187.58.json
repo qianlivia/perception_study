@@ -1,39 +1,39 @@
 {
     "name": "fe_03_03954",
     "context_channel": 0,
-    "context_text": "<B> but you know ah the only thing that's different is the media puts them up on the pedestal so / <A> yeah / <B> you know everything that they say is is in the spotlight so { um } / <A> [ yeah ] / <B> but i will say the kind of humor that i do like is um i like humor that is extremely unrealistic { like } / <A> [ uh-huh ] / <B> um putting people in a situation like on a crowded bus / <A> uh-huh / <B> and and someone you know lets wind and someone just over exaggerates about where the smell's coming from { and } / <A> [ yeah ]",
+    "context_text": "<B> but you know ah the only thing that's different is the media puts them up on the pedestal so / <A> mhm / <B> you know everything that they say is is in the spotlight so { um } / <A> [ uh-huh ] / <B> but i will say the kind of humor that i do like is um i like humor that is extremely unrealistic { like } / <A> [ yeah ] / <B> um putting people in a situation like on a crowded bus / <A> yeah / <B> and and someone you know lets wind and someone just over exaggerates about where the smell's coming from { and } / <A> [ right ]",
     "context_start": 187.58,
-    "context_end": 220.902,
+    "context_end": 221.0895,
     "feedback": [
         {
-            "name": "spontD_393_yeah",
+            "name": "spontC_330_mhm",
             "start": 192.99,
-            "end": 193.49187500000002,
-            "token": "yeah"
+            "end": 193.473625,
+            "token": "mhm"
         },
         {
-            "name": "spontE_355_yeah",
+            "name": "spontF_316_uh-huh",
             "start": 197.61,
-            "end": 198.05312500000002,
-            "token": "yeah"
+            "end": 198.160875,
+            "token": "uh-huh"
         },
         {
-            "name": "spontC_358_uh-huh",
+            "name": "spontD_173_yeah",
             "start": 206.72,
-            "end": 207.305,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontA_051_uh-huh",
-            "start": 211.38,
-            "end": 211.93925,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontF_127_yeah",
-            "start": 220.2,
-            "end": 220.902,
+            "end": 207.25225,
             "token": "yeah"
+        },
+        {
+            "name": "spontF_310_yeah",
+            "start": 211.38,
+            "end": 212.2695,
+            "token": "yeah"
+        },
+        {
+            "name": "sun_007_right",
+            "start": 220.2,
+            "end": 221.0895,
+            "token": "right"
         }
     ]
 }

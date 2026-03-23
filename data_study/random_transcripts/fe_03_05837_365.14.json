@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05837",
     "context_channel": 1,
-    "context_text": "<A> doesn't it doesn't try to it doesn't try to stop it at all i don't i think i don't know { h } / <B> [ no ] / <A> uh if you have a theory behind that because also i think the main people who are running the / <B> oh / <A> the country the main people who are actually contributing to politicians who run the countr the country are all these companies { who are } / <B> [ yeah ] / <A> so rich and have all this money and so if they you know if they embezzle a few million dollars it doesn't hurt anyone cause we're still in power { th } / <B> [ yeah ]",
+    "context_text": "<A> doesn't it doesn't try to it doesn't try to stop it at all i don't i think i don't know { h } / <B> [ right ] / <A> uh if you have a theory behind that because also i think the main people who are running the / <B> really / <A> the country the main people who are actually contributing to politicians who run the countr the country are all these companies { who are } / <B> [ right ] / <A> so rich and have all this money and so if they you know if they embezzle a few million dollars it doesn't hurt anyone cause we're still in power { th } / <B> [ uh-huh ]",
     "context_start": 365.14,
-    "context_end": 391.888375,
+    "context_end": 392.35175,
     "feedback": [
         {
-            "name": "NR_079_no",
+            "name": "PR_048_right",
             "start": 370.14,
-            "end": 371.11899999999997,
-            "token": "no"
+            "end": 370.775125,
+            "token": "right"
         },
         {
-            "name": "spontB_181_oh",
+            "name": "PS_019_really",
             "start": 375.95,
-            "end": 376.552375,
-            "token": "oh"
+            "end": 376.73949999999996,
+            "token": "really"
         },
         {
-            "name": "spontA_452_yeah",
+            "name": "sun_028_right",
             "start": 383.32,
-            "end": 383.785375,
-            "token": "yeah"
+            "end": 384.049375,
+            "token": "right"
         },
         {
-            "name": "spontF_295_yeah",
+            "name": "sun1_036_uh-huh",
             "start": 391.37,
-            "end": 391.888375,
-            "token": "yeah"
+            "end": 392.35175,
+            "token": "uh-huh"
         }
     ]
 }

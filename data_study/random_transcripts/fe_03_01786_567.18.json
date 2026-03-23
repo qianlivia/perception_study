@@ -1,27 +1,27 @@
 {
     "name": "fe_03_01786",
     "context_channel": 1,
-    "context_text": "<A> yeah oh no i think it's got a lot of potential for yeah especially research and reports and things { like } / <B> [ oh ] / <A> that because you have so much more at your disposal you don't have to leave your house or you don't have to have your you know your parents don't have to have bought you all these encyclopedias / <B> oh / <A> yeah you've you've got something even bigger right there cause you can get into the library of congress and { you } / <B> [ yeah ]",
+    "context_text": "<A> yeah oh no i think it's got a lot of potential for yeah especially research and reports and things { like } / <B> [ right ] / <A> that because you have so much more at your disposal you don't have to leave your house or you don't have to have your you know your parents don't have to have bought you all these encyclopedias / <B> right / <A> yeah you've you've got something even bigger right there cause you can get into the library of congress and { you } / <B> [ okay ]",
     "context_start": 567.18,
-    "context_end": 589.2608749999999,
+    "context_end": 589.49825,
     "feedback": [
         {
-            "name": "PS_005_oh",
+            "name": "PR_043_right",
             "start": 572.88,
-            "end": 573.668875,
-            "token": "oh"
+            "end": 573.54,
+            "token": "right"
         },
         {
-            "name": "spontB_304_oh",
+            "name": "spontC_360_right",
             "start": 583.07,
-            "end": 584.194375,
-            "token": "oh"
+            "end": 583.6488750000001,
+            "token": "right"
         },
         {
-            "name": "spontF_238_yeah",
+            "name": "spontF_053_okay",
             "start": 588.67,
-            "end": 589.2608749999999,
-            "token": "yeah"
+            "end": 589.49825,
+            "token": "okay"
         }
     ]
 }

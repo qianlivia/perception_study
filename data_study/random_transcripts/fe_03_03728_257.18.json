@@ -1,39 +1,39 @@
 {
     "name": "fe_03_03728",
     "context_channel": 1,
-    "context_text": "<A> well now the timber's actually down because of all the um the new regulations and it's kind of funny cause um a lot of timber workers would still be out of the bus out of a job ah / <B> no / <A> cause about the same time these automated tools if you will these big things that like can process the the raw logs faster and better i saw a special on it { were } / <B> [ okay ] / <A> coming in to play about that same time / <B> mhm / <A> so i think no matter what we would have lost a lot of jobs anyway / <B> uh-huh / <A> but it was just bad timing to um the other thing is canada will ship ah wood and they'll actually subsidize it { where } / <B> [ wow ]",
+    "context_text": "<A> well now the timber's actually down because of all the um the new regulations and it's kind of funny cause um a lot of timber workers would still be out of the bus out of a job ah / <B> mhm / <A> cause about the same time these automated tools if you will these big things that like can process the the raw logs faster and better i saw a special on it { were } / <B> [ right ] / <A> coming in to play about that same time / <B> yeah / <A> so i think no matter what we would have lost a lot of jobs anyway / <B> right / <A> but it was just bad timing to um the other thing is canada will ship ah wood and they'll actually subsidize it { where } / <B> [ mhm ]",
     "context_start": 257.18,
-    "context_end": 303.34075,
+    "context_end": 303.468,
     "feedback": [
         {
-            "name": "sun2_045_no",
+            "name": "spontA_407_mhm",
             "start": 269.97,
-            "end": 270.57887500000004,
-            "token": "no"
-        },
-        {
-            "name": "spontF_280_okay",
-            "start": 282.8,
-            "end": 283.52162500000003,
-            "token": "okay"
-        },
-        {
-            "name": "spontA_358_mhm",
-            "start": 285.82,
-            "end": 286.318625,
+            "end": 270.490625,
             "token": "mhm"
         },
         {
-            "name": "spontA_201_uh-huh",
-            "start": 291.09,
-            "end": 291.53887499999996,
-            "token": "uh-huh"
+            "name": "sun1_033_right",
+            "start": 282.8,
+            "end": 283.653125,
+            "token": "right"
         },
         {
-            "name": "PS_044_wow",
+            "name": "spontD_172_yeah",
+            "start": 285.82,
+            "end": 286.6135,
+            "token": "yeah"
+        },
+        {
+            "name": "sun1_032_right",
+            "start": 291.09,
+            "end": 291.93337499999996,
+            "token": "right"
+        },
+        {
+            "name": "NS_071_mhm",
             "start": 302.38,
-            "end": 303.34075,
-            "token": "wow"
+            "end": 303.468,
+            "token": "mhm"
         }
     ]
 }

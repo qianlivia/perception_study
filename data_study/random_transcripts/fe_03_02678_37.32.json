@@ -1,27 +1,27 @@
 {
     "name": "fe_03_02678",
     "context_channel": 0,
-    "context_text": "<B> kids run out and get candy and adults dress up and go out in / <A> uh-huh / <B> costumes / <A> mhm / <B> so yeah that's a good one my favorite one is christmas / <A> yeah",
+    "context_text": "<B> kids run out and get candy and adults dress up and go out in / <A> okay / <B> costumes / <A> uh-huh / <B> so yeah that's a good one my favorite one is christmas / <A> okay",
     "context_start": 37.32,
-    "context_end": 48.039875,
+    "context_end": 47.966625,
     "feedback": [
         {
-            "name": "spontA_093_uh-huh",
+            "name": "spontE_005_okay",
             "start": 40.62,
-            "end": 41.161375,
+            "end": 41.170375,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_009_uh-huh",
+            "start": 42.93,
+            "end": 43.31275,
             "token": "uh-huh"
         },
         {
-            "name": "spontF_121_mhm",
-            "start": 42.93,
-            "end": 43.477,
-            "token": "mhm"
-        },
-        {
-            "name": "spontA_015_yeah",
+            "name": "spontD_033_okay",
             "start": 47.27,
-            "end": 48.039875,
-            "token": "yeah"
+            "end": 47.966625,
+            "token": "okay"
         }
     ]
 }

@@ -1,39 +1,39 @@
 {
     "name": "fe_03_02270",
     "context_channel": 0,
-    "context_text": "<B> um apparently that really was affecting me and i didn't know / <A> ooh / <B> um that's what it was but it felt like kinda like a cold or flu you know / <A> oh / <B> but it was allergies it was allergies { cause } / <A> [ ooh ] / <B> when i when i took the medication { i mean the } / <A> [ wow ] / <B> allergy pills it definitely helped / <A> mhm",
+    "context_text": "<B> um apparently that really was affecting me and i didn't know / <A> wow / <B> um that's what it was but it felt like kinda like a cold or flu you know / <A> yeah / <B> but it was allergies it was allergies { cause } / <A> [ mhm ] / <B> when i when i took the medication { i mean the } / <A> [ right ] / <B> allergy pills it definitely helped / <A> right",
     "context_start": 548.04,
-    "context_end": 567.1046249999999,
+    "context_end": 567.4131249999999,
     "feedback": [
         {
-            "name": "PS_072_ooh",
+            "name": "PS_131_wow",
             "start": 553.23,
-            "end": 554.913875,
-            "token": "ooh"
-        },
-        {
-            "name": "spontD_378_oh",
-            "start": 558.15,
-            "end": 558.8425,
-            "token": "oh"
-        },
-        {
-            "name": "spontC_185_ooh",
-            "start": 560.93,
-            "end": 561.696875,
-            "token": "ooh"
-        },
-        {
-            "name": "PS_116_wow",
-            "start": 563.38,
-            "end": 564.341,
+            "end": 554.207625,
             "token": "wow"
         },
         {
-            "name": "spontA_059_mhm",
-            "start": 566.56,
-            "end": 567.1046249999999,
+            "name": "spontB_192_yeah",
+            "start": 558.15,
+            "end": 558.70475,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_187_mhm",
+            "start": 560.93,
+            "end": 561.4811249999999,
             "token": "mhm"
+        },
+        {
+            "name": "sun1_032_right",
+            "start": 563.38,
+            "end": 564.223375,
+            "token": "right"
+        },
+        {
+            "name": "sun1_033_right",
+            "start": 566.56,
+            "end": 567.4131249999999,
+            "token": "right"
         }
     ]
 }

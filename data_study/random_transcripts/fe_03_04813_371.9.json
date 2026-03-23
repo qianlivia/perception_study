@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04813",
     "context_channel": 1,
-    "context_text": "<A> yeah well it's just my dad's been on and off for like as long as i he he smokes for a like a year but he can quit like whenever he wants which his weird { he'll start } / <B> [ oh ] / <A> smoking when he gets stressed out you know / <B> ooh / <A> and then but once he he knows it's bad so then he'll just be like all right i'll stop that cause you know we don't let him smoke in the house so he'll just have to go out on the deck / <B> no / <A> even in the rain and stuff { but he } / <B> [ yeah ]",
+    "context_text": "<A> yeah well it's just my dad's been on and off for like as long as i he he smokes for a like a year but he can quit like whenever he wants which his weird { he'll start } / <B> [ mhm ] / <A> smoking when he gets stressed out you know / <B> yeah / <A> and then but once he he knows it's bad so then he'll just be like all right i'll stop that cause you know we don't let him smoke in the house so he'll just have to go out on the deck / <B> mhm / <A> even in the rain and stuff { but he } / <B> [ right ]",
     "context_start": 371.9,
-    "context_end": 394.65025,
+    "context_end": 394.85512500000004,
     "feedback": [
         {
-            "name": "PS_014_oh",
+            "name": "spontA_403_mhm",
             "start": 380.81,
-            "end": 381.74275,
-            "token": "oh"
+            "end": 381.369375,
+            "token": "mhm"
         },
         {
-            "name": "spontF_252_ooh",
+            "name": "spontB_381_yeah",
             "start": 383.85,
-            "end": 384.93662500000005,
-            "token": "ooh"
-        },
-        {
-            "name": "sun2_030_no",
-            "start": 392.63,
-            "end": 393.86275,
-            "token": "no"
-        },
-        {
-            "name": "spontF_659_yeah",
-            "start": 394.22,
-            "end": 394.65025,
+            "end": 384.299375,
             "token": "yeah"
+        },
+        {
+            "name": "spontD_115_mhm",
+            "start": 392.63,
+            "end": 393.119875,
+            "token": "mhm"
+        },
+        {
+            "name": "PR_048_right",
+            "start": 394.22,
+            "end": 394.85512500000004,
+            "token": "right"
         }
     ]
 }

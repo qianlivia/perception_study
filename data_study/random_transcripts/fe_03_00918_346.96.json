@@ -1,27 +1,27 @@
 {
     "name": "fe_03_00918",
     "context_channel": 1,
-    "context_text": "<A> i'm just curious if it's a reality show how real it really is / <B> yeah / <A> you know they know they're being uh you know filmed / <B> oh / <A> is this really what their life is about or { do they } / <B> [ yeah ]",
+    "context_text": "<A> i'm just curious if it's a reality show how real it really is / <B> uh-huh / <A> you know they know they're being uh you know filmed / <B> uh-huh / <A> is this really what their life is about or { do they } / <B> [ okay ]",
     "context_start": 346.96,
-    "context_end": 359.54987500000004,
+    "context_end": 359.490875,
     "feedback": [
         {
-            "name": "spontC_389_yeah",
+            "name": "spontA_361_uh-huh",
             "start": 350.53,
-            "end": 351.04799999999994,
-            "token": "yeah"
+            "end": 351.045125,
+            "token": "uh-huh"
         },
         {
-            "name": "Sy_013_oh",
+            "name": "spontD_391_uh-huh",
             "start": 356.36,
-            "end": 357.575,
-            "token": "oh"
+            "end": 356.85025,
+            "token": "uh-huh"
         },
         {
-            "name": "spontF_240_yeah",
+            "name": "spontC_511_okay",
             "start": 358.98,
-            "end": 359.54987500000004,
-            "token": "yeah"
+            "end": 359.490875,
+            "token": "okay"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00280",
     "context_channel": 0,
-    "context_text": "<B> um i actually didn't fly often at all over a year and a half ago i / <A> yeah / <B> almost never so this has actually been mostly in the last year so i don't notice a difference only 'cause i don't / <A> oh / <B> really have much to compare it to um but i usually i'll get there probably between and hour and an hour and a half before my flight and have no problem getting { in no } / <A> [ no ] / <B> matter what time of day it is / <A> ah",
+    "context_text": "<B> um i actually didn't fly often at all over a year and a half ago i / <A> right / <B> almost never so this has actually been mostly in the last year so i don't notice a difference only 'cause i don't / <A> yeah / <B> really have much to compare it to um but i usually i'll get there probably between and hour and an hour and a half before my flight and have no problem getting { in no } / <A> [ uh-huh ] / <B> matter what time of day it is / <A> right",
     "context_start": 518.46,
-    "context_end": 544.4656249999999,
+    "context_end": 544.092,
     "feedback": [
         {
-            "name": "spontE_366_yeah",
+            "name": "sun_028_right",
             "start": 526.04,
-            "end": 527.007,
+            "end": 526.769375,
+            "token": "right"
+        },
+        {
+            "name": "spontD_024_yeah",
+            "start": 531.86,
+            "end": 532.280125,
             "token": "yeah"
         },
         {
-            "name": "PS_004_oh",
-            "start": 531.86,
-            "end": 532.932125,
-            "token": "oh"
-        },
-        {
-            "name": "NR_117_no",
+            "name": "spontE_249_uh-huh",
             "start": 541.41,
-            "end": 542.157125,
-            "token": "no"
+            "end": 541.9231249999999,
+            "token": "uh-huh"
         },
         {
-            "name": "spontA_148_ah",
+            "name": "sun1_029_right",
             "start": 543.4,
-            "end": 544.4656249999999,
-            "token": "ah"
+            "end": 544.092,
+            "token": "right"
         }
     ]
 }

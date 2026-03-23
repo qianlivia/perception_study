@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01861",
     "context_channel": 0,
-    "context_text": "<B> and she went to one of the proverbial it was a two roomed schoolhouse the big kids were on one half of a actually a partition ah it was ah no kindergarten back then but one through eight / <A> mhm / <B> and ah so they had most of the kids they had the bigger kids on one side and the smaller kids on the other side but one teacher / <A> no / <B> and she had a a monitor for the older kids somebody that would rat on anybody that played { up } / <A> [ no ] / <B> but ah anyhow she did all the the course scheduling and everything all herself she wasn't married and by the time those kids out of there came out of there they could absolutely diagram a sentence they were all skilled at at ah i don't think they went above algebra / <A> yeah",
+    "context_text": "<B> and she went to one of the proverbial it was a two roomed schoolhouse the big kids were on one half of a actually a partition ah it was ah no kindergarten back then but one through eight / <A> right / <B> and ah so they had most of the kids they had the bigger kids on one side and the smaller kids on the other side but one teacher / <A> really / <B> and she had a a monitor for the older kids somebody that would rat on anybody that played { up } / <A> [ mhm ] / <B> but ah anyhow she did all the the course scheduling and everything all herself she wasn't married and by the time those kids out of there came out of there they could absolutely diagram a sentence they were all skilled at at ah i don't think they went above algebra / <A> uh-huh",
     "context_start": 331.35,
-    "context_end": 378.852375,
+    "context_end": 378.59025,
     "feedback": [
         {
-            "name": "spontF_619_mhm",
+            "name": "sun1_032_right",
             "start": 346.31,
-            "end": 346.85475,
+            "end": 347.153375,
+            "token": "right"
+        },
+        {
+            "name": "NS_002_really",
+            "start": 354.33,
+            "end": 355.18649999999997,
+            "token": "really"
+        },
+        {
+            "name": "spontA_0101_mhm",
+            "start": 360.14,
+            "end": 360.695375,
             "token": "mhm"
         },
         {
-            "name": "NR_098_no",
-            "start": 354.33,
-            "end": 354.8255,
-            "token": "no"
-        },
-        {
-            "name": "NR_076_no",
-            "start": 360.14,
-            "end": 360.778625,
-            "token": "no"
-        },
-        {
-            "name": "spontE_121_yeah",
+            "name": "spontD_391_uh-huh",
             "start": 378.1,
-            "end": 378.852375,
-            "token": "yeah"
+            "end": 378.59025,
+            "token": "uh-huh"
         }
     ]
 }

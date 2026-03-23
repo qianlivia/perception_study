@@ -1,27 +1,27 @@
 {
     "name": "fe_03_04250",
     "context_channel": 1,
-    "context_text": "<A> uh like in the personal uh view that would { be } / <B> [ yeah ] / <A> something that i would like to change { you know } / <B> [ mhm ] / <A> i if i had the power to may be rechange it i would go back you know in time like you know like you know those nine eleven things / <B> uh-huh",
+    "context_text": "<A> uh like in the personal uh view that would { be } / <B> [ yeah ] / <A> something that i would like to change { you know } / <B> [ mhm ] / <A> i if i had the power to may be rechange it i would go back you know in time like you know like you know those nine eleven things / <B> right",
     "context_start": 274.57,
-    "context_end": 290.2285,
+    "context_end": 290.39425,
     "feedback": [
         {
-            "name": "spontF_294_yeah",
+            "name": "spontD_052_yeah",
             "start": 277.83,
-            "end": 278.56649999999996,
+            "end": 278.592,
             "token": "yeah"
         },
         {
-            "name": "spontA_344_mhm",
+            "name": "spontF_281_mhm",
             "start": 280.11,
-            "end": 280.84975000000003,
+            "end": 281.012375,
             "token": "mhm"
         },
         {
-            "name": "spontD_206_uh-huh",
+            "name": "sun1_031_right",
             "start": 289.6,
-            "end": 290.2285,
-            "token": "uh-huh"
+            "end": 290.39425,
+            "token": "right"
         }
     ]
 }

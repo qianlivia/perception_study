@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03085",
     "context_channel": 0,
-    "context_text": "<B> yeah what we actually end up doing for the ah for the poor cat that we've got now is we put her in the garage at night / <A> yeah / <B> just cause there's ah you know coy ah not coyotes but raccoons and ah all sorts of stuff and { it ends } / <A> [ okay ] / <B> up where she doesn't sleep very well if she's outside / <A> ooh / <B> she's got this spot ah right between ah it's ah like ah two sets out of a ah older car / <A> mhm",
+    "context_text": "<B> yeah what we actually end up doing for the ah for the poor cat that we've got now is we put her in the garage at night / <A> okay / <B> just cause there's ah you know coy ah not coyotes but raccoons and ah all sorts of stuff and { it ends } / <A> [ yeah ] / <B> up where she doesn't sleep very well if she's outside / <A> yeah / <B> she's got this spot ah right between ah it's ah like ah two sets out of a ah older car / <A> right",
     "context_start": 527.8,
-    "context_end": 554.8335000000001,
+    "context_end": 555.1136250000001,
     "feedback": [
         {
-            "name": "spontB_065_yeah",
+            "name": "spontE_152_okay",
             "start": 534.07,
-            "end": 534.8190000000001,
-            "token": "yeah"
-        },
-        {
-            "name": "spontD_073_okay",
-            "start": 541.05,
-            "end": 541.791125,
+            "end": 534.69725,
             "token": "okay"
         },
         {
-            "name": "spontB_347_ooh",
-            "start": 544.62,
-            "end": 545.46225,
-            "token": "ooh"
+            "name": "spontB_226_yeah",
+            "start": 541.05,
+            "end": 541.4989999999999,
+            "token": "yeah"
         },
         {
-            "name": "spontA_091_mhm",
+            "name": "spontE_088_yeah",
+            "start": 544.62,
+            "end": 545.25625,
+            "token": "yeah"
+        },
+        {
+            "name": "sun1_030_right",
             "start": 554.32,
-            "end": 554.8335000000001,
-            "token": "mhm"
+            "end": 555.1136250000001,
+            "token": "right"
         }
     ]
 }

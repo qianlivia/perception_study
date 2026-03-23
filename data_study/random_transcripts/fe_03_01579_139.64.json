@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01579",
     "context_channel": 1,
-    "context_text": "<A> you know unless you travel abroad the way you say you have and then you know you saw the difference / <B> uh-huh / <A> but most people who travel domestically they do not know the difference and if the difference was imposed back then they would've called it such a big problem and made this big deal out of it and everything but to me even now it is not tight enough { but } / <B> [ oh ] / <A> then you have to look at the question how tight is uncomfortable / <B> yeah / <A> you understand as { far } / <B> [ no ]",
+    "context_text": "<A> you know unless you travel abroad the way you say you have and then you know you saw the difference / <B> yeah / <A> but most people who travel domestically they do not know the difference and if the difference was imposed back then they would've called it such a big problem and made this big deal out of it and everything but to me even now it is not tight enough { but } / <B> [ okay ] / <A> then you have to look at the question how tight is uncomfortable / <B> yeah / <A> you understand as { far } / <B> [ exactly ]",
     "context_start": 139.64,
-    "context_end": 170.0035,
+    "context_end": 170.2435,
     "feedback": [
         {
-            "name": "spontF_286_uh-huh",
+            "name": "spontC_182_yeah",
             "start": 144.52,
-            "end": 145.04350000000002,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontF_102_oh",
-            "start": 162.7,
-            "end": 163.30349999999999,
-            "token": "oh"
-        },
-        {
-            "name": "spontA_421_yeah",
-            "start": 167.77,
-            "end": 168.49662500000002,
+            "end": 145.3895,
             "token": "yeah"
         },
         {
-            "name": "sun_021_no",
+            "name": "spontB_120_okay",
+            "start": 162.7,
+            "end": 163.40099999999998,
+            "token": "okay"
+        },
+        {
+            "name": "spontB_143_yeah",
+            "start": 167.77,
+            "end": 168.44612500000002,
+            "token": "yeah"
+        },
+        {
+            "name": "sun_016_exactly",
             "start": 169.21,
-            "end": 170.0035,
-            "token": "no"
+            "end": 170.2435,
+            "token": "exactly"
         }
     ]
 }

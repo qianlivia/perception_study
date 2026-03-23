@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02278",
     "context_channel": 0,
-    "context_text": "<B> so i'm just sitting here i said watching the news bored i was out earlier / <A> uh-huh / <B> it was nice it was real hot then / <A> uh-huh / <B> and then it started raining you know i was like i'm not sitting out here in the rain because i'm not trying to get sick / <A> oh / <B> i'm like i'm not trying to get sick you know / <A> mhm",
+    "context_text": "<B> so i'm just sitting here i said watching the news bored i was out earlier / <A> mhm / <B> it was nice it was real hot then / <A> okay / <B> and then it started raining you know i was like i'm not sitting out here in the rain because i'm not trying to get sick / <A> right / <B> i'm like i'm not trying to get sick you know / <A> yeah",
     "context_start": 464.06,
-    "context_end": 487.564625,
+    "context_end": 487.584,
     "feedback": [
         {
-            "name": "spontC_371_uh-huh",
+            "name": "spontF_312_mhm",
             "start": 470.35,
-            "end": 470.828125,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontA_361_uh-huh",
-            "start": 473.23,
-            "end": 473.74512500000003,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontA_122_oh",
-            "start": 480.53,
-            "end": 481.29175,
-            "token": "oh"
-        },
-        {
-            "name": "spontA_059_mhm",
-            "start": 487.02,
-            "end": 487.564625,
+            "end": 470.868625,
             "token": "mhm"
+        },
+        {
+            "name": "spontC_511_okay",
+            "start": 473.23,
+            "end": 473.740875,
+            "token": "okay"
+        },
+        {
+            "name": "spontC_360_right",
+            "start": 480.53,
+            "end": 481.10887499999995,
+            "token": "right"
+        },
+        {
+            "name": "spontE_047_yeah",
+            "start": 487.02,
+            "end": 487.584,
+            "token": "yeah"
         }
     ]
 }

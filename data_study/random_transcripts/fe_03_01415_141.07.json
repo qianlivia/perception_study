@@ -1,39 +1,39 @@
 {
     "name": "fe_03_01415",
     "context_channel": 1,
-    "context_text": "<A> yeah i made that a point to keep in touch with my friends afterwards / <B> no / <A> but ah it ah i got a little boy who's three / <B> uh-huh / <A> and ah the only thi he's totally unaware / <B> yeah / <A> the ah only thing he's noticed is ah the amount of flags afterwards and stuff um my the area where i live at i live in north florida / <B> no / <A> so ah he's seen lot of flags and every time we pass by a flag there's a flag momma there's a flag / <B> yeah",
+    "context_text": "<A> yeah i made that a point to keep in touch with my friends afterwards / <B> right / <A> but ah it ah i got a little boy who's three / <B> right / <A> and ah the only thi he's totally unaware / <B> mhm / <A> the ah only thing he's noticed is ah the amount of flags afterwards and stuff um my the area where i live at i live in north florida / <B> right / <A> so ah he's seen lot of flags and every time we pass by a flag there's a flag momma there's a flag / <B> right",
     "context_start": 141.07,
-    "context_end": 171.85012500000002,
+    "context_end": 172.122,
     "feedback": [
         {
-            "name": "NR_078_no",
+            "name": "sun1_030_right",
             "start": 145.6,
-            "end": 146.323375,
-            "token": "no"
+            "end": 146.393625,
+            "token": "right"
         },
         {
-            "name": "spontD_380_uh-huh",
+            "name": "sun_007_right",
             "start": 150.92,
-            "end": 151.43612499999998,
-            "token": "uh-huh"
+            "end": 151.80949999999999,
+            "token": "right"
         },
         {
-            "name": "spontA_422_yeah",
+            "name": "spontA_0101_mhm",
             "start": 155.31,
-            "end": 155.8735,
-            "token": "yeah"
+            "end": 155.865375,
+            "token": "mhm"
         },
         {
-            "name": "NR_114_no",
+            "name": "spontC_360_right",
             "start": 165.7,
-            "end": 167.01062499999998,
-            "token": "no"
+            "end": 166.278875,
+            "token": "right"
         },
         {
-            "name": "spontD_024_yeah",
+            "name": "sun1_029_right",
             "start": 171.43,
-            "end": 171.85012500000002,
-            "token": "yeah"
+            "end": 172.122,
+            "token": "right"
         }
     ]
 }

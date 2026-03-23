@@ -1,39 +1,39 @@
 {
     "name": "fe_03_00285",
     "context_channel": 1,
-    "context_text": "<A> yeah i mean well obviously this the the september eleventh attacks last year were really sort of low tech attacks based on very very simple equipment that they had with them it wasn't anything high tech it was / <B> absolutely / <A> box cutters or whatever / <B> ooh / <A> um so it seems like if someone is willing to do that sort of low low tech attack when they are willing to die for it / <B> yeah / <A> um it seems like they could always find something else to bodge together to use as a weapon / <B> no / <A> i mean somehow sharpen a ballpoint pen or something it could become as dangerous as a box cutter / <B> ah",
+    "context_text": "<A> yeah i mean well obviously this the the september eleventh attacks last year were really sort of low tech attacks based on very very simple equipment that they had with them it wasn't anything high tech it was / <B> really / <A> box cutters or whatever / <B> right / <A> um so it seems like if someone is willing to do that sort of low low tech attack when they are willing to die for it / <B> right / <A> um it seems like they could always find something else to bodge together to use as a weapon / <B> exactly / <A> i mean somehow sharpen a ballpoint pen or something it could become as dangerous as a box cutter / <B> yeah",
     "context_start": 118.86,
-    "context_end": 149.45000000000002,
+    "context_end": 148.752125,
     "feedback": [
         {
-            "name": "sun_002_absolutely",
+            "name": "PS_002_really",
             "start": 128.8,
-            "end": 129.84550000000002,
-            "token": "absolutely"
+            "end": 129.59287500000002,
+            "token": "really"
         },
         {
-            "name": "PS_153_ooh",
+            "name": "sun1_033_right",
             "start": 130.37,
-            "end": 131.26975000000002,
-            "token": "ooh"
+            "end": 131.223125,
+            "token": "right"
         },
         {
-            "name": "spontF_221_yeah",
+            "name": "sun_013_right",
             "start": 137.46,
-            "end": 137.945625,
-            "token": "yeah"
+            "end": 138.33350000000002,
+            "token": "right"
         },
         {
-            "name": "NR_119_no",
+            "name": "sun_026_exactly",
             "start": 142.68,
-            "end": 143.44025000000002,
-            "token": "no"
+            "end": 143.70950000000002,
+            "token": "exactly"
         },
         {
-            "name": "PS_198_ah",
+            "name": "spontE_062_yeah",
             "start": 148.09,
-            "end": 149.45000000000002,
-            "token": "ah"
+            "end": 148.752125,
+            "token": "yeah"
         }
     ]
 }

@@ -1,27 +1,27 @@
 {
     "name": "fe_03_05455",
     "context_channel": 0,
-    "context_text": "<B> then you can play like the x box over the internet or something like that / <A> wow / <B> or maybe the ps two too but / <A> mhm / <B> ah i don't really like to fiddle with stuff like that / <A> no",
+    "context_text": "<B> then you can play like the x box over the internet or something like that / <A> oh / <B> or maybe the ps two too but / <A> right / <B> ah i don't really like to fiddle with stuff like that / <A> oh",
     "context_start": 258.42,
-    "context_end": 267.09925,
+    "context_end": 267.08025,
     "feedback": [
         {
-            "name": "PS_176_wow",
+            "name": "Sy_022_oh",
             "start": 261.23,
-            "end": 262.2275,
-            "token": "wow"
+            "end": 263.05237500000004,
+            "token": "oh"
         },
         {
-            "name": "spontA_286_mhm",
+            "name": "sun_013_right",
             "start": 263.3,
-            "end": 263.911875,
-            "token": "mhm"
+            "end": 264.1735,
+            "token": "right"
         },
         {
-            "name": "NR_069_no",
+            "name": "spontA_065_oh",
             "start": 266.34,
-            "end": 267.09925,
-            "token": "no"
+            "end": 267.08025,
+            "token": "oh"
         }
     ]
 }

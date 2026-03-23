@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03648",
     "context_channel": 1,
-    "context_text": "<A> groceries shoes clothes everything you can't live off of five fifteen you / <B> mhm / <A> just it's too it's too hard / <B> ooh / <A> and i mean y they i think that they should increase the minimum wage to at least about eight or nine dollars / <B> yeah / <A> an hour because if we have enough money to give to all these different countries who the need of this and need of that then we have money to pay our own people half way decent / <B> yeah",
+    "context_text": "<A> groceries shoes clothes everything you can't live off of five fifteen you / <B> mhm / <A> just it's too it's too hard / <B> uh-huh / <A> and i mean y they i think that they should increase the minimum wage to at least about eight or nine dollars / <B> mhm / <A> an hour because if we have enough money to give to all these different countries who the need of this and need of that then we have money to pay our own people half way decent / <B> oh",
     "context_start": 30.96,
-    "context_end": 59.947125,
+    "context_end": 59.81075,
     "feedback": [
         {
-            "name": "PR_045_mhm",
+            "name": "spontA_059_mhm",
             "start": 36.33,
-            "end": 37.257124999999995,
+            "end": 36.874625,
             "token": "mhm"
         },
         {
-            "name": "spontA_050_ooh",
+            "name": "spontE_227_uh-huh",
             "start": 38.5,
-            "end": 39.565625,
-            "token": "ooh"
+            "end": 38.921625,
+            "token": "uh-huh"
         },
         {
-            "name": "spontA_414_yeah",
+            "name": "spontA_091_mhm",
             "start": 46.52,
-            "end": 46.997875,
-            "token": "yeah"
+            "end": 47.033500000000004,
+            "token": "mhm"
         },
         {
-            "name": "spontF_630_yeah",
+            "name": "spontE_176_oh",
             "start": 59.33,
-            "end": 59.947125,
-            "token": "yeah"
+            "end": 59.81075,
+            "token": "oh"
         }
     ]
 }

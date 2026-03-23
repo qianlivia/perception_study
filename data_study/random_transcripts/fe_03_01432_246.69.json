@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01432",
     "context_channel": 1,
-    "context_text": "<A> yeah with the salvation army we're i i work with the disaster / <B> uh-huh / <A> canteen here / <B> wow / <A> and we've we've been to about three meetings so far on what to do in case of a terrorist attack and all that / <B> yeah / <A> and it's real you know some of the pictures you see / <B> yeah",
+    "context_text": "<A> yeah with the salvation army we're i i work with the disaster / <B> right / <A> canteen here / <B> mhm / <A> and we've we've been to about three meetings so far on what to do in case of a terrorist attack and all that / <B> wow / <A> and it's real you know some of the pictures you see / <B> uh-huh",
     "context_start": 246.69,
-    "context_end": 266.4495,
+    "context_end": 266.34925000000004,
     "feedback": [
         {
-            "name": "spontC_195_uh-huh",
+            "name": "PR_043_right",
             "start": 251.37,
-            "end": 251.92075,
-            "token": "uh-huh"
+            "end": 252.03,
+            "token": "right"
         },
         {
-            "name": "PS_074_wow",
+            "name": "spontB_251_mhm",
             "start": 253.04,
-            "end": 253.87725,
+            "end": 253.6035,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_020_wow",
+            "start": 260.98,
+            "end": 261.9895,
             "token": "wow"
         },
         {
-            "name": "spontA_356_yeah",
-            "start": 260.98,
-            "end": 261.46200000000005,
-            "token": "yeah"
-        },
-        {
-            "name": "spontB_299_yeah",
+            "name": "spontA_051_uh-huh",
             "start": 265.79,
-            "end": 266.4495,
-            "token": "yeah"
+            "end": 266.34925000000004,
+            "token": "uh-huh"
         }
     ]
 }

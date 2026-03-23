@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00642",
     "context_channel": 0,
-    "context_text": "<B> walk like when i go down downtown { i'll } / <A> [ uh-huh ] / <B> i'll i'll go way around 'em i know that's i know that's horrible / <A> uh-huh / <B> and i and i know it's not everybody's fault { it's not } / <A> [ yeah ] / <B> their fault but part of me just can't help it did you lose anybody then / <A> yeah",
+    "context_text": "<B> walk like when i go down downtown { i'll } / <A> [ right ] / <B> i'll i'll go way around 'em i know that's i know that's horrible / <A> yeah / <B> and i and i know it's not everybody's fault { it's not } / <A> [ uh-huh ] / <B> their fault but part of me just can't help it did you lose anybody then / <A> uh-huh",
     "context_start": 181.84,
-    "context_end": 199.75,
+    "context_end": 199.25825,
     "feedback": [
         {
-            "name": "spontE_265_uh-huh",
+            "name": "sun_007_right",
             "start": 184.36,
-            "end": 184.93175000000002,
-            "token": "uh-huh"
+            "end": 185.2495,
+            "token": "right"
         },
         {
-            "name": "spontA_243_uh-huh",
+            "name": "spontB_276_yeah",
             "start": 189.69,
-            "end": 190.23,
+            "end": 190.00187499999998,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_041_uh-huh",
+            "start": 193.09,
+            "end": 193.625625,
             "token": "uh-huh"
         },
         {
-            "name": "spontE_269_yeah",
-            "start": 193.09,
-            "end": 193.884125,
-            "token": "yeah"
-        },
-        {
-            "name": "spontD_336_yeah",
+            "name": "spontD_070_uh-huh",
             "start": 198.75,
-            "end": 199.75,
-            "token": "yeah"
+            "end": 199.25825,
+            "token": "uh-huh"
         }
     ]
 }

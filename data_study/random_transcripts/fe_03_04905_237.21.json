@@ -1,32 +1,32 @@
 {
     "name": "fe_03_04905",
     "context_channel": 0,
-    "context_text": "<B> well i live in maryland and there was a huge there was a huge like fog uh on highway sixty eight { in } / <A> [ uh-huh ] / <B> western maryland and there was like a sixty car pile up in the fog / <A> mhm / <B> and there were like the the high the interstate was closed until just you know a few minutes ago / <A> okay / <B> i mean it was a huge i saw pictures of it on tv and i couldn't believe it there was just like cars crashed all over the place and i think that you know i i don't think that had anything to do with drugs but imagine trying to manipulate a truck in that { when } / <A> [ mhm ]",
+    "context_text": "<B> well i live in maryland and there was a huge there was a huge like fog uh on highway sixty eight { in } / <A> [ mhm ] / <B> western maryland and there was like a sixty car pile up in the fog / <A> mhm / <B> and there were like the the high the interstate was closed until just you know a few minutes ago / <A> wow / <B> i mean it was a huge i saw pictures of it on tv and i couldn't believe it there was just like cars crashed all over the place and i think that you know i i don't think that had anything to do with drugs but imagine trying to manipulate a truck in that { when } / <A> [ mhm ]",
     "context_start": 237.21,
-    "context_end": 274.99,
+    "context_end": 274.78625000000005,
     "feedback": [
         {
-            "name": "spontA_324_uh-huh",
+            "name": "spontF_482_mhm",
             "start": 245.84,
-            "end": 246.487875,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontA_395_mhm",
-            "start": 251.27,
-            "end": 251.884625,
+            "end": 246.27825,
             "token": "mhm"
         },
         {
-            "name": "spontC_134_okay",
-            "start": 258.0,
-            "end": 258.807125,
-            "token": "okay"
+            "name": "sun1_002_mhm",
+            "start": 251.27,
+            "end": 252.059875,
+            "token": "mhm"
         },
         {
-            "name": "sun1_005_mhm",
+            "name": "PS_049_wow",
+            "start": 258.0,
+            "end": 259.806625,
+            "token": "wow"
+        },
+        {
+            "name": "spontA_409_mhm",
             "start": 274.22,
-            "end": 274.99,
+            "end": 274.78625000000005,
             "token": "mhm"
         }
     ]

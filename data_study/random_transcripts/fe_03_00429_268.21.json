@@ -1,27 +1,27 @@
 {
     "name": "fe_03_00429",
     "context_channel": 1,
-    "context_text": "<A> but i don't know right now i stay home with the kids so / <B> mhm / <A> i've like i said the youngest one's ten months so i've got a while until he moves into { school and } / <B> [ yeah ] / <A> everything and and / <B> no",
+    "context_text": "<A> but i don't know right now i stay home with the kids so / <B> mhm / <A> i've like i said the youngest one's ten months so i've got a while until he moves into { school and } / <B> [ okay ] / <A> everything and and / <B> exactly",
     "context_start": 268.21,
-    "context_end": 279.566625,
+    "context_end": 279.9695,
     "feedback": [
         {
-            "name": "spontA_298_mhm",
+            "name": "spontE_118_mhm",
             "start": 272.42,
-            "end": 272.955875,
+            "end": 273.01050000000004,
             "token": "mhm"
         },
         {
-            "name": "spontB_292_yeah",
+            "name": "spontE_405_okay",
             "start": 276.96,
-            "end": 277.5315,
-            "token": "yeah"
+            "end": 277.634375,
+            "token": "okay"
         },
         {
-            "name": "NR_004_no",
+            "name": "sun_026_exactly",
             "start": 278.94,
-            "end": 279.566625,
-            "token": "no"
+            "end": 279.9695,
+            "token": "exactly"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01802",
     "context_channel": 1,
-    "context_text": "<A> yep that that's true that's very true hm it's interesting to think about and and if if we're using it so much now what's it gonna be like you know i always think twenty years / <B> uh-huh / <A> you know how advanced i mean gosh everything will be automated and you know you'll be able to i mean you already can pay your bills on line and / <B> oh / <A> you know banking you can do your banking you're never going to have to go to any of these institutions anymore / <B> uh-huh / <A> you know that that's true um even even music um you can listen to songs you can listen before you buy a cd you can go to the web site or the the cd and listen to it you know you can get a sample right over the internet / <B> uh-huh",
+    "context_text": "<A> yep that that's true that's very true hm it's interesting to think about and and if if we're using it so much now what's it gonna be like you know i always think twenty years / <B> okay / <A> you know how advanced i mean gosh everything will be automated and you know you'll be able to i mean you already can pay your bills on line and / <B> uh-huh / <A> you know banking you can do your banking you're never going to have to go to any of these institutions anymore / <B> okay / <A> you know that that's true um even even music um you can listen to songs you can listen before you buy a cd you can go to the web site or the the cd and listen to it you know you can get a sample right over the internet / <B> exactly",
     "context_start": 235.02,
-    "context_end": 282.572375,
+    "context_end": 283.07175,
     "feedback": [
         {
-            "name": "spontF_092_uh-huh",
+            "name": "spontB_120_okay",
             "start": 246.35,
-            "end": 247.029125,
-            "token": "uh-huh"
+            "end": 247.051,
+            "token": "okay"
         },
         {
-            "name": "spontF_017_oh",
+            "name": "spontE_173_uh-huh",
             "start": 255.73,
-            "end": 256.559375,
-            "token": "oh"
+            "end": 256.3385,
+            "token": "uh-huh"
         },
         {
-            "name": "spontC_207_uh-huh",
+            "name": "sun1_017_okay",
             "start": 263.36,
-            "end": 263.84087500000004,
-            "token": "uh-huh"
+            "end": 264.272875,
+            "token": "okay"
         },
         {
-            "name": "spontB_383_uh-huh",
+            "name": "sun_015_exactly",
             "start": 281.97,
-            "end": 282.572375,
-            "token": "uh-huh"
+            "end": 283.07175,
+            "token": "exactly"
         }
     ]
 }

@@ -1,39 +1,39 @@
 {
     "name": "fe_03_05688",
     "context_channel": 1,
-    "context_text": "<A> the most horrifying thing i've ever witnessed with my own two eyes in my life / <B> no / <A> probably ever will / <B> yeah / <A> um but you know i think that that uh when events like that happen and getting back to the topic of foreign relations / <B> yeah / <A> ah it turns into a free for all i mean / <B> mhm / <A> ah if you can see what happened after september eleventh uh immediately uh the united states really went onto this unilateral ah campaign across the world and / <B> wow",
+    "context_text": "<A> the most horrifying thing i've ever witnessed with my own two eyes in my life / <B> right / <A> probably ever will / <B> really / <A> um but you know i think that that uh when events like that happen and getting back to the topic of foreign relations / <B> okay / <A> ah it turns into a free for all i mean / <B> right / <A> ah if you can see what happened after september eleventh uh immediately uh the united states really went onto this unilateral ah campaign across the world and / <B> right",
     "context_start": 319.49,
-    "context_end": 351.34575,
+    "context_end": 350.682,
     "feedback": [
         {
-            "name": "NR_100_no",
+            "name": "sun_028_right",
             "start": 322.85,
-            "end": 323.58075,
-            "token": "no"
+            "end": 323.579375,
+            "token": "right"
         },
         {
-            "name": "spontD_228_yeah",
+            "name": "NS_082_really",
             "start": 324.33,
-            "end": 324.901125,
-            "token": "yeah"
+            "end": 325.08225,
+            "token": "really"
         },
         {
-            "name": "spontB_371_yeah",
+            "name": "spontC_172_okay",
             "start": 333.66,
-            "end": 334.02825,
-            "token": "yeah"
+            "end": 334.07112500000005,
+            "token": "okay"
         },
         {
-            "name": "spontA_390_mhm",
+            "name": "PR_048_right",
             "start": 336.62,
-            "end": 337.392125,
-            "token": "mhm"
+            "end": 337.255125,
+            "token": "right"
         },
         {
-            "name": "PS_038_wow",
+            "name": "sun1_029_right",
             "start": 349.99,
-            "end": 351.34575,
-            "token": "wow"
+            "end": 350.682,
+            "token": "right"
         }
     ]
 }
