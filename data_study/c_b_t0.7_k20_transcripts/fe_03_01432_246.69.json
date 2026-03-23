@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01432",
+    "context_channel": 1,
+    "context_text": "<A> yeah with the salvation army we're i i work with the disaster / <B> uh-huh / <A> canteen here / <B> okay / <A> and we've we've been to about three meetings so far on what to do in case of a terrorist attack and all that / <B> okay / <A> and it's real you know some of the pictures you see / <B> yeah",
+    "context_start": 246.69,
+    "context_end": 266.46612500000003,
+    "feedback": [
+        {
+            "name": "spontC_186_uh-huh",
+            "start": 251.37,
+            "end": 251.84525,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_401_okay",
+            "start": 253.04,
+            "end": 253.56937499999998,
+            "token": "okay"
+        },
+        {
+            "name": "spontD_089_okay",
+            "start": 260.98,
+            "end": 261.785125,
+            "token": "okay"
+        },
+        {
+            "name": "spontB_143_yeah",
+            "start": 265.79,
+            "end": 266.46612500000003,
+            "token": "yeah"
+        }
+    ]
+}

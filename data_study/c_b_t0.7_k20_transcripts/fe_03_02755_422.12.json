@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02755",
+    "context_channel": 0,
+    "context_text": "<B> know um we were stuck for some reason um the way they sold the tickets it was like five to one { the } / <A> [ wow ] / <B> fans that were there i think it was tennessee we played there were five tennessee fans for every maryland fan { so } / <A> [ wow ] / <B> they put all the maryland fans in the end zone / <A> oh / <B> it made me really kick because you know you'd think they should you know even it out you know what i mean { but } / <A> [ yeah ]",
+    "context_start": 422.12,
+    "context_end": 446.455,
+    "feedback": [
+        {
+            "name": "PS_034_wow",
+            "start": 430.26,
+            "end": 431.077625,
+            "token": "wow"
+        },
+        {
+            "name": "NegS_065_wow",
+            "start": 436.41,
+            "end": 437.324,
+            "token": "wow"
+        },
+        {
+            "name": "spontD_193_oh",
+            "start": 439.99,
+            "end": 440.74125000000004,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_222_yeah",
+            "start": 445.8,
+            "end": 446.455,
+            "token": "yeah"
+        }
+    ]
+}
