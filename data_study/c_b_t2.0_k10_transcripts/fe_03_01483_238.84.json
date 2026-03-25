@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_01483",
+    "context_channel": 0,
+    "context_text": "<B> something that happened spontaneously / <A> mhm / <B> and um i do believe that the um the president um had forewarned uh they had um messages that { were } / <A> [ uh-huh ] / <B> left and they was forewarned about the destruction / <A> uh-huh",
+    "context_start": 238.84,
+    "context_end": 253.329125,
+    "feedback": [
+        {
+            "name": "spontA_253_mhm",
+            "start": 240.34,
+            "end": 240.813625,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_035_uh-huh",
+            "start": 249.66,
+            "end": 250.13412499999998,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_146_uh-huh",
+            "start": 252.81,
+            "end": 253.329125,
+            "token": "uh-huh"
+        }
+    ]
+}

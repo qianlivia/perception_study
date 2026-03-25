@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_05134",
+    "context_channel": 1,
+    "context_text": "<A> she's she's got obviously learned some skills from the computer but i don't i don't know that she's you know i don't think that she's you know know she hasn't been taught you know microsoft programs / <B> mhm / <A> or you know word or excel for example things { that you } / <B> [ mhm ] / <A> probably could use some day in your workplace i mean { i } / <B> [ mhm ] / <A> i use those in my workplace / <B> uh-huh",
+    "context_start": 355.99,
+    "context_end": 378.31,
+    "feedback": [
+        {
+            "name": "spontA_395_mhm",
+            "start": 370.04,
+            "end": 370.654625,
+            "token": "mhm"
+        },
+        {
+            "name": "spontD_195_mhm",
+            "start": 372.53,
+            "end": 373.42562499999997,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_344_mhm",
+            "start": 375.73,
+            "end": 376.46975000000003,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_243_uh-huh",
+            "start": 377.77,
+            "end": 378.31,
+            "token": "uh-huh"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00408",
+    "context_channel": 1,
+    "context_text": "<A> it's um undergr no it's in a university level { it's an } / <B> [ uh-huh ] / <A> undergrad class but i'm { a } / <B> [ okay ] / <A> graduate student / <B> okay / <A> so basically i mean i i i like computers as as a tool of communication um but i am skeptical in the sense that it's always good for us to ah create some realities through the computers like / <B> okay",
+    "context_start": 208.5,
+    "context_end": 233.61499999999998,
+    "feedback": [
+        {
+            "name": "spontC_013_uh-huh",
+            "start": 213.16,
+            "end": 213.654875,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_386_okay",
+            "start": 214.93,
+            "end": 215.42112500000002,
+            "token": "okay"
+        },
+        {
+            "name": "spontD_410_okay",
+            "start": 216.36,
+            "end": 216.78375000000003,
+            "token": "okay"
+        },
+        {
+            "name": "spontC_020_okay",
+            "start": 233.14,
+            "end": 233.61499999999998,
+            "token": "okay"
+        }
+    ]
+}

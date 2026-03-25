@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04762",
+    "context_channel": 0,
+    "context_text": "<B> when i came to college you know try something new { and ah } / <A> [ wow ] / <B> everybody / <A> yeah / <B> else was smoking so { i } / <A> [ yeah ]",
+    "context_start": 374.4,
+    "context_end": 381.425,
+    "feedback": [
+        {
+            "name": "PS_173_wow",
+            "start": 377.23,
+            "end": 378.353625,
+            "token": "wow"
+        },
+        {
+            "name": "spontF_383_yeah",
+            "start": 378.21,
+            "end": 378.71412499999997,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_043_yeah",
+            "start": 380.89,
+            "end": 381.425,
+            "token": "yeah"
+        }
+    ]
+}

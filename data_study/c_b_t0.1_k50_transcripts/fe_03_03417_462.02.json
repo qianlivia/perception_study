@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03417",
+    "context_channel": 0,
+    "context_text": "<B> well uh i'm a a navy retiree / <A> oh / <B> and my children are scattered all the way across the country / <A> oh / <B> my son is the only one that's close to me here / <A> wow / <B> i have uh one in atlanta and one in virginia / <A> wow",
+    "context_start": 462.02,
+    "context_end": 482.36862499999995,
+    "feedback": [
+        {
+            "name": "spontF_017_oh",
+            "start": 467.39,
+            "end": 468.219375,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_017_oh",
+            "start": 471.55,
+            "end": 472.37937500000004,
+            "token": "oh"
+        },
+        {
+            "name": "PS_100_wow",
+            "start": 475.45,
+            "end": 476.446625,
+            "token": "wow"
+        },
+        {
+            "name": "PS_113_wow",
+            "start": 481.34,
+            "end": 482.36862499999995,
+            "token": "wow"
+        }
+    ]
+}

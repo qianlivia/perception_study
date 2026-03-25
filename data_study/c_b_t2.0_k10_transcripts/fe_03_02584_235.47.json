@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02584",
+    "context_channel": 1,
+    "context_text": "<A> and and and of course the the so called war was so juicy because there were so many uh opposing factions to it that that kept it really alive and rocking and rolling i mean i'm { not a } / <B> [ wow ] / <A> news buff myself because / <B> okay / <A> a lot of this stuff i i have no control over / <B> okay / <A> and uh a lot of it just makes you feel bad so why subject yourself to that / <B> okay",
+    "context_start": 235.47,
+    "context_end": 262.19712499999997,
+    "feedback": [
+        {
+            "name": "PS_061_wow",
+            "start": 248.62,
+            "end": 249.8825,
+            "token": "wow"
+        },
+        {
+            "name": "spontD_383_okay",
+            "start": 250.32,
+            "end": 250.991375,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_317_okay",
+            "start": 255.07,
+            "end": 255.922,
+            "token": "okay"
+        },
+        {
+            "name": "spontC_134_okay",
+            "start": 261.39,
+            "end": 262.19712499999997,
+            "token": "okay"
+        }
+    ]
+}

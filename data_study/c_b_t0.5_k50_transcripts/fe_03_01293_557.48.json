@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01293",
+    "context_channel": 1,
+    "context_text": "<A> like for me it was almost like a a true eye opener because it was just so sad { and it's like } / <B> [ wow ] / <A> for a lot of reporters i mean they took it as oh like this is the biggest story of my career and you know i'm gonna make it now and i'm gonna put together this great package and it was like / <B> yeah / <A> when i got to work the very first thing i did was i mean i got to work at like ten thirty our time / <B> okay / <A> so things had just happened um and the very first thing i did was pull feeds from you know cnn and abc { and } / <B> [ uh-huh ]",
+    "context_start": 557.48,
+    "context_end": 590.7663749999999,
+    "feedback": [
+        {
+            "name": "PS_018_wow",
+            "start": 562.17,
+            "end": 563.175625,
+            "token": "wow"
+        },
+        {
+            "name": "spontE_197_yeah",
+            "start": 573.22,
+            "end": 573.879375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_033_okay",
+            "start": 581.86,
+            "end": 582.556625,
+            "token": "okay"
+        },
+        {
+            "name": "spontA_406_uh-huh",
+            "start": 590.16,
+            "end": 590.7663749999999,
+            "token": "uh-huh"
+        }
+    ]
+}

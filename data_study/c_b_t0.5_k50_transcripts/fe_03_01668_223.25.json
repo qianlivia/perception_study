@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01668",
+    "context_channel": 0,
+    "context_text": "<B> well i enjoy late night comics and i probably hear more about iraq from there than any i don't know but um they were comparing saddam to um bin laden / <A> uh-huh / <B> and just you know bin laden hides out in caves he's used to that / <A> yeah / <B> whereas here's saddam and he's lost his palace { how } / <A> [ uh-huh ] / <B> long can he last { so } / <A> [ yeah ]",
+    "context_start": 223.25,
+    "context_end": 242.663625,
+    "feedback": [
+        {
+            "name": "spontF_359_uh-huh",
+            "start": 232.57,
+            "end": 233.22225,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_414_yeah",
+            "start": 236.8,
+            "end": 237.27787500000002,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_183_uh-huh",
+            "start": 240.26,
+            "end": 240.953625,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_088_yeah",
+            "start": 242.13,
+            "end": 242.663625,
+            "token": "yeah"
+        }
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_05375",
+    "context_channel": 0,
+    "context_text": "<B> oh yeah a very bad one and not only were were there layoffs and high unemployment but unlike now inflation was runaway / <A> uh-huh / <B> i mean i it was like prime rate was up to twenty percent / <A> wow / <B> i i mean interest rates were just crazy you know { the } / <A> [ wow ] / <B> housing market was shot and and uh { it was } / <A> [ wow ] / <B> just people don't don't remember very much / <A> yeah",
+    "context_start": 513.47,
+    "context_end": 538.11125,
+    "feedback": [
+        {
+            "name": "spontC_386_uh-huh",
+            "start": 523.49,
+            "end": 524.0365,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PS_176_wow",
+            "start": 527.96,
+            "end": 528.9575,
+            "token": "wow"
+        },
+        {
+            "name": "spontA_261_wow",
+            "start": 531.14,
+            "end": 531.789125,
+            "token": "wow"
+        },
+        {
+            "name": "PS_100_wow",
+            "start": 533.93,
+            "end": 534.926625,
+            "token": "wow"
+        },
+        {
+            "name": "spontA_111_yeah",
+            "start": 537.48,
+            "end": 538.11125,
+            "token": "yeah"
+        }
+    ]
+}

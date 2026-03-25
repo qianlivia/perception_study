@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03499",
+    "context_channel": 1,
+    "context_text": "<A> oh is it well that's good in in south carolina here um i would have to say that jobs are very difficult to get right now { i think } / <B> [ wow ] / <A> they are everywhere they're di very difficult to get and you have people who are very qualified that are working you know like if they have a a college degree or something { and } / <B> [ right ] / <A> they're working in a in a job doing secretarial work so / <B> wow / <A> you know i think that because of the economy the way it is / <B> right",
+    "context_start": 446.2,
+    "context_end": 480.058875,
+    "feedback": [
+        {
+            "name": "PS_176_wow",
+            "start": 456.99,
+            "end": 457.9875,
+            "token": "wow"
+        },
+        {
+            "name": "sun1_033_right",
+            "start": 470.11,
+            "end": 470.963125,
+            "token": "right"
+        },
+        {
+            "name": "NegS_008_wow",
+            "start": 475.56,
+            "end": 476.5155,
+            "token": "wow"
+        },
+        {
+            "name": "spontC_360_right",
+            "start": 479.48,
+            "end": 480.058875,
+            "token": "right"
+        }
+    ]
+}

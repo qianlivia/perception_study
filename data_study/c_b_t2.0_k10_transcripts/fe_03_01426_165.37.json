@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01426",
+    "context_channel": 1,
+    "context_text": "<A> up and my mom had mentioned to me that a plane had gone into the first { building } / <B> [ oh ] / <A> and uh i probably i thought it was probably just a uh an airplane that got misguided or something / <B> uh-huh / <A> so i put on the tv and then they actually showed the coverage live of the second one { second plane } / <B> [ wow ] / <A> and it it just looked like one of these movies you had seen in the past { of } / <B> [ yeah ]",
+    "context_start": 165.37,
+    "context_end": 188.061375,
+    "feedback": [
+        {
+            "name": "Sy_023_oh",
+            "start": 169.73,
+            "end": 170.830375,
+            "token": "oh"
+        },
+        {
+            "name": "spontD_276_uh-huh",
+            "start": 176.19,
+            "end": 176.631375,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PS_043_wow",
+            "start": 182.17,
+            "end": 183.50525,
+            "token": "wow"
+        },
+        {
+            "name": "spontE_059_yeah",
+            "start": 187.18,
+            "end": 188.061375,
+            "token": "yeah"
+        }
+    ]
+}

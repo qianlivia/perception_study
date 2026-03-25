@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_04447",
+    "context_channel": 1,
+    "context_text": "<A> hear is more and more money for education more { and } / <B> [ mhm ] / <A> more money for education { and } / <B> [ mhm ] / <A> i wanna stand up and scream what more are ya gonna teach them / <B> yeah / <A> that you're not teaching them now / <B> yeah / <A> uh you know i think for the money you have right now teach them what you're supposed to teach them / <B> yeah",
+    "context_start": 308.85,
+    "context_end": 323.94100000000003,
+    "feedback": [
+        {
+            "name": "spontE_262_mhm",
+            "start": 311.03,
+            "end": 311.60724999999996,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_334_mhm",
+            "start": 312.59,
+            "end": 313.26262499999996,
+            "token": "mhm"
+        },
+        {
+            "name": "spontE_150_yeah",
+            "start": 315.73,
+            "end": 316.137125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_375_yeah",
+            "start": 317.72,
+            "end": 318.144625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_144_yeah",
+            "start": 323.35,
+            "end": 323.94100000000003,
+            "token": "yeah"
+        }
+    ]
+}

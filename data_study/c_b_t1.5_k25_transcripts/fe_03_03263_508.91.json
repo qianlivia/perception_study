@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03263",
+    "context_channel": 1,
+    "context_text": "<A> yeah yeah and watching too do / <B> yeah / <A> you watch / <B> yeah / <A> in uh pnt / <B> yeah / <A> yeah i watch that too { i } / <B> [ yeah ]",
+    "context_start": 508.91,
+    "context_end": 521.0991250000001,
+    "feedback": [
+        {
+            "name": "spontB_016_yeah",
+            "start": 513.42,
+            "end": 513.8148749999999,
+            "token": "yeah"
+        },
+        {
+            "name": "sun1_023_yeah",
+            "start": 516.15,
+            "end": 516.531875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_485_yeah",
+            "start": 518.46,
+            "end": 519.0625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_049_yeah",
+            "start": 520.46,
+            "end": 521.0991250000001,
+            "token": "yeah"
+        }
+    ]
+}

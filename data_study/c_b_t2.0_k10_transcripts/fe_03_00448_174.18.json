@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00448",
+    "context_channel": 1,
+    "context_text": "<A> and they don't have that handle on the top or anything { and i mean they } / <B> [ wow ] / <A> go really fast { but you } / <B> [ wow ] / <A> just don't see it and and it's such a big deal because the weather people get all bent out of shape / <B> yeah / <A> and they assume that we're having some sort of a catastrophe { and } / <B> [ oh ]",
+    "context_start": 174.18,
+    "context_end": 190.012375,
+    "feedback": [
+        {
+            "name": "PS_024_wow",
+            "start": 176.21,
+            "end": 177.73725000000002,
+            "token": "wow"
+        },
+        {
+            "name": "PS_034_wow",
+            "start": 178.36,
+            "end": 179.177625,
+            "token": "wow"
+        },
+        {
+            "name": "spontF_485_yeah",
+            "start": 184.74,
+            "end": 185.3425,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_320_oh",
+            "start": 189.31,
+            "end": 190.012375,
+            "token": "oh"
+        }
+    ]
+}

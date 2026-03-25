@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_00414",
+    "context_channel": 0,
+    "context_text": "<B> no they are flying from they're they are flying a couple thousand miles from for two of the three of them { in } / <A> [ oh ] / <B> order to come see us we haven't { been able to } / <A> [ wow ] / <B> put our four year old on an aircraft yet / <A> wow / <B> we tried taking him on a two hundred mile to a big city and staying overnight in a hotel / <A> uh-huh / <B> a couple of years ago so that couldn't sleep in that little bed so he and i didn't sleep that night / <A> yeah",
+    "context_start": 385.28,
+    "context_end": 411.639875,
+    "feedback": [
+        {
+            "name": "spontB_181_oh",
+            "start": 392.75,
+            "end": 393.352375,
+            "token": "oh"
+        },
+        {
+            "name": "PS_154_wow",
+            "start": 394.11,
+            "end": 395.5985,
+            "token": "wow"
+        },
+        {
+            "name": "PS_129_wow",
+            "start": 397.45,
+            "end": 398.392375,
+            "token": "wow"
+        },
+        {
+            "name": "spontB_137_uh-huh",
+            "start": 404.31,
+            "end": 404.861,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_240_yeah",
+            "start": 411.07,
+            "end": 411.639875,
+            "token": "yeah"
+        }
+    ]
+}

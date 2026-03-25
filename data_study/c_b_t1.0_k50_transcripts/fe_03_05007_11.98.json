@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_05007",
+    "context_channel": 1,
+    "context_text": "<A> boy does that hit me hit close to home / <B> yeah / <A> um i uh worked at ibm global services in columbus ohio { i } / <B> [ uh-huh ] / <A> and the um basically uh i was in the uh ibm global services uh uh mvsa as four hundred mainframe as soon as nine eleven happened we got la the whole department was liquidated because our largest client which is bank one / <B> yeah / <A> uh bank w bank one uh uh the bank one customer service center the pretty much the technical aspect of of uh bank one they decided not to do it out sourcing because of they were afraid of uh uh global and and economic changes so they pulled out / <B> wow / <A> and they there was a clause in the contract that stated uh uh uh significant ch something to do with like uh uh some some issue beyond their control so they as a as a fiscal concern they decided to liquidate the um the contract and make sure that in a in doing so liquidated the whole department that d dealt with uh uh bank one which is about three thousand people / <B> wow",
+    "context_start": 11.98,
+    "context_end": 68.76837499999999,
+    "feedback": [
+        {
+            "name": "spontD_364_yeah",
+            "start": 13.93,
+            "end": 14.780375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_186_uh-huh",
+            "start": 17.72,
+            "end": 18.195249999999998,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_547_yeah",
+            "start": 29.75,
+            "end": 30.143625,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_129_wow",
+            "start": 44.31,
+            "end": 45.252375,
+            "token": "wow"
+        },
+        {
+            "name": "PS_101_wow",
+            "start": 67.83,
+            "end": 68.76837499999999,
+            "token": "wow"
+        }
+    ]
+}

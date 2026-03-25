@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01668",
+    "context_channel": 0,
+    "context_text": "<B> i mean i believe that it's iraqi citizens that are going in and doing it { and } / <A> [ mhm ] / <B> yet they're blaming the us { yes } / <A> [ wow ] / <B> we took out who was in power so / <A> yeah / <B> that the museums were not guarded but / <A> yeah",
+    "context_start": 284.13,
+    "context_end": 297.170875,
+    "feedback": [
+        {
+            "name": "spontA_395_mhm",
+            "start": 288.69,
+            "end": 289.304625,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_130_wow",
+            "start": 290.64,
+            "end": 292.054625,
+            "token": "wow"
+        },
+        {
+            "name": "spontA_210_yeah",
+            "start": 293.63,
+            "end": 294.62325,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_008_yeah",
+            "start": 296.44,
+            "end": 297.170875,
+            "token": "yeah"
+        }
+    ]
+}

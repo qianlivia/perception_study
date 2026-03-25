@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02980",
+    "context_channel": 0,
+    "context_text": "<B> i leave the heater on in my office so the dogs don't come in / <A> oh / <B> um i mean i don't mind if it's kept up clean but { they don't } / <A> [ yeah ] / <B> clean up after them too well { there's a lot of } / <A> [ yeah ]",
+    "context_start": 63.45,
+    "context_end": 75.527125,
+    "feedback": [
+        {
+            "name": "spontC_046_oh",
+            "start": 66.68,
+            "end": 67.088125,
+            "token": "oh"
+        },
+        {
+            "name": "spontD_140_yeah",
+            "start": 72.08,
+            "end": 72.62025,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_132_yeah",
+            "start": 74.62,
+            "end": 75.527125,
+            "token": "yeah"
+        }
+    ]
+}

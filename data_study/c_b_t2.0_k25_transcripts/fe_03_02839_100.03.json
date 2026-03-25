@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_02839",
+    "context_channel": 0,
+    "context_text": "<B> who's been a jersey devils fan since he was three / <A> wow / <B> and actually he thinks he is a new jersey devil / <A> oh / <B> and i i really like i played hockey as a kid cause my dad used to build an ice rink in the backyard / <A> uh-huh / <B> and i like that kinda hockey / <A> yeah / <B> and i like watching olympic hockey i just can't wrap my head around pro hockey / <A> yeah",
+    "context_start": 100.03,
+    "context_end": 120.73875,
+    "feedback": [
+        {
+            "name": "PS_095_wow",
+            "start": 102.86,
+            "end": 103.895375,
+            "token": "wow"
+        },
+        {
+            "name": "spontF_207_oh",
+            "start": 106.23,
+            "end": 106.61437500000001,
+            "token": "oh"
+        },
+        {
+            "name": "spontA_196_uh-huh",
+            "start": 112.72,
+            "end": 113.321125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_321_yeah",
+            "start": 115.24,
+            "end": 115.90487499999999,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_062_yeah",
+            "start": 120.19,
+            "end": 120.73875,
+            "token": "yeah"
+        }
+    ]
+}

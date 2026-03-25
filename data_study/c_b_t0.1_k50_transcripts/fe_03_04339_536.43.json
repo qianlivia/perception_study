@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04339",
+    "context_channel": 1,
+    "context_text": "<A> um i had one that was on hair care products { one } / <B> [ uh-huh ] / <A> that was on um skin uh skin cream like sun ca ah sun care / <B> uh-huh / <A> and one um i had one on ah tofu burgers { and } / <B> [ uh-huh ] / <A> one on ah diabetes management which of course you'd have to be a diabetic for that one { but they've } / <B> [ yeah ]",
+    "context_start": 536.43,
+    "context_end": 564.770125,
+    "feedback": [
+        {
+            "name": "spontF_183_uh-huh",
+            "start": 540.46,
+            "end": 541.153625,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_034_uh-huh",
+            "start": 547.26,
+            "end": 547.77725,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_573_uh-huh",
+            "start": 558.74,
+            "end": 559.528625,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_262_yeah",
+            "start": 564.14,
+            "end": 564.770125,
+            "token": "yeah"
+        }
+    ]
+}

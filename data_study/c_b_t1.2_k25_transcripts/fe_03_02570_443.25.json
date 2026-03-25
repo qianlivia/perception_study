@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02570",
+    "context_channel": 0,
+    "context_text": "<B> you know the the terrorist cells throughout you know especially in the middle east / <A> mhm / <B> but you know i think that they the main goal was just to get saddam out of there and establish a new um a new rule you know / <A> uh-huh / <B> with with decent people in there so / <A> mhm / <B> i think i think they'll you know of course they'll have their their terrorists still but / <A> uh-huh",
+    "context_start": 443.25,
+    "context_end": 465.35749999999996,
+    "feedback": [
+        {
+            "name": "spontB_225_mhm",
+            "start": 448.16,
+            "end": 448.700375,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_158_uh-huh",
+            "start": 457.09,
+            "end": 457.612375,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_496_mhm",
+            "start": 459.31,
+            "end": 459.8165,
+            "token": "mhm"
+        },
+        {
+            "name": "spontD_040_uh-huh",
+            "start": 464.9,
+            "end": 465.35749999999996,
+            "token": "uh-huh"
+        }
+    ]
+}

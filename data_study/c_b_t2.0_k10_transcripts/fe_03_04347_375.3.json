@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04347",
+    "context_channel": 1,
+    "context_text": "<A> we { don't } / <B> [ yeah ] / <A> respect them anymore { and we g } / <B> [ wow ] / <A> and we give this we give this white columbus guy a whole day for himself { we got a } / <B> [ yeah ]",
+    "context_start": 375.3,
+    "context_end": 381.66499999999996,
+    "feedback": [
+        {
+            "name": "sun1_023_yeah",
+            "start": 375.3,
+            "end": 375.681875,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_024_wow",
+            "start": 376.78,
+            "end": 378.30724999999995,
+            "token": "wow"
+        },
+        {
+            "name": "spontD_013_yeah",
+            "start": 380.95,
+            "end": 381.66499999999996,
+            "token": "yeah"
+        }
+    ]
+}

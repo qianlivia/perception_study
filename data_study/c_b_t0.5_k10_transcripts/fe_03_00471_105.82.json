@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00471",
+    "context_channel": 0,
+    "context_text": "<B> great it tastes great / <A> yeah / <B> but i mean the you know as far as calories and fat and i'm like oh my / <A> yeah / <B> god you know i'm going to have to take that away from you you can only have that like maybe one day one / <A> yeah",
+    "context_start": 105.82,
+    "context_end": 116.382,
+    "feedback": [
+        {
+            "name": "spontE_331_yeah",
+            "start": 107.09,
+            "end": 107.79075,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_336_yeah",
+            "start": 111.07,
+            "end": 112.07,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_127_yeah",
+            "start": 115.68,
+            "end": 116.382,
+            "token": "yeah"
+        }
+    ]
+}

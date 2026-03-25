@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_01079",
+    "context_channel": 0,
+    "context_text": "<B> i said i try to emphasize my life in one the way i live { and } / <A> [ wow ] / <B> i was their boss / <A> wow / <B> even the minister's boss / <A> wow / <B> and i told him you know i have certain responsibilities on the job / <A> uh-huh / <B> and uh for me being the supervisor um / <A> uh-huh",
+    "context_start": 457.04,
+    "context_end": 472.33925,
+    "feedback": [
+        {
+            "name": "PS_105_wow",
+            "start": 461.31,
+            "end": 461.958,
+            "token": "wow"
+        },
+        {
+            "name": "PS_095_wow",
+            "start": 462.9,
+            "end": 463.93537499999996,
+            "token": "wow"
+        },
+        {
+            "name": "PS_183_wow",
+            "start": 464.46,
+            "end": 465.26525,
+            "token": "wow"
+        },
+        {
+            "name": "spontA_406_uh-huh",
+            "start": 468.81,
+            "end": 469.416375,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_051_uh-huh",
+            "start": 471.78,
+            "end": 472.33925,
+            "token": "uh-huh"
+        }
+    ]
+}

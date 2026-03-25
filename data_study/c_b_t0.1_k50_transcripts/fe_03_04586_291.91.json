@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04586",
+    "context_channel": 1,
+    "context_text": "<A> that's the one about um the guy uh that i it was jack nicholson { and } / <B> [ wow ] / <A> and uh he he had uh obsessive compulsive disorder / <B> oh / <A> and um he fell in love with this woman that was a waitress / <B> uh-huh / <A> but he had all these compulsions and uh so it it made him do things um you know that were like you know offensive to people not really really bad things but just get kind of you know mouthy or things like that { and } / <B> [ yeah ]",
+    "context_start": 291.91,
+    "context_end": 318.284625,
+    "feedback": [
+        {
+            "name": "PS_187_wow",
+            "start": 296.47,
+            "end": 297.4825,
+            "token": "wow"
+        },
+        {
+            "name": "spontF_017_oh",
+            "start": 300.18,
+            "end": 301.00937500000003,
+            "token": "oh"
+        },
+        {
+            "name": "spontC_128_uh-huh",
+            "start": 304.17,
+            "end": 304.670875,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_367_yeah",
+            "start": 317.48,
+            "end": 318.284625,
+            "token": "yeah"
+        }
+    ]
+}

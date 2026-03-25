@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02022",
+    "context_channel": 1,
+    "context_text": "<A> [ well it's not ] something that it affects me somehow some / <B> yeah / <A> way down the line but / <B> yeah / <A> like right around here we had ah jake butcher / <B> yeah / <A> owned a banking system and he got a lot of the people around here when we had the um eighty no ninety two world fair i / <B> uh-huh",
+    "context_start": 549.59,
+    "context_end": 569.93525,
+    "feedback": [
+        {
+            "name": "spontF_547_yeah",
+            "start": 553.48,
+            "end": 553.8736250000001,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_133_yeah",
+            "start": 555.21,
+            "end": 555.842875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_052_yeah",
+            "start": 559.2,
+            "end": 559.797625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_186_uh-huh",
+            "start": 569.46,
+            "end": 569.93525,
+            "token": "uh-huh"
+        }
+    ]
+}

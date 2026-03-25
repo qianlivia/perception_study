@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04520",
+    "context_channel": 0,
+    "context_text": "<B> the school system here and { i } / <A> [ uh-huh ] / <B> thought at the time the school system i think at that time was better / <A> yeah / <B> than it is now / <A> yeah",
+    "context_start": 68.75,
+    "context_end": 79.38925,
+    "feedback": [
+        {
+            "name": "spontA_413_uh-huh",
+            "start": 71.57,
+            "end": 72.07137499999999,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_116_yeah",
+            "start": 77.31,
+            "end": 77.867875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_382_yeah",
+            "start": 78.81,
+            "end": 79.38925,
+            "token": "yeah"
+        }
+    ]
+}

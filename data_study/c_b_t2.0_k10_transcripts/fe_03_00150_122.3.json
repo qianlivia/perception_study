@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00150",
+    "context_channel": 1,
+    "context_text": "<A> yeah i think you're probably right on target again we've got the oil question you know and yeah we have oil we can use in the us but we'd rather not use that so that we have it as a last resort / <B> right / <A> you know and i think you're right that hmm we don't get you know anything from north korea { you } / <B> [ yeah ] / <A> know we don't really get anything from the other countries that might pose a threat like we think india you know { is } / <B> [ uh-huh ] / <A> is testing war heads and everything like we don't really get anything from them { so } / <B> [ oh ]",
+    "context_start": 122.3,
+    "context_end": 153.98825000000002,
+    "feedback": [
+        {
+            "name": "sun1_029_right",
+            "start": 134.24,
+            "end": 134.93200000000002,
+            "token": "right"
+        },
+        {
+            "name": "spontD_397_yeah",
+            "start": 140.45,
+            "end": 140.83137499999998,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_065_uh-huh",
+            "start": 148.56,
+            "end": 149.004375,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontE_043_oh",
+            "start": 153.33,
+            "end": 153.98825000000002,
+            "token": "oh"
+        }
+    ]
+}

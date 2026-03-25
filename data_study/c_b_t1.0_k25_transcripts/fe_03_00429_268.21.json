@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00429",
+    "context_channel": 1,
+    "context_text": "<A> but i don't know right now i stay home with the kids so / <B> yeah / <A> i've like i said the youngest one's ten months so i've got a while until he moves into { school and } / <B> [ yeah ] / <A> everything and and / <B> yeah",
+    "context_start": 268.21,
+    "context_end": 279.537625,
+    "feedback": [
+        {
+            "name": "spontF_240_yeah",
+            "start": 272.42,
+            "end": 272.98987500000004,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_110_yeah",
+            "start": 276.96,
+            "end": 277.89212499999996,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_153_yeah",
+            "start": 278.94,
+            "end": 279.537625,
+            "token": "yeah"
+        }
+    ]
+}

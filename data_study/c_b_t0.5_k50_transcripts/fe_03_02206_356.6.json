@@ -1,0 +1,51 @@
+{
+    "name": "fe_03_02206",
+    "context_channel": 0,
+    "context_text": "<B> you get the cut the ri ri ricotta cheese / <A> okay / <B> you have um mozzarella { you } / <A> [ okay ] / <B> have parmesan and you mix it all together and you put some spices in there like italian seasoning / <A> okay / <B> you season it up and you stuff it into the shells / <A> okay / <B> and then you put it in your pan you put um pasta sauce over that / <A> okay / <B> and you sprinkle some cheese on that so you bake it covered with foil for like forty thirty five minutes / <A> wow / <B> then you uncover it and you sprinkle the rest of the cheese on there and it be good for another ten to fifteen minutes / <A> wow",
+    "context_start": 356.6,
+    "context_end": 401.00175,
+    "feedback": [
+        {
+            "name": "spontC_134_okay",
+            "start": 361.99,
+            "end": 362.797125,
+            "token": "okay"
+        },
+        {
+            "name": "spontB_195_okay",
+            "start": 365.64,
+            "end": 366.3095,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_317_okay",
+            "start": 373.23,
+            "end": 374.082,
+            "token": "okay"
+        },
+        {
+            "name": "spontE_391_okay",
+            "start": 379.76,
+            "end": 380.276875,
+            "token": "okay"
+        },
+        {
+            "name": "spontD_073_okay",
+            "start": 386.47,
+            "end": 387.21112500000004,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_097_wow",
+            "start": 394.36,
+            "end": 394.804125,
+            "token": "wow"
+        },
+        {
+            "name": "PS_031_wow",
+            "start": 400.24,
+            "end": 401.00175,
+            "token": "wow"
+        }
+    ]
+}

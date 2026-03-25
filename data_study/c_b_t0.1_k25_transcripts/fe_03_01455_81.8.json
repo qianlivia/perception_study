@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01455",
+    "context_channel": 0,
+    "context_text": "<B> well actually i've i've had a lot of changes since then um right around that time i was a cab driver in chicago / <A> uh-huh / <B> and um you know when they shut down the airports and everything and everybody was scared to travel / <A> yeah / <B> and i mean it put a big dent in the taxi industry / <A> yeah / <B> and ah you know i did what i could for a while and then one day my cab broke down in front of the chicago board of trade / <A> uh-huh",
+    "context_start": 81.8,
+    "context_end": 107.078625,
+    "feedback": [
+        {
+            "name": "spontA_086_uh-huh",
+            "start": 88.63,
+            "end": 89.140125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_024_yeah",
+            "start": 94.72,
+            "end": 95.140125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_374_yeah",
+            "start": 97.93,
+            "end": 98.73500000000001,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_573_uh-huh",
+            "start": 106.29,
+            "end": 107.078625,
+            "token": "uh-huh"
+        }
+    ]
+}

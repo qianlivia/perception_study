@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00423",
+    "context_channel": 1,
+    "context_text": "<A> who is able to stay home i know that you know grandparents { who } / <B> [ yeah ] / <A> are with children / <B> yeah / <A> often as caretakers / <B> yeah",
+    "context_start": 247.85,
+    "context_end": 257.34775,
+    "feedback": [
+        {
+            "name": "spontA_124_yeah",
+            "start": 252.8,
+            "end": 253.44125000000003,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_405_yeah",
+            "start": 254.57,
+            "end": 255.18625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_276_yeah",
+            "start": 256.88,
+            "end": 257.34775,
+            "token": "yeah"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00930",
+    "context_channel": 1,
+    "context_text": "<A> and then they'd be weakened / <B> yeah / <A> they wouldn't have anybody then they it's almost like world war two / <B> yeah / <A> we got involved when we weren't going to / <B> yeah",
+    "context_start": 342.32,
+    "context_end": 351.05,
+    "feedback": [
+        {
+            "name": "spontC_353_yeah",
+            "start": 343.55,
+            "end": 344.12,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_287_yeah",
+            "start": 347.78,
+            "end": 348.41125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_353_yeah",
+            "start": 350.48,
+            "end": 351.05,
+            "token": "yeah"
+        }
+    ]
+}

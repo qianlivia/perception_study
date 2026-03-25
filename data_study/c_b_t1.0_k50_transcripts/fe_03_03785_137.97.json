@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03785",
+    "context_channel": 1,
+    "context_text": "<A> was i was at a bar and i criticized the movie chorus line and / <B> mhm / <A> the person said that's because you're not in theater or you'd appreciate this { you would } / <B> [ wow ] / <A> appreciate the movie { and i } / <B> [ wow ]",
+    "context_start": 137.97,
+    "context_end": 154.99925,
+    "feedback": [
+        {
+            "name": "spontD_254_mhm",
+            "start": 145.78,
+            "end": 146.295,
+            "token": "mhm"
+        },
+        {
+            "name": "NegS_044_wow",
+            "start": 152.12,
+            "end": 153.227,
+            "token": "wow"
+        },
+        {
+            "name": "PS_083_wow",
+            "start": 154.1,
+            "end": 154.99925,
+            "token": "wow"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_01866",
+    "context_channel": 1,
+    "context_text": "<A> something happened to them and i just think family's important blood distance / <B> yeah / <A> or just friends / <B> yeah / <A> and you have to treasure them 'cause you never know what's gonna happen to them you know i { mean i lost } / <B> [ wow ]",
+    "context_start": 335.09,
+    "context_end": 348.827,
+    "feedback": [
+        {
+            "name": "spontB_157_yeah",
+            "start": 341.46,
+            "end": 342.131875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_117_yeah",
+            "start": 343.53,
+            "end": 344.169,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_082_wow",
+            "start": 347.7,
+            "end": 348.827,
+            "token": "wow"
+        }
+    ]
+}

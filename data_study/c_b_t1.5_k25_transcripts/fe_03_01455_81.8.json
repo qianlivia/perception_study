@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01455",
+    "context_channel": 0,
+    "context_text": "<B> well actually i've i've had a lot of changes since then um right around that time i was a cab driver in chicago / <A> wow / <B> and um you know when they shut down the airports and everything and everybody was scared to travel / <A> yeah / <B> and i mean it put a big dent in the taxi industry / <A> yeah / <B> and ah you know i did what i could for a while and then one day my cab broke down in front of the chicago board of trade / <A> oh",
+    "context_start": 81.8,
+    "context_end": 106.934875,
+    "feedback": [
+        {
+            "name": "PS_085_wow",
+            "start": 88.63,
+            "end": 89.499,
+            "token": "wow"
+        },
+        {
+            "name": "spontD_024_yeah",
+            "start": 94.72,
+            "end": 95.140125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_076_yeah",
+            "start": 97.93,
+            "end": 98.617625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_248_oh",
+            "start": 106.29,
+            "end": 106.934875,
+            "token": "oh"
+        }
+    ]
+}

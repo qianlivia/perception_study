@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02017",
+    "context_channel": 0,
+    "context_text": "<B> we're we're hired by the corporate companies / <A> uh-huh / <B> and we go and like tomorrow i do an interview with um one of the managers at an apartment complex / <A> okay / <B> and she doesn't know i'm doing that / <A> oh",
+    "context_start": 541.89,
+    "context_end": 557.939375,
+    "feedback": [
+        {
+            "name": "spontC_386_uh-huh",
+            "start": 545.25,
+            "end": 545.7965,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontB_195_okay",
+            "start": 554.45,
+            "end": 555.1195,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_017_oh",
+            "start": 557.11,
+            "end": 557.939375,
+            "token": "oh"
+        }
+    ]
+}

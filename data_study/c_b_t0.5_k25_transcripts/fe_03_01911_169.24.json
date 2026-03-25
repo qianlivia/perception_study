@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_01911",
+    "context_channel": 1,
+    "context_text": "<A> um my my uh excuse me my mother recently got married a few years ago / <B> uh-huh / <A> and uh my grandparents are getting older / <B> uh-huh / <A> and uh i guess they want to be together so / <B> yeah",
+    "context_start": 169.24,
+    "context_end": 184.25,
+    "feedback": [
+        {
+            "name": "spontE_058_uh-huh",
+            "start": 175.84,
+            "end": 176.306875,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_037_uh-huh",
+            "start": 179.31,
+            "end": 179.898875,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_140_yeah",
+            "start": 183.44,
+            "end": 184.25,
+            "token": "yeah"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03546",
+    "context_channel": 1,
+    "context_text": "<A> especially for new york it's like you know we're right outside of the city it's about a half hour commute { so it's } / <B> [ oh ] / <A> kinda like you're in a suburban area / <B> okay / <A> but you can get into the you know that's where most people do work is in the city / <B> yeah / <A> and i just can't imagine it it's everything here like just constantly constantly goes up including / <B> yeah",
+    "context_start": 120.45,
+    "context_end": 141.89125,
+    "feedback": [
+        {
+            "name": "spontE_043_oh",
+            "start": 126.82,
+            "end": 127.47824999999999,
+            "token": "oh"
+        },
+        {
+            "name": "spontE_071_okay",
+            "start": 129.39,
+            "end": 130.04399999999998,
+            "token": "okay"
+        },
+        {
+            "name": "spontC_352_yeah",
+            "start": 133.54,
+            "end": 134.239125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_194_yeah",
+            "start": 141.15,
+            "end": 141.89125,
+            "token": "yeah"
+        }
+    ]
+}

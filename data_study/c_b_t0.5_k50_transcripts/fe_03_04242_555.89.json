@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04242",
+    "context_channel": 1,
+    "context_text": "<A> well i know her i i met her she's from nor um norway i was going to say she's { norwegian } / <B> [ wow ] / <A> and um i work with her so { we } / <B> [ uh-huh ] / <A> were talking one time and i was saying something about spanish and i loved to learn languages and stuff and she goes oh i have this book and i have this video so now i have the tape { the } / <B> [ okay ] / <A> tape learn how to speak the like the first thousand words / <B> uh-huh",
+    "context_start": 555.89,
+    "context_end": 576.919125,
+    "feedback": [
+        {
+            "name": "PS_067_wow",
+            "start": 560.37,
+            "end": 561.434625,
+            "token": "wow"
+        },
+        {
+            "name": "spontC_013_uh-huh",
+            "start": 563.78,
+            "end": 564.274875,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_089_okay",
+            "start": 572.9,
+            "end": 573.705125,
+            "token": "okay"
+        },
+        {
+            "name": "spontC_132_uh-huh",
+            "start": 576.32,
+            "end": 576.919125,
+            "token": "uh-huh"
+        }
+    ]
+}

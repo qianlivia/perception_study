@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01807",
+    "context_channel": 0,
+    "context_text": "<B> he's in a public school / <A> okay / <B> um but i have you know visited some other private schools for various reasons and / <A> uh-huh / <B> you know i'm surprised that they're even on a different level and i think { that } / <A> [ yeah ] / <B> you know some of the children need to play catch up um / <A> yeah",
+    "context_start": 98.23,
+    "context_end": 116.004625,
+    "feedback": [
+        {
+            "name": "spontD_073_okay",
+            "start": 99.92,
+            "end": 100.661125,
+            "token": "okay"
+        },
+        {
+            "name": "spontA_315_uh-huh",
+            "start": 106.84,
+            "end": 107.3565,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_146_yeah",
+            "start": 111.68,
+            "end": 112.37825000000001,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_382_yeah",
+            "start": 115.43,
+            "end": 116.004625,
+            "token": "yeah"
+        }
+    ]
+}

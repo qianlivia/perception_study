@@ -1,0 +1,45 @@
+{
+    "name": "fe_03_01761",
+    "context_channel": 1,
+    "context_text": "<A> now and i can understand why other countries will be really you know annoyed / <B> yeah / <A> at at that fact and / <B> yeah / <A> i am a little annoyed at that fact myself / <B> uh-huh / <A> i mean you know i look at other countries and i think okay would i would i live would i want to be a resident of any other country um and you know nowadays it's a it's little bit harder to to say / <B> yeah / <A> as you know years ago you know i'm a democrat so / <B> okay / <A> you know whe when clinton was in office i was like hey yeah you know / <B> yeah",
+    "context_start": 109.2,
+    "context_end": 136.312625,
+    "feedback": [
+        {
+            "name": "spontD_142_yeah",
+            "start": 112.41,
+            "end": 112.88725,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_150_yeah",
+            "start": 113.87,
+            "end": 114.277125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_337_uh-huh",
+            "start": 116.01,
+            "end": 116.52000000000001,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_125_yeah",
+            "start": 129.18,
+            "end": 129.91325,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_073_okay",
+            "start": 132.3,
+            "end": 133.04112500000002,
+            "token": "okay"
+        },
+        {
+            "name": "spontC_117_yeah",
+            "start": 135.62,
+            "end": 136.312625,
+            "token": "yeah"
+        }
+    ]
+}

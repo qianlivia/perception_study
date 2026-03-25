@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_04198",
+    "context_channel": 1,
+    "context_text": "<A> i my plan actually is to i've been looking into a certain building here in town and / <B> mhm / <A> um if i get it i think i'm gonna buy it straight out / <B> uh-huh / <A> it would be better i i find it would be better instead of going through a loan company / <B> mhm / <A> buy it straight out and set it up the way i want it / <B> yeah / <A> and get it completely um what's the word i'm looking for um get it completely done the way i want it / <B> yeah",
+    "context_start": 154.13,
+    "context_end": 185.80475,
+    "feedback": [
+        {
+            "name": "spontF_513_mhm",
+            "start": 161.78,
+            "end": 162.2885,
+            "token": "mhm"
+        },
+        {
+            "name": "spontD_106_uh-huh",
+            "start": 165.34,
+            "end": 165.7775,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_115_mhm",
+            "start": 170.29,
+            "end": 170.779875,
+            "token": "mhm"
+        },
+        {
+            "name": "spontD_397_yeah",
+            "start": 174.72,
+            "end": 175.101375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_062_yeah",
+            "start": 185.08,
+            "end": 185.80475,
+            "token": "yeah"
+        }
+    ]
+}

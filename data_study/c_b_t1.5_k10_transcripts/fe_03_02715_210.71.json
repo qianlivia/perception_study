@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02715",
+    "context_channel": 1,
+    "context_text": "<A> i think a tank would be a little more difficult because um in order for you to come into or um transport there are certain documents that have to be taken and especially / <B> mhm / <A> in anything that has a gas or a liquid tank uh capability / <B> uh-huh / <A> um they do take samples / <B> okay / <A> yeah periodically you know especially now i would think they would be doing it i'm not sure but i do know that for a while i was involved in the trucking industry / <B> okay",
+    "context_start": 210.71,
+    "context_end": 239.4495,
+    "feedback": [
+        {
+            "name": "spontA_330_mhm",
+            "start": 220.76,
+            "end": 221.43824999999998,
+            "token": "mhm"
+        },
+        {
+            "name": "spontD_199_uh-huh",
+            "start": 226.9,
+            "end": 227.4075,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_089_okay",
+            "start": 229.88,
+            "end": 230.685125,
+            "token": "okay"
+        },
+        {
+            "name": "spontB_195_okay",
+            "start": 238.78,
+            "end": 239.4495,
+            "token": "okay"
+        }
+    ]
+}

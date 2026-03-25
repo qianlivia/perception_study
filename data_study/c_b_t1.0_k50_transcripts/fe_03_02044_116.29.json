@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02044",
+    "context_channel": 0,
+    "context_text": "<B> oh no well my warm activities um i like to bike a lot we've been / <A> uh-huh / <B> they just put in bike trails not you know not too far from us so we've been you know looking forward to doing that and that's nice { in the } / <A> [ uh-huh ] / <B> fall / <A> yeah / <B> and um we just bought a house so we have a ton of yard work and / <A> yeah",
+    "context_start": 116.29,
+    "context_end": 132.34550000000002,
+    "feedback": [
+        {
+            "name": "spontC_370_uh-huh",
+            "start": 120.36,
+            "end": 120.846625,
+            "token": "uh-huh"
+        },
+        {
+            "name": "sun1_036_uh-huh",
+            "start": 125.84,
+            "end": 126.82175000000001,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_340_yeah",
+            "start": 127.25,
+            "end": 127.6725,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_020_yeah",
+            "start": 131.83,
+            "end": 132.34550000000002,
+            "token": "yeah"
+        }
+    ]
+}

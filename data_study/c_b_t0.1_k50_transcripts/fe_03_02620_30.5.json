@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02620",
+    "context_channel": 1,
+    "context_text": "<A> um i guess my uh my personal opinion is i'm i'm for the war / <B> okay / <A> um i guess we went in for reasons of you know liberating their people / <B> mhm / <A> and so i guess um as far as disarming them i guess we should make sure that they don't have any nuclear weapons but / <B> yeah / <A> you know they they have to be left with weapons to defend themselves against somebody else / <B> yeah",
+    "context_start": 30.5,
+    "context_end": 59.65775,
+    "feedback": [
+        {
+            "name": "spontC_286_okay",
+            "start": 35.72,
+            "end": 36.372,
+            "token": "okay"
+        },
+        {
+            "name": "spontA_120_mhm",
+            "start": 42.02,
+            "end": 42.474875000000004,
+            "token": "mhm"
+        },
+        {
+            "name": "spontB_345_yeah",
+            "start": 51.52,
+            "end": 51.957,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_331_yeah",
+            "start": 59.04,
+            "end": 59.65775,
+            "token": "yeah"
+        }
+    ]
+}

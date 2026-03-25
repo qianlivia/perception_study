@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_05075",
+    "context_channel": 1,
+    "context_text": "<A> just a minute joe so uh yeah i guess we're supposed to talk about uh they like to talk about nine eleven / <B> yeah / <A> indirectly of course on this / <B> uh-huh / <A> thing / <B> oh / <A> because it just seems like uh this is like the third this is the third time of doing it and uh each time they think they uh they're talking about uh uh some kind of terrorist events / <B> oh",
+    "context_start": 5.03,
+    "context_end": 30.599500000000003,
+    "feedback": [
+        {
+            "name": "PR_062_yeah",
+            "start": 13.27,
+            "end": 13.78225,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_470_uh-huh",
+            "start": 15.22,
+            "end": 15.744125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontE_15_oh",
+            "start": 16.8,
+            "end": 17.143250000000002,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_109_oh",
+            "start": 30.26,
+            "end": 30.599500000000003,
+            "token": "oh"
+        }
+    ]
+}
