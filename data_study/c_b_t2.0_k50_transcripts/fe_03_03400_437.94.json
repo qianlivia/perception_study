@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03400",
     "context_channel": 0,
-    "context_text": "<B> oh i think it's about uh seven forty two so uh it's about uh i think that that there is uh two minutes left / <A> okay / <B> mhm um maybe we have to talk about ten minutes right { but } / <A> [ okay ] / <B> maybe we can talk about um um divorce / <A> okay / <B> maybe we can talk about whether we we have whether { we } / <A> [ okay ]",
+    "context_text": "<B> oh i think it's about uh seven forty two so uh it's about uh i think that that there is uh two minutes left / <A> okay / <B> mhm um maybe we have to talk about ten minutes right { but } / <A> [ okay ] / <B> maybe we can talk about um um divorce / <A> okay / <B> maybe we can talk about whether we we have whether { we } / <A> [ uh-huh ]",
     "context_start": 437.94,
-    "context_end": 465.672875,
+    "context_end": 465.208875,
     "feedback": [
         {
             "name": "spontE_405_okay",
@@ -18,16 +18,16 @@
             "token": "okay"
         },
         {
-            "name": "spontF_643_okay",
+            "name": "spontF_234_okay",
             "start": 458.4,
-            "end": 459.108,
+            "end": 459.027875,
             "token": "okay"
         },
         {
-            "name": "sun1_017_okay",
+            "name": "spontA_201_uh-huh",
             "start": 464.76,
-            "end": 465.672875,
-            "token": "okay"
+            "end": 465.208875,
+            "token": "uh-huh"
         }
     ]
 }

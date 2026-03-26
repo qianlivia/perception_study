@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04446",
     "context_channel": 0,
-    "context_text": "<B> i went to a um private school and then when i transferred i transferred to the public high school for my uh sen junior and senior year and / <A> oh / <B> when i uh graduate when i transferred from my private school i was ahead of everybody i was ahead of the graduating seniors when i entered the public school / <A> wow / <B> uh the private school that i attended had a much um quicker pace of learning and { a } / <A> [ oh ] / <B> much um strin more stringent uh curriculum we had uh what would be a harder curriculum than public school in our area / <A> wow / <B> and uh when i attended the public school i actually my eleventh i technically graduated uh the day that i entered the public school cause i had all of my credits to pass the public high school / <A> wow",
+    "context_text": "<B> i went to a um private school and then when i transferred i transferred to the public high school for my uh sen junior and senior year and / <A> oh / <B> when i uh graduate when i transferred from my private school i was ahead of everybody i was ahead of the graduating seniors when i entered the public school / <A> wow / <B> uh the private school that i attended had a much um quicker pace of learning and { a } / <A> [ uh-huh ] / <B> much um strin more stringent uh curriculum we had uh what would be a harder curriculum than public school in our area / <A> wow / <B> and uh when i attended the public school i actually my eleventh i technically graduated uh the day that i entered the public school cause i had all of my credits to pass the public high school / <A> wow",
     "context_start": 117.82,
-    "context_end": 166.3475,
+    "context_end": 166.3295,
     "feedback": [
         {
             "name": "spontF_109_oh",
@@ -18,10 +18,10 @@
             "token": "wow"
         },
         {
-            "name": "NS_025_oh",
+            "name": "sun1_036_uh-huh",
             "start": 143.99,
-            "end": 144.97037500000002,
-            "token": "oh"
+            "end": 144.97175000000001,
+            "token": "uh-huh"
         },
         {
             "name": "PS_023_wow",
@@ -30,9 +30,9 @@
             "token": "wow"
         },
         {
-            "name": "PS_110_wow",
+            "name": "PS_020_wow",
             "start": 165.32,
-            "end": 166.3475,
+            "end": 166.3295,
             "token": "wow"
         }
     ]

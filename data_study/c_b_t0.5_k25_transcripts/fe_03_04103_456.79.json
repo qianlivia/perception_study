@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04103",
     "context_channel": 1,
-    "context_text": "<A> yeah well i think that's wonderful i think that's terrific now uh the reason that that i would like to have a music school / <B> uh-huh / <A> of is becau cause i know there are a lot of talented people / <B> uh-huh / <A> that have a very hard time with studies it's very expensive here you need a a teacher a voice teacher and you need somebody well to to help you with languages { and you need } / <B> [ wow ] / <A> uh somebody to teach us your repertoire { you } / <B> [ wow ]",
+    "context_text": "<A> yeah well i think that's wonderful i think that's terrific now uh the reason that that i would like to have a music school / <B> uh-huh / <A> of is becau cause i know there are a lot of talented people / <B> uh-huh / <A> that have a very hard time with studies it's very expensive here you need a a teacher a voice teacher and you need somebody well to to help you with languages { and you need } / <B> [ wow ] / <A> uh somebody to teach us your repertoire { you } / <B> [ uh-huh ]",
     "context_start": 456.79,
-    "context_end": 489.93262500000003,
+    "context_end": 489.613625,
     "feedback": [
         {
             "name": "spontE_236_uh-huh",
@@ -24,10 +24,10 @@
             "token": "wow"
         },
         {
-            "name": "PS_037_wow",
+            "name": "spontF_183_uh-huh",
             "start": 488.92,
-            "end": 489.93262500000003,
-            "token": "wow"
+            "end": 489.613625,
+            "token": "uh-huh"
         }
     ]
 }

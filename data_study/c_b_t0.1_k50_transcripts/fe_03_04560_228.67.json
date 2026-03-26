@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04560",
     "context_channel": 1,
-    "context_text": "<A> i mean i are you um cough can i ask your race are you a white man i i'm assuming you're a white male / <B> yeah / <A> okay i i'm i'm asian / <B> okay / <A> and i am vehemently opposed to affirmative action primarily in academia but i guess we're talking about business um i'm i'm in working for about uh four years now / <B> uh-huh / <A> and um and in in in my workplace i don't there there is no um explicit affirmative action program per se / <B> uh-huh",
+    "context_text": "<A> i mean i are you um cough can i ask your race are you a white man i i'm assuming you're a white male / <B> yeah / <A> okay i i'm i'm asian / <B> okay / <A> and i am vehemently opposed to affirmative action primarily in academia but i guess we're talking about business um i'm i'm in working for about uh four years now / <B> okay / <A> and um and in in in my workplace i don't there there is no um explicit affirmative action program per se / <B> yeah",
     "context_start": 228.67,
-    "context_end": 275.990875,
+    "context_end": 276.070375,
     "feedback": [
         {
             "name": "spontD_142_yeah",
@@ -18,16 +18,16 @@
             "token": "okay"
         },
         {
-            "name": "spontA_243_uh-huh",
+            "name": "spontA_257_okay",
             "start": 261.24,
-            "end": 261.78000000000003,
-            "token": "uh-huh"
+            "end": 261.8685,
+            "token": "okay"
         },
         {
-            "name": "spontC_128_uh-huh",
+            "name": "spontD_231_yeah",
             "start": 275.49,
-            "end": 275.990875,
-            "token": "uh-huh"
+            "end": 276.070375,
+            "token": "yeah"
         }
     ]
 }

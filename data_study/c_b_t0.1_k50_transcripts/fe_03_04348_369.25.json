@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04348",
     "context_channel": 1,
-    "context_text": "<A> and i have done it before i come from up north / <B> okay / <A> so i have done it before / <B> uh-huh / <A> and um i when i moved here the schools weren't as good { and it was } / <B> [ wow ]",
+    "context_text": "<A> and i have done it before i come from up north / <B> okay / <A> so i have done it before / <B> yeah / <A> and um i when i moved here the schools weren't as good { and it was } / <B> [ wow ]",
     "context_start": 369.25,
-    "context_end": 382.722375,
+    "context_end": 382.80749999999995,
     "feedback": [
         {
             "name": "spontB_019_okay",
@@ -12,15 +12,15 @@
             "token": "okay"
         },
         {
-            "name": "spontA_240_uh-huh",
+            "name": "spontD_250_yeah",
             "start": 375.49,
-            "end": 376.0065,
-            "token": "uh-huh"
+            "end": 375.90587500000004,
+            "token": "yeah"
         },
         {
-            "name": "PS_129_wow",
+            "name": "PS_110_wow",
             "start": 381.78,
-            "end": 382.722375,
+            "end": 382.80749999999995,
             "token": "wow"
         }
     ]

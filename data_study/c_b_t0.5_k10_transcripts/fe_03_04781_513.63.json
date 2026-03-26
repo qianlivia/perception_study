@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04781",
     "context_channel": 0,
-    "context_text": "<B> actually i five years ago i worked in a law office / <A> uh-huh / <B> and one of the girls her desk was in like the library in { the } / <A> [ uh-huh ] / <B> law office and she was allowed to smoke at her desk / <A> really / <B> none of the other girls could { 'cause } / <A> [ oh ] / <B> we were out more in the open / <A> okay / <B> but you would open up her door you know to go in there and it was like whoa you know how many cigarettes did you just smoke { you know it was } / <A> [ yeah ]",
+    "context_text": "<B> actually i five years ago i worked in a law office / <A> uh-huh / <B> and one of the girls her desk was in like the library in { the } / <A> [ uh-huh ] / <B> law office and she was allowed to smoke at her desk / <A> oh / <B> none of the other girls could { 'cause } / <A> [ uh-huh ] / <B> we were out more in the open / <A> yeah / <B> but you would open up her door you know to go in there and it was like whoa you know how many cigarettes did you just smoke { you know it was } / <A> [ yeah ]",
     "context_start": 513.63,
-    "context_end": 538.73225,
+    "context_end": 538.601875,
     "feedback": [
         {
             "name": "spontD_020_uh-huh",
@@ -12,33 +12,33 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontD_020_uh-huh",
+            "name": "spontA_051_uh-huh",
             "start": 523.21,
-            "end": 523.7146250000001,
+            "end": 523.76925,
             "token": "uh-huh"
         },
         {
-            "name": "PS_019_really",
+            "name": "spontF_207_oh",
             "start": 526.82,
-            "end": 527.6095,
-            "token": "really"
-        },
-        {
-            "name": "spontE_048_oh",
-            "start": 528.76,
-            "end": 529.505125,
+            "end": 527.204375,
             "token": "oh"
         },
         {
-            "name": "spontC_134_okay",
-            "start": 530.58,
-            "end": 531.3871250000001,
-            "token": "okay"
+            "name": "spontA_086_uh-huh",
+            "start": 528.76,
+            "end": 529.270125,
+            "token": "uh-huh"
         },
         {
-            "name": "spontB_064_yeah",
+            "name": "spontC_352_yeah",
+            "start": 530.58,
+            "end": 531.279125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_235_yeah",
             "start": 537.66,
-            "end": 538.73225,
+            "end": 538.601875,
             "token": "yeah"
         }
     ]

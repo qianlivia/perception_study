@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03380",
     "context_channel": 1,
-    "context_text": "<A> another year and then we we lived together we lived together actually before we we it was about six months before the divorce finally went through { we were } / <B> [ wow ] / <A> living together and um you know he was like i wanna marry you right now you know i'm tired of this let's get this done and / <B> uh-huh / <A> um i finally got the divorce and it it actually came on my birthday { it was } / <B> [ yeah ] / <A> final on my birthday it was great that's the best birthday present in the world { you } / <B> [ yeah ]",
+    "context_text": "<A> another year and then we we lived together we lived together actually before we we it was about six months before the divorce finally went through { we were } / <B> [ wow ] / <A> living together and um you know he was like i wanna marry you right now you know i'm tired of this let's get this done and / <B> uh-huh / <A> um i finally got the divorce and it it actually came on my birthday { it was } / <B> [ oh ] / <A> final on my birthday it was great that's the best birthday present in the world { you } / <B> [ yeah ]",
     "context_start": 460.71,
-    "context_end": 485.67262500000004,
+    "context_end": 485.634875,
     "feedback": [
         {
             "name": "PS_110_wow",
@@ -18,15 +18,15 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontF_324_yeah",
+            "name": "sun1_010_oh",
             "start": 481.17,
-            "end": 482.032375,
-            "token": "yeah"
+            "end": 481.90675,
+            "token": "oh"
         },
         {
-            "name": "spontC_117_yeah",
+            "name": "spontF_432_yeah",
             "start": 484.98,
-            "end": 485.67262500000004,
+            "end": 485.634875,
             "token": "yeah"
         }
     ]

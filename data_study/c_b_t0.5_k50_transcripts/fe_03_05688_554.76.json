@@ -1,9 +1,9 @@
 {
     "name": "fe_03_05688",
     "context_channel": 1,
-    "context_text": "<A> if you look at the uh if you look at the cabinet if you look at the uh bush's government / <B> uh-huh / <A> ah most of those guys are oil barons / <B> uh-huh / <A> they're all oil barons { so } / <B> [ yeah ] / <A> it's you know and it seems like kind of a kind of something a little sketchy going on there / <B> yeah / <A> could be a little shystey / <B> yeah",
+    "context_text": "<A> if you look at the uh if you look at the cabinet if you look at the uh bush's government / <B> uh-huh / <A> ah most of those guys are oil barons / <B> uh-huh / <A> they're all oil barons { so } / <B> [ wow ] / <A> it's you know and it seems like kind of a kind of something a little sketchy going on there / <B> yeah / <A> could be a little shystey / <B> yeah",
     "context_start": 554.76,
-    "context_end": 573.970875,
+    "context_end": 574.13325,
     "feedback": [
         {
             "name": "spontA_060_uh-huh",
@@ -18,21 +18,21 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontD_395_yeah",
+            "name": "PS_187_wow",
             "start": 565.35,
-            "end": 566.1956250000001,
-            "token": "yeah"
+            "end": 566.3625000000001,
+            "token": "wow"
         },
         {
-            "name": "spontF_029_yeah",
+            "name": "spontF_295_yeah",
             "start": 571.63,
-            "end": 572.20525,
+            "end": 572.148375,
             "token": "yeah"
         },
         {
-            "name": "spontF_238_yeah",
+            "name": "spontE_026_yeah",
             "start": 573.38,
-            "end": 573.970875,
+            "end": 574.13325,
             "token": "yeah"
         }
     ]

@@ -1,9 +1,9 @@
 {
     "name": "fe_03_02980",
     "context_channel": 0,
-    "context_text": "<B> i leave the heater on in my office so the dogs don't come in / <A> oh / <B> um i mean i don't mind if it's kept up clean but { they don't } / <A> [ okay ] / <B> clean up after them too well { there's a lot of } / <A> [ okay ]",
+    "context_text": "<B> i leave the heater on in my office so the dogs don't come in / <A> oh / <B> um i mean i don't mind if it's kept up clean but { they don't } / <A> [ okay ] / <B> clean up after them too well { there's a lot of } / <A> [ wow ]",
     "context_start": 63.45,
-    "context_end": 75.532875,
+    "context_end": 75.63250000000001,
     "feedback": [
         {
             "name": "spontC_046_oh",
@@ -18,10 +18,10 @@
             "token": "okay"
         },
         {
-            "name": "sun1_017_okay",
+            "name": "PS_187_wow",
             "start": 74.62,
-            "end": 75.532875,
-            "token": "okay"
+            "end": 75.63250000000001,
+            "token": "wow"
         }
     ]
 }

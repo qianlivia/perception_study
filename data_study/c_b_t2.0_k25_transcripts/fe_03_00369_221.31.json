@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00369",
     "context_channel": 0,
-    "context_text": "<B> [ um for ] soccer here we have the milwaukee wave and i read up on that / <A> okay / <B> um that's about it { like } / <A> [ okay ] / <B> i don't really like grab the sports section of the / <A> okay / <B> newspaper / <A> okay",
+    "context_text": "<B> [ um for ] soccer here we have the milwaukee wave and i read up on that / <A> okay / <B> um that's about it { like } / <A> [ okay ] / <B> i don't really like grab the sports section of the / <A> yeah / <B> newspaper / <A> yeah",
     "context_start": 221.31,
-    "context_end": 236.219625,
+    "context_end": 236.12925,
     "feedback": [
         {
             "name": "spontF_053_okay",
@@ -12,22 +12,22 @@
             "token": "okay"
         },
         {
-            "name": "spontE_158_okay",
+            "name": "spontD_383_okay",
             "start": 229.83,
-            "end": 230.449,
+            "end": 230.50137500000002,
             "token": "okay"
         },
         {
-            "name": "spontD_089_okay",
+            "name": "spontC_127_yeah",
             "start": 233.68,
-            "end": 234.485125,
-            "token": "okay"
+            "end": 234.257875,
+            "token": "yeah"
         },
         {
-            "name": "spontA_198_okay",
+            "name": "spontC_382_yeah",
             "start": 235.55,
-            "end": 236.219625,
-            "token": "okay"
+            "end": 236.12925,
+            "token": "yeah"
         }
     ]
 }

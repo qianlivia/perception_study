@@ -1,7 +1,7 @@
 {
     "name": "fe_03_05799",
     "context_channel": 0,
-    "context_text": "<B> yeah you know um i was talking to ah someone ah ah yesterday that was from california / <A> okay / <B> so it's kind of neat you know you / <A> yeah / <B> you meet up with all your different states ah my sister was just talking to ah a woman from georgia / <A> uh-huh / <B> so it's kind of neat / <A> yeah",
+    "context_text": "<B> yeah you know um i was talking to ah someone ah ah yesterday that was from california / <A> okay / <B> so it's kind of neat you know you / <A> yeah / <B> you meet up with all your different states ah my sister was just talking to ah a woman from georgia / <A> oh / <B> so it's kind of neat / <A> yeah",
     "context_start": 305.0,
     "context_end": 327.905375,
     "feedback": [
@@ -18,10 +18,10 @@
             "token": "yeah"
         },
         {
-            "name": "spontC_171_uh-huh",
+            "name": "spontD_114_oh",
             "start": 323.26,
-            "end": 323.82225,
-            "token": "uh-huh"
+            "end": 323.8865,
+            "token": "oh"
         },
         {
             "name": "spontB_309_yeah",

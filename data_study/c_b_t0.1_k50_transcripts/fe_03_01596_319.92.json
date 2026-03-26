@@ -1,9 +1,9 @@
 {
     "name": "fe_03_01596",
     "context_channel": 1,
-    "context_text": "<A> right well for a while when i was flying i um w would get targeted because i um bought a one-way ticket / <B> uh-huh / <A> at the last minute { and i } / <B> [ uh-huh ] / <A> think that's that's something that they look out for and what else did i do there was one other thing that i did and someone said oh that's probably why { they } / <B> [ okay ] / <A> called you out / <B> okay / <A> and i've seen them call out all different types of people here on the east coast / <B> okay / <A> older people much older people um pregnant women / <B> wow",
+    "context_text": "<A> right well for a while when i was flying i um w would get targeted because i um bought a one-way ticket / <B> uh-huh / <A> at the last minute { and i } / <B> [ uh-huh ] / <A> think that's that's something that they look out for and what else did i do there was one other thing that i did and someone said oh that's probably why { they } / <B> [ yeah ] / <A> called you out / <B> yeah / <A> and i've seen them call out all different types of people here on the east coast / <B> yeah / <A> older people much older people um pregnant women / <B> uh-huh",
     "context_start": 319.92,
-    "context_end": 353.59862499999997,
+    "context_end": 353.020625,
     "feedback": [
         {
             "name": "spontA_093_uh-huh",
@@ -18,28 +18,28 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontC_020_okay",
+            "name": "spontF_086_yeah",
             "start": 339.9,
-            "end": 340.375,
-            "token": "okay"
+            "end": 340.61699999999996,
+            "token": "yeah"
         },
         {
-            "name": "spontF_074_okay",
+            "name": "spontD_250_yeah",
             "start": 341.56,
-            "end": 342.204125,
-            "token": "okay"
+            "end": 341.97587500000003,
+            "token": "yeah"
         },
         {
-            "name": "spontC_401_okay",
+            "name": "spontB_143_yeah",
             "start": 347.42,
-            "end": 347.94937500000003,
-            "token": "okay"
+            "end": 348.09612500000003,
+            "token": "yeah"
         },
         {
-            "name": "PS_113_wow",
+            "name": "spontD_047_uh-huh",
             "start": 352.57,
-            "end": 353.59862499999997,
-            "token": "wow"
+            "end": 353.020625,
+            "token": "uh-huh"
         }
     ]
 }

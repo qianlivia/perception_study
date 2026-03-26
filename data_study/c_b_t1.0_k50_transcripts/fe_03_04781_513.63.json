@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04781",
     "context_channel": 0,
-    "context_text": "<B> actually i five years ago i worked in a law office / <A> uh-huh / <B> and one of the girls her desk was in like the library in { the } / <A> [ uh-huh ] / <B> law office and she was allowed to smoke at her desk / <A> oh / <B> none of the other girls could { 'cause } / <A> [ uh-huh ] / <B> we were out more in the open / <A> uh-huh / <B> but you would open up her door you know to go in there and it was like whoa you know how many cigarettes did you just smoke { you know it was } / <A> [ wow ]",
+    "context_text": "<B> actually i five years ago i worked in a law office / <A> uh-huh / <B> and one of the girls her desk was in like the library in { the } / <A> [ uh-huh ] / <B> law office and she was allowed to smoke at her desk / <A> uh-huh / <B> none of the other girls could { 'cause } / <A> [ wow ] / <B> we were out more in the open / <A> yeah / <B> but you would open up her door you know to go in there and it was like whoa you know how many cigarettes did you just smoke { you know it was } / <A> [ yeah ]",
     "context_start": 513.63,
-    "context_end": 539.4549999999999,
+    "context_end": 538.522375,
     "feedback": [
         {
             "name": "spontB_348_uh-huh",
@@ -18,28 +18,28 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontF_320_oh",
+            "name": "spontB_129_uh-huh",
             "start": 526.82,
-            "end": 527.522375,
-            "token": "oh"
+            "end": 527.3033750000001,
+            "token": "uh-huh"
         },
         {
-            "name": "spontA_290_uh-huh",
+            "name": "PS_084_wow",
             "start": 528.76,
-            "end": 529.2597499999999,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontD_334_uh-huh",
-            "start": 530.58,
-            "end": 531.10375,
-            "token": "uh-huh"
-        },
-        {
-            "name": "PS_155_wow",
-            "start": 537.66,
-            "end": 539.4549999999999,
+            "end": 529.7848749999999,
             "token": "wow"
+        },
+        {
+            "name": "spontA_374_yeah",
+            "start": 530.58,
+            "end": 531.385,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_324_yeah",
+            "start": 537.66,
+            "end": 538.522375,
+            "token": "yeah"
         }
     ]
 }

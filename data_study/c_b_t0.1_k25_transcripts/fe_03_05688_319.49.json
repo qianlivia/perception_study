@@ -1,9 +1,9 @@
 {
     "name": "fe_03_05688",
     "context_channel": 1,
-    "context_text": "<A> the most horrifying thing i've ever witnessed with my own two eyes in my life / <B> wow / <A> probably ever will / <B> wow / <A> um but you know i think that that uh when events like that happen and getting back to the topic of foreign relations / <B> okay / <A> ah it turns into a free for all i mean / <B> yeah / <A> ah if you can see what happened after september eleventh uh immediately uh the united states really went onto this unilateral ah campaign across the world and / <B> wow",
+    "context_text": "<A> the most horrifying thing i've ever witnessed with my own two eyes in my life / <B> wow / <A> probably ever will / <B> really / <A> um but you know i think that that uh when events like that happen and getting back to the topic of foreign relations / <B> okay / <A> ah it turns into a free for all i mean / <B> yeah / <A> ah if you can see what happened after september eleventh uh immediately uh the united states really went onto this unilateral ah campaign across the world and / <B> yeah",
     "context_start": 319.49,
-    "context_end": 350.63800000000003,
+    "context_end": 350.567,
     "feedback": [
         {
             "name": "PS_176_wow",
@@ -12,10 +12,10 @@
             "token": "wow"
         },
         {
-            "name": "NegS_056_wow",
+            "name": "PS_019_really",
             "start": 324.33,
-            "end": 325.43325,
-            "token": "wow"
+            "end": 325.11949999999996,
+            "token": "really"
         },
         {
             "name": "spontC_020_okay",
@@ -24,16 +24,16 @@
             "token": "okay"
         },
         {
-            "name": "spontD_051_yeah",
+            "name": "spontC_192_yeah",
             "start": 336.62,
-            "end": 337.161375,
+            "end": 337.07175,
             "token": "yeah"
         },
         {
-            "name": "PS_105_wow",
+            "name": "spontB_186_yeah",
             "start": 349.99,
-            "end": 350.63800000000003,
-            "token": "wow"
+            "end": 350.567,
+            "token": "yeah"
         }
     ]
 }

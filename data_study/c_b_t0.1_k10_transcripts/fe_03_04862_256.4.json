@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04862",
     "context_channel": 0,
-    "context_text": "<B> because everything that's been happening you know the past couple of weeks { i was so } / <A> [ yeah ] / <B> sure that they were gonna just make us keep going you know circling / <A> yeah / <B> and uh they didn't i actually sat you know by the arrivals for { a } / <A> [ yeah ] / <B> good i'd say fifteen minutes / <A> uh-huh",
+    "context_text": "<B> because everything that's been happening you know the past couple of weeks { i was so } / <A> [ yeah ] / <B> sure that they were gonna just make us keep going you know circling / <A> yeah / <B> and uh they didn't i actually sat you know by the arrivals for { a } / <A> [ yeah ] / <B> good i'd say fifteen minutes / <A> yeah",
     "context_start": 256.4,
-    "context_end": 272.750625,
+    "context_end": 272.877,
     "feedback": [
         {
             "name": "spontA_073_yeah",
@@ -24,10 +24,10 @@
             "token": "yeah"
         },
         {
-            "name": "spontD_047_uh-huh",
+            "name": "spontB_186_yeah",
             "start": 272.3,
-            "end": 272.750625,
-            "token": "uh-huh"
+            "end": 272.877,
+            "token": "yeah"
         }
     ]
 }

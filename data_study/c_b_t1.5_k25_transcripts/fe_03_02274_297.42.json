@@ -1,9 +1,9 @@
 {
     "name": "fe_03_02274",
     "context_channel": 1,
-    "context_text": "<A> and he seems to be sicker { you know } / <B> [ oh ] / <A> when cau because he smokes like if he gets { a } / <B> [ okay ] / <A> bad cold it { seems } / <B> [ okay ]",
+    "context_text": "<A> and he seems to be sicker { you know } / <B> [ oh ] / <A> when cau because he smokes like if he gets { a } / <B> [ oh ] / <A> bad cold it { seems } / <B> [ yeah ]",
     "context_start": 297.42,
-    "context_end": 304.501125,
+    "context_end": 304.39574999999996,
     "feedback": [
         {
             "name": "spontE_048_oh",
@@ -12,16 +12,16 @@
             "token": "oh"
         },
         {
-            "name": "spontC_134_okay",
+            "name": "spontF_017_oh",
             "start": 302.08,
-            "end": 302.88712499999997,
-            "token": "okay"
+            "end": 302.909375,
+            "token": "oh"
         },
         {
-            "name": "spontD_073_okay",
+            "name": "spontE_252_yeah",
             "start": 303.76,
-            "end": 304.501125,
-            "token": "okay"
+            "end": 304.39574999999996,
+            "token": "yeah"
         }
     ]
 }

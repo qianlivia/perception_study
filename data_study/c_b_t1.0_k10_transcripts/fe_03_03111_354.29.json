@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03111",
     "context_channel": 0,
-    "context_text": "<B> right see the only thing i have to do is get what i have to do is ah study up cause i'm doing my training / <A> oh / <B> and then find companies / <A> oh / <B> that'll um subco do contracting and like i'm doing now / <A> oh / <B> contract me / <A> yeah",
+    "context_text": "<B> right see the only thing i have to do is get what i have to do is ah study up cause i'm doing my training / <A> oh / <B> and then find companies / <A> oh / <B> that'll um subco do contracting and like i'm doing now / <A> oh / <B> contract me / <A> oh",
     "context_start": 354.29,
-    "context_end": 367.55787499999997,
+    "context_end": 367.909375,
     "feedback": [
         {
             "name": "spontF_207_oh",
@@ -24,10 +24,10 @@
             "token": "oh"
         },
         {
-            "name": "spontA_414_yeah",
+            "name": "spontF_017_oh",
             "start": 367.08,
-            "end": 367.55787499999997,
-            "token": "yeah"
+            "end": 367.909375,
+            "token": "oh"
         }
     ]
 }

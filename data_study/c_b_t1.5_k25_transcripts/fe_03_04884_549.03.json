@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04884",
     "context_channel": 1,
-    "context_text": "<A> see i i get a weekly newspaper that gives us something it's called the weekly it's called the week { in } / <B> [ uh-huh ] / <A> review and it gives a synopsis of everything like from the i watch the news every morning but { then i } / <B> [ yeah ] / <A> but then i just watch every like it gives you like politics and and international local everything it gives a little { bit } / <B> [ oh ]",
+    "context_text": "<A> see i i get a weekly newspaper that gives us something it's called the weekly it's called the week { in } / <B> [ uh-huh ] / <A> review and it gives a synopsis of everything like from the i watch the news every morning but { then i } / <B> [ uh-huh ] / <A> but then i just watch every like it gives you like politics and and international local everything it gives a little { bit } / <B> [ uh-huh ]",
     "context_start": 549.03,
-    "context_end": 566.425125,
+    "context_end": 566.3385,
     "feedback": [
         {
             "name": "spontA_051_uh-huh",
@@ -12,16 +12,16 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontB_373_yeah",
+            "name": "spontA_076_uh-huh",
             "start": 559.62,
-            "end": 560.0315,
-            "token": "yeah"
+            "end": 560.142375,
+            "token": "uh-huh"
         },
         {
-            "name": "spontE_048_oh",
+            "name": "spontD_401_uh-huh",
             "start": 565.68,
-            "end": 566.425125,
-            "token": "oh"
+            "end": 566.3385,
+            "token": "uh-huh"
         }
     ]
 }

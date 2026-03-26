@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03435",
     "context_channel": 0,
-    "context_text": "<B> about yourse well think / <A> uh-huh / <B> about yourself but don't think / <A> yeah / <B> about just yourself you have { to think } / <A> [ yeah ]",
+    "context_text": "<B> about yourse well think / <A> uh-huh / <B> about yourself but don't think / <A> uh-huh / <B> about just yourself you have { to think } / <A> [ yeah ]",
     "context_start": 149.4,
-    "context_end": 154.8135,
+    "context_end": 154.975625,
     "feedback": [
         {
             "name": "spontD_405_uh-huh",
@@ -12,15 +12,15 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontF_101_yeah",
+            "name": "spontA_115_uh-huh",
             "start": 152.14,
-            "end": 152.74837499999998,
-            "token": "yeah"
+            "end": 152.637125,
+            "token": "uh-huh"
         },
         {
-            "name": "spontC_213_yeah",
+            "name": "spontD_101_yeah",
             "start": 154.21,
-            "end": 154.8135,
+            "end": 154.975625,
             "token": "yeah"
         }
     ]

@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04612",
     "context_channel": 1,
-    "context_text": "<A> ah there are some available but { i } / <B> [ uh-huh ] / <A> just i i tried it a while ago and it just didn't work out very well and { it } / <B> [ uh-huh ] / <A> was hard to get games for it and stuff so { i } / <B> [ yeah ]",
+    "context_text": "<A> ah there are some available but { i } / <B> [ uh-huh ] / <A> just i i tried it a while ago and it just didn't work out very well and { it } / <B> [ yeah ] / <A> was hard to get games for it and stuff so { i } / <B> [ yeah ]",
     "context_start": 337.0,
-    "context_end": 347.2135,
+    "context_end": 347.12462500000004,
     "feedback": [
         {
             "name": "spontC_378_uh-huh",
@@ -12,15 +12,15 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontA_086_uh-huh",
+            "name": "spontC_321_yeah",
             "start": 343.85,
-            "end": 344.36012500000004,
-            "token": "uh-huh"
+            "end": 344.514875,
+            "token": "yeah"
         },
         {
-            "name": "spontD_172_yeah",
+            "name": "spontD_205_yeah",
             "start": 346.42,
-            "end": 347.2135,
+            "end": 347.12462500000004,
             "token": "yeah"
         }
     ]

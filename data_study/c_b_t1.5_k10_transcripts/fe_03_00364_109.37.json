@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00364",
     "context_channel": 1,
-    "context_text": "<A> because usually i sit and ride the house / <B> uh-huh / <A> yeah actually i went to meditation center / <B> uh-huh / <A> mm maybe for eight months / <B> uh-huh / <A> ah maybe it was five years ago / <B> uh-huh",
+    "context_text": "<A> because usually i sit and ride the house / <B> uh-huh / <A> yeah actually i went to meditation center / <B> uh-huh / <A> mm maybe for eight months / <B> yeah / <A> ah maybe it was five years ago / <B> yeah",
     "context_start": 109.37,
-    "context_end": 125.59975,
+    "context_end": 125.762125,
     "feedback": [
         {
             "name": "spontA_051_uh-huh",
@@ -18,16 +18,16 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontA_290_uh-huh",
+            "name": "spontF_380_yeah",
             "start": 120.94,
-            "end": 121.43975,
-            "token": "uh-huh"
+            "end": 121.5535,
+            "token": "yeah"
         },
         {
-            "name": "spontA_290_uh-huh",
+            "name": "spontE_062_yeah",
             "start": 125.1,
-            "end": 125.59975,
-            "token": "uh-huh"
+            "end": 125.762125,
+            "token": "yeah"
         }
     ]
 }

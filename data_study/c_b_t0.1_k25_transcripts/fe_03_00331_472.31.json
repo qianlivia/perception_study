@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00331",
     "context_channel": 0,
-    "context_text": "<B> i know perjury no no but eh eh d did you call in th pur / <A> okay / <B> this topic is true { but } / <A> [ okay ] / <B> the the your decision no did you talk defendant to leave people to leave the count one guy / <A> yeah / <B> did you talk to defendant family / <A> yeah",
+    "context_text": "<B> i know perjury no no but eh eh d did you call in th pur / <A> okay / <B> this topic is true { but } / <A> [ okay ] / <B> the the your decision no did you talk defendant to leave people to leave the count one guy / <A> oh / <B> did you talk to defendant family / <A> oh",
     "context_start": 472.31,
-    "context_end": 497.638125,
+    "context_end": 497.665,
     "feedback": [
         {
             "name": "spontC_020_okay",
@@ -18,16 +18,16 @@
             "token": "okay"
         },
         {
-            "name": "spontA_387_yeah",
+            "name": "spontF_207_oh",
             "start": 493.88,
-            "end": 494.418125,
-            "token": "yeah"
+            "end": 494.264375,
+            "token": "oh"
         },
         {
-            "name": "spontA_387_yeah",
+            "name": "spontC_109_oh",
             "start": 497.1,
-            "end": 497.638125,
-            "token": "yeah"
+            "end": 497.665,
+            "token": "oh"
         }
     ]
 }

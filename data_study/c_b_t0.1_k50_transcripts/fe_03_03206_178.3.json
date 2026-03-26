@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03206",
     "context_channel": 0,
-    "context_text": "<B> uh it's good i used to have also a my parents had a cocker spaniel / <A> uh-huh / <B> and uh that was a good dog that was a nice dog it was blind / <A> wow / <B> but uh it would love to play ball it would love it just take the ball and { and it } / <A> [ yeah ] / <B> would take it a long time to find the ball because it was blind like i said / <A> oh / <B> like it it would smell you know the scent it would { smell the } / <A> [ yeah ] / <B> ball out and go find it and it would love bringing it back up to you and do it all over and over and over and over { for } / <A> [ wow ]",
+    "context_text": "<B> uh it's good i used to have also a my parents had a cocker spaniel / <A> uh-huh / <B> and uh that was a good dog that was a nice dog it was blind / <A> wow / <B> but uh it would love to play ball it would love it just take the ball and { and it } / <A> [ wow ] / <B> would take it a long time to find the ball because it was blind like i said / <A> uh-huh / <B> like it it would smell you know the scent it would { smell the } / <A> [ yeah ] / <B> ball out and go find it and it would love bringing it back up to you and do it all over and over and over and over { for } / <A> [ wow ]",
     "context_start": 178.3,
-    "context_end": 204.4055,
+    "context_end": 204.79149999999998,
     "feedback": [
         {
             "name": "spontB_348_uh-huh",
@@ -18,16 +18,16 @@
             "token": "wow"
         },
         {
-            "name": "spontF_086_yeah",
+            "name": "NegS_065_wow",
             "start": 191.63,
-            "end": 192.347,
-            "token": "yeah"
+            "end": 192.54399999999998,
+            "token": "wow"
         },
         {
-            "name": "spontE_048_oh",
+            "name": "spontA_086_uh-huh",
             "start": 194.87,
-            "end": 195.615125,
-            "token": "oh"
+            "end": 195.380125,
+            "token": "uh-huh"
         },
         {
             "name": "spontD_395_yeah",
@@ -36,9 +36,9 @@
             "token": "yeah"
         },
         {
-            "name": "NegS_008_wow",
+            "name": "PS_076_wow",
             "start": 203.45,
-            "end": 204.4055,
+            "end": 204.79149999999998,
             "token": "wow"
         }
     ]

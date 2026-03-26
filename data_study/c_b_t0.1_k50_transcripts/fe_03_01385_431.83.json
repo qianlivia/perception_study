@@ -1,9 +1,9 @@
 {
     "name": "fe_03_01385",
     "context_channel": 1,
-    "context_text": "<A> once you start sweating once you seriously start sweating and breathing hard that's when you know that you've reached um a line and that that's your that's the beginning of your threshold right there / <B> right / <A> basically and that that's when you're starting to really exert yourself you know / <B> okay / <A> so if you can maintain that kind of exertion level that kind of intensity for at least five or ten minutes / <B> okay / <A> you're really you're doing good because you only need to work out maybe fifteen twenty minutes a day every day { you know } / <B> [ wow ]",
+    "context_text": "<A> once you start sweating once you seriously start sweating and breathing hard that's when you know that you've reached um a line and that that's your that's the beginning of your threshold right there / <B> right / <A> basically and that that's when you're starting to really exert yourself you know / <B> mhm / <A> so if you can maintain that kind of exertion level that kind of intensity for at least five or ten minutes / <B> uh-huh / <A> you're really you're doing good because you only need to work out maybe fifteen twenty minutes a day every day { you know } / <B> [ yeah ]",
     "context_start": 431.83,
-    "context_end": 462.096625,
+    "context_end": 461.86987500000004,
     "feedback": [
         {
             "name": "sun1_030_right",
@@ -12,22 +12,22 @@
             "token": "right"
         },
         {
-            "name": "spontF_234_okay",
+            "name": "spontA_253_mhm",
             "start": 448.13,
-            "end": 448.757875,
-            "token": "okay"
+            "end": 448.603625,
+            "token": "mhm"
         },
         {
-            "name": "spontF_234_okay",
+            "name": "spontE_227_uh-huh",
             "start": 454.2,
-            "end": 454.827875,
-            "token": "okay"
+            "end": 454.621625,
+            "token": "uh-huh"
         },
         {
-            "name": "PS_100_wow",
+            "name": "spontA_015_yeah",
             "start": 461.1,
-            "end": 462.096625,
-            "token": "wow"
+            "end": 461.86987500000004,
+            "token": "yeah"
         }
     ]
 }

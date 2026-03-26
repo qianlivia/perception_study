@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04666",
     "context_channel": 1,
-    "context_text": "<A> yeah i mean it's nice to kinda know what's going on we don't have kids and most of the people around here have kids / <B> mhm / <A> so we sort of feel you know sometimes we feel like we're not really in the main stream / <B> mhm / <A> with all the you know going to kindergarten and everything that { you } / <B> [ yeah ] / <A> know the parents do / <B> mhm",
+    "context_text": "<A> yeah i mean it's nice to kinda know what's going on we don't have kids and most of the people around here have kids / <B> mhm / <A> so we sort of feel you know sometimes we feel like we're not really in the main stream / <B> mhm / <A> with all the you know going to kindergarten and everything that { you } / <B> [ right ] / <A> know the parents do / <B> uh-huh",
     "context_start": 216.69,
-    "context_end": 234.7435,
+    "context_end": 234.74,
     "feedback": [
         {
             "name": "spontD_081_mhm",
@@ -18,16 +18,16 @@
             "token": "mhm"
         },
         {
-            "name": "spontD_142_yeah",
+            "name": "PR_048_right",
             "start": 232.76,
-            "end": 233.23725,
-            "token": "yeah"
+            "end": 233.39512499999998,
+            "token": "right"
         },
         {
-            "name": "spontB_251_mhm",
+            "name": "spontA_312_uh-huh",
             "start": 234.18,
-            "end": 234.7435,
-            "token": "mhm"
+            "end": 234.74,
+            "token": "uh-huh"
         }
     ]
 }

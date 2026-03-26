@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00270",
     "context_channel": 0,
-    "context_text": "<B> and that was really spooky because i got to my appointment and uh the person with whom i had the appointment did you hear anything on the news and i said yes i heard all of it and i related to this person / <A> yeah / <B> and i told told them that it sounded just like a bad science fiction novel that i had read / <A> mhm / <B> and i had at the time when i lived in denver my tv room was partially under ground so i / <A> uh-huh / <B> couldn't any broadcast tv { and i } / <A> [ wow ] / <B> didn't have cable i didn't have dish / <A> uh-huh / <B> so i really couldn't get tv / <A> wow",
+    "context_text": "<B> and that was really spooky because i got to my appointment and uh the person with whom i had the appointment did you hear anything on the news and i said yes i heard all of it and i related to this person / <A> yeah / <B> and i told told them that it sounded just like a bad science fiction novel that i had read / <A> uh-huh / <B> and i had at the time when i lived in denver my tv room was partially under ground so i / <A> oh / <B> couldn't any broadcast tv { and i } / <A> [ oh ] / <B> didn't have cable i didn't have dish / <A> uh-huh / <B> so i really couldn't get tv / <A> yeah",
     "context_start": 95.72,
-    "context_end": 129.58075,
+    "context_end": 129.27124999999998,
     "feedback": [
         {
             "name": "spontF_295_yeah",
@@ -12,34 +12,34 @@
             "token": "yeah"
         },
         {
-            "name": "spontD_254_mhm",
+            "name": "spontD_334_uh-huh",
             "start": 112.79,
-            "end": 113.305,
-            "token": "mhm"
+            "end": 113.31375000000001,
+            "token": "uh-huh"
         },
         {
-            "name": "spontF_573_uh-huh",
+            "name": "spontC_046_oh",
             "start": 121.5,
-            "end": 122.288625,
-            "token": "uh-huh"
+            "end": 121.908125,
+            "token": "oh"
         },
         {
-            "name": "PS_100_wow",
+            "name": "NS_101_oh",
             "start": 123.56,
-            "end": 124.556625,
-            "token": "wow"
+            "end": 124.479,
+            "token": "oh"
         },
         {
-            "name": "spontD_020_uh-huh",
+            "name": "spontA_290_uh-huh",
             "start": 126.08,
-            "end": 126.584625,
+            "end": 126.57975,
             "token": "uh-huh"
         },
         {
-            "name": "PS_156_wow",
+            "name": "spontA_111_yeah",
             "start": 128.64,
-            "end": 129.58075,
-            "token": "wow"
+            "end": 129.27124999999998,
+            "token": "yeah"
         }
     ]
 }

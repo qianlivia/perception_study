@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00619",
     "context_channel": 0,
-    "context_text": "<B> was born in um good ol' south carolina usa / <A> uh-huh / <B> um but it's interesting you say you're from france { my mom } / <A> [ wow ] / <B> um i was adopted but my mom my birth mom i know her really well and she is um and i am are originally from france so we { are } / <A> [ wow ] / <B> like yeah like from france directly to new orleans louisiana / <A> wow",
+    "context_text": "<B> was born in um good ol' south carolina usa / <A> uh-huh / <B> um but it's interesting you say you're from france { my mom } / <A> [ wow ] / <B> um i was adopted but my mom my birth mom i know her really well and she is um and i am are originally from france so we { are } / <A> [ wow ] / <B> like yeah like from france directly to new orleans louisiana / <A> oh",
     "context_start": 177.91,
-    "context_end": 204.334125,
+    "context_end": 204.64124999999999,
     "feedback": [
         {
             "name": "spontF_309_uh-huh",
@@ -24,10 +24,10 @@
             "token": "wow"
         },
         {
-            "name": "spontF_097_wow",
+            "name": "spontD_193_oh",
             "start": 203.89,
-            "end": 204.334125,
-            "token": "wow"
+            "end": 204.64124999999999,
+            "token": "oh"
         }
     ]
 }

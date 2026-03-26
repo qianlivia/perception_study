@@ -1,9 +1,9 @@
 {
     "name": "fe_03_01866",
     "context_channel": 1,
-    "context_text": "<A> yeah see they don't know if she committed it was a drug overdose like we don't know if she committed suicide or { if } / <B> [ right ] / <A> it how it was you know and i've had a couple you know living in new orleans it's not that common to have drug overdoses { and there's been a } / <B> [ wow ] / <A> couple in my life / <B> yeah / <A> you know and i'm fortunate enough to not have to draw myself out of that when it got that bad { when things } / <B> [ wow ] / <A> started getting bad that i walked { because } / <B> [ wow ]",
+    "context_text": "<A> yeah see they don't know if she committed it was a drug overdose like we don't know if she committed suicide or { if } / <B> [ right ] / <A> it how it was you know and i've had a couple you know living in new orleans it's not that common to have drug overdoses { and there's been a } / <B> [ wow ] / <A> couple in my life / <B> yeah / <A> you know and i'm fortunate enough to not have to draw myself out of that when it got that bad { when things } / <B> [ yeah ] / <A> started getting bad that i walked { because } / <B> [ yeah ]",
     "context_start": 375.61,
-    "context_end": 399.01925,
+    "context_end": 398.39225,
     "feedback": [
         {
             "name": "spontC_360_right",
@@ -24,16 +24,16 @@
             "token": "yeah"
         },
         {
-            "name": "PS_108_wow",
+            "name": "spontA_073_yeah",
             "start": 394.99,
-            "end": 396.13575000000003,
-            "token": "wow"
+            "end": 396.14162500000003,
+            "token": "yeah"
         },
         {
-            "name": "PS_164_wow",
+            "name": "PR_062_yeah",
             "start": 397.88,
-            "end": 399.01925,
-            "token": "wow"
+            "end": 398.39225,
+            "token": "yeah"
         }
     ]
 }

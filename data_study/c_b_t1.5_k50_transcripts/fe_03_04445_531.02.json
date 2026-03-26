@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04445",
     "context_channel": 0,
-    "context_text": "<B> yeah there are a lot of negatives of what's going on in the school system right now i mean but there are still there are a lot of positives too / <A> yeah / <B> and there are some good public schools i mean there are good public schools in every state in the union and { there's } / <A> [ yeah ] / <B> bad ones i think { you } / <A> [ uh-huh ] / <B> just have to work at finding the one that's right for you and for your child / <A> uh-huh",
+    "context_text": "<B> yeah there are a lot of negatives of what's going on in the school system right now i mean but there are still there are a lot of positives too / <A> yeah / <B> and there are some good public schools i mean there are good public schools in every state in the union and { there's } / <A> [ uh-huh ] / <B> bad ones i think { you } / <A> [ uh-huh ] / <B> just have to work at finding the one that's right for you and for your child / <A> uh-huh",
     "context_start": 531.02,
-    "context_end": 549.693875,
+    "context_end": 549.59275,
     "feedback": [
         {
             "name": "spontB_094_yeah",
@@ -12,21 +12,21 @@
             "token": "yeah"
         },
         {
-            "name": "spontA_146_yeah",
+            "name": "spontC_386_uh-huh",
             "start": 543.7,
-            "end": 544.3982500000001,
-            "token": "yeah"
-        },
-        {
-            "name": "spontA_312_uh-huh",
-            "start": 545.71,
-            "end": 546.27,
+            "end": 544.2465000000001,
             "token": "uh-huh"
         },
         {
-            "name": "spontD_043_uh-huh",
+            "name": "spontF_463_uh-huh",
+            "start": 545.71,
+            "end": 546.217625,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_009_uh-huh",
             "start": 549.21,
-            "end": 549.693875,
+            "end": 549.59275,
             "token": "uh-huh"
         }
     ]

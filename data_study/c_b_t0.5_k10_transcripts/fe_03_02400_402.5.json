@@ -1,9 +1,9 @@
 {
     "name": "fe_03_02400",
     "context_channel": 0,
-    "context_text": "<B> really it's really an excuse that we use with ourselves when my stepfather wa had his surgery / <A> uh-huh / <B> i had been off cigarettes about a year / <A> uh-huh / <B> and while he was in surgery i was in the waiting room smoking i went back to smoking after he's having cancer surgery / <A> yeah / <B> isn't that awful / <A> yeah / <B> worst part / <A> yeah",
+    "context_text": "<B> really it's really an excuse that we use with ourselves when my stepfather wa had his surgery / <A> uh-huh / <B> i had been off cigarettes about a year / <A> oh / <B> and while he was in surgery i was in the waiting room smoking i went back to smoking after he's having cancer surgery / <A> yeah / <B> isn't that awful / <A> yeah / <B> worst part / <A> yeah",
     "context_start": 402.5,
-    "context_end": 426.0195,
+    "context_end": 425.977125,
     "feedback": [
         {
             "name": "spontD_020_uh-huh",
@@ -12,27 +12,27 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontD_047_uh-huh",
+            "name": "spontF_109_oh",
             "start": 413.42,
-            "end": 413.870625,
-            "token": "uh-huh"
+            "end": 413.7595,
+            "token": "oh"
         },
         {
-            "name": "spontE_267_yeah",
+            "name": "spontF_310_yeah",
             "start": 421.86,
-            "end": 422.541875,
+            "end": 422.7495,
             "token": "yeah"
         },
         {
-            "name": "spontD_365_yeah",
+            "name": "spontE_117_yeah",
             "start": 423.6,
-            "end": 424.45625,
+            "end": 424.8115,
             "token": "yeah"
         },
         {
-            "name": "spontB_299_yeah",
+            "name": "spontF_630_yeah",
             "start": 425.36,
-            "end": 426.0195,
+            "end": 425.977125,
             "token": "yeah"
         }
     ]

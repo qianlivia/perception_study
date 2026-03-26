@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04330",
     "context_channel": 0,
-    "context_text": "<B> [ oh i do not ] know any spanish i keep saying this summer i'm going to learn some spanish because i had a little boy in my class this year { that } / <A> [ wow ] / <B> did not speak english { and i've had a } / <A> [ oh ] / <B> terrible time trying to communicate with him now thank goodness he's smarter than i am and i guess he's younger but he's picked up english a lot quicker than i have picked up his spanish / <A> yeah / <B> but i regret not learning spanish years ago / <A> yeah / <B> i regret that ah but i have should have learned it and i regret that now so i guess i would change that i think one thing i would do is i i'd probably want to learn at least spanish and maybe some more languages / <A> yeah",
+    "context_text": "<B> [ oh i do not ] know any spanish i keep saying this summer i'm going to learn some spanish because i had a little boy in my class this year { that } / <A> [ wow ] / <B> did not speak english { and i've had a } / <A> [ wow ] / <B> terrible time trying to communicate with him now thank goodness he's smarter than i am and i guess he's younger but he's picked up english a lot quicker than i have picked up his spanish / <A> yeah / <B> but i regret not learning spanish years ago / <A> yeah / <B> i regret that ah but i have should have learned it and i regret that now so i guess i would change that i think one thing i would do is i i'd probably want to learn at least spanish and maybe some more languages / <A> yeah",
     "context_start": 532.87,
-    "context_end": 573.34,
+    "context_end": 573.0765,
     "feedback": [
         {
             "name": "NegS_065_wow",
@@ -12,27 +12,27 @@
             "token": "wow"
         },
         {
-            "name": "PS_032_oh",
+            "name": "PS_100_wow",
             "start": 542.75,
-            "end": 543.655875,
-            "token": "oh"
+            "end": 543.746625,
+            "token": "wow"
         },
         {
-            "name": "spontA_332_yeah",
+            "name": "spontB_322_yeah",
             "start": 554.61,
-            "end": 555.479,
+            "end": 555.50625,
             "token": "yeah"
         },
         {
-            "name": "spontC_335_yeah",
+            "name": "spontE_162_yeah",
             "start": 560.12,
-            "end": 561.2715000000001,
+            "end": 561.0945,
             "token": "yeah"
         },
         {
-            "name": "spontD_336_yeah",
+            "name": "spontF_294_yeah",
             "start": 572.34,
-            "end": 573.34,
+            "end": 573.0765,
             "token": "yeah"
         }
     ]

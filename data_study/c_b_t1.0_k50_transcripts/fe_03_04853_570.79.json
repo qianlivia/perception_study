@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04853",
     "context_channel": 0,
-    "context_text": "<B> so when i moved up to school i had to drive from miami to chicago / <A> wow / <B> um because um none of the planes were flying like i { came up here } / <A> [ wow ] / <B> like september thirteenth / <A> wow / <B> and ah i just remember like watching the news and thinking oh god going to chicago is crazy and like my mom was concerned about me taking the l and like they're they thought that something would happen to the sears tower and like { all of } / <A> [ wow ]",
+    "context_text": "<B> so when i moved up to school i had to drive from miami to chicago / <A> wow / <B> um because um none of the planes were flying like i { came up here } / <A> [ wow ] / <B> like september thirteenth / <A> really / <B> and ah i just remember like watching the news and thinking oh god going to chicago is crazy and like my mom was concerned about me taking the l and like they're they thought that something would happen to the sears tower and like { all of } / <A> [ oh ]",
     "context_start": 570.79,
-    "context_end": 594.32575,
+    "context_end": 593.925125,
     "feedback": [
         {
             "name": "PS_034_wow",
@@ -18,16 +18,16 @@
             "token": "wow"
         },
         {
-            "name": "PS_192_wow",
+            "name": "NS_002_really",
             "start": 581.44,
-            "end": 582.0998750000001,
-            "token": "wow"
+            "end": 582.2965,
+            "token": "really"
         },
         {
-            "name": "PS_108_wow",
+            "name": "spontE_048_oh",
             "start": 593.18,
-            "end": 594.32575,
-            "token": "wow"
+            "end": 593.925125,
+            "token": "oh"
         }
     ]
 }

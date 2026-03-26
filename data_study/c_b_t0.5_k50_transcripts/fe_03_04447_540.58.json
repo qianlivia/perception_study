@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04447",
     "context_channel": 1,
-    "context_text": "<A> so the medical field { uh } / <B> [ wow ] / <A> for women / <B> oh / <A> is is a tremendous tremendous field in opportunity / <B> mhm / <A> and and it's basic i have a son that has special needs / <B> oh / <A> and so one of us had had to be around twenty four seven { and and it } / <B> [ wow ]",
+    "context_text": "<A> so the medical field { uh } / <B> [ wow ] / <A> for women / <B> oh / <A> is is a tremendous tremendous field in opportunity / <B> mhm / <A> and and it's basic i have a son that has special needs / <B> oh / <A> and so one of us had had to be around twenty four seven { and and it } / <B> [ oh ]",
     "context_start": 540.58,
-    "context_end": 554.88175,
+    "context_end": 554.739875,
     "feedback": [
         {
             "name": "PS_146_wow",
@@ -30,10 +30,10 @@
             "token": "oh"
         },
         {
-            "name": "PS_139_wow",
+            "name": "PS_180_oh",
             "start": 553.61,
-            "end": 554.88175,
-            "token": "wow"
+            "end": 554.739875,
+            "token": "oh"
         }
     ]
 }

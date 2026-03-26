@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03197",
     "context_channel": 1,
-    "context_text": "<A> cat is um my cat is like she's a well it's called siberian she's like really fluffy / <B> okay / <A> hairy uh but she's yeah she's moody but she like actually our neighbors have a siamese cat and / <B> okay / <A> their siamese cat she's a darling i mean she's like she's so nice she's like an aristocrat like she's very kind of gentle and like she you know wouldn't like do kind of stupid shit but like she she like she wouldn't say a word like if you can like do anything with her / <B> okay / <A> which which is kind of not my cat my cat would always / <B> yeah",
+    "context_text": "<A> cat is um my cat is like she's a well it's called siberian she's like really fluffy / <B> okay / <A> hairy uh but she's yeah she's moody but she like actually our neighbors have a siamese cat and / <B> okay / <A> their siamese cat she's a darling i mean she's like she's so nice she's like an aristocrat like she's very kind of gentle and like she you know wouldn't like do kind of stupid shit but like she she like she wouldn't say a word like if you can like do anything with her / <B> yeah / <A> which which is kind of not my cat my cat would always / <B> yeah",
     "context_start": 346.84,
-    "context_end": 378.369125,
+    "context_end": 378.40500000000003,
     "feedback": [
         {
             "name": "spontE_158_okay",
@@ -18,15 +18,15 @@
             "token": "okay"
         },
         {
-            "name": "spontC_134_okay",
+            "name": "spontF_221_yeah",
             "start": 374.19,
-            "end": 374.997125,
-            "token": "okay"
+            "end": 374.675625,
+            "token": "yeah"
         },
         {
-            "name": "spontC_053_yeah",
+            "name": "spontC_043_yeah",
             "start": 377.87,
-            "end": 378.369125,
+            "end": 378.40500000000003,
             "token": "yeah"
         }
     ]

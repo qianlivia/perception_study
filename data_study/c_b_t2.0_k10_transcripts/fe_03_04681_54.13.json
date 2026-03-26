@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04681",
     "context_channel": 0,
-    "context_text": "<B> well we have a newspaper in philadelphia called metro / <A> yeah / <B> it's a free paper and they pass it out at all of the ah terminals and trolley stations and train stations / <A> yeah / <B> and it's it runs twenty four to thirty pages { it } / <A> [ uh-huh ] / <B> encapsulates the news / <A> yeah / <B> and you can actually run through that paper and see all that's set to print in about twenty minutes / <A> yeah / <B> and you also have two jokes so that is the main source of my news in the morning / <A> yeah / <B> and then at night i watch the ten o'clock news for fox / <A> yeah",
+    "context_text": "<B> well we have a newspaper in philadelphia called metro / <A> yeah / <B> it's a free paper and they pass it out at all of the ah terminals and trolley stations and train stations / <A> yeah / <B> and it's it runs twenty four to thirty pages { it } / <A> [ uh-huh ] / <B> encapsulates the news / <A> yeah / <B> and you can actually run through that paper and see all that's set to print in about twenty minutes / <A> wow / <B> and you also have two jokes so that is the main source of my news in the morning / <A> yeah / <B> and then at night i watch the ten o'clock news for fox / <A> yeah",
     "context_start": 54.13,
-    "context_end": 94.67925,
+    "context_end": 94.64025,
     "feedback": [
         {
             "name": "spontF_287_yeah",
@@ -24,27 +24,27 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontD_025_yeah",
+            "name": "spontF_562_yeah",
             "start": 74.17,
-            "end": 74.695875,
+            "end": 74.73887500000001,
             "token": "yeah"
         },
         {
-            "name": "spontD_200_yeah",
+            "name": "spontF_097_wow",
             "start": 82.73,
-            "end": 83.398875,
-            "token": "yeah"
+            "end": 83.174125,
+            "token": "wow"
         },
         {
-            "name": "spontE_274_yeah",
+            "name": "spontC_075_yeah",
             "start": 89.43,
-            "end": 90.16012500000001,
+            "end": 90.084625,
             "token": "yeah"
         },
         {
-            "name": "spontC_382_yeah",
+            "name": "spontD_140_yeah",
             "start": 94.1,
-            "end": 94.67925,
+            "end": 94.64025,
             "token": "yeah"
         }
     ]

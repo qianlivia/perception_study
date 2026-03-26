@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04612",
     "context_channel": 1,
-    "context_text": "<A> oh um well i play all different types of games um one game that i've been playing lately is called splinter cell { and } / <B> [ oh ] / <A> it's um it's sort of like a strategy game / <B> uh-huh / <A> ah you you're like a special agent you need to just go through and carry out missions and stuff and / <B> okay / <A> sort of be secretive about it but / <B> yeah",
+    "context_text": "<A> oh um well i play all different types of games um one game that i've been playing lately is called splinter cell { and } / <B> [ oh ] / <A> it's um it's sort of like a strategy game / <B> uh-huh / <A> ah you you're like a special agent you need to just go through and carry out missions and stuff and / <B> uh-huh / <A> sort of be secretive about it but / <B> yeah",
     "context_start": 32.36,
-    "context_end": 55.71075,
+    "context_end": 55.5515,
     "feedback": [
         {
             "name": "NS_014_oh",
@@ -18,15 +18,15 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontE_275_okay",
+            "name": "spontC_132_uh-huh",
             "start": 51.91,
-            "end": 52.470749999999995,
-            "token": "okay"
+            "end": 52.509125,
+            "token": "uh-huh"
         },
         {
-            "name": "spontE_331_yeah",
+            "name": "spontE_219_yeah",
             "start": 55.01,
-            "end": 55.71075,
+            "end": 55.5515,
             "token": "yeah"
         }
     ]

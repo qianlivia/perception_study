@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03290",
     "context_channel": 1,
-    "context_text": "<A> and then they hit you know five six seven fifteen years and discover { guess } / <B> [ wow ] / <A> what they don't see eye to eye on a whole lot / <B> wow / <A> and they don't they don't have a clue how to deal with it { how to } / <B> [ really ] / <A> work it out how to um communicate / <B> wow",
+    "context_text": "<A> and then they hit you know five six seven fifteen years and discover { guess } / <B> [ wow ] / <A> what they don't see eye to eye on a whole lot / <B> wow / <A> and they don't they don't have a clue how to deal with it { how to } / <B> [ yeah ] / <A> work it out how to um communicate / <B> yeah",
     "context_start": 176.55,
-    "context_end": 200.187,
+    "context_end": 199.714625,
     "feedback": [
         {
             "name": "NegS_056_wow",
@@ -18,16 +18,16 @@
             "token": "wow"
         },
         {
-            "name": "NS_002_really",
+            "name": "spontD_336_yeah",
             "start": 193.45,
-            "end": 194.3065,
-            "token": "really"
+            "end": 194.45,
+            "token": "yeah"
         },
         {
-            "name": "PS_082_wow",
+            "name": "spontC_075_yeah",
             "start": 199.06,
-            "end": 200.187,
-            "token": "wow"
+            "end": 199.714625,
+            "token": "yeah"
         }
     ]
 }

@@ -1,9 +1,9 @@
 {
     "name": "fe_03_05793",
     "context_channel": 1,
-    "context_text": "<A> well what did i dislike most ah well just the disruption and just the whole { you know } / <B> [ wow ] / <A> sort of routine life { you } / <B> [ yeah ] / <A> know all the instability like where are you going to live and all that { you know } / <B> [ yeah ] / <A> where are people that was / <B> yeah / <A> the most disrupting thing is { where } / <B> [ yeah ] / <A> the hell is dad you know / <B> yeah",
+    "context_text": "<A> well what did i dislike most ah well just the disruption and just the whole { you know } / <B> [ wow ] / <A> sort of routine life { you } / <B> [ yeah ] / <A> know all the instability like where are you going to live and all that { you know } / <B> [ wow ] / <A> where are people that was / <B> yeah / <A> the most disrupting thing is { where } / <B> [ yeah ] / <A> the hell is dad you know / <B> yeah",
     "context_start": 440.13,
-    "context_end": 457.36762500000003,
+    "context_end": 457.34275,
     "feedback": [
         {
             "name": "NegS_056_wow",
@@ -18,15 +18,15 @@
             "token": "yeah"
         },
         {
-            "name": "PR_056_yeah",
+            "name": "PS_146_wow",
             "start": 451.14,
-            "end": 451.897875,
-            "token": "yeah"
+            "end": 452.29825,
+            "token": "wow"
         },
         {
-            "name": "spontD_101_yeah",
+            "name": "spontC_076_yeah",
             "start": 452.82,
-            "end": 453.585625,
+            "end": 453.507625,
             "token": "yeah"
         },
         {
@@ -36,9 +36,9 @@
             "token": "yeah"
         },
         {
-            "name": "spontC_135_yeah",
+            "name": "spontD_240_yeah",
             "start": 456.68,
-            "end": 457.36762500000003,
+            "end": 457.34275,
             "token": "yeah"
         }
     ]

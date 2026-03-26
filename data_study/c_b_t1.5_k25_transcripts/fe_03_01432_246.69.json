@@ -1,9 +1,9 @@
 {
     "name": "fe_03_01432",
     "context_channel": 1,
-    "context_text": "<A> yeah with the salvation army we're i i work with the disaster / <B> uh-huh / <A> canteen here / <B> uh-huh / <A> and we've we've been to about three meetings so far on what to do in case of a terrorist attack and all that / <B> right / <A> and it's real you know some of the pictures you see / <B> uh-huh",
+    "context_text": "<A> yeah with the salvation army we're i i work with the disaster / <B> uh-huh / <A> canteen here / <B> okay / <A> and we've we've been to about three meetings so far on what to do in case of a terrorist attack and all that / <B> okay / <A> and it's real you know some of the pictures you see / <B> yeah",
     "context_start": 246.69,
-    "context_end": 266.294625,
+    "context_end": 266.46612500000003,
     "feedback": [
         {
             "name": "spontC_186_uh-huh",
@@ -12,22 +12,22 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontD_034_uh-huh",
+            "name": "spontD_022_okay",
             "start": 253.04,
-            "end": 253.55724999999998,
-            "token": "uh-huh"
+            "end": 253.509,
+            "token": "okay"
         },
         {
-            "name": "sun1_030_right",
+            "name": "spontA_257_okay",
             "start": 260.98,
-            "end": 261.77362500000004,
-            "token": "right"
+            "end": 261.6085,
+            "token": "okay"
         },
         {
-            "name": "spontD_020_uh-huh",
+            "name": "spontB_143_yeah",
             "start": 265.79,
-            "end": 266.294625,
-            "token": "uh-huh"
+            "end": 266.46612500000003,
+            "token": "yeah"
         }
     ]
 }

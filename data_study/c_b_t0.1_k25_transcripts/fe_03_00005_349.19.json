@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00005",
     "context_channel": 1,
-    "context_text": "<A> well uh everything tends to be uh stews of various sorts / <B> uh-huh / <A> um kind of like kind of like people get a strange idea of what chinese food is like { from } / <B> [ yeah ] / <A> eating in in american chinese restaurants / <B> yeah / <A> um russian food tends to be uh fairly simple um but they make a number of different kinds of meatpies and and things that are like goulash / <B> wow / <A> uh stew served over noodles um beef uh cooked in various ways usually in sauces / <B> wow / <A> uh they pickle a lot of things uh you're probably you've probably eaten uh various types of of of oshinko { i've } / <B> [ yeah ] / <A> pronounced that right uh russian pickles tend to be uh cucumbers and onions / <B> yeah",
+    "context_text": "<A> well uh everything tends to be uh stews of various sorts / <B> uh-huh / <A> um kind of like kind of like people get a strange idea of what chinese food is like { from } / <B> [ yeah ] / <A> eating in in american chinese restaurants / <B> yeah / <A> um russian food tends to be uh fairly simple um but they make a number of different kinds of meatpies and and things that are like goulash / <B> wow / <A> uh stew served over noodles um beef uh cooked in various ways usually in sauces / <B> really / <A> uh they pickle a lot of things uh you're probably you've probably eaten uh various types of of of oshinko { i've } / <B> [ yeah ] / <A> pronounced that right uh russian pickles tend to be uh cucumbers and onions / <B> uh-huh",
     "context_start": 349.19,
-    "context_end": 401.3635,
+    "context_end": 401.301,
     "feedback": [
         {
             "name": "spontE_227_uh-huh",
@@ -18,9 +18,9 @@
             "token": "yeah"
         },
         {
-            "name": "spontC_053_yeah",
+            "name": "spontE_331_yeah",
             "start": 364.55,
-            "end": 365.049125,
+            "end": 365.25075000000004,
             "token": "yeah"
         },
         {
@@ -30,10 +30,10 @@
             "token": "wow"
         },
         {
-            "name": "PS_020_wow",
+            "name": "NS_002_really",
             "start": 384.47,
-            "end": 385.47950000000003,
-            "token": "wow"
+            "end": 385.3265,
+            "token": "really"
         },
         {
             "name": "spontC_062_yeah",
@@ -42,10 +42,10 @@
             "token": "yeah"
         },
         {
-            "name": "spontF_380_yeah",
+            "name": "spontB_137_uh-huh",
             "start": 400.75,
-            "end": 401.3635,
-            "token": "yeah"
+            "end": 401.301,
+            "token": "uh-huh"
         }
     ]
 }

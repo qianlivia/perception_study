@@ -1,7 +1,7 @@
 {
     "name": "fe_03_04781",
     "context_channel": 0,
-    "context_text": "<B> actually i five years ago i worked in a law office / <A> uh-huh / <B> and one of the girls her desk was in like the library in { the } / <A> [ uh-huh ] / <B> law office and she was allowed to smoke at her desk / <A> oh / <B> none of the other girls could { 'cause } / <A> [ uh-huh ] / <B> we were out more in the open / <A> yeah / <B> but you would open up her door you know to go in there and it was like whoa you know how many cigarettes did you just smoke { you know it was } / <A> [ yeah ]",
+    "context_text": "<B> actually i five years ago i worked in a law office / <A> uh-huh / <B> and one of the girls her desk was in like the library in { the } / <A> [ uh-huh ] / <B> law office and she was allowed to smoke at her desk / <A> uh-huh / <B> none of the other girls could { 'cause } / <A> [ wow ] / <B> we were out more in the open / <A> yeah / <B> but you would open up her door you know to go in there and it was like whoa you know how many cigarettes did you just smoke { you know it was } / <A> [ yeah ]",
     "context_start": 513.63,
     "context_end": 538.6385,
     "feedback": [
@@ -18,21 +18,21 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontF_320_oh",
+            "name": "spontB_129_uh-huh",
             "start": 526.82,
-            "end": 527.522375,
-            "token": "oh"
-        },
-        {
-            "name": "spontA_290_uh-huh",
-            "start": 528.76,
-            "end": 529.2597499999999,
+            "end": 527.3033750000001,
             "token": "uh-huh"
         },
         {
-            "name": "spontC_352_yeah",
+            "name": "PS_101_wow",
+            "start": 528.76,
+            "end": 529.6983749999999,
+            "token": "wow"
+        },
+        {
+            "name": "spontC_321_yeah",
             "start": 530.58,
-            "end": 531.279125,
+            "end": 531.2448750000001,
             "token": "yeah"
         },
         {

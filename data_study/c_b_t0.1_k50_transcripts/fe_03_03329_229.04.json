@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03329",
     "context_channel": 0,
-    "context_text": "<B> yeah he healed me from a stroke / <A> wow / <B> yeah so if you would have saw me you wouldn't think i had one / <A> wow / <B> it's uh i fell back and my i was paralyzed but i asked him to forgive me for my sins and i'm walking around / <A> wow / <B> but they found a scar on my head to prove that i had it / <A> wow / <B> so uh it it affects my personality which means what it does is because i had a stroke in the front lobe it makes behavior problems with anger and temper / <A> oh / <B> and i wanna know why all my life i was having problems with my anger / <A> yeah",
+    "context_text": "<B> yeah he healed me from a stroke / <A> wow / <B> yeah so if you would have saw me you wouldn't think i had one / <A> really / <B> it's uh i fell back and my i was paralyzed but i asked him to forgive me for my sins and i'm walking around / <A> wow / <B> but they found a scar on my head to prove that i had it / <A> wow / <B> so uh it it affects my personality which means what it does is because i had a stroke in the front lobe it makes behavior problems with anger and temper / <A> wow / <B> and i wanna know why all my life i was having problems with my anger / <A> yeah",
     "context_start": 229.04,
-    "context_end": 267.24625,
+    "context_end": 267.298875,
     "feedback": [
         {
             "name": "PS_085_wow",
@@ -12,33 +12,33 @@
             "token": "wow"
         },
         {
-            "name": "PS_108_wow",
+            "name": "PS_002_really",
             "start": 236.15,
-            "end": 237.29575,
-            "token": "wow"
+            "end": 236.94287500000002,
+            "token": "really"
         },
         {
-            "name": "PS_192_wow",
+            "name": "PS_187_wow",
             "start": 244.27,
-            "end": 244.929875,
+            "end": 245.2825,
             "token": "wow"
         },
         {
-            "name": "PS_023_wow",
+            "name": "PS_100_wow",
             "start": 249.21,
-            "end": 249.9995,
+            "end": 250.206625,
             "token": "wow"
         },
         {
-            "name": "spontF_320_oh",
+            "name": "PS_176_wow",
             "start": 262.38,
-            "end": 263.082375,
-            "token": "oh"
+            "end": 263.3775,
+            "token": "wow"
         },
         {
-            "name": "spontC_405_yeah",
+            "name": "spontD_200_yeah",
             "start": 266.63,
-            "end": 267.24625,
+            "end": 267.298875,
             "token": "yeah"
         }
     ]

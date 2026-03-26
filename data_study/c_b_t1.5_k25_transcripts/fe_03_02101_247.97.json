@@ -1,9 +1,9 @@
 {
     "name": "fe_03_02101",
     "context_channel": 1,
-    "context_text": "<A> well it it did cut up because we had the first weekend after it we had probably twenty something folks show up to help us clean up the house / <B> oh / <A> you know to clear out stuff that was burned out because it was really hard for us to do it we lost / <B> yeah / <A> you know we lost everything we lost a bunch of animals / <B> uh-huh / <A> uh it was uh real hard uh barbara couldn't even go down there { you } / <B> [ yeah ] / <A> know it was just so so much for her but here i somebody had to go down there cause i had these people coming down to help / <B> yeah",
+    "context_text": "<A> well it it did cut up because we had the first weekend after it we had probably twenty something folks show up to help us clean up the house / <B> oh / <A> you know to clear out stuff that was burned out because it was really hard for us to do it we lost / <B> right / <A> you know we lost everything we lost a bunch of animals / <B> really / <A> uh it was uh real hard uh barbara couldn't even go down there { you } / <B> [ wow ] / <A> know it was just so so much for her but here i somebody had to go down there cause i had these people coming down to help / <B> yeah",
     "context_start": 247.97,
-    "context_end": 278.47062500000004,
+    "context_end": 278.557,
     "feedback": [
         {
             "name": "spontF_320_oh",
@@ -12,27 +12,27 @@
             "token": "oh"
         },
         {
-            "name": "spontE_059_yeah",
+            "name": "PR_048_right",
             "start": 263.03,
-            "end": 263.91137499999996,
-            "token": "yeah"
+            "end": 263.665125,
+            "token": "right"
         },
         {
-            "name": "sun1_036_uh-huh",
+            "name": "NS_002_really",
             "start": 266.56,
-            "end": 267.54175,
-            "token": "uh-huh"
+            "end": 267.4165,
+            "token": "really"
         },
         {
-            "name": "spontD_049_yeah",
+            "name": "PS_108_wow",
             "start": 272.24,
-            "end": 272.879125,
-            "token": "yeah"
+            "end": 273.38575000000003,
+            "token": "wow"
         },
         {
-            "name": "spontF_300_yeah",
+            "name": "spontB_186_yeah",
             "start": 277.98,
-            "end": 278.47062500000004,
+            "end": 278.557,
             "token": "yeah"
         }
     ]

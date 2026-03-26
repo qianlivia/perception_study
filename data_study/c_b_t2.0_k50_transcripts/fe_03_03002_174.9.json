@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03002",
     "context_channel": 1,
-    "context_text": "<A> bought this dog for six hundred dollars / <B> wow / <A> and about oh f ah four years ago we heard from pom rescue finally / <B> uh-huh / <A> and they had a dog for us to look at / <B> uh-huh / <A> so we drove over and looked at this dog / <B> uh-huh",
+    "context_text": "<A> bought this dog for six hundred dollars / <B> wow / <A> and about oh f ah four years ago we heard from pom rescue finally / <B> uh-huh / <A> and they had a dog for us to look at / <B> uh-huh / <A> so we drove over and looked at this dog / <B> yeah",
     "context_start": 174.9,
-    "context_end": 188.48325,
+    "context_end": 188.42025,
     "feedback": [
         {
             "name": "PS_113_wow",
@@ -24,10 +24,10 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontB_198_uh-huh",
+            "name": "spontF_659_yeah",
             "start": 187.99,
-            "end": 188.48325,
-            "token": "uh-huh"
+            "end": 188.42025,
+            "token": "yeah"
         }
     ]
 }

@@ -1,9 +1,9 @@
 {
     "name": "fe_03_02036",
     "context_channel": 0,
-    "context_text": "<B> like it's not as ex i don't think it's as ex it's as expensive as new york / <A> mhm / <B> but man i it's just weird going from a place where i can depend more on the public transportation and being { here and it's } / <A> [ mhm ] / <B> just like forget it / <A> yeah / <B> but this is a relatively small city like the way it's laid out / <A> uh-huh",
+    "context_text": "<B> like it's not as ex i don't think it's as ex it's as expensive as new york / <A> mhm / <B> but man i it's just weird going from a place where i can depend more on the public transportation and being { here and it's } / <A> [ mhm ] / <B> just like forget it / <A> yeah / <B> but this is a relatively small city like the way it's laid out / <A> mhm",
     "context_start": 495.99,
-    "context_end": 514.1115,
+    "context_end": 514.078125,
     "feedback": [
         {
             "name": "spontB_212_mhm",
@@ -24,10 +24,10 @@
             "token": "yeah"
         },
         {
-            "name": "spontA_296_uh-huh",
+            "name": "spontC_309_mhm",
             "start": 513.53,
-            "end": 514.1115,
-            "token": "uh-huh"
+            "end": 514.078125,
+            "token": "mhm"
         }
     ]
 }

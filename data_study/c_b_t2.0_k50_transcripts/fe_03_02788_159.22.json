@@ -1,9 +1,9 @@
 {
     "name": "fe_03_02788",
     "context_channel": 0,
-    "context_text": "<B> there's some people i mean the atlanta braves my family have stuck by them through thick and thin / <A> uh-huh / <B> it doesn't matter if they were winning losing or who they were trading { you } / <A> [ yeah ] / <B> know / <A> yeah / <B> but there was you know like chipper jones { mm } / <A> [ yeah ]",
+    "context_text": "<B> there's some people i mean the atlanta braves my family have stuck by them through thick and thin / <A> uh-huh / <B> it doesn't matter if they were winning losing or who they were trading { you } / <A> [ uh-huh ] / <B> know / <A> yeah / <B> but there was you know like chipper jones { mm } / <A> [ yeah ]",
     "context_start": 159.22,
-    "context_end": 171.56575,
+    "context_end": 171.62275,
     "feedback": [
         {
             "name": "spontA_093_uh-huh",
@@ -12,21 +12,21 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontC_321_yeah",
+            "name": "spontA_051_uh-huh",
             "start": 167.23,
-            "end": 167.89487499999998,
-            "token": "yeah"
+            "end": 167.78924999999998,
+            "token": "uh-huh"
         },
         {
-            "name": "spontC_104_yeah",
+            "name": "spontC_271_yeah",
             "start": 167.89,
-            "end": 168.45325,
+            "end": 168.405125,
             "token": "yeah"
         },
         {
-            "name": "spontE_252_yeah",
+            "name": "spontA_046_yeah",
             "start": 170.93,
-            "end": 171.56575,
+            "end": 171.62275,
             "token": "yeah"
         }
     ]

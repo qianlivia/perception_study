@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00250",
     "context_channel": 1,
-    "context_text": "<A> huh let's see um breath i think i've become more tolerant / <B> mhm / <A> and more open um a litt definitely listen more / <B> mhm / <A> um i um people are very different from from me or do things different differently from the way i do them i tend to kind of pay attention and try to see if that way { and } / <B> [ wow ] / <A> try to find common ground as oppose to as opposed to ah as opposed to as differences / <B> yeah / <A> so in in in that sense i think i think um that has i have changed that since / <B> yeah",
+    "context_text": "<A> huh let's see um breath i think i've become more tolerant / <B> mhm / <A> and more open um a litt definitely listen more / <B> mhm / <A> um i um people are very different from from me or do things different differently from the way i do them i tend to kind of pay attention and try to see if that way { and } / <B> [ mhm ] / <A> try to find common ground as oppose to as opposed to ah as opposed to as differences / <B> mhm / <A> so in in in that sense i think i think um that has i have changed that since / <B> uh-huh",
     "context_start": 29.31,
-    "context_end": 69.57900000000001,
+    "context_end": 69.52787500000001,
     "feedback": [
         {
             "name": "spontD_030_mhm",
@@ -18,22 +18,22 @@
             "token": "mhm"
         },
         {
-            "name": "PS_151_wow",
+            "name": "PR_032_mhm",
             "start": 52.75,
-            "end": 53.92475,
-            "token": "wow"
+            "end": 53.481375,
+            "token": "mhm"
         },
         {
-            "name": "spontA_016_yeah",
+            "name": "spontA_151_mhm",
             "start": 61.02,
-            "end": 61.980500000000006,
-            "token": "yeah"
+            "end": 61.5715,
+            "token": "mhm"
         },
         {
-            "name": "spontC_026_yeah",
+            "name": "spontC_263_uh-huh",
             "start": 68.93,
-            "end": 69.57900000000001,
-            "token": "yeah"
+            "end": 69.52787500000001,
+            "token": "uh-huh"
         }
     ]
 }

@@ -1,9 +1,9 @@
 {
     "name": "fe_03_05321",
     "context_channel": 1,
-    "context_text": "<A> you know cause soccer 's getting more popular all the time / <B> uh-huh / <A> i know down here in georgia they uh they found that they made a a stocker a soccer 's uh what do they call it's not a stadium i forget what it's called but uh they got a pavilion that's what it is / <B> okay / <A> they got a soccer pavilion down here in in georgia / <B> okay / <A> little town where i live / <B> wow",
+    "context_text": "<A> you know cause soccer 's getting more popular all the time / <B> uh-huh / <A> i know down here in georgia they uh they found that they made a a stocker a soccer 's uh what do they call it's not a stadium i forget what it's called but uh they got a pavilion that's what it is / <B> okay / <A> they got a soccer pavilion down here in in georgia / <B> okay / <A> little town where i live / <B> uh-huh",
     "context_start": 442.81,
-    "context_end": 464.28412499999996,
+    "context_end": 464.28887499999996,
     "feedback": [
         {
             "name": "spontF_571_uh-huh",
@@ -24,10 +24,10 @@
             "token": "okay"
         },
         {
-            "name": "spontF_097_wow",
+            "name": "spontA_201_uh-huh",
             "start": 463.84,
-            "end": 464.28412499999996,
-            "token": "wow"
+            "end": 464.28887499999996,
+            "token": "uh-huh"
         }
     ]
 }

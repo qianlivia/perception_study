@@ -1,7 +1,7 @@
 {
     "name": "fe_03_03776",
     "context_channel": 1,
-    "context_text": "<A> [ um ] oh okay um i i rarely do myself but i do watch the daily show whenever i get a chance it's like a news program / <B> oh / <A> and it's really a news program but / <B> okay / <A> it's kind of irreverent / <B> okay / <A> you know it's not really politically aligned it just makes fun of whoever's running it running the show / <B> okay",
+    "context_text": "<A> [ um ] oh okay um i i rarely do myself but i do watch the daily show whenever i get a chance it's like a news program / <B> oh / <A> and it's really a news program but / <B> uh-huh / <A> it's kind of irreverent / <B> okay / <A> you know it's not really politically aligned it just makes fun of whoever's running it running the show / <B> okay",
     "context_start": 566.18,
     "context_end": 584.141125,
     "feedback": [
@@ -12,15 +12,15 @@
             "token": "oh"
         },
         {
-            "name": "spontD_386_okay",
+            "name": "spontA_103_uh-huh",
             "start": 576.13,
-            "end": 576.833,
-            "token": "okay"
+            "end": 576.625375,
+            "token": "uh-huh"
         },
         {
-            "name": "spontF_053_okay",
+            "name": "spontD_383_okay",
             "start": 577.74,
-            "end": 578.56825,
+            "end": 578.411375,
             "token": "okay"
         },
         {

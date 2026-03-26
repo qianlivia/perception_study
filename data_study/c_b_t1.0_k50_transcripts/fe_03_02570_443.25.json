@@ -1,9 +1,9 @@
 {
     "name": "fe_03_02570",
     "context_channel": 0,
-    "context_text": "<B> you know the the terrorist cells throughout you know especially in the middle east / <A> mhm / <B> but you know i think that they the main goal was just to get saddam out of there and establish a new um a new rule you know / <A> uh-huh / <B> with with decent people in there so / <A> mhm / <B> i think i think they'll you know of course they'll have their their terrorists still but / <A> mhm",
+    "context_text": "<B> you know the the terrorist cells throughout you know especially in the middle east / <A> mhm / <B> but you know i think that they the main goal was just to get saddam out of there and establish a new um a new rule you know / <A> uh-huh / <B> with with decent people in there so / <A> mhm / <B> i think i think they'll you know of course they'll have their their terrorists still but / <A> uh-huh",
     "context_start": 443.25,
-    "context_end": 465.36024999999995,
+    "context_end": 465.44,
     "feedback": [
         {
             "name": "spontB_225_mhm",
@@ -18,16 +18,16 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontF_496_mhm",
+            "name": "spontB_200_mhm",
             "start": 459.31,
-            "end": 459.8165,
+            "end": 459.843875,
             "token": "mhm"
         },
         {
-            "name": "spontC_328_mhm",
+            "name": "spontA_243_uh-huh",
             "start": 464.9,
-            "end": 465.36024999999995,
-            "token": "mhm"
+            "end": 465.44,
+            "token": "uh-huh"
         }
     ]
 }

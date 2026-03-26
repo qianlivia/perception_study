@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04493",
     "context_channel": 1,
-    "context_text": "<A> my youngest daughter went to special ed / <B> really / <A> and she's um she's got cerebral palsy / <B> really / <A> so she and now you know in michigan you're entitled to an education from birth to twenty five / <B> wow / <A> and she's twenty three now but had i stayed in michigan she would of still been going to the public school system / <B> wow",
+    "context_text": "<A> my youngest daughter went to special ed / <B> really / <A> and she's um she's got cerebral palsy / <B> wow / <A> so she and now you know in michigan you're entitled to an education from birth to twenty five / <B> okay / <A> and she's twenty three now but had i stayed in michigan she would of still been going to the public school system / <B> wow",
     "context_start": 445.44,
-    "context_end": 476.738875,
+    "context_end": 476.52925,
     "feedback": [
         {
             "name": "NS_082_really",
@@ -12,21 +12,21 @@
             "token": "really"
         },
         {
-            "name": "NS_082_really",
+            "name": "PS_187_wow",
             "start": 455.38,
-            "end": 456.13225,
-            "token": "really"
-        },
-        {
-            "name": "NegS_056_wow",
-            "start": 463.31,
-            "end": 464.41325,
+            "end": 456.3925,
             "token": "wow"
         },
         {
-            "name": "PS_189_wow",
+            "name": "spontA_257_okay",
+            "start": 463.31,
+            "end": 463.9385,
+            "token": "okay"
+        },
+        {
+            "name": "PS_083_wow",
             "start": 475.63,
-            "end": 476.738875,
+            "end": 476.52925,
             "token": "wow"
         }
     ]

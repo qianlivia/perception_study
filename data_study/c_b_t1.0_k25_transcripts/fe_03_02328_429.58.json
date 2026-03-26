@@ -1,9 +1,9 @@
 {
     "name": "fe_03_02328",
     "context_channel": 1,
-    "context_text": "<A> which i think is a good thing you know y / <B> yeah / <A> y you don't necessarily have to go to the doctor all the time and s sometimes there are there are things that you can try things that you can do and like you { said if } / <B> [ exactly ] / <A> they work for you then / <B> yeah",
+    "context_text": "<A> which i think is a good thing you know y / <B> yeah / <A> y you don't necessarily have to go to the doctor all the time and s sometimes there are there are things that you can try things that you can do and like you { said if } / <B> [ yeah ] / <A> they work for you then / <B> yeah",
     "context_start": 429.58,
-    "context_end": 443.480125,
+    "context_end": 443.456125,
     "feedback": [
         {
             "name": "spontD_024_yeah",
@@ -12,15 +12,15 @@
             "token": "yeah"
         },
         {
-            "name": "sun_026_exactly",
+            "name": "sun_045_yeah",
             "start": 441.29,
-            "end": 442.3195,
-            "token": "exactly"
+            "end": 441.729125,
+            "token": "yeah"
         },
         {
-            "name": "spontD_024_yeah",
+            "name": "spontC_395_yeah",
             "start": 443.06,
-            "end": 443.480125,
+            "end": 443.456125,
             "token": "yeah"
         }
     ]

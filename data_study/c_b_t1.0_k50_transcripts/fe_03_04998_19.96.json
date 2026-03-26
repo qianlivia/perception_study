@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04998",
     "context_channel": 0,
-    "context_text": "<B> um f um health and fitness has always been important to me because since i was a young man there's always been something that was emphasized in school / <A> mhm / <B> and um and outside of school as well / <A> mhm / <B> um with sports and things like that i came from because i'm from new jersey originally / <A> uh-huh / <B> i'm from uh south jersey right near philly and uh we come from a big um sports background as far as uh football and basketball has definitely been something { that has } / <A> [ wow ] / <B> got a lot of kids off the street and some got to play for big / <A> uh-huh",
+    "context_text": "<B> um f um health and fitness has always been important to me because since i was a young man there's always been something that was emphasized in school / <A> mhm / <B> and um and outside of school as well / <A> mhm / <B> um with sports and things like that i came from because i'm from new jersey originally / <A> uh-huh / <B> i'm from uh south jersey right near philly and uh we come from a big um sports background as far as uh football and basketball has definitely been something { that has } / <A> [ mhm ] / <B> got a lot of kids off the street and some got to play for big / <A> mhm",
     "context_start": 19.96,
-    "context_end": 56.299125000000004,
+    "context_end": 56.2875,
     "feedback": [
         {
             "name": "spontA_120_mhm",
@@ -18,22 +18,22 @@
             "token": "mhm"
         },
         {
-            "name": "spontF_058_uh-huh",
+            "name": "spontB_137_uh-huh",
             "start": 39.94,
-            "end": 40.4505,
+            "end": 40.491,
             "token": "uh-huh"
         },
         {
-            "name": "PS_108_wow",
+            "name": "PR_057_mhm",
             "start": 50.93,
-            "end": 52.07575,
-            "token": "wow"
+            "end": 51.66225,
+            "token": "mhm"
         },
         {
-            "name": "spontD_146_uh-huh",
+            "name": "spontD_190_mhm",
             "start": 55.78,
-            "end": 56.299125000000004,
-            "token": "uh-huh"
+            "end": 56.2875,
+            "token": "mhm"
         }
     ]
 }

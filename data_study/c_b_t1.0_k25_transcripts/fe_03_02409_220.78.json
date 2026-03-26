@@ -1,9 +1,9 @@
 {
     "name": "fe_03_02409",
     "context_channel": 1,
-    "context_text": "<A> i know and people are starting to get summonses do you know what the latest thing with smoking here in new york / <B> yeah / <A> ah a the latest thing is if you own a restaurant or a bar / <B> okay / <A> and your customer smokes now you cannot be on top of everybody at the same time { you } / <B> [ yeah ] / <A> have to run the place / <B> yeah / <A> but it said in the newspaper that if you are let's say a restaurant owner / <B> yeah",
+    "context_text": "<A> i know and people are starting to get summonses do you know what the latest thing with smoking here in new york / <B> yeah / <A> ah a the latest thing is if you own a restaurant or a bar / <B> okay / <A> and your customer smokes now you cannot be on top of everybody at the same time { you } / <B> [ okay ] / <A> have to run the place / <B> okay / <A> but it said in the newspaper that if you are let's say a restaurant owner / <B> uh-huh",
     "context_start": 220.78,
-    "context_end": 242.31912499999999,
+    "context_end": 242.380875,
     "feedback": [
         {
             "name": "spontC_062_yeah",
@@ -18,22 +18,22 @@
             "token": "okay"
         },
         {
-            "name": "spontA_441_yeah",
+            "name": "spontE_152_okay",
             "start": 236.58,
-            "end": 237.019125,
-            "token": "yeah"
+            "end": 237.20725000000002,
+            "token": "okay"
         },
         {
-            "name": "spontD_051_yeah",
+            "name": "spontB_018_okay",
             "start": 238.4,
-            "end": 238.941375,
-            "token": "yeah"
+            "end": 238.967625,
+            "token": "okay"
         },
         {
-            "name": "spontA_441_yeah",
+            "name": "spontC_128_uh-huh",
             "start": 241.88,
-            "end": 242.31912499999999,
-            "token": "yeah"
+            "end": 242.380875,
+            "token": "uh-huh"
         }
     ]
 }

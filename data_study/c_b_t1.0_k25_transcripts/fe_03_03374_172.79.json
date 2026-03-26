@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03374",
     "context_channel": 0,
-    "context_text": "<B> um i'm from uh near kansas city { missouri } / <A> [ wow ] / <B> and my girlfriend was working at this trucking company / <A> oh / <B> and um brian started wor dri started driving for them / <A> uh-huh / <B> and she was interested in in him first and then we went out on a double date and { and } / <A> [ uh-huh ]",
+    "context_text": "<B> um i'm from uh near kansas city { missouri } / <A> [ wow ] / <B> and my girlfriend was working at this trucking company / <A> oh / <B> and um brian started wor dri started driving for them / <A> uh-huh / <B> and she was interested in in him first and then we went out on a double date and { and } / <A> [ oh ]",
     "context_start": 172.79,
-    "context_end": 198.22725,
+    "context_end": 198.25512500000002,
     "feedback": [
         {
             "name": "PS_093_wow",
@@ -24,10 +24,10 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontD_034_uh-huh",
+            "name": "spontC_112_oh",
             "start": 197.71,
-            "end": 198.22725,
-            "token": "uh-huh"
+            "end": 198.25512500000002,
+            "token": "oh"
         }
     ]
 }

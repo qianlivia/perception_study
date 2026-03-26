@@ -1,9 +1,9 @@
 {
     "name": "fe_03_05134",
     "context_channel": 1,
-    "context_text": "<A> she's she's got obviously learned some skills from the computer but i don't i don't know that she's you know i don't think that she's you know know she hasn't been taught you know microsoft programs / <B> right / <A> or you know word or excel for example things { that you } / <B> [ exactly ] / <A> probably could use some day in your workplace i mean { i } / <B> [ exactly ] / <A> i use those in my workplace / <B> yeah",
+    "context_text": "<A> she's she's got obviously learned some skills from the computer but i don't i don't know that she's you know i don't think that she's you know know she hasn't been taught you know microsoft programs / <B> right / <A> or you know word or excel for example things { that you } / <B> [ right ] / <A> probably could use some day in your workplace i mean { i } / <B> [ exactly ] / <A> i use those in my workplace / <B> uh-huh",
     "context_start": 355.99,
-    "context_end": 378.255625,
+    "context_end": 378.498,
     "feedback": [
         {
             "name": "sun1_031_right",
@@ -12,22 +12,22 @@
             "token": "right"
         },
         {
-            "name": "sun_029_exactly",
+            "name": "sun1_029_right",
             "start": 372.53,
-            "end": 373.670375,
-            "token": "exactly"
+            "end": 373.222,
+            "token": "right"
         },
         {
-            "name": "sun_015_exactly",
+            "name": "sun_016_exactly",
             "start": 375.73,
-            "end": 376.83175,
+            "end": 376.7635,
             "token": "exactly"
         },
         {
-            "name": "spontF_221_yeah",
+            "name": "spontA_329_uh-huh",
             "start": 377.77,
-            "end": 378.255625,
-            "token": "yeah"
+            "end": 378.498,
+            "token": "uh-huh"
         }
     ]
 }

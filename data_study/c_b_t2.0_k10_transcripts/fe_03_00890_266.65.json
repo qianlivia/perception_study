@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00890",
     "context_channel": 0,
-    "context_text": "<B> i guess they're trying to follow the same format with three judges with { that } / <A> [ okay ] / <B> married by america and it just to me it was terrible { yeah } / <A> [ okay ] / <B> i found no reason to want to watch it again / <A> okay",
+    "context_text": "<B> i guess they're trying to follow the same format with three judges with { that } / <A> [ okay ] / <B> married by america and it just to me it was terrible { yeah } / <A> [ yeah ] / <B> i found no reason to want to watch it again / <A> yeah",
     "context_start": 266.65,
-    "context_end": 277.18725,
+    "context_end": 277.19125,
     "feedback": [
         {
             "name": "spontC_134_okay",
@@ -12,16 +12,16 @@
             "token": "okay"
         },
         {
-            "name": "spontC_134_okay",
+            "name": "spontF_127_yeah",
             "start": 273.88,
-            "end": 274.687125,
-            "token": "okay"
+            "end": 274.582,
+            "token": "yeah"
         },
         {
-            "name": "spontE_152_okay",
+            "name": "spontA_111_yeah",
             "start": 276.56,
-            "end": 277.18725,
-            "token": "okay"
+            "end": 277.19125,
+            "token": "yeah"
         }
     ]
 }

@@ -1,9 +1,9 @@
 {
     "name": "fe_03_01849",
     "context_channel": 0,
-    "context_text": "<B> mhm well i i've um was exposed to um computer technology fairly early on in my career because i we're in northern california in um the bay area / <A> mhm / <B> and um gosh one of my early jobs was was working for a company um that had a very early version of electronic mail um this is back { in the } / <A> [ oh ] / <B> early eighties before you know before almost anybody had a computer on their desk / <A> yeah / <B> and everybody was pretty much reliant on mainframe so / <A> mhm / <B> it's been part of my my um computers have been sort of part of what i do for a long time / <A> mhm",
+    "context_text": "<B> mhm well i i've um was exposed to um computer technology fairly early on in my career because i we're in northern california in um the bay area / <A> mhm / <B> and um gosh one of my early jobs was was working for a company um that had a very early version of electronic mail um this is back { in the } / <A> [ mhm ] / <B> early eighties before you know before almost anybody had a computer on their desk / <A> yeah / <B> and everybody was pretty much reliant on mainframe so / <A> mhm / <B> it's been part of my my um computers have been sort of part of what i do for a long time / <A> mhm",
     "context_start": 414.05,
-    "context_end": 451.486625,
+    "context_end": 451.437,
     "feedback": [
         {
             "name": "spontE_262_mhm",
@@ -12,27 +12,27 @@
             "token": "mhm"
         },
         {
-            "name": "spontC_018_oh",
+            "name": "spontC_348_mhm",
             "start": 435.41,
-            "end": 436.18962500000004,
-            "token": "oh"
-        },
-        {
-            "name": "spontC_255_yeah",
-            "start": 441.02,
-            "end": 441.597875,
-            "token": "yeah"
-        },
-        {
-            "name": "spontA_239_mhm",
-            "start": 444.19,
-            "end": 444.702375,
+            "end": 436.0,
             "token": "mhm"
         },
         {
-            "name": "spontA_288_mhm",
+            "name": "spontB_345_yeah",
+            "start": 441.02,
+            "end": 441.457,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_358_mhm",
+            "start": 444.19,
+            "end": 444.688625,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_121_mhm",
             "start": 450.89,
-            "end": 451.486625,
+            "end": 451.437,
             "token": "mhm"
         }
     ]

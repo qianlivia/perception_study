@@ -1,9 +1,9 @@
 {
     "name": "fe_03_01454",
     "context_channel": 1,
-    "context_text": "<A> thing that they might target / <B> yeah / <A> the only thing i have out here is i have palaverde { which is the } / <B> [ okay ] / <A> largest nuclear facility / <B> yeah / <A> but from what i know that thing is the heaviest guarded facility there is / <B> okay / <A> in the area and i have luke air force base here too / <B> okay / <A> and they have a no fly zone if anything flies in their zone { they're basically } / <B> [ wow ] / <A> even ordered to shoot it down / <B> wow / <A> so even in any and they tell me even if something hits it / <B> oh",
+    "context_text": "<A> thing that they might target / <B> yeah / <A> the only thing i have out here is i have palaverde { which is the } / <B> [ okay ] / <A> largest nuclear facility / <B> oh / <A> but from what i know that thing is the heaviest guarded facility there is / <B> yeah / <A> in the area and i have luke air force base here too / <B> yeah / <A> and they have a no fly zone if anything flies in their zone { they're basically } / <B> [ wow ] / <A> even ordered to shoot it down / <B> wow / <A> so even in any and they tell me even if something hits it / <B> yeah",
     "context_start": 529.3,
-    "context_end": 557.6943749999999,
+    "context_end": 557.807375,
     "feedback": [
         {
             "name": "spontA_414_yeah",
@@ -18,40 +18,40 @@
             "token": "okay"
         },
         {
-            "name": "spontC_138_yeah",
+            "name": "spontC_046_oh",
             "start": 537.03,
-            "end": 537.527375,
+            "end": 537.438125,
+            "token": "oh"
+        },
+        {
+            "name": "spontD_140_yeah",
+            "start": 543.86,
+            "end": 544.40025,
             "token": "yeah"
         },
         {
-            "name": "spontF_280_okay",
-            "start": 543.86,
-            "end": 544.581625,
-            "token": "okay"
-        },
-        {
-            "name": "spontF_074_okay",
+            "name": "spontC_255_yeah",
             "start": 546.64,
-            "end": 547.284125,
-            "token": "okay"
+            "end": 547.2178749999999,
+            "token": "yeah"
         },
         {
-            "name": "PS_018_wow",
+            "name": "PS_188_wow",
             "start": 550.54,
-            "end": 551.545625,
+            "end": 551.710875,
             "token": "wow"
         },
         {
-            "name": "PS_020_wow",
+            "name": "PS_156_wow",
             "start": 552.85,
-            "end": 553.8595,
+            "end": 553.79075,
             "token": "wow"
         },
         {
-            "name": "spontF_207_oh",
+            "name": "spontC_138_yeah",
             "start": 557.31,
-            "end": 557.6943749999999,
-            "token": "oh"
+            "end": 557.807375,
+            "token": "yeah"
         }
     ]
 }

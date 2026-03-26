@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00014",
     "context_channel": 0,
-    "context_text": "<B> at the very last you know as a last resort then i will go to the doctors and i beg them please give me something you know / <A> mhm / <B> i've been like this for three weeks i have to get have something i can't breathe you know and unfortunately and maybe that's not the best course of action / <A> mhm / <B> is you know wait till you're so sick that you know you're on the verge of going to the emergency room / <A> uh-huh",
+    "context_text": "<B> at the very last you know as a last resort then i will go to the doctors and i beg them please give me something you know / <A> mhm / <B> i've been like this for three weeks i have to get have something i can't breathe you know and unfortunately and maybe that's not the best course of action / <A> yeah / <B> is you know wait till you're so sick that you know you're on the verge of going to the emergency room / <A> yeah",
     "context_start": 483.5,
-    "context_end": 508.647875,
+    "context_end": 508.800875,
     "feedback": [
         {
             "name": "spontA_395_mhm",
@@ -12,16 +12,16 @@
             "token": "mhm"
         },
         {
-            "name": "spontC_327_mhm",
+            "name": "spontE_150_yeah",
             "start": 501.67,
-            "end": 502.18225,
-            "token": "mhm"
+            "end": 502.077125,
+            "token": "yeah"
         },
         {
-            "name": "spontC_367_uh-huh",
+            "name": "spontC_008_yeah",
             "start": 508.07,
-            "end": 508.647875,
-            "token": "uh-huh"
+            "end": 508.800875,
+            "token": "yeah"
         }
     ]
 }

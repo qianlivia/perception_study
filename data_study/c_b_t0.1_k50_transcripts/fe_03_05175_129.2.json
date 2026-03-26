@@ -1,9 +1,9 @@
 {
     "name": "fe_03_05175",
     "context_channel": 1,
-    "context_text": "<A> yeah he's from uh his uh i'm from cal he's from california actually his uh cousins are / <B> oh / <A> and uh he lived in eugene used to go down there he was my neighbor i mean he was my neighbor's cousin so he used to come down every summer / <B> yeah / <A> so yeah i grew up with him i used to every summer we used to spend all all our summer together all the time / <B> yeah",
+    "context_text": "<A> yeah he's from uh his uh i'm from cal he's from california actually his uh cousins are / <B> oh / <A> and uh he lived in eugene used to go down there he was my neighbor i mean he was my neighbor's cousin so he used to come down every summer / <B> uh-huh / <A> so yeah i grew up with him i used to every summer we used to spend all all our summer together all the time / <B> wow",
     "context_start": 129.2,
-    "context_end": 149.3235,
+    "context_end": 149.745375,
     "feedback": [
         {
             "name": "spontB_181_oh",
@@ -12,16 +12,16 @@
             "token": "oh"
         },
         {
-            "name": "spontC_197_yeah",
+            "name": "spontC_378_uh-huh",
             "start": 142.43,
-            "end": 142.993625,
-            "token": "yeah"
+            "end": 142.93675000000002,
+            "token": "uh-huh"
         },
         {
-            "name": "spontF_380_yeah",
+            "name": "PS_095_wow",
             "start": 148.71,
-            "end": 149.3235,
-            "token": "yeah"
+            "end": 149.745375,
+            "token": "wow"
         }
     ]
 }

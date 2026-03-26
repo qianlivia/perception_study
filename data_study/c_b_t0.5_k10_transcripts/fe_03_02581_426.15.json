@@ -1,9 +1,9 @@
 {
     "name": "fe_03_02581",
     "context_channel": 1,
-    "context_text": "<A> and the men are the bosses and they can have two three four wives / <B> yeah / <A> so this there's a lot of brilliant people in the middle east in the in the muslim world / <B> uh-huh / <A> and they can't do much because uh it's against their culture / <B> uh-huh",
+    "context_text": "<A> and the men are the bosses and they can have two three four wives / <B> yeah / <A> so this there's a lot of brilliant people in the middle east in the in the muslim world / <B> yeah / <A> and they can't do much because uh it's against their culture / <B> yeah",
     "context_start": 426.15,
-    "context_end": 440.13462499999997,
+    "context_end": 440.095125,
     "feedback": [
         {
             "name": "spontD_397_yeah",
@@ -12,16 +12,16 @@
             "token": "yeah"
         },
         {
-            "name": "spontC_189_uh-huh",
+            "name": "spontC_506_yeah",
             "start": 435.1,
-            "end": 435.58025000000004,
-            "token": "uh-huh"
+            "end": 435.61937500000005,
+            "token": "yeah"
         },
         {
-            "name": "spontD_020_uh-huh",
+            "name": "spontF_142_yeah",
             "start": 439.63,
-            "end": 440.13462499999997,
-            "token": "uh-huh"
+            "end": 440.095125,
+            "token": "yeah"
         }
     ]
 }

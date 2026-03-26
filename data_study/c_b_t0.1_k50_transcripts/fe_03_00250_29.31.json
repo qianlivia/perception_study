@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00250",
     "context_channel": 1,
-    "context_text": "<A> huh let's see um breath i think i've become more tolerant / <B> uh-huh / <A> and more open um a litt definitely listen more / <B> uh-huh / <A> um i um people are very different from from me or do things different differently from the way i do them i tend to kind of pay attention and try to see if that way { and } / <B> [ uh-huh ] / <A> try to find common ground as oppose to as opposed to ah as opposed to as differences / <B> yeah / <A> so in in in that sense i think i think um that has i have changed that since / <B> yeah",
+    "context_text": "<A> huh let's see um breath i think i've become more tolerant / <B> uh-huh / <A> and more open um a litt definitely listen more / <B> uh-huh / <A> um i um people are very different from from me or do things different differently from the way i do them i tend to kind of pay attention and try to see if that way { and } / <B> [ yeah ] / <A> try to find common ground as oppose to as opposed to ah as opposed to as differences / <B> yeah / <A> so in in in that sense i think i think um that has i have changed that since / <B> yeah",
     "context_start": 29.31,
-    "context_end": 69.81687500000001,
+    "context_end": 69.37400000000001,
     "feedback": [
         {
             "name": "spontD_276_uh-huh",
@@ -18,21 +18,21 @@
             "token": "uh-huh"
         },
         {
-            "name": "PR_053_uh-huh",
+            "name": "spontE_130_yeah",
             "start": 52.75,
-            "end": 53.6175,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontC_182_yeah",
-            "start": 61.02,
-            "end": 61.889500000000005,
+            "end": 53.591875,
             "token": "yeah"
         },
         {
-            "name": "spontE_124_yeah",
+            "name": "spontD_257_yeah",
+            "start": 61.02,
+            "end": 61.611250000000005,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_297_yeah",
             "start": 68.93,
-            "end": 69.81687500000001,
+            "end": 69.37400000000001,
             "token": "yeah"
         }
     ]

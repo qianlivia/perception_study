@@ -1,9 +1,9 @@
 {
     "name": "fe_03_02244",
     "context_channel": 0,
-    "context_text": "<B> so a lot of it just depends on that you know 'cause that's what i found like we we're military / <A> uh-huh / <B> and we just moved on base { and } / <A> [ okay ] / <B> the town that we're in is really i mean the water's just like across the highway from us which the highway is right in front of the base / <A> yeah / <B> so half of the base residents live right on the water / <A> okay / <B> and um yeah we moved on base here and we left stuff outside when we were first moving in / <A> mhm",
+    "context_text": "<B> so a lot of it just depends on that you know 'cause that's what i found like we we're military / <A> uh-huh / <B> and we just moved on base { and } / <A> [ oh ] / <B> the town that we're in is really i mean the water's just like across the highway from us which the highway is right in front of the base / <A> uh-huh / <B> so half of the base residents live right on the water / <A> yeah / <B> and um yeah we moved on base here and we left stuff outside when we were first moving in / <A> uh-huh",
     "context_start": 204.68,
-    "context_end": 230.453625,
+    "context_end": 230.48137499999999,
     "feedback": [
         {
             "name": "spontC_128_uh-huh",
@@ -12,28 +12,28 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontC_020_okay",
+            "name": "Sy_055_oh",
             "start": 211.63,
-            "end": 212.105,
-            "token": "okay"
+            "end": 212.455875,
+            "token": "oh"
         },
         {
-            "name": "spontC_138_yeah",
+            "name": "spontF_573_uh-huh",
             "start": 219.25,
-            "end": 219.747375,
+            "end": 220.038625,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_321_yeah",
+            "start": 222.92,
+            "end": 223.58487499999998,
             "token": "yeah"
         },
         {
-            "name": "spontF_518_okay",
-            "start": 222.92,
-            "end": 223.62599999999998,
-            "token": "okay"
-        },
-        {
-            "name": "spontD_137_mhm",
+            "name": "spontA_093_uh-huh",
             "start": 229.94,
-            "end": 230.453625,
-            "token": "mhm"
+            "end": 230.48137499999999,
+            "token": "uh-huh"
         }
     ]
 }

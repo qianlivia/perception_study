@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00359",
     "context_channel": 0,
-    "context_text": "<B> you know because i always move around i'm / <A> oh / <B> i i uh i come from china / <A> oh / <B> and i always move around i i have stayed in the united states for four years right now / <A> yeah",
+    "context_text": "<B> you know because i always move around i'm / <A> oh / <B> i i uh i come from china / <A> uh-huh / <B> and i always move around i i have stayed in the united states for four years right now / <A> uh-huh",
     "context_start": 217.23,
-    "context_end": 232.53349999999998,
+    "context_end": 232.424625,
     "feedback": [
         {
             "name": "spontE_15_oh",
@@ -12,16 +12,16 @@
             "token": "oh"
         },
         {
-            "name": "PS_008_oh",
+            "name": "spontA_086_uh-huh",
             "start": 223.75,
-            "end": 224.358625,
-            "token": "oh"
+            "end": 224.260125,
+            "token": "uh-huh"
         },
         {
-            "name": "spontF_380_yeah",
+            "name": "spontD_020_uh-huh",
             "start": 231.92,
-            "end": 232.53349999999998,
-            "token": "yeah"
+            "end": 232.424625,
+            "token": "uh-huh"
         }
     ]
 }

@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04313",
     "context_channel": 0,
-    "context_text": "<B> yeah she finally broke she finally came out she okay for my whole life she lied to me { my } / <A> [ wow ] / <B> whole life she told me that she had that he had died / <A> oh / <B> and then finally around what six months ago when she went into a coma { and she } / <A> [ wow ] / <B> came out of it and she was alive / <A> yeah / <B> all of a sudden she wanted to tell me the truth so that's when i found his name and everything like that and blah blah blah blah / <A> wow",
+    "context_text": "<B> yeah she finally broke she finally came out she okay for my whole life she lied to me { my } / <A> [ wow ] / <B> whole life she told me that she had that he had died / <A> wow / <B> and then finally around what six months ago when she went into a coma { and she } / <A> [ wow ] / <B> came out of it and she was alive / <A> yeah / <B> all of a sudden she wanted to tell me the truth so that's when i found his name and everything like that and blah blah blah blah / <A> wow",
     "context_start": 384.89,
-    "context_end": 405.562625,
+    "context_end": 405.585375,
     "feedback": [
         {
             "name": "PS_023_wow",
@@ -12,10 +12,10 @@
             "token": "wow"
         },
         {
-            "name": "PS_025_oh",
+            "name": "PS_031_wow",
             "start": 391.86,
-            "end": 392.88437500000003,
-            "token": "oh"
+            "end": 392.62175,
+            "token": "wow"
         },
         {
             "name": "PS_187_wow",
@@ -24,15 +24,15 @@
             "token": "wow"
         },
         {
-            "name": "spontD_051_yeah",
+            "name": "spontF_562_yeah",
             "start": 398.97,
-            "end": 399.51137500000004,
+            "end": 399.538875,
             "token": "yeah"
         },
         {
-            "name": "PS_037_wow",
+            "name": "PS_095_wow",
             "start": 404.55,
-            "end": 405.562625,
+            "end": 405.585375,
             "token": "wow"
         }
     ]

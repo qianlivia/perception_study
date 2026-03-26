@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03546",
     "context_channel": 1,
-    "context_text": "<A> especially for new york it's like you know we're right outside of the city it's about a half hour commute { so it's } / <B> [ oh ] / <A> kinda like you're in a suburban area / <B> okay / <A> but you can get into the you know that's where most people do work is in the city / <B> okay / <A> and i just can't imagine it it's everything here like just constantly constantly goes up including / <B> wow",
+    "context_text": "<A> especially for new york it's like you know we're right outside of the city it's about a half hour commute { so it's } / <B> [ oh ] / <A> kinda like you're in a suburban area / <B> okay / <A> but you can get into the you know that's where most people do work is in the city / <B> okay / <A> and i just can't imagine it it's everything here like just constantly constantly goes up including / <B> yeah",
     "context_start": 120.45,
-    "context_end": 142.25325,
+    "context_end": 141.955,
     "feedback": [
         {
             "name": "PS_111_oh",
@@ -24,10 +24,10 @@
             "token": "okay"
         },
         {
-            "name": "NegS_056_wow",
+            "name": "spontA_374_yeah",
             "start": 141.15,
-            "end": 142.25325,
-            "token": "wow"
+            "end": 141.955,
+            "token": "yeah"
         }
     ]
 }

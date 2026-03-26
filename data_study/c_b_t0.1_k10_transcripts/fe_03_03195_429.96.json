@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03195",
     "context_channel": 1,
-    "context_text": "<A> but i know what it's like being a single mother because i was for a while / <B> okay / <A> and um until my kids were they was ten and eleven { until } / <B> [ wow ] / <A> they was out of high school before i got remarried / <B> wow / <A> and um so but when she's about five / <B> okay",
+    "context_text": "<A> but i know what it's like being a single mother because i was for a while / <B> okay / <A> and um until my kids were they was ten and eleven { until } / <B> [ wow ] / <A> they was out of high school before i got remarried / <B> wow / <A> and um so but when she's about five / <B> wow",
     "context_start": 429.96,
-    "context_end": 451.97562500000004,
+    "context_end": 452.084,
     "feedback": [
         {
             "name": "sun1_017_okay",
@@ -24,10 +24,10 @@
             "token": "wow"
         },
         {
-            "name": "spontC_017_okay",
+            "name": "NegS_065_wow",
             "start": 451.17,
-            "end": 451.97562500000004,
-            "token": "okay"
+            "end": 452.084,
+            "token": "wow"
         }
     ]
 }
