@@ -1,15 +1,15 @@
 {
     "name": "fe_03_03648",
     "context_channel": 1,
-    "context_text": "<A> groceries shoes clothes everything you can't live off of five fifteen you / <B> no / <A> just it's too it's too hard / <B> yeah / <A> and i mean y they i think that they should increase the minimum wage to at least about eight or nine dollars / <B> yeah / <A> an hour because if we have enough money to give to all these different countries who the need of this and need of that then we have money to pay our own people half way decent / <B> yeah",
+    "context_text": "<A> groceries shoes clothes everything you can't live off of five fifteen you / <B> yeah / <A> just it's too it's too hard / <B> yeah / <A> and i mean y they i think that they should increase the minimum wage to at least about eight or nine dollars / <B> yeah / <A> an hour because if we have enough money to give to all these different countries who the need of this and need of that then we have money to pay our own people half way decent / <B> yeah",
     "context_start": 30.96,
-    "context_end": 59.817375,
+    "context_end": 59.962875,
     "feedback": [
         {
-            "name": "spontA_112_no",
+            "name": "spontA_109_yeah",
             "start": 36.33,
-            "end": 37.143125,
-            "token": "no"
+            "end": 36.981249999999996,
+            "token": "yeah"
         },
         {
             "name": "spontB_157_yeah",
@@ -24,9 +24,9 @@
             "token": "yeah"
         },
         {
-            "name": "spontC_504_yeah",
+            "name": "spontA_133_yeah",
             "start": 59.33,
-            "end": 59.817375,
+            "end": 59.962875,
             "token": "yeah"
         }
     ]

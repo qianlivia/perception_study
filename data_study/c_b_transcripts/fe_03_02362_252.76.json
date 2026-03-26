@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02362",
     "context_channel": 0,
-    "context_text": "<B> oh yeah yeah i was really i was very bitchy and so i needed to be alone a lot / <A> sure / <B> because i would blow up i'd be in the middle of a happy conversation laughing and all of a sudden i'd get mad and i didn't know why i { was mad but } / <A> [ wow ] / <B> whoever i was talking to i'd get real snippy with / <A> yeah / <B> you know and i guess it's the your your craving { but } / <A> [ sure ]",
+    "context_text": "<B> oh yeah yeah i was really i was very bitchy and so i needed to be alone a lot / <A> yeah / <B> because i would blow up i'd be in the middle of a happy conversation laughing and all of a sudden i'd get mad and i didn't know why i { was mad but } / <A> [ yeah ] / <B> whoever i was talking to i'd get real snippy with / <A> yeah / <B> you know and i guess it's the your your craving { but } / <A> [ yeah ]",
     "context_start": 252.76,
-    "context_end": 276.591125,
+    "context_end": 276.8615,
     "feedback": [
         {
-            "name": "sun_052_sure",
+            "name": "spontB_023_yeah",
             "start": 260.02,
-            "end": 260.87775,
-            "token": "sure"
-        },
-        {
-            "name": "PS_038_wow",
-            "start": 268.19,
-            "end": 269.54575,
-            "token": "wow"
-        },
-        {
-            "name": "spontB_384_yeah",
-            "start": 271.49,
-            "end": 272.17125,
+            "end": 260.88712499999997,
             "token": "yeah"
         },
         {
-            "name": "sun_047_sure",
+            "name": "spontB_132_yeah",
+            "start": 268.19,
+            "end": 269.097125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_245_yeah",
+            "start": 271.49,
+            "end": 272.310875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_335_yeah",
             "start": 275.71,
-            "end": 276.591125,
-            "token": "sure"
+            "end": 276.8615,
+            "token": "yeah"
         }
     ]
 }

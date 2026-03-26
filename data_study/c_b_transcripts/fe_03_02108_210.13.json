@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02108",
     "context_channel": 0,
-    "context_text": "<B> funny we can live under the same roof um for six months out of the year but we're not best friends / <A> no / <B> we're not bosom buddies you know / <A> no / <B> it it's really strange i can't tell her everything / <A> no / <B> i just don't feel comfortable doing that / <A> no",
+    "context_text": "<B> funny we can live under the same roof um for six months out of the year but we're not best friends / <A> yeah / <B> we're not bosom buddies you know / <A> yeah / <B> it it's really strange i can't tell her everything / <A> yeah / <B> i just don't feel comfortable doing that / <A> yeah",
     "context_start": 210.13,
-    "context_end": 226.18349999999998,
+    "context_end": 225.96462499999998,
     "feedback": [
         {
-            "name": "spontF_264_no",
+            "name": "spontC_117_yeah",
             "start": 216.84,
-            "end": 217.377125,
-            "token": "no"
+            "end": 217.532625,
+            "token": "yeah"
         },
         {
-            "name": "spontE_345_no",
+            "name": "spontE_355_yeah",
             "start": 218.96,
-            "end": 219.71450000000002,
-            "token": "no"
+            "end": 219.40312500000002,
+            "token": "yeah"
         },
         {
-            "name": "spontA_112_no",
+            "name": "spontA_109_yeah",
             "start": 222.87,
-            "end": 223.68312500000002,
-            "token": "no"
+            "end": 223.52125,
+            "token": "yeah"
         },
         {
-            "name": "sun_021_no",
+            "name": "spontA_382_yeah",
             "start": 225.39,
-            "end": 226.18349999999998,
-            "token": "no"
+            "end": 225.96462499999998,
+            "token": "yeah"
         }
     ]
 }

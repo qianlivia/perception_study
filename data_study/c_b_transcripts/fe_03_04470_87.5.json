@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04470",
     "context_channel": 0,
-    "context_text": "<B> yeah but you know what uh because i i taught um evening adult evening education program right / <A> uh-huh / <B> and what i find different today in regards to how the kids come up they don't seem to teach with any uh intent uh teaching like say values to me it's just a matter of teaching the basic reading writing arithmetic / <A> uh-huh / <B> and leave the subject matter real bland / <A> uh-huh / <B> i understand that you know you can't always bring your own personal feelings into the classroom when you're instructing { you } / <A> [ no ] / <B> know various type of children { but } / <A> [ no ]",
+    "context_text": "<B> yeah but you know what uh because i i taught um evening adult evening education program right / <A> uh-huh / <B> and what i find different today in regards to how the kids come up they don't seem to teach with any uh intent uh teaching like say values to me it's just a matter of teaching the basic reading writing arithmetic / <A> uh-huh / <B> and leave the subject matter real bland / <A> mhm / <B> i understand that you know you can't always bring your own personal feelings into the classroom when you're instructing { you } / <A> [ right ] / <B> know various type of children { but } / <A> [ wow ]",
     "context_start": 87.5,
-    "context_end": 124.074125,
+    "context_end": 124.24799999999999,
     "feedback": [
         {
             "name": "spontA_060_uh-huh",
@@ -18,22 +18,22 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontC_386_uh-huh",
+            "name": "spontA_253_mhm",
             "start": 114.48,
-            "end": 115.0265,
-            "token": "uh-huh"
+            "end": 114.953625,
+            "token": "mhm"
         },
         {
-            "name": "NR_098_no",
+            "name": "sun1_031_right",
             "start": 121.87,
-            "end": 122.36550000000001,
-            "token": "no"
+            "end": 122.66425000000001,
+            "token": "right"
         },
         {
-            "name": "NR_060_no",
+            "name": "PS_105_wow",
             "start": 123.6,
-            "end": 124.074125,
-            "token": "no"
+            "end": 124.24799999999999,
+            "token": "wow"
         }
     ]
 }

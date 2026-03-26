@@ -1,21 +1,21 @@
 {
     "name": "fe_03_01554",
     "context_channel": 0,
-    "context_text": "<B> we feel so blessed uh because i i can grew up in the south in the sixties { when there } / <A> [ ah ] / <B> was a black and a white issue / <A> ah / <B> and do you remember how i remember when they were talking um i saw the special where jackie robinson was the first black to come into baseball and all the disturbances it caused { but then him } / <A> [ wow ] / <B> being a good athlete i i it's a shame people look at your skill before they look at you / <A> uh-huh",
+    "context_text": "<B> we feel so blessed uh because i i can grew up in the south in the sixties { when there } / <A> [ wow ] / <B> was a black and a white issue / <A> yeah / <B> and do you remember how i remember when they were talking um i saw the special where jackie robinson was the first black to come into baseball and all the disturbances it caused { but then him } / <A> [ wow ] / <B> being a good athlete i i it's a shame people look at your skill before they look at you / <A> yeah",
     "context_start": 160.61,
-    "context_end": 190.259625,
+    "context_end": 190.05112499999998,
     "feedback": [
         {
-            "name": "NS_104_ah",
+            "name": "PS_093_wow",
             "start": 165.3,
-            "end": 166.098125,
-            "token": "ah"
+            "end": 166.23225000000002,
+            "token": "wow"
         },
         {
-            "name": "spontB_148_ah",
+            "name": "spontD_338_yeah",
             "start": 167.2,
-            "end": 168.152875,
-            "token": "ah"
+            "end": 167.85537499999998,
+            "token": "yeah"
         },
         {
             "name": "NegS_044_wow",
@@ -24,10 +24,10 @@
             "token": "wow"
         },
         {
-            "name": "NS_037_uh-huh",
+            "name": "spontF_570_yeah",
             "start": 189.17,
-            "end": 190.259625,
-            "token": "uh-huh"
+            "end": 190.05112499999998,
+            "token": "yeah"
         }
     ]
 }

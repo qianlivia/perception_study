@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01807",
     "context_channel": 0,
-    "context_text": "<B> he's in a public school / <A> okay / <B> um but i have you know visited some other private schools for various reasons and / <A> mhm / <B> you know i'm surprised that they're even on a different level and i think { that } / <A> [ absolutely ] / <B> you know some of the children need to play catch up um / <A> right",
+    "context_text": "<B> he's in a public school / <A> yeah / <B> um but i have you know visited some other private schools for various reasons and / <A> uh-huh / <B> you know i'm surprised that they're even on a different level and i think { that } / <A> [ yeah ] / <B> you know some of the children need to play catch up um / <A> yeah",
     "context_start": 98.23,
-    "context_end": 116.122,
+    "context_end": 116.04625,
     "feedback": [
         {
-            "name": "spontF_643_okay",
+            "name": "spontC_255_yeah",
             "start": 99.92,
-            "end": 100.628,
-            "token": "okay"
+            "end": 100.49787500000001,
+            "token": "yeah"
         },
         {
-            "name": "spontC_235_mhm",
+            "name": "spontC_128_uh-huh",
             "start": 106.84,
-            "end": 107.29175000000001,
-            "token": "mhm"
+            "end": 107.340875,
+            "token": "uh-huh"
         },
         {
-            "name": "PR_049_absolutely",
+            "name": "spontA_046_yeah",
             "start": 111.68,
-            "end": 112.766625,
-            "token": "absolutely"
+            "end": 112.37275000000001,
+            "token": "yeah"
         },
         {
-            "name": "sun1_029_right",
+            "name": "spontC_405_yeah",
             "start": 115.43,
-            "end": 116.122,
-            "token": "right"
+            "end": 116.04625,
+            "token": "yeah"
         }
     ]
 }

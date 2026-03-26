@@ -1,7 +1,7 @@
 {
     "name": "fe_03_03716",
     "context_channel": 1,
-    "context_text": "<A> a handicapped daughter { they } / <B> [ oh ] / <A> really needed me to stay home with her you know and you can't afford to pay somebody else to take of em / <B> no / <A> you know it's just real cost prohibitive / <B> yeah",
+    "context_text": "<A> a handicapped daughter { they } / <B> [ oh ] / <A> really needed me to stay home with her you know and you can't afford to pay somebody else to take of 'em / <B> yeah / <A> you know it's just real cost-prohibitive / <B> yeah",
     "context_start": 467.5,
     "context_end": 478.95624999999995,
     "feedback": [
@@ -12,10 +12,10 @@
             "token": "oh"
         },
         {
-            "name": "spontA_112_no",
+            "name": "spontA_109_yeah",
             "start": 474.82,
-            "end": 475.633125,
-            "token": "no"
+            "end": 475.47125,
+            "token": "yeah"
         },
         {
             "name": "spontC_405_yeah",

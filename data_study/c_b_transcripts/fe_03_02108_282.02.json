@@ -1,32 +1,32 @@
 {
     "name": "fe_03_02108",
     "context_channel": 0,
-    "context_text": "<B> and i can't afford to eat out / <A> no / <B> but that that's her thing / <A> yeah / <B> and um she still wants half the refrigerator she's now on weight watchers and / <A> oh / <B> she's counting points / <A> okay",
+    "context_text": "<B> and i can't afford to eat out / <A> oh / <B> but that that's her thing / <A> oh / <B> and um she still wants half the refrigerator she's now on weight watchers and / <A> oh / <B> she's counting points / <A> okay",
     "context_start": 282.02,
-    "context_end": 295.88712499999997,
+    "context_end": 295.88512499999996,
     "feedback": [
         {
-            "name": "spontA_112_no",
+            "name": "spontF_320_oh",
             "start": 283.94,
-            "end": 284.753125,
-            "token": "no"
-        },
-        {
-            "name": "spontC_405_yeah",
-            "start": 287.03,
-            "end": 287.64624999999995,
-            "token": "yeah"
-        },
-        {
-            "name": "spontF_017_oh",
-            "start": 293.51,
-            "end": 294.339375,
+            "end": 284.642375,
             "token": "oh"
         },
         {
-            "name": "spontC_134_okay",
+            "name": "spontF_017_oh",
+            "start": 287.03,
+            "end": 287.859375,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_360_oh",
+            "start": 293.51,
+            "end": 294.452375,
+            "token": "oh"
+        },
+        {
+            "name": "spontD_089_okay",
             "start": 295.08,
-            "end": 295.88712499999997,
+            "end": 295.88512499999996,
             "token": "okay"
         }
     ]

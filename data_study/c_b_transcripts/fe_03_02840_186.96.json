@@ -1,9 +1,9 @@
 {
     "name": "fe_03_02840",
     "context_channel": 1,
-    "context_text": "<A> and because of the fans and the fans love the game / <B> mhm / <A> not for the money { but } / <B> [ no ] / <A> obviously / <B> no",
+    "context_text": "<A> and because of the fans and the fans love the game / <B> mhm / <A> not for the money { but } / <B> [ exactly ] / <A> obviously / <B> yeah",
     "context_start": 186.96,
-    "context_end": 192.37062500000002,
+    "context_end": 192.23600000000002,
     "feedback": [
         {
             "name": "spontA_395_mhm",
@@ -12,16 +12,16 @@
             "token": "mhm"
         },
         {
-            "name": "NR_098_no",
+            "name": "sun_041_exactly",
             "start": 191.23,
-            "end": 191.72549999999998,
-            "token": "no"
+            "end": 192.183,
+            "token": "exactly"
         },
         {
-            "name": "NR_037_no",
+            "name": "spontB_094_yeah",
             "start": 191.9,
-            "end": 192.37062500000002,
-            "token": "no"
+            "end": 192.23600000000002,
+            "token": "yeah"
         }
     ]
 }

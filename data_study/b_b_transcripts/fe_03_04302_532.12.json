@@ -1,15 +1,15 @@
 {
     "name": "fe_03_04302",
     "context_channel": 1,
-    "context_text": "<A> [ so oh i know ] so that's kind of what i i feel like well had i just done it right from the beginning { we } / <B> [ ooh ] / <A> wouldn't be paying student loans / <B> right / <A> you know we i'd be making a lot more money at this point / <B> oh / <A> you know things would just be further along / <B> right / <A> than they are but you know a lesson learned you know i don't think uh kids should be pushed that hard { but i think you know } / <B> [ exactly ] / <A> like what you did is g going into the military / <B> mhm",
+    "context_text": "<A> [ so oh i know ] so that's kind of what i i feel like well had i just done it right from the beginning { we } / <B> [ oh ] / <A> wouldn't be paying student loans / <B> right / <A> you know we i'd be making a lot more money at this point / <B> mhm / <A> you know things would just be further along / <B> right / <A> than they are but you know a lesson learned you know i don't think uh kids should be pushed that hard { but i think you know } / <B> [ exactly ] / <A> like what you did is g going into the military / <B> mhm",
     "context_start": 532.12,
     "context_end": 558.193375,
     "feedback": [
         {
-            "name": "NegS_053_ooh",
+            "name": "Sy_069_oh",
             "start": 538.24,
-            "end": 539.4085,
-            "token": "ooh"
+            "end": 539.399,
+            "token": "oh"
         },
         {
             "name": "sun1_032_right",
@@ -18,10 +18,10 @@
             "token": "right"
         },
         {
-            "name": "Sy_069_oh",
+            "name": "PR_046_mhm",
             "start": 544.07,
-            "end": 545.229,
-            "token": "oh"
+            "end": 545.00975,
+            "token": "mhm"
         },
         {
             "name": "PR_043_right",

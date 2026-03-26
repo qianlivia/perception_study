@@ -1,15 +1,15 @@
 {
     "name": "fe_03_04197",
     "context_channel": 0,
-    "context_text": "<B> and how like you can't really do anything without passing the tests you know like here you can fail a lotta tests but get good grades / <A> ooh / <B> and still be accepted but / <A> yeah / <B> i mean that's not really a part of the system i think / <A> ooh / <B> there and i have friends who talk about the private schools already there in china where instructors that just teach you how to pass the toefl earn like i don't know five to ten times the average teacher's salary / <A> mhm",
+    "context_text": "<B> and how like you can't really do anything without passing the tests you know like here you can fail a lotta tests but get good grades / <A> uh-huh / <B> and still be accepted but / <A> yeah / <B> i mean that's not really a part of the system i think / <A> oh / <B> there and i have friends who talk about the private schools already there in china where instructors that just teach you how to pass the toefl earn like i don't know five to ten times the average teacher's salary / <A> mhm",
     "context_start": 304.24,
     "context_end": 335.97150000000005,
     "feedback": [
         {
-            "name": "spontE_174_ooh",
+            "name": "spontA_279_uh-huh",
             "start": 312.08,
-            "end": 312.70374999999996,
-            "token": "ooh"
+            "end": 312.712625,
+            "token": "uh-huh"
         },
         {
             "name": "PR_056_yeah",
@@ -18,10 +18,10 @@
             "token": "yeah"
         },
         {
-            "name": "PS_186_ooh",
+            "name": "spontE_293_oh",
             "start": 318.52,
-            "end": 319.1085,
-            "token": "ooh"
+            "end": 319.03875,
+            "token": "oh"
         },
         {
             "name": "spontC_111_mhm",

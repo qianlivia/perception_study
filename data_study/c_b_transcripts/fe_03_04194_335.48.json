@@ -1,20 +1,20 @@
 {
     "name": "fe_03_04194",
     "context_channel": 0,
-    "context_text": "<B> is no the big studios the big eight studios have all the power { and unfortunately } / <A> [ wow ] / <B> the way films are budgeted the big blockbuster films even they are so expensive that studios get together to finance a film because { it's just } / <A> [ wow ] / <B> because it just takes so much to produce a great blockbuster film { but what i'd } / <A> [ wow ] / <B> like to do i mean one of the studios or the earlier studios that isn't really run this way anymore was united artists / <A> yeah / <B> and it was called united artists because it was run by um actors um it was the artists themselves who wanted to run that studio { so that it would be } / <A> [ wow ]",
+    "context_text": "<B> is no the big studios the big eight studios have all the power { and unfortunately } / <A> [ oh ] / <B> the way films are budgeted the big blockbuster films even they are so expensive that studios get together to finance a film because { it's just } / <A> [ wow ] / <B> because it just takes so much to produce a great blockbuster film { but what i'd } / <A> [ wow ] / <B> like to do i mean one of the studios or the earlier studios that isn't really run this way anymore was united artists / <A> uh-huh / <B> and it was called united artists because it was run by um actors um it was the artists themselves who wanted to run that studio { so that it would be } / <A> [ wow ]",
     "context_start": 335.48,
-    "context_end": 372.61925,
+    "context_end": 372.5075,
     "feedback": [
         {
-            "name": "PS_038_wow",
+            "name": "PS_012_oh",
             "start": 339.89,
-            "end": 341.24575,
-            "token": "wow"
+            "end": 341.58774999999997,
+            "token": "oh"
         },
         {
-            "name": "PS_108_wow",
+            "name": "PS_146_wow",
             "start": 351.49,
-            "end": 352.63575000000003,
+            "end": 352.64825,
             "token": "wow"
         },
         {
@@ -24,15 +24,15 @@
             "token": "wow"
         },
         {
-            "name": "spontF_380_yeah",
+            "name": "spontC_128_uh-huh",
             "start": 362.7,
-            "end": 363.3135,
-            "token": "yeah"
+            "end": 363.200875,
+            "token": "uh-huh"
         },
         {
-            "name": "PS_164_wow",
+            "name": "PS_110_wow",
             "start": 371.48,
-            "end": 372.61925,
+            "end": 372.5075,
             "token": "wow"
         }
     ]

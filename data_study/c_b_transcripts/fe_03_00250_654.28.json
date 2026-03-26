@@ -1,15 +1,15 @@
 {
     "name": "fe_03_00250",
     "context_channel": 1,
-    "context_text": "<A> ah y it alerted people to you know what kind of problems we can we can have if if we all don't don't pull together so to speak / <B> yep / <A> you know you know i really like what europe is doing with the eu the expansio eu eu eu expansion stuff i think it's that the type of project i think would i think everyone should follow i think in my opinion / <B> mhm / <A> but ah that's gonna be uh that's gonna be ah i think it's it's far fetched right now / <B> yeah / <A> and so it's ah it's ah / <B> yeah",
+    "context_text": "<A> ah y it alerted people to you know what kind of problems we can we can have if if we all don't don't pull together so to speak / <B> yeah / <A> you know you know i really like what europe is doing with the eu the expansio eu eu eu expansion stuff i think it's that the type of project i think would i think everyone should follow i think in my opinion / <B> mhm / <A> but ah that's gonna be uh that's gonna be ah i think it's it's far fetched right now / <B> yeah / <A> and so it's ah it's ah / <B> yeah",
     "context_start": 654.28,
-    "context_end": 683.606,
+    "context_end": 683.666125,
     "feedback": [
         {
-            "name": "PR_020_yep",
+            "name": "spontD_397_yeah",
             "start": 663.13,
-            "end": 663.781625,
-            "token": "yep"
+            "end": 663.511375,
+            "token": "yeah"
         },
         {
             "name": "spontA_253_mhm",
@@ -24,9 +24,9 @@
             "token": "yeah"
         },
         {
-            "name": "spontB_094_yeah",
+            "name": "spontC_395_yeah",
             "start": 683.27,
-            "end": 683.606,
+            "end": 683.666125,
             "token": "yeah"
         }
     ]

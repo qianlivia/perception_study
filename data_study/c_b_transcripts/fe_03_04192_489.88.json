@@ -1,32 +1,32 @@
 {
     "name": "fe_03_04192",
     "context_channel": 1,
-    "context_text": "<A> i think that if you really have a passion for something the returns on owning your own business are so much greater than like / <B> yeah / <A> for instance if you're working for someone { you know } / <B> [ absolutely ] / <A> you can't necessarily do exactly what you wanna do with the business you you / <B> yeah / <A> really have to go along with their model and their business plan and their vision and / <B> yeah",
+    "context_text": "<A> i think that if you really have a passion for something the returns on owning your own business are so much greater than like / <B> uh-huh / <A> for instance if you're working for someone { you know } / <B> [ yeah ] / <A> you can't necessarily do exactly what you wanna do with the business you you / <B> yeah / <A> really have to go along with their model and their business plan and their vision and / <B> yeah",
     "context_start": 489.88,
-    "context_end": 506.61312499999997,
+    "context_end": 506.709125,
     "feedback": [
         {
-            "name": "spontA_391_yeah",
+            "name": "spontE_227_uh-huh",
             "start": 495.27,
-            "end": 495.679375,
-            "token": "yeah"
+            "end": 495.691625,
+            "token": "uh-huh"
         },
         {
-            "name": "sun_002_absolutely",
+            "name": "spontA_015_yeah",
             "start": 498.27,
-            "end": 499.3155,
-            "token": "absolutely"
-        },
-        {
-            "name": "spontD_024_yeah",
-            "start": 501.93,
-            "end": 502.350125,
+            "end": 499.039875,
             "token": "yeah"
         },
         {
-            "name": "PR_031_yeah",
+            "name": "spontC_063_yeah",
+            "start": 501.93,
+            "end": 502.444,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_053_yeah",
             "start": 506.21,
-            "end": 506.61312499999997,
+            "end": 506.709125,
             "token": "yeah"
         }
     ]

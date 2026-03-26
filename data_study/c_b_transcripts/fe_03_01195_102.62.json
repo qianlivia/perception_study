@@ -1,27 +1,27 @@
 {
     "name": "fe_03_01195",
     "context_channel": 1,
-    "context_text": "<A> it can't even be touched by a million dollars / <B> no / <A> that's certainly not to say that i wouldn't be extremely tempted / <B> no / <A> um because i think about you know how many talks we've had her and i about financial you know / <B> oh",
+    "context_text": "<A> it can't even be touched by a million dollars / <B> yeah / <A> that's certainly not to say that i wouldn't be extremely tempted / <B> yeah / <A> um because i think about you know how many talks we've had her and i about financial you know / <B> yeah",
     "context_start": 102.62,
-    "context_end": 121.964125,
+    "context_end": 121.623125,
     "feedback": [
         {
-            "name": "spontF_264_no",
+            "name": "spontF_295_yeah",
             "start": 106.44,
-            "end": 106.977125,
-            "token": "no"
+            "end": 106.958375,
+            "token": "yeah"
         },
         {
-            "name": "spontE_345_no",
+            "name": "spontC_127_yeah",
             "start": 110.87,
-            "end": 111.6245,
-            "token": "no"
+            "end": 111.44787500000001,
+            "token": "yeah"
         },
         {
-            "name": "spontE_295_oh",
+            "name": "PR_031_yeah",
             "start": 121.22,
-            "end": 121.964125,
-            "token": "oh"
+            "end": 121.623125,
+            "token": "yeah"
         }
     ]
 }

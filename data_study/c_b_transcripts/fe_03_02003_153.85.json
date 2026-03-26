@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02003",
     "context_channel": 1,
-    "context_text": "<A> and and you just don't know and then you also don't know whether it's even if it is not 401k you know { like the } / <B> [ yep ] / <A> place i work at has stock options / <B> yes / <A> will i take that too / <B> yes / <A> and you don't know { i } / <B> [ no ]",
+    "context_text": "<A> and and you just don't know and then you also don't know whether it's even if it is not 401k you know { like the } / <B> [ yeah ] / <A> place i work at has stock options / <B> okay / <A> will i take that too / <B> yeah / <A> and you don't know { i } / <B> [ yeah ]",
     "context_start": 153.85,
-    "context_end": 168.450625,
+    "context_end": 168.38825,
     "feedback": [
         {
-            "name": "sun_019_yep",
+            "name": "spontD_101_yeah",
             "start": 161.68,
-            "end": 162.433,
-            "token": "yep"
+            "end": 162.445625,
+            "token": "yeah"
         },
         {
-            "name": "spontC_507_yes",
+            "name": "spontC_286_okay",
             "start": 164.2,
-            "end": 164.7225,
-            "token": "yes"
+            "end": 164.85199999999998,
+            "token": "okay"
         },
         {
-            "name": "sun1_025_yes",
+            "name": "spontC_336_yeah",
             "start": 166.14,
-            "end": 166.890625,
-            "token": "yes"
+            "end": 166.742125,
+            "token": "yeah"
         },
         {
-            "name": "NR_037_no",
+            "name": "sun_046_yeah",
             "start": 167.98,
-            "end": 168.450625,
-            "token": "no"
+            "end": 168.38825,
+            "token": "yeah"
         }
     ]
 }

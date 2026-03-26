@@ -1,9 +1,9 @@
 {
     "name": "fe_03_01779",
     "context_channel": 1,
-    "context_text": "<A> and wants to further their education you / <B> uh-huh / <A> know advance in terms of getting another degree or whatever / <B> uh-huh / <A> um that they wouldn't have to worry about maybe travelling { you know } / <B> [ wow ] / <A> travel time is the big thing you know / <B> yeah / <A> working nine maybe eight nine ten hours a day / <B> yes / <A> and then having to go and sit in a class for another hour and a half / <B> yes / <A> or you know something of that sort { i mean } / <B> [ yeah ]",
+    "context_text": "<A> and wants to further their education you / <B> uh-huh / <A> know advance in terms of getting another degree or whatever / <B> uh-huh / <A> um that they wouldn't have to worry about maybe travelling { you know } / <B> [ wow ] / <A> travel time is the big thing you know / <B> yeah / <A> working nine maybe eight nine ten hours a day / <B> oh / <A> and then having to go and sit in a class for another hour and a half / <B> yeah / <A> or you know something of that sort { i mean } / <B> [ yeah ]",
     "context_start": 214.5,
-    "context_end": 236.070875,
+    "context_end": 236.25,
     "feedback": [
         {
             "name": "spontE_227_uh-huh",
@@ -30,21 +30,21 @@
             "token": "yeah"
         },
         {
-            "name": "sun_023_yes",
+            "name": "PS_111_oh",
             "start": 229.43,
-            "end": 230.268875,
-            "token": "yes"
+            "end": 230.21437500000002,
+            "token": "oh"
         },
         {
-            "name": "PR_019_yes",
+            "name": "spontE_162_yeah",
             "start": 233.83,
-            "end": 234.94825,
-            "token": "yes"
+            "end": 234.80450000000002,
+            "token": "yeah"
         },
         {
-            "name": "spontE_245_yeah",
+            "name": "spontD_336_yeah",
             "start": 235.25,
-            "end": 236.070875,
+            "end": 236.25,
             "token": "yeah"
         }
     ]

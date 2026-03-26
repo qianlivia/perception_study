@@ -1,9 +1,9 @@
 {
     "name": "fe_03_02600",
     "context_channel": 1,
-    "context_text": "<A> well i i think that um that they're i think they're a dangerous country { i don't think } / <B> [ mhm ] / <A> the people are dangerous i think the leader was dangerous { and } / <B> [ mhm ] / <A> i think that arms in in responsible countries is a good thing but i don't think he was responsible / <B> no / <A> with uh using you know a lot of country have you have to have some type of weapons program for defense / <B> yes",
+    "context_text": "<A> well i i think that um that they're i think they're a dangerous country { i don't think } / <B> [ mhm ] / <A> the people are dangerous i think the leader was dangerous { and } / <B> [ mhm ] / <A> i think that arms in in responsible countries is a good thing but i don't think he was responsible / <B> yeah / <A> with uh using you know a lot of country have you have to have some type of weapons program for defense / <B> mhm",
     "context_start": 39.91,
-    "context_end": 64.007625,
+    "context_end": 63.764624999999995,
     "feedback": [
         {
             "name": "sun1_005_mhm",
@@ -18,16 +18,16 @@
             "token": "mhm"
         },
         {
-            "name": "NR_037_no",
+            "name": "spontD_231_yeah",
             "start": 57.07,
-            "end": 57.540625,
-            "token": "no"
+            "end": 57.650375,
+            "token": "yeah"
         },
         {
-            "name": "spontB_368_yes",
+            "name": "spontA_395_mhm",
             "start": 63.15,
-            "end": 64.007625,
-            "token": "yes"
+            "end": 63.764624999999995,
+            "token": "mhm"
         }
     ]
 }

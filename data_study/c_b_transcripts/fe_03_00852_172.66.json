@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00852",
     "context_channel": 1,
-    "context_text": "<A> i i i i don't know what what really the solution is because here in lansing actually you know the private schools are suffering as well like the the catholic schools because the the lack of funding / <B> mhm / <A> yeah ah they're just they're they're having to do all sorts of revamping with the ah the the building and things like and the fundings just not there i mean i don't know if it's a result of the scandals that have been going on in the catholic church or what but i don't think people have been giving that much to the local ah the parochial schools / <B> no / <A> but uhm but like here in lansing the inner the the technically the inner city, the enrollment is going way down in the schools and people are going out to the outlying areas and i don't know if that's just because of better housing or or better employment or / <B> mhm / <A> got i don't know but but i think they're going to do some drastic changes after all these cuts come down under / <B> yeah",
+    "context_text": "<A> i i i i don't know what what really the solution is because here in lansing actually you know the private schools are suffering as well like the the catholic schools because the the lack of funding / <B> mhm / <A> yeah ah they're just they're they're having to do all sorts of revamping with the ah the the building and things like and the fundings just not there i mean i don't know if it's a result of the scandals that have been going on in the catholic church or what but i don't think people have been giving that much to the local ah the parochial schools / <B> mhm / <A> but uhm but like here in lansing the inner the the technically the inner city, the enrollment is going way down in the schools and people are going out to the outlying areas and i don't know if that's just because of better housing or or better employment or / <B> uh-huh / <A> got i don't know but but i think they're going to do some drastic changes after all these cuts come down under / <B> mhm",
     "context_start": 172.66,
-    "context_end": 224.93725,
+    "context_end": 224.9665,
     "feedback": [
         {
             "name": "spontA_253_mhm",
@@ -12,22 +12,22 @@
             "token": "mhm"
         },
         {
-            "name": "NR_046_no",
-            "start": 202.13,
-            "end": 202.91025,
-            "token": "no"
-        },
-        {
             "name": "spontD_115_mhm",
-            "start": 217.01,
-            "end": 217.499875,
+            "start": 202.13,
+            "end": 202.619875,
             "token": "mhm"
         },
         {
-            "name": "spontD_142_yeah",
+            "name": "spontD_146_uh-huh",
+            "start": 217.01,
+            "end": 217.529125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_496_mhm",
             "start": 224.46,
-            "end": 224.93725,
-            "token": "yeah"
+            "end": 224.9665,
+            "token": "mhm"
         }
     ]
 }

@@ -1,9 +1,9 @@
 {
     "name": "fe_03_05246",
     "context_channel": 1,
-    "context_text": "<A> exposed cans or bottles / <B> yeah / <A> yeah i mean it's illegal like if you get caught you're gonna get fined or you know what not but people do it they usually put it in like a paper bag just to hide you know conceal the uh outside of the can or whatever it is { but they'll } / <B> [ ah ] / <A> be drinking i mean you know a lotta do it i see it all the time i don't i don't see it causing any trouble like not in my um experience { but } / <B> [ no ]",
+    "context_text": "<A> exposed cans or bottles / <B> yeah / <A> yeah i mean it's illegal like if you get caught you're gonna get fined or you know what not but people do it they usually put it in like a paper bag just to hide you know conceal the uh outside of the can or whatever it is { but they'll } / <B> [ oh ] / <A> be drinking i mean you know a lotta do it i see it all the time i don't i don't see it causing any trouble like not in my um experience { but } / <B> [ yeah ]",
     "context_start": 487.41,
-    "context_end": 514.1117499999999,
+    "context_end": 513.870375,
     "feedback": [
         {
             "name": "spontF_295_yeah",
@@ -12,16 +12,16 @@
             "token": "yeah"
         },
         {
-            "name": "spontE_232_ah",
+            "name": "spontE_048_oh",
             "start": 504.13,
-            "end": 505.11075,
-            "token": "ah"
+            "end": 504.87512499999997,
+            "token": "oh"
         },
         {
-            "name": "spontC_498_no",
+            "name": "spontD_231_yeah",
             "start": 513.29,
-            "end": 514.1117499999999,
-            "token": "no"
+            "end": 513.870375,
+            "token": "yeah"
         }
     ]
 }

@@ -1,15 +1,15 @@
 {
     "name": "fe_03_01501",
     "context_channel": 1,
-    "context_text": "<A> life is i don't feel as safe as i did before then i never really thought that much about someone from outside our country hurting us { cause } / <B> [ no ] / <A> we're such a powerful nation i / <B> yeah / <A> just can't believe that that happened even to this day i mean i know it did but i just can't imagine that that was able to happen in our country / <B> yeah / <A> and i don't really know if i fully rely on the uh security new pr uh administrative program / <B> yeah",
+    "context_text": "<A> life is i don't feel as safe as i did before then i never really thought that much about someone from outside our country hurting us { cause } / <B> [ yeah ] / <A> we're such a powerful nation i / <B> yeah / <A> just can't believe that that happened even to this day i mean i know it did but i just can't imagine that that was able to happen in our country / <B> yeah / <A> and i don't really know if i fully rely on the uh security new pr uh administrative program / <B> yeah",
     "context_start": 33.1,
-    "context_end": 72.48625,
+    "context_end": 72.476875,
     "feedback": [
         {
-            "name": "NR_039_no",
+            "name": "spontD_101_yeah",
             "start": 47.53,
-            "end": 48.159875,
-            "token": "no"
+            "end": 48.295625,
+            "token": "yeah"
         },
         {
             "name": "PR_031_yeah",
@@ -24,9 +24,9 @@
             "token": "yeah"
         },
         {
-            "name": "spontC_405_yeah",
+            "name": "spontF_047_yeah",
             "start": 71.87,
-            "end": 72.48625,
+            "end": 72.476875,
             "token": "yeah"
         }
     ]

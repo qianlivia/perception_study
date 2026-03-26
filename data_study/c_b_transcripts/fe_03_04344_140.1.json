@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04344",
     "context_channel": 0,
-    "context_text": "<B> but i'm thinking because my best friend had so many um problems with her she had a a an incredibly ill child who required tremendous tremendous financial you know { b } / <A> [ mhm ] / <B> um if i could aid her and make life easier for her / <A> right / <B> but still maintain contact not necessarily speaking / <A> right / <B> but maintain contact with her / <A> right / <B> that would be acceptable but um a a to just eliminate her immediately from my life / <A> right / <B> no no / <A> no",
+    "context_text": "<B> but i'm thinking because my best friend had so many um problems with her she had a a an incredibly ill child who required tremendous tremendous financial you know { b } / <A> [ mhm ] / <B> um if i could aid her and make life easier for her / <A> mhm / <B> but still maintain contact not necessarily speaking / <A> uh-huh / <B> but maintain contact with her / <A> uh-huh / <B> that would be acceptable but um a a to just eliminate her immediately from my life / <A> right / <B> no no / <A> yeah",
     "context_start": 140.1,
-    "context_end": 179.724125,
+    "context_end": 179.90125,
     "feedback": [
         {
             "name": "sun1_005_mhm",
@@ -12,34 +12,34 @@
             "token": "mhm"
         },
         {
-            "name": "sun1_029_right",
+            "name": "spontA_253_mhm",
             "start": 162.57,
-            "end": 163.262,
-            "token": "right"
+            "end": 163.043625,
+            "token": "mhm"
         },
         {
-            "name": "sun_013_right",
+            "name": "spontD_146_uh-huh",
             "start": 166.18,
-            "end": 167.0535,
-            "token": "right"
+            "end": 166.699125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_386_uh-huh",
+            "start": 169.34,
+            "end": 169.8865,
+            "token": "uh-huh"
         },
         {
             "name": "sun1_030_right",
-            "start": 169.34,
-            "end": 170.133625,
-            "token": "right"
-        },
-        {
-            "name": "sun1_033_right",
             "start": 177.74,
-            "end": 178.59312500000001,
+            "end": 178.533625,
             "token": "right"
         },
         {
-            "name": "NR_060_no",
+            "name": "spontA_109_yeah",
             "start": 179.25,
-            "end": 179.724125,
-            "token": "no"
+            "end": 179.90125,
+            "token": "yeah"
         }
     ]
 }

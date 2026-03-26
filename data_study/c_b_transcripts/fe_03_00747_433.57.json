@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00747",
     "context_channel": 1,
-    "context_text": "<A> to tell you the truth i don't know a whole lot about tv because ah the only show that i ever watch is fox news / <B> okay / <A> i love fox news down here it's channel thirty three on cable and ah i i love fox news because it really keeps me well informed and i guess being at my age now i'm more interested in world affairs whereas { when i } / <B> [ sure ] / <A> was younger i couldn't have cared less / <B> uh-huh / <A> i was busy making a living / <B> uh-huh / <A> and um now i'm i really am interested and i want to know what's going on all around me and i { wanna } / <B> [ uh-huh ] / <A> be informed and i honest to god never watch another show except fox news / <B> okay / <A> i've looked at some of the um sitcoms that they have now and i told my husband i said every single one of them makes me sick / <B> uh-huh / <A> i i i don't even watch regular tv at all / <B> okay",
+    "context_text": "<A> to tell you the truth i don't know a whole lot about tv because ah the only show that i ever watch is fox news / <B> okay / <A> i love fox news down here it's channel thirty three on cable and ah i i love fox news because it really keeps me well informed and i guess being at my age now i'm more interested in world affairs whereas { when i } / <B> [ okay ] / <A> was younger i couldn't have cared less / <B> okay / <A> i was busy making a living / <B> okay / <A> and um now i'm i really am interested and i want to know what's going on all around me and i { wanna } / <B> [ okay ] / <A> be informed and i honest to god never watch another show except fox news / <B> okay / <A> i've looked at some of the um sitcoms that they have now and i told my husband i said every single one of them makes me sick / <B> okay / <A> i i i don't even watch regular tv at all / <B> okay",
     "context_start": 433.57,
-    "context_end": 481.75800000000004,
+    "context_end": 481.87825000000004,
     "feedback": [
         {
             "name": "spontF_074_okay",
@@ -12,45 +12,45 @@
             "token": "okay"
         },
         {
-            "name": "sun_030_sure",
+            "name": "spontD_089_okay",
             "start": 453.99,
-            "end": 454.93712500000004,
-            "token": "sure"
-        },
-        {
-            "name": "spontE_106_uh-huh",
-            "start": 455.84,
-            "end": 456.26925,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontD_276_uh-huh",
-            "start": 457.74,
-            "end": 458.181375,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontE_227_uh-huh",
-            "start": 464.51,
-            "end": 464.931625,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontC_134_okay",
-            "start": 470.06,
-            "end": 470.867125,
+            "end": 454.795125,
             "token": "okay"
         },
         {
-            "name": "spontD_070_uh-huh",
-            "start": 477.72,
-            "end": 478.22825,
-            "token": "uh-huh"
+            "name": "spontC_134_okay",
+            "start": 455.84,
+            "end": 456.64712499999996,
+            "token": "okay"
+        },
+        {
+            "name": "spontE_071_okay",
+            "start": 457.74,
+            "end": 458.394,
+            "token": "okay"
+        },
+        {
+            "name": "spontB_120_okay",
+            "start": 464.51,
+            "end": 465.211,
+            "token": "okay"
         },
         {
             "name": "spontF_643_okay",
+            "start": 470.06,
+            "end": 470.76800000000003,
+            "token": "okay"
+        },
+        {
+            "name": "spontD_073_okay",
+            "start": 477.72,
+            "end": 478.46112500000004,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_053_okay",
             "start": 481.05,
-            "end": 481.75800000000004,
+            "end": 481.87825000000004,
             "token": "okay"
         }
     ]

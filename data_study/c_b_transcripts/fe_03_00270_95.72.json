@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00270",
     "context_channel": 0,
-    "context_text": "<B> and that was really spooky because i got to my appointment and uh the person with whom i had the appointment did you hear anything on the news and i said yes i heard all of it and i related to this person / <A> uh-huh / <B> and i told told them that it sounded just like a bad science fiction novel that i had read / <A> ah / <B> and i had at the time when i lived in denver my tv room was partially under ground so i / <A> uh-huh / <B> couldn't any broadcast tv { and i } / <A> [ no ] / <B> didn't have cable i didn't have dish / <A> no / <B> so i really couldn't get tv / <A> no",
+    "context_text": "<B> and that was really spooky because i got to my appointment and uh the person with whom i had the appointment did you hear anything on the news and i said yes i heard all of it and i related to this person / <A> uh-huh / <B> and i told told them that it sounded just like a bad science fiction novel that i had read / <A> uh-huh / <B> and i had at the time when i lived in denver my tv room was partially under ground so i / <A> uh-huh / <B> couldn't any broadcast tv { and i } / <A> [ right ] / <B> didn't have cable i didn't have dish / <A> right / <B> so i really couldn't get tv / <A> right",
     "context_start": 95.72,
-    "context_end": 129.26987499999998,
+    "context_end": 129.27512499999997,
     "feedback": [
         {
             "name": "spontA_290_uh-huh",
@@ -12,34 +12,34 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontB_148_ah",
+            "name": "spontD_070_uh-huh",
             "start": 112.79,
-            "end": 113.74287500000001,
-            "token": "ah"
-        },
-        {
-            "name": "spontC_186_uh-huh",
-            "start": 121.5,
-            "end": 121.97525,
+            "end": 113.29825000000001,
             "token": "uh-huh"
         },
         {
-            "name": "NR_046_no",
+            "name": "spontD_020_uh-huh",
+            "start": 121.5,
+            "end": 122.004625,
+            "token": "uh-huh"
+        },
+        {
+            "name": "sun1_030_right",
             "start": 123.56,
-            "end": 124.34025,
-            "token": "no"
+            "end": 124.35362500000001,
+            "token": "right"
         },
         {
-            "name": "NR_021_no",
+            "name": "sun1_032_right",
             "start": 126.08,
-            "end": 126.84887499999999,
-            "token": "no"
+            "end": 126.923375,
+            "token": "right"
         },
         {
-            "name": "NR_039_no",
+            "name": "PR_048_right",
             "start": 128.64,
-            "end": 129.26987499999998,
-            "token": "no"
+            "end": 129.27512499999997,
+            "token": "right"
         }
     ]
 }

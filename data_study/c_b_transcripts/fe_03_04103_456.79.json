@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04103",
     "context_channel": 1,
-    "context_text": "<A> yeah well i think that's wonderful i think that's terrific now uh the reason that that i would like to have a music school / <B> uh-huh / <A> of is becau cause i know there are a lot of talented people / <B> uh-huh / <A> that have a very hard time with studies it's very expensive here you need a a teacher a voice teacher and you need somebody well to to help you with languages { and you need } / <B> [ aha ] / <A> uh somebody to teach us your repertoire { you } / <B> [ right ]",
+    "context_text": "<A> yeah well i think that's wonderful i think that's terrific now uh the reason that that i would like to have a music school / <B> uh-huh / <A> of is becau cause i know there are a lot of talented people / <B> uh-huh / <A> that have a very hard time with studies it's very expensive here you need a a teacher a voice teacher and you need somebody well to to help you with languages { and you need } / <B> [ wow ] / <A> uh somebody to teach us your repertoire { you } / <B> [ wow ]",
     "context_start": 456.79,
-    "context_end": 489.773125,
+    "context_end": 489.916625,
     "feedback": [
         {
             "name": "spontD_020_uh-huh",
@@ -18,16 +18,16 @@
             "token": "uh-huh"
         },
         {
-            "name": "PS_143_aha",
+            "name": "PS_190_wow",
             "start": 484.61,
-            "end": 485.933125,
-            "token": "aha"
+            "end": 485.966875,
+            "token": "wow"
         },
         {
-            "name": "sun1_033_right",
+            "name": "PS_100_wow",
             "start": 488.92,
-            "end": 489.773125,
-            "token": "right"
+            "end": 489.916625,
+            "token": "wow"
         }
     ]
 }

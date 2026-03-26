@@ -1,15 +1,15 @@
 {
     "name": "fe_03_00440",
     "context_channel": 0,
-    "context_text": "<B> especially with with lower level and you're trusting you're in into a company friendly and / <A> [ no ] / <B> getting a good income and / <A> yeah / <B> trying to raise a family and then being { lied } / <A> [ yep ] / <B> to / <A> yeah / <B> now the ceos i have read something on the news about ceos earning exorbitant amounts of money and taking huge vacations / <A> yeah / <B> and having huge bonuses which { they } / <A> [ yeah ] / <B> don't pass on to their employees / <A> no",
+    "context_text": "<B> especially with with lower level and you're trusting you're in into a company friendly and / <A> [ exactly ] / <B> getting a good income and / <A> yeah / <B> trying to raise a family and then being { lied } / <A> [ exactly ] / <B> to / <A> yeah / <B> now the ceos i have read something on the news about ceos earning exorbitant amounts of money and taking huge vacations / <A> yeah / <B> and having huge bonuses which { they } / <A> [ yeah ] / <B> don't pass on to their employees / <A> yeah",
     "context_start": 462.84,
-    "context_end": 489.950625,
+    "context_end": 490.13125,
     "feedback": [
         {
-            "name": "NR_061_no",
+            "name": "sun_029_exactly",
             "start": 468.51,
-            "end": 469.44325,
-            "token": "no"
+            "end": 469.650375,
+            "token": "exactly"
         },
         {
             "name": "sun1_023_yeah",
@@ -18,10 +18,10 @@
             "token": "yeah"
         },
         {
-            "name": "PR_020_yep",
+            "name": "sun_015_exactly",
             "start": 473.75,
-            "end": 474.401625,
-            "token": "yep"
+            "end": 474.85175,
+            "token": "exactly"
         },
         {
             "name": "spontB_094_yeah",
@@ -30,22 +30,22 @@
             "token": "yeah"
         },
         {
-            "name": "spontC_405_yeah",
+            "name": "spontD_172_yeah",
             "start": 484.45,
-            "end": 485.06624999999997,
+            "end": 485.2435,
             "token": "yeah"
         },
         {
-            "name": "PR_031_yeah",
+            "name": "spontD_024_yeah",
             "start": 487.3,
-            "end": 487.703125,
+            "end": 487.720125,
             "token": "yeah"
         },
         {
-            "name": "NR_037_no",
+            "name": "spontA_109_yeah",
             "start": 489.48,
-            "end": 489.950625,
-            "token": "no"
+            "end": 490.13125,
+            "token": "yeah"
         }
     ]
 }

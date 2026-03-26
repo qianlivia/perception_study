@@ -1,9 +1,9 @@
 {
     "name": "fe_03_01079",
     "context_channel": 0,
-    "context_text": "<B> i said i try to emphasize my life in one the way i live { and } / <A> [ uh-huh ] / <B> i was their boss / <A> uh-huh / <B> even the minister's boss / <A> ah / <B> and i told him you know i have certain responsibilities on the job / <A> uh-huh / <B> and uh for me being the supervisor um / <A> yeah",
+    "context_text": "<B> i said i try to emphasize my life in one the way i live { and } / <A> [ uh-huh ] / <B> i was their boss / <A> uh-huh / <B> even the minister's boss / <A> oh / <B> and i told him you know i have certain responsibilities on the job / <A> uh-huh / <B> and uh for me being the supervisor um / <A> uh-huh",
     "context_start": 457.04,
-    "context_end": 472.18825,
+    "context_end": 472.280875,
     "feedback": [
         {
             "name": "spontC_358_uh-huh",
@@ -18,22 +18,22 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontB_148_ah",
+            "name": "spontF_017_oh",
             "start": 464.46,
-            "end": 465.412875,
-            "token": "ah"
+            "end": 465.289375,
+            "token": "oh"
         },
         {
-            "name": "spontD_276_uh-huh",
+            "name": "spontB_137_uh-huh",
             "start": 468.81,
-            "end": 469.251375,
+            "end": 469.361,
             "token": "uh-huh"
         },
         {
-            "name": "sun_046_yeah",
+            "name": "spontC_128_uh-huh",
             "start": 471.78,
-            "end": 472.18825,
-            "token": "yeah"
+            "end": 472.280875,
+            "token": "uh-huh"
         }
     ]
 }

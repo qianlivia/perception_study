@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03433",
     "context_channel": 0,
-    "context_text": "<B> but i think um i have a better idea i don't know i want um someone who is a good person who is very nice to me / <A> yeah / <B> but also who's not a doormat you know someone who's also challenging / <A> yes / <B> and they're exciting at the same time / <A> yes",
+    "context_text": "<B> but i think um i have a better idea i don't know i want um someone who is a good person who is very nice to me / <A> yeah / <B> but also who's not a doormat you know someone who's also challenging / <A> yeah / <B> and they're exciting at the same time / <A> yeah",
     "context_start": 121.65,
-    "context_end": 140.968875,
+    "context_end": 140.732125,
     "feedback": [
         {
             "name": "spontC_060_yeah",
@@ -12,16 +12,16 @@
             "token": "yeah"
         },
         {
-            "name": "spontB_368_yes",
+            "name": "spontA_109_yeah",
             "start": 137.05,
-            "end": 137.90762500000002,
-            "token": "yes"
+            "end": 137.70125000000002,
+            "token": "yeah"
         },
         {
-            "name": "sun_023_yes",
+            "name": "spontC_336_yeah",
             "start": 140.13,
-            "end": 140.968875,
-            "token": "yes"
+            "end": 140.732125,
+            "token": "yeah"
         }
     ]
 }

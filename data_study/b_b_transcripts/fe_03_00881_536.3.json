@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00881",
     "context_channel": 1,
-    "context_text": "<A> is it really i just thought it was bizarre i'm like uh i don't know about that one did you like it though / <B> yeah / <A> you did / <B> yeah / <A> oh that's cool you know i don't i really don't think that's very chick flicky though / <B> no",
+    "context_text": "<A> is it really i just thought it was bizarre i'm like uh i don't know about that one did you like it though / <B> yeah / <A> you did / <B> yeah / <A> oh that's cool you know i don't i really don't think that's very chick flicky though / <B> oh",
     "context_start": 536.3,
-    "context_end": 553.607125,
+    "context_end": 553.6350000000001,
     "feedback": [
         {
             "name": "spontF_562_yeah",
@@ -18,10 +18,10 @@
             "token": "yeah"
         },
         {
-            "name": "spontF_264_no",
+            "name": "spontC_109_oh",
             "start": 553.07,
-            "end": 553.607125,
-            "token": "no"
+            "end": 553.6350000000001,
+            "token": "oh"
         }
     ]
 }

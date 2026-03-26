@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00642",
     "context_channel": 0,
-    "context_text": "<B> walk like when i go down downtown { i'll } / <A> [ yeah ] / <B> i'll i'll go way around 'em i know that's i know that's horrible / <A> yeah / <B> and i and i know it's not everybody's fault { it's not } / <A> [ no ] / <B> their fault but part of me just can't help it did you lose anybody then / <A> no",
+    "context_text": "<B> walk like when i go down downtown { i'll } / <A> [ yeah ] / <B> i'll i'll go way around 'em i know that's i know that's horrible / <A> yeah / <B> and i and i know it's not everybody's fault { it's not } / <A> [ yeah ] / <B> their fault but part of me just can't help it did you lose anybody then / <A> yeah",
     "context_start": 181.84,
-    "context_end": 199.484375,
+    "context_end": 199.40125,
     "feedback": [
         {
             "name": "spontB_226_yeah",
@@ -18,16 +18,16 @@
             "token": "yeah"
         },
         {
-            "name": "spontA_112_no",
+            "name": "spontD_101_yeah",
             "start": 193.09,
-            "end": 193.90312500000002,
-            "token": "no"
+            "end": 193.855625,
+            "token": "yeah"
         },
         {
-            "name": "NR_016_no",
+            "name": "spontA_109_yeah",
             "start": 198.75,
-            "end": 199.484375,
-            "token": "no"
+            "end": 199.40125,
+            "token": "yeah"
         }
     ]
 }

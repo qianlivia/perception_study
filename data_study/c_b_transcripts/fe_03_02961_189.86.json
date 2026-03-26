@@ -1,27 +1,27 @@
 {
     "name": "fe_03_02961",
     "context_channel": 0,
-    "context_text": "<B> cause it's oklahoma doesn't have an nfl team { and the } / <A> [ no ] / <B> closest we have is kansas city chiefs to the north of us / <A> yeah / <B> the arizona cardinals to the west of us / <A> yeah",
+    "context_text": "<B> cause it's oklahoma doesn't have an nfl team { and the } / <A> [ oh ] / <B> closest we have is kansas city chiefs to the north of us / <A> okay / <B> the arizona cardinals to the west of us / <A> okay",
     "context_start": 189.86,
-    "context_end": 203.1495,
+    "context_end": 203.055125,
     "feedback": [
         {
-            "name": "spontA_112_no",
+            "name": "spontE_048_oh",
             "start": 193.42,
-            "end": 194.233125,
-            "token": "no"
+            "end": 194.165125,
+            "token": "oh"
         },
         {
-            "name": "spontC_405_yeah",
+            "name": "spontC_134_okay",
             "start": 198.79,
-            "end": 199.40625,
-            "token": "yeah"
+            "end": 199.597125,
+            "token": "okay"
         },
         {
-            "name": "spontE_196_yeah",
+            "name": "spontD_089_okay",
             "start": 202.25,
-            "end": 203.1495,
-            "token": "yeah"
+            "end": 203.055125,
+            "token": "okay"
         }
     ]
 }

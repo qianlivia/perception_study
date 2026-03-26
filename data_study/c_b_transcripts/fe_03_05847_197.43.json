@@ -1,9 +1,9 @@
 {
     "name": "fe_03_05847",
     "context_channel": 1,
-    "context_text": "<A> you know as far as i mean i i tend to go to more the jersey shore { you } / <B> [ yeah ] / <A> know like avalon just just because i'm familiar with it / <B> yeah / <A> you know what i mean i'm not really familiar with the hamptons or you know how any part of that yet i { mean i'm sure } / <B> [ no ]",
+    "context_text": "<A> you know as far as i mean i i tend to go to more the jersey shore { you } / <B> [ yeah ] / <A> know like avalon just just because i'm familiar with it / <B> yeah / <A> you know what i mean i'm not really familiar with the hamptons or you know how any part of that yet i { mean i'm sure } / <B> [ yeah ]",
     "context_start": 197.43,
-    "context_end": 209.79887499999998,
+    "context_end": 209.835625,
     "feedback": [
         {
             "name": "spontD_024_yeah",
@@ -18,10 +18,10 @@
             "token": "yeah"
         },
         {
-            "name": "sun_018_no",
+            "name": "spontD_101_yeah",
             "start": 209.07,
-            "end": 209.79887499999998,
-            "token": "no"
+            "end": 209.835625,
+            "token": "yeah"
         }
     ]
 }

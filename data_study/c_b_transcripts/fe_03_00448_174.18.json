@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00448",
     "context_channel": 1,
-    "context_text": "<A> and they don't have that handle on the top or anything { and i mean they } / <B> [ wow ] / <A> go really fast { but you } / <B> [ wow ] / <A> just don't see it and and it's such a big deal because the weather people get all bent out of shape / <B> oh / <A> and they assume that we're having some sort of a catastrophe { and } / <B> [ ah ]",
+    "context_text": "<A> and they don't have that handle on the top or anything { and i mean they } / <B> [ wow ] / <A> go really fast { but you } / <B> [ wow ] / <A> just don't see it and and it's such a big deal because the weather people get all bent out of shape / <B> oh / <A> and they assume that we're having some sort of a catastrophe { and } / <B> [ oh ]",
     "context_start": 174.18,
-    "context_end": 190.29075,
+    "context_end": 190.055125,
     "feedback": [
         {
             "name": "PS_038_wow",
@@ -24,10 +24,10 @@
             "token": "oh"
         },
         {
-            "name": "spontE_232_ah",
+            "name": "spontE_048_oh",
             "start": 189.31,
-            "end": 190.29075,
-            "token": "ah"
+            "end": 190.055125,
+            "token": "oh"
         }
     ]
 }

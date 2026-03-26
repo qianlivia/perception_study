@@ -1,9 +1,9 @@
 {
     "name": "fe_03_05057",
     "context_channel": 1,
-    "context_text": "<A> uh you're hurting my feelings all right well i don't see now i don't i don't know if you in in like hawaii there's a lot of uh a lot of professional athletes but i know in philadelphia we have a lot of professional athletes that { get } / <B> [ mhm ] / <A> paid / <B> no / <A> a whole of money um i believe they should be able to strike cause everyone should have that opportunity but at the same time they're making you know two hundred three hundred percent what the rest of the world is actually making two { hundred } / <B> [ mhm ] / <A> percent more um i think you know if you look at it i i heard that the general who ran the war did made a hundred and sixty five thousand dollars he makes that a year / <B> yeah / <A> alan arvison makes fifteen thousand dollars a year you know and and it just seems it just seems backwards you know { i } / <B> [ yep ]",
+    "context_text": "<A> uh you're hurting my feelings all right well i don't see now i don't i don't know if you in in like hawaii there's a lot of uh a lot of professional athletes but i know in philadelphia we have a lot of professional athletes that { get } / <B> [ mhm ] / <A> paid / <B> yeah / <A> a whole of money um i believe they should be able to strike cause everyone should have that opportunity but at the same time they're making you know two hundred three hundred percent what the rest of the world is actually making two { hundred } / <B> [ mhm ] / <A> percent more um i think you know if you look at it i i heard that the general who ran the war did made a hundred and sixty five thousand dollars he makes that a year / <B> yeah / <A> alan arvison makes fifteen thousand dollars a year you know and and it just seems it just seems backwards you know { i } / <B> [ yeah ]",
     "context_start": 34.28,
-    "context_end": 80.681625,
+    "context_end": 80.49775,
     "feedback": [
         {
             "name": "spontA_400_mhm",
@@ -12,10 +12,10 @@
             "token": "mhm"
         },
         {
-            "name": "spontA_249_click_no",
+            "name": "spontB_094_yeah",
             "start": 47.43,
-            "end": 47.771,
-            "token": "no"
+            "end": 47.766,
+            "token": "yeah"
         },
         {
             "name": "sun1_005_mhm",
@@ -24,16 +24,16 @@
             "token": "mhm"
         },
         {
-            "name": "spontD_397_yeah",
+            "name": "spontF_659_yeah",
             "start": 72.35,
-            "end": 72.731375,
+            "end": 72.78025,
             "token": "yeah"
         },
         {
-            "name": "PR_020_yep",
+            "name": "spontE_276_yeah",
             "start": 80.03,
-            "end": 80.681625,
-            "token": "yep"
+            "end": 80.49775,
+            "token": "yeah"
         }
     ]
 }

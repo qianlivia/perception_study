@@ -1,9 +1,9 @@
 {
     "name": "fe_03_05600",
     "context_channel": 1,
-    "context_text": "<A> [ yeah mhm ] but they used they still used to be they used to be a duo at one time a long time ago / <B> yeah / <A> they used to be a duo / <B> yeah / <A> then they became three they got back together and became three and now that one died they're two again / <B> ah / <A> back to a duo like air supply air { supply } / <B> [ oh ]",
+    "context_text": "<A> [ yeah mhm ] but they used they still used to be they used to be a duo at one time a long time ago / <B> yeah / <A> they used to be a duo / <B> yeah / <A> then they became three they got back together and became three and now that one died they're two again / <B> oh / <A> back to a duo like air supply air { supply } / <B> [ yeah ]",
     "context_start": 515.71,
-    "context_end": 533.3351250000001,
+    "context_end": 533.394625,
     "feedback": [
         {
             "name": "spontF_287_yeah",
@@ -18,16 +18,16 @@
             "token": "yeah"
         },
         {
-            "name": "spontE_232_ah",
+            "name": "spontE_048_oh",
             "start": 530.22,
-            "end": 531.20075,
-            "token": "ah"
+            "end": 530.9651250000001,
+            "token": "oh"
         },
         {
-            "name": "spontE_048_oh",
+            "name": "spontF_367_yeah",
             "start": 532.59,
-            "end": 533.3351250000001,
-            "token": "oh"
+            "end": 533.394625,
+            "token": "yeah"
         }
     ]
 }

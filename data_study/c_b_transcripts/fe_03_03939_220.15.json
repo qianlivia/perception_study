@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03939",
     "context_channel": 0,
-    "context_text": "<B> you know where i'll get up and walk away or just like leave the conversation or throw / <A> yeah / <B> this look like h hum enough women do that well too / <A> yeah / <B> cough but for kids um there's not too much humor on tv with kids that doesn't have the violence in it / <A> no / <B> or even in shows / <A> no",
+    "context_text": "<B> you know where i'll get up and walk away or just like leave the conversation or throw / <A> yeah / <B> this look like h hum enough women do that well too / <A> yeah / <B> but for kids um there's not too much humor on tv with kids that doesn't have the violence in it / <A> yeah / <B> or even in shows / <A> yeah",
     "context_start": 220.15,
-    "context_end": 247.84625,
+    "context_end": 247.854625,
     "feedback": [
         {
             "name": "spontB_016_yeah",
@@ -18,16 +18,16 @@
             "token": "yeah"
         },
         {
-            "name": "spontA_112_no",
+            "name": "spontC_405_yeah",
             "start": 244.23,
-            "end": 245.043125,
-            "token": "no"
+            "end": 244.84625,
+            "token": "yeah"
         },
         {
-            "name": "NR_013_no",
+            "name": "spontA_382_yeah",
             "start": 247.28,
-            "end": 247.84625,
-            "token": "no"
+            "end": 247.854625,
+            "token": "yeah"
         }
     ]
 }

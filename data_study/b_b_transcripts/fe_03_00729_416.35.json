@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00729",
     "context_channel": 1,
-    "context_text": "<A> [ yeah yeah ] i'm not doing this for money but this is my study my area linguistics / <B> yeah / <A> my area that i'm studying right now / <B> yes / <A> that's why it's very interesting { because my } / <B> [ uh-huh ] / <A> school they don't have this kind of a system but they wanted to know i'm just ah doing a lot of surveys some asian students some hispanic students { i have } / <B> [ ooh ]",
+    "context_text": "<A> [ yeah yeah ] i'm not doing this for money but this is my study my area linguistics / <B> yeah / <A> my area that i'm studying right now / <B> yeah / <A> that's why it's very interesting { because my } / <B> [ uh-huh ] / <A> school they don't have this kind of a system but they wanted to know i'm just ah doing a lot of surveys some asian students some hispanic students { i have } / <B> [ mhm ]",
     "context_start": 416.35,
-    "context_end": 439.323125,
+    "context_end": 439.035375,
     "feedback": [
         {
             "name": "spontD_228_yeah",
@@ -12,10 +12,10 @@
             "token": "yeah"
         },
         {
-            "name": "spontF_329_yes",
+            "name": "spontA_273_yeah",
             "start": 426.12,
-            "end": 426.839625,
-            "token": "yes"
+            "end": 426.68575,
+            "token": "yeah"
         },
         {
             "name": "spontA_279_uh-huh",
@@ -24,10 +24,10 @@
             "token": "uh-huh"
         },
         {
-            "name": "NegS_038_ooh",
+            "name": "spontB_191_mhm",
             "start": 438.31,
-            "end": 439.323125,
-            "token": "ooh"
+            "end": 439.035375,
+            "token": "mhm"
         }
     ]
 }

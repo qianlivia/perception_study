@@ -1,15 +1,15 @@
 {
     "name": "fe_03_02558",
     "context_channel": 0,
-    "context_text": "<B> and ah it's not within our it's not within our capacity to ah change that / <A> no / <B> but i think that ah the the link the idea that the al qaeda that those who attacked us at the world trade center and at the pentagon / <A> yeah / <B> that they are not ah living on thin air and that every / <A> no / <B> single country that harbors that supports iraq being one of them syria being one of them / <A> mhm",
+    "context_text": "<B> and ah it's not within our it's not within our capacity to ah change that / <A> right / <B> but i think that ah the the link the idea that the al qaeda that those who attacked us at the world trade center and at the pentagon / <A> yeah / <B> that they are not ah living on thin air and that every / <A> yeah / <B> single country that harbors that supports iraq being one of them syria being one of them / <A> uh-huh",
     "context_start": 177.31,
-    "context_end": 217.64499999999998,
+    "context_end": 217.55925,
     "feedback": [
         {
-            "name": "NR_015_no",
+            "name": "spontC_360_right",
             "start": 186.47,
-            "end": 187.28575,
-            "token": "no"
+            "end": 187.048875,
+            "token": "right"
         },
         {
             "name": "spontD_142_yeah",
@@ -18,16 +18,16 @@
             "token": "yeah"
         },
         {
-            "name": "NR_037_no",
+            "name": "spontC_395_yeah",
             "start": 209.01,
-            "end": 209.480625,
-            "token": "no"
+            "end": 209.406125,
+            "token": "yeah"
         },
         {
-            "name": "spontD_254_mhm",
+            "name": "spontE_106_uh-huh",
             "start": 217.13,
-            "end": 217.64499999999998,
-            "token": "mhm"
+            "end": 217.55925,
+            "token": "uh-huh"
         }
     ]
 }

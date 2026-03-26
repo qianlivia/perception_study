@@ -1,9 +1,9 @@
 {
     "name": "fe_03_05440",
     "context_channel": 0,
-    "context_text": "<B> no um no i i feel that um e everybody should be given uh a an equal opportunity uh to at raises or uh a promotions regardless and you know it should be solely based on uh their their performance / <A> mhm / <B> but uh uh i i believe affirmative action i if i remember exactly what affirmative action is i believe that's the uh hiring based on uh uh i i guess race or you know just uh different uh other forms of status { uh i'm } / <A> [ yes ] / <B> not quite sure so / <A> yeah",
+    "context_text": "<B> no um no i i feel that um e everybody should be given uh a an equal opportunity uh to at raises or uh a promotions regardless and you know it should be solely based on uh their their performance / <A> mhm / <B> but uh uh i i believe affirmative action i if i remember exactly what affirmative action is i believe that's the uh hiring based on uh uh i i guess race or you know just uh different uh other forms of status { uh i'm } / <A> [ oh ] / <B> not quite sure so / <A> okay",
     "context_start": 50.5,
-    "context_end": 101.566,
+    "context_end": 101.705,
     "feedback": [
         {
             "name": "spontA_253_mhm",
@@ -12,16 +12,16 @@
             "token": "mhm"
         },
         {
-            "name": "PR_024_yes",
+            "name": "Sy_020_oh",
             "start": 95.36,
-            "end": 96.3575,
-            "token": "yes"
+            "end": 97.233375,
+            "token": "oh"
         },
         {
-            "name": "spontB_094_yeah",
+            "name": "spontC_020_okay",
             "start": 101.23,
-            "end": 101.566,
-            "token": "yeah"
+            "end": 101.705,
+            "token": "okay"
         }
     ]
 }

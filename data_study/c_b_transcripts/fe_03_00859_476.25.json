@@ -1,27 +1,27 @@
 {
     "name": "fe_03_00859",
     "context_channel": 0,
-    "context_text": "<B> think by the time you hit high school you should have some career goals { and they } / <A> [ absolutely ] / <B> don't teach it's 'cause that's not a class you teach that's a class you ask / <A> no / <B> so so any idea how long we are supposed to go on / <A> no",
+    "context_text": "<B> think by the time you hit high school you should have some career goals { and they } / <A> [ yeah ] / <B> don't teach it's 'cause that's not a class you teach that's a class you ask / <A> yeah / <B> so so any idea how long we are supposed to go on / <A> oh",
     "context_start": 476.25,
-    "context_end": 490.7645,
+    "context_end": 490.575,
     "feedback": [
         {
-            "name": "sun_002_absolutely",
+            "name": "spontA_015_yeah",
             "start": 479.28,
-            "end": 480.3255,
-            "token": "absolutely"
+            "end": 480.049875,
+            "token": "yeah"
         },
         {
-            "name": "NR_039_no",
+            "name": "spontF_562_yeah",
             "start": 483.52,
-            "end": 484.149875,
-            "token": "no"
+            "end": 484.088875,
+            "token": "yeah"
         },
         {
-            "name": "spontE_345_no",
+            "name": "spontC_109_oh",
             "start": 490.01,
-            "end": 490.7645,
-            "token": "no"
+            "end": 490.575,
+            "token": "oh"
         }
     ]
 }

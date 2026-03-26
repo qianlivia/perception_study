@@ -1,15 +1,15 @@
 {
     "name": "fe_03_01653",
     "context_channel": 0,
-    "context_text": "<B> agree with you i think i i think we did that's what happened they { pulled out } / <A> [ ooh ] / <B> too soon and i think they should stay this time / <A> yeah / <B> although the people seem to be against us now at first they were all for us / <A> yeah",
+    "context_text": "<B> agree with you i think i i think we did that's what happened they { pulled out } / <A> [ yeah ] / <B> too soon and i think they should stay this time / <A> yeah / <B> although the people seem to be against us now at first they were all for us / <A> yeah",
     "context_start": 66.88,
-    "context_end": 78.6675,
+    "context_end": 78.55125,
     "feedback": [
         {
-            "name": "NegS_060_ooh",
+            "name": "spontF_140_yeah",
             "start": 70.36,
-            "end": 71.424,
-            "token": "ooh"
+            "end": 71.17,
+            "token": "yeah"
         },
         {
             "name": "spontC_405_yeah",
@@ -18,9 +18,9 @@
             "token": "yeah"
         },
         {
-            "name": "spontC_251_yeah",
+            "name": "spontF_287_yeah",
             "start": 77.92,
-            "end": 78.6675,
+            "end": 78.55125,
             "token": "yeah"
         }
     ]

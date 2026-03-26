@@ -1,27 +1,27 @@
 {
     "name": "fe_03_00286",
     "context_channel": 0,
-    "context_text": "<B> uh you know who are the maintenance crew that { are working } / <A> [ sure ] / <B> on this airplane how many how many um how many drinks has the pilot had / <A> uh-huh / <B> you know these are really simple clues that you know maybe i shouldn't fly today { you know } / <A> [ absolutely ]",
+    "context_text": "<B> uh you know who are the maintenance crew that { are working } / <A> [ yeah ] / <B> on this airplane how many how many um how many drinks has the pilot had / <A> yeah / <B> you know these are really simple clues that you know maybe i shouldn't fly today { you know } / <A> [ yeah ]",
     "context_start": 384.24,
-    "context_end": 399.9255,
+    "context_end": 399.725625,
     "feedback": [
         {
-            "name": "sun_030_sure",
+            "name": "spontF_140_yeah",
             "start": 387.12,
-            "end": 388.06712500000003,
-            "token": "sure"
+            "end": 387.93,
+            "token": "yeah"
         },
         {
-            "name": "spontE_106_uh-huh",
+            "name": "spontE_003_yeah",
             "start": 393.16,
-            "end": 393.58925000000005,
-            "token": "uh-huh"
+            "end": 393.544375,
+            "token": "yeah"
         },
         {
-            "name": "sun_002_absolutely",
+            "name": "spontD_395_yeah",
             "start": 398.88,
-            "end": 399.9255,
-            "token": "absolutely"
+            "end": 399.725625,
+            "token": "yeah"
         }
     ]
 }

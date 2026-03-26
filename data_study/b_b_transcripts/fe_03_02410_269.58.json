@@ -1,7 +1,7 @@
 {
     "name": "fe_03_02410",
     "context_channel": 1,
-    "context_text": "<A> nothing's going on i just think the united states is trying to globalize their dem democratic economy / <B> really / <A> that's what i think they're trying to do i don't { have } / <B> [ yeah ] / <A> have any i don't have anything against it / <B> sure / <A> it'll be good for the other nations / <B> right",
+    "context_text": "<A> nothing's going on i just think the united states is trying to globalize their dem democratic economy / <B> really / <A> that's what i think they're trying to do i don't { have } / <B> [ yeah ] / <A> have any i don't have anything against it / <B> yeah / <A> it'll be good for the other nations / <B> right",
     "context_start": 269.58,
     "context_end": 283.738875,
     "feedback": [
@@ -18,10 +18,10 @@
             "token": "yeah"
         },
         {
-            "name": "sun_051_sure",
+            "name": "spontF_547_yeah",
             "start": 280.78,
-            "end": 281.547625,
-            "token": "sure"
+            "end": 281.17362499999996,
+            "token": "yeah"
         },
         {
             "name": "spontC_360_right",

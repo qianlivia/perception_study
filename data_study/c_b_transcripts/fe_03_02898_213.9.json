@@ -1,15 +1,15 @@
 {
     "name": "fe_03_02898",
     "context_channel": 1,
-    "context_text": "<A> don't show that on tv too often / <B> no / <A> but when they do i i can watch that for hours that and surfing i guess are kind of cool / <B> yeah / <A> but you don't find that on tv very often it's / <B> no",
+    "context_text": "<A> don't show that on tv too often / <B> uh-huh / <A> but when they do i i can watch that for hours that and surfing i guess are kind of cool / <B> yeah / <A> but you don't find that on tv very often it's / <B> oh",
     "context_start": 213.9,
-    "context_end": 227.39312500000003,
+    "context_end": 227.22487500000003,
     "feedback": [
         {
-            "name": "spontB_093_no",
+            "name": "spontD_070_uh-huh",
             "start": 215.64,
-            "end": 216.551,
-            "token": "no"
+            "end": 216.14825,
+            "token": "uh-huh"
         },
         {
             "name": "spontD_184_yeah",
@@ -18,10 +18,10 @@
             "token": "yeah"
         },
         {
-            "name": "spontA_112_no",
+            "name": "spontC_248_oh",
             "start": 226.58,
-            "end": 227.39312500000003,
-            "token": "no"
+            "end": 227.22487500000003,
+            "token": "oh"
         }
     ]
 }

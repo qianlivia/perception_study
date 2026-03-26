@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00332",
     "context_channel": 1,
-    "context_text": "<A> [ you know ] it's just when you are getting into the politics of it / <B> yeah / <A> um well then it becomes a different issue / <B> yeah / <A> but if i say had a family member that was acting in a manner that i knew to be harmful to a certain group of people say i had a family member that was acting harmfully to target or marginalize a group of people / <B> yes / <A> and that they were actively placing laws passing laws and putting laws into effect that would guarantee that these people would be somehow um their li the quality of life would be effected / <B> yes / <A> i would not support my family member in that action / <B> no",
+    "context_text": "<A> [ you know ] it's just when you are getting into the politics of it / <B> yeah / <A> um well then it becomes a different issue / <B> yeah / <A> but if i say had a family member that was acting in a manner that i knew to be harmful to a certain group of people say i had a family member that was acting harmfully to target or marginalize a group of people / <B> uh-huh / <A> and that they were actively placing laws passing laws and putting laws into effect that would guarantee that these people would be somehow um their li the quality of life would be effected / <B> yeah / <A> i would not support my family member in that action / <B> yeah",
     "context_start": 283.99,
-    "context_end": 333.248875,
+    "context_end": 333.18149999999997,
     "feedback": [
         {
             "name": "spontC_321_yeah",
@@ -18,22 +18,22 @@
             "token": "yeah"
         },
         {
-            "name": "spontB_368_yes",
+            "name": "spontC_386_uh-huh",
             "start": 313.87,
-            "end": 314.727625,
-            "token": "yes"
+            "end": 314.4165,
+            "token": "uh-huh"
         },
         {
-            "name": "PR_007_yes",
+            "name": "spontD_140_yeah",
             "start": 329.19,
-            "end": 330.109,
-            "token": "yes"
+            "end": 329.73025,
+            "token": "yeah"
         },
         {
-            "name": "sun2_045_no",
+            "name": "spontE_219_yeah",
             "start": 332.64,
-            "end": 333.248875,
-            "token": "no"
+            "end": 333.18149999999997,
+            "token": "yeah"
         }
     ]
 }

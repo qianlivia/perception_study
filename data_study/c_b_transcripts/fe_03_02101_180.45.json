@@ -1,9 +1,9 @@
 {
     "name": "fe_03_02101",
     "context_channel": 1,
-    "context_text": "<A> right yeah we found out about friends uh our house burned down in august / <B> oh / <A> and we had no insurance and we had no you know no nothing and uh we i was surprised at the number of people that said okay / <B> yeah / <A> here here you know we had some some neighbors that we didn't really even think of as close friends { that } / <B> [ no ] / <A> said no you're not going any you're staying here at our place for a couple of days at least until we figure out what's going on / <B> yeah",
+    "context_text": "<A> right yeah we found out about friends uh our house burned down in august / <B> oh / <A> and we had no insurance and we had no you know no nothing and uh we i was surprised at the number of people that said okay / <B> yeah / <A> here here you know we had some some neighbors that we didn't really even think of as close friends { that } / <B> [ yeah ] / <A> said no you're not going any you're staying here at our place for a couple of days at least until we figure out what's going on / <B> yeah",
     "context_start": 180.45,
-    "context_end": 217.934625,
+    "context_end": 217.878375,
     "feedback": [
         {
             "name": "Sy_055_oh",
@@ -18,15 +18,15 @@
             "token": "yeah"
         },
         {
-            "name": "NR_039_no",
+            "name": "spontA_015_yeah",
             "start": 208.44,
-            "end": 209.069875,
-            "token": "no"
+            "end": 209.209875,
+            "token": "yeah"
         },
         {
-            "name": "spontA_382_yeah",
+            "name": "spontF_295_yeah",
             "start": 217.36,
-            "end": 217.934625,
+            "end": 217.878375,
             "token": "yeah"
         }
     ]

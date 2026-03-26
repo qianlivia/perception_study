@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04155",
     "context_channel": 0,
-    "context_text": "<B> and um matter of fact yesterday we we baked cookies and um i used to burn up cookies believe it or not { i } / <A> [ really ] / <B> could not get the timing right and / <A> uh-huh / <B> when you put cookies in to bake / <A> right / <B> okay you're supposed to leave em in for a certain length of time / <A> yeah / <B> i would take em out too soon and i'm like gosh you know okay now this isn't gonna taste good then i leave em in too long then i like yesterday i smelled them like oh { god we're } / <A> [ ah ]",
+    "context_text": "<B> and um matter of fact yesterday we we baked cookies and um i used to burn up cookies believe it or not { i } / <A> [ really ] / <B> could not get the timing right and / <A> uh-huh / <B> when you put cookies in to bake / <A> right / <B> okay you're supposed to leave em in for a certain length of time / <A> yeah / <B> i would take em out too soon and i'm like gosh you know okay now this isn't gonna taste good then i leave em in too long then i like yesterday i smelled them like oh { god we're } / <A> [ uh-huh ]",
     "context_start": 219.61,
-    "context_end": 243.872875,
+    "context_end": 243.46137499999998,
     "feedback": [
         {
             "name": "PS_070_really",
@@ -30,10 +30,10 @@
             "token": "yeah"
         },
         {
-            "name": "spontB_148_ah",
+            "name": "spontA_093_uh-huh",
             "start": 242.92,
-            "end": 243.872875,
-            "token": "ah"
+            "end": 243.46137499999998,
+            "token": "uh-huh"
         }
     ]
 }

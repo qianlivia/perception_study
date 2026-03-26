@@ -1,7 +1,7 @@
 {
     "name": "fe_03_04020",
     "context_channel": 1,
-    "context_text": "<A> i i i really i i don't know but i i know that my kids were always saying you know chuck said such and such but { you } / <B> [ yeah ] / <A> know that's not true and { and } / <B> [ no ] / <A> i they they understood you { know } / <B> [ yeah ]",
+    "context_text": "<A> i i i really i i don't know but i i know that my kids were always saying you know chuck said such and such but { you } / <B> [ yeah ] / <A> know that's not true and { and } / <B> [ yeah ] / <A> i they they understood you { know } / <B> [ yeah ]",
     "context_start": 362.17,
     "context_end": 373.413125,
     "feedback": [
@@ -12,10 +12,10 @@
             "token": "yeah"
         },
         {
-            "name": "NR_013_no",
+            "name": "spontA_229_yeah",
             "start": 369.55,
-            "end": 370.11625000000004,
-            "token": "no"
+            "end": 369.991875,
+            "token": "yeah"
         },
         {
             "name": "PR_031_yeah",

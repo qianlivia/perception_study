@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03785",
     "context_channel": 1,
-    "context_text": "<A> was i was at a bar and i criticized the movie chorus line and / <B> uh-huh / <A> the person said that's because you're not in theater or you'd appreciate this { you would } / <B> [ ah ] / <A> appreciate the movie { and i } / <B> [ oh ]",
+    "context_text": "<A> was i was at a bar and i criticized the movie chorus line and / <B> uh-huh / <A> the person said that's because you're not in theater or you'd appreciate this { you would } / <B> [ oh ] / <A> appreciate the movie { and i } / <B> [ yeah ]",
     "context_start": 137.97,
-    "context_end": 154.845125,
+    "context_end": 154.94187499999998,
     "feedback": [
         {
             "name": "spontD_070_uh-huh",
@@ -12,16 +12,16 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontE_232_ah",
+            "name": "spontE_048_oh",
             "start": 152.12,
-            "end": 153.10075,
-            "token": "ah"
+            "end": 152.865125,
+            "token": "oh"
         },
         {
-            "name": "spontE_048_oh",
+            "name": "spontE_130_yeah",
             "start": 154.1,
-            "end": 154.845125,
-            "token": "oh"
+            "end": 154.94187499999998,
+            "token": "yeah"
         }
     ]
 }

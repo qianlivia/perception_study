@@ -1,9 +1,9 @@
 {
     "name": "fe_03_02672",
     "context_channel": 1,
-    "context_text": "<A> yeah that's great um most of my family we're all pretty much on the west side / <B> uh-huh / <A> so it's not too bad my parents still live in san diego and i have an uncle in la so you know we're only five hours away so it's not too hard to get together but / <B> yeah / <A> i spent some time in florida and so i was so far away from my family that you know it was hard to get together even for holidays you { know you } / <B> [ uh-huh ] / <A> have to buy a plane ticket and you know have all that time off of work to make { it } / <B> [ ooh ]",
+    "context_text": "<A> yeah that's great um most of my family we're all pretty much on the west side / <B> uh-huh / <A> so it's not too bad my parents still live in san diego and i have an uncle in la so you know we're only five hours away so it's not too hard to get together but / <B> yeah / <A> i spent some time in florida and so i was so far away from my family that you know it was hard to get together even for holidays you { know you } / <B> [ uh-huh ] / <A> have to buy a plane ticket and you know have all that time off of work to make { it } / <B> [ mhm ]",
     "context_start": 521.41,
-    "context_end": 549.88375,
+    "context_end": 549.787,
     "feedback": [
         {
             "name": "spontA_254_uh-huh",
@@ -24,10 +24,10 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontE_174_ooh",
+            "name": "spontA_054_mhm",
             "start": 549.26,
-            "end": 549.88375,
-            "token": "ooh"
+            "end": 549.787,
+            "token": "mhm"
         }
     ]
 }

@@ -1,7 +1,7 @@
 {
     "name": "fe_03_04347",
     "context_channel": 1,
-    "context_text": "<A> we { don't } / <B> [ yeah ] / <A> respect them anymore { and we g } / <B> [ no ] / <A> and we give this we give this white columbus guy a whole day for himself { we got a } / <B> [ yeah ]",
+    "context_text": "<A> we { don't } / <B> [ yeah ] / <A> respect them anymore { and we g } / <B> [ wow ] / <A> and we give this we give this white columbus guy a whole day for himself { we got a } / <B> [ yeah ]",
     "context_start": 375.3,
     "context_end": 381.7845,
     "feedback": [
@@ -12,10 +12,10 @@
             "token": "yeah"
         },
         {
-            "name": "NR_075_no",
+            "name": "PS_190_wow",
             "start": 376.78,
-            "end": 377.57262499999996,
-            "token": "no"
+            "end": 378.136875,
+            "token": "wow"
         },
         {
             "name": "spontC_250_yeah",

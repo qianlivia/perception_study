@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00977",
     "context_channel": 0,
-    "context_text": "<B> um i'm line in in line with you i was i don't think that we're going to be able to resolve this until we did have an all out war and go after saddam hussein / <A> yeah / <B> and that's most unfortunate but the attack has been made on the us and i don't think that we'll ever be able to rest easy again / <A> no / <B> because we know that we're all vulnerable / <A> yeah / <B> until we let people like him know that we are serious in defending our country from these terrorists / <A> yeah",
+    "context_text": "<B> um i'm line in in line with you i was i don't think that we're going to be able to resolve this until we did have an all out war and go after saddam hussein / <A> yeah / <B> and that's most unfortunate but the attack has been made on the us and i don't think that we'll ever be able to rest easy again / <A> yeah / <B> because we know that we're all vulnerable / <A> yeah / <B> until we let people like him know that we are serious in defending our country from these terrorists / <A> yeah",
     "context_start": 75.63,
-    "context_end": 112.21125,
+    "context_end": 112.07837500000001,
     "feedback": [
         {
             "name": "spontC_405_yeah",
@@ -12,21 +12,21 @@
             "token": "yeah"
         },
         {
-            "name": "spontA_112_no",
-            "start": 99.8,
-            "end": 100.613125,
-            "token": "no"
-        },
-        {
             "name": "spontA_382_yeah",
-            "start": 102.47,
-            "end": 103.044625,
+            "start": 99.8,
+            "end": 100.374625,
             "token": "yeah"
         },
         {
             "name": "spontA_109_yeah",
+            "start": 102.47,
+            "end": 103.12125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_295_yeah",
             "start": 111.56,
-            "end": 112.21125,
+            "end": 112.07837500000001,
             "token": "yeah"
         }
     ]

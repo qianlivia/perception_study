@@ -1,9 +1,9 @@
 {
     "name": "fe_03_05600",
     "context_channel": 1,
-    "context_text": "<A> well on any level the the thing is like my my dad died my dad died a few uh three years ago / <B> uh-huh / <A> um i was struggling for a job { getting a } / <B> [ ah ] / <A> job well i'm working now / <B> yeah",
+    "context_text": "<A> well on any level the the thing is like my my dad died my dad died a few uh three years ago / <B> uh-huh / <A> um i was struggling for a job { getting a } / <B> [ yeah ] / <A> job well i'm working now / <B> yeah",
     "context_start": 211.48,
-    "context_end": 227.377625,
+    "context_end": 227.261125,
     "feedback": [
         {
             "name": "spontF_009_uh-huh",
@@ -12,15 +12,15 @@
             "token": "uh-huh"
         },
         {
-            "name": "spontF_629_ah",
+            "name": "spontC_076_yeah",
             "start": 223.59,
-            "end": 224.25525,
-            "token": "ah"
+            "end": 224.277625,
+            "token": "yeah"
         },
         {
-            "name": "spontC_076_yeah",
+            "name": "spontD_228_yeah",
             "start": 226.69,
-            "end": 227.377625,
+            "end": 227.261125,
             "token": "yeah"
         }
     ]

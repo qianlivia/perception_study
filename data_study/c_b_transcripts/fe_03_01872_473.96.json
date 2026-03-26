@@ -1,26 +1,26 @@
 {
     "name": "fe_03_01872",
     "context_channel": 0,
-    "context_text": "<B> wish we were closer because as everybody gets older you know you need to start taking care of your parents or we're going to { have to take } / <A> [ sure ] / <B> care of each other and / <A> yeah / <B> um i think it's it's hard / <A> yeah",
+    "context_text": "<B> wish we were closer because as everybody gets older you know you need to start taking care of your parents or we're going to { have to take } / <A> [ oh ] / <B> care of each other and / <A> right / <B> um i think it's it's hard / <A> yeah",
     "context_start": 473.96,
-    "context_end": 486.093125,
+    "context_end": 486.129125,
     "feedback": [
         {
-            "name": "sun_030_sure",
+            "name": "Sy_023_oh",
             "start": 480.31,
-            "end": 481.25712500000003,
-            "token": "sure"
+            "end": 481.410375,
+            "token": "oh"
         },
         {
-            "name": "spontB_094_yeah",
+            "name": "PR_048_right",
             "start": 482.31,
-            "end": 482.646,
-            "token": "yeah"
+            "end": 482.945125,
+            "token": "right"
         },
         {
-            "name": "PR_031_yeah",
+            "name": "sun_045_yeah",
             "start": 485.69,
-            "end": 486.093125,
+            "end": 486.129125,
             "token": "yeah"
         }
     ]
