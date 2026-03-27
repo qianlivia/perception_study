@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04575",
+    "context_channel": 1,
+    "context_text": "<A> and what happened was i wrote down the model number i wanted / <B> oh / <A> but when i went to order it i forgot i forgot to bring the piece of paper { but } / <B> [ wow ] / <A> i kinda remembered the number / <B> wow",
+    "context_start": 390.7,
+    "context_end": 404.1675,
+    "feedback": [
+        {
+            "name": "spontE_043_oh",
+            "start": 395.12,
+            "end": 395.77825,
+            "token": "oh"
+        },
+        {
+            "name": "PS_113_wow",
+            "start": 400.9,
+            "end": 401.92862499999995,
+            "token": "wow"
+        },
+        {
+            "name": "PS_176_wow",
+            "start": 403.17,
+            "end": 404.1675,
+            "token": "wow"
+        }
+    ]
+}

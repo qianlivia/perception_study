@@ -1,0 +1,51 @@
+{
+    "name": "fe_03_00440",
+    "context_channel": 0,
+    "context_text": "<B> especially with with lower level and you're trusting you're in into a company friendly and / <A> [ wow ] / <B> getting a good income and / <A> wow / <B> trying to raise a family and then being { lied } / <A> [ oh ] / <B> to / <A> yeah / <B> now the ceos i have read something on the news about ceos earning exorbitant amounts of money and taking huge vacations / <A> yeah / <B> and having huge bonuses which { they } / <A> [ yeah ] / <B> don't pass on to their employees / <A> yeah",
+    "context_start": 462.84,
+    "context_end": 489.923125,
+    "feedback": [
+        {
+            "name": "NegS_044_wow",
+            "start": 468.51,
+            "end": 469.617,
+            "token": "wow"
+        },
+        {
+            "name": "spontA_261_wow",
+            "start": 470.95,
+            "end": 471.599125,
+            "token": "wow"
+        },
+        {
+            "name": "spontE_043_oh",
+            "start": 473.75,
+            "end": 474.40825,
+            "token": "oh"
+        },
+        {
+            "name": "sun_046_yeah",
+            "start": 475.37,
+            "end": 475.77825,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_364_yeah",
+            "start": 484.45,
+            "end": 485.300375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_094_yeah",
+            "start": 487.3,
+            "end": 487.636,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_355_yeah",
+            "start": 489.48,
+            "end": 489.923125,
+            "token": "yeah"
+        }
+    ]
+}

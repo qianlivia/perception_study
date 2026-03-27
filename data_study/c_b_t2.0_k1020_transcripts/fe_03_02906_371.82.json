@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02906",
+    "context_channel": 0,
+    "context_text": "<B> figure skating yeah you know what i just recently started watching is golf i always thought golf was boring and it is kind of boring { to watch but } / <A> [ mhm ] / <B> when when you they've got a really close game { that's } / <A> [ yeah ] / <B> kind of fun to watch / <A> uh-huh",
+    "context_start": 371.82,
+    "context_end": 387.21537500000005,
+    "feedback": [
+        {
+            "name": "spontB_212_mhm",
+            "start": 381.01,
+            "end": 381.78775,
+            "token": "mhm"
+        },
+        {
+            "name": "sun_045_yeah",
+            "start": 384.99,
+            "end": 385.429125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_103_uh-huh",
+            "start": 386.72,
+            "end": 387.21537500000005,
+            "token": "uh-huh"
+        }
+    ]
+}

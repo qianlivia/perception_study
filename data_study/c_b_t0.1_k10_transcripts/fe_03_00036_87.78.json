@@ -1,44 +1,44 @@
 {
     "name": "fe_03_00036",
     "context_channel": 1,
-    "context_text": "<A> and i guess i believe more in i kinda grew up with the whole home remedy and i've as as i've gotten older i've gotten more into the holistic healing kinds / <B> mhm / <A> of things where i i like to be more natural / <B> mhm / <A> than i do end up sometimes with my cold and sinus if it / <B> yeah / <A> just gets to be too much cause / <B> mhm / <A> i and i've gotten sick more the last couple of years because i work full time and i've started school full time { so } / <B> [ wow ] / <A> i have a lot of stress and i don't get enough sleep as i should / <B> okay",
+    "context_text": "<A> and i guess i believe more in i kinda grew up with the whole home remedy and i've as as i've gotten older i've gotten more into the holistic healing { kinds } / <B> [ wow ] / <A> of things where i i like to be more natural / <B> okay / <A> than i do end up sometimes with my advil cold and sinus / <B> okay / <A> if it just gets to be too much 'cause { i } / <B> [ okay ] / <A> and i've gotten sick more the last couple of years because i work full time and i've started school full time / <B> okay / <A> so i have a lot of stress and i don't get enough sleep as i should / <B> okay",
     "context_start": 87.78,
-    "context_end": 114.942875,
+    "context_end": 114.751625,
     "feedback": [
         {
-            "name": "spontC_330_mhm",
+            "name": "PS_092_wow",
             "start": 95.92,
-            "end": 96.403625,
-            "token": "mhm"
-        },
-        {
-            "name": "spontD_115_mhm",
-            "start": 99.25,
-            "end": 99.739875,
-            "token": "mhm"
-        },
-        {
-            "name": "spontE_150_yeah",
-            "start": 103.11,
-            "end": 103.517125,
-            "token": "yeah"
-        },
-        {
-            "name": "spontF_611_mhm",
-            "start": 105.18,
-            "end": 105.733125,
-            "token": "mhm"
-        },
-        {
-            "name": "PS_108_wow",
-            "start": 110.99,
-            "end": 112.13575,
+            "end": 96.837125,
             "token": "wow"
         },
         {
+            "name": "spontB_195_okay",
+            "start": 99.25,
+            "end": 99.9195,
+            "token": "okay"
+        },
+        {
+            "name": "spontE_071_okay",
+            "start": 103.11,
+            "end": 103.764,
+            "token": "okay"
+        },
+        {
+            "name": "spontA_198_okay",
+            "start": 105.18,
+            "end": 105.849625,
+            "token": "okay"
+        },
+        {
             "name": "sun1_017_okay",
+            "start": 110.99,
+            "end": 111.902875,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_280_okay",
             "start": 114.03,
-            "end": 114.942875,
+            "end": 114.751625,
             "token": "okay"
         }
     ]

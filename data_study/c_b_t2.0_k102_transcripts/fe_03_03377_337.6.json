@@ -1,0 +1,51 @@
+{
+    "name": "fe_03_03377",
+    "context_channel": 1,
+    "context_text": "<A> stupid fights but { i'm } / <B> [ yeah ] / <A> i'm the man of the house um when it { comes to } / <B> [ uh-huh ] / <A> if { something } / <B> [ yeah ] / <A> breaks or { or } / <B> [ yeah ] / <A> whatever and sometimes i'd like it if he would he's all he's been so used to me just kinda taking over / <B> uh-huh / <A> and and fixing things { but } / <B> [ yeah ] / <A> sometimes i'd like him to just you know / <B> yeah",
+    "context_start": 337.6,
+    "context_end": 357.315125,
+    "feedback": [
+        {
+            "name": "spontD_263_yeah",
+            "start": 339.14,
+            "end": 339.860125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_086_uh-huh",
+            "start": 341.8,
+            "end": 342.310125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontB_016_yeah",
+            "start": 342.96,
+            "end": 343.354875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_335_yeah",
+            "start": 344.62,
+            "end": 345.287125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_051_uh-huh",
+            "start": 350.43,
+            "end": 350.98925,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PR_056_yeah",
+            "start": 353.74,
+            "end": 354.497875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_271_yeah",
+            "start": 356.8,
+            "end": 357.315125,
+            "token": "yeah"
+        }
+    ]
+}

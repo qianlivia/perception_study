@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00890",
+    "context_channel": 0,
+    "context_text": "<B> i guess they're trying to follow the same format with three judges with { that } / <A> [ uh-huh ] / <B> married by america and it just to me it was terrible { yeah } / <A> [ yeah ] / <B> i found no reason to want to watch it again / <A> yeah",
+    "context_start": 266.65,
+    "context_end": 277.3075,
+    "feedback": [
+        {
+            "name": "spontB_280_uh-huh",
+            "start": 270.0,
+            "end": 270.50225,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_101_yeah",
+            "start": 273.88,
+            "end": 274.645625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_251_yeah",
+            "start": 276.56,
+            "end": 277.3075,
+            "token": "yeah"
+        }
+    ]
+}

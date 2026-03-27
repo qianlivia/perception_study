@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_05656",
+    "context_channel": 1,
+    "context_text": "<A> um well airport security well um honestly in the past ah i flew plenty of ah you know flights in my life um before nine eleven um it in other words you would never in my opinion see a dog / <B> uh-huh / <A> like i used to smoke pot / <B> yeah / <A> i didn't think twice about like you know bringing some pot with me on { on } / <B> [ uh-huh ] / <A> like my carry on bag i'm / <B> yeah",
+    "context_start": 32.95,
+    "context_end": 55.780125,
+    "feedback": [
+        {
+            "name": "spontC_128_uh-huh",
+            "start": 48.64,
+            "end": 49.140875,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_562_yeah",
+            "start": 50.26,
+            "end": 50.828875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_566_uh-huh",
+            "start": 53.7,
+            "end": 54.314375000000005,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_024_yeah",
+            "start": 55.36,
+            "end": 55.780125,
+            "token": "yeah"
+        }
+    ]
+}

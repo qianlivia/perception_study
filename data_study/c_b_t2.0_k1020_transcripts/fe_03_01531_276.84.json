@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_01531",
+    "context_channel": 0,
+    "context_text": "<B> and these guys are running around and the women too { the } / <A> [ yeah ] / <B> women too and they're running around screaming i don't make enough money so i'm not gonna play until you give me more / <A> wow / <B> and they'll always get more money cause / <A> oh",
+    "context_start": 276.84,
+    "context_end": 291.00975,
+    "feedback": [
+        {
+            "name": "spontB_157_yeah",
+            "start": 280.4,
+            "end": 281.071875,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_154_wow",
+            "start": 286.84,
+            "end": 288.32849999999996,
+            "token": "wow"
+        },
+        {
+            "name": "spontF_582_oh",
+            "start": 289.11,
+            "end": 291.00975,
+            "token": "oh"
+        }
+    ]
+}

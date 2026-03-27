@@ -1,0 +1,51 @@
+{
+    "name": "fe_03_02248",
+    "context_channel": 1,
+    "context_text": "<A> s you know we're in the middle of april here and we just had a cold snap not long ago right in the middle of april { and } / <B> [ okay ] / <A> i mean it's like where did that come from { you } / <B> [ uh-huh ] / <A> know okay this is supposed to be hot weather { not } / <B> [ uh-huh ] / <A> cold weather and it's you know it gets hot for two or or cold for two or three days and then all of a sudden it's it's you know rainy and { then all of a } / <B> [ mhm ] / <A> sudden it's hot eighty degree hot / <B> yeah / <A> and then everything opens up and blooms again / <B> oh / <A> and then it's ah you know back to you know the cold the rain and i mean it's just there's there's the seasons don't seem to stay as level i mean they don't { seem } / <B> [ wow ]",
+    "context_start": 326.0,
+    "context_end": 361.68537499999996,
+    "feedback": [
+        {
+            "name": "spontD_383_okay",
+            "start": 332.44,
+            "end": 333.111375,
+            "token": "okay"
+        },
+        {
+            "name": "spontD_040_uh-huh",
+            "start": 334.99,
+            "end": 335.4475,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_324_uh-huh",
+            "start": 337.29,
+            "end": 337.937875,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_133_mhm",
+            "start": 344.87,
+            "end": 345.51025,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_024_yeah",
+            "start": 347.07,
+            "end": 347.809625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_301_oh",
+            "start": 349.62,
+            "end": 350.63525,
+            "token": "oh"
+        },
+        {
+            "name": "PS_095_wow",
+            "start": 360.65,
+            "end": 361.68537499999996,
+            "token": "wow"
+        }
+    ]
+}

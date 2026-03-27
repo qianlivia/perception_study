@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00414",
+    "context_channel": 0,
+    "context_text": "<B> but avoid being cynical { try to } / <A> [ wow ] / <B> be as optimistic as possible / <A> oh / <B> tell him what's good and right and idealistic / <A> wow / <B> and let the world tell him what is / <A> yeah",
+    "context_start": 216.91,
+    "context_end": 229.116,
+    "feedback": [
+        {
+            "name": "NegS_008_wow",
+            "start": 218.56,
+            "end": 219.5155,
+            "token": "wow"
+        },
+        {
+            "name": "Sy_013_oh",
+            "start": 220.92,
+            "end": 222.135,
+            "token": "oh"
+        },
+        {
+            "name": "PS_139_wow",
+            "start": 223.87,
+            "end": 225.14175,
+            "token": "wow"
+        },
+        {
+            "name": "spontD_340_yeah",
+            "start": 228.31,
+            "end": 229.116,
+            "token": "yeah"
+        }
+    ]
+}

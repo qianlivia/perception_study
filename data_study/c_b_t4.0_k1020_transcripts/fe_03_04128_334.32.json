@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04128",
+    "context_channel": 1,
+    "context_text": "<A> already replaced my income { so } / <B> [ yeah ] / <A> it's yeah because you only you really only talk to people i mean customers are great you know { those } / <B> [ yeah ] / <A> they are wonderful 'cause they are what really keeps us going but the business builders the people that want businesses for home based businesses those are really the only people that we contact because obviously they they want the same thing that we want / <B> oh / <A> and um but a lot of people we talk to you know are just customers i've got customers a lot of different customers that are just customers they don't wanna business you know / <B> uh-huh",
+    "context_start": 334.32,
+    "context_end": 366.98637499999995,
+    "feedback": [
+        {
+            "name": "spontC_192_yeah",
+            "start": 336.08,
+            "end": 336.53175,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_506_yeah",
+            "start": 342.27,
+            "end": 343.15425,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_379_oh",
+            "start": 356.85,
+            "end": 357.947125,
+            "token": "oh"
+        },
+        {
+            "name": "spontE_011_uh-huh",
+            "start": 366.53,
+            "end": 366.98637499999995,
+            "token": "uh-huh"
+        }
+    ]
+}

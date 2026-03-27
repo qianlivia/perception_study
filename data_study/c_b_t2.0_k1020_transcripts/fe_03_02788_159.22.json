@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02788",
+    "context_channel": 0,
+    "context_text": "<B> there's some people i mean the atlanta braves my family have stuck by them through thick and thin / <A> yeah / <B> it doesn't matter if they were winning losing or who they were trading { you } / <A> [ wow ] / <B> know / <A> yeah / <B> but there was you know like chipper jones { mm } / <A> [ mhm ]",
+    "context_start": 159.22,
+    "context_end": 171.48362500000002,
+    "feedback": [
+        {
+            "name": "spontD_375_yeah",
+            "start": 163.78,
+            "end": 164.204625,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_117_wow",
+            "start": 167.23,
+            "end": 168.961625,
+            "token": "wow"
+        },
+        {
+            "name": "spontA_155_yeah",
+            "start": 167.89,
+            "end": 168.41537499999998,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_051_mhm",
+            "start": 170.93,
+            "end": 171.48362500000002,
+            "token": "mhm"
+        }
+    ]
+}

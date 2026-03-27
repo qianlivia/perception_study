@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_00285",
+    "context_channel": 1,
+    "context_text": "<A> yeah i mean well obviously this the the september eleventh attacks last year were really sort of low tech attacks based on very very simple equipment that they had with them it wasn't anything high tech it was / <B> yeah / <A> box cutters or whatever / <B> uh-huh / <A> um so it seems like if someone is willing to do that sort of low low tech attack when they are willing to die for it / <B> oh / <A> um it seems like they could always find something else to bodge together to use as a weapon / <B> mhm / <A> i mean somehow sharpen a ballpoint pen or something it could become as dangerous as a box cutter / <B> wow",
+    "context_start": 118.86,
+    "context_end": 149.260875,
+    "feedback": [
+        {
+            "name": "spontC_255_yeah",
+            "start": 128.8,
+            "end": 129.37787500000002,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_158_uh-huh",
+            "start": 130.37,
+            "end": 130.89237500000002,
+            "token": "uh-huh"
+        },
+        {
+            "name": "NS_014_oh",
+            "start": 137.46,
+            "end": 138.256625,
+            "token": "oh"
+        },
+        {
+            "name": "spontD_195_mhm",
+            "start": 142.68,
+            "end": 143.575625,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_188_wow",
+            "start": 148.09,
+            "end": 149.260875,
+            "token": "wow"
+        }
+    ]
+}

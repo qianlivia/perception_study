@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04612",
+    "context_channel": 1,
+    "context_text": "<A> ah there are some available but { i } / <B> [ mhm ] / <A> just i i tried it a while ago and it just didn't work out very well and { it } / <B> [ mhm ] / <A> was hard to get games for it and stuff so { i } / <B> [ right ]",
+    "context_start": 337.0,
+    "context_end": 347.21362500000004,
+    "feedback": [
+        {
+            "name": "spontD_137_mhm",
+            "start": 339.01,
+            "end": 339.523625,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_281_mhm",
+            "start": 343.85,
+            "end": 344.75237500000003,
+            "token": "mhm"
+        },
+        {
+            "name": "sun1_030_right",
+            "start": 346.42,
+            "end": 347.21362500000004,
+            "token": "right"
+        }
+    ]
+}

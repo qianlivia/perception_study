@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04666",
+    "context_channel": 1,
+    "context_text": "<A> yeah i mean it's nice to kinda know what's going on we don't have kids and most of the people around here have kids / <B> yeah / <A> so we sort of feel you know sometimes we feel like we're not really in the main stream / <B> exactly / <A> with all the you know going to kindergarten and everything that { you } / <B> [ yeah ] / <A> know the parents do / <B> wow",
+    "context_start": 216.69,
+    "context_end": 235.56675,
+    "feedback": [
+        {
+            "name": "spontD_024_yeah",
+            "start": 222.46,
+            "end": 222.88012500000002,
+            "token": "yeah"
+        },
+        {
+            "name": "sun_042_exactly",
+            "start": 229.07,
+            "end": 230.02724999999998,
+            "token": "exactly"
+        },
+        {
+            "name": "spontF_048_yeah",
+            "start": 232.76,
+            "end": 233.53449999999998,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_063_wow",
+            "start": 234.18,
+            "end": 235.56675,
+            "token": "wow"
+        }
+    ]
+}

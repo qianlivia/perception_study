@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03470",
+    "context_channel": 1,
+    "context_text": "<A> i'm sure there were you know men that suffered a great deal too you / <B> uh-huh / <A> know at at least it was socially acceptable the man could get out and and do something you { know } / <B> [ mhm ] / <A> could go join the military and or go join the navy and be gone for three to six years at a time { and } / <B> [ wow ] / <A> if it was a terrible relationship uh / <B> okay",
+    "context_start": 371.83,
+    "context_end": 396.38162500000004,
+    "feedback": [
+        {
+            "name": "spontA_243_uh-huh",
+            "start": 376.8,
+            "end": 377.34000000000003,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_379_mhm",
+            "start": 383.56,
+            "end": 384.077875,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_142_wow",
+            "start": 390.94,
+            "end": 392.26875,
+            "token": "wow"
+        },
+        {
+            "name": "spontF_280_okay",
+            "start": 395.66,
+            "end": 396.38162500000004,
+            "token": "okay"
+        }
+    ]
+}

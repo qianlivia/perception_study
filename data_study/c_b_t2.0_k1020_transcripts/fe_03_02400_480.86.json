@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_02400",
+    "context_channel": 0,
+    "context_text": "<B> if you remember from the movie / <A> mhm / <B> they were putting addictive substances in there / <A> oh / <B> which was so bad / <A> oh / <B> but that to me seems worse i think my second next thing would probably be alcohol / <A> uh-huh / <B> mm being a bad habit / <A> yeah",
+    "context_start": 480.86,
+    "context_end": 499.20737499999996,
+    "feedback": [
+        {
+            "name": "spontB_324_mhm",
+            "start": 483.13,
+            "end": 483.907375,
+            "token": "mhm"
+        },
+        {
+            "name": "spontD_379_oh",
+            "start": 486.95,
+            "end": 488.047125,
+            "token": "oh"
+        },
+        {
+            "name": "PS_015_oh",
+            "start": 489.12,
+            "end": 490.1815,
+            "token": "oh"
+        },
+        {
+            "name": "spontB_318_uh-huh",
+            "start": 495.95,
+            "end": 496.626375,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_138_yeah",
+            "start": 498.71,
+            "end": 499.20737499999996,
+            "token": "yeah"
+        }
+    ]
+}

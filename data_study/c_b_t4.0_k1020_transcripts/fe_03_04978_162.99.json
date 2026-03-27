@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04978",
+    "context_channel": 1,
+    "context_text": "<A> door close to where i live { within the } / <B> [ right ] / <A> next block and i go and i chase down the volleyballs for little women and the basketballs and things like that it it it helps them out and it helps me out too so it's { a pretty } / <B> [ oh ] / <A> good deal / <B> uh-huh",
+    "context_start": 162.99,
+    "context_end": 179.578125,
+    "feedback": [
+        {
+            "name": "PR_048_right",
+            "start": 164.75,
+            "end": 165.385125,
+            "token": "right"
+        },
+        {
+            "name": "spontF_087_oh",
+            "start": 177.35,
+            "end": 178.07512499999999,
+            "token": "oh"
+        },
+        {
+            "name": "spontC_191_uh-huh",
+            "start": 179.1,
+            "end": 179.578125,
+            "token": "uh-huh"
+        }
+    ]
+}

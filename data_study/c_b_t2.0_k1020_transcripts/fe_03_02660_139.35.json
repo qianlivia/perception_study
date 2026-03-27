@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_02660",
+    "context_channel": 1,
+    "context_text": "<A> yeah friendship day is it's i don't i don't know what day it is but i have a calender and it has all the holidays and i don't know if it's in march or / <B> yeah / <A> april but i've seen friendship day grandmas' day secretaries day you know the lesser known holidays / <B> uh-huh / <A> so i'll i'll go for the underdog holidays other than that i i like christmas { and } / <B> [ yeah ] / <A> easter / <B> oh / <A> and the usual holidays / <B> really",
+    "context_start": 139.35,
+    "context_end": 165.258625,
+    "feedback": [
+        {
+            "name": "spontE_245_yeah",
+            "start": 147.13,
+            "end": 147.950875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_243_uh-huh",
+            "start": 153.94,
+            "end": 154.48,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_110_yeah",
+            "start": 160.24,
+            "end": 161.17212500000002,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_005_oh",
+            "start": 161.93,
+            "end": 162.718875,
+            "token": "oh"
+        },
+        {
+            "name": "PS_070_really",
+            "start": 164.57,
+            "end": 165.258625,
+            "token": "really"
+        }
+    ]
+}

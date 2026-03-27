@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03872",
+    "context_channel": 1,
+    "context_text": "<A> if it's appropriate / <B> uh-huh / <A> for for whom the comedy / <B> oh / <A> is whether it's a movie or / <B> mhm",
+    "context_start": 79.05,
+    "context_end": 88.432125,
+    "feedback": [
+        {
+            "name": "spontE_321_uh-huh",
+            "start": 79.51,
+            "end": 80.00562500000001,
+            "token": "uh-huh"
+        },
+        {
+            "name": "Sy_061_oh",
+            "start": 84.66,
+            "end": 85.709125,
+            "token": "oh"
+        },
+        {
+            "name": "spontC_375_mhm",
+            "start": 87.86,
+            "end": 88.432125,
+            "token": "mhm"
+        }
+    ]
+}

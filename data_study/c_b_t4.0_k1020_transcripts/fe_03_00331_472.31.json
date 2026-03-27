@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00331",
+    "context_channel": 0,
+    "context_text": "<B> i know perjury no no but eh eh d did you call in th pur / <A> yeah / <B> this topic is true { but } / <A> [ mhm ] / <B> the the your decision no did you talk defendant to leave people to leave the count one guy / <A> uh-huh / <B> did you talk to defendant family / <A> uh-huh",
+    "context_start": 472.31,
+    "context_end": 497.95950000000005,
+    "feedback": [
+        {
+            "name": "spontB_379_yeah",
+            "start": 482.68,
+            "end": 483.183875,
+            "token": "yeah"
+        },
+        {
+            "name": "sun1_008_mhm",
+            "start": 485.13,
+            "end": 485.736,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_470_uh-huh",
+            "start": 493.88,
+            "end": 494.404125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_082_uh-huh",
+            "start": 497.1,
+            "end": 497.95950000000005,
+            "token": "uh-huh"
+        }
+    ]
+}

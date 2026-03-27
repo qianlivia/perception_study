@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00044",
+    "context_channel": 1,
+    "context_text": "<A> and it was really funny cause i didn't know my pin number cause i hadn't / <B> uh-huh / <A> check my email after i signed up { and } / <B> [ okay ] / <A> i got the phone call and i didn't have my pin and i ran across i live in an apartment building { and } / <B> [ okay ] / <A> i ran across the hall was like my friend i was like would you put in my computer i need you phone line really quick i need to check my email and then i checked it and then while i was like right after i got the number the phone rang again like hounding me down but { if you } / <B> [ wow ]",
+    "context_start": 234.71,
+    "context_end": 262.24925,
+    "feedback": [
+        {
+            "name": "spontD_028_uh-huh",
+            "start": 238.3,
+            "end": 238.8075,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_172_okay",
+            "start": 240.82,
+            "end": 241.231125,
+            "token": "okay"
+        },
+        {
+            "name": "spontD_383_okay",
+            "start": 245.8,
+            "end": 246.47137500000002,
+            "token": "okay"
+        },
+        {
+            "name": "PS_164_wow",
+            "start": 261.11,
+            "end": 262.24925,
+            "token": "wow"
+        }
+    ]
+}

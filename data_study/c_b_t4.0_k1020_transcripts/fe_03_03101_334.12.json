@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03101",
+    "context_channel": 1,
+    "context_text": "<A> n no that's about eight and our other dog was out there playing just chasing the ball / <B> uh-huh / <A> but he didn't care one way or the other that some guy was running past us but / <B> oh / <A> our australian shepherd's very protective / <B> mhm / <A> so i got out the insurance policy to see what happens next we have a five hundred dollar deductible so we'll see / <B> yeah",
+    "context_start": 334.12,
+    "context_end": 359.528875,
+    "feedback": [
+        {
+            "name": "spontC_171_uh-huh",
+            "start": 342.17,
+            "end": 342.73225,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_278_oh",
+            "start": 346.37,
+            "end": 347.352375,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_038_mhm",
+            "start": 349.43,
+            "end": 349.95887500000003,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_092_yeah",
+            "start": 359.06,
+            "end": 359.528875,
+            "token": "yeah"
+        }
+    ]
+}

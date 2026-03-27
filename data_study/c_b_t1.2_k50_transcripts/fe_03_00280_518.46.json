@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00280",
+    "context_channel": 0,
+    "context_text": "<B> um i actually didn't fly often at all over a year and a half ago i / <A> uh-huh / <B> almost never so this has actually been mostly in the last year so i don't notice a difference only 'cause i don't / <A> uh-huh / <B> really have much to compare it to um but i usually i'll get there probably between and hour and an hour and a half before my flight and have no problem getting { in no } / <A> [ wow ] / <B> matter what time of day it is / <A> wow",
+    "context_start": 518.46,
+    "context_end": 544.5582499999999,
+    "feedback": [
+        {
+            "name": "spontD_021_uh-huh",
+            "start": 526.04,
+            "end": 526.4917499999999,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_103_uh-huh",
+            "start": 531.86,
+            "end": 532.355375,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PS_117_wow",
+            "start": 541.41,
+            "end": 543.141625,
+            "token": "wow"
+        },
+        {
+            "name": "PS_146_wow",
+            "start": 543.4,
+            "end": 544.5582499999999,
+            "token": "wow"
+        }
+    ]
+}

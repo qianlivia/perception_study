@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_01012",
+    "context_channel": 0,
+    "context_text": "<B> and i saw the um the one jet liner go into one world trade center and i just looked and i thought you know what the heck is this and i heard a bunch of talking and all and it's the first time my wife never brought her cell phone with her so / <A> uh-huh / <B> here she is going to a park which is only like about two miles away but she { yeah } / <A> [ oh ] / <B> dover delaware is only an hour and a half from washington dc an hour and a half from philadelphia and then we had the big air force base here / <A> uh-huh / <B> and new york is only three hours from here three and a half hours so so { this } / <A> [ wow ] / <B> happened and i sat down and i'm thinking holy jeeze what the hell is going on here so { i'm } / <A> [ wow ]",
+    "context_start": 247.52,
+    "context_end": 283.15325,
+    "feedback": [
+        {
+            "name": "spontD_372_uh-huh",
+            "start": 260.55,
+            "end": 261.017875,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PS_025_oh",
+            "start": 264.19,
+            "end": 265.214375,
+            "token": "oh"
+        },
+        {
+            "name": "spontD_043_uh-huh",
+            "start": 272.25,
+            "end": 272.733875,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PS_146_wow",
+            "start": 276.96,
+            "end": 278.11825,
+            "token": "wow"
+        },
+        {
+            "name": "NegS_056_wow",
+            "start": 282.05,
+            "end": 283.15325,
+            "token": "wow"
+        }
+    ]
+}

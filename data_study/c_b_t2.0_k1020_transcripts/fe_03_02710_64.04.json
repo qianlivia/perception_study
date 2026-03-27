@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02710",
+    "context_channel": 1,
+    "context_text": "<A> oh um well one could argue and i'm just playing devil's advocate here / <B> mhm / <A> that you know this world has billions of people in { it } / <B> [ mhm ] / <A> and that you know even if you're the world's nicest country ah switzerland or something / <B> mhm / <A> out of those billions somebody's gonna not like you / <B> oh",
+    "context_start": 64.04,
+    "context_end": 87.617125,
+    "feedback": [
+        {
+            "name": "spontC_200_mhm",
+            "start": 70.95,
+            "end": 71.4325,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_314_mhm",
+            "start": 75.66,
+            "end": 76.253875,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_311_mhm",
+            "start": 82.89,
+            "end": 83.390125,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_193_oh",
+            "start": 85.81,
+            "end": 87.617125,
+            "token": "oh"
+        }
+    ]
+}

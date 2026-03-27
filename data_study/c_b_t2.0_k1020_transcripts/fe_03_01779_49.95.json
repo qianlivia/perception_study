@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_01779",
+    "context_channel": 1,
+    "context_text": "<A> much of ah anything in this area { i } / <B> [ mhm ] / <A> mean my opinion opinions would be pretty much just that it's not going to be anything that's ah based on ah anything factual { that } / <B> [ yeah ] / <A> i've read you know studies or anything of that sort but / <B> wow",
+    "context_start": 49.95,
+    "context_end": 64.9325,
+    "feedback": [
+        {
+            "name": "spontA_288_mhm",
+            "start": 52.54,
+            "end": 53.136625,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_088_yeah",
+            "start": 61.03,
+            "end": 61.563625,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_061_wow",
+            "start": 63.67,
+            "end": 64.9325,
+            "token": "wow"
+        }
+    ]
+}

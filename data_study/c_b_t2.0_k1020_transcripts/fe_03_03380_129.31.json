@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03380",
+    "context_channel": 1,
+    "context_text": "<A> [ trust trust i think the most important ] thing is is trust if you don't trust each other if you have to even wonder about it { i } / <B> [ wow ] / <A> think you have a problem / <B> wow / <A> whether it's a problem within your own self for feeling that way or whether / <B> mhm / <A> there's really i mean there are signals / <B> yeah",
+    "context_start": 129.31,
+    "context_end": 145.811125,
+    "feedback": [
+        {
+            "name": "PS_171_wow",
+            "start": 136.41,
+            "end": 138.554875,
+            "token": "wow"
+        },
+        {
+            "name": "PS_128_wow",
+            "start": 138.27,
+            "end": 139.363,
+            "token": "wow"
+        },
+        {
+            "name": "spontA_063_mhm",
+            "start": 142.78,
+            "end": 143.270875,
+            "token": "mhm"
+        },
+        {
+            "name": "spontD_228_yeah",
+            "start": 145.24,
+            "end": 145.811125,
+            "token": "yeah"
+        }
+    ]
+}

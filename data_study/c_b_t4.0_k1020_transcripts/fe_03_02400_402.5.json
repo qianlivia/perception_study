@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_02400",
+    "context_channel": 0,
+    "context_text": "<B> really it's really an excuse that we use with ourselves when my stepfather wa had his surgery / <A> oh / <B> i had been off cigarettes about a year / <A> yeah / <B> and while he was in surgery i was in the waiting room smoking i went back to smoking after he's having cancer surgery / <A> yeah / <B> isn't that awful / <A> yeah / <B> worst part / <A> wow",
+    "context_start": 402.5,
+    "context_end": 426.774625,
+    "feedback": [
+        {
+            "name": "spontF_125_oh",
+            "start": 409.27,
+            "end": 410.117625,
+            "token": "oh"
+        },
+        {
+            "name": "spontA_124_yeah",
+            "start": 413.42,
+            "end": 414.06125000000003,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_328_yeah",
+            "start": 421.86,
+            "end": 422.41125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_130_yeah",
+            "start": 423.6,
+            "end": 424.202875,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_130_wow",
+            "start": 425.36,
+            "end": 426.774625,
+            "token": "wow"
+        }
+    ]
+}

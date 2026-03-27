@@ -1,0 +1,51 @@
+{
+    "name": "fe_03_00744",
+    "context_channel": 1,
+    "context_text": "<A> i work with cancer patients on a daily basis / <B> yeah / <A> i work in hospice usually / <B> uh-huh / <A> and i tell people you you can make this the worst thing in your life or the best thing in your life it's really up to you / <B> uh-huh / <A> you know well give me an example okay uh nurses came in one day you know mr hansen your blood pressure is way out of control your sugar's out of control you're dying i thought oh crap i hate dying you know it ruins your whole day / <B> mhm / <A> and i'm like aren't you aren't you worried about it i'm very concerned but i'm not going to panic about it okay panic is not my middle name any more used to you know but through cancer i've learned a you know life really dos doesn't matter all that much / <B> mhm / <A> in forty years who really cares if you were vice president of operations who really cares if you developed a new system for nuclears who really cares / <B> uh-huh / <A> that's my point now you know does it really matter i was in taking chemotherapy one day and a guy a guy was just raising hell about if he dies he's okay his wife won't get those damned dishes and i thought who cares about the dishes you're dying okay make this the best thing or the worst thing of your life / <B> oh",
+    "context_start": 371.21,
+    "context_end": 445.075,
+    "feedback": [
+        {
+            "name": "spontF_268_yeah",
+            "start": 373.26,
+            "end": 373.817875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_309_uh-huh",
+            "start": 375.53,
+            "end": 376.067125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontE_249_uh-huh",
+            "start": 382.76,
+            "end": 383.273125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "sun1_007_mhm",
+            "start": 399.28,
+            "end": 400.1285,
+            "token": "mhm"
+        },
+        {
+            "name": "spontB_377_mhm",
+            "start": 415.95,
+            "end": 416.5995,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_296_uh-huh",
+            "start": 424.48,
+            "end": 425.0615,
+            "token": "uh-huh"
+        },
+        {
+            "name": "Sy_013_oh",
+            "start": 443.86,
+            "end": 445.075,
+            "token": "oh"
+        }
+    ]
+}

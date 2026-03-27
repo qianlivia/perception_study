@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_00058",
+    "context_channel": 0,
+    "context_text": "<B> yeah pretty dangerous my uh i get very nervous about my son because he just got out of college / <A> wow / <B> and of course during college a lot of what they do / <A> mhm / <B> so i we've always preached to him please you know if you're going to if you are going to drink stay home or stay wherever you are / <A> yeah / <B> and uh so you don't get in any trouble or hurt somebody you know / <A> uh-huh / <B> including yourself that's all / <A> yeah",
+    "context_start": 163.88,
+    "context_end": 200.466625,
+    "feedback": [
+        {
+            "name": "PS_049_wow",
+            "start": 174.45,
+            "end": 176.25662499999999,
+            "token": "wow"
+        },
+        {
+            "name": "spontB_307_mhm",
+            "start": 179.47,
+            "end": 180.077375,
+            "token": "mhm"
+        },
+        {
+            "name": "spontB_065_yeah",
+            "start": 190.92,
+            "end": 191.66899999999998,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_284_uh-huh",
+            "start": 196.52,
+            "end": 196.985,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_360_yeah",
+            "start": 199.91,
+            "end": 200.466625,
+            "token": "yeah"
+        }
+    ]
+}

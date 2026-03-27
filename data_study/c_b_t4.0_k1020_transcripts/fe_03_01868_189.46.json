@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_01868",
+    "context_channel": 1,
+    "context_text": "<A> my son and { that's } / <B> [ wow ] / <A> the only child i will ever { have } / <B> [ wow ] / <A> but my family my personal family is also not not very involved because my well i'm thirty two and both my mother and father { remarried } / <B> [ mhm ] / <A> when they got divorced { and } / <B> [ yeah ] / <A> they i was a single child until i was eighteen until i was seventeen years old { so } / <B> [ okay ]",
+    "context_start": 189.46,
+    "context_end": 212.979,
+    "feedback": [
+        {
+            "name": "PS_062_wow",
+            "start": 190.27,
+            "end": 191.19037500000002,
+            "token": "wow"
+        },
+        {
+            "name": "PS_117_wow",
+            "start": 191.73,
+            "end": 193.461625,
+            "token": "wow"
+        },
+        {
+            "name": "spontA_344_mhm",
+            "start": 204.14,
+            "end": 204.87974999999997,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_595_yeah",
+            "start": 206.41,
+            "end": 207.022,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_158_okay",
+            "start": 212.36,
+            "end": 212.979,
+            "token": "okay"
+        }
+    ]
+}

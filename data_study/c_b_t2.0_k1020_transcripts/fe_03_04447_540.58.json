@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_04447",
+    "context_channel": 1,
+    "context_text": "<A> so the medical field { uh } / <B> [ yeah ] / <A> for women / <B> oh / <A> is is a tremendous tremendous field in opportunity / <B> wow / <A> and and it's basic i have a son that has special needs / <B> uh-huh / <A> and so one of us had had to be around twenty four seven { and and it } / <B> [ yeah ]",
+    "context_start": 540.58,
+    "context_end": 554.3745,
+    "feedback": [
+        {
+            "name": "spontE_172_yeah",
+            "start": 541.88,
+            "end": 542.599125,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_001_oh",
+            "start": 543.53,
+            "end": 544.61175,
+            "token": "oh"
+        },
+        {
+            "name": "PS_110_wow",
+            "start": 546.64,
+            "end": 547.6675,
+            "token": "wow"
+        },
+        {
+            "name": "spontF_118_uh-huh",
+            "start": 549.66,
+            "end": 550.1854999999999,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontE_019_yeah",
+            "start": 553.61,
+            "end": 554.3745,
+            "token": "yeah"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_01483",
+    "context_channel": 0,
+    "context_text": "<B> something that happened spontaneously / <A> oh / <B> and um i do believe that the um the president um had forewarned uh they had um messages that { were } / <A> [ wow ] / <B> left and they was forewarned about the destruction / <A> yeah",
+    "context_start": 238.84,
+    "context_end": 253.51075,
+    "feedback": [
+        {
+            "name": "Sy_011_oh",
+            "start": 240.34,
+            "end": 241.578125,
+            "token": "oh"
+        },
+        {
+            "name": "PS_076_wow",
+            "start": 249.66,
+            "end": 251.0015,
+            "token": "wow"
+        },
+        {
+            "name": "spontE_331_yeah",
+            "start": 252.81,
+            "end": 253.51075,
+            "token": "yeah"
+        }
+    ]
+}

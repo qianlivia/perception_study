@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03081",
+    "context_channel": 1,
+    "context_text": "<A> almost never makes a sound { she's } / <B> [ yeah ] / <A> very independent like you think of a cat { she } / <B> [ wow ] / <A> wants attention when she wants it and that's it / <B> uh-huh",
+    "context_start": 44.36,
+    "context_end": 53.282374999999995,
+    "feedback": [
+        {
+            "name": "spontF_243_yeah",
+            "start": 46.37,
+            "end": 47.212624999999996,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_075_wow",
+            "start": 49.89,
+            "end": 51.139250000000004,
+            "token": "wow"
+        },
+        {
+            "name": "spontA_158_uh-huh",
+            "start": 52.76,
+            "end": 53.282374999999995,
+            "token": "uh-huh"
+        }
+    ]
+}

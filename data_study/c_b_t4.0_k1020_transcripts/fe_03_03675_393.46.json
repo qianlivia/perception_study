@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_03675",
+    "context_channel": 1,
+    "context_text": "<A> it's there's days where it's really really hot and there's days where it's really really cold and then there's good days but mostly it's hot here / <B> uh-huh / <A> but it's like the humid hot it's not like dry hot like in the desert which is kinda nice cause it's just hot but { you're } / <B> [ wow ] / <A> not really really sweaty or smell anything like that / <B> okay / <A> like here it's like really really humid hot so if you don't have { your } / <B> [ yeah ] / <A> ac then i'm pretty / <B> okay",
+    "context_start": 393.46,
+    "context_end": 410.03787500000004,
+    "feedback": [
+        {
+            "name": "spontD_020_uh-huh",
+            "start": 397.67,
+            "end": 398.174625,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PS_079_wow",
+            "start": 402.62,
+            "end": 403.672,
+            "token": "wow"
+        },
+        {
+            "name": "spontF_317_okay",
+            "start": 404.79,
+            "end": 405.642,
+            "token": "okay"
+        },
+        {
+            "name": "spontB_316_yeah",
+            "start": 407.19,
+            "end": 407.79325,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_234_okay",
+            "start": 409.41,
+            "end": 410.03787500000004,
+            "token": "okay"
+        }
+    ]
+}

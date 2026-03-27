@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02326",
+    "context_channel": 0,
+    "context_text": "<B> no it's just comes you know genetically like i'm twenty three now but { i have } / <A> [ uh-huh ] / <B> some bags under my eyes and i've had them ever since i was like twelve so { there's } / <A> [ yeah ] / <B> like in our genes / <A> yeah / <B> so i just put make up over them so you can't see them but { you know that's } / <A> [ yeah ]",
+    "context_start": 312.9,
+    "context_end": 328.5245,
+    "feedback": [
+        {
+            "name": "spontF_118_uh-huh",
+            "start": 317.48,
+            "end": 318.00550000000004,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_485_yeah",
+            "start": 321.68,
+            "end": 322.2825,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_143_yeah",
+            "start": 323.59,
+            "end": 324.266125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_162_yeah",
+            "start": 327.55,
+            "end": 328.5245,
+            "token": "yeah"
+        }
+    ]
+}

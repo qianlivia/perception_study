@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03188",
+    "context_channel": 1,
+    "context_text": "<A> you have kids so / <B> right / <A> for the better / <B> mhm / <A> sometimes you wonder but / <B> mhm",
+    "context_start": 471.22,
+    "context_end": 476.77612500000004,
+    "feedback": [
+        {
+            "name": "sun1_030_right",
+            "start": 472.69,
+            "end": 473.483625,
+            "token": "right"
+        },
+        {
+            "name": "spontA_282_mhm",
+            "start": 474.56,
+            "end": 475.116625,
+            "token": "mhm"
+        },
+        {
+            "name": "spontE_156_mhm",
+            "start": 476.17,
+            "end": 476.77612500000004,
+            "token": "mhm"
+        }
+    ]
+}

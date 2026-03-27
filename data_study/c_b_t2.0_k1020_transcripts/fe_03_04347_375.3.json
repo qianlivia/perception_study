@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04347",
+    "context_channel": 1,
+    "context_text": "<A> we { don't } / <B> [ yeah ] / <A> respect them anymore { and we g } / <B> [ uh-huh ] / <A> and we give this we give this white columbus guy a whole day for himself { we got a } / <B> [ mhm ]",
+    "context_start": 375.3,
+    "context_end": 381.793125,
+    "feedback": [
+        {
+            "name": "spontD_230_yeah",
+            "start": 375.3,
+            "end": 375.9255,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_386_uh-huh",
+            "start": 376.78,
+            "end": 377.32649999999995,
+            "token": "uh-huh"
+        },
+        {
+            "name": "sun1_009_mhm",
+            "start": 380.95,
+            "end": 381.793125,
+            "token": "mhm"
+        }
+    ]
+}

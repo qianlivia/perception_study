@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01426",
+    "context_channel": 1,
+    "context_text": "<A> up and my mom had mentioned to me that a plane had gone into the first { building } / <B> [ uh-huh ] / <A> and uh i probably i thought it was probably just a uh an airplane that got misguided or something / <B> uh-huh / <A> so i put on the tv and then they actually showed the coverage live of the second one { second plane } / <B> [ mhm ] / <A> and it it just looked like one of these movies you had seen in the past { of } / <B> [ uh-huh ]",
+    "context_start": 165.37,
+    "context_end": 187.65062500000002,
+    "feedback": [
+        {
+            "name": "spontE_064_uh-huh",
+            "start": 169.73,
+            "end": 170.18587499999998,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_136_uh-huh",
+            "start": 176.19,
+            "end": 176.69299999999998,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_513_mhm",
+            "start": 182.17,
+            "end": 182.67849999999999,
+            "token": "mhm"
+        },
+        {
+            "name": "spontE_089_uh-huh",
+            "start": 187.18,
+            "end": 187.65062500000002,
+            "token": "uh-huh"
+        }
+    ]
+}

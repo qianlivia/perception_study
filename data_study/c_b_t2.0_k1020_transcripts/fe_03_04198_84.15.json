@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04198",
+    "context_channel": 1,
+    "context_text": "<A> no actually i think if i open up my own business i wanna open up an opportunity to single mothers / <B> wow / <A> who are struggling to make ends meet because / <B> uh-huh / <A> i have a daughter who's the single mother of two children and she struggles every day to get a job and it's hard to find a sitter and everything / <B> mhm / <A> so i think it'd be really interesting if i had strictly mothers single mothers / <B> uh-huh",
+    "context_start": 84.15,
+    "context_end": 113.296625,
+    "feedback": [
+        {
+            "name": "PS_127_wow",
+            "start": 91.49,
+            "end": 92.633375,
+            "token": "wow"
+        },
+        {
+            "name": "spontE_321_uh-huh",
+            "start": 95.09,
+            "end": 95.58562500000001,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_284_mhm",
+            "start": 103.31,
+            "end": 103.827875,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_370_uh-huh",
+            "start": 112.81,
+            "end": 113.296625,
+            "token": "uh-huh"
+        }
+    ]
+}

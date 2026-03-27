@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00336",
+    "context_channel": 0,
+    "context_text": "<B> [ um ] well honestly well you know everyone has like ideas of inventions or you know { of } / <A> [ yeah ] / <B> things { um } / <A> [ yeah ] / <B> actually my boyfriend who's also my room mate just moved in a couple months ago / <A> uh-huh / <B> and we are very big breakfast lovers / <A> really",
+    "context_start": 432.36,
+    "context_end": 454.538625,
+    "feedback": [
+        {
+            "name": "spontD_024_yeah",
+            "start": 441.41,
+            "end": 441.830125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_331_yeah",
+            "start": 442.79,
+            "end": 443.49075000000005,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_413_uh-huh",
+            "start": 450.24,
+            "end": 450.741375,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PS_070_really",
+            "start": 453.85,
+            "end": 454.538625,
+            "token": "really"
+        }
+    ]
+}

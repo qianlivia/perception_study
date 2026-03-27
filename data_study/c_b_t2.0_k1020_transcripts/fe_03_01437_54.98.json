@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01437",
+    "context_channel": 0,
+    "context_text": "<B> you know it makes you kinda think that one day they might not be there you know i wo / <A> uh-huh / <B> sometimes planes scare me { i know } / <A> [ uh-huh ] / <B> it may sound kinda funny but sometimes i hear a plane coming especially now with the war also you know / <A> wow / <B> you hear a plane and you like look out to make sure that it's not going to crash cause i'm real close to new orleans / <A> wow",
+    "context_start": 54.98,
+    "context_end": 71.535375,
+    "feedback": [
+        {
+            "name": "spontA_243_uh-huh",
+            "start": 58.1,
+            "end": 58.64,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_009_uh-huh",
+            "start": 60.46,
+            "end": 60.84275,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PS_018_wow",
+            "start": 65.46,
+            "end": 66.46562499999999,
+            "token": "wow"
+        },
+        {
+            "name": "PS_095_wow",
+            "start": 70.5,
+            "end": 71.535375,
+            "token": "wow"
+        }
+    ]
+}

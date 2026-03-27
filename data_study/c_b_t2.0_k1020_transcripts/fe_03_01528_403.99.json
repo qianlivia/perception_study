@@ -1,0 +1,45 @@
+{
+    "name": "fe_03_01528",
+    "context_channel": 1,
+    "context_text": "<A> [ yeah yeah ] well i guess you know i guess my feeling is like i would never tell em they can't strike / <B> yeah / <A> um i certainly think they should have the right to but i mean in philadelphia for example we um we the philly's baseball team / <B> mhm / <A> and they're actually fairly good { but the } / <B> [ uh-huh ] / <A> stands are empty they are empty { and what it } / <B> [ yeah ] / <A> is is that the last time they went on strike people said we don't feel sympathetic for you we're not going to watch this anymore / <B> mhm / <A> and so i guess i would never say that they shouldn't be able to strike i mean certainly go for it i mean / <B> oh",
+    "context_start": 403.99,
+    "context_end": 432.1235,
+    "feedback": [
+        {
+            "name": "spontB_065_yeah",
+            "start": 408.86,
+            "end": 409.60900000000004,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_075_mhm",
+            "start": 415.64,
+            "end": 416.24825,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_277_uh-huh",
+            "start": 417.97,
+            "end": 418.52525,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontB_313_yeah",
+            "start": 420.44,
+            "end": 421.422875,
+            "token": "yeah"
+        },
+        {
+            "name": "sun1_001_mhm",
+            "start": 426.61,
+            "end": 427.48825,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_102_oh",
+            "start": 431.52,
+            "end": 432.1235,
+            "token": "oh"
+        }
+    ]
+}

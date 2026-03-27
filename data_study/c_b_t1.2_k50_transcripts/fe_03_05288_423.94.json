@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_05288",
+    "context_channel": 1,
+    "context_text": "<A> you know what i'm saying that stuff that was { in toronto } / <B> [ wow ] / <A> and uh it's still not really controlled but where how are they going to know when bioterrorism is here you know what i'm { saying } / <B> [ yeah ] / <A> because who says that this stuff isn't bioterrorism / <B> yeah",
+    "context_start": 423.94,
+    "context_end": 437.380625,
+    "feedback": [
+        {
+            "name": "PS_018_wow",
+            "start": 426.28,
+            "end": 427.285625,
+            "token": "wow"
+        },
+        {
+            "name": "spontB_186_yeah",
+            "start": 434.47,
+            "end": 435.047,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_300_yeah",
+            "start": 436.89,
+            "end": 437.380625,
+            "token": "yeah"
+        }
+    ]
+}

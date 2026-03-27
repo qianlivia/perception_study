@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00814",
+    "context_channel": 0,
+    "context_text": "<B> c h dot u p e n n / <A> okay / <B> dot e d u / <A> okay / <B> forward slash / <A> oh",
+    "context_start": 376.65,
+    "context_end": 390.16825,
+    "feedback": [
+        {
+            "name": "spontD_410_okay",
+            "start": 383.67,
+            "end": 384.09375,
+            "token": "okay"
+        },
+        {
+            "name": "spontD_386_okay",
+            "start": 386.31,
+            "end": 387.013,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_277_oh",
+            "start": 389.6,
+            "end": 390.16825,
+            "token": "oh"
+        }
+    ]
+}

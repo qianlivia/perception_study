@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02852",
+    "context_channel": 1,
+    "context_text": "<A> money i make i use i like i collect um antique costume jewellery / <B> yeah / <A> well not really antique they're just old costume jewellery and { i } / <B> [ wow ] / <A> can find a lot of it dirt cheap on { ebay } / <B> [ uh-huh ]",
+    "context_start": 362.51,
+    "context_end": 375.997875,
+    "feedback": [
+        {
+            "name": "spontF_177_yeah",
+            "start": 368.73,
+            "end": 369.23900000000003,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_149_wow",
+            "start": 372.54,
+            "end": 373.7645,
+            "token": "wow"
+        },
+        {
+            "name": "spontC_367_uh-huh",
+            "start": 375.42,
+            "end": 375.997875,
+            "token": "uh-huh"
+        }
+    ]
+}

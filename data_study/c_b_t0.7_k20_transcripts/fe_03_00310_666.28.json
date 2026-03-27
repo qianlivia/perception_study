@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00310",
     "context_channel": 1,
-    "context_text": "<A> but i i guess what i was trying to get at was that if there was a tiered process / <B> oh / <A> the technology should be in place / <B> mhm / <A> to be able to screen you if you do have traces of um / <B> uh-huh / <A> explosives on you or / <B> mhm / <A> contraband or whatever the case may be / <B> mhm / <A> um and i i i think that if you are going into a public arena / <B> mhm",
+    "context_text": "<A> but i i guess what i was trying to get at was that if there was a tiered process / <B> oh / <A> the technology should be in place / <B> mhm / <A> to be able to screen you if you do have traces of um / <B> uh-huh / <A> explosives on you or / <B> mhm / <A> contraband or whatever the case may be / <B> mhm / <A> um and i i i think that if you are going into a public arena / <B> yeah",
     "context_start": 666.28,
-    "context_end": 689.937875,
+    "context_end": 689.844625,
     "feedback": [
         {
             "name": "spontF_109_oh",
@@ -30,16 +30,16 @@
             "token": "mhm"
         },
         {
-            "name": "spontA_358_mhm",
+            "name": "spontB_200_mhm",
             "start": 682.66,
-            "end": 683.1586249999999,
+            "end": 683.1938749999999,
             "token": "mhm"
         },
         {
-            "name": "spontA_379_mhm",
+            "name": "spontD_375_yeah",
             "start": 689.42,
-            "end": 689.937875,
-            "token": "mhm"
+            "end": 689.844625,
+            "token": "yeah"
         }
     ]
 }

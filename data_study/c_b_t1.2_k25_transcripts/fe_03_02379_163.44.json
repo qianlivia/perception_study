@@ -1,9 +1,9 @@
 {
     "name": "fe_03_02379",
     "context_channel": 1,
-    "context_text": "<A> smoked one of my grandmother's cigarettes and { you } / <B> [ oh ] / <A> know i i smoked it so fast i got a headache really really bad and { you know } / <B> [ wow ] / <A> even before then you know i was just a kid you know being curious ah you know i never really liked cigarette smoke but i just wanted to see you know why every body was doing it and i i didn't like it you know i was choking for you know minutes afterwards and / <B> yeah",
+    "context_text": "<A> smoked one of my grandmother's cigarettes and { you } / <B> [ oh ] / <A> know i i smoked it so fast i got a headache really really bad and { you know } / <B> [ yeah ] / <A> even before then you know i was just a kid you know being curious ah you know i never really liked cigarette smoke but i just wanted to see you know why every body was doing it and i i didn't like it you know i was choking for you know minutes afterwards and / <B> yeah",
     "context_start": 163.44,
-    "context_end": 182.84125,
+    "context_end": 182.744625,
     "feedback": [
         {
             "name": "spontE_043_oh",
@@ -12,15 +12,15 @@
             "token": "oh"
         },
         {
-            "name": "PS_018_wow",
+            "name": "PR_054_yeah",
             "start": 169.43,
-            "end": 170.43562500000002,
-            "token": "wow"
+            "end": 170.40537500000002,
+            "token": "yeah"
         },
         {
-            "name": "spontD_236_yeah",
+            "name": "spontC_075_yeah",
             "start": 182.09,
-            "end": 182.84125,
+            "end": 182.744625,
             "token": "yeah"
         }
     ]

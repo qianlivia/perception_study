@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04277",
+    "context_channel": 0,
+    "context_text": "<B> but yeah dentistry i think there's a lot of dentists out there / <A> yeah / <B> and i think that's one area that of the medical field that there might be a little bit too many of / <A> uh-huh / <B> in in my opinion of course { what } / <A> [ oh ]",
+    "context_start": 428.93,
+    "context_end": 441.73150000000004,
+    "feedback": [
+        {
+            "name": "spontB_313_yeah",
+            "start": 432.43,
+            "end": 433.412875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_206_uh-huh",
+            "start": 438.85,
+            "end": 439.27837500000004,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PS_015_oh",
+            "start": 440.67,
+            "end": 441.73150000000004,
+            "token": "oh"
+        }
+    ]
+}

@@ -1,9 +1,9 @@
 {
     "name": "fe_03_01293",
     "context_channel": 0,
-    "context_text": "<B> um not amer you know i've only rec i received some emails from a couple of people where they have uh petitions that they they want signed / <A> mhm / <B> um to um just say sign on we're academics against war and / <A> mhm / <B> uh things like that so but usually the topic doesn't come up much uh / <A> yeah / <B> in i i don't know i guess it it is really multi national the department { i mean we do } / <A> [ oh ] / <B> have a lot of chinese people from / <A> uh-huh / <B> uh m we actually figured it out that i think it the the a big group there is is actually korean so / <A> oh",
+    "context_text": "<B> um not amer you know i've only rec i received some emails from a couple of people where they have uh petitions that they they want signed / <A> mhm / <B> um to um just say sign on we're academics against war and / <A> uh-huh / <B> uh things like that so but usually the topic doesn't come up much uh / <A> yeah / <B> in i i don't know i guess it it is really multi national the department { i mean we do } / <A> [ oh ] / <B> have a lot of chinese people from / <A> uh-huh / <B> uh m we actually figured it out that i think it the the a big group there is is actually korean so / <A> wow",
     "context_start": 304.17,
-    "context_end": 341.175875,
+    "context_end": 341.346625,
     "feedback": [
         {
             "name": "spontC_200_mhm",
@@ -12,15 +12,15 @@
             "token": "mhm"
         },
         {
-            "name": "spontE_142_mhm",
+            "name": "spontC_013_uh-huh",
             "start": 319.6,
-            "end": 320.075375,
-            "token": "mhm"
+            "end": 320.094875,
+            "token": "uh-huh"
         },
         {
-            "name": "spontD_397_yeah",
+            "name": "spontC_053_yeah",
             "start": 324.73,
-            "end": 325.111375,
+            "end": 325.229125,
             "token": "yeah"
         },
         {
@@ -30,16 +30,16 @@
             "token": "oh"
         },
         {
-            "name": "spontC_128_uh-huh",
+            "name": "spontD_047_uh-huh",
             "start": 332.24,
-            "end": 332.740875,
+            "end": 332.690625,
             "token": "uh-huh"
         },
         {
-            "name": "Sy_055_oh",
+            "name": "PS_100_wow",
             "start": 340.35,
-            "end": 341.175875,
-            "token": "oh"
+            "end": 341.346625,
+            "token": "wow"
         }
     ]
 }

@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03198",
+    "context_channel": 1,
+    "context_text": "<A> [ right actually i watched ] it last night it was really good but they are just really for i mean they fill they fill they're so nice those those um i don't know what they are the spca police or something / <B> yeah / <A> but they're so nice the people and it's like i was watching yesterday it's like like ten of their officers that you know for like all of new york city { and } / <B> [ yeah ] / <A> they said that you know new york city has like eight million people and five million pets / <B> mhm / <A> and there's ten officers to handle all the calls / <B> mhm",
+    "context_start": 500.0,
+    "context_end": 527.8401250000001,
+    "feedback": [
+        {
+            "name": "spontA_414_yeah",
+            "start": 510.34,
+            "end": 510.81787499999996,
+            "token": "yeah"
+        },
+        {
+            "name": "PR_036_yeah",
+            "start": 519.69,
+            "end": 520.4943750000001,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_118_mhm",
+            "start": 523.51,
+            "end": 524.1005,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_311_mhm",
+            "start": 527.34,
+            "end": 527.8401250000001,
+            "token": "mhm"
+        }
+    ]
+}

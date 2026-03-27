@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_05600",
+    "context_channel": 1,
+    "context_text": "<A> russell hitchcock / <B> yeah / <A> and i'm a the most i'm i'm a i'm a i'm kind of a good fan of theirs / <B> mhm / <A> a real good like i collect i collect all their albums / <B> oh",
+    "context_start": 543.21,
+    "context_end": 554.28125,
+    "feedback": [
+        {
+            "name": "spontC_192_yeah",
+            "start": 544.89,
+            "end": 545.3417499999999,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_200_mhm",
+            "start": 550.25,
+            "end": 550.783875,
+            "token": "mhm"
+        },
+        {
+            "name": "spontD_193_oh",
+            "start": 553.53,
+            "end": 554.28125,
+            "token": "oh"
+        }
+    ]
+}

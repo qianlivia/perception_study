@@ -1,9 +1,9 @@
 {
     "name": "fe_03_01012",
     "context_channel": 0,
-    "context_text": "<B> and i saw the um the one jet liner go into one world trade centre and i just looked and i thought you know what the heck is this and i heard a bunch of talking and all and it's the first time my wife never brought her cell phone with her so / <A> oh / <B> here she is going to a park which is only like about two miles away but she { yeah } / <A> [ oh ] / <B> dover delaware is only an hour and a half from washington dc an hour and a half from philadelphia and then we had the big air force base here / <A> uh-huh / <B> and new york is only three hours from here three and a half hours so so { this } / <A> [ wow ] / <B> happened and i sat down and i'm thinking holy jeeze what the hell is going on here so { i'm } / <A> [ yeah ]",
+    "context_text": "<B> and i saw the um the one jet liner go into one world trade center and i just looked and i thought you know what the heck is this and i heard a bunch of talking and all and it's the first time my wife never brought her cell phone with her so / <A> oh / <B> here she is going to a park which is only like about two miles away but she { yeah } / <A> [ oh ] / <B> dover delaware is only an hour and a half from washington dc an hour and a half from philadelphia and then we had the big air force base here / <A> oh / <B> and new york is only three hours from here three and a half hours so so { this } / <A> [ wow ] / <B> happened and i sat down and i'm thinking holy jeeze what the hell is going on here so { i'm } / <A> [ yeah ]",
     "context_start": 247.52,
-    "context_end": 282.69125,
+    "context_end": 282.644875,
     "feedback": [
         {
             "name": "spontC_109_oh",
@@ -12,16 +12,16 @@
             "token": "oh"
         },
         {
-            "name": "spontE_048_oh",
+            "name": "Sy_077_oh",
             "start": 264.19,
-            "end": 264.93512499999997,
+            "end": 265.22475,
             "token": "oh"
         },
         {
-            "name": "spontF_573_uh-huh",
+            "name": "NS_014_oh",
             "start": 272.25,
-            "end": 273.038625,
-            "token": "uh-huh"
+            "end": 273.046625,
+            "token": "oh"
         },
         {
             "name": "PS_164_wow",
@@ -30,9 +30,9 @@
             "token": "wow"
         },
         {
-            "name": "spontA_124_yeah",
+            "name": "spontE_067_yeah",
             "start": 282.05,
-            "end": 282.69125,
+            "end": 282.644875,
             "token": "yeah"
         }
     ]

@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_01281",
+    "context_channel": 1,
+    "context_text": "<A> i know how skewered they can be / <B> yeah / <A> i tend to what i what i do is uh there's uh a website called google dot com / <B> uh-huh / <A> they have a beta site on it google news / <B> uh-huh",
+    "context_start": 51.6,
+    "context_end": 62.160875,
+    "feedback": [
+        {
+            "name": "spontF_062_yeah",
+            "start": 53.52,
+            "end": 54.06875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_137_uh-huh",
+            "start": 58.58,
+            "end": 59.131,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_128_uh-huh",
+            "start": 61.66,
+            "end": 62.160875,
+            "token": "uh-huh"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_01902",
+    "context_channel": 0,
+    "context_text": "<B> cousins were there too / <A> wow / <B> so one of my aunts is still living at home and { her } / <A> [ oh ] / <B> daughter was there and { then with my } / <A> [ wow ]",
+    "context_start": 137.8,
+    "context_end": 146.078875,
+    "feedback": [
+        {
+            "name": "spontA_261_wow",
+            "start": 139.42,
+            "end": 140.06912499999999,
+            "token": "wow"
+        },
+        {
+            "name": "spontB_181_oh",
+            "start": 143.01,
+            "end": 143.612375,
+            "token": "oh"
+        },
+        {
+            "name": "PS_189_wow",
+            "start": 144.97,
+            "end": 146.078875,
+            "token": "wow"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03195",
+    "context_channel": 1,
+    "context_text": "<A> yeah { and } / <B> [ yeah ] / <A> hamsters and guinea pigs are not supposed to carry diseases / <B> oh / <A> and this one got a disease { that } / <B> [ yeah ]",
+    "context_start": 487.06,
+    "context_end": 495.150125,
+    "feedback": [
+        {
+            "name": "spontF_261_yeah",
+            "start": 488.14,
+            "end": 488.69874999999996,
+            "token": "yeah"
+        },
+        {
+            "name": "NS_101_oh",
+            "start": 491.95,
+            "end": 492.86899999999997,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_262_yeah",
+            "start": 494.52,
+            "end": 495.150125,
+            "token": "yeah"
+        }
+    ]
+}

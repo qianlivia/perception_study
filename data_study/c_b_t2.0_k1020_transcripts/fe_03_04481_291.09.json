@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04481",
+    "context_channel": 0,
+    "context_text": "<B> at all i was the first new hire in the high school english department i taught at in twelve / <A> uh-huh / <B> years and the fi first new member of the faculty in six it was a small district / <A> mhm / <B> and the only reason i'd gotten hired is a guy had had died i mean that's why there was an opening / <A> uh-huh / <B> and um you know the kids immediately uh told me you know not not cause i'd asked but you { you } / <A> [ yeah ]",
+    "context_start": 291.09,
+    "context_end": 314.00275,
+    "feedback": [
+        {
+            "name": "spontA_312_uh-huh",
+            "start": 295.0,
+            "end": 295.56,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_344_mhm",
+            "start": 300.02,
+            "end": 300.75975,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_196_uh-huh",
+            "start": 305.38,
+            "end": 305.981125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_240_yeah",
+            "start": 313.34,
+            "end": 314.00275,
+            "token": "yeah"
+        }
+    ]
+}

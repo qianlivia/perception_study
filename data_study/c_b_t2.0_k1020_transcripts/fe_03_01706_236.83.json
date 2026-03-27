@@ -1,0 +1,57 @@
+{
+    "name": "fe_03_01706",
+    "context_channel": 0,
+    "context_text": "<B> we do have some experience at this i mean you look at japan { you look } / <A> [ yeah ] / <B> at germany / <A> oh / <B> uh you look at south korea / <A> yeah / <B> our military has done this before { and } / <A> [ yeah ] / <B> you know we and we don't stay i mean we stayed in europe because of the threat of russia / <A> oh / <B> uh but europeans allowed us i mean it wasn't { that they } / <A> [ okay ] / <B> wanted us out because { we } / <A> [ oh ] / <B> for a p part of their economy by then / <A> mhm",
+    "context_start": 236.83,
+    "context_end": 262.9865,
+    "feedback": [
+        {
+            "name": "spont_220_yeah",
+            "start": 240.17,
+            "end": 240.876625,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_356_oh",
+            "start": 241.65,
+            "end": 242.2775,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_169_yeah",
+            "start": 243.6,
+            "end": 244.09562499999998,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_051_yeah",
+            "start": 246.61,
+            "end": 247.151375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_301_oh",
+            "start": 254.04,
+            "end": 255.05525,
+            "token": "oh"
+        },
+        {
+            "name": "spontC_401_okay",
+            "start": 257.83,
+            "end": 258.359375,
+            "token": "okay"
+        },
+        {
+            "name": "spontD_378_oh",
+            "start": 259.73,
+            "end": 260.4225,
+            "token": "oh"
+        },
+        {
+            "name": "spontC_388_mhm",
+            "start": 262.44,
+            "end": 262.9865,
+            "token": "mhm"
+        }
+    ]
+}

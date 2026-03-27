@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03785",
+    "context_channel": 1,
+    "context_text": "<A> was i was at a bar and i criticized the movie chorus line and / <B> yeah / <A> the person said that's because you're not in theater or you'd appreciate this { you would } / <B> [ yeah ] / <A> appreciate the movie { and i } / <B> [ wow ]",
+    "context_start": 137.97,
+    "context_end": 155.20325,
+    "feedback": [
+        {
+            "name": "spontC_213_yeah",
+            "start": 145.78,
+            "end": 146.3835,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_267_yeah",
+            "start": 152.12,
+            "end": 152.801875,
+            "token": "yeah"
+        },
+        {
+            "name": "NegS_056_wow",
+            "start": 154.1,
+            "end": 155.20325,
+            "token": "wow"
+        }
+    ]
+}

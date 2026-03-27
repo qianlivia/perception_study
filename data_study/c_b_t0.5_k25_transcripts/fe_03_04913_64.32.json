@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04913",
     "context_channel": 0,
-    "context_text": "<B> two okay / <A> yeah / <B> and uh i have seen uh a lot of uh different drug testing go on uh myself { i have } / <A> [ uh-huh ] / <B> been tested a couple of times but it was only because of random testing within you know our department / <A> okay / <B> i didn't have any problem with it because i didn't have anything to hide / <A> okay / <B> uh once again i think that uh it's like a double edged sword i believe if you don't do it you don't have anything to worry about if / <A> okay / <B> you do it that's a choice that you make { and then } / <A> [ right ]",
+    "context_text": "<B> two okay / <A> yeah / <B> and uh i have seen uh a lot of uh different drug testing go on uh myself { i have } / <A> [ uh-huh ] / <B> been tested a couple of times but it was only because of random testing within you know our department / <A> okay / <B> i didn't have any problem with it because i didn't have anything to hide / <A> okay / <B> uh once again i think that uh it's like a double edged sword i believe if you don't do it you don't have anything to worry about { if } / <A> [ yeah ] / <B> you do it that's a choice that you make { and then } / <A> [ yeah ]",
     "context_start": 64.32,
-    "context_end": 99.58312500000001,
+    "context_end": 99.394875,
     "feedback": [
         {
             "name": "spontB_297_yeah",
@@ -30,16 +30,16 @@
             "token": "okay"
         },
         {
-            "name": "spontC_020_okay",
+            "name": "spontD_024_yeah",
             "start": 96.14,
-            "end": 96.615,
-            "token": "okay"
+            "end": 96.560125,
+            "token": "yeah"
         },
         {
-            "name": "sun1_033_right",
+            "name": "spontC_321_yeah",
             "start": 98.73,
-            "end": 99.58312500000001,
-            "token": "right"
+            "end": 99.394875,
+            "token": "yeah"
         }
     ]
 }

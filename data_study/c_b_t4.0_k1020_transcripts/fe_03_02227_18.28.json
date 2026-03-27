@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02227",
+    "context_channel": 1,
+    "context_text": "<A> don't have to cook it and i don't have to clean it up / <B> yeah / <A> and it might be something that i don't know how to prepare / <B> uh-huh / <A> i do like that and it's { kind } / <B> [ yeah ] / <A> of a treat but sometimes it seems like a lot of effort to go out to eat / <B> yeah",
+    "context_start": 18.28,
+    "context_end": 31.387875,
+    "feedback": [
+        {
+            "name": "spontC_062_yeah",
+            "start": 20.51,
+            "end": 21.234750000000002,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_180_uh-huh",
+            "start": 23.81,
+            "end": 24.396874999999998,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_641_yeah",
+            "start": 25.98,
+            "end": 26.537375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_307_yeah",
+            "start": 30.8,
+            "end": 31.387875,
+            "token": "yeah"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00328",
+    "context_channel": 0,
+    "context_text": "<B> like if you knew someone was innocent / <A> oh / <B> but they didn't have a good alibi maybe there's a lot of circumstantial evidence but / <A> wow / <B> you know for a fact that they're innocent / <A> oh / <B> would you lie in that circumstance / <A> okay",
+    "context_start": 97.63,
+    "context_end": 108.91137499999999,
+    "feedback": [
+        {
+            "name": "Sy_022_oh",
+            "start": 99.68,
+            "end": 101.502375,
+            "token": "oh"
+        },
+        {
+            "name": "PS_152_wow",
+            "start": 104.1,
+            "end": 104.695875,
+            "token": "wow"
+        },
+        {
+            "name": "Sy_069_oh",
+            "start": 106.26,
+            "end": 107.41900000000001,
+            "token": "oh"
+        },
+        {
+            "name": "spontD_383_okay",
+            "start": 108.24,
+            "end": 108.91137499999999,
+            "token": "okay"
+        }
+    ]
+}

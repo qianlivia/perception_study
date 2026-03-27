@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03701",
+    "context_channel": 0,
+    "context_text": "<B> oh okay i see so i don't know what else five fifteen 's really low um / <A> mhm / <B> i mean i know that even if you're a single / <A> yeah / <B> just to cover like your basic expenses and let's say that's assuming like no bills just like you know rent { and } / <A> [ right ] / <B> food you're gonna have { to } / <A> [ uh-huh ]",
+    "context_start": 241.69,
+    "context_end": 262.541,
+    "feedback": [
+        {
+            "name": "spontF_257_mhm",
+            "start": 249.5,
+            "end": 249.992375,
+            "token": "mhm"
+        },
+        {
+            "name": "PR_034_yeah",
+            "start": 253.45,
+            "end": 254.277625,
+            "token": "yeah"
+        },
+        {
+            "name": "PR_048_right",
+            "start": 259.88,
+            "end": 260.515125,
+            "token": "right"
+        },
+        {
+            "name": "spontB_137_uh-huh",
+            "start": 261.99,
+            "end": 262.541,
+            "token": "uh-huh"
+        }
+    ]
+}

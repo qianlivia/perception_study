@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02452",
+    "context_channel": 0,
+    "context_text": "<B> i didn't you know when i was i used to be when i was in the army and i was always they were always telling me i was overweight and my body fat was just like nothing { but } / <A> [ oh ] / <B> i'm just big you know i'm six / <A> yeah / <B> feet tall and there's no way i was gonna weigh a hundred and fifty pounds it just wasn't going to happen { and } / <A> [ mhm ] / <B> be healthy you { know i'm not i'm } / <A> [ wow ]",
+    "context_start": 396.84,
+    "context_end": 419.90500000000003,
+    "feedback": [
+        {
+            "name": "spontF_569_oh",
+            "start": 407.69,
+            "end": 408.76625,
+            "token": "oh"
+        },
+        {
+            "name": "spontB_224_yeah",
+            "start": 410.02,
+            "end": 410.89349999999996,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_061_mhm",
+            "start": 416.51,
+            "end": 417.035375,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_155_wow",
+            "start": 418.11,
+            "end": 419.90500000000003,
+            "token": "wow"
+        }
+    ]
+}

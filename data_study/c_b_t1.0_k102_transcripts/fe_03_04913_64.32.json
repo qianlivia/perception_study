@@ -1,0 +1,45 @@
+{
+    "name": "fe_03_04913",
+    "context_channel": 0,
+    "context_text": "<B> two okay / <A> uh-huh / <B> and uh i have seen uh a lot of uh different drug testing go on uh myself { i have } / <A> [ mhm ] / <B> been tested a couple of times but it was only because of random testing within you know our department / <A> uh-huh / <B> i didn't have any problem with it because i didn't have anything to hide / <A> mhm / <B> uh once again i think that uh it's like a double edged sword i believe if you don't do it you don't have anything to worry about { if } / <A> [ uh-huh ] / <B> you do it that's a choice that you make { and then } / <A> [ wow ]",
+    "context_start": 64.32,
+    "context_end": 99.7275,
+    "feedback": [
+        {
+            "name": "spontA_035_uh-huh",
+            "start": 66.05,
+            "end": 66.524125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_358_mhm",
+            "start": 73.51,
+            "end": 74.00862500000001,
+            "token": "mhm"
+        },
+        {
+            "name": "spontD_276_uh-huh",
+            "start": 81.8,
+            "end": 82.24137499999999,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_395_mhm",
+            "start": 85.41,
+            "end": 86.024625,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_358_uh-huh",
+            "start": 96.14,
+            "end": 96.725,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PS_176_wow",
+            "start": 98.73,
+            "end": 99.7275,
+            "token": "wow"
+        }
+    ]
+}

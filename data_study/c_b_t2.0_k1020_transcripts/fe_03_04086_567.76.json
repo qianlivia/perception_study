@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04086",
+    "context_channel": 0,
+    "context_text": "<B> oh that would be really helpful if you're { you } / <A> [ yeah ] / <B> know because they don't do that here / <A> wow / <B> i remember them doing that in minnesota in like the technical colleges and the community colleges / <A> oh",
+    "context_start": 567.76,
+    "context_end": 579.567125,
+    "feedback": [
+        {
+            "name": "spontA_111_yeah",
+            "start": 569.36,
+            "end": 569.99125,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_080_wow",
+            "start": 572.05,
+            "end": 573.049125,
+            "token": "wow"
+        },
+        {
+            "name": "PS_193_oh",
+            "start": 577.76,
+            "end": 579.567125,
+            "token": "oh"
+        }
+    ]
+}

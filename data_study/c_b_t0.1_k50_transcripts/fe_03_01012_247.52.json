@@ -1,9 +1,9 @@
 {
     "name": "fe_03_01012",
     "context_channel": 0,
-    "context_text": "<B> and i saw the um the one jet liner go into one world trade centre and i just looked and i thought you know what the heck is this and i heard a bunch of talking and all and it's the first time my wife never brought her cell phone with her so / <A> oh / <B> here she is going to a park which is only like about two miles away but she { yeah } / <A> [ wow ] / <B> dover delaware is only an hour and a half from washington dc an hour and a half from philadelphia and then we had the big air force base here / <A> wow / <B> and new york is only three hours from here three and a half hours so so { this } / <A> [ wow ] / <B> happened and i sat down and i'm thinking holy jeeze what the hell is going on here so { i'm } / <A> [ yeah ]",
+    "context_text": "<B> and i saw the um the one jet liner go into one world trade center and i just looked and i thought you know what the heck is this and i heard a bunch of talking and all and it's the first time my wife never brought her cell phone with her so / <A> oh / <B> here she is going to a park which is only like about two miles away but she { yeah } / <A> [ wow ] / <B> dover delaware is only an hour and a half from washington dc an hour and a half from philadelphia and then we had the big air force base here / <A> wow / <B> and new york is only three hours from here three and a half hours so so { this } / <A> [ wow ] / <B> happened and i sat down and i'm thinking holy jeeze what the hell is going on here so { i'm } / <A> [ oh ]",
     "context_start": 247.52,
-    "context_end": 282.6535,
+    "context_end": 282.795125,
     "feedback": [
         {
             "name": "spontC_109_oh",
@@ -12,28 +12,28 @@
             "token": "oh"
         },
         {
-            "name": "PS_084_wow",
+            "name": "NegS_044_wow",
             "start": 264.19,
-            "end": 265.214875,
+            "end": 265.297,
             "token": "wow"
         },
         {
-            "name": "PS_145_wow",
+            "name": "PS_173_wow",
             "start": 272.25,
-            "end": 273.1435,
+            "end": 273.373625,
             "token": "wow"
         },
         {
-            "name": "PS_108_wow",
+            "name": "NegS_056_wow",
             "start": 276.96,
-            "end": 278.10575,
+            "end": 278.06325,
             "token": "wow"
         },
         {
-            "name": "spontC_213_yeah",
+            "name": "spontE_048_oh",
             "start": 282.05,
-            "end": 282.6535,
-            "token": "yeah"
+            "end": 282.795125,
+            "token": "oh"
         }
     ]
 }

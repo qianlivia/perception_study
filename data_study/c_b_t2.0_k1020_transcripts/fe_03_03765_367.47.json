@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03765",
+    "context_channel": 1,
+    "context_text": "<A> even uh i have a web tv { and } / <B> [ wow ] / <A> all there's so many jokes that come through on on you know laughing about people { or } / <B> [ yeah ] / <A> i mean uh there's one like bomb iraq about the uh saddam / <B> yeah / <A> uh well we all know / <B> uh-huh",
+    "context_start": 367.47,
+    "context_end": 393.502875,
+    "feedback": [
+        {
+            "name": "PS_188_wow",
+            "start": 370.23,
+            "end": 371.40087500000004,
+            "token": "wow"
+        },
+        {
+            "name": "spontC_324_yeah",
+            "start": 376.83,
+            "end": 377.43787499999996,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_562_yeah",
+            "start": 386.21,
+            "end": 386.77887499999997,
+            "token": "yeah"
+        },
+        {
+            "name": "sun1_035_uh-huh",
+            "start": 392.48,
+            "end": 393.502875,
+            "token": "uh-huh"
+        }
+    ]
+}

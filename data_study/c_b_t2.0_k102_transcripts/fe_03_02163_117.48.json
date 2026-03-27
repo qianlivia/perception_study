@@ -1,0 +1,45 @@
+{
+    "name": "fe_03_02163",
+    "context_channel": 0,
+    "context_text": "<B> i like uh i like salads really i like salads and then i like uh uh well i like chicken i try to lay off uh meats a lot / <A> mhm / <B> some time i just go like vegetables / <A> mhm / <B> um uh an entree or something you know { but } / <A> [ uh-huh ] / <B> uh basically i'm not really hard to please i'm not hard to please i mean if the food is cooked right / <A> uh-huh / <B> and good and uh uh i like meat loaves / <A> mhm / <B> and uh uh i don't i'm not a steak person / <A> uh-huh",
+    "context_start": 117.48,
+    "context_end": 147.291,
+    "feedback": [
+        {
+            "name": "spontA_239_mhm",
+            "start": 127.52,
+            "end": 128.032375,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_496_mhm",
+            "start": 129.83,
+            "end": 130.3365,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_158_uh-huh",
+            "start": 132.9,
+            "end": 133.42237500000002,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_146_uh-huh",
+            "start": 139.61,
+            "end": 140.12912500000002,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_388_mhm",
+            "start": 143.26,
+            "end": 143.8065,
+            "token": "mhm"
+        },
+        {
+            "name": "spontB_137_uh-huh",
+            "start": 146.74,
+            "end": 147.291,
+            "token": "uh-huh"
+        }
+    ]
+}

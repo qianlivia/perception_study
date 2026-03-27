@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_03101",
+    "context_channel": 1,
+    "context_text": "<A> oh okay cause i've been a mystery shopper for about six years now / <B> okay / <A> uh-huh and i've had really good luck with it it was real slow at first but um i just kind of kept hitting it and it finally we got our regular companies that we work for / <B> oh / <A> and it's worked out really well it's been a great extra income for us / <B> wow / <A> but it took a long time to get it going / <B> yeah / <A> and to figure out who we wanted to work for and what was going to be worth our time / <B> yeah",
+    "context_start": 174.3,
+    "context_end": 201.00150000000002,
+    "feedback": [
+        {
+            "name": "spontE_005_okay",
+            "start": 178.58,
+            "end": 179.13037500000002,
+            "token": "okay"
+        },
+        {
+            "name": "Sy_022_oh",
+            "start": 188.02,
+            "end": 189.842375,
+            "token": "oh"
+        },
+        {
+            "name": "PS_151_wow",
+            "start": 192.35,
+            "end": 193.52474999999998,
+            "token": "wow"
+        },
+        {
+            "name": "spontD_323_yeah",
+            "start": 195.02,
+            "end": 195.8255,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_219_yeah",
+            "start": 200.46,
+            "end": 201.00150000000002,
+            "token": "yeah"
+        }
+    ]
+}

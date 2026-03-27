@@ -1,9 +1,9 @@
 {
     "name": "fe_03_00005",
     "context_channel": 1,
-    "context_text": "<A> well uh everything tends to be uh stews of various sorts / <B> mhm / <A> um kind of like kind of like people get a strange idea of what chinese food is like { from } / <B> [ yeah ] / <A> eating in in american chinese restaurants / <B> uh-huh / <A> um russian food tends to be uh fairly simple um but they make a number of different kinds of meatpies and and things that are like goulash / <B> uh-huh / <A> uh stew served over noodles um beef uh cooked in various ways usually in sauces / <B> wow / <A> uh they pickle a lot of things uh you're probably you've probably eaten uh various types of of of oshinko { i've } / <B> [ yeah ] / <A> pronounced that right uh russian pickles tend to be uh cucumbers and onions / <B> uh-huh",
+    "context_text": "<A> well uh everything tends to be uh stews of various sorts / <B> mhm / <A> um kind of like kind of like people get a strange idea of what chinese food is like { from } / <B> [ yeah ] / <A> eating in in american chinese restaurants / <B> yeah / <A> um russian food tends to be uh fairly simple um but they make a number of different kinds of meatpies and and things that are like goulash / <B> yeah / <A> uh stew served over noodles um beef uh cooked in various ways usually in sauces / <B> okay / <A> uh they pickle a lot of things uh you're probably you've probably eaten uh various types of of of oshinko { i've } / <B> [ yeah ] / <A> pronounced that right uh russian pickles tend to be uh cucumbers and onions / <B> okay",
     "context_start": 349.19,
-    "context_end": 401.25675,
+    "context_end": 401.37725,
     "feedback": [
         {
             "name": "spontF_482_mhm",
@@ -18,34 +18,34 @@
             "token": "yeah"
         },
         {
-            "name": "spontA_406_uh-huh",
+            "name": "spontD_184_yeah",
             "start": 364.55,
-            "end": 365.156375,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontD_106_uh-huh",
-            "start": 375.92,
-            "end": 376.3575,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontA_261_wow",
-            "start": 384.47,
-            "end": 385.11912500000005,
-            "token": "wow"
-        },
-        {
-            "name": "spontC_232_yeah",
-            "start": 393.76,
-            "end": 394.6545,
+            "end": 365.16775,
             "token": "yeah"
         },
         {
-            "name": "spontC_378_uh-huh",
+            "name": "spontF_240_yeah",
+            "start": 375.92,
+            "end": 376.48987500000004,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_234_okay",
+            "start": 384.47,
+            "end": 385.09787500000004,
+            "token": "okay"
+        },
+        {
+            "name": "spontE_244_yeah",
+            "start": 393.76,
+            "end": 394.5045,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_152_okay",
             "start": 400.75,
-            "end": 401.25675,
-            "token": "uh-huh"
+            "end": 401.37725,
+            "token": "okay"
         }
     ]
 }

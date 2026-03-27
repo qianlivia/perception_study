@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_05226",
+    "context_channel": 1,
+    "context_text": "<A> this ah this last season / <B> oh / <A> i got this i don't know this horrible allergy / <B> mhm / <A> yeah / <B> yeah",
+    "context_start": 22.19,
+    "context_end": 29.875375000000002,
+    "feedback": [
+        {
+            "name": "NegS_042_oh",
+            "start": 23.7,
+            "end": 24.9005,
+            "token": "oh"
+        },
+        {
+            "name": "spontA_269_mhm",
+            "start": 27.37,
+            "end": 27.8865,
+            "token": "mhm"
+        },
+        {
+            "name": "spontB_374_yeah",
+            "start": 29.19,
+            "end": 29.875375000000002,
+            "token": "yeah"
+        }
+    ]
+}

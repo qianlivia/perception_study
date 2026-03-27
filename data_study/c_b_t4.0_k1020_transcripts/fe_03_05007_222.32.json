@@ -1,0 +1,45 @@
+{
+    "name": "fe_03_05007",
+    "context_channel": 1,
+    "context_text": "<A> and uh it's kind of scary i mean it's it's uh my my wife is uh from azerbaijan { a } / <B> [ yeah ] / <A> muslim country uh but they're demo democratic country and actually they're wooing the united states via oil so it's kind of like you know they have a good relationship however you know the the / <B> mhm / <A> they're they're kind of saying ooh ooh we're not entirely muslim and / <B> oh / <A> we we have christians you know keep keep trading with us keep trading with us { you know } / <B> [ mhm ] / <A> all of a sudden there was this sour mentality of anybody that was of muslim or arabic descent they were you know and i'm puerto rican { uh } / <B> [ uh-huh ] / <A> actually i'm i i i but i'm dark-skinned / <B> yeah",
+    "context_start": 222.32,
+    "context_end": 254.5835,
+    "feedback": [
+        {
+            "name": "sun1_023_yeah",
+            "start": 227.09,
+            "end": 227.471875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_268_mhm",
+            "start": 236.37,
+            "end": 236.937875,
+            "token": "mhm"
+        },
+        {
+            "name": "spontE_176_oh",
+            "start": 240.31,
+            "end": 240.79075,
+            "token": "oh"
+        },
+        {
+            "name": "spontA_379_mhm",
+            "start": 244.95,
+            "end": 245.467875,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_379_uh-huh",
+            "start": 251.55,
+            "end": 252.01525,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_174_yeah",
+            "start": 253.94,
+            "end": 254.5835,
+            "token": "yeah"
+        }
+    ]
+}

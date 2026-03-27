@@ -1,39 +1,39 @@
 {
     "name": "fe_03_01935",
     "context_channel": 0,
-    "context_text": "<B> i had to work harder at having self confidence / <A> yeah / <B> because i was always yeah it did make me a little shyer because when i went to college for the first time you know i had a roommate and i had to deal with the dorm and i had to deal with a big group of other / <A> yeah / <B> guys and that took me a while to adjust to / <A> yeah / <B> because i had never had to adjust to other people / <A> yeah / <B> because my it was just my my parents with me so i didn't have to it took me a while to adjust to a group of people so i / <A> yeah",
+    "context_text": "<B> i had to work harder at having self-confidence / <A> yeah / <B> because i was always yeah it did make me a little shyer because when i went to college for the first time you know i had a roommate and i had to deal with the dorm and i had to deal with a big group of { other } / <A> [ wow ] / <B> guys and that took me a while to adjust to / <A> yeah / <B> because i had never had to adjust to other people / <A> yeah / <B> because my it was just my my parents with me so i didn't have to it took me a while to adjust to a group of people { so i tried } / <A> [ wow ]",
     "context_start": 261.89,
-    "context_end": 295.349125,
+    "context_end": 295.827125,
     "feedback": [
         {
-            "name": "spontC_116_yeah",
+            "name": "spontD_184_yeah",
             "start": 265.42,
-            "end": 265.97787500000004,
+            "end": 266.03775,
             "token": "yeah"
         },
         {
-            "name": "spontE_252_yeah",
+            "name": "PS_034_wow",
             "start": 277.04,
-            "end": 277.67575,
-            "token": "yeah"
+            "end": 277.85762500000004,
+            "token": "wow"
         },
         {
-            "name": "spontF_287_yeah",
+            "name": "spontF_041_yeah",
             "start": 282.14,
-            "end": 282.77125,
+            "end": 283.0075,
             "token": "yeah"
         },
         {
-            "name": "spontC_324_yeah",
+            "name": "spontD_172_yeah",
             "start": 285.89,
-            "end": 286.49787499999996,
+            "end": 286.6835,
             "token": "yeah"
         },
         {
-            "name": "sun_045_yeah",
+            "name": "PS_092_wow",
             "start": 294.91,
-            "end": 295.349125,
-            "token": "yeah"
+            "end": 295.827125,
+            "token": "wow"
         }
     ]
 }

@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03551",
     "context_channel": 1,
-    "context_text": "<A> yeah yeah well i'm myself i do nurses aid work and um home health { care and } / <B> [ oh ] / <A> i'm also working from home so { i'm } / <B> [ oh ] / <A> carrying two jobs and um / <B> oh / <A> got to you know / <B> yeah",
+    "context_text": "<A> yeah yeah well i'm myself i do nurses aid work and um home health { care and } / <B> [ oh ] / <A> i'm also working from home so { i'm } / <B> [ oh ] / <A> carrying two jobs and um / <B> right / <A> got to you know / <B> yeah",
     "context_start": 583.97,
-    "context_end": 597.413125,
+    "context_end": 597.449125,
     "feedback": [
         {
             "name": "PS_027_oh",
@@ -18,15 +18,15 @@
             "token": "oh"
         },
         {
-            "name": "Sy_021_oh",
+            "name": "sun_007_right",
             "start": 594.86,
-            "end": 595.6727500000001,
-            "token": "oh"
+            "end": 595.7495,
+            "token": "right"
         },
         {
-            "name": "PR_031_yeah",
+            "name": "sun_045_yeah",
             "start": 597.01,
-            "end": 597.413125,
+            "end": 597.449125,
             "token": "yeah"
         }
     ]

@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02207",
+    "context_channel": 0,
+    "context_text": "<B> food um my room mate made chicken parmesan she likes she is a meat eater mostly so she / <A> mhm / <B> only cooks meat / <A> uh-huh / <B> so i started eating more meat / <A> wow / <B> even though i still like veggies / <A> oh",
+    "context_start": 215.3,
+    "context_end": 230.714125,
+    "feedback": [
+        {
+            "name": "spontC_313_mhm",
+            "start": 222.91,
+            "end": 223.40525,
+            "token": "mhm"
+        },
+        {
+            "name": "spontB_280_uh-huh",
+            "start": 225.02,
+            "end": 225.52225,
+            "token": "uh-huh"
+        },
+        {
+            "name": "NegS_044_wow",
+            "start": 228.05,
+            "end": 229.157,
+            "token": "wow"
+        },
+        {
+            "name": "spontE_295_oh",
+            "start": 229.97,
+            "end": 230.714125,
+            "token": "oh"
+        }
+    ]
+}

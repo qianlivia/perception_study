@@ -1,9 +1,9 @@
 {
     "name": "fe_03_01672",
     "context_channel": 0,
-    "context_text": "<B> one thing like these weapons of mass destruction / <A> mhm / <B> and also getting rid of them there kind of { and } / <A> [ mhm ] / <B> then you know and hiding people there but / <A> uh-huh / <B> my gosh the way the president was talking it was like well okay we're ready to come over there now { you know } / <A> [ oh ]",
+    "context_text": "<B> one thing like these weapons of mass destruction / <A> mhm / <B> and also getting rid of them there kind of { and } / <A> [ mhm ] / <B> then you know and hiding people there but / <A> yeah / <B> my gosh the way the president was talking it was like well okay we're ready to come over there now { you know } / <A> [ mhm ]",
     "context_start": 164.04,
-    "context_end": 178.917,
+    "context_end": 178.63975,
     "feedback": [
         {
             "name": "spontA_253_mhm",
@@ -18,16 +18,16 @@
             "token": "mhm"
         },
         {
-            "name": "spontA_158_uh-huh",
+            "name": "spontB_373_yeah",
             "start": 172.35,
-            "end": 172.872375,
-            "token": "uh-huh"
+            "end": 172.76149999999998,
+            "token": "yeah"
         },
         {
-            "name": "Sy_066_oh",
+            "name": "PR_046_mhm",
             "start": 177.7,
-            "end": 178.917,
-            "token": "oh"
+            "end": 178.63975,
+            "token": "mhm"
         }
     ]
 }

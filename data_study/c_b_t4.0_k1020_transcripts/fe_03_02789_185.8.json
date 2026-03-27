@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02789",
+    "context_channel": 1,
+    "context_text": "<A> yeah exactly no i mean uh i i know that actually what originally spurred my interest in baseball was was just having played it { and } / <B> [ wow ] / <A> uh and my my first actually it was and then watching it with my dad so we sorta had something my for some reason i i grew up in mississippi / <B> yeah / <A> so uh and i was never terribly interested or even adept at sports { and } / <B> [ okay ] / <A> my and my dad uh i would say was probably more athletic and is more of a good ole boy / <B> wow",
+    "context_start": 185.8,
+    "context_end": 220.22487500000003,
+    "feedback": [
+        {
+            "name": "PS_101_wow",
+            "start": 194.78,
+            "end": 195.718375,
+            "token": "wow"
+        },
+        {
+            "name": "spontF_029_yeah",
+            "start": 207.14,
+            "end": 207.71525,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_017_okay",
+            "start": 211.45,
+            "end": 212.25562499999998,
+            "token": "okay"
+        },
+        {
+            "name": "PS_171_wow",
+            "start": 218.08,
+            "end": 220.22487500000003,
+            "token": "wow"
+        }
+    ]
+}

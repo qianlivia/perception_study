@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03298",
+    "context_channel": 1,
+    "context_text": "<A> i uh yeah if you've got the same beliefs if you're working for the same goals / <B> mhm / <A> you know that's when it all comes together { at } / <B> [ oh ] / <A> some point um { as } / <B> [ uh-huh ] / <A> long as you can support each other emotionally / <B> yeah",
+    "context_start": 492.8,
+    "context_end": 509.104625,
+    "feedback": [
+        {
+            "name": "PR_046_mhm",
+            "start": 499.53,
+            "end": 500.46975,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_148_oh",
+            "start": 503.41,
+            "end": 504.69475,
+            "token": "oh"
+        },
+        {
+            "name": "spontC_347_uh-huh",
+            "start": 505.02,
+            "end": 505.56325,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_375_yeah",
+            "start": 508.68,
+            "end": 509.104625,
+            "token": "yeah"
+        }
+    ]
+}

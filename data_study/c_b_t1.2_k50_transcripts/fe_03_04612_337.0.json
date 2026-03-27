@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04612",
+    "context_channel": 1,
+    "context_text": "<A> ah there are some available but { i } / <B> [ uh-huh ] / <A> just i i tried it a while ago and it just didn't work out very well and { it } / <B> [ yeah ] / <A> was hard to get games for it and stuff so { i } / <B> [ yeah ]",
+    "context_start": 337.0,
+    "context_end": 347.12462500000004,
+    "feedback": [
+        {
+            "name": "spontC_378_uh-huh",
+            "start": 339.01,
+            "end": 339.51675,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_321_yeah",
+            "start": 343.85,
+            "end": 344.514875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_205_yeah",
+            "start": 346.42,
+            "end": 347.12462500000004,
+            "token": "yeah"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01668",
+    "context_channel": 0,
+    "context_text": "<B> like in a fog and finally i was like you know what i have got to get on { so i } / <A> [ really ] / <B> stopped watching the news and i really haven't gone back to it / <A> yeah / <B> i mean when they started the bombing / <A> uh-huh / <B> then i was watching more but like i said it made me sick / <A> mhm",
+    "context_start": 576.17,
+    "context_end": 591.2186250000001,
+    "feedback": [
+        {
+            "name": "NS_002_really",
+            "start": 580.52,
+            "end": 581.3765,
+            "token": "really"
+        },
+        {
+            "name": "spontC_336_yeah",
+            "start": 583.95,
+            "end": 584.552125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_036_uh-huh",
+            "start": 586.06,
+            "end": 586.5703749999999,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_312_mhm",
+            "start": 590.7,
+            "end": 591.2186250000001,
+            "token": "mhm"
+        }
+    ]
+}

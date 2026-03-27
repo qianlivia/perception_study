@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01170",
+    "context_channel": 1,
+    "context_text": "<A> but i lost both of my parents in the last five years { so every time } / <B> [ wow ] / <A> i had a chance to go somewhere i went to go see them to { help } / <B> [ wow ] / <A> them out so it's it's but if if there is one thing if i could you know travel in time i would do that / <B> yeah / <A> um but that was just right off the top of my head i would love { to } / <B> [ yeah ]",
+    "context_start": 92.77,
+    "context_end": 113.74075,
+    "feedback": [
+        {
+            "name": "PS_100_wow",
+            "start": 95.94,
+            "end": 96.93662499999999,
+            "token": "wow"
+        },
+        {
+            "name": "PS_078_wow",
+            "start": 99.65,
+            "end": 100.736625,
+            "token": "wow"
+        },
+        {
+            "name": "spontB_194_yeah",
+            "start": 108.41,
+            "end": 109.15124999999999,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_331_yeah",
+            "start": 113.04,
+            "end": 113.74075,
+            "token": "yeah"
+        }
+    ]
+}

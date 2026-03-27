@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01277",
+    "context_channel": 0,
+    "context_text": "<B> yeah i i probably um i i run the tv most of the day when i'm like house cleaning and and { doing my } / <A> [ oh ] / <B> chores around the house and do whatnot um so i especially when there's tragedy like now i leave { it on } / <A> [ uh-huh ] / <B> cnn { all day } / <A> [ yeah ] / <B> so all i listen to is cnn but i do read the newspapers { and } / <A> yeah",
+    "context_start": 82.94,
+    "context_end": 101.46199999999999,
+    "feedback": [
+        {
+            "name": "PS_111_oh",
+            "start": 88.06,
+            "end": 88.844375,
+            "token": "oh"
+        },
+        {
+            "name": "spontA_199_uh-huh",
+            "start": 95.41,
+            "end": 96.01525,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_364_yeah",
+            "start": 96.93,
+            "end": 97.780375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_595_yeah",
+            "start": 100.85,
+            "end": 101.46199999999999,
+            "token": "yeah"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03070",
+    "context_channel": 0,
+    "context_text": "<B> palermo it's p a l e r m o / <A> okay / <B> road / <A> oh / <B> and it's panama city / <A> yeah",
+    "context_start": 369.29,
+    "context_end": 379.70225000000005,
+    "feedback": [
+        {
+            "name": "spontD_089_okay",
+            "start": 374.27,
+            "end": 375.07512499999996,
+            "token": "okay"
+        },
+        {
+            "name": "Sy_039_oh",
+            "start": 375.96,
+            "end": 377.2555,
+            "token": "oh"
+        },
+        {
+            "name": "spontE_79_yeah",
+            "start": 379.1,
+            "end": 379.70225000000005,
+            "token": "yeah"
+        }
+    ]
+}

@@ -1,50 +1,50 @@
 {
     "name": "fe_03_03377",
     "context_channel": 1,
-    "context_text": "<A> stupid fights but i'm / <B> yeah / <A> i'm the man of the house um when it comes { to if } / <B> [ mhm ] / <A> something / <B> yeah / <A> breaks or { or } / <B> [ yeah ] / <A> whatever and sometimes i'd like it if he would he's al he's been so used to me just kinda taking over / <B> yeah / <A> and and fixing things but / <B> yeah / <A> sometimes i'd like him to { just you know } / <B> [ yeah ]",
+    "context_text": "<A> stupid fights but { i'm } / <B> [ yeah ] / <A> i'm the man of the house um when it { comes to } / <B> [ yeah ] / <A> if { something } / <B> [ yeah ] / <A> breaks or { or } / <B> [ oh ] / <A> whatever and sometimes i'd like it if he would he's all he's been so used to me just kinda taking over / <B> yeah / <A> and and fixing things { but } / <B> [ yeah ] / <A> sometimes i'd like him to just you know / <B> yeah",
     "context_start": 337.6,
-    "context_end": 357.50225,
+    "context_end": 357.296125,
     "feedback": [
         {
-            "name": "spontB_057_yeah",
-            "start": 339.14,
-            "end": 339.68512499999997,
-            "token": "yeah"
-        },
-        {
-            "name": "spontA_400_mhm",
-            "start": 341.8,
-            "end": 342.6205,
-            "token": "mhm"
-        },
-        {
-            "name": "spontA_441_yeah",
-            "start": 342.96,
-            "end": 343.39912499999997,
-            "token": "yeah"
-        },
-        {
-            "name": "spontB_226_yeah",
-            "start": 344.62,
-            "end": 345.069,
-            "token": "yeah"
-        },
-        {
             "name": "spontD_263_yeah",
+            "start": 339.14,
+            "end": 339.860125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_252_yeah",
+            "start": 341.8,
+            "end": 342.43575,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_229_yeah",
+            "start": 342.96,
+            "end": 343.40187499999996,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_048_oh",
+            "start": 344.62,
+            "end": 345.365125,
+            "token": "oh"
+        },
+        {
+            "name": "spontC_382_yeah",
             "start": 350.43,
-            "end": 351.150125,
+            "end": 351.00925,
             "token": "yeah"
         },
         {
-            "name": "spontD_184_yeah",
+            "name": "spontC_135_yeah",
             "start": 353.74,
-            "end": 354.35775,
+            "end": 354.42762500000003,
             "token": "yeah"
         },
         {
-            "name": "spontD_162_yeah",
+            "name": "spontA_174_yeah",
             "start": 356.8,
-            "end": 357.50225,
+            "end": 357.296125,
             "token": "yeah"
         }
     ]

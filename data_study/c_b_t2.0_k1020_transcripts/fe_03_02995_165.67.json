@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_02995",
+    "context_channel": 0,
+    "context_text": "<B> wow well i live in an apartment building so my dogs don't get to go out that much / <A> mhm / <B> so i try to take them out basically whenever i can / <A> yeah / <B> so but once they get outside it's like they go crazy they love it out there / <A> oh / <B> so bein it's so small in here like even though they're they're small dogs { i only have like } / <A> [ mhm ] / <B> a two bedroom apartment so it's pretty cooped for them / <A> uh-huh",
+    "context_start": 165.67,
+    "context_end": 191.54175,
+    "feedback": [
+        {
+            "name": "spontF_257_mhm",
+            "start": 170.15,
+            "end": 170.64237500000002,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_075_yeah",
+            "start": 174.96,
+            "end": 175.61462500000002,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_277_oh",
+            "start": 180.33,
+            "end": 180.89825000000002,
+            "token": "oh"
+        },
+        {
+            "name": "spontA_395_mhm",
+            "start": 186.0,
+            "end": 186.614625,
+            "token": "mhm"
+        },
+        {
+            "name": "spontD_113_uh-huh",
+            "start": 190.91,
+            "end": 191.54175,
+            "token": "uh-huh"
+        }
+    ]
+}

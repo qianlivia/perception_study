@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02279",
+    "context_channel": 0,
+    "context_text": "<B> oh the last time it snowed was um like a month and a half ago / <A> yeah / <B> and it wasn't supposed in my experience like i been living in new york for twenty two years and um i've never seen it snow and / <A> wow / <B> um it was a march / <A> uh-huh / <B> or i forgot when no it was in february it snowed / <A> mhm",
+    "context_start": 459.44,
+    "context_end": 485.23387499999995,
+    "feedback": [
+        {
+            "name": "spontD_173_yeah",
+            "start": 465.97,
+            "end": 466.50225,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_156_wow",
+            "start": 477.42,
+            "end": 478.36075,
+            "token": "wow"
+        },
+        {
+            "name": "spontA_401_uh-huh",
+            "start": 480.42,
+            "end": 480.949,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_315_mhm",
+            "start": 484.53,
+            "end": 485.23387499999995,
+            "token": "mhm"
+        }
+    ]
+}

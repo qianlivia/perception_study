@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_00315",
+    "context_channel": 1,
+    "context_text": "<A> it seems like the solution to terrorism is keeping your head / <B> yeah / <A> finding what the challenge is / <B> uh-huh / <A> and believing that there are solutions to it find { out } / <B> [ yeah ] / <A> ye okay how are we going to solve this because what they're trying to do is uh is cause damage how do we stop the damage reverse it / <B> yeah / <A> and and i i wonder if you can even use something like that for well i guess when the plane in pennsylvania went down / <B> wow",
+    "context_start": 497.57,
+    "context_end": 529.275625,
+    "feedback": [
+        {
+            "name": "spontF_142_yeah",
+            "start": 502.14,
+            "end": 502.605125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_021_uh-huh",
+            "start": 505.69,
+            "end": 506.14175,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontB_309_yeah",
+            "start": 509.93,
+            "end": 510.895375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_570_yeah",
+            "start": 519.0,
+            "end": 519.881125,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_018_wow",
+            "start": 528.27,
+            "end": 529.275625,
+            "token": "wow"
+        }
+    ]
+}

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02022",
     "context_channel": 1,
-    "context_text": "<A> [ well it's not ] something that it affects me somehow some / <B> uh-huh / <A> way down the line but / <B> uh-huh / <A> like right around here we had ah jake butcher / <B> yeah / <A> owned a banking system and he got a lot of the people around here when we had the um eighty no ninety two world fair i / <B> oh",
+    "context_text": "<A> well it's not something that it affects me somehow { some } / <B> [ yeah ] / <A> way down the line { but } / <B> [ yeah ] / <A> like right around here we had ah jake butcher / <B> yeah / <A> owned a banking system and he got a lot of the people around here when we had the um eighty no ninety two world fair / <B> yeah",
     "context_start": 549.59,
-    "context_end": 569.80325,
+    "context_end": 570.0912500000001,
     "feedback": [
         {
-            "name": "spontE_038_uh-huh",
+            "name": "spontE_150_yeah",
             "start": 553.48,
-            "end": 553.898875,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontA_254_uh-huh",
-            "start": 555.21,
-            "end": 555.6085,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontF_380_yeah",
-            "start": 559.2,
-            "end": 559.8135000000001,
+            "end": 553.887125,
             "token": "yeah"
         },
         {
-            "name": "spontE_15_oh",
+            "name": "spontD_395_yeah",
+            "start": 555.21,
+            "end": 556.0556250000001,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_355_yeah",
+            "start": 559.2,
+            "end": 559.809125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_287_yeah",
             "start": 569.46,
-            "end": 569.80325,
-            "token": "oh"
+            "end": 570.0912500000001,
+            "token": "yeah"
         }
     ]
 }

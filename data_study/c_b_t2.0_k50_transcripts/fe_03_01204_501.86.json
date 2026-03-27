@@ -1,68 +1,68 @@
 {
     "name": "fe_03_01204",
     "context_channel": 0,
-    "context_text": "<B> uh one is a husband and wife and another is a a kid that i work with he's thirty seven and / <A> uh-huh / <B> uh you know i i travel all over the country with him we do shows and / <A> wow / <B> uh i if i needed something i think he would be there if { at all } / <A> [ yeah ] / <B> possible to help / <A> yeah / <B> you know but the rest of the people that i've worked with for twenty two years i just got laid off my my girlfriend and i got laid off / <A> oh / <B> and uh those people nothing i mean i've worked with em for twenty two years and { there is } / <A> [ yeah ] / <B> absolutely nothing nobody's called / <A> yeah / <B> to say how're ya doing / <A> yeah / <B> course i haven't called them to say ha ha i don't work here any more but uh you'd think that after twenty two years of working with the same group of people / <A> yeah / <B> that you would keep in touch / <A> yeah",
+    "context_text": "<B> uh one is a husband and wife and another is a a kid that i work with he's thirty seven { and } / <A> [ wow ] / <B> uh you know i i travel all over the country with him we do shows { and } / <A> [ oh ] / <B> uh i if i needed something i think he would be there if { at all } / <A> [ yeah ] / <B> possible to help / <A> wow / <B> you know but the rest of the people that i've worked with for twenty two years i just got laid off my my girlfriend and i got laid off { and } / <A> uh-huh / <B> uh those people nothing i mean i've worked with 'em for twenty two years and { there is } / <A> [ wow ] / <B> absolutely nothing nobody's { called } / <A> [ wow ] / <B> to say how're ya doing / <A> yeah / <B> course i haven't called them to say ha ha i don't work here any more but uh you'd think that after twenty two years of working with the same group of people / <A> yeah / <B> that you would keep in touch / <A> yeah",
     "context_start": 501.86,
-    "context_end": 559.1514999999999,
+    "context_end": 559.20075,
     "feedback": [
         {
-            "name": "spontA_254_uh-huh",
+            "name": "PS_129_wow",
             "start": 508.77,
-            "end": 509.1685,
-            "token": "uh-huh"
-        },
-        {
-            "name": "PS_077_wow",
-            "start": 514.12,
-            "end": 514.923875,
+            "end": 509.712375,
             "token": "wow"
         },
         {
-            "name": "spontA_046_yeah",
-            "start": 520.48,
-            "end": 521.1727500000001,
-            "token": "yeah"
-        },
-        {
-            "name": "PR_034_yeah",
-            "start": 522.66,
-            "end": 523.487625,
-            "token": "yeah"
-        },
-        {
-            "name": "sun1_012_oh",
-            "start": 530.85,
-            "end": 531.61375,
+            "name": "PS_035_oh",
+            "start": 514.12,
+            "end": 514.951625,
             "token": "oh"
         },
         {
-            "name": "PR_052_yeah",
+            "name": "PR_055_yeah",
+            "start": 520.48,
+            "end": 521.173125,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_176_wow",
+            "start": 522.66,
+            "end": 523.6574999999999,
+            "token": "wow"
+        },
+        {
+            "name": "spontC_128_uh-huh",
+            "start": 530.85,
+            "end": 531.350875,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PS_160_wow",
             "start": 537.25,
-            "end": 538.100875,
-            "token": "yeah"
+            "end": 538.130875,
+            "token": "wow"
         },
         {
-            "name": "spontD_180_yeah",
+            "name": "PS_082_wow",
             "start": 539.94,
-            "end": 540.5831250000001,
-            "token": "yeah"
+            "end": 541.067,
+            "token": "wow"
         },
         {
-            "name": "spontD_049_yeah",
+            "name": "spontD_365_yeah",
             "start": 542.21,
-            "end": 542.8491250000001,
+            "end": 543.0662500000001,
             "token": "yeah"
         },
         {
-            "name": "spontD_184_yeah",
+            "name": "spontD_051_yeah",
             "start": 555.68,
-            "end": 556.29775,
+            "end": 556.221375,
             "token": "yeah"
         },
         {
-            "name": "spontA_347_yeah",
+            "name": "sun_011_yeah",
             "start": 558.53,
-            "end": 559.1514999999999,
+            "end": 559.20075,
             "token": "yeah"
         }
     ]

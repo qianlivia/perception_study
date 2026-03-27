@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01507",
+    "context_channel": 1,
+    "context_text": "<A> that's good i'm glad you know that you you didn't let it you know get you well like me / <B> mhm / <A> you know it just basically changed my my whole way of travel / <B> uh-huh / <A> anymore you know whereas that was the quickest way to get somewhere / <B> uh-huh / <A> it's not anymore / <B> yeah",
+    "context_start": 520.78,
+    "context_end": 540.8327499999999,
+    "feedback": [
+        {
+            "name": "spontD_038_mhm",
+            "start": 526.83,
+            "end": 527.363375,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_386_uh-huh",
+            "start": 532.61,
+            "end": 533.1565,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_286_uh-huh",
+            "start": 537.93,
+            "end": 538.4535,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontB_393_yeah",
+            "start": 540.43,
+            "end": 540.8327499999999,
+            "token": "yeah"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_05661",
+    "context_channel": 1,
+    "context_text": "<A> isn't this the best thing ever i love it all / <B> wow / <A> right so what's our topic airline security / <B> mhm / <A> it's so political lately first nine eleven and now this / <B> wow",
+    "context_start": 16.73,
+    "context_end": 28.513875000000002,
+    "feedback": [
+        {
+            "name": "PS_154_wow",
+            "start": 19.42,
+            "end": 20.9085,
+            "token": "wow"
+        },
+        {
+            "name": "spontA_319_mhm",
+            "start": 23.21,
+            "end": 23.80525,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_114_wow",
+            "start": 27.35,
+            "end": 28.513875000000002,
+            "token": "wow"
+        }
+    ]
+}

@@ -1,9 +1,9 @@
 {
     "name": "fe_03_05464",
     "context_channel": 1,
-    "context_text": "<A> so the only way that i let it go is through yoga that's { my } / <B> [ yeah ] / <A> hobby uh well actually i don't consider that a hobby but uh that's what i do normally in my free time because i need { it's it's a } / <B> [ wow ] / <A> pretty stressful job sometime / <B> wow",
+    "context_text": "<A> so the only way that i let it go is through yoga that's { my } / <B> [ yeah ] / <A> hobby uh well actually i don't consider that a hobby but uh that's what i do normally in my free time because i { need } / <B> [ yeah ] / <A> it's it's a pretty stressful job sometime / <B> yeah",
     "context_start": 501.11,
-    "context_end": 516.4975,
+    "context_end": 516.168875,
     "feedback": [
         {
             "name": "spontD_024_yeah",
@@ -12,16 +12,16 @@
             "token": "yeah"
         },
         {
-            "name": "PS_049_wow",
+            "name": "spontD_049_yeah",
             "start": 512.38,
-            "end": 514.186625,
-            "token": "wow"
+            "end": 513.019125,
+            "token": "yeah"
         },
         {
-            "name": "PS_176_wow",
+            "name": "spontD_200_yeah",
             "start": 515.5,
-            "end": 516.4975,
-            "token": "wow"
+            "end": 516.168875,
+            "token": "yeah"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_02408",
     "context_channel": 0,
-    "context_text": "<B> interesting to know that other people think ah you know think the same things like i said i would think that someone similar to my age group would probably think ah opposite { because } / <A> [ oh ] / <B> i know i in um i work in the in the finance industry and it's very common for after work for people to go out for drinks like thursday's a big thing to go out / <A> uh-huh / <B> and um and it's not for me to me i can thursdays i still have to go to work on friday and / <A> uh-huh / <B> i i have gone out on thursdays and i have gone drinking out on thursdays and i feel horrible the next day and { i'm like why did i do that } / <A> [ wow ]",
+    "context_text": "<B> interesting to know that other people think ah you know think the same things like i said i would think that someone similar to my age group would probably think ah opposite / <A> uh-huh / <B> because i know i in um i work in the in the finance industry and it's very common for after work for people to go out for drinks like thursday's a big thing to go out / <A> uh-huh / <B> and um and it's not for me to me i can thursdays i still have to go to work on friday and / <A> yeah / <B> i i have gone out on thursdays and i have gone drinking out on thursdays and i feel horrible the next day and { i'm like why did i do that } / <A> [ oh ]",
     "context_start": 458.7,
-    "context_end": 497.11400000000003,
+    "context_end": 497.05775,
     "feedback": [
         {
-            "name": "NS_025_oh",
+            "name": "spontE_227_uh-huh",
             "start": 470.99,
-            "end": 471.970375,
-            "token": "oh"
+            "end": 471.411625,
+            "token": "uh-huh"
         },
         {
-            "name": "spontA_093_uh-huh",
+            "name": "spontE_038_uh-huh",
             "start": 482.34,
-            "end": 482.881375,
+            "end": 482.758875,
             "token": "uh-huh"
         },
         {
-            "name": "spontF_359_uh-huh",
+            "name": "spontF_547_yeah",
             "start": 488.99,
-            "end": 489.64225,
-            "token": "uh-huh"
+            "end": 489.383625,
+            "token": "yeah"
         },
         {
-            "name": "PS_141_wow",
+            "name": "PS_012_oh",
             "start": 495.36,
-            "end": 497.11400000000003,
-            "token": "wow"
+            "end": 497.05775,
+            "token": "oh"
         }
     ]
 }

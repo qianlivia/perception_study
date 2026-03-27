@@ -1,9 +1,9 @@
 {
     "name": "fe_03_03776",
     "context_channel": 1,
-    "context_text": "<A> well you see humor's i think humor is much more complex than that it's not just um laughing at something there's an um there's actually a a a regimented set of events that you can um canonize logically / <B> mhm / <A> that that represent what makes a humorous thing and it's actually um it's a i believe { like } / <B> [ okay ] / <A> a like a lot of people um well like a lot of academics that it's really it's it's a it's an archetype of of human intelligence / <B> uh-huh / <A> to a large degree { there's } / <B> [ okay ]",
+    "context_text": "<A> well you see humor's i think humor is much more complex than that it's not just um laughing at something there's an um there's actually a a a regimented set of events that you can um canonize logically / <B> mhm / <A> that that represent what makes a humorous thing and it's actually um it's a i believe { like } / <B> [ uh-huh ] / <A> a like a lot of people um well like a lot of academics that it's really it's it's a it's an archetype of of human intelligence / <B> uh-huh / <A> to a large degree { there's } / <B> [ wow ]",
     "context_start": 287.01,
-    "context_end": 325.07112500000005,
+    "context_end": 325.577125,
     "feedback": [
         {
             "name": "spontA_120_mhm",
@@ -12,22 +12,22 @@
             "token": "mhm"
         },
         {
-            "name": "spontB_028_okay",
+            "name": "spontC_013_uh-huh",
             "start": 310.56,
-            "end": 310.99325,
-            "token": "okay"
-        },
-        {
-            "name": "spontF_635_uh-huh",
-            "start": 322.28,
-            "end": 322.74775,
+            "end": 311.054875,
             "token": "uh-huh"
         },
         {
-            "name": "spontC_172_okay",
+            "name": "spontA_093_uh-huh",
+            "start": 322.28,
+            "end": 322.821375,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PS_092_wow",
             "start": 324.66,
-            "end": 325.07112500000005,
-            "token": "okay"
+            "end": 325.577125,
+            "token": "wow"
         }
     ]
 }

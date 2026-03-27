@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00065",
+    "context_channel": 1,
+    "context_text": "<A> i and then i moved and i went to grad school / <B> uh-huh / <A> and i met all these people that smoked and it was just so easy to { just } / <B> [ yeah ] / <A> go right back into it / <B> yeah",
+    "context_start": 157.77,
+    "context_end": 165.63025,
+    "feedback": [
+        {
+            "name": "spontE_282_uh-huh",
+            "start": 160.06,
+            "end": 160.53725,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_074_yeah",
+            "start": 163.31,
+            "end": 164.211875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_140_yeah",
+            "start": 165.09,
+            "end": 165.63025,
+            "token": "yeah"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04379",
+    "context_channel": 1,
+    "context_text": "<A> yeah but ah i had a boyfriend in washington { i was } / <B> [ uh-huh ] / <A> in washington for a while and i had a boyfriend that i i really did care about / <B> uh-huh / <A> but he didn't like he didn't like it because i went to church he told me told me he would take me to church and he took me a couple of times / <B> yeah",
+    "context_start": 512.09,
+    "context_end": 531.7966250000001,
+    "feedback": [
+        {
+            "name": "spontD_106_uh-huh",
+            "start": 517.74,
+            "end": 518.1775,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontB_188_uh-huh",
+            "start": 523.22,
+            "end": 523.750125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_360_yeah",
+            "start": 531.24,
+            "end": 531.7966250000001,
+            "token": "yeah"
+        }
+    ]
+}

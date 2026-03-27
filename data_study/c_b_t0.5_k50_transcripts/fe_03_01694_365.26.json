@@ -1,38 +1,38 @@
 {
     "name": "fe_03_01694",
     "context_channel": 0,
-    "context_text": "<B> [ uh-huh mhm cough when they ] flashed em on tv { and } / <A> [ oh ] / <B> people saw em / <A> yeah / <B> and then sh and you know just uh walked them oh oh i didn't see any of that but i got you know little words and things { on } / <A> [ yeah ] / <B> my computer and from different ti { when } / <A> [ uh-huh ] / <B> i heard on you know the news and everything / <A> yeah",
+    "context_text": "<B> uh-huh mhm when they flashed em on tv { and } / <A> [ yeah ] / <B> people saw em / <A> yeah / <B> and then sh and you know just uh walked them oh oh i didn't see any of that but i got you know little words and things { on } / <A> [ yeah ] / <B> my computer and from different ti { when } / <A> [ yeah ] / <B> i heard on you know the news and everything / <A> yeah",
     "context_start": 365.26,
-    "context_end": 386.373125,
+    "context_end": 386.198375,
     "feedback": [
         {
-            "name": "spontE_295_oh",
+            "name": "spontC_139_yeah",
             "start": 369.13,
-            "end": 369.874125,
-            "token": "oh"
+            "end": 369.736375,
+            "token": "yeah"
         },
         {
-            "name": "spontD_365_yeah",
+            "name": "spontC_135_yeah",
             "start": 370.74,
-            "end": 371.59625,
+            "end": 371.42762500000003,
             "token": "yeah"
         },
         {
-            "name": "spontD_049_yeah",
+            "name": "spontA_117_yeah",
             "start": 379.74,
-            "end": 380.379125,
+            "end": 380.379,
             "token": "yeah"
         },
         {
-            "name": "PR_053_uh-huh",
+            "name": "sun1_011_yeah",
             "start": 382.47,
-            "end": 383.33750000000003,
-            "token": "uh-huh"
+            "end": 383.13587500000006,
+            "token": "yeah"
         },
         {
-            "name": "PR_055_yeah",
+            "name": "spontF_295_yeah",
             "start": 385.68,
-            "end": 386.373125,
+            "end": 386.198375,
             "token": "yeah"
         }
     ]

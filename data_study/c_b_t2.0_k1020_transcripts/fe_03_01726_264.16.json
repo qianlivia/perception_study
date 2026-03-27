@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01726",
+    "context_channel": 0,
+    "context_text": "<B> oh sorry i i was just going to say that you know i think that he mainly hit the world trade centers because it a lot of people take a lot of pride in new york { city } / <A> [ mhm ] / <B> even though it is a dirty city / <A> wow / <B> for the most part there are a lot of things there to be proud of like the statue and { you } / <A> [ mhm ] / <B> know the world trade center it kind of stands for america / <A> yeah",
+    "context_start": 264.16,
+    "context_end": 283.61962500000004,
+    "feedback": [
+        {
+            "name": "spontA_395_mhm",
+            "start": 273.11,
+            "end": 273.724625,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_135_wow",
+            "start": 275.52,
+            "end": 276.76037499999995,
+            "token": "wow"
+        },
+        {
+            "name": "spontA_400_mhm",
+            "start": 280.01,
+            "end": 280.8305,
+            "token": "mhm"
+        },
+        {
+            "name": "spontB_385_yeah",
+            "start": 283.17,
+            "end": 283.61962500000004,
+            "token": "yeah"
+        }
+    ]
+}

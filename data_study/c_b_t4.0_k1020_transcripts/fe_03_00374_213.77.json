@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_00374",
+    "context_channel": 0,
+    "context_text": "<B> yeah th that's cool yeah i know i know the city quite well { although } / <A> [ mhm ] / <B> i'm not sure that ah i'd like to live there i don't think / <A> right / <B> but um i've go gotten too used to the ah too used to the sunshine / <A> uh-huh / <B> oh very good yeah we have um we have ah down here we actually live out in the country so { we're } / <A> [ mhm ] / <B> we're out out in the west almost out in the everglades so we've { got plenty of 'em } / <A> [ uh-huh ]",
+    "context_start": 213.77,
+    "context_end": 238.05112499999998,
+    "feedback": [
+        {
+            "name": "sun1_008_mhm",
+            "start": 217.49,
+            "end": 218.096,
+            "token": "mhm"
+        },
+        {
+            "name": "sun_028_right",
+            "start": 220.66,
+            "end": 221.389375,
+            "token": "right"
+        },
+        {
+            "name": "spontC_358_uh-huh",
+            "start": 225.7,
+            "end": 226.285,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_147_mhm",
+            "start": 234.29,
+            "end": 234.76325,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_196_uh-huh",
+            "start": 237.45,
+            "end": 238.05112499999998,
+            "token": "uh-huh"
+        }
+    ]
+}

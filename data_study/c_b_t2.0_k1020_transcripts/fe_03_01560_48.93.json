@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_01560",
+    "context_channel": 1,
+    "context_text": "<A> are you really i'm not / <B> wow / <A> obviously in indiana it's just something i found on the internet / <B> oh / <A> but a way to make a little money i know um this is my second call the other one i had a university of penn student as well / <B> wow",
+    "context_start": 48.93,
+    "context_end": 62.181,
+    "feedback": [
+        {
+            "name": "PS_190_wow",
+            "start": 50.01,
+            "end": 51.366875,
+            "token": "wow"
+        },
+        {
+            "name": "PS_111_oh",
+            "start": 54.31,
+            "end": 55.094375,
+            "token": "oh"
+        },
+        {
+            "name": "PS_116_wow",
+            "start": 61.22,
+            "end": 62.181,
+            "token": "wow"
+        }
+    ]
+}

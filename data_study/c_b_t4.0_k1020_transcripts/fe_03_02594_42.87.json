@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_02594",
+    "context_channel": 1,
+    "context_text": "<A> [ um ] i i think that i think that it is important / <B> yeah / <A> that that the world be safe / <B> uh-huh / <A> but i think that that america is creating a lot of people hating us / <B> yeah / <A> because we're always butting into everybody's business / <B> mhm / <A> like the uninvited mother in law or something like that is / <B> oh",
+    "context_start": 42.87,
+    "context_end": 65.867625,
+    "feedback": [
+        {
+            "name": "spontA_355_yeah",
+            "start": 48.87,
+            "end": 49.479124999999996,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_026_uh-huh",
+            "start": 52.35,
+            "end": 52.817875,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontB_100_yeah",
+            "start": 58.38,
+            "end": 59.05425,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_314_mhm",
+            "start": 61.26,
+            "end": 61.800875,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_465_oh",
+            "start": 65.2,
+            "end": 65.867625,
+            "token": "oh"
+        }
+    ]
+}

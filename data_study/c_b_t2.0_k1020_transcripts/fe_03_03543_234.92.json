@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03543",
+    "context_channel": 1,
+    "context_text": "<A> so oh my gosh minimum wage then was yeah really bad / <B> mhm / <A> i was at like four and a quarter / <B> mhm / <A> you know but and then you've got minimum wage but they're always talking about raising it { but } / <B> [ mhm ] / <A> then the other jobs aren't going to raise their pay accordingly / <B> uh-huh",
+    "context_start": 234.92,
+    "context_end": 254.457875,
+    "feedback": [
+        {
+            "name": "spontC_327_mhm",
+            "start": 240.3,
+            "end": 240.81225,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_147_mhm",
+            "start": 242.91,
+            "end": 243.38325,
+            "token": "mhm"
+        },
+        {
+            "name": "spontD_344_mhm",
+            "start": 248.46,
+            "end": 248.975875,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_571_uh-huh",
+            "start": 253.92,
+            "end": 254.457875,
+            "token": "uh-huh"
+        }
+    ]
+}

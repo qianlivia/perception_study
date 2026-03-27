@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04553",
+    "context_channel": 0,
+    "context_text": "<B> or bob or tyrone / <A> mhm / <B> that's what your gpa / <A> wow / <B> but there's a whole lot of emphasis on this many uh on numbers very / <A> wow",
+    "context_start": 382.49,
+    "context_end": 393.06325,
+    "feedback": [
+        {
+            "name": "spontA_075_mhm",
+            "start": 385.47,
+            "end": 386.07825,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_118_wow",
+            "start": 387.56,
+            "end": 389.2195,
+            "token": "wow"
+        },
+        {
+            "name": "NegS_056_wow",
+            "start": 391.96,
+            "end": 393.06325,
+            "token": "wow"
+        }
+    ]
+}

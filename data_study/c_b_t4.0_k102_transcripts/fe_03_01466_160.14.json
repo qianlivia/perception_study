@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01466",
+    "context_channel": 1,
+    "context_text": "<A> well i well like it it's like uh i was thinking about doing the rotc too / <B> uh-huh / <A> but that just like i wa i wanted to and i thought i'd do it before my mission { but } / <B> [ okay ] / <A> when things came um up most likely if i were to join the rotc then i'd would of had to stay here and not be able to serve a mission / <B> okay / <A> so i i wanted to serve my mission first and probably join when i get back { or } / <B> [ oh ]",
+    "context_start": 160.14,
+    "context_end": 187.069875,
+    "feedback": [
+        {
+            "name": "spontA_069_uh-huh",
+            "start": 166.07,
+            "end": 166.564875,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontB_195_okay",
+            "start": 171.45,
+            "end": 172.1195,
+            "token": "okay"
+        },
+        {
+            "name": "spontD_386_okay",
+            "start": 181.36,
+            "end": 182.06300000000002,
+            "token": "okay"
+        },
+        {
+            "name": "PS_180_oh",
+            "start": 185.94,
+            "end": 187.069875,
+            "token": "oh"
+        }
+    ]
+}

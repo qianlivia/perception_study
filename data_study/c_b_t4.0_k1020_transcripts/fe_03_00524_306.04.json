@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00524",
+    "context_channel": 0,
+    "context_text": "<B> they would not drink / <A> uh-huh / <B> of course aversion therapy doesn't really work on alcoholics so / <A> yeah / <B> you know um because they're used to being ill from the effects of drinking { so } / <A> [ yeah ]",
+    "context_start": 306.04,
+    "context_end": 317.740125,
+    "feedback": [
+        {
+            "name": "spontA_158_uh-huh",
+            "start": 307.16,
+            "end": 307.68237500000004,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_140_yeah",
+            "start": 311.27,
+            "end": 312.08,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_211_yeah",
+            "start": 317.07,
+            "end": 317.740125,
+            "token": "yeah"
+        }
+    ]
+}

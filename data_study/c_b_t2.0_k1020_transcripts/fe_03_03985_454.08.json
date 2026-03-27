@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03985",
+    "context_channel": 1,
+    "context_text": "<A> he was classic i mean / <B> wow / <A> it was many years later that i realized how good he was and then i had to see anything i could with him you know / <B> mhm / <A> and bob hope / <B> uh-huh",
+    "context_start": 454.08,
+    "context_end": 465.06175,
+    "feedback": [
+        {
+            "name": "NegS_008_wow",
+            "start": 455.15,
+            "end": 456.10549999999995,
+            "token": "wow"
+        },
+        {
+            "name": "spontC_212_mhm",
+            "start": 462.26,
+            "end": 462.74375,
+            "token": "mhm"
+        },
+        {
+            "name": "spontD_021_uh-huh",
+            "start": 464.61,
+            "end": 465.06175,
+            "token": "uh-huh"
+        }
+    ]
+}

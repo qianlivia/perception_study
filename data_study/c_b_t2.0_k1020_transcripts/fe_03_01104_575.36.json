@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_01104",
+    "context_channel": 1,
+    "context_text": "<A> eating at her house but because she accepted money { it was } / <B> [ yeah ] / <A> considered a business / <B> yeah / <A> you know then taxes ca you know irs came after her { because they found } / <B> [ mhm ]",
+    "context_start": 575.36,
+    "context_end": 585.139,
+    "feedback": [
+        {
+            "name": "spontC_076_yeah",
+            "start": 578.69,
+            "end": 579.3776250000001,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_290_yeah",
+            "start": 580.78,
+            "end": 581.574125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_241_mhm",
+            "start": 584.59,
+            "end": 585.139,
+            "token": "mhm"
+        }
+    ]
+}

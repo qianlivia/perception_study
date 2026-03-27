@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_00058",
+    "context_channel": 0,
+    "context_text": "<B> well i have a sister in law that she doesn't want to quit because of that / <A> wow / <B> you know she doesn't want to gain weight so uh / <A> uh-huh / <B> but it's affecting her health or it will / <A> uh-huh / <B> eventually and / <A> yeah / <B> i don't want to see her you know get sick or cancer whatever but / <A> mhm",
+    "context_start": 345.58,
+    "context_end": 367.392375,
+    "feedback": [
+        {
+            "name": "PS_119_wow",
+            "start": 351.67,
+            "end": 353.5125,
+            "token": "wow"
+        },
+        {
+            "name": "spontC_371_uh-huh",
+            "start": 356.12,
+            "end": 356.598125,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontD_152_uh-huh",
+            "start": 358.51,
+            "end": 359.066375,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontB_299_yeah",
+            "start": 360.38,
+            "end": 361.0395,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_281_mhm",
+            "start": 366.49,
+            "end": 367.392375,
+            "token": "mhm"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_05134",
+    "context_channel": 1,
+    "context_text": "<A> she's she's got obviously learned some skills from the computer but i don't i don't know that she's you know i don't think that she's you know know she hasn't been taught you know microsoft programs / <B> yeah / <A> or you know word or excel for example things { that you } / <B> [ wow ] / <A> probably could use some day in your workplace i mean { i } / <B> [ uh-huh ] / <A> i use those in my workplace / <B> yeah",
+    "context_start": 355.99,
+    "context_end": 378.28549999999996,
+    "feedback": [
+        {
+            "name": "spontA_437_yeah",
+            "start": 370.04,
+            "end": 370.79562500000003,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_097_wow",
+            "start": 372.53,
+            "end": 372.97412499999996,
+            "token": "wow"
+        },
+        {
+            "name": "spontA_051_uh-huh",
+            "start": 375.73,
+            "end": 376.28925000000004,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_020_yeah",
+            "start": 377.77,
+            "end": 378.28549999999996,
+            "token": "yeah"
+        }
+    ]
+}

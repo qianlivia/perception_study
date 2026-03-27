@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00280",
+    "context_channel": 0,
+    "context_text": "<B> um i actually didn't fly often at all over a year and a half ago i / <A> yeah / <B> almost never so this has actually been mostly in the last year so i don't notice a difference only 'cause i don't / <A> uh-huh / <B> really have much to compare it to um but i usually i'll get there probably between and hour and an hour and a half before my flight and have no problem getting { in no } / <A> [ yeah ] / <B> matter what time of day it is / <A> yeah",
+    "context_start": 518.46,
+    "context_end": 544.139625,
+    "feedback": [
+        {
+            "name": "spontB_374_yeah",
+            "start": 526.04,
+            "end": 526.725375,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_038_uh-huh",
+            "start": 531.86,
+            "end": 532.278875,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_414_yeah",
+            "start": 541.41,
+            "end": 541.887875,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_024_yeah",
+            "start": 543.4,
+            "end": 544.139625,
+            "token": "yeah"
+        }
+    ]
+}

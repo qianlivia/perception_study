@@ -1,9 +1,9 @@
 {
     "name": "fe_03_02113",
     "context_channel": 1,
-    "context_text": "<A> well see our this when you live uh in florida in a retirement community they're all displaced northerners / <B> okay / <A> so generally all of our families are still up north / <B> okay / <A> and that's a good bonding when when holidays come and { uh } / <B> [ oh ] / <A> everybody gets together because most of us aren't with our family so / <B> okay / <A> our friends down here become an extension of your family { just } / <B> [ wow ] / <A> because family is always so far away / <B> wow / <A> almost everybody that retires here is from up north in cold weather / <B> okay",
+    "context_text": "<A> well see our this when you live uh in florida in a retirement community they're all displaced northerners / <B> okay / <A> so generally all of our families are still up north / <B> okay / <A> and that's a good bonding when when holidays come and { uh } / <B> [ oh ] / <A> everybody gets together because most of us aren't with our family so / <B> okay / <A> our friends down here become an extension of your family { just } / <B> [ wow ] / <A> because family is always so far away / <B> yeah / <A> almost everybody that retires here is from up north in cold weather / <B> okay",
     "context_start": 420.12,
-    "context_end": 459.21562500000005,
+    "context_end": 459.217125,
     "feedback": [
         {
             "name": "spontC_511_okay",
@@ -12,9 +12,9 @@
             "token": "okay"
         },
         {
-            "name": "spontD_383_okay",
+            "name": "spontD_073_okay",
             "start": 432.36,
-            "end": 433.031375,
+            "end": 433.101125,
             "token": "okay"
         },
         {
@@ -36,15 +36,15 @@
             "token": "wow"
         },
         {
-            "name": "PS_100_wow",
+            "name": "spontD_172_yeah",
             "start": 453.14,
-            "end": 454.136625,
-            "token": "wow"
+            "end": 453.9335,
+            "token": "yeah"
         },
         {
-            "name": "spontC_017_okay",
+            "name": "spontC_134_okay",
             "start": 458.41,
-            "end": 459.21562500000005,
+            "end": 459.217125,
             "token": "okay"
         }
     ]

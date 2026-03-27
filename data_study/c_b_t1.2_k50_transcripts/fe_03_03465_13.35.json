@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03465",
+    "context_channel": 1,
+    "context_text": "<A> um they're talking about what's the most important thing in a life partner / <B> right / <A> and i'm thirty about to be thirty five i've been { with } / <B> [ okay ] / <A> the same girl for more than twelve years / <B> wow / <A> we're still not married / <B> okay",
+    "context_start": 13.35,
+    "context_end": 29.432000000000002,
+    "feedback": [
+        {
+            "name": "sun_028_right",
+            "start": 18.9,
+            "end": 19.629375,
+            "token": "right"
+        },
+        {
+            "name": "spontB_120_okay",
+            "start": 23.27,
+            "end": 23.971,
+            "token": "okay"
+        },
+        {
+            "name": "PS_074_wow",
+            "start": 26.99,
+            "end": 27.82725,
+            "token": "wow"
+        },
+        {
+            "name": "spontC_286_okay",
+            "start": 28.78,
+            "end": 29.432000000000002,
+            "token": "okay"
+        }
+    ]
+}

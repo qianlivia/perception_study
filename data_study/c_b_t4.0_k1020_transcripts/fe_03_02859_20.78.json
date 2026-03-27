@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02859",
+    "context_channel": 1,
+    "context_text": "<A> i was gonna say i i watch a lot a lot of sports with my husband / <B> wow / <A> and uh when football 's on he seems to be glued to the set / <B> yeah / <A> um same with basketball but i think i can understand basketball a little easier / <B> uh-huh",
+    "context_start": 20.78,
+    "context_end": 32.160625,
+    "feedback": [
+        {
+            "name": "PS_171_wow",
+            "start": 23.48,
+            "end": 25.624875,
+            "token": "wow"
+        },
+        {
+            "name": "spontA_210_yeah",
+            "start": 27.38,
+            "end": 28.37325,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_032_uh-huh",
+            "start": 31.59,
+            "end": 32.160625,
+            "token": "uh-huh"
+        }
+    ]
+}

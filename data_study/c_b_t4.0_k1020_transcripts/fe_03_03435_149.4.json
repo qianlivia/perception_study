@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03435",
+    "context_channel": 0,
+    "context_text": "<B> about yourse well think / <A> wow / <B> about yourself but don't think / <A> wow / <B> about just yourself you have { to think } / <A> [ uh-huh ]",
+    "context_start": 149.4,
+    "context_end": 154.70712500000002,
+    "feedback": [
+        {
+            "name": "PS_076_wow",
+            "start": 150.46,
+            "end": 151.8015,
+            "token": "wow"
+        },
+        {
+            "name": "NegS_008_wow",
+            "start": 152.14,
+            "end": 153.0955,
+            "token": "wow"
+        },
+        {
+            "name": "spontA_115_uh-huh",
+            "start": 154.21,
+            "end": 154.70712500000002,
+            "token": "uh-huh"
+        }
+    ]
+}

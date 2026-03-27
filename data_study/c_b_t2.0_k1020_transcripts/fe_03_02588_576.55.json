@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02588",
+    "context_channel": 1,
+    "context_text": "<A> move there i'm like why / <B> oh / <A> i was there in august one time / <B> mhm / <A> and we were camping down along the uh rural islands there off the gulf / <B> mhm",
+    "context_start": 576.55,
+    "context_end": 589.6241249999999,
+    "feedback": [
+        {
+            "name": "PS_027_oh",
+            "start": 578.29,
+            "end": 579.560625,
+            "token": "oh"
+        },
+        {
+            "name": "spontB_154_mhm",
+            "start": 581.34,
+            "end": 581.939125,
+            "token": "mhm"
+        },
+        {
+            "name": "spontE_171_mhm",
+            "start": 589.03,
+            "end": 589.6241249999999,
+            "token": "mhm"
+        }
+    ]
+}

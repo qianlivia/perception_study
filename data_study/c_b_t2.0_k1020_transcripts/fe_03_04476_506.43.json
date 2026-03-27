@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04476",
+    "context_channel": 0,
+    "context_text": "<B> well she she was trained to handle special situations but unfortunately she had all different special situations and she { couldn't } / <A> [ uh-huh ] / <B> give anyone the / <A> yeah / <B> attention that they needed if she spent her time with the child who couldn't speak english well everyone else was sitting and waiting so um it had gotten to the point where my daughter had to leave the classroom to go for special reading classes / <A> uh-huh / <B> because uh she wasn't doing anything she was sitting / <A> mhm",
+    "context_start": 506.43,
+    "context_end": 533.9445,
+    "feedback": [
+        {
+            "name": "spontF_581_uh-huh",
+            "start": 513.0,
+            "end": 513.485875,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontE_269_yeah",
+            "start": 514.93,
+            "end": 515.724125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_329_uh-huh",
+            "start": 529.2,
+            "end": 529.928,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontA_200_mhm",
+            "start": 533.37,
+            "end": 533.9445,
+            "token": "mhm"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00747",
+    "context_channel": 1,
+    "context_text": "<A> holy cow i was sitting there one day and i said this is a cartoon / <B> mhm / <A> i said you know what if i was a kid nowadays that would not even hold my attention / <B> oh / <A> i said i don't even know what a kid gets out of that and ah now when i was a kid we had the greatest cartoons in the world we had road runner bugs bunny / <B> mhm / <A> tweety and sylvester / <B> yeah",
+    "context_start": 520.39,
+    "context_end": 542.20775,
+    "feedback": [
+        {
+            "name": "spontC_284_mhm",
+            "start": 526.24,
+            "end": 526.757875,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_015_oh",
+            "start": 530.82,
+            "end": 531.8815000000001,
+            "token": "oh"
+        },
+        {
+            "name": "PR_046_mhm",
+            "start": 539.92,
+            "end": 540.85975,
+            "token": "mhm"
+        },
+        {
+            "name": "spontE_276_yeah",
+            "start": 541.74,
+            "end": 542.20775,
+            "token": "yeah"
+        }
+    ]
+}

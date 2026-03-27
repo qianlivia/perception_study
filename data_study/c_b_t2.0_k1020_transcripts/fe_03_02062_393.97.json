@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02062",
+    "context_channel": 1,
+    "context_text": "<A> like i used to my parents are actually they're both teachers um when we were little like they've always been really good at like making a buck stretch / <B> okay / <A> and they used to um gather students and go skiing with students in the french alps / <B> wow / <A> um but they would do it so that like you know if if you buy ten tickets you get one free kinda thing like { with all } / <B> [ yeah ] / <A> these airlines so basically we would go skiing through the french alps for three weeks for for { like two } / <B> [ yeah ]",
+    "context_start": 393.97,
+    "context_end": 419.45599999999996,
+    "feedback": [
+        {
+            "name": "spontC_134_okay",
+            "start": 402.18,
+            "end": 402.987125,
+            "token": "okay"
+        },
+        {
+            "name": "PS_011_wow",
+            "start": 408.15,
+            "end": 409.394,
+            "token": "wow"
+        },
+        {
+            "name": "spontF_520_yeah",
+            "start": 413.95,
+            "end": 414.62512499999997,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_340_yeah",
+            "start": 418.65,
+            "end": 419.45599999999996,
+            "token": "yeah"
+        }
+    ]
+}

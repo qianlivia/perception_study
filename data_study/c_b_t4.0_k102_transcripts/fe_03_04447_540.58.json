@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_04447",
+    "context_channel": 1,
+    "context_text": "<A> so the medical field { uh } / <B> [ wow ] / <A> for women / <B> wow / <A> is is a tremendous tremendous field in opportunity / <B> oh / <A> and and it's basic i have a son that has special needs / <B> uh-huh / <A> and so one of us had had to be around twenty four seven { and and it } / <B> [ wow ]",
+    "context_start": 540.58,
+    "context_end": 554.54225,
+    "feedback": [
+        {
+            "name": "PS_146_wow",
+            "start": 541.88,
+            "end": 543.03825,
+            "token": "wow"
+        },
+        {
+            "name": "NegS_044_wow",
+            "start": 543.53,
+            "end": 544.637,
+            "token": "wow"
+        },
+        {
+            "name": "Sy_006_oh",
+            "start": 546.64,
+            "end": 548.002875,
+            "token": "oh"
+        },
+        {
+            "name": "spontA_041_uh-huh",
+            "start": 549.66,
+            "end": 550.22375,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PS_093_wow",
+            "start": 553.61,
+            "end": 554.54225,
+            "token": "wow"
+        }
+    ]
+}

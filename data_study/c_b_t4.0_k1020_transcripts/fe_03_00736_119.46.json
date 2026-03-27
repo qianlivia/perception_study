@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_00736",
+    "context_channel": 1,
+    "context_text": "<A> have you ever uh seen eddie izzard / <B> yeah / <A> oh he is really really cool he's { an intelligent } / <B> [ yeah ] / <A> and wise comedian as well he talks about the history and { he's not } / <B> [ yeah ] / <A> he doesn't go over the line / <B> yeah / <A> you know as far as like sexual or pointing like fingers at certain social or ethnic groups and stuff like that yeah he's really cool / <B> mhm",
+    "context_start": 119.46,
+    "context_end": 135.95,
+    "feedback": [
+        {
+            "name": "PR_035_yeah",
+            "start": 121.46,
+            "end": 122.258625,
+            "token": "yeah"
+        },
+        {
+            "name": "PR_062_yeah",
+            "start": 123.66,
+            "end": 124.17224999999999,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_124_yeah",
+            "start": 127.24,
+            "end": 127.88125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_570_yeah",
+            "start": 128.59,
+            "end": 129.471125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_070_mhm",
+            "start": 135.42,
+            "end": 135.95,
+            "token": "mhm"
+        }
+    ]
+}

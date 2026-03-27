@@ -1,9 +1,9 @@
 {
     "name": "fe_03_04260",
     "context_channel": 1,
-    "context_text": "<A> bad problems with my shoulder and arm i banged it to the shield windshield and { had a lot of } / <B> [ wow ] / <A> a lot of nerve pain and stuff like that for for six months or a { year } / <B> [ wow ] / <A> well actually i still have it now { it's something that } / <B> [ wow ]",
+    "context_text": "<A> bad problems with my shoulder and arm i banged it to the shield windshield and { had a lot of } / <B> [ wow ] / <A> a lot of nerve pain and stuff like that for for six months or a { year } / <B> [ oh ] / <A> well actually i still have it now { it's something that } / <B> [ wow ]",
     "context_start": 532.94,
-    "context_end": 544.9968749999999,
+    "context_end": 544.7982499999999,
     "feedback": [
         {
             "name": "PS_187_wow",
@@ -12,15 +12,15 @@
             "token": "wow"
         },
         {
-            "name": "PS_076_wow",
+            "name": "PS_104_oh",
             "start": 541.4,
-            "end": 542.7415,
-            "token": "wow"
+            "end": 542.1358749999999,
+            "token": "oh"
         },
         {
-            "name": "PS_190_wow",
+            "name": "PS_146_wow",
             "start": 543.64,
-            "end": 544.9968749999999,
+            "end": 544.7982499999999,
             "token": "wow"
         }
     ]

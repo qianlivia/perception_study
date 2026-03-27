@@ -1,32 +1,32 @@
 {
     "name": "fe_03_00160",
     "context_channel": 1,
-    "context_text": "<A> [ mhm and yeah ] and there is another stuff i don't know if you know about the kurdish problem we have in { the } / <B> [ uh-huh ] / <A> east and like ah you know the kurdish terrorist is now caught and he is captured and in prison but like um um when america you know invades iraq and changes the type of government / <B> uh-huh / <A> these kurdish people are going to stand up and say we want our piece of land in iraq / <B> yeah / <A> so like um they will have a kind of you know like um country / <B> yeah",
+    "context_text": "<A> mhm and yeah and there is another stuff i don't know if you know about the kurdish problem we have in { the } / <B> [ mhm ] / <A> east and like ah you know the kurdish terrorist is now caught and he is captured and in prison but like um um when america you know invades like iraq and changes the uh type of the uh government / <B> yeah / <A> these kurdish people are going to stand up and say we want our piece of land in iraq / <B> yeah / <A> so like um they will have a kind of you know like um country / <B> yeah",
     "context_start": 467.59,
-    "context_end": 504.42775,
+    "context_end": 504.6475,
     "feedback": [
         {
-            "name": "spontE_089_uh-huh",
+            "name": "spontA_058_mhm",
             "start": 475.38,
-            "end": 475.850625,
-            "token": "uh-huh"
+            "end": 475.883875,
+            "token": "mhm"
         },
         {
-            "name": "spontA_086_uh-huh",
+            "name": "spontD_142_yeah",
             "start": 491.56,
-            "end": 492.070125,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontC_138_yeah",
-            "start": 497.87,
-            "end": 498.367375,
+            "end": 492.03725000000003,
             "token": "yeah"
         },
         {
-            "name": "spontE_276_yeah",
+            "name": "spontA_335_yeah",
+            "start": 497.87,
+            "end": 498.537125,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_198_yeah",
             "start": 503.96,
-            "end": 504.42775,
+            "end": 504.6475,
             "token": "yeah"
         }
     ]

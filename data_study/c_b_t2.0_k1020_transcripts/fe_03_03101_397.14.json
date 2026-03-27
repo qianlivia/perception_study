@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03101",
+    "context_channel": 1,
+    "context_text": "<A> and he was like well there's nothing we can do till we hear back from that guy / <B> uh-huh / <A> and i gave the guy our name and number and / <B> wow / <A> i mean i can only say i'm sorry a hundred times / <B> yeah",
+    "context_start": 397.14,
+    "context_end": 407.76625,
+    "feedback": [
+        {
+            "name": "spontA_329_uh-huh",
+            "start": 400.95,
+            "end": 401.678,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PS_142_wow",
+            "start": 403.22,
+            "end": 404.54875000000004,
+            "token": "wow"
+        },
+        {
+            "name": "spontD_365_yeah",
+            "start": 406.91,
+            "end": 407.76625,
+            "token": "yeah"
+        }
+    ]
+}

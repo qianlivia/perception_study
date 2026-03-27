@@ -1,9 +1,9 @@
 {
     "name": "fe_03_02019",
     "context_channel": 1,
-    "context_text": "<A> well i know there was where we live there's like four walmarts within half hour of us you go each direction / <B> oh / <A> and the walmart one way they had to throw all their um frozen stuff and their refrigerated stuff out they had to throw all that out because they didn't have electric and then the other walmarts they got their electric back like in a day so their stuff was all right / <B> wow / <A> so i mean they may have lost the money if they had that happen at very many stores / <B> yeah / <A> but most of the towns had their electric back on within a day or two / <B> yeah / <A> and we live out in the country and / <B> okay / <A> and everything s / <B> uh-huh",
+    "context_text": "<A> well i know there was where we live there's like four walmarts within half hour of us you go each direction / <B> oh / <A> and the walmart one way they had to throw all their um frozen stuff and their refrigerated stuff out they had to throw all that out because they didn't have electric and then the other walmarts they got their electric back like in a day so their stuff was all right / <B> yeah / <A> so i mean they may have lost the money if they had that happen at very many stores / <B> yeah / <A> but most of the towns had their electric back on within a day or two / <B> yeah / <A> and we live out in the country and / <B> yeah / <A> and everything s / <B> yeah",
     "context_start": 450.94,
-    "context_end": 489.110625,
+    "context_end": 489.390125,
     "feedback": [
         {
             "name": "PS_111_oh",
@@ -12,34 +12,34 @@
             "token": "oh"
         },
         {
-            "name": "NegS_056_wow",
+            "name": "spontF_295_yeah",
             "start": 473.43,
-            "end": 474.53325,
-            "token": "wow"
+            "end": 473.948375,
+            "token": "yeah"
         },
         {
-            "name": "spontC_354_yeah",
+            "name": "spontB_143_yeah",
             "start": 478.44,
-            "end": 479.164,
+            "end": 479.116125,
             "token": "yeah"
         },
         {
-            "name": "spontA_208_yeah",
+            "name": "spontA_284_yeah",
             "start": 483.22,
-            "end": 484.01412500000004,
+            "end": 483.97150000000005,
             "token": "yeah"
         },
         {
-            "name": "spontD_386_okay",
+            "name": "spontD_393_yeah",
             "start": 486.87,
-            "end": 487.573,
-            "token": "okay"
+            "end": 487.371875,
+            "token": "yeah"
         },
         {
-            "name": "spontD_047_uh-huh",
+            "name": "spontE_274_yeah",
             "start": 488.66,
-            "end": 489.110625,
-            "token": "uh-huh"
+            "end": 489.390125,
+            "token": "yeah"
         }
     ]
 }

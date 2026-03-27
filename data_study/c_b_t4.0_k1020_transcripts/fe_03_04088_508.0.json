@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04088",
+    "context_channel": 0,
+    "context_text": "<B> don't you know it seems like craft stores are like populated everywhere though / <A> mhm / <B> unless you could come up with the unique craft / <A> uh-huh / <B> something that no one else has / <A> uh-huh",
+    "context_start": 508.0,
+    "context_end": 517.377875,
+    "feedback": [
+        {
+            "name": "spontA_314_mhm",
+            "start": 512.11,
+            "end": 512.703875,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_379_uh-huh",
+            "start": 514.86,
+            "end": 515.32525,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_263_uh-huh",
+            "start": 516.78,
+            "end": 517.377875,
+            "token": "uh-huh"
+        }
+    ]
+}
