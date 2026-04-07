@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02840",
+    "context_channel": 1,
+    "context_text": "<A> and because of the fans and the fans love the game / <B> mhm / <A> not for the money { but } / <B> [ right ] / <A> obviously / <B> mhm",
+    "context_start": 186.96,
+    "context_end": 192.19,
+    "feedback": [
+        {
+            "name": "fe_03_01494_475.08",
+            "start": 189.59,
+            "end": 189.89000000000001,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_01586_419.51",
+            "start": 191.23,
+            "end": 191.75,
+            "token": "right"
+        },
+        {
+            "name": "fe_03_03945_387.15",
+            "start": 191.9,
+            "end": 192.19,
+            "token": "mhm"
+        }
+    ]
+}

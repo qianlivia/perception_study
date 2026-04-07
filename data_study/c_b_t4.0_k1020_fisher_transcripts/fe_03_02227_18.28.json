@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02227",
+    "context_channel": 1,
+    "context_text": "<A> don't have to cook it and i don't have to clean it up / <B> right / <A> and it might be something that i don't know how to prepare / <B> right / <A> i do like that and it's { kind } / <B> [ okay ] / <A> of a treat but sometimes it seems like a lot of effort to go out to eat / <B> okay",
+    "context_start": 18.28,
+    "context_end": 31.490000000000002,
+    "feedback": [
+        {
+            "name": "fe_03_04442_157.35",
+            "start": 20.51,
+            "end": 20.94,
+            "token": "right"
+        },
+        {
+            "name": "fe_03_03451_379.97",
+            "start": 23.81,
+            "end": 24.299999999999997,
+            "token": "right"
+        },
+        {
+            "name": "fe_03_04447_549.66",
+            "start": 25.98,
+            "end": 26.2,
+            "token": "okay"
+        },
+        {
+            "name": "fe_03_03475_492.89",
+            "start": 30.8,
+            "end": 31.490000000000002,
+            "token": "okay"
+        }
+    ]
+}

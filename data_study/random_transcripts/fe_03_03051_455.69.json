@@ -1,44 +1,44 @@
 {
     "name": "fe_03_03051",
     "context_channel": 1,
-    "context_text": "<A> yeah yeah that's one thing i do like about animals is f if they're for their instinctiveness / <B> uh-huh / <A> and most most animals do you know in a in a real raw sense treat you the way you treat them or unless { they've } / <B> [ oh ] / <A> been conditioned by other people like i lived in this apartment in new york and my neighbors um breeded rottweiler pit bull mixes so it had the body of a rottweiler and the face of a pit bull / <B> yeah / <A> yeah so they were basically there to protect and attack if they didn't know you / <B> mhm / <A> you know and like luckily i knew them when they were puppies so they were used to me but i don't care how whate you know they were those dogs were trained in a way that you know there's nothing you can do no matter what kind of person you are / <B> mhm / <A> you know i mean they were aggressive and they had a little chihuahua that would st always start the attacks and like the the big dogs would kind of just like growl and the little chihuahua would run after people and then that was when { the big dogs } / <B> [ right ]",
+    "context_text": "<A> yeah yeah that's one thing i do like about animals is f if they're for their instinctiveness  /  <B> right /  <A> and most most animals do you know in a in a real raw sense treat you the way you treat them or unless { they've }  /  <B> [mhm /  <A> been conditioned by other people like i lived in this apartment in new york and my neighbors um breeded rottweiler pit bull mixes so it had the body of a rottweiler and the face of a pit bull  /  <B> okay /  <A> yeah so they were basically there to protect and attack if they didn't know you  /  <B> oh /  <A> you know and like luckily i knew them when they were puppies so they were used to me but i don't care how whate you know they were those dogs were trained in a way that you know there's nothing you can do no matter what kind of person you are  /  <B> yeah /  <A> you know i mean they were aggressive and they had a little chihuahua that would st always start the attacks and like the the big dogs would kind of just like growl and the little chihuahua would run after people and then that was when { the big dogs }  /  <B> [right",
     "context_start": 455.69,
-    "context_end": 512.325125,
+    "context_end": 512.41,
     "feedback": [
         {
-            "name": "spontA_254_uh-huh",
+            "name": "sun1_031_right.wav",
             "start": 461.13,
-            "end": 461.5285,
-            "token": "uh-huh"
+            "end": 461.56,
+            "token": "right"
         },
         {
-            "name": "spontE_043_oh",
+            "name": "spontB_212_mhm.wav",
             "start": 468.15,
-            "end": 468.80825,
+            "end": 468.51,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_020_okay.wav",
+            "start": 480.66,
+            "end": 481.36,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_569_oh.wav",
+            "start": 486.04,
+            "end": 486.66,
             "token": "oh"
         },
         {
-            "name": "spontB_194_yeah",
-            "start": 480.66,
-            "end": 481.40125,
+            "name": "spontD_250_yeah.wav",
+            "start": 500.09,
+            "end": 500.69,
             "token": "yeah"
         },
         {
-            "name": "spontA_239_mhm",
-            "start": 486.04,
-            "end": 486.55237500000004,
-            "token": "mhm"
-        },
-        {
-            "name": "spontA_063_mhm",
-            "start": 500.09,
-            "end": 500.580875,
-            "token": "mhm"
-        },
-        {
-            "name": "PR_048_right",
+            "name": "PR_048_right.wav",
             "start": 511.69,
-            "end": 512.325125,
+            "end": 512.41,
             "token": "right"
         }
     ]

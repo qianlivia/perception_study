@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00328",
+    "context_channel": 0,
+    "context_text": "<B> like if you knew someone was innocent / <A> right / <B> but they didn't have a good alibi maybe there's a lot of circumstantial evidence but / <A> right / <B> you know for a fact that they're innocent / <A> uh-huh / <B> would you lie in that circumstance / <A> yeah",
+    "context_start": 97.63,
+    "context_end": 108.64999999999999,
+    "feedback": [
+        {
+            "name": "fe_03_05113_76.14",
+            "start": 99.68,
+            "end": 100.11000000000001,
+            "token": "right"
+        },
+        {
+            "name": "fe_03_05675_377.38",
+            "start": 104.1,
+            "end": 104.44999999999999,
+            "token": "right"
+        },
+        {
+            "name": "fe_03_04696_173.11",
+            "start": 106.26,
+            "end": 106.61,
+            "token": "uh-huh"
+        },
+        {
+            "name": "fe_03_03457_292.46",
+            "start": 108.24,
+            "end": 108.64999999999999,
+            "token": "yeah"
+        }
+    ]
+}

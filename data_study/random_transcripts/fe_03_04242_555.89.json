@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04242",
     "context_channel": 1,
-    "context_text": "<A> well i know her i i met her she's from nor um norway i was going to say she's { norwegian } / <B> [ exactly ] / <A> and um i work with her so { we } / <B> [ yeah ] / <A> were talking one time and i was saying something about spanish and i loved to learn languages and stuff and she goes oh i have this book and i have this video so now i have the tape { the } / <B> [ mhm ] / <A> tape learn how to speak the like the first thousand words / <B> right",
+    "context_text": "<A> well i know her i i met her she's from nor um norway i was going to say she's { norwegian }  /  <B> [mhm /  <A> and um i work with her so { we }  /  <B> [really /  <A> were talking one time and i was saying something about spanish and i loved to learn languages and stuff and she goes oh i have this book and i have this video so now i have the tape { the }  /  <B> [wow /  <A> tape learn how to speak the like the first thousand words  /  <B> okay",
     "context_start": 555.89,
-    "context_end": 577.1136250000001,
+    "context_end": 576.59,
     "feedback": [
         {
-            "name": "sun_038_exactly",
+            "name": "spontC_348_mhm.wav",
             "start": 560.37,
-            "end": 561.4555,
-            "token": "exactly"
-        },
-        {
-            "name": "spontD_200_yeah",
-            "start": 563.78,
-            "end": 564.4488749999999,
-            "token": "yeah"
-        },
-        {
-            "name": "spontF_311_mhm",
-            "start": 572.9,
-            "end": 573.400125,
+            "end": 560.73,
             "token": "mhm"
         },
         {
-            "name": "sun1_030_right",
+            "name": "NS_082_really.wav",
+            "start": 563.78,
+            "end": 564.01,
+            "token": "really"
+        },
+        {
+            "name": "PS_189_wow.wav",
+            "start": 572.9,
+            "end": 573.19,
+            "token": "wow"
+        },
+        {
+            "name": "spontC_172_okay.wav",
             "start": 576.32,
-            "end": 577.1136250000001,
-            "token": "right"
+            "end": 576.59,
+            "token": "okay"
         }
     ]
 }

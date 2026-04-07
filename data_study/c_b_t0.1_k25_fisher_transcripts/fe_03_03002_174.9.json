@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03002",
+    "context_channel": 1,
+    "context_text": "<A> bought this dog for six hundred dollars / <B> wow / <A> and about oh f ah four years ago we heard from pom rescue finally / <B> uh-huh / <A> and they had a dog for us to look at / <B> uh-huh / <A> so we drove over and looked at this dog / <B> uh-huh",
+    "context_start": 174.9,
+    "context_end": 188.36,
+    "feedback": [
+        {
+            "name": "fe_03_01601_450.29",
+            "start": 176.92,
+            "end": 177.42,
+            "token": "wow"
+        },
+        {
+            "name": "fe_03_01296_428.55",
+            "start": 183.26,
+            "end": 183.64,
+            "token": "uh-huh"
+        },
+        {
+            "name": "fe_03_00374_234.29",
+            "start": 185.48,
+            "end": 185.85,
+            "token": "uh-huh"
+        },
+        {
+            "name": "fe_03_04155_229.6",
+            "start": 187.99,
+            "end": 188.36,
+            "token": "uh-huh"
+        }
+    ]
+}

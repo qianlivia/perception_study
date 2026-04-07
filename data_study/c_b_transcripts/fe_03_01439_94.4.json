@@ -1,32 +1,32 @@
 {
     "name": "fe_03_01439",
     "context_channel": 0,
-    "context_text": "<B> right i'm kind of in the same place as you um i'm a four month i have a four month old / <A> oh / <B> um yeah exactly you know i just um didn't really change physically i mean we we don't we didn't really feel i mean i remember september eleventh the date was really hard / <A> yeah / <B> you know coming home from work and there was like so weird and just all the news and everything else { it was } / <A> [ yeah ] / <B> just like oh my god / <A> yeah",
+    "context_text": "<B> right i'm kind of in the same place as you um i'm a four month i have a four month old  /  <A> uh-huh /  <B> um yeah exactly you know i just um didn't really change physically i mean we we don't we didn't really feel i mean i remember september eleventh the date was really hard  /  <A> uh-huh /  <B> you know coming home from work and there was like so weird and just all the news and everything else { it was }  /  <A> [yeah /  <B> just like oh my god  /  <A> yeah",
     "context_start": 94.4,
-    "context_end": 120.14750000000001,
+    "context_end": 119.89,
     "feedback": [
         {
-            "name": "spontF_017_oh",
+            "name": "spontF_309_uh-huh.wav",
             "start": 98.87,
-            "end": 99.699375,
-            "token": "oh"
+            "end": 99.25,
+            "token": "uh-huh"
         },
         {
-            "name": "spontD_338_yeah",
+            "name": "spontC_367_uh-huh.wav",
             "start": 111.02,
-            "end": 111.675375,
-            "token": "yeah"
+            "end": 111.32,
+            "token": "uh-huh"
         },
         {
-            "name": "spontD_336_yeah",
+            "name": "spontB_323_yeah.wav",
             "start": 117.68,
-            "end": 118.68,
+            "end": 118.12,
             "token": "yeah"
         },
         {
-            "name": "spontC_251_yeah",
+            "name": "spontD_267_yeah.wav",
             "start": 119.4,
-            "end": 120.14750000000001,
+            "end": 119.89,
             "token": "yeah"
         }
     ]

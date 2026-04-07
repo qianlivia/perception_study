@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04060",
+    "context_channel": 1,
+    "context_text": "<A> college bookstores there's bookstores that sell nothing but technical books / <B> really / <A> i know of a bookstore that sells nothing but medical books / <B> wow / <A> uh there's a store that sells nothing but uh religious books / <B> really",
+    "context_start": 449.78,
+    "context_end": 464.11,
+    "feedback": [
+        {
+            "name": "fe_03_04086_572.05",
+            "start": 453.79,
+            "end": 454.21000000000004,
+            "token": "really"
+        },
+        {
+            "name": "fe_03_04905_480.94",
+            "start": 457.29,
+            "end": 457.76000000000005,
+            "token": "wow"
+        },
+        {
+            "name": "fe_03_01911_96.89",
+            "start": 463.54,
+            "end": 464.11,
+            "token": "really"
+        }
+    ]
+}

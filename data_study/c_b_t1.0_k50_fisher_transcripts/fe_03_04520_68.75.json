@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04520",
+    "context_channel": 0,
+    "context_text": "<B> the school system here and { i } / <A> [ oh ] / <B> thought at the time the school system i think at that time was better / <A> okay / <B> than it is now / <A> okay",
+    "context_start": 68.75,
+    "context_end": 79.21000000000001,
+    "feedback": [
+        {
+            "name": "fe_03_05326_324.07",
+            "start": 71.57,
+            "end": 72.05999999999999,
+            "token": "oh"
+        },
+        {
+            "name": "fe_03_03447_278.79",
+            "start": 77.31,
+            "end": 77.83,
+            "token": "okay"
+        },
+        {
+            "name": "fe_03_05438_378.99",
+            "start": 78.81,
+            "end": 79.21000000000001,
+            "token": "okay"
+        }
+    ]
+}

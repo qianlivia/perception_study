@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01439",
     "context_channel": 0,
-    "context_text": "<B> right i'm kind of in the same place as you um i'm a four month i have a four month old / <A> mhm / <B> um yeah exactly you know i just um didn't really change physically i mean we we don't we didn't really feel i mean i remember september eleventh the date was really hard / <A> right / <B> you know coming home from work and there was like so weird and just all the news and everything else { it was } / <A> [ yeah ] / <B> just like oh my god / <A> okay",
+    "context_text": "<B> right i'm kind of in the same place as you um i'm a four month i have a four month old  /  <A> yeah /  <B> um yeah exactly you know i just um didn't really change physically i mean we we don't we didn't really feel i mean i remember september eleventh the date was really hard  /  <A> wow /  <B> you know coming home from work and there was like so weird and just all the news and everything else { it was }  /  <A> [right /  <B> just like oh my god  /  <A> mhm",
     "context_start": 94.4,
-    "context_end": 120.312875,
+    "context_end": 119.89,
     "feedback": [
         {
-            "name": "spontB_337_mhm",
+            "name": "spontB_306_yeah.wav",
             "start": 98.87,
-            "end": 99.61625000000001,
-            "token": "mhm"
-        },
-        {
-            "name": "sun1_029_right",
-            "start": 111.02,
-            "end": 111.71199999999999,
-            "token": "right"
-        },
-        {
-            "name": "spontC_084_yeah",
-            "start": 117.68,
-            "end": 118.1075,
+            "end": 99.25,
             "token": "yeah"
         },
         {
-            "name": "sun1_017_okay",
+            "name": "PS_071_wow.wav",
+            "start": 111.02,
+            "end": 111.32,
+            "token": "wow"
+        },
+        {
+            "name": "spontC_360_right.wav",
+            "start": 117.68,
+            "end": 118.12,
+            "token": "right"
+        },
+        {
+            "name": "sun1_006_mhm.wav",
             "start": 119.4,
-            "end": 120.312875,
-            "token": "okay"
+            "end": 119.89,
+            "token": "mhm"
         }
     ]
 }

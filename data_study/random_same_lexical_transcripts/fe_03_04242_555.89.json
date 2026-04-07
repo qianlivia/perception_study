@@ -1,32 +1,32 @@
 {
     "name": "fe_03_04242",
     "context_channel": 1,
-    "context_text": "<A> well i know her i i met her she's from nor um norway i was going to say she's { norwegian } / <B> [ right ] / <A> and um i work with her so { we } / <B> [ okay ] / <A> were talking one time and i was saying something about spanish and i loved to learn languages and stuff and she goes oh i have this book and i have this video so now i have the tape { the } / <B> [ okay ] / <A> tape learn how to speak the like the first thousand words / <B> yeah",
+    "context_text": "<A> well i know her i i met her she's from nor um norway i was going to say she's { norwegian }  /  <B> [right /  <A> and um i work with her so { we }  /  <B> [okay /  <A> were talking one time and i was saying something about spanish and i loved to learn languages and stuff and she goes oh i have this book and i have this video so now i have the tape { the }  /  <B> [okay /  <A> tape learn how to speak the like the first thousand words  /  <B> yeah",
     "context_start": 555.89,
-    "context_end": 576.9670000000001,
+    "context_end": 576.59,
     "feedback": [
         {
-            "name": "sun1_032_right",
+            "name": "sun1_031_right.wav",
             "start": 560.37,
-            "end": 561.213375,
+            "end": 560.73,
             "token": "right"
         },
         {
-            "name": "sun1_017_okay",
+            "name": "spontD_383_okay.wav",
             "start": 563.78,
-            "end": 564.692875,
+            "end": 564.01,
             "token": "okay"
         },
         {
-            "name": "spontE_391_okay",
+            "name": "spontD_033_okay.wav",
             "start": 572.9,
-            "end": 573.416875,
+            "end": 573.19,
             "token": "okay"
         },
         {
-            "name": "spontE_329_yeah",
+            "name": "spontF_127_yeah.wav",
             "start": 576.32,
-            "end": 576.9670000000001,
+            "end": 576.59,
             "token": "yeah"
         }
     ]

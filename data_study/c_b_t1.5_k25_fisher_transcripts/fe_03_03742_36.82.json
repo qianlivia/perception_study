@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03742",
+    "context_channel": 0,
+    "context_text": "<B> well i make minimum wage uh uh officially as / <A> uh-huh / <B> part of my waitress job { but yeah } / <A> [ okay ] / <B> you get tips on top of that but the restaurant will only pay you minimum wage so i know / <A> okay / <B> it's seventy five / <A> okay",
+    "context_start": 36.82,
+    "context_end": 49.010000000000005,
+    "feedback": [
+        {
+            "name": "fe_03_04228_143.83",
+            "start": 41.27,
+            "end": 41.650000000000006,
+            "token": "uh-huh"
+        },
+        {
+            "name": "fe_03_03402_575.17",
+            "start": 43.35,
+            "end": 43.77,
+            "token": "okay"
+        },
+        {
+            "name": "fe_03_02258_173.26",
+            "start": 46.82,
+            "end": 47.1,
+            "token": "okay"
+        },
+        {
+            "name": "fe_03_02244_229.94",
+            "start": 48.42,
+            "end": 49.010000000000005,
+            "token": "okay"
+        }
+    ]
+}

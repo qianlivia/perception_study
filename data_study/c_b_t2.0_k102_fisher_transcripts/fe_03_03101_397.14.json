@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03101",
+    "context_channel": 1,
+    "context_text": "<A> and he was like well there's nothing we can do till we hear back from that guy / <B> really / <A> and i gave the guy our name and number and / <B> mhm / <A> i mean i can only say i'm sorry a hundred times / <B> yeah",
+    "context_start": 397.14,
+    "context_end": 407.6,
+    "feedback": [
+        {
+            "name": "fe_03_05225_541.0",
+            "start": 400.95,
+            "end": 401.49,
+            "token": "really"
+        },
+        {
+            "name": "fe_03_00658_59.14",
+            "start": 403.22,
+            "end": 403.57000000000005,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_03807_42.08",
+            "start": 406.91,
+            "end": 407.6,
+            "token": "yeah"
+        }
+    ]
+}

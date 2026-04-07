@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04575",
+    "context_channel": 1,
+    "context_text": "<A> and what happened was i wrote down the model number i wanted / <B> uh-huh / <A> but when i went to order it i forgot i forgot to bring the piece of paper { but } / <B> [ okay ] / <A> i kinda remembered the number / <B> okay",
+    "context_start": 390.7,
+    "context_end": 403.56,
+    "feedback": [
+        {
+            "name": "fe_03_04375_107.5",
+            "start": 395.12,
+            "end": 395.54,
+            "token": "uh-huh"
+        },
+        {
+            "name": "fe_03_03402_575.17",
+            "start": 400.9,
+            "end": 401.32,
+            "token": "okay"
+        },
+        {
+            "name": "fe_03_02449_480.28",
+            "start": 403.17,
+            "end": 403.56,
+            "token": "okay"
+        }
+    ]
+}

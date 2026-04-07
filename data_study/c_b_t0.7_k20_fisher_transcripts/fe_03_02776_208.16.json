@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02776",
+    "context_channel": 0,
+    "context_text": "<B> although i have a set of clubs / <A> yeah / <B> um my whole family watches golf / <A> really / <B> my parents my husband our friends watch all the professional golf / <A> really",
+    "context_start": 208.16,
+    "context_end": 221.11,
+    "feedback": [
+        {
+            "name": "fe_03_04586_494.39",
+            "start": 210.14,
+            "end": 210.61999999999998,
+            "token": "yeah"
+        },
+        {
+            "name": "fe_03_03101_178.58",
+            "start": 214.07,
+            "end": 214.56,
+            "token": "really"
+        },
+        {
+            "name": "fe_03_02410_276.11",
+            "start": 220.52,
+            "end": 221.11,
+            "token": "really"
+        }
+    ]
+}

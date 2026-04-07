@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02385",
+    "context_channel": 0,
+    "context_text": "<B> cartons here are over thirty dollars i { smoke } / <A> [ mhm ] / <B> really the cheapest cigarettes i can find and i you know because they're always coming out with new ones / <A> mhm / <B> i go into the store i just say what's your cheapest carton of cigarettes / <A> okay",
+    "context_start": 523.33,
+    "context_end": 537.87,
+    "feedback": [
+        {
+            "name": "fe_03_01624_537.77",
+            "start": 527.22,
+            "end": 529.5,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_04295_322.04",
+            "start": 532.78,
+            "end": 533.2099999999999,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_04552_161.17",
+            "start": 537.36,
+            "end": 537.87,
+            "token": "okay"
+        }
+    ]
+}

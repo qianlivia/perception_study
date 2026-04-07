@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03956",
+    "context_channel": 1,
+    "context_text": "<A> and peter pan / <B> yeah / <A> and there's just you know all of the disney ones if you keep you know get { the } / <B> [ yeah ] / <A> children's disney ones a lot of { it's } / <B> [ uh-huh ]",
+    "context_start": 360.42,
+    "context_end": 371.22,
+    "feedback": [
+        {
+            "name": "fe_03_03868_141.23",
+            "start": 362.19,
+            "end": 362.58,
+            "token": "yeah"
+        },
+        {
+            "name": "fe_03_00677_533.34",
+            "start": 368.82,
+            "end": 369.31,
+            "token": "yeah"
+        },
+        {
+            "name": "fe_03_02113_374.19",
+            "start": 370.74,
+            "end": 371.22,
+            "token": "uh-huh"
+        }
+    ]
+}

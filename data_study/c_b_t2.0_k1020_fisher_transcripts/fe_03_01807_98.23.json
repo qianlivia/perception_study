@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01807",
+    "context_channel": 0,
+    "context_text": "<B> he's in a public school / <A> uh-huh / <B> um but i have you know visited some other private schools for various reasons and / <A> uh-huh / <B> you know i'm surprised that they're even on a different level and i think { that } / <A> [ mhm ] / <B> you know some of the children need to play catch up um / <A> uh-huh",
+    "context_start": 98.23,
+    "context_end": 115.83000000000001,
+    "feedback": [
+        {
+            "name": "fe_03_00225_232.11",
+            "start": 99.92,
+            "end": 100.25,
+            "token": "uh-huh"
+        },
+        {
+            "name": "fe_03_01230_405.1",
+            "start": 106.84,
+            "end": 107.32000000000001,
+            "token": "uh-huh"
+        },
+        {
+            "name": "fe_03_04482_175.49",
+            "start": 111.68,
+            "end": 112.08000000000001,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_05748_564.61",
+            "start": 115.43,
+            "end": 115.83000000000001,
+            "token": "uh-huh"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02776",
+    "context_channel": 0,
+    "context_text": "<B> although i have a set of clubs / <A> okay / <B> um my whole family watches golf / <A> mhm / <B> my parents my husband our friends watch all the professional golf / <A> mhm",
+    "context_start": 208.16,
+    "context_end": 220.99,
+    "feedback": [
+        {
+            "name": "fe_03_01840_427.36",
+            "start": 210.14,
+            "end": 210.60999999999999,
+            "token": "okay"
+        },
+        {
+            "name": "fe_03_04295_299.94",
+            "start": 214.07,
+            "end": 214.56,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_02462_390.7",
+            "start": 220.52,
+            "end": 220.99,
+            "token": "mhm"
+        }
+    ]
+}

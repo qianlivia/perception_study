@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04242",
+    "context_channel": 1,
+    "context_text": "<A> well i know her i i met her she's from nor um norway i was going to say she's { norwegian } / <B> [ wow ] / <A> and um i work with her so { we } / <B> [ wow ] / <A> were talking one time and i was saying something about spanish and i loved to learn languages and stuff and she goes oh i have this book and i have this video so now i have the tape { the } / <B> [ uh-huh ] / <A> tape learn how to speak the like the first thousand words / <B> yeah",
+    "context_start": 555.89,
+    "context_end": 577.0300000000001,
+    "feedback": [
+        {
+            "name": "fe_03_03018_562.33",
+            "start": 560.37,
+            "end": 561.69,
+            "token": "wow"
+        },
+        {
+            "name": "fe_03_02062_418.65",
+            "start": 563.78,
+            "end": 564.41,
+            "token": "wow"
+        },
+        {
+            "name": "fe_03_01586_379.2",
+            "start": 572.9,
+            "end": 573.48,
+            "token": "uh-huh"
+        },
+        {
+            "name": "fe_03_02672_402.97",
+            "start": 576.32,
+            "end": 577.0300000000001,
+            "token": "yeah"
+        }
+    ]
+}

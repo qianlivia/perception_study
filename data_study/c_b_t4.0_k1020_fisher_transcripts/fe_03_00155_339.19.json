@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00155",
+    "context_channel": 1,
+    "context_text": "<A> example i think it was mainly to manufacture an issue for the congressional elections / <B> mhm / <A> because if you look at what normally happens when you have a republican president you have a democratic congress and vice versa { and we } / <B> [ okay ] / <A> don't have that right now / <B> mhm",
+    "context_start": 339.19,
+    "context_end": 355.19,
+    "feedback": [
+        {
+            "name": "fe_03_00642_184.36",
+            "start": 345.96,
+            "end": 346.32,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_01840_427.36",
+            "start": 353.14,
+            "end": 353.61,
+            "token": "okay"
+        },
+        {
+            "name": "fe_03_05098_105.99",
+            "start": 354.84,
+            "end": 355.19,
+            "token": "mhm"
+        }
+    ]
+}

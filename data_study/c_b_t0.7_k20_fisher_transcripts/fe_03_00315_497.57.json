@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_00315",
+    "context_channel": 1,
+    "context_text": "<A> it seems like the solution to terrorism is keeping your head / <B> right / <A> finding what the challenge is / <B> right / <A> and believing that there are solutions to it find { out } / <B> [ right ] / <A> ye okay how are we going to solve this because what they're trying to do is uh is cause damage how do we stop the damage reverse it / <B> right / <A> and and i i wonder if you can even use something like that for well i guess when the plane in pennsylvania went down / <B> mhm",
+    "context_start": 497.57,
+    "context_end": 528.6,
+    "feedback": [
+        {
+            "name": "fe_03_00658_556.6",
+            "start": 502.14,
+            "end": 502.58,
+            "token": "right"
+        },
+        {
+            "name": "fe_03_02371_384.81",
+            "start": 505.69,
+            "end": 506.11,
+            "token": "right"
+        },
+        {
+            "name": "fe_03_05688_322.85",
+            "start": 509.93,
+            "end": 510.31,
+            "token": "right"
+        },
+        {
+            "name": "fe_03_02714_53.21",
+            "start": 519.0,
+            "end": 519.34,
+            "token": "right"
+        },
+        {
+            "name": "fe_03_03338_247.13",
+            "start": 528.27,
+            "end": 528.6,
+            "token": "mhm"
+        }
+    ]
+}

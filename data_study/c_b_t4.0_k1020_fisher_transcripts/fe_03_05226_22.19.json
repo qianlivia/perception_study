@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_05226",
+    "context_channel": 1,
+    "context_text": "<A> this ah this last season / <B> mhm / <A> i got this i don't know this horrible allergy / <B> mhm / <A> yeah / <B> mhm",
+    "context_start": 22.19,
+    "context_end": 29.760125000000002,
+    "feedback": [
+        {
+            "name": "fe_03_02242_435.99",
+            "start": 23.7,
+            "end": 24.14,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_01935_62.75",
+            "start": 27.37,
+            "end": 27.75,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_01777_516.3",
+            "start": 29.19,
+            "end": 29.760125000000002,
+            "token": "mhm"
+        }
+    ]
+}

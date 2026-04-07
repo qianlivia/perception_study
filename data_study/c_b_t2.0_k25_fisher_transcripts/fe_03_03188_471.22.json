@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03188",
+    "context_channel": 1,
+    "context_text": "<A> you have kids so / <B> yeah / <A> for the better / <B> yeah / <A> sometimes you wonder but / <B> yeah",
+    "context_start": 471.22,
+    "context_end": 476.42,
+    "feedback": [
+        {
+            "name": "fe_03_04111_135.95",
+            "start": 472.69,
+            "end": 473.24,
+            "token": "yeah"
+        },
+        {
+            "name": "fe_03_00468_496.33",
+            "start": 474.56,
+            "end": 475.0,
+            "token": "yeah"
+        },
+        {
+            "name": "fe_03_04096_432.39",
+            "start": 476.17,
+            "end": 476.42,
+            "token": "yeah"
+        }
+    ]
+}

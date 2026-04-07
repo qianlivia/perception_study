@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04493",
+    "context_channel": 1,
+    "context_text": "<A> my youngest daughter went to special ed / <B> really / <A> and she's um she's got cerebral palsy / <B> wow / <A> so she and now you know in michigan you're entitled to an education from birth to twenty five / <B> really / <A> and she's twenty three now but had i stayed in michigan she would of still been going to the public school system / <B> wow",
+    "context_start": 445.44,
+    "context_end": 476.2,
+    "feedback": [
+        {
+            "name": "fe_03_03891_534.52",
+            "start": 450.71,
+            "end": 451.5,
+            "token": "really"
+        },
+        {
+            "name": "fe_03_04477_37.39",
+            "start": 455.38,
+            "end": 455.73,
+            "token": "wow"
+        },
+        {
+            "name": "fe_03_02258_161.99",
+            "start": 463.31,
+            "end": 463.71,
+            "token": "really"
+        },
+        {
+            "name": "fe_03_02596_513.15",
+            "start": 475.63,
+            "end": 476.2,
+            "token": "wow"
+        }
+    ]
+}

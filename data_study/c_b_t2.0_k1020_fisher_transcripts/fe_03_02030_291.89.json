@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02030",
+    "context_channel": 1,
+    "context_text": "<A> sitting on the porch is sounds good to me sounds like a winner to me / <B> yeah / <A> yeah i ah don't have a porch but ah sit on the patio / <B> yeah / <A> yeah i enjoy sitting on the patio ah grilling outside sometimes and / <B> uh-huh / <A> you know when the weather's nice and { and } / <B> [ uh-huh ]",
+    "context_start": 291.89,
+    "context_end": 312.83,
+    "feedback": [
+        {
+            "name": "fe_03_05559_257.44",
+            "start": 296.84,
+            "end": 297.21,
+            "token": "yeah"
+        },
+        {
+            "name": "fe_03_01579_47.66",
+            "start": 303.04,
+            "end": 303.5,
+            "token": "yeah"
+        },
+        {
+            "name": "fe_03_01449_81.32",
+            "start": 310.25,
+            "end": 310.61,
+            "token": "uh-huh"
+        },
+        {
+            "name": "fe_03_03315_571.07",
+            "start": 312.33,
+            "end": 312.83,
+            "token": "uh-huh"
+        }
+    ]
+}

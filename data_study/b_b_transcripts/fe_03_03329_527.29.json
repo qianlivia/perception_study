@@ -1,44 +1,44 @@
 {
     "name": "fe_03_03329",
     "context_channel": 0,
-    "context_text": "<B> or i'll withdraw from the problem for a week or two and then let it get bad so bad and all of a sudden i fix it one two three { it's } / <A> [ wow ] / <B> dead but it's too much for me to deal with / <A> right / <B> you know / <A> uh-huh / <B> and uh my husband has problems with mental retardation but he he can talk he's not like profound or anything like that that's what { my } / <A> [ right ] / <B> problem is with him / <A> uh-huh / <B> he cannot read or write too well and i'm like i'm taking care of two people / <A> right",
+    "context_text": "<B> or i'll withdraw from the problem for a week or two and then let it get bad so bad and all of a sudden i fix it one two three { it's }  /  <A> [wow /  <B> dead but it's too much for me to deal with  /  <A> right /  <B> you know  /  <A> uh-huh /  <B> and uh my husband has problems with mental retardation but he he can talk he's not like profound or anything like that that's what { my }  /  <A> [yeah /  <B> problem is with him  /  <A> uh-huh /  <B> he cannot read or write too well and i'm like i'm taking care of two people  /  <A> right",
     "context_start": 527.29,
-    "context_end": 558.995125,
+    "context_end": 558.87,
     "feedback": [
         {
-            "name": "PS_065_wow",
+            "name": "PS_034_wow.wav",
             "start": 536.66,
-            "end": 537.4735,
+            "end": 537.0,
             "token": "wow"
         },
         {
-            "name": "PR_043_right",
+            "name": "sun1_032_right.wav",
             "start": 540.18,
-            "end": 540.8399999999999,
+            "end": 540.66,
             "token": "right"
         },
         {
-            "name": "spontA_290_uh-huh",
+            "name": "spontD_034_uh-huh.wav",
             "start": 542.64,
-            "end": 543.1397499999999,
+            "end": 543.0,
             "token": "uh-huh"
         },
         {
-            "name": "sun_028_right",
+            "name": "spontC_063_yeah.wav",
             "start": 552.23,
-            "end": 552.959375,
-            "token": "right"
+            "end": 552.61,
+            "token": "yeah"
         },
         {
-            "name": "spontF_009_uh-huh",
+            "name": "spontA_051_uh-huh.wav",
             "start": 553.68,
-            "end": 554.0627499999999,
+            "end": 554.03,
             "token": "uh-huh"
         },
         {
-            "name": "PR_048_right",
+            "name": "sun1_031_right.wav",
             "start": 558.36,
-            "end": 558.995125,
+            "end": 558.87,
             "token": "right"
         }
     ]

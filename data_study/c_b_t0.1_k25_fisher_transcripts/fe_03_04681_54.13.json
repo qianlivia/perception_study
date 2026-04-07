@@ -1,0 +1,51 @@
+{
+    "name": "fe_03_04681",
+    "context_channel": 0,
+    "context_text": "<B> well we have a newspaper in philadelphia called metro / <A> uh-huh / <B> it's a free paper and they pass it out at all of the ah terminals and trolley stations and train stations / <A> uh-huh / <B> and it's it runs twenty four to thirty pages { it } / <A> [ wow ] / <B> encapsulates the news / <A> wow / <B> and you can actually run through that paper and see all that's set to print in about twenty minutes / <A> wow / <B> and you also have two jokes so that is the main source of my news in the morning / <A> really / <B> and then at night i watch the ten o'clock news for fox / <A> okay",
+    "context_start": 54.13,
+    "context_end": 94.55,
+    "feedback": [
+        {
+            "name": "fe_03_01230_405.1",
+            "start": 58.99,
+            "end": 59.47,
+            "token": "uh-huh"
+        },
+        {
+            "name": "fe_03_04397_258.05",
+            "start": 68.47,
+            "end": 68.84,
+            "token": "uh-huh"
+        },
+        {
+            "name": "fe_03_00342_260.79",
+            "start": 72.24,
+            "end": 72.71,
+            "token": "wow"
+        },
+        {
+            "name": "fe_03_04905_258.0",
+            "start": 74.17,
+            "end": 74.52,
+            "token": "wow"
+        },
+        {
+            "name": "fe_03_05799_312.05",
+            "start": 82.73,
+            "end": 83.28,
+            "token": "wow"
+        },
+        {
+            "name": "fe_03_03891_534.52",
+            "start": 89.43,
+            "end": 90.22000000000001,
+            "token": "really"
+        },
+        {
+            "name": "fe_03_00177_412.82",
+            "start": 94.1,
+            "end": 94.55,
+            "token": "okay"
+        }
+    ]
+}

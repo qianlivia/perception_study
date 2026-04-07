@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02901",
+    "context_channel": 1,
+    "context_text": "<A> yeah and yeah we know we just baseball doesn't have any performers anymore / <B> right / <A> not like babe ruth or carl yastrzemski or anything / <B> right / <A> you know who actually actually appeal to the crowd / <B> mhm / <A> { nowadays } / <B> [ yeah ]",
+    "context_start": 347.31,
+    "context_end": 359.43,
+    "feedback": [
+        {
+            "name": "fe_03_03851_164.9",
+            "start": 351.75,
+            "end": 351.97,
+            "token": "right"
+        },
+        {
+            "name": "fe_03_00134_240.3",
+            "start": 355.09,
+            "end": 355.31,
+            "token": "right"
+        },
+        {
+            "name": "fe_03_00110_433.26",
+            "start": 357.9,
+            "end": 358.23999999999995,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_04930_247.02",
+            "start": 358.47,
+            "end": 359.43,
+            "token": "yeah"
+        }
+    ]
+}

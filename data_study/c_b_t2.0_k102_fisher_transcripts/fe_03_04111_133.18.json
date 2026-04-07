@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04111",
+    "context_channel": 1,
+    "context_text": "<A> you know i think i would like to to do some traveling too / <B> yeah / <A> i don't know where i'd like to go i'm here in upstate new york / <B> okay / <A> and uh yeah i don't care for it too much / <B> yeah",
+    "context_start": 133.18,
+    "context_end": 143.51,
+    "feedback": [
+        {
+            "name": "fe_03_03206_194.87",
+            "start": 135.95,
+            "end": 136.29999999999998,
+            "token": "yeah"
+        },
+        {
+            "name": "fe_03_00995_352.2",
+            "start": 139.82,
+            "end": 140.42,
+            "token": "okay"
+        },
+        {
+            "name": "fe_03_04766_455.52",
+            "start": 143.06,
+            "end": 143.51,
+            "token": "yeah"
+        }
+    ]
+}

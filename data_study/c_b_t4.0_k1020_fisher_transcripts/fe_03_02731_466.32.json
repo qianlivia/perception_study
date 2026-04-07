@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02731",
+    "context_channel": 0,
+    "context_text": "<B> to be a terrorist / <A> right / <B> you don't need an army / <A> right / <B> you can just you know be { a } / <A> [ right ] / <B> terrorist yourself i don't know these terrorist camps are freaky / <A> yeah",
+    "context_start": 466.32,
+    "context_end": 480.73,
+    "feedback": [
+        {
+            "name": "fe_03_01381_344.77",
+            "start": 467.55,
+            "end": 467.97,
+            "token": "right"
+        },
+        {
+            "name": "fe_03_05042_259.73",
+            "start": 469.17,
+            "end": 469.48,
+            "token": "right"
+        },
+        {
+            "name": "fe_03_03338_258.22",
+            "start": 473.23,
+            "end": 473.61,
+            "token": "right"
+        },
+        {
+            "name": "fe_03_03951_201.6",
+            "start": 480.29,
+            "end": 480.73,
+            "token": "yeah"
+        }
+    ]
+}

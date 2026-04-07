@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03070",
+    "context_channel": 0,
+    "context_text": "<B> palermo it's p a l e r m o / <A> okay / <B> road / <A> uh-huh / <B> and it's panama city / <A> oh",
+    "context_start": 369.29,
+    "context_end": 379.48,
+    "feedback": [
+        {
+            "name": "fe_03_02486_182.91",
+            "start": 374.27,
+            "end": 374.78,
+            "token": "okay"
+        },
+        {
+            "name": "fe_03_04932_181.17",
+            "start": 375.96,
+            "end": 376.23999999999995,
+            "token": "uh-huh"
+        },
+        {
+            "name": "fe_03_00517_276.67",
+            "start": 379.1,
+            "end": 379.48,
+            "token": "oh"
+        }
+    ]
+}

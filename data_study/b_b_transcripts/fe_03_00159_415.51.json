@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00159",
     "context_channel": 0,
-    "context_text": "<B> their company probably uhm i think there were a lot of like um silicon valley ones { ah } / <A> [ right ] / <B> you know i i don't know i really actually have never been west so i can't tell you if they're all booming as much as it seems to on the internet but it looks like all the opportunities i've seen are either in canada europe / <A> mhm / <B> or california / <A> wow / <B> or so the some like government type linked ones { in } / <A> [ right ]",
+    "context_text": "<B> their company probably uhm i think there were a lot of like um silicon valley ones { ah }  /  <A> [right /  <B> you know i i don't know i really actually have never been west so i can't tell you if they're all booming as much as it seems to on the internet but it looks like all the opportunities i've seen are either in canada europe  /  <A> mhm /  <B> or california  /  <A> wow /  <B> or so the some like government type linked ones { in }  /  <A> [yeah",
     "context_start": 415.51,
-    "context_end": 439.44,
+    "context_end": 439.2,
     "feedback": [
         {
-            "name": "sun1_032_right",
+            "name": "sun1_031_right.wav",
             "start": 420.69,
-            "end": 421.533375,
+            "end": 421.06,
             "token": "right"
         },
         {
-            "name": "spontA_147_mhm",
+            "name": "spontC_226_mhm.wav",
             "start": 433.18,
-            "end": 433.65325,
+            "end": 433.49,
             "token": "mhm"
         },
         {
-            "name": "PS_129_wow",
+            "name": "PS_164_wow.wav",
             "start": 434.65,
-            "end": 435.592375,
+            "end": 435.42,
             "token": "wow"
         },
         {
-            "name": "PR_043_right",
+            "name": "spontA_426_yeah.wav",
             "start": 438.78,
-            "end": 439.44,
-            "token": "right"
+            "end": 439.2,
+            "token": "yeah"
         }
     ]
 }

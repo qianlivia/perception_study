@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03465",
     "context_channel": 1,
-    "context_text": "<A> um they're talking about what's the most important thing in a life partner / <B> wow / <A> and i'm thirty about to be thirty five i've been { with } / <B> [ okay ] / <A> the same girl for more than twelve years / <B> really / <A> we're still not married / <B> exactly",
+    "context_text": "<A> um they're talking about what's the most important thing in a life partner  /  <B> oh /  <A> and i'm thirty about to be thirty five i've been { with }  /  <B> [right /  <A> the same girl for more than twelve years  /  <B> right /  <A> we're still not married  /  <B> mhm",
     "context_start": 13.35,
-    "context_end": 29.8095,
+    "context_end": 29.42,
     "feedback": [
         {
-            "name": "PS_155_wow",
+            "name": "spontD_193_oh.wav",
             "start": 18.9,
-            "end": 20.695,
-            "token": "wow"
+            "end": 19.4,
+            "token": "oh"
         },
         {
-            "name": "spontC_020_okay",
+            "name": "sun_013_right.wav",
             "start": 23.27,
-            "end": 23.745,
-            "token": "okay"
+            "end": 23.61,
+            "token": "right"
         },
         {
-            "name": "sun2_001_really",
+            "name": "sun1_033_right.wav",
             "start": 26.99,
-            "end": 27.720625,
-            "token": "really"
+            "end": 27.37,
+            "token": "right"
         },
         {
-            "name": "sun_026_exactly",
+            "name": "spontA_408_mhm.wav",
             "start": 28.78,
-            "end": 29.8095,
-            "token": "exactly"
+            "end": 29.42,
+            "token": "mhm"
         }
     ]
 }

@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_02003",
+    "context_channel": 1,
+    "context_text": "<A> and and you just don't know and then you also don't know whether it's even if it is not 401k you know { like the } / <B> [ uh-huh ] / <A> place i work at has stock options / <B> mhm / <A> will i take that too / <B> mhm / <A> and you don't know { i } / <B> [ right ]",
+    "context_start": 153.85,
+    "context_end": 168.39,
+    "feedback": [
+        {
+            "name": "fe_03_03487_459.97",
+            "start": 161.68,
+            "end": 162.06,
+            "token": "uh-huh"
+        },
+        {
+            "name": "fe_03_01830_298.43",
+            "start": 164.2,
+            "end": 164.63,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_00606_187.01",
+            "start": 166.14,
+            "end": 166.64999999999998,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_03076_132.03",
+            "start": 167.98,
+            "end": 168.39,
+            "token": "right"
+        }
+    ]
+}

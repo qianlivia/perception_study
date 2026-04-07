@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00328",
+    "context_channel": 0,
+    "context_text": "<B> like if you knew someone was innocent / <A> right / <B> but they didn't have a good alibi maybe there's a lot of circumstantial evidence but / <A> right / <B> you know for a fact that they're innocent / <A> right / <B> would you lie in that circumstance / <A> exactly",
+    "context_start": 97.63,
+    "context_end": 108.91,
+    "feedback": [
+        {
+            "name": "fe_03_00800_338.88",
+            "start": 99.68,
+            "end": 99.98,
+            "token": "right"
+        },
+        {
+            "name": "fe_03_04192_506.21",
+            "start": 104.1,
+            "end": 104.49,
+            "token": "right"
+        },
+        {
+            "name": "fe_03_03374_463.58",
+            "start": 106.26,
+            "end": 106.69000000000001,
+            "token": "right"
+        },
+        {
+            "name": "fe_03_02611_213.18",
+            "start": 108.24,
+            "end": 108.91,
+            "token": "exactly"
+        }
+    ]
+}

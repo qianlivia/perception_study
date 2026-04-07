@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_05600",
+    "context_channel": 1,
+    "context_text": "<A> well on any level the the thing is like my my dad died my dad died a few uh three years ago / <B> uh-huh / <A> um i was struggling for a job { getting a } / <B> [ yeah ] / <A> job well i'm working now / <B> okay",
+    "context_start": 211.48,
+    "context_end": 227.09,
+    "feedback": [
+        {
+            "name": "fe_03_05600_580.55",
+            "start": 219.41,
+            "end": 219.88,
+            "token": "uh-huh"
+        },
+        {
+            "name": "fe_03_04520_500.09",
+            "start": 223.59,
+            "end": 224.33,
+            "token": "yeah"
+        },
+        {
+            "name": "fe_03_05438_378.99",
+            "start": 226.69,
+            "end": 227.09,
+            "token": "okay"
+        }
+    ]
+}

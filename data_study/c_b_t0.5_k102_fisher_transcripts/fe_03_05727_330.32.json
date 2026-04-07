@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_05727",
+    "context_channel": 1,
+    "context_text": "<A> they can show they're computer literate and { that } / <B> [ yeah ] / <A> kinda stuff i mean i can't / <B> yeah / <A> imagine being anywhere in any job or any / <B> uh-huh / <A> field of study and not be exposed to computers { or be } / <B> [ yeah ] / <A> expected to have some minimal / <B> yeah",
+    "context_start": 330.32,
+    "context_end": 345.43,
+    "feedback": [
+        {
+            "name": "fe_03_05020_526.32",
+            "start": 333.36,
+            "end": 333.79,
+            "token": "yeah"
+        },
+        {
+            "name": "fe_03_00985_264.73",
+            "start": 335.55,
+            "end": 335.89,
+            "token": "yeah"
+        },
+        {
+            "name": "fe_03_04139_89.48",
+            "start": 338.9,
+            "end": 339.17999999999995,
+            "token": "uh-huh"
+        },
+        {
+            "name": "fe_03_00099_185.83",
+            "start": 342.57,
+            "end": 343.28,
+            "token": "yeah"
+        },
+        {
+            "name": "fe_03_00471_107.09",
+            "start": 345.04,
+            "end": 345.43,
+            "token": "yeah"
+        }
+    ]
+}

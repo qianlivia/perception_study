@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03551",
+    "context_channel": 1,
+    "context_text": "<A> yeah yeah well i'm myself i do nurses aid work and um home health { care and } / <B> [ mhm ] / <A> i'm also working from home so { i'm } / <B> [ mhm ] / <A> carrying two jobs and um / <B> wow / <A> got to you know / <B> yeah",
+    "context_start": 583.97,
+    "context_end": 597.56,
+    "feedback": [
+        {
+            "name": "fe_03_01844_305.33",
+            "start": 590.79,
+            "end": 591.68,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_01014_311.88",
+            "start": 593.11,
+            "end": 593.4300000000001,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_03655_276.98",
+            "start": 594.86,
+            "end": 595.52,
+            "token": "wow"
+        },
+        {
+            "name": "fe_03_03400_464.76",
+            "start": 597.01,
+            "end": 597.56,
+            "token": "yeah"
+        }
+    ]
+}

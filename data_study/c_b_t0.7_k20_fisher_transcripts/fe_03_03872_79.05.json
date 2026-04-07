@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03872",
+    "context_channel": 1,
+    "context_text": "<A> if it's appropriate / <B> exactly / <A> for for whom the comedy / <B> exactly / <A> is whether it's a movie or / <B> uh-huh",
+    "context_start": 79.05,
+    "context_end": 88.21,
+    "feedback": [
+        {
+            "name": "fe_03_01113_90.52",
+            "start": 79.51,
+            "end": 80.05000000000001,
+            "token": "exactly"
+        },
+        {
+            "name": "fe_03_02027_351.78",
+            "start": 84.66,
+            "end": 85.16,
+            "token": "exactly"
+        },
+        {
+            "name": "fe_03_02279_480.42",
+            "start": 87.86,
+            "end": 88.21,
+            "token": "uh-huh"
+        }
+    ]
+}

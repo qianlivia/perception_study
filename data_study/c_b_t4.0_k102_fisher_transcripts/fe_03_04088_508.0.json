@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04088",
+    "context_channel": 0,
+    "context_text": "<B> don't you know it seems like craft stores are like populated everywhere though / <A> yeah / <B> unless you could come up with the unique craft / <A> right / <B> something that no one else has / <A> right",
+    "context_start": 508.0,
+    "context_end": 517.2099999999999,
+    "feedback": [
+        {
+            "name": "fe_03_02507_266.62",
+            "start": 512.11,
+            "end": 512.44,
+            "token": "yeah"
+        },
+        {
+            "name": "fe_03_01426_212.68",
+            "start": 514.86,
+            "end": 515.42,
+            "token": "right"
+        },
+        {
+            "name": "fe_03_02229_346.59",
+            "start": 516.78,
+            "end": 517.2099999999999,
+            "token": "right"
+        }
+    ]
+}

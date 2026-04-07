@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04256",
+    "context_channel": 1,
+    "context_text": "<A> um in college when i should have been doing a lot more than what i i could have done / <B> right / <A> and not kept focus and um could have / <B> mhm / <A> kept a better focus so / <B> mhm / <A> um / <B> yeah",
+    "context_start": 373.3,
+    "context_end": 388.09000000000003,
+    "feedback": [
+        {
+            "name": "fe_03_01930_96.63",
+            "start": 379.99,
+            "end": 380.41,
+            "token": "right"
+        },
+        {
+            "name": "fe_03_01576_230.06",
+            "start": 383.82,
+            "end": 384.05,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_00848_475.4",
+            "start": 385.84,
+            "end": 386.15,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_02019_486.87",
+            "start": 387.68,
+            "end": 388.09000000000003,
+            "token": "yeah"
+        }
+    ]
+}

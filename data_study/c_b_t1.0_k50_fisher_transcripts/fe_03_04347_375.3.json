@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04347",
+    "context_channel": 1,
+    "context_text": "<A> we { don't } / <B> [ exactly ] / <A> respect them anymore { and we g } / <B> [ mhm ] / <A> and we give this we give this white columbus guy a whole day for himself { we got a } / <B> [ mhm ]",
+    "context_start": 375.3,
+    "context_end": 382.01,
+    "feedback": [
+        {
+            "name": "fe_03_00126_596.39",
+            "start": 375.3,
+            "end": 375.92,
+            "token": "exactly"
+        },
+        {
+            "name": "fe_03_01579_144.52",
+            "start": 376.78,
+            "end": 378.15,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_01579_346.34",
+            "start": 380.95,
+            "end": 382.01,
+            "token": "mhm"
+        }
+    ]
+}

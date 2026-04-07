@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02274",
+    "context_channel": 1,
+    "context_text": "<A> and he seems to be sicker { you know } / <B> [ yeah ] / <A> when cau because he smokes like if he gets { a } / <B> [ yeah ] / <A> bad cold it { seems } / <B> [ yeah ]",
+    "context_start": 297.42,
+    "context_end": 304.24,
+    "feedback": [
+        {
+            "name": "fe_03_00202_555.04",
+            "start": 299.58,
+            "end": 300.2,
+            "token": "yeah"
+        },
+        {
+            "name": "fe_03_03840_119.12",
+            "start": 302.08,
+            "end": 302.37,
+            "token": "yeah"
+        },
+        {
+            "name": "fe_03_01003_75.85",
+            "start": 303.76,
+            "end": 304.24,
+            "token": "yeah"
+        }
+    ]
+}

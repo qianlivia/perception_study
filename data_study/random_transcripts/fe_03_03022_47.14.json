@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03022",
     "context_channel": 0,
-    "context_text": "<B> good well what i recommend if you're gonna get a dog is to do a lot of research and make sure you get a breed that's gonna be that's gonna suit your lifestyle / <A> mhm / <B> um my cousin for instance got a jack russell terrier and it tore her house apart { because she } / <A> [ yeah ] / <B> didn't give it they have a lot of energy like border collies have a lot of energy / <A> mhm / <B> uh a lot of the hunting dogs weimaraners things like that you have to walk 'em a lot i have a german shepherd / <A> really",
+    "context_text": "<B> good well what i recommend if you're gonna get a dog is to do a lot of research and make sure you get a breed that's gonna be that's gonna suit your lifestyle  /  <A> right /  <B> um my cousin for instance got a jack russell terrier and it tore her house apart { because she }  /  <A> [really /  <B> didn't give it they have a lot of energy like border collies have a lot of energy  /  <A> wow /  <B> uh a lot of the hunting dogs weimaraners things like that you have to walk 'em a lot i have a german shepherd  /  <A> oh",
     "context_start": 47.14,
-    "context_end": 75.42649999999999,
+    "context_end": 75.16,
     "feedback": [
         {
-            "name": "spontE_294_mhm",
+            "name": "PR_043_right.wav",
             "start": 57.19,
-            "end": 57.788125,
-            "token": "mhm"
+            "end": 57.55,
+            "token": "right"
         },
         {
-            "name": "spontC_084_yeah",
+            "name": "NS_082_really.wav",
             "start": 63.06,
-            "end": 63.487500000000004,
-            "token": "yeah"
-        },
-        {
-            "name": "PR_046_mhm",
-            "start": 68.12,
-            "end": 69.05975000000001,
-            "token": "mhm"
-        },
-        {
-            "name": "NS_002_really",
-            "start": 74.57,
-            "end": 75.42649999999999,
+            "end": 63.64,
             "token": "really"
+        },
+        {
+            "name": "PS_049_wow.wav",
+            "start": 68.12,
+            "end": 68.37,
+            "token": "wow"
+        },
+        {
+            "name": "PS_010_oh.wav",
+            "start": 74.57,
+            "end": 75.16,
+            "token": "oh"
         }
     ]
 }

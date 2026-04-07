@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03101",
+    "context_channel": 1,
+    "context_text": "<A> n no that's about eight and our other dog was out there playing just chasing the ball / <B> really / <A> but he didn't care one way or the other that some guy was running past us but / <B> really / <A> our australian shepherd's very protective / <B> oh / <A> so i got out the insurance policy to see what happens next we have a five hundred dollar deductible so we'll see / <B> wow",
+    "context_start": 334.12,
+    "context_end": 359.59,
+    "feedback": [
+        {
+            "name": "fe_03_05225_541.0",
+            "start": 342.17,
+            "end": 342.71000000000004,
+            "token": "really"
+        },
+        {
+            "name": "fe_03_03101_342.17",
+            "start": 346.37,
+            "end": 346.82,
+            "token": "really"
+        },
+        {
+            "name": "fe_03_02010_423.42",
+            "start": 349.43,
+            "end": 350.01,
+            "token": "oh"
+        },
+        {
+            "name": "fe_03_01325_510.02",
+            "start": 359.06,
+            "end": 359.59,
+            "token": "wow"
+        }
+    ]
+}

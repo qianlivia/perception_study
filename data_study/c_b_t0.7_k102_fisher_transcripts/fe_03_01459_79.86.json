@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_01459",
+    "context_channel": 1,
+    "context_text": "<A> know such and such my mother in law just got back from new york as a matter of fact uh last month in march she went up to new york / <B> mhm / <A> and she said up there that the people's attitudes were a lot different than what they were down here / <B> really / <A> because uh you know september eleventh { happened } / <B> [ mhm ] / <A> up there { and } / <B> [ wow ]",
+    "context_start": 79.86,
+    "context_end": 100.47,
+    "feedback": [
+        {
+            "name": "fe_03_01681_78.49",
+            "start": 88.44,
+            "end": 88.92999999999999,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_04203_119.49",
+            "start": 94.84,
+            "end": 95.67,
+            "token": "really"
+        },
+        {
+            "name": "fe_03_01374_89.09",
+            "start": 98.05,
+            "end": 99.44,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_01872_356.28",
+            "start": 99.87,
+            "end": 100.47,
+            "token": "wow"
+        }
+    ]
+}

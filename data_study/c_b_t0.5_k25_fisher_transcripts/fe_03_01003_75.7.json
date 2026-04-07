@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_01003",
+    "context_channel": 1,
+    "context_text": "<A> i / <B> mhm / <A> have three children so i know what you mean by you'd be more protective / <B> mhm / <A> and more concerned about the children / <B> mhm",
+    "context_start": 75.7,
+    "context_end": 82.9,
+    "feedback": [
+        {
+            "name": "fe_03_04305_376.25",
+            "start": 75.85,
+            "end": 76.14999999999999,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_01542_569.95",
+            "start": 79.44,
+            "end": 79.89,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_03070_374.27",
+            "start": 82.31,
+            "end": 82.9,
+            "token": "mhm"
+        }
+    ]
+}

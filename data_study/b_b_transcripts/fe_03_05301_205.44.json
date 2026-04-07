@@ -1,33 +1,33 @@
 {
     "name": "fe_03_05301",
     "context_channel": 1,
-    "context_text": "<A> when it when this stuff is so fine ah it goes through a envelope { it's } / <B> [ oh ] / <A> amazing how fine this stuff is { but all } / <B> [ wow ] / <A> you have to do is shake the envelope and the stuff that comes out through the ah envelope / <B> right / <A> it's amazing how this stuff is so fine how it how small it can ah be hidden { from } / <B> [ right ]",
+    "context_text": "<A> when it when this stuff is so fine ah it goes through a envelope { it's }  /  <B> [uh-huh /  <A> amazing how fine this stuff is { but all }  /  <B> [wow /  <A> you have to do is shake the envelope and the stuff that comes out through the ah envelope  /  <B> right /  <A> it's amazing how this stuff is so fine how it how small it can ah be hidden { from }  /  <B> [yeah",
     "context_start": 205.44,
-    "context_end": 223.76,
+    "context_end": 223.49,
     "feedback": [
         {
-            "name": "spontF_109_oh",
+            "name": "spontA_406_uh-huh.wav",
             "start": 209.75,
-            "end": 210.0895,
-            "token": "oh"
+            "end": 210.04,
+            "token": "uh-huh"
         },
         {
-            "name": "PS_164_wow",
+            "name": "PS_164_wow.wav",
             "start": 212.27,
-            "end": 213.40925000000001,
+            "end": 212.86,
             "token": "wow"
         },
         {
-            "name": "sun1_032_right",
+            "name": "sun1_032_right.wav",
             "start": 217.4,
-            "end": 218.24337500000001,
+            "end": 217.77,
             "token": "right"
         },
         {
-            "name": "PR_043_right",
+            "name": "spontE_197_yeah.wav",
             "start": 223.1,
-            "end": 223.76,
-            "token": "right"
+            "end": 223.49,
+            "token": "yeah"
         }
     ]
 }

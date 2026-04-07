@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_03785",
+    "context_channel": 1,
+    "context_text": "<A> was i was at a bar and i criticized the movie chorus line and / <B> mhm / <A> the person said that's because you're not in theater or you'd appreciate this { you would } / <B> [ okay ] / <A> appreciate the movie { and i } / <B> [ mhm ]",
+    "context_start": 137.97,
+    "context_end": 154.72,
+    "feedback": [
+        {
+            "name": "fe_03_00963_116.76",
+            "start": 145.78,
+            "end": 146.15,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_01935_467.0",
+            "start": 152.12,
+            "end": 152.76,
+            "token": "okay"
+        },
+        {
+            "name": "fe_03_03728_89.8",
+            "start": 154.1,
+            "end": 154.72,
+            "token": "mhm"
+        }
+    ]
+}

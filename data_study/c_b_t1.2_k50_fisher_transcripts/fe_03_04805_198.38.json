@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04805",
+    "context_channel": 1,
+    "context_text": "<A> i don't like smoking when i'm eating / <B> really / <A> and the smell of it if it's right on top of me / <B> really / <A> kind of bothers me when i'm eating / <B> really / <A> but i know after i've eaten i want that cigarette { actually i } / <B> [ mhm ]",
+    "context_start": 198.38,
+    "context_end": 212.44,
+    "feedback": [
+        {
+            "name": "fe_03_03518_474.36",
+            "start": 200.79,
+            "end": 201.25,
+            "token": "really"
+        },
+        {
+            "name": "fe_03_05225_541.0",
+            "start": 204.87,
+            "end": 205.41,
+            "token": "really"
+        },
+        {
+            "name": "fe_03_03891_534.52",
+            "start": 207.41,
+            "end": 208.2,
+            "token": "really"
+        },
+        {
+            "name": "fe_03_04194_371.48",
+            "start": 210.69,
+            "end": 212.44,
+            "token": "mhm"
+        }
+    ]
+}

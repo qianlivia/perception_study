@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_01483",
+    "context_channel": 0,
+    "context_text": "<B> something that happened spontaneously / <A> mhm / <B> and um i do believe that the um the president um had forewarned uh they had um messages that { were } / <A> [ mhm ] / <B> left and they was forewarned about the destruction / <A> mhm",
+    "context_start": 238.84,
+    "context_end": 253.16,
+    "feedback": [
+        {
+            "name": "fe_03_00085_123.56",
+            "start": 240.34,
+            "end": 240.75,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_04537_301.3",
+            "start": 249.66,
+            "end": 250.13,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_05511_477.87",
+            "start": 252.81,
+            "end": 253.16,
+            "token": "mhm"
+        }
+    ]
+}

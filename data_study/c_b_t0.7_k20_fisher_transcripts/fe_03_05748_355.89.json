@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_05748",
+    "context_channel": 1,
+    "context_text": "<A> got all the encyclopedias online / <B> mhm / <A> so she can just go to you know encyclopedia britannica / <B> uh-huh / <A> type up her subject and find out about things and not have to worry about spending / <B> yeah",
+    "context_start": 355.89,
+    "context_end": 368.03000000000003,
+    "feedback": [
+        {
+            "name": "fe_03_01466_171.45",
+            "start": 358.19,
+            "end": 358.6,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_05193_298.05",
+            "start": 362.21,
+            "end": 362.54999999999995,
+            "token": "uh-huh"
+        },
+        {
+            "name": "fe_03_00800_347.8",
+            "start": 367.74,
+            "end": 368.03000000000003,
+            "token": "yeah"
+        }
+    ]
+}

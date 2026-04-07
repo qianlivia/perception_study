@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00110",
+    "context_channel": 1,
+    "context_text": "<A> like war in this age would necessarily involve like very schem scary chemicals and very / <B> yeah / <A> like explosive things { i mean } / <B> [ exactly ] / <A> i'm a chemistry major and i know like all these things that it can do to you and { that's } / <B> [ mhm ] / <A> it's not pleasant / <B> exactly",
+    "context_start": 654.05,
+    "context_end": 669.0600000000001,
+    "feedback": [
+        {
+            "name": "fe_03_03246_155.89",
+            "start": 659.69,
+            "end": 659.95,
+            "token": "yeah"
+        },
+        {
+            "name": "fe_03_03822_520.68",
+            "start": 661.27,
+            "end": 661.950125,
+            "token": "exactly"
+        },
+        {
+            "name": "fe_03_04938_146.95",
+            "start": 665.85,
+            "end": 666.4300000000001,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_04302_554.98",
+            "start": 668.2,
+            "end": 669.0600000000001,
+            "token": "exactly"
+        }
+    ]
+}

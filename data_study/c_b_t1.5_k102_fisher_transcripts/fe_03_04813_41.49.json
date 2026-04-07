@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_04813",
+    "context_channel": 1,
+    "context_text": "<A> yeah like when i was little my dad you know i had like bronchitis / <B> mhm / <A> my dad smoked in the house and made it { worse } / <B> [ mhm ] / <A> like every day / <B> oh / <A> he had to quit / <B> uh-huh",
+    "context_start": 41.49,
+    "context_end": 52.730000000000004,
+    "feedback": [
+        {
+            "name": "fe_03_02117_125.84",
+            "start": 45.69,
+            "end": 46.059999999999995,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_04194_371.48",
+            "start": 48.38,
+            "end": 50.13,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_03164_561.24",
+            "start": 50.55,
+            "end": 51.269999999999996,
+            "token": "oh"
+        },
+        {
+            "name": "fe_03_00129_621.43",
+            "start": 52.14,
+            "end": 52.730000000000004,
+            "token": "uh-huh"
+        }
+    ]
+}

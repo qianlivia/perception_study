@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_00134",
+    "context_channel": 1,
+    "context_text": "<A> on the ground in sierra leone and we're going to put people on the ground in congo and we're going to put people { on the ground } / <B> [ really ] / <A> everywhere / <B> wow / <A> but you know obviously we can't over commit our troops and so i think i mean it feels to me like you know we're we're driven to do something about iraq because of oil { you } / <B> [ mhm ] / <A> know and i don't know it just it just seems so strange like bush doesn't even want / <B> uh-huh",
+    "context_start": 210.38,
+    "context_end": 240.70000000000002,
+    "feedback": [
+        {
+            "name": "fe_03_01695_374.29",
+            "start": 214.07,
+            "end": 214.97,
+            "token": "really"
+        },
+        {
+            "name": "fe_03_00658_105.05",
+            "start": 214.96,
+            "end": 215.55,
+            "token": "wow"
+        },
+        {
+            "name": "fe_03_03939_442.87",
+            "start": 224.07,
+            "end": 224.60999999999999,
+            "token": "mhm"
+        },
+        {
+            "name": "fe_03_02676_177.39",
+            "start": 240.3,
+            "end": 240.70000000000002,
+            "token": "uh-huh"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_02833",
+    "context_channel": 1,
+    "context_text": "<A> you you university of colorado / <B> uh-huh / <A> that's cool { i } / <B> [ yeah ] / <A> have a lot of friends in boulder it's a great town but it's a little bit too uh suburban strip { malls for } / <B> [ mhm ]",
+    "context_start": 245.37,
+    "context_end": 255.24,
+    "feedback": [
+        {
+            "name": "fe_03_02217_401.17",
+            "start": 247.61,
+            "end": 247.97000000000003,
+            "token": "uh-huh"
+        },
+        {
+            "name": "fe_03_04817_230.42",
+            "start": 249.15,
+            "end": 249.44,
+            "token": "yeah"
+        },
+        {
+            "name": "fe_03_01902_144.97",
+            "start": 254.31,
+            "end": 255.24,
+            "token": "mhm"
+        }
+    ]
+}

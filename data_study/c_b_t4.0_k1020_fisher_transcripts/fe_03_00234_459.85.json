@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_00234",
+    "context_channel": 0,
+    "context_text": "<B> uh yeah and i live i live in a big town right now but { i'm } / <A> [ uh-huh ] / <B> not like but i can't like manhattan is like really intense / <A> right / <B> and so i actually live in brooklyn and i love like one of the boroughs i love going home every night to like brooklyn for there's like real streets and and / <A> right",
+    "context_start": 459.85,
+    "context_end": 476.34000000000003,
+    "feedback": [
+        {
+            "name": "fe_03_02113_376.82",
+            "start": 462.55,
+            "end": 463.03000000000003,
+            "token": "uh-huh"
+        },
+        {
+            "name": "fe_03_02618_157.04",
+            "start": 467.11,
+            "end": 467.59000000000003,
+            "token": "right"
+        },
+        {
+            "name": "fe_03_01777_238.67",
+            "start": 475.91,
+            "end": 476.34000000000003,
+            "token": "right"
+        }
+    ]
+}

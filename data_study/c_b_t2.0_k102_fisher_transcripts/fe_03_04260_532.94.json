@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_04260",
+    "context_channel": 1,
+    "context_text": "<A> bad problems with my shoulder and arm i banged it to the shield windshield and { had a lot of } / <B> [ exactly ] / <A> a lot of nerve pain and stuff like that for for six months or a { year } / <B> [ wow ] / <A> well actually i still have it now { it's something that } / <B> [ mhm ]",
+    "context_start": 532.94,
+    "context_end": 545.09,
+    "feedback": [
+        {
+            "name": "fe_03_05081_591.0",
+            "start": 536.9,
+            "end": 537.75,
+            "token": "exactly"
+        },
+        {
+            "name": "fe_03_03051_480.66",
+            "start": 541.4,
+            "end": 542.1,
+            "token": "wow"
+        },
+        {
+            "name": "fe_03_05592_488.52",
+            "start": 543.64,
+            "end": 545.09,
+            "token": "mhm"
+        }
+    ]
+}

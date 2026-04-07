@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_01266",
+    "context_channel": 0,
+    "context_text": "<B> ah pretty meg meg ryan and { you know those } / <A> [ right ] / <B> ah pretty light light / <A> yeah / <B> romantic comedy those are you know those i like too and then suspense and then i well i i like action too { one } / <A> [ yeah ]",
+    "context_start": 292.6,
+    "context_end": 306.84999999999997,
+    "feedback": [
+        {
+            "name": "fe_03_00038_415.3",
+            "start": 295.11,
+            "end": 296.62,
+            "token": "right"
+        },
+        {
+            "name": "fe_03_05100_234.01",
+            "start": 297.06,
+            "end": 297.5,
+            "token": "yeah"
+        },
+        {
+            "name": "fe_03_03101_200.46",
+            "start": 306.28,
+            "end": 306.84999999999997,
+            "token": "yeah"
+        }
+    ]
+}

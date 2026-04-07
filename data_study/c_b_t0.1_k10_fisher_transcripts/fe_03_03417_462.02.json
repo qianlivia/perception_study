@@ -1,0 +1,33 @@
+{
+    "name": "fe_03_03417",
+    "context_channel": 0,
+    "context_text": "<B> well uh i'm a a navy retiree / <A> okay / <B> and my children are scattered all the way across the country / <A> oh / <B> my son is the only one that's close to me here / <A> okay / <B> i have uh one in atlanta and one in virginia / <A> wow",
+    "context_start": 462.02,
+    "context_end": 481.86999999999995,
+    "feedback": [
+        {
+            "name": "fe_03_05143_519.42",
+            "start": 467.39,
+            "end": 467.830125,
+            "token": "okay"
+        },
+        {
+            "name": "fe_03_02010_423.42",
+            "start": 471.55,
+            "end": 472.13,
+            "token": "oh"
+        },
+        {
+            "name": "fe_03_04813_52.14",
+            "start": 475.45,
+            "end": 475.9,
+            "token": "okay"
+        },
+        {
+            "name": "fe_03_01819_474.3",
+            "start": 481.34,
+            "end": 481.86999999999995,
+            "token": "wow"
+        }
+    ]
+}

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04256",
     "context_channel": 1,
-    "context_text": "<A> um in college when i should have been doing a lot more than what i i could have done / <B> yeah / <A> and not kept focus and um could have / <B> uh-huh / <A> kept a better focus so / <B> uh-huh / <A> um / <B> yeah",
+    "context_text": "<A> um in college when i should have been doing a lot more than what i i could have done  /  <B> yeah /  <A> and not kept focus and um could have  /  <B> wow /  <A> kept a better focus so  /  <B> oh /  <A> um  /  <B> right",
     "context_start": 373.3,
-    "context_end": 388.8315,
+    "context_end": 388.07,
     "feedback": [
         {
-            "name": "spontF_432_yeah",
+            "name": "spontA_016_yeah.wav",
             "start": 379.99,
-            "end": 380.644875,
+            "end": 380.49,
             "token": "yeah"
         },
         {
-            "name": "spontF_082_uh-huh",
+            "name": "PS_151_wow.wav",
             "start": 383.82,
-            "end": 384.6795,
-            "token": "uh-huh"
+            "end": 384.15,
+            "token": "wow"
         },
         {
-            "name": "spontE_304_uh-huh",
+            "name": "spontF_125_oh.wav",
             "start": 385.84,
-            "end": 386.32762499999995,
-            "token": "uh-huh"
+            "end": 386.45,
+            "token": "oh"
         },
         {
-            "name": "spontC_335_yeah",
+            "name": "sun1_032_right.wav",
             "start": 387.68,
-            "end": 388.8315,
-            "token": "yeah"
+            "end": 388.07,
+            "token": "right"
         }
     ]
 }

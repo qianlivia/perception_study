@@ -1,32 +1,32 @@
 {
     "name": "fe_03_03793",
     "context_channel": 1,
-    "context_text": "<A> and he was like okay redneck well my dad was a redneck so it sort of like hit home { and my } / <B> [ yeah ] / <A> dad would laugh at him / <B> okay / <A> and i looked at my dad and i'm like dad if you were raised on farm you did all that and he goes but it's funny he goes cause i look back on my life and go hm i actually did that / <B> okay / <A> and we were actually in the car when it came on because we would drive back and forth to our camp ground and my dad was always the one that said you know comedy could be really nice and pleasant like that we listened to it every time or he goes he switched to one that was like really racial and he goes or it can be like this so i was raised to where if you cross that border you just turn it off / <B> okay",
+    "context_text": "<A> and he was like okay redneck well my dad was a redneck so it sort of like hit home { and my }  /  <B> [mhm /  <A> dad would laugh at him  /  <B> yeah /  <A> and i looked at my dad and i'm like dad if you were raised on farm you did all that and he goes but it's funny he goes cause i look back on my life and go hm i actually did that  /  <B> right /  <A> and we were actually in the car when it came on because we would drive back and forth to our camp ground and my dad was always the one that said you know comedy could be really nice and pleasant like that we listened to it every time or he goes he switched to one that was like really racial and he goes or it can be like this so i was raised to where if you cross that border you just turn it off  /  <B> okay",
     "context_start": 399.83,
-    "context_end": 433.45825,
+    "context_end": 432.91,
     "feedback": [
         {
-            "name": "spontC_024_yeah",
+            "name": "spontA_068_mhm.wav",
             "start": 404.99,
-            "end": 405.729625,
+            "end": 405.36,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_092_yeah.wav",
+            "start": 406.36,
+            "end": 406.98,
             "token": "yeah"
         },
         {
-            "name": "spontF_643_okay",
-            "start": 406.36,
-            "end": 407.06800000000004,
-            "token": "okay"
-        },
-        {
-            "name": "spontF_386_okay",
+            "name": "sun_007_right.wav",
             "start": 413.59,
-            "end": 414.081125,
-            "token": "okay"
+            "end": 414.18,
+            "token": "right"
         },
         {
-            "name": "spontF_053_okay",
+            "name": "spontA_198_okay.wav",
             "start": 432.63,
-            "end": 433.45825,
+            "end": 432.91,
             "token": "okay"
         }
     ]

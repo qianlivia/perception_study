@@ -1,0 +1,39 @@
+{
+    "name": "fe_03_02693",
+    "context_channel": 1,
+    "context_text": "<A> well my uh our tradition with my in laws is they take us on a birthday shopping trip / <B> oh / <A> and we can buy whatever we want / <B> oh / <A> and they take us out to a special birthday lunch / <B> wow / <A> we can pick whatever restaurant we want / <B> wow / <A> and if we want a homemade cake or if we want um if we want um you know a store bought cake or if we just want desert at the restaurant { and } / <B> [ wow ]",
+    "context_start": 375.45,
+    "context_end": 403.25,
+    "feedback": [
+        {
+            "name": "fe_03_03382_149.12",
+            "start": 381.26,
+            "end": 381.93,
+            "token": "oh"
+        },
+        {
+            "name": "fe_03_02360_439.98",
+            "start": 383.95,
+            "end": 384.58,
+            "token": "oh"
+        },
+        {
+            "name": "fe_03_02660_494.03",
+            "start": 386.85,
+            "end": 388.25,
+            "token": "wow"
+        },
+        {
+            "name": "fe_03_01262_504.43",
+            "start": 390.85,
+            "end": 391.51000000000005,
+            "token": "wow"
+        },
+        {
+            "name": "fe_03_00342_257.82",
+            "start": 402.56,
+            "end": 403.25,
+            "token": "wow"
+        }
+    ]
+}

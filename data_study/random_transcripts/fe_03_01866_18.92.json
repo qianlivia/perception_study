@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01866",
     "context_channel": 1,
-    "context_text": "<A> okay um i guess i could start off saying i'm twenty five years old and i have one daughter she's two and a half / <B> right / <A> so um that's my little family / <B> mhm / <A> and um family means a lot to me / <B> right / <A> um especially with everything that's going on in the world it makes me a lot closer with her you know i mean especially kidnappings and this and that you know you gotta keep your eye on you know your child and you know and with the war going on it makes you want to be closer makes me want to be closer with my family because you { never } / <B> [ right ]",
+    "context_text": "<A> okay um i guess i could start off saying i'm twenty five years old and i have one daughter she's two and a half  /  <B> right /  <A> so um that's my little family  /  <B> mhm /  <A> and um family means a lot to me  /  <B> okay /  <A> um especially with everything that's going on in the world it makes me a lot closer with her you know i mean especially kidnappings and this and that you know you gotta keep your eye on you know your child and you know and with the war going on it makes you want to be closer makes me want to be closer with my family because you { never }  /  <B> [okay",
     "context_start": 18.92,
-    "context_end": 53.4535,
+    "context_end": 53.11,
     "feedback": [
         {
-            "name": "sun1_032_right",
+            "name": "sun_007_right.wav",
             "start": 25.18,
-            "end": 26.023375,
+            "end": 25.53,
             "token": "right"
         },
         {
-            "name": "spontA_120_mhm",
+            "name": "spontB_377_mhm.wav",
             "start": 28.68,
-            "end": 29.134875,
+            "end": 29.21,
             "token": "mhm"
         },
         {
-            "name": "sun1_029_right",
+            "name": "spontF_643_okay.wav",
             "start": 33.21,
-            "end": 33.902,
-            "token": "right"
+            "end": 33.56,
+            "token": "okay"
         },
         {
-            "name": "sun_013_right",
+            "name": "spontE_405_okay.wav",
             "start": 52.58,
-            "end": 53.4535,
-            "token": "right"
+            "end": 53.11,
+            "token": "okay"
         }
     ]
 }

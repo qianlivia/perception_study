@@ -1,0 +1,27 @@
+{
+    "name": "fe_03_01104",
+    "context_channel": 1,
+    "context_text": "<A> eating at her house but because she accepted money { it was } / <B> [ right ] / <A> considered a business / <B> right / <A> you know then taxes ca you know irs came after her { because they found } / <B> [ mhm ]",
+    "context_start": 575.36,
+    "context_end": 586.49,
+    "feedback": [
+        {
+            "name": "fe_03_03683_49.81",
+            "start": 578.69,
+            "end": 579.1600000000001,
+            "token": "right"
+        },
+        {
+            "name": "fe_03_04299_325.29",
+            "start": 580.78,
+            "end": 581.36,
+            "token": "right"
+        },
+        {
+            "name": "fe_03_05358_323.69",
+            "start": 584.59,
+            "end": 586.49,
+            "token": "mhm"
+        }
+    ]
+}
