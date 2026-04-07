@@ -1,32 +1,32 @@
 {
     "name": "fe_03_04256",
     "context_channel": 1,
-    "context_text": "<A> um in college when i should have been doing a lot more than what i i could have done  /  <B> mhm /  <A> and not kept focus and um could have  /  <B> okay /  <A> kept a better focus so  /  <B> okay /  <A> um  /  <B> right",
+    "context_text": "<A> um in college when i should have been doing a lot more than what i i could have done / <B> mhm / <A> and not kept focus and um could have / <B> okay / <A> kept a better focus so / <B> okay / <A> um / <B> right",
     "context_start": 373.3,
-    "context_end": 388.07,
+    "context_end": 388.26,
     "feedback": [
         {
-            "name": "sun1_006_mhm.wav",
+            "name": "sun1_006_mhm",
             "start": 379.99,
-            "end": 380.49,
+            "end": 380.69,
             "token": "mhm"
         },
         {
-            "name": "spontB_028_okay.wav",
+            "name": "spontB_028_okay",
             "start": 383.82,
-            "end": 384.15,
+            "end": 384.25,
             "token": "okay"
         },
         {
-            "name": "spontF_583_okay.wav",
+            "name": "spontF_583_okay",
             "start": 385.84,
-            "end": 386.45,
+            "end": 387.02,
             "token": "okay"
         },
         {
-            "name": "spontC_360_right.wav",
+            "name": "spontC_360_right",
             "start": 387.68,
-            "end": 388.07,
+            "end": 388.26,
             "token": "right"
         }
     ]

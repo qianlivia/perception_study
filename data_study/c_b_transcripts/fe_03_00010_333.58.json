@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00010",
     "context_channel": 1,
-    "context_text": "<A> um no we met in north carolina before uh he was in the army and he was getting stationed over there / <B> oh / <A> and uh so actually he was stationed there and i became an acquired army spouse { because } / <B> [ wow ] / <A> um he married me after he was stationed there so yeah we lived there for four years and so it was yo you know your you get kind of spoiled because you can go in to any supermarket and just you know carry it out / <B> yeah / <A> and um there was uh a sushi place that i used to call and order the sushi platter / <B> yeah",
+    "context_text": "<A> um no we met in north carolina before uh he was in the army and he was getting stationed over there / <B> uh-huh / <A> and uh so actually he was stationed there and i became an acquired army spouse { because } / <B> [ uh-huh ] / <A> um he married me after he was stationed there so yeah we lived there for four years and so it was yo you know your you get kind of spoiled because you can go in to any supermarket and just you know carry it out / <B> yeah / <A> and um there was uh a sushi place that i used to call and order the sushi platter / <B> uh-huh",
     "context_start": 333.58,
-    "context_end": 367.2335,
+    "context_end": 367.1,
     "feedback": [
         {
-            "name": "Sy_055_oh",
+            "name": "spontB_318_uh-huh",
             "start": 339.65,
-            "end": 340.475875,
-            "token": "oh"
+            "end": 340.33,
+            "token": "uh-huh"
         },
         {
-            "name": "PS_085_wow",
+            "name": "spontF_359_uh-huh",
             "start": 346.31,
-            "end": 347.17900000000003,
-            "token": "wow"
+            "end": 346.96,
+            "token": "uh-huh"
         },
         {
-            "name": "spontA_448_yeah",
+            "name": "spontE_331_yeah",
             "start": 358.66,
-            "end": 359.17925,
+            "end": 359.36,
             "token": "yeah"
         },
         {
-            "name": "spontF_380_yeah",
+            "name": "spontB_129_uh-huh",
             "start": 366.62,
-            "end": 367.2335,
-            "token": "yeah"
+            "end": 367.1,
+            "token": "uh-huh"
         }
     ]
 }

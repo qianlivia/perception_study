@@ -1,33 +1,33 @@
 {
     "name": "fe_03_00010",
     "context_channel": 1,
-    "context_text": "<A> um no we met in north carolina before uh he was in the army and he was getting stationed over there / <B> mhm / <A> and uh so actually he was stationed there and i became an acquired army spouse { because } / <B> [ oh ] / <A> um he married me after he was stationed there so yeah we lived there for four years and so it was yo you know your you get kind of spoiled because you can go in to any supermarket and just you know carry it out / <B> right / <A> and um there was uh a sushi place that i used to call and order the sushi platter / <B> mhm",
+    "context_text": "<A> um no we met in north carolina before uh he was in the army and he was getting stationed over there / <B> really / <A> and uh so actually he was stationed there and i became an acquired army spouse { because } / <B> [ okay ] / <A> um he married me after he was stationed there so yeah we lived there for four years and so it was yo you know your you get kind of spoiled because you can go in to any supermarket and just you know carry it out / <B> mhm / <A> and um there was uh a sushi place that i used to call and order the sushi platter / <B> uh-huh",
     "context_start": 333.58,
-    "context_end": 367.09325,
+    "context_end": 367.43,
     "feedback": [
         {
-            "name": "spontA_395_mhm",
+            "name": "NS_002_really",
             "start": 339.65,
-            "end": 340.26462499999997,
-            "token": "mhm"
+            "end": 340.51,
+            "token": "really"
         },
         {
-            "name": "spontF_099_oh",
+            "name": "spontB_028_okay",
             "start": 346.31,
-            "end": 346.9135,
-            "token": "oh"
+            "end": 346.74,
+            "token": "okay"
         },
         {
-            "name": "PR_043_right",
+            "name": "spontA_151_mhm",
             "start": 358.66,
-            "end": 359.32000000000005,
-            "token": "right"
+            "end": 359.21,
+            "token": "mhm"
         },
         {
-            "name": "spontA_147_mhm",
+            "name": "sun1_034_uh-huh",
             "start": 366.62,
-            "end": 367.09325,
-            "token": "mhm"
+            "end": 367.43,
+            "token": "uh-huh"
         }
     ]
 }

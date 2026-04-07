@@ -1,45 +1,45 @@
 {
     "name": "fe_03_01596",
     "context_channel": 1,
-    "context_text": "<A> right well for a while when i was flying i um w would get targeted because i um bought a one-way ticket / <B> uh-huh / <A> at the last minute { and i } / <B> [ uh-huh ] / <A> think that's that's something that they look out for and what else did i do there was one other thing that i did and someone said oh that's probably why { they } / <B> [ uh-huh ] / <A> called you out / <B> uh-huh / <A> and i've seen them call out all different types of people here on the east coast / <B> yeah / <A> older people much older people um pregnant women / <B> uh-huh",
+    "context_text": "<A> right well for a while when i was flying i um w would get targeted because i um bought a one-way ticket / <B> uh-huh / <A> at the last minute { and i } / <B> [ oh ] / <A> think that's that's something that they look out for and what else did i do there was one other thing that i did and someone said oh that's probably why { they } / <B> [ oh ] / <A> called you out / <B> oh / <A> and i've seen them call out all different types of people here on the east coast / <B> uh-huh / <A> older people much older people um pregnant women / <B> wow",
     "context_start": 319.92,
-    "context_end": 353.06975,
+    "context_end": 353.31,
     "feedback": [
         {
-            "name": "spontD_020_uh-huh",
+            "name": "spontC_378_uh-huh",
             "start": 328.43,
-            "end": 328.934625,
+            "end": 328.94,
             "token": "uh-huh"
         },
         {
-            "name": "spontF_183_uh-huh",
+            "name": "spontF_207_oh",
             "start": 330.36,
-            "end": 331.053625,
-            "token": "uh-huh"
+            "end": 330.74,
+            "token": "oh"
         },
         {
-            "name": "spontA_051_uh-huh",
+            "name": "PS_111_oh",
             "start": 339.9,
-            "end": 340.45925,
-            "token": "uh-huh"
+            "end": 340.68,
+            "token": "oh"
         },
         {
-            "name": "spontC_128_uh-huh",
+            "name": "Sy_055_oh",
             "start": 341.56,
-            "end": 342.060875,
-            "token": "uh-huh"
+            "end": 342.39,
+            "token": "oh"
         },
         {
-            "name": "spontF_380_yeah",
+            "name": "spontB_383_uh-huh",
             "start": 347.42,
-            "end": 348.0335,
-            "token": "yeah"
+            "end": 348.02,
+            "token": "uh-huh"
         },
         {
-            "name": "spontA_290_uh-huh",
+            "name": "PS_057_wow",
             "start": 352.57,
-            "end": 353.06975,
-            "token": "uh-huh"
+            "end": 353.31,
+            "token": "wow"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03382",
     "context_channel": 1,
-    "context_text": "<A> oh okay okay i belong to a uh a deal board { uh } / <B> [ right ] / <A> on the internet and that's how i found out about it a friend of mine had had been participating in this for a while / <B> right / <A> and uh she had told me about it so / <B> yeah / <A> uh this is only my uh my second time actually talking to somebody though i've been uh the first time was about three months ago and and you're right it was a current event then so { this } / <B> [ right ]",
+    "context_text": "<A> oh okay okay i belong to a uh a deal board { uh } / <B> [ okay ] / <A> on the internet and that's how i found out about it a friend of mine had had been participating in this for a while / <B> wow / <A> and uh she had told me about it so / <B> really / <A> uh this is only my uh my second time actually talking to somebody though i've been uh the first time was about three months ago and and you're right it was a current event then so { this } / <B> [ mhm ]",
     "context_start": 136.53,
-    "context_end": 163.49200000000002,
+    "context_end": 163.32,
     "feedback": [
         {
-            "name": "PR_048_right",
+            "name": "spontD_410_okay",
             "start": 142.18,
-            "end": 142.815125,
-            "token": "right"
+            "end": 142.6,
+            "token": "okay"
         },
         {
-            "name": "sun1_030_right",
+            "name": "PS_176_wow",
             "start": 149.12,
-            "end": 149.913625,
-            "token": "right"
+            "end": 150.12,
+            "token": "wow"
         },
         {
-            "name": "spontA_016_yeah",
+            "name": "NS_082_really",
             "start": 152.32,
-            "end": 153.2805,
-            "token": "yeah"
+            "end": 153.07,
+            "token": "really"
         },
         {
-            "name": "sun1_029_right",
+            "name": "spontC_304_mhm",
             "start": 162.8,
-            "end": 163.49200000000002,
-            "token": "right"
+            "end": 163.32,
+            "token": "mhm"
         }
     ]
 }

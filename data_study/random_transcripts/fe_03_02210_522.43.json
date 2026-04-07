@@ -1,27 +1,27 @@
 {
     "name": "fe_03_02210",
     "context_channel": 1,
-    "context_text": "<A> and they have on it that they have it started in san francisco so the first one time you go there it will um come up to a san francisco page / <B> right / <A> but they have other cities that you can go and find information out or jobs or whatever um it's just unreal it's i've never seen anything like it / <B> really / <A> you know and they have part time jobs etcetera jobs they have you know chat rooms they have um apartments for rent and just stuff an and legitimate businesses around here use it { and i think } / <B> [ okay ]",
+    "context_text": "<A> and they have on it that they have it started in san francisco so the first one time you go there it will um come up to a san francisco page / <B> oh / <A> but they have other cities that you can go and find information out or jobs or whatever um it's just unreal it's i've never seen anything like it / <B> yeah / <A> you know and they have part time jobs etcetera jobs they have you know chat rooms they have um apartments for rent and just stuff an and legitimate businesses around here use it { and i think } / <B> [ uh-huh ]",
     "context_start": 522.43,
-    "context_end": 561.4768750000001,
+    "context_end": 561.46,
     "feedback": [
         {
-            "name": "PR_043_right",
+            "name": "Sy_055_oh",
             "start": 532.52,
-            "end": 533.18,
-            "token": "right"
+            "end": 533.35,
+            "token": "oh"
         },
         {
-            "name": "PS_070_really",
+            "name": "spontC_043_yeah",
             "start": 543.99,
-            "end": 544.678625,
-            "token": "really"
+            "end": 544.52,
+            "token": "yeah"
         },
         {
-            "name": "spontE_391_okay",
+            "name": "spontC_128_uh-huh",
             "start": 560.96,
-            "end": 561.4768750000001,
-            "token": "okay"
+            "end": 561.46,
+            "token": "uh-huh"
         }
     ]
 }

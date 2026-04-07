@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04256",
     "context_channel": 1,
-    "context_text": "<A> older boy in college asked me out the same night and i ended up breaking the date with the guy that was in the hospital that was another thing i wish i would have not have done because i thought that was pretty pretty awful of me 'cause i just called and told his parents that { i } / <B> [ uh-huh ] / <A> wasn't going to be able to go { and } / <B> [ yeah ] / <A> um that i was so sorry and he had already told all his friends he was so excited he was going to go this college party and / <B> wow / <A> when he got out of the hospital and oh it was just bad so not only did i feel like i'd let him down after spending so much time with him but that i'd let down my other friend { who } / <B> [ mhm ]",
+    "context_text": "<A> older boy in college asked me out the same night and i ended up breaking the date with the guy that was in the hospital that was another thing i wish i would have not have done because i thought that was pretty pretty awful of me 'cause i just called and told his parents that { i } / <B> [ mhm ] / <A> wasn't going to be able to go { and } / <B> [ really ] / <A> um that i was so sorry and he had already told all his friends he was so excited he was going to go this college party and / <B> mhm / <A> when he got out of the hospital and oh it was just bad so not only did i feel like i'd let him down after spending so much time with him but that i'd let down my other friend { who } / <B> [ okay ]",
     "context_start": 468.23,
-    "context_end": 505.406875,
+    "context_end": 505.47,
     "feedback": [
         {
-            "name": "spontF_478_uh-huh",
+            "name": "spontA_063_mhm",
             "start": 484.03,
-            "end": 484.554125,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontB_366_yeah",
-            "start": 486.22,
-            "end": 486.87625,
-            "token": "yeah"
-        },
-        {
-            "name": "PS_060_wow",
-            "start": 494.0,
-            "end": 495.266875,
-            "token": "wow"
-        },
-        {
-            "name": "spontA_318_mhm",
-            "start": 504.73,
-            "end": 505.406875,
+            "end": 484.52,
             "token": "mhm"
+        },
+        {
+            "name": "sun2_001_really",
+            "start": 486.22,
+            "end": 486.95,
+            "token": "really"
+        },
+        {
+            "name": "spontA_400_mhm",
+            "start": 494.0,
+            "end": 494.82,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_181_okay",
+            "start": 504.73,
+            "end": 505.47,
+            "token": "okay"
         }
     ]
 }

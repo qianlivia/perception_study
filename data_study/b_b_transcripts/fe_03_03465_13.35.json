@@ -1,32 +1,32 @@
 {
     "name": "fe_03_03465",
     "context_channel": 1,
-    "context_text": "<A> um they're talking about what's the most important thing in a life partner  /  <B> yeah /  <A> and i'm thirty about to be thirty five i've been { with }  /  <B> [wow /  <A> the same girl for more than twelve years  /  <B> mhm /  <A> we're still not married  /  <B> okay",
+    "context_text": "<A> um they're talking about what's the most important thing in a life partner / <B> yeah / <A> and i'm thirty about to be thirty five i've been { with } / <B> [ wow ] / <A> the same girl for more than twelve years / <B> mhm / <A> we're still not married / <B> okay",
     "context_start": 13.35,
-    "context_end": 29.42,
+    "context_end": 29.4,
     "feedback": [
         {
-            "name": "spontD_145_yeah.wav",
+            "name": "spontD_145_yeah",
             "start": 18.9,
-            "end": 19.4,
+            "end": 19.57,
             "token": "yeah"
         },
         {
-            "name": "PS_023_wow.wav",
+            "name": "PS_023_wow",
             "start": 23.27,
-            "end": 23.61,
+            "end": 24.06,
             "token": "wow"
         },
         {
-            "name": "spontA_147_mhm.wav",
+            "name": "spontA_147_mhm",
             "start": 26.99,
-            "end": 27.37,
+            "end": 27.46,
             "token": "mhm"
         },
         {
-            "name": "spontE_158_okay.wav",
+            "name": "spontE_158_okay",
             "start": 28.78,
-            "end": 29.42,
+            "end": 29.4,
             "token": "okay"
         }
     ]

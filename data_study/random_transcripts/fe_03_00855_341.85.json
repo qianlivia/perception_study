@@ -1,32 +1,32 @@
 {
     "name": "fe_03_00855",
     "context_channel": 0,
-    "context_text": "<B> prolific and the rural areas out here especially but it's it's definitely interesting because this is an agricultural college out here it { has got } / <A> [ wow ] / <B> a huge veterinary program and things like that / <A> yeah / <B> to um like meet the incoming freshmen and i mean some of them are just people from just places i've never even heard of and i've lived here my entire life / <A> mhm / <B> and oh yeah and just all the misconceptions that they have and just their ignorance i mean just like me you know thinking that i would be horrified to go to new york city because i would be afraid i would be shot or mugged you know that / <A> yeah",
+    "context_text": "<B> prolific and the rural areas out here especially but it's it's definitely interesting because this is an agricultural college out here it { has got } / <A> [ right ] / <B> a huge veterinary program and things like that / <A> oh / <B> to um like meet the incoming freshmen and i mean some of them are just people from just places i've never even heard of and i've lived here my entire life / <A> okay / <B> and oh yeah and just all the misconceptions that they have and just their ignorance i mean just like me you know thinking that i would be horrified to go to new york city because i would be afraid i would be shot or mugged you know that / <A> yeah",
     "context_start": 341.85,
-    "context_end": 377.265625,
+    "context_end": 377.31,
     "feedback": [
         {
-            "name": "PS_031_wow",
+            "name": "sun1_033_right",
             "start": 350.76,
-            "end": 351.52175,
-            "token": "wow"
+            "end": 351.61,
+            "token": "right"
         },
         {
-            "name": "spontF_630_yeah",
+            "name": "Sy_071_oh",
             "start": 353.84,
-            "end": 354.45712499999996,
-            "token": "yeah"
+            "end": 354.86,
+            "token": "oh"
         },
         {
-            "name": "PR_032_mhm",
+            "name": "spontD_383_okay",
             "start": 365.19,
-            "end": 365.921375,
-            "token": "mhm"
+            "end": 365.86,
+            "token": "okay"
         },
         {
-            "name": "spontB_282_yeah",
+            "name": "spontD_364_yeah",
             "start": 376.46,
-            "end": 377.265625,
+            "end": 377.31,
             "token": "yeah"
         }
     ]

@@ -1,39 +1,39 @@
 {
     "name": "fe_03_03447",
     "context_channel": 1,
-    "context_text": "<A> and it's a old village that they you know back in the day used to have and it's just so neat it's on { a } / <B> [ okay ] / <A> little kinda like a little bayou but it's small / <B> right / <A> and it's just neat to go to if you ever come down here / <B> right / <A> and it's got a church that's like tiny tiny { it's } / <B> [ mhm ] / <A> just neat it's like a surreal place you're just like kinda wow and they got all the old stuff in there to look at / <B> yeah",
+    "context_text": "<A> and it's a old village that they you know back in the day used to have and it's just so neat it's on { a } / <B> [ mhm ] / <A> little kinda like a little bayou but it's small / <B> yeah / <A> and it's just neat to go to if you ever come down here / <B> okay / <A> and it's got a church that's like tiny tiny { it's } / <B> [ mhm ] / <A> just neat it's like a surreal place you're just like kinda wow and they got all the old stuff in there to look at / <B> okay",
     "context_start": 551.67,
-    "context_end": 574.93475,
+    "context_end": 574.92,
     "feedback": [
         {
-            "name": "spontB_028_okay",
+            "name": "PR_051_mhm",
             "start": 557.03,
-            "end": 557.46325,
-            "token": "okay"
-        },
-        {
-            "name": "sun1_033_right",
-            "start": 560.69,
-            "end": 561.543125,
-            "token": "right"
-        },
-        {
-            "name": "sun1_029_right",
-            "start": 565.01,
-            "end": 565.702,
-            "token": "right"
-        },
-        {
-            "name": "spontF_121_mhm",
-            "start": 568.07,
-            "end": 568.6170000000001,
+            "end": 557.85,
             "token": "mhm"
         },
         {
-            "name": "spontC_062_yeah",
-            "start": 574.21,
-            "end": 574.93475,
+            "name": "spontB_323_yeah",
+            "start": 560.69,
+            "end": 561.68,
             "token": "yeah"
+        },
+        {
+            "name": "spontF_317_okay",
+            "start": 565.01,
+            "end": 565.86,
+            "token": "okay"
+        },
+        {
+            "name": "spontE_225_mhm",
+            "start": 568.07,
+            "end": 568.54,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_643_okay",
+            "start": 574.21,
+            "end": 574.92,
+            "token": "okay"
         }
     ]
 }

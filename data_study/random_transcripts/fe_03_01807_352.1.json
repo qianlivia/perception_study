@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01807",
     "context_channel": 1,
-    "context_text": "<A> [ that's true ] there's a program called teach for america that um allows you to teach a lot quicker than i think you start teaching um or being a teacher aide while you're taking classes and { it's } / <B> [ right ] / <A> supposed to be a quick route to they they place you i think in schools that are have trouble finding teachers the disadvantaged schools / <B> uh-huh / <A> and that can be both rewarding and stressful because { those } / <B> [ uh-huh ] / <A> schools are pretty stressed but / <B> yeah",
+    "context_text": "<A> [ that's true ] there's a program called teach for america that um allows you to teach a lot quicker than i think you start teaching um or being a teacher aide while you're taking classes and { it's } / <B> [ yeah ] / <A> supposed to be a quick route to they they place you i think in schools that are have trouble finding teachers the disadvantaged schools / <B> yeah / <A> and that can be both rewarding and stressful because { those } / <B> [ right ] / <A> schools are pretty stressed but / <B> oh",
     "context_start": 352.1,
-    "context_end": 380.36725,
+    "context_end": 380.7,
     "feedback": [
         {
-            "name": "sun_013_right",
+            "name": "sun2_022_yeah",
             "start": 367.17,
-            "end": 368.0435,
+            "end": 367.8,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_327_yeah",
+            "start": 374.58,
+            "end": 375.44,
+            "token": "yeah"
+        },
+        {
+            "name": "sun1_033_right",
+            "start": 377.93,
+            "end": 378.78,
             "token": "right"
         },
         {
-            "name": "spontD_152_uh-huh",
-            "start": 374.58,
-            "end": 375.136375,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontA_313_uh-huh",
-            "start": 377.93,
-            "end": 378.52387500000003,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontD_142_yeah",
+            "name": "NS_103_oh",
             "start": 379.89,
-            "end": 380.36725,
-            "token": "yeah"
+            "end": 380.7,
+            "token": "oh"
         }
     ]
 }

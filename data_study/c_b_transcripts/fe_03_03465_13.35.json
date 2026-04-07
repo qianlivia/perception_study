@@ -1,32 +1,32 @@
 {
     "name": "fe_03_03465",
     "context_channel": 1,
-    "context_text": "<A> um they're talking about what's the most important thing in a life partner  /  <B> uh-huh /  <A> and i'm thirty about to be thirty five i've been { with }  /  <B> [uh-huh /  <A> the same girl for more than twelve years  /  <B> wow /  <A> we're still not married  /  <B> wow",
+    "context_text": "<A> um they're talking about what's the most important thing in a life partner / <B> uh-huh / <A> and i'm thirty about to be thirty five i've been { with } / <B> [ uh-huh ] / <A> the same girl for more than twelve years / <B> wow / <A> we're still not married / <B> wow",
     "context_start": 13.35,
-    "context_end": 29.42,
+    "context_end": 29.78,
     "feedback": [
         {
-            "name": "spontB_318_uh-huh.wav",
+            "name": "spontB_318_uh-huh",
             "start": 18.9,
-            "end": 19.4,
+            "end": 19.58,
             "token": "uh-huh"
         },
         {
-            "name": "spontA_201_uh-huh.wav",
+            "name": "spontA_201_uh-huh",
             "start": 23.27,
-            "end": 23.61,
+            "end": 23.72,
             "token": "uh-huh"
         },
         {
-            "name": "PS_164_wow.wav",
+            "name": "PS_164_wow",
             "start": 26.99,
-            "end": 27.37,
+            "end": 28.13,
             "token": "wow"
         },
         {
-            "name": "PS_100_wow.wav",
+            "name": "PS_100_wow",
             "start": 28.78,
-            "end": 29.42,
+            "end": 29.78,
             "token": "wow"
         }
     ]

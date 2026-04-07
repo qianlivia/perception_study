@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04199",
     "context_channel": 0,
-    "context_text": "<B> uh yeah well when i left i was really young so mm i'm still young and married but still you know / <A> right / <B> you're still it it wasn't that different i mean to me it wasn't that different / <A> right / <B> no / <A> really / <B> i mean it's a lot you know more poor people down there and it's harder to find a job and stuff but it's not that different / <A> yeah",
+    "context_text": "<B> uh yeah well when i left i was really young so mm i'm still young and married but still you know / <A> right / <B> you're still it it wasn't that different i mean to me it wasn't that different / <A> right / <B> no / <A> exactly / <B> i mean it's a lot you know more poor people down there and it's harder to find a job and stuff but it's not that different / <A> mhm",
     "context_start": 476.25,
-    "context_end": 500.7295,
+    "context_end": 500.84,
     "feedback": [
         {
             "name": "sun1_031_right",
             "start": 485.28,
-            "end": 486.07424999999995,
+            "end": 486.07,
             "token": "right"
         },
         {
-            "name": "sun1_032_right",
+            "name": "spontC_360_right",
             "start": 490.03,
-            "end": 490.87337499999995,
+            "end": 490.61,
             "token": "right"
         },
         {
-            "name": "NS_002_really",
+            "name": "sun_016_exactly",
             "start": 491.57,
-            "end": 492.4265,
-            "token": "really"
+            "end": 492.6,
+            "token": "exactly"
         },
         {
-            "name": "spontE_196_yeah",
+            "name": "sun_012_mhm",
             "start": 499.83,
-            "end": 500.7295,
-            "token": "yeah"
+            "end": 500.84,
+            "token": "mhm"
         }
     ]
 }

@@ -1,51 +1,51 @@
 {
     "name": "fe_03_04681",
     "context_channel": 0,
-    "context_text": "<B> well we have a newspaper in philadelphia called metro / <A> uh-huh / <B> it's a free paper and they pass it out at all of the ah terminals and trolley stations and train stations / <A> uh-huh / <B> and it's it runs twenty four to thirty pages { it } / <A> [ wow ] / <B> encapsulates the news / <A> yeah / <B> and you can actually run through that paper and see all that's set to print in about twenty minutes / <A> wow / <B> and you also have two jokes so that is the main source of my news in the morning / <A> oh / <B> and then at night i watch the ten o'clock news for fox / <A> yeah",
+    "context_text": "<B> well we have a newspaper in philadelphia called metro / <A> uh-huh / <B> it's a free paper and they pass it out at all of the ah terminals and trolley stations and train stations / <A> uh-huh / <B> and it's it runs twenty four to thirty pages { it } / <A> [ wow ] / <B> encapsulates the news / <A> wow / <B> and you can actually run through that paper and see all that's set to print in about twenty minutes / <A> wow / <B> and you also have two jokes so that is the main source of my news in the morning / <A> uh-huh / <B> and then at night i watch the ten o'clock news for fox / <A> uh-huh",
     "context_start": 54.13,
-    "context_end": 94.7135,
+    "context_end": 94.65,
     "feedback": [
         {
-            "name": "spontC_128_uh-huh",
+            "name": "spontF_467_uh-huh",
             "start": 58.99,
-            "end": 59.490875,
+            "end": 59.55,
             "token": "uh-huh"
         },
         {
-            "name": "spontD_020_uh-huh",
+            "name": "spontD_334_uh-huh",
             "start": 68.47,
-            "end": 68.974625,
+            "end": 68.99,
             "token": "uh-huh"
         },
         {
-            "name": "PS_183_wow",
+            "name": "PS_164_wow",
             "start": 72.24,
-            "end": 73.04525,
+            "end": 73.38,
             "token": "wow"
         },
         {
-            "name": "spontA_340_yeah",
+            "name": "PS_071_wow",
             "start": 74.17,
-            "end": 74.5925,
-            "token": "yeah"
-        },
-        {
-            "name": "PS_189_wow",
-            "start": 82.73,
-            "end": 83.838875,
+            "end": 75.07,
             "token": "wow"
         },
         {
-            "name": "spontF_288_oh",
-            "start": 89.43,
-            "end": 90.299875,
-            "token": "oh"
+            "name": "PS_159_wow",
+            "start": 82.73,
+            "end": 83.69,
+            "token": "wow"
         },
         {
-            "name": "spontF_380_yeah",
+            "name": "spontA_324_uh-huh",
+            "start": 89.43,
+            "end": 90.08,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_494_uh-huh",
             "start": 94.1,
-            "end": 94.7135,
-            "token": "yeah"
+            "end": 94.65,
+            "token": "uh-huh"
         }
     ]
 }

@@ -1,32 +1,32 @@
 {
     "name": "fe_03_03089",
     "context_channel": 1,
-    "context_text": "<A> i did live i did live with a a girl in an apartment and she had a wired hair terrier / <B> oh / <A> and it it was a in inside the house / <B> wow / <A> and i ah was somewhat attached to that to her her name was patches um and she didn't hu she didn't bother my allergies because she had really short hair / <B> oh / <A> so when when her hair got longer i could i could tell { because i'd } / <B> [ exactly ]",
+    "context_text": "<A> i did live i did live with a a girl in an apartment and she had a wired hair terrier / <B> yeah / <A> and it it was a in inside the house / <B> okay / <A> and i ah was somewhat attached to that to her her name was patches um and she didn't hu she didn't bother my allergies because she had really short hair / <B> yeah / <A> so when when her hair got longer i could i could tell { because i'd } / <B> [ exactly ]",
     "context_start": 134.22,
-    "context_end": 161.0395,
+    "context_end": 161.15,
     "feedback": [
         {
-            "name": "spontE_043_oh",
+            "name": "PR_034_yeah",
             "start": 139.45,
-            "end": 140.10825,
-            "token": "oh"
+            "end": 140.28,
+            "token": "yeah"
         },
         {
-            "name": "PS_095_wow",
+            "name": "spontF_643_okay",
             "start": 142.88,
-            "end": 143.91537499999998,
-            "token": "wow"
+            "end": 143.59,
+            "token": "okay"
         },
         {
-            "name": "NegS_042_oh",
+            "name": "spontB_349_yeah",
             "start": 155.14,
-            "end": 156.3405,
-            "token": "oh"
+            "end": 156.06,
+            "token": "yeah"
         },
         {
-            "name": "sun_026_exactly",
+            "name": "sun_029_exactly",
             "start": 160.01,
-            "end": 161.0395,
+            "end": 161.15,
             "token": "exactly"
         }
     ]

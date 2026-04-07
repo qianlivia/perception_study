@@ -1,39 +1,39 @@
 {
     "name": "fe_03_04348",
     "context_channel": 1,
-    "context_text": "<A> a well see i i i've had a i've had a few in my lifetime / <B> right / <A> but it depends for me it d would depend maybe on who the best friend might be / <B> yeah / <A> but / <B> mhm / <A> and in some ways i probably wouldn't because / <B> right / <A> my i'm very loyal / <B> uh-huh",
+    "context_text": "<A> a well see i i i've had a i've had a few in my lifetime / <B> okay / <A> but it depends for me it d would depend maybe on who the best friend might be / <B> mhm / <A> but / <B> uh-huh / <A> and in some ways i probably wouldn't because / <B> okay / <A> my i'm very loyal / <B> yeah",
     "context_start": 100.18,
-    "context_end": 119.576375,
+    "context_end": 119.56,
     "feedback": [
         {
-            "name": "PR_048_right",
+            "name": "spontD_411_okay",
             "start": 106.04,
-            "end": 106.67512500000001,
-            "token": "right"
+            "end": 106.5,
+            "token": "okay"
         },
         {
-            "name": "spontF_261_yeah",
+            "name": "PR_057_mhm",
             "start": 111.36,
-            "end": 111.91875,
-            "token": "yeah"
-        },
-        {
-            "name": "spontE_154_mhm",
-            "start": 112.25,
-            "end": 112.85,
+            "end": 112.09,
             "token": "mhm"
         },
         {
-            "name": "sun_007_right",
-            "start": 115.88,
-            "end": 116.7695,
-            "token": "right"
+            "name": "PS_036_uh-huh",
+            "start": 112.25,
+            "end": 113.26,
+            "token": "uh-huh"
         },
         {
-            "name": "spontB_318_uh-huh",
+            "name": "spontD_410_okay",
+            "start": 115.88,
+            "end": 116.3,
+            "token": "okay"
+        },
+        {
+            "name": "spontD_240_yeah",
             "start": 118.9,
-            "end": 119.576375,
-            "token": "uh-huh"
+            "end": 119.56,
+            "token": "yeah"
         }
     ]
 }

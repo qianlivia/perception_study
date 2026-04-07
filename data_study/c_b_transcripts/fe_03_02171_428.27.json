@@ -1,27 +1,27 @@
 {
     "name": "fe_03_02171",
     "context_channel": 0,
-    "context_text": "<B> they're kind of like you know what like at this point you got into a good school like you have proven that like you know what you're doing so like { just figure } / <A> [ yeah ] / <B> it out for yourself you know / <A> yeah / <B> you know i'm still concerned with becoming a teacher 'cause that's what both my parents do so / <A> oh",
+    "context_text": "<B> they're kind of like you know what like at this point you got into a good school like you have proven that like you know what you're doing so like { just figure } / <A> [ yeah ] / <B> it out for yourself you know / <A> yeah / <B> you know i'm still concerned with becoming a teacher 'cause that's what both my parents do so / <A> mhm",
     "context_start": 428.27,
-    "context_end": 441.46437499999996,
+    "context_end": 441.6,
     "feedback": [
         {
-            "name": "spontA_146_yeah",
-            "start": 435.16,
-            "end": 435.85825,
-            "token": "yeah"
-        },
-        {
             "name": "spontA_336_yeah",
-            "start": 436.92,
-            "end": 437.534625,
+            "start": 435.16,
+            "end": 435.77,
             "token": "yeah"
         },
         {
-            "name": "spontF_207_oh",
+            "name": "spontC_266_yeah",
+            "start": 436.92,
+            "end": 437.48,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_344_mhm",
             "start": 441.08,
-            "end": 441.46437499999996,
-            "token": "oh"
+            "end": 441.6,
+            "token": "mhm"
         }
     ]
 }

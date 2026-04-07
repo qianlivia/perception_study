@@ -1,38 +1,38 @@
 {
     "name": "fe_03_05684",
     "context_channel": 0,
-    "context_text": "<B> and the thing is like the whole iraq thing we got we were the ones that you know helped saddam hussein get into power in the first place / <A> mhm / <B> and we've actually helped his regime before / <A> mhm / <B> before he turned on us and / <A> okay / <B> yeah this is the way it's always been is the same with afghanistan was that in the eighties the soviet union had taken over it which i mean was an unfortunate situation / <A> okay / <B> but they really kind of changed the country and um even though it was kind of a communist dictatorship ah you know women had you know pretty much the same rights as men and { it } / <A> [ wow ]",
+    "context_text": "<B> and the thing is like the whole iraq thing we got we were the ones that you know helped saddam hussein get into power in the first place / <A> mhm / <B> and we've actually helped his regime before / <A> yeah / <B> before he turned on us and / <A> oh / <B> yeah this is the way it's always been is the same with afghanistan was that in the eighties the soviet union had taken over it which i mean was an unfortunate situation / <A> mhm / <B> but they really kind of changed the country and um even though it was kind of a communist dictatorship ah you know women had you know pretty much the same rights as men and { it } / <A> [ wow ]",
     "context_start": 134.79,
-    "context_end": 178.426875,
+    "context_end": 178.31,
     "feedback": [
         {
-            "name": "spontE_118_mhm",
+            "name": "PR_032_mhm",
             "start": 145.22,
-            "end": 145.8105,
+            "end": 145.95,
             "token": "mhm"
         },
         {
-            "name": "spontA_151_mhm",
+            "name": "spontB_321_yeah",
             "start": 149.78,
-            "end": 150.3315,
+            "end": 150.23,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_009_oh",
+            "start": 152.91,
+            "end": 153.71,
+            "token": "oh"
+        },
+        {
+            "name": "spontC_180_mhm",
+            "start": 165.2,
+            "end": 165.74,
             "token": "mhm"
         },
         {
-            "name": "spontD_073_okay",
-            "start": 152.91,
-            "end": 153.651125,
-            "token": "okay"
-        },
-        {
-            "name": "spontC_172_okay",
-            "start": 165.2,
-            "end": 165.611125,
-            "token": "okay"
-        },
-        {
-            "name": "PS_190_wow",
+            "name": "PS_165_wow",
             "start": 177.07,
-            "end": 178.426875,
+            "end": 178.31,
             "token": "wow"
         }
     ]

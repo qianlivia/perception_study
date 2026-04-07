@@ -1,32 +1,32 @@
 {
     "name": "fe_03_00271",
     "context_channel": 1,
-    "context_text": "<A> and that just you know not just that day and that just you know what happened that day i mean what happened that day certainly shaped it but you know just this feeling of you know like disorientation { you } / <B> [ yeah ] / <A> know this feeling of wow where am i and where { do i fit } / <B> [ yeah ] / <A> into this and where do we all fit into this and / <B> yeah / <A> you know who's to blame and you know trying to sort through like this crazy media and { you know like } / <B> [ yeah ]",
+    "context_text": "<A> and that just you know not just that day and that just you know what happened that day i mean what happened that day certainly shaped it but you know just this feeling of you know like disorientation { you } / <B> [ right ] / <A> know this feeling of wow where am i and where { do i fit } / <B> [ right ] / <A> into this and where do we all fit into this and / <B> exactly / <A> you know who's to blame and you know trying to sort through like this crazy media and { you know like } / <B> [ yeah ]",
     "context_start": 344.65,
-    "context_end": 369.431375,
+    "context_end": 368.93,
     "feedback": [
         {
-            "name": "spontC_321_yeah",
+            "name": "spontC_360_right",
             "start": 354.9,
-            "end": 355.564875,
-            "token": "yeah"
+            "end": 355.48,
+            "token": "right"
         },
         {
-            "name": "spontB_132_yeah",
+            "name": "PR_043_right",
             "start": 358.46,
-            "end": 359.367125,
-            "token": "yeah"
+            "end": 359.12,
+            "token": "right"
         },
         {
-            "name": "spontA_382_yeah",
+            "name": "sun_042_exactly",
             "start": 362.24,
-            "end": 362.81462500000004,
-            "token": "yeah"
+            "end": 363.2,
+            "token": "exactly"
         },
         {
-            "name": "spontE_059_yeah",
+            "name": "sun1_023_yeah",
             "start": 368.55,
-            "end": 369.431375,
+            "end": 368.93,
             "token": "yeah"
         }
     ]

@@ -1,27 +1,27 @@
 {
     "name": "fe_03_01481",
     "context_channel": 0,
-    "context_text": "<B> live pretty close to downtown not i mean not too far probably about ten miles away from downtown / <A> okay / <B> and i remember people when it first happened one of the parents had walked in i was working and one of the parents had walked in and said oh my god look what just happened on tv i'm like { okay } / <A> [ yeah ] / <B> i turned on the t we all turned on the tv { we put it } / <A> [ yeah ]",
+    "context_text": "<B> live pretty close to downtown not i mean not too far probably about ten miles away from downtown / <A> okay / <B> and i remember people when it first happened one of the parents had walked in i was working and one of the parents had walked in and said oh my god look what just happened on tv i'm like { okay } / <A> [ yeah ] / <B> i turned on the t we all turned on the tv { we put it } / <A> [ mhm ]",
     "context_start": 311.74,
-    "context_end": 327.068375,
+    "context_end": 327.28,
     "feedback": [
         {
             "name": "spontE_005_okay",
             "start": 315.47,
-            "end": 316.020375,
+            "end": 316.02,
             "token": "okay"
         },
         {
-            "name": "sun_045_yeah",
+            "name": "spontD_382_yeah",
             "start": 324.39,
-            "end": 324.829125,
+            "end": 324.82,
             "token": "yeah"
         },
         {
-            "name": "spontF_101_yeah",
+            "name": "spontA_400_mhm",
             "start": 326.46,
-            "end": 327.068375,
-            "token": "yeah"
+            "end": 327.28,
+            "token": "mhm"
         }
     ]
 }

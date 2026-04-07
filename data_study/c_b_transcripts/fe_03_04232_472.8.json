@@ -1,33 +1,33 @@
 {
     "name": "fe_03_04232",
     "context_channel": 0,
-    "context_text": "<B> that's another thing i wish i could go back in time and change my our decision on moving here because i did there here we go with the government because i moved here with my husband's job and lost my good job they're giving me a hard time collecting unemployment and i { think } / <A> [ oh ] / <B> they should change that i had my it was my husband's job what { was } / <A> [ oh ] / <B> i going to do when i'm down here without a job fighting unemployment / <A> right / <B> i just i give up if the jobs down here don't don't pay { they } / <A> [ oh ]",
+    "context_text": "<B> that's another thing i wish i could go back in time and change my our decision on moving here because i did there here we go with the government because i moved here with my husband's job and lost my good job they're giving me a hard time collecting unemployment and i { think } / <A> [ wow ] / <B> they should change that i had my it was my husband's job what { was } / <A> [ uh-huh ] / <B> i going to do when i'm down here without a job fighting unemployment / <A> wow / <B> i just i give up if the jobs down here don't don't pay { they } / <A> [ wow ]",
     "context_start": 472.8,
-    "context_end": 505.46825,
+    "context_end": 505.81,
     "feedback": [
         {
-            "name": "PS_004_oh",
+            "name": "PS_044_wow",
             "start": 488.68,
-            "end": 489.75212500000004,
-            "token": "oh"
+            "end": 489.64,
+            "token": "wow"
         },
         {
-            "name": "spontF_017_oh",
+            "name": "spontC_186_uh-huh",
             "start": 492.45,
-            "end": 493.279375,
-            "token": "oh"
+            "end": 492.93,
+            "token": "uh-huh"
         },
         {
-            "name": "sun1_033_right",
+            "name": "PS_187_wow",
             "start": 498.66,
-            "end": 499.513125,
-            "token": "right"
+            "end": 499.67,
+            "token": "wow"
         },
         {
-            "name": "spontE_043_oh",
+            "name": "PS_176_wow",
             "start": 504.81,
-            "end": 505.46825,
-            "token": "oh"
+            "end": 505.81,
+            "token": "wow"
         }
     ]
 }

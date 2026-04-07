@@ -1,39 +1,39 @@
 {
     "name": "fe_03_02693",
     "context_channel": 1,
-    "context_text": "<A> well my uh our tradition with my in laws is they take us on a birthday shopping trip / <B> exactly / <A> and we can buy whatever we want / <B> oh / <A> and they take us out to a special birthday lunch / <B> yeah / <A> we can pick whatever restaurant we want / <B> right / <A> and if we want a homemade cake or if we want um if we want um you know a store bought cake or if we just want desert at the restaurant { and } / <B> [ yeah ]",
+    "context_text": "<A> well my uh our tradition with my in laws is they take us on a birthday shopping trip / <B> right / <A> and we can buy whatever we want / <B> right / <A> and they take us out to a special birthday lunch / <B> oh / <A> we can pick whatever restaurant we want / <B> exactly / <A> and if we want a homemade cake or if we want um if we want um you know a store bought cake or if we just want desert at the restaurant { and } / <B> [ right ]",
     "context_start": 375.45,
-    "context_end": 403.1235,
+    "context_end": 403.41,
     "feedback": [
         {
-            "name": "sun_015_exactly",
+            "name": "PR_048_right",
             "start": 381.26,
-            "end": 382.36175,
-            "token": "exactly"
-        },
-        {
-            "name": "PS_040_oh",
-            "start": 383.95,
-            "end": 385.84675,
-            "token": "oh"
-        },
-        {
-            "name": "spontF_243_yeah",
-            "start": 386.85,
-            "end": 387.692625,
-            "token": "yeah"
-        },
-        {
-            "name": "sun_007_right",
-            "start": 390.85,
-            "end": 391.7395,
+            "end": 381.9,
             "token": "right"
         },
         {
-            "name": "spontA_422_yeah",
+            "name": "sun1_030_right",
+            "start": 383.95,
+            "end": 384.74,
+            "token": "right"
+        },
+        {
+            "name": "spontC_320_oh",
+            "start": 386.85,
+            "end": 388.07,
+            "token": "oh"
+        },
+        {
+            "name": "sun_016_exactly",
+            "start": 390.85,
+            "end": 391.88,
+            "token": "exactly"
+        },
+        {
+            "name": "sun1_033_right",
             "start": 402.56,
-            "end": 403.1235,
-            "token": "yeah"
+            "end": 403.41,
+            "token": "right"
         }
     ]
 }

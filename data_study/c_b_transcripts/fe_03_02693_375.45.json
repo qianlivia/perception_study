@@ -1,39 +1,39 @@
 {
     "name": "fe_03_02693",
     "context_channel": 1,
-    "context_text": "<A> well my uh our tradition with my in laws is they take us on a birthday shopping trip / <B> uh-huh / <A> and we can buy whatever we want / <B> uh-huh / <A> and they take us out to a special birthday lunch / <B> uh-huh / <A> we can pick whatever restaurant we want / <B> uh-huh / <A> and if we want a homemade cake or if we want um if we want um you know a store bought cake or if we just want desert at the restaurant { and } / <B> [ oh ]",
+    "context_text": "<A> well my uh our tradition with my in laws is they take us on a birthday shopping trip / <B> uh-huh / <A> and we can buy whatever we want / <B> uh-huh / <A> and they take us out to a special birthday lunch / <B> uh-huh / <A> we can pick whatever restaurant we want / <B> uh-huh / <A> and if we want a homemade cake or if we want um if we want um you know a store bought cake or if we just want desert at the restaurant { and } / <B> [ uh-huh ]",
     "context_start": 375.45,
-    "context_end": 403.305125,
+    "context_end": 403.18,
     "feedback": [
         {
-            "name": "spontC_132_uh-huh",
+            "name": "spontC_186_uh-huh",
             "start": 381.26,
-            "end": 381.859125,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontA_086_uh-huh",
-            "start": 383.95,
-            "end": 384.460125,
-            "token": "uh-huh"
-        },
-        {
-            "name": "spontF_183_uh-huh",
-            "start": 386.85,
-            "end": 387.543625,
+            "end": 381.74,
             "token": "uh-huh"
         },
         {
             "name": "spontB_129_uh-huh",
-            "start": 390.85,
-            "end": 391.33337500000005,
+            "start": 383.95,
+            "end": 384.43,
             "token": "uh-huh"
         },
         {
-            "name": "spontE_048_oh",
+            "name": "spontA_086_uh-huh",
+            "start": 386.85,
+            "end": 387.36,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_132_uh-huh",
+            "start": 390.85,
+            "end": 391.45,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_511_uh-huh",
             "start": 402.56,
-            "end": 403.305125,
-            "token": "oh"
+            "end": 403.18,
+            "token": "uh-huh"
         }
     ]
 }

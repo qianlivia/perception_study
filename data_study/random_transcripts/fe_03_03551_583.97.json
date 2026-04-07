@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03551",
     "context_channel": 1,
-    "context_text": "<A> yeah yeah well i'm myself i do nurses aid work and um home health { care and } / <B> [ really ] / <A> i'm also working from home so { i'm } / <B> [ okay ] / <A> carrying two jobs and um / <B> mhm / <A> got to you know / <B> right",
+    "context_text": "<A> yeah yeah well i'm myself i do nurses aid work and um home health { care and } / <B> [ right ] / <A> i'm also working from home so { i'm } / <B> [ yeah ] / <A> carrying two jobs and um / <B> mhm / <A> got to you know / <B> okay",
     "context_start": 583.97,
-    "context_end": 597.80425,
+    "context_end": 597.64,
     "feedback": [
         {
-            "name": "PS_070_really",
+            "name": "sun1_030_right",
             "start": 590.79,
-            "end": 591.478625,
-            "token": "really"
+            "end": 591.58,
+            "token": "right"
         },
         {
-            "name": "spontC_172_okay",
+            "name": "spontE_235_yeah",
             "start": 593.11,
-            "end": 593.521125,
-            "token": "okay"
+            "end": 594.05,
+            "token": "yeah"
         },
         {
-            "name": "spontB_200_mhm",
+            "name": "spontA_379_mhm",
             "start": 594.86,
-            "end": 595.393875,
+            "end": 595.38,
             "token": "mhm"
         },
         {
-            "name": "sun1_031_right",
+            "name": "spontA_257_okay",
             "start": 597.01,
-            "end": 597.80425,
-            "token": "right"
+            "end": 597.64,
+            "token": "okay"
         }
     ]
 }

@@ -1,32 +1,32 @@
 {
     "name": "fe_03_04242",
     "context_channel": 1,
-    "context_text": "<A> well i know her i i met her she's from nor um norway i was going to say she's { norwegian }  /  <B> [right /  <A> and um i work with her so { we }  /  <B> [oh /  <A> were talking one time and i was saying something about spanish and i loved to learn languages and stuff and she goes oh i have this book and i have this video so now i have the tape { the }  /  <B> [okay /  <A> tape learn how to speak the like the first thousand words  /  <B> yeah",
+    "context_text": "<A> well i know her i i met her she's from nor um norway i was going to say she's { norwegian } / <B> [ right ] / <A> and um i work with her so { we } / <B> [ oh ] / <A> were talking one time and i was saying something about spanish and i loved to learn languages and stuff and she goes oh i have this book and i have this video so now i have the tape { the } / <B> [ okay ] / <A> tape learn how to speak the like the first thousand words / <B> yeah",
     "context_start": 555.89,
-    "context_end": 576.59,
+    "context_end": 576.79,
     "feedback": [
         {
-            "name": "PR_048_right.wav",
+            "name": "PR_048_right",
             "start": 560.37,
-            "end": 560.73,
+            "end": 561.01,
             "token": "right"
         },
         {
-            "name": "spontC_046_oh.wav",
+            "name": "spontC_046_oh",
             "start": 563.78,
-            "end": 564.01,
+            "end": 564.19,
             "token": "oh"
         },
         {
-            "name": "spontD_022_okay.wav",
+            "name": "spontD_022_okay",
             "start": 572.9,
-            "end": 573.19,
+            "end": 573.37,
             "token": "okay"
         },
         {
-            "name": "spontC_092_yeah.wav",
+            "name": "spontC_092_yeah",
             "start": 576.32,
-            "end": 576.59,
+            "end": 576.79,
             "token": "yeah"
         }
     ]

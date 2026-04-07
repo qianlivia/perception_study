@@ -1,33 +1,33 @@
 {
     "name": "fe_03_03945",
     "context_channel": 0,
-    "context_text": "<B> well i was born in ohio but right i'm living in north carolina right now i'm on { to } / <A> [ yeah ] / <B> on top of a mountain { so } / <A> [ oh ] / <B> but we have um a small theater here that they have um the shows revolve uh it's they have like a comedy group or they'll have a musical group or poetry or whatever { and } / <A> [ okay ] / <B> i haven't been myself but i know i have a friend who had been when they had a comedy night and she said i c maybe it's me she said i don't i just don't find any of what they said funny and so i asked her for some examples and she was right you know it's it's ah this is a kind of a small area { the } / <A> [ right ]",
+    "context_text": "<B> well i was born in ohio but right i'm living in north carolina right now i'm on { to } / <A> [ right ] / <B> on top of a mountain { so } / <A> [ mhm ] / <B> but we have um a small theater here that they have um the shows revolve uh it's they have like a comedy group or they'll have a musical group or poetry or whatever { and } / <A> [ uh-huh ] / <B> i haven't been myself but i know i have a friend who had been when they had a comedy night and she said i c maybe it's me she said i don't i just don't find any of what they said funny and so i asked her for some examples and she was right you know it's it's ah this is a kind of a small area { the } / <A> [ wow ]",
     "context_start": 340.48,
-    "context_end": 388.02349999999996,
+    "context_end": 388.59,
     "feedback": [
         {
-            "name": "spontB_132_yeah",
+            "name": "sun1_031_right",
             "start": 344.98,
-            "end": 345.887125,
-            "token": "yeah"
-        },
-        {
-            "name": "spontA_071_oh",
-            "start": 347.29,
-            "end": 347.9075,
-            "token": "oh"
-        },
-        {
-            "name": "spontC_020_okay",
-            "start": 363.66,
-            "end": 364.13500000000005,
-            "token": "okay"
-        },
-        {
-            "name": "sun_013_right",
-            "start": 387.15,
-            "end": 388.02349999999996,
+            "end": 345.77,
             "token": "right"
+        },
+        {
+            "name": "spontD_038_mhm",
+            "start": 347.29,
+            "end": 347.82,
+            "token": "mhm"
+        },
+        {
+            "name": "spontD_380_uh-huh",
+            "start": 363.66,
+            "end": 364.18,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PS_169_wow",
+            "start": 387.15,
+            "end": 388.59,
+            "token": "wow"
         }
     ]
 }

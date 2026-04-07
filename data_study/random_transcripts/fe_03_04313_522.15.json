@@ -1,51 +1,51 @@
 {
     "name": "fe_03_04313",
     "context_channel": 0,
-    "context_text": "<B> knew that i was born and that they had been with each other for two and a half years / <A> mhm / <B> she was pregnant with me and he didn't want anything to do with me / <A> oh / <B> but that could have been through stupidity or whatever i don't care what his motives are / <A> yeah / <B> but the fact of the matter is i don't want him as a father / <A> yeah / <B> i don't even like my biol you know i don't like my biological father i like / <A> yeah / <B> my ah stepfather / <A> right / <B> i just regret not trying you know what i mean / <A> okay",
+    "context_text": "<B> knew that i was born and that they had been with each other for two and a half years / <A> mhm / <B> she was pregnant with me and he didn't want anything to do with me / <A> uh-huh / <B> but that could have been through stupidity or whatever i don't care what his motives are / <A> okay / <B> but the fact of the matter is i don't want him as a father / <A> mhm / <B> i don't even like my biol you know i don't like my biological father i like / <A> yeah / <B> my ah stepfather / <A> yeah / <B> i just regret not trying you know what i mean / <A> yeah",
     "context_start": 522.15,
-    "context_end": 544.733125,
+    "context_end": 544.71,
     "feedback": [
         {
-            "name": "spontE_271_mhm",
+            "name": "spontA_403_mhm",
             "start": 525.32,
-            "end": 525.917,
+            "end": 525.88,
             "token": "mhm"
         },
         {
-            "name": "spontC_004_oh",
+            "name": "spontA_321_uh-huh",
             "start": 528.45,
-            "end": 529.087875,
-            "token": "oh"
+            "end": 529.01,
+            "token": "uh-huh"
         },
         {
-            "name": "spontC_506_yeah",
+            "name": "spontD_410_okay",
             "start": 532.31,
-            "end": 532.8293749999999,
-            "token": "yeah"
-        },
-        {
-            "name": "spontF_261_yeah",
-            "start": 535.85,
-            "end": 536.40875,
-            "token": "yeah"
-        },
-        {
-            "name": "spontC_331_yeah",
-            "start": 538.91,
-            "end": 539.52775,
-            "token": "yeah"
-        },
-        {
-            "name": "sun1_031_right",
-            "start": 540.26,
-            "end": 541.05425,
-            "token": "right"
-        },
-        {
-            "name": "spontB_019_okay",
-            "start": 544.04,
-            "end": 544.733125,
+            "end": 532.73,
             "token": "okay"
+        },
+        {
+            "name": "spontE_054_mhm",
+            "start": 535.85,
+            "end": 536.57,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_106_yeah",
+            "start": 538.91,
+            "end": 539.42,
+            "token": "yeah"
+        },
+        {
+            "name": "spontC_194_yeah",
+            "start": 540.26,
+            "end": 540.92,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_157_yeah",
+            "start": 544.04,
+            "end": 544.71,
+            "token": "yeah"
         }
     ]
 }

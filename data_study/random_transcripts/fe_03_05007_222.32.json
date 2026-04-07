@@ -1,44 +1,44 @@
 {
     "name": "fe_03_05007",
     "context_channel": 1,
-    "context_text": "<A> and uh it's kind of scary i mean it's it's uh my my wife is uh from azerbaijan { a } / <B> [ right ] / <A> muslim country uh but they're demo democratic country and actually they're wooing the united states via oil so it's kind of like you know they have a good relationship however you know the the / <B> right / <A> they're they're kind of saying ooh ooh we're not entirely muslim and / <B> mhm / <A> we we have christians you know keep keep trading with us keep trading with us { you know } / <B> [ right ] / <A> all of a sudden there was this sour mentality of anybody that was of muslim or arabic descent they were you know and i'm puerto rican { uh } / <B> [ mhm ] / <A> actually i'm i i i but i'm dark-skinned / <B> yeah",
+    "context_text": "<A> and uh it's kind of scary i mean it's it's uh my my wife is uh from azerbaijan { a } / <B> [ oh ] / <A> muslim country uh but they're demo democratic country and actually they're wooing the united states via oil so it's kind of like you know they have a good relationship however you know the the / <B> mhm / <A> they're they're kind of saying ooh ooh we're not entirely muslim and / <B> right / <A> we we have christians you know keep keep trading with us keep trading with us { you know } / <B> [ wow ] / <A> all of a sudden there was this sour mentality of anybody that was of muslim or arabic descent they were you know and i'm puerto rican { uh } / <B> [ yeah ] / <A> actually i'm i i i but i'm dark-skinned / <B> yeah",
     "context_start": 222.32,
-    "context_end": 254.809,
+    "context_end": 254.53,
     "feedback": [
         {
-            "name": "sun_013_right",
+            "name": "spontC_315_oh",
             "start": 227.09,
-            "end": 227.9635,
-            "token": "right"
+            "end": 227.86,
+            "token": "oh"
         },
         {
-            "name": "sun_028_right",
+            "name": "spontA_390_mhm",
             "start": 236.37,
-            "end": 237.099375,
-            "token": "right"
+            "end": 237.14,
+            "token": "mhm"
         },
         {
-            "name": "spontB_187_mhm",
+            "name": "sun1_029_right",
             "start": 240.31,
-            "end": 240.86112500000002,
-            "token": "mhm"
-        },
-        {
-            "name": "sun_007_right",
-            "start": 244.95,
-            "end": 245.8395,
+            "end": 241.0,
             "token": "right"
         },
         {
-            "name": "spontA_282_mhm",
-            "start": 251.55,
-            "end": 252.106625,
-            "token": "mhm"
+            "name": "PS_088_wow",
+            "start": 244.95,
+            "end": 246.06,
+            "token": "wow"
         },
         {
-            "name": "spontA_332_yeah",
+            "name": "sun_046_yeah",
+            "start": 251.55,
+            "end": 251.96,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_067_yeah",
             "start": 253.94,
-            "end": 254.809,
+            "end": 254.53,
             "token": "yeah"
         }
     ]

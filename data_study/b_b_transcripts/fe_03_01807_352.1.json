@@ -1,32 +1,32 @@
 {
     "name": "fe_03_01807",
     "context_channel": 1,
-    "context_text": "<A> [ that's true ] there's a program called teach for america that um allows you to teach a lot quicker than i think you start teaching um or being a teacher aide while you're taking classes and { it's } / <B> [ oh ] / <A> supposed to be a quick route to they they place you i think in schools that are have trouble finding teachers the disadvantaged schools / <B> wow / <A> and that can be both rewarding and stressful because { those } / <B> [ right ] / <A> schools are pretty stressed but / <B> yeah",
+    "context_text": "<A> [ that's true ] there's a program called teach for america that um allows you to teach a lot quicker than i think you start teaching um or being a teacher aide while you're taking classes and { it's } / <B> [ wow ] / <A> supposed to be a quick route to they they place you i think in schools that are have trouble finding teachers the disadvantaged schools / <B> really / <A> and that can be both rewarding and stressful because { those } / <B> [ right ] / <A> schools are pretty stressed but / <B> yeah",
     "context_start": 352.1,
-    "context_end": 380.33187499999997,
+    "context_end": 380.49,
     "feedback": [
         {
-            "name": "PS_194_oh",
+            "name": "PS_165_wow",
             "start": 367.17,
-            "end": 367.97375,
-            "token": "oh"
+            "end": 368.41,
+            "token": "wow"
         },
         {
-            "name": "PS_031_wow",
+            "name": "PS_070_really",
             "start": 374.58,
-            "end": 375.34175,
-            "token": "wow"
+            "end": 375.27,
+            "token": "really"
         },
         {
             "name": "PR_043_right",
             "start": 377.93,
-            "end": 378.59000000000003,
+            "end": 378.59,
             "token": "right"
         },
         {
-            "name": "spontA_229_yeah",
+            "name": "spontF_485_yeah",
             "start": 379.89,
-            "end": 380.33187499999997,
+            "end": 380.49,
             "token": "yeah"
         }
     ]

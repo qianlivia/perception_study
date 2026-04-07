@@ -1,27 +1,27 @@
 {
     "name": "fe_03_01481",
     "context_channel": 0,
-    "context_text": "<B> live pretty close to downtown not i mean not too far probably about ten miles away from downtown / <A> oh / <B> and i remember people when it first happened one of the parents had walked in i was working and one of the parents had walked in and said oh my god look what just happened on tv i'm like { okay } / <A> [ yeah ] / <B> i turned on the t we all turned on the tv { we put it } / <A> [ yeah ]",
+    "context_text": "<B> live pretty close to downtown not i mean not too far probably about ten miles away from downtown / <A> mhm / <B> and i remember people when it first happened one of the parents had walked in i was working and one of the parents had walked in and said oh my god look what just happened on tv i'm like { okay } / <A> [ uh-huh ] / <B> i turned on the t we all turned on the tv { we put it } / <A> [ uh-huh ]",
     "context_start": 311.74,
-    "context_end": 327.367125,
+    "context_end": 326.86,
     "feedback": [
         {
-            "name": "spontF_465_oh",
+            "name": "spontC_235_mhm",
             "start": 315.47,
-            "end": 316.137625,
-            "token": "oh"
+            "end": 315.92,
+            "token": "mhm"
         },
         {
-            "name": "spontD_339_yeah",
+            "name": "spontF_037_uh-huh",
             "start": 324.39,
-            "end": 325.243875,
-            "token": "yeah"
+            "end": 324.96,
+            "token": "uh-huh"
         },
         {
-            "name": "spontB_132_yeah",
+            "name": "spontA_254_uh-huh",
             "start": 326.46,
-            "end": 327.367125,
-            "token": "yeah"
+            "end": 326.86,
+            "token": "uh-huh"
         }
     ]
 }

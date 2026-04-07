@@ -1,38 +1,38 @@
 {
     "name": "fe_03_00414",
     "context_channel": 0,
-    "context_text": "<B> no they are flying from they're they are flying a couple thousand miles from for two of the three of them { in } / <A> [ wow ] / <B> order to come see us we haven't { been able to } / <A> [ mhm ] / <B> put our four year old on an aircraft yet / <A> yeah / <B> we tried taking him on a two hundred mile to a big city and staying overnight in a hotel / <A> yeah / <B> a couple of years ago so that couldn't sleep in that little bed so he and i didn't sleep that night / <A> mhm",
+    "context_text": "<B> no they are flying from they're they are flying a couple thousand miles from for two of the three of them { in } / <A> [ really ] / <B> order to come see us we haven't { been able to } / <A> [ yeah ] / <B> put our four year old on an aircraft yet / <A> okay / <B> we tried taking him on a two hundred mile to a big city and staying overnight in a hotel / <A> right / <B> a couple of years ago so that couldn't sleep in that little bed so he and i didn't sleep that night / <A> mhm",
     "context_start": 385.28,
-    "context_end": 411.773125,
+    "context_end": 411.75,
     "feedback": [
         {
-            "name": "PS_112_wow",
+            "name": "sun2_001_really",
             "start": 392.75,
-            "end": 393.961625,
-            "token": "wow"
+            "end": 393.48,
+            "token": "really"
         },
         {
-            "name": "spontC_184_mhm",
+            "name": "spontA_174_yeah",
             "start": 394.11,
-            "end": 394.6865,
-            "token": "mhm"
+            "end": 394.61,
+            "token": "yeah"
         },
         {
-            "name": "spontF_295_yeah",
+            "name": "spontE_275_okay",
             "start": 397.45,
-            "end": 397.968375,
-            "token": "yeah"
+            "end": 398.01,
+            "token": "okay"
         },
         {
-            "name": "spontD_323_yeah",
+            "name": "sun1_030_right",
             "start": 404.31,
-            "end": 405.1155,
-            "token": "yeah"
+            "end": 405.1,
+            "token": "right"
         },
         {
-            "name": "spontA_393_mhm",
+            "name": "spontA_330_mhm",
             "start": 411.07,
-            "end": 411.773125,
+            "end": 411.75,
             "token": "mhm"
         }
     ]

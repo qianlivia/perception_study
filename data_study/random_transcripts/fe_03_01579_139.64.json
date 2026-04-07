@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01579",
     "context_channel": 1,
-    "context_text": "<A> you know unless you travel abroad the way you say you have and then you know you saw the difference / <B> yeah / <A> but most people who travel domestically they do not know the difference and if the difference was imposed back then they would've called it such a big problem and made this big deal out of it and everything but to me even now it is not tight enough { but } / <B> [ okay ] / <A> then you have to look at the question how tight is uncomfortable / <B> yeah / <A> you understand as { far } / <B> [ exactly ]",
+    "context_text": "<A> you know unless you travel abroad the way you say you have and then you know you saw the difference / <B> right / <A> but most people who travel domestically they do not know the difference and if the difference was imposed back then they would've called it such a big problem and made this big deal out of it and everything but to me even now it is not tight enough { but } / <B> [ mhm ] / <A> then you have to look at the question how tight is uncomfortable / <B> really / <A> you understand as { far } / <B> [ okay ]",
     "context_start": 139.64,
-    "context_end": 170.2435,
+    "context_end": 169.91,
     "feedback": [
         {
-            "name": "spontC_182_yeah",
+            "name": "sun1_032_right",
             "start": 144.52,
-            "end": 145.3895,
-            "token": "yeah"
+            "end": 145.36,
+            "token": "right"
+        },
+        {
+            "name": "spontC_313_mhm",
+            "start": 162.7,
+            "end": 163.2,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_002_really",
+            "start": 167.77,
+            "end": 168.56,
+            "token": "really"
         },
         {
             "name": "spontB_120_okay",
-            "start": 162.7,
-            "end": 163.40099999999998,
-            "token": "okay"
-        },
-        {
-            "name": "spontB_143_yeah",
-            "start": 167.77,
-            "end": 168.44612500000002,
-            "token": "yeah"
-        },
-        {
-            "name": "sun_016_exactly",
             "start": 169.21,
-            "end": 170.2435,
-            "token": "exactly"
+            "end": 169.91,
+            "token": "okay"
         }
     ]
 }

@@ -1,33 +1,33 @@
 {
     "name": "fe_03_01695",
     "context_channel": 0,
-    "context_text": "<B> well honey i really hadn't ain't thought about that my children of course are grown and um we just got back from visiting our our children / <A> oh / <B> over the weekend in in kansas city / <A> oh / <B> and um the youngest one is like eleven and she didn't even mention it / <A> yeah / <B> yeah and i know she's old enough to comprehend what's { going } / <A> [ uh-huh ]",
+    "context_text": "<B> well honey i really hadn't ain't thought about that my children of course are grown and um we just got back from visiting our our children / <A> uh-huh / <B> over the weekend in in kansas city / <A> uh-huh / <B> and um the youngest one is like eleven and she didn't even mention it / <A> oh / <B> yeah and i know she's old enough to comprehend what's { going } / <A> [ yeah ]",
     "context_start": 351.42,
-    "context_end": 380.60175,
+    "context_end": 380.25,
     "feedback": [
         {
-            "name": "spontF_360_oh",
+            "name": "spontB_137_uh-huh",
             "start": 362.14,
-            "end": 363.082375,
-            "token": "oh"
-        },
-        {
-            "name": "spontE_356_oh",
-            "start": 365.95,
-            "end": 366.5775,
-            "token": "oh"
-        },
-        {
-            "name": "spontD_365_yeah",
-            "start": 374.29,
-            "end": 375.14625,
-            "token": "yeah"
-        },
-        {
-            "name": "sun1_036_uh-huh",
-            "start": 379.62,
-            "end": 380.60175,
+            "end": 362.69,
             "token": "uh-huh"
+        },
+        {
+            "name": "spontA_324_uh-huh",
+            "start": 365.95,
+            "end": 366.6,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_288_oh",
+            "start": 374.29,
+            "end": 375.16,
+            "token": "oh"
+        },
+        {
+            "name": "spontF_287_yeah",
+            "start": 379.62,
+            "end": 380.25,
+            "token": "yeah"
         }
     ]
 }
