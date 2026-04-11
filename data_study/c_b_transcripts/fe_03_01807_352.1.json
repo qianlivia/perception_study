@@ -1,0 +1,34 @@
+{
+    "name": "fe_03_01807",
+    "context_channel": 1,
+    "context_text": "<A> [ that's true ] there's a program called teach for america that um allows you to teach a lot quicker than i think you start teaching um or being a teacher aide while you're taking classes and { it's } / <B> [ wow ] / <A> supposed to be a quick route to they they place you i think in schools that are have trouble finding teachers the disadvantaged schools / <B> uh-huh / <A> and that can be both rewarding and stressful because { those } / <B> [ yeah ] / <A> schools are pretty stressed but / <B> yeah",
+    "context_start": 352.1,
+    "context_end": 380.21,
+    "feedback": [
+        {
+            "name": "PS_192_wow",
+            "start": 367.17,
+            "end": 367.8297732426304,
+            "token": "wow"
+        },
+        {
+            "name": "spontA_361_uh-huh",
+            "start": 374.58,
+            "end": 375.0951020408163,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontB_216_yeah",
+            "start": 377.93,
+            "end": 378.4187074829932,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_281_yeah",
+            "start": 379.89,
+            "end": 380.398253968254,
+            "token": "yeah"
+        }
+    ],
+    "context_end_new": 380.398253968254
+}

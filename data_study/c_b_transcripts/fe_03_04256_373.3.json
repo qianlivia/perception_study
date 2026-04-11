@@ -1,0 +1,34 @@
+{
+    "name": "fe_03_04256",
+    "context_channel": 1,
+    "context_text": "<A> um in college when i should have been doing a lot more than what i i could have done / <B> right / <A> and not kept focus and um could have / <B> wow / <A> kept a better focus so / <B> yeah / <A> um / <B> yeah",
+    "context_start": 373.3,
+    "context_end": 388.07,
+    "feedback": [
+        {
+            "name": "sun1_033_right",
+            "start": 379.99,
+            "end": 380.8430612244898,
+            "token": "right"
+        },
+        {
+            "name": "PS_105_wow",
+            "start": 383.82,
+            "end": 384.4679365079365,
+            "token": "wow"
+        },
+        {
+            "name": "sun1_011_yeah",
+            "start": 385.84,
+            "end": 386.50580498866213,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_067_yeah",
+            "start": 387.68,
+            "end": 388.2748299319728,
+            "token": "yeah"
+        }
+    ],
+    "context_end_new": 388.2748299319728
+}

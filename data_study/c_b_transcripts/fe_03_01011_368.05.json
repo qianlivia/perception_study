@@ -1,0 +1,40 @@
+{
+    "name": "fe_03_01011",
+    "context_channel": 0,
+    "context_text": "<B> our company i worked for a wireless company and um they closed down the chicago location that's where i'm from they { closed } / <A> [ wow ] / <B> that down back in late august / <A> wow / <B> and um i did start a business after that but it didn't take off and so i've been looking for the last probably two months three months but two months really more digilent { diligently } / <A> [ really ] / <B> so um yeah i'm still i'm still looking the economy's just so poor people are looking at to try and get me to take ten thousand dollars less than / <A> wow / <B> than i'd worked for for the last thirteen years and i i just you know / <A> wow",
+    "context_start": 368.05,
+    "context_end": 401.27,
+    "feedback": [
+        {
+            "name": "PS_034_wow",
+            "start": 374.56,
+            "end": 375.3775510204082,
+            "token": "wow"
+        },
+        {
+            "name": "PS_129_wow",
+            "start": 376.32,
+            "end": 377.26226757369614,
+            "token": "wow"
+        },
+        {
+            "name": "NS_002_really",
+            "start": 388.23,
+            "end": 389.0864172335601,
+            "token": "really"
+        },
+        {
+            "name": "PS_164_wow",
+            "start": 396.67,
+            "end": 397.8091836734694,
+            "token": "wow"
+        },
+        {
+            "name": "PS_080_wow",
+            "start": 400.81,
+            "end": 401.8090022675737,
+            "token": "wow"
+        }
+    ],
+    "context_end_new": 401.8090022675737
+}

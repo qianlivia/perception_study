@@ -1,0 +1,28 @@
+{
+    "name": "fe_03_02250",
+    "context_channel": 1,
+    "context_text": "<A> 'cause a lot of the things that just um springtime you know the sun's out long / <B> uh-huh / <A> everything's in bloom you { know } / <B> [ mhm ] / <A> less cloudy days / <B> yeah",
+    "context_start": 190.24,
+    "context_end": 200.38,
+    "feedback": [
+        {
+            "name": "spontD_043_uh-huh",
+            "start": 195.61,
+            "end": 196.09385487528345,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontC_380_mhm",
+            "start": 197.6,
+            "end": 198.13433106575962,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_356_yeah",
+            "start": 200.0,
+            "end": 200.48190476190476,
+            "token": "yeah"
+        }
+    ],
+    "context_end_new": 200.48190476190476
+}

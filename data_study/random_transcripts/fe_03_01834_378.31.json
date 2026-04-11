@@ -1,0 +1,58 @@
+{
+    "name": "fe_03_01834",
+    "context_channel": 1,
+    "context_text": "<A> i'm a psychology student { and } / <B> [ right ] / <A> i haven't seen any data to support that argument i would { have } / <B> [ mhm ] / <A> to see ah what i have seen are um is research to the contrary that it is helping students / <B> mhm / <A> yeah so uh unless i see something that i guess because of my nature as a scientist i i have to see proof / <B> uh-huh / <A> before i believe it and i just don't believe that that's true i think that um that it may replace television time ah and i think that it's better than that television because it's more interactive i i don't think the television is bad either i don't think pbs is bad { for kids } / <B> [ mhm ] / <A> or the { discovery } / <B> [ yeah ] / <A> channel / <B> really / <A> but um especially what i've seen is that there is a lot of um programming for children with disabilities / <B> okay",
+    "context_start": 378.31,
+    "context_end": 431.9,
+    "feedback": [
+        {
+            "name": "sun1_032_right",
+            "start": 380.04,
+            "end": 380.8833560090703,
+            "token": "right"
+        },
+        {
+            "name": "spontC_387_mhm",
+            "start": 384.73,
+            "end": 385.3348979591837,
+            "token": "mhm"
+        },
+        {
+            "name": "spontB_356_mhm",
+            "start": 394.18,
+            "end": 394.78485260770975,
+            "token": "mhm"
+        },
+        {
+            "name": "spontD_034_uh-huh",
+            "start": 403.82,
+            "end": 404.3371882086168,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PR_051_mhm",
+            "start": 421.73,
+            "end": 422.55263038548753,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_197_yeah",
+            "start": 422.42,
+            "end": 422.98358276643995,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_070_really",
+            "start": 423.75,
+            "end": 424.43857142857144,
+            "token": "really"
+        },
+        {
+            "name": "spontE_405_okay",
+            "start": 431.5,
+            "end": 432.1742857142857,
+            "token": "okay"
+        }
+    ],
+    "context_end_new": 432.1742857142857
+}

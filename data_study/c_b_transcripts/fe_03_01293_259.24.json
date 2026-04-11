@@ -1,0 +1,40 @@
+{
+    "name": "fe_03_01293",
+    "context_channel": 0,
+    "context_text": "<B> at b byu and byu is a very conservative school it's { um } / <A> [ uh-huh ] / <B> then going to usc is a much more liberal school around { here } / <A> [ uh-huh ] / <B> um usc is is probably f at least within my department it's are are you talking in the context of war right now { like } / <A> [ yeah ] / <B> what their stand i'd say it was pretty much uh anti war most of the people that are in the department there are very few americans they're { primarily } / <A> [ oh ] / <B> europeans and actually a fair number of uh of turks and so { uh } / <A> [ wow ]",
+    "context_start": 259.24,
+    "context_end": 292.54,
+    "feedback": [
+        {
+            "name": "spontF_009_uh-huh",
+            "start": 263.26,
+            "end": 263.6426303854875,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontF_118_uh-huh",
+            "start": 266.54,
+            "end": 267.06544217687076,
+            "token": "uh-huh"
+        },
+        {
+            "name": "spontE_003_yeah",
+            "start": 277.31,
+            "end": 277.6943537414966,
+            "token": "yeah"
+        },
+        {
+            "name": "spontF_207_oh",
+            "start": 286.12,
+            "end": 286.5043083900227,
+            "token": "oh"
+        },
+        {
+            "name": "PS_164_wow",
+            "start": 291.85,
+            "end": 292.9891836734694,
+            "token": "wow"
+        }
+    ],
+    "context_end_new": 292.9891836734694
+}

@@ -1,0 +1,34 @@
+{
+    "name": "fe_03_01216",
+    "context_channel": 1,
+    "context_text": "<A> yes you will hear that being bantered around more and more now because that's um gonna be one of the big things that come up the public schools are bankrupt in our system here in the city of minneapolis it costs over nine thousand dollars per student per year in the public schools / <B> yeah / <A> i paid for private school and i got three times the the education for my child for three thousand dollars a year / <B> okay / <A> i'd like a six thousand dollar rebate / <B> mhm / <A> well now i'm paying taxes for public school and doing double duty cause i do go to some private school and now i home school because my children are my children and they need an education { today } / <B> [ wow ]",
+    "context_start": 303.04,
+    "context_end": 339.55,
+    "feedback": [
+        {
+            "name": "spontA_347_yeah",
+            "start": 318.6,
+            "end": 319.2214965986395,
+            "token": "yeah"
+        },
+        {
+            "name": "spontB_028_okay",
+            "start": 325.58,
+            "end": 326.01319727891155,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_311_mhm",
+            "start": 327.86,
+            "end": 328.36004535147396,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_107_wow",
+            "start": 338.73,
+            "end": 340.0260544217687,
+            "token": "wow"
+        }
+    ],
+    "context_end_new": 340.0260544217687
+}

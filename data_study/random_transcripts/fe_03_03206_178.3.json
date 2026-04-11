@@ -1,0 +1,46 @@
+{
+    "name": "fe_03_03206",
+    "context_channel": 0,
+    "context_text": "<B> uh it's good i used to have also a my parents had a cocker spaniel / <A> right / <B> and uh that was a good dog that was a nice dog it was blind / <A> yeah / <B> but uh it would love to play ball it would love it just take the ball and { and it } / <A> [ wow ] / <B> would take it a long time to find the ball because it was blind like i said / <A> mhm / <B> like it it would smell you know the scent it would { smell the } / <A> [ right ] / <B> ball out and go find it and it would love bringing it back up to you and do it all over and over and over and over { for } / <A> [ right ]",
+    "context_start": 178.3,
+    "context_end": 204.03,
+    "feedback": [
+        {
+            "name": "spontC_360_right",
+            "start": 183.16,
+            "end": 183.73877551020408,
+            "token": "right"
+        },
+        {
+            "name": "spontF_101_yeah",
+            "start": 186.87,
+            "end": 187.4782993197279,
+            "token": "yeah"
+        },
+        {
+            "name": "PS_187_wow",
+            "start": 191.63,
+            "end": 192.64238095238096,
+            "token": "wow"
+        },
+        {
+            "name": "spontA_409_mhm",
+            "start": 194.87,
+            "end": 195.43621315192743,
+            "token": "mhm"
+        },
+        {
+            "name": "sun1_030_right",
+            "start": 197.59,
+            "end": 198.38356009070296,
+            "token": "right"
+        },
+        {
+            "name": "sun1_032_right",
+            "start": 203.45,
+            "end": 204.2933560090703,
+            "token": "right"
+        }
+    ],
+    "context_end_new": 204.2933560090703
+}

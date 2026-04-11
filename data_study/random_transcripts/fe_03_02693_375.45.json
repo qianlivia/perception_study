@@ -1,0 +1,40 @@
+{
+    "name": "fe_03_02693",
+    "context_channel": 1,
+    "context_text": "<A> well my uh our tradition with my in laws is they take us on a birthday shopping trip / <B> right / <A> and we can buy whatever we want / <B> right / <A> and they take us out to a special birthday lunch / <B> oh / <A> we can pick whatever restaurant we want / <B> exactly / <A> and if we want a homemade cake or if we want um if we want um you know a store bought cake or if we just want desert at the restaurant { and } / <B> [ right ]",
+    "context_start": 375.45,
+    "context_end": 402.94,
+    "feedback": [
+        {
+            "name": "PR_048_right",
+            "start": 381.26,
+            "end": 381.8950113378685,
+            "token": "right"
+        },
+        {
+            "name": "sun1_030_right",
+            "start": 383.95,
+            "end": 384.74356009070294,
+            "token": "right"
+        },
+        {
+            "name": "spontC_320_oh",
+            "start": 386.85,
+            "end": 388.0652380952381,
+            "token": "oh"
+        },
+        {
+            "name": "sun_016_exactly",
+            "start": 390.85,
+            "end": 391.8834693877551,
+            "token": "exactly"
+        },
+        {
+            "name": "sun1_033_right",
+            "start": 402.56,
+            "end": 403.4130612244898,
+            "token": "right"
+        }
+    ],
+    "context_end_new": 403.4130612244898
+}
