@@ -1,0 +1,40 @@
+{
+    "name": "fe_03_01415",
+    "context_channel": 1,
+    "context_text": "<A> yeah i made that a point to keep in touch with my friends afterwards / <B> mhm / <A> but ah it ah i got a little boy who's three / <B> mhm / <A> and ah the only thi he's totally unaware / <B> mhm / <A> the ah only thing he's noticed is ah the amount of flags afterwards and stuff um my the area where i live at i live in north florida / <B> okay / <A> so ah he's seen lot of flags and every time we pass by a flag there's a flag momma there's a flag / <B> uh-huh",
+    "context_start": 141.07,
+    "context_end": 171.82,
+    "feedback": [
+        {
+            "name": "sun_012_mhm",
+            "start": 145.6,
+            "end": 146.60829931972788,
+            "token": "mhm"
+        },
+        {
+            "name": "spontC_356_mhm",
+            "start": 150.92,
+            "end": 151.51564625850338,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_409_mhm",
+            "start": 155.31,
+            "end": 155.87621315192743,
+            "token": "mhm"
+        },
+        {
+            "name": "spontB_028_okay",
+            "start": 165.7,
+            "end": 166.13319727891155,
+            "token": "okay"
+        },
+        {
+            "name": "spontA_312_uh-huh",
+            "start": 171.43,
+            "end": 171.99,
+            "token": "uh-huh"
+        }
+    ],
+    "context_end_new": 171.99
+}

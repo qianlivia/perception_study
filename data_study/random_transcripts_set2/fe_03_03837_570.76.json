@@ -1,0 +1,28 @@
+{
+    "name": "fe_03_03837",
+    "context_channel": 1,
+    "context_text": "<A> actually watched the um repeats so that he could try to catch up { and } / <B> [ exactly ] / <A> the blockbuster here had the first and second seasons / <B> yeah / <A> on ah dvd so he watched it so he could kind of catch up / <B> mhm",
+    "context_start": 570.76,
+    "context_end": 582.71,
+    "feedback": [
+        {
+            "name": "sun_026_exactly",
+            "start": 574.54,
+            "end": 575.5694784580498,
+            "token": "exactly"
+        },
+        {
+            "name": "spontC_062_yeah",
+            "start": 577.96,
+            "end": 578.6846258503401,
+            "token": "yeah"
+        },
+        {
+            "name": "spontD_030_mhm",
+            "start": 582.29,
+            "end": 582.788775510204,
+            "token": "mhm"
+        }
+    ],
+    "context_end_new": 582.788775510204
+}

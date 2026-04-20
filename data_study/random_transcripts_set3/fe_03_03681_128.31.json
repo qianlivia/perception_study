@@ -1,0 +1,40 @@
+{
+    "name": "fe_03_03681",
+    "context_channel": 0,
+    "context_text": "<B> there you go lie down okay i got it okay see over here we can live off of minimum wage { like } / <A> [ wow ] / <B> like a three i'm renting a three bedroom house for three hundred and seventy five dollars / <A> right / <B> yeah and that was a good deal for me i was like wow i'll take it it's { usually about } / <A> [ mhm ] / <B> five hundred you know 'cause around here it's not going to become a city it's a small town it was it was whenever i was younger and now it's not / <A> exactly / <B> so ah everything kinda went up all the prices they're going up and and they'll be about five hundred six hundred for a two bedroom three bedroom but { this one's } / <A> [ mhm ]",
+    "context_start": 128.31,
+    "context_end": 168.87,
+    "feedback": [
+        {
+            "name": "PS_107_wow",
+            "start": 139.24,
+            "end": 140.5360544217687,
+            "token": "wow"
+        },
+        {
+            "name": "spontC_360_right",
+            "start": 144.89,
+            "end": 145.46877551020407,
+            "token": "right"
+        },
+        {
+            "name": "spontF_312_mhm",
+            "start": 150.81,
+            "end": 151.32854875283448,
+            "token": "mhm"
+        },
+        {
+            "name": "sun_041_exactly",
+            "start": 159.0,
+            "end": 159.95292517006803,
+            "token": "exactly"
+        },
+        {
+            "name": "sun1_009_mhm",
+            "start": 168.42,
+            "end": 169.26303854875283,
+            "token": "mhm"
+        }
+    ],
+    "context_end_new": 169.26303854875283
+}

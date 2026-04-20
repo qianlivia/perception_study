@@ -1,0 +1,40 @@
+{
+    "name": "fe_03_01011",
+    "context_channel": 0,
+    "context_text": "<B> our company i worked for a wireless company and um they closed down the chicago location that's where i'm from they { closed } / <A> [ okay ] / <B> that down back in late august / <A> exactly / <B> and um i did start a business after that but it didn't take off and so i've been looking for the last probably two months three months but two months really more digilent { diligently } / <A> [ right ] / <B> so um yeah i'm still i'm still looking the economy's just so poor people are looking at to try and get me to take ten thousand dollars less than / <A> right / <B> than i'd worked for for the last thirteen years and i i just you know / <A> exactly",
+    "context_start": 368.05,
+    "context_end": 401.27,
+    "feedback": [
+        {
+            "name": "spontE_405_okay",
+            "start": 374.56,
+            "end": 375.2342857142857,
+            "token": "okay"
+        },
+        {
+            "name": "sun_038_exactly",
+            "start": 376.32,
+            "end": 377.40544217687074,
+            "token": "exactly"
+        },
+        {
+            "name": "spontC_360_right",
+            "start": 388.23,
+            "end": 388.8087755102041,
+            "token": "right"
+        },
+        {
+            "name": "sun1_029_right",
+            "start": 396.67,
+            "end": 397.36188208616784,
+            "token": "right"
+        },
+        {
+            "name": "sun_029_exactly",
+            "start": 400.81,
+            "end": 401.95036281179136,
+            "token": "exactly"
+        }
+    ],
+    "context_end_new": 401.95036281179136
+}

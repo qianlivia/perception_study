@@ -1,0 +1,28 @@
+{
+    "name": "fe_03_05375",
+    "context_channel": 0,
+    "context_text": "<B> custom printed gift items { you } / <A> [ okay ] / <B> know to corporations usually and they'll put their logo on { you know } / <A> [ oh ] / <B> it could be calendars or pens or { a } / <A> [ yeah ]",
+    "context_start": 413.8,
+    "context_end": 421.87,
+    "feedback": [
+        {
+            "name": "spontD_089_okay",
+            "start": 415.74,
+            "end": 416.5451247165533,
+            "token": "okay"
+        },
+        {
+            "name": "PS_053_oh",
+            "start": 419.35,
+            "end": 421.0109523809524,
+            "token": "oh"
+        },
+        {
+            "name": "spontA_155_yeah",
+            "start": 421.58,
+            "end": 422.1053514739229,
+            "token": "yeah"
+        }
+    ],
+    "context_end_new": 422.1053514739229
+}

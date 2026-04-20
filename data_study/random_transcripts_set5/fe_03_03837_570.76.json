@@ -1,0 +1,28 @@
+{
+    "name": "fe_03_03837",
+    "context_channel": 1,
+    "context_text": "<A> actually watched the um repeats so that he could try to catch up { and } / <B> [ okay ] / <A> the blockbuster here had the first and second seasons / <B> oh / <A> on ah dvd so he watched it so he could kind of catch up / <B> okay",
+    "context_start": 570.76,
+    "context_end": 582.71,
+    "feedback": [
+        {
+            "name": "spontC_511_okay",
+            "start": 574.54,
+            "end": 575.0507936507936,
+            "token": "okay"
+        },
+        {
+            "name": "spontC_320_oh",
+            "start": 577.96,
+            "end": 579.1752380952381,
+            "token": "oh"
+        },
+        {
+            "name": "spontB_120_okay",
+            "start": 582.29,
+            "end": 582.9909070294784,
+            "token": "okay"
+        }
+    ],
+    "context_end_new": 582.9909070294784
+}

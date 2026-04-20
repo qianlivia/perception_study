@@ -1,0 +1,52 @@
+{
+    "name": "fe_03_04681",
+    "context_channel": 0,
+    "context_text": "<B> well we have a newspaper in philadelphia called metro / <A> mhm / <B> it's a free paper and they pass it out at all of the ah terminals and trolley stations and train stations / <A> right / <B> and it's it runs twenty four to thirty pages { it } / <A> [ okay ] / <B> encapsulates the news / <A> wow / <B> and you can actually run through that paper and see all that's set to print in about twenty minutes / <A> okay / <B> and you also have two jokes so that is the main source of my news in the morning / <A> yeah / <B> and then at night i watch the ten o'clock news for fox / <A> okay",
+    "context_start": 54.13,
+    "context_end": 94.57,
+    "feedback": [
+        {
+            "name": "spontD_186_mhm",
+            "start": 58.99,
+            "end": 59.58124716553288,
+            "token": "mhm"
+        },
+        {
+            "name": "sun1_032_right",
+            "start": 68.47,
+            "end": 69.31335600907029,
+            "token": "right"
+        },
+        {
+            "name": "spontE_158_okay",
+            "start": 72.24,
+            "end": 72.85895691609977,
+            "token": "okay"
+        },
+        {
+            "name": "PS_169_wow",
+            "start": 74.17,
+            "end": 75.60995464852608,
+            "token": "wow"
+        },
+        {
+            "name": "spontC_020_okay",
+            "start": 82.73,
+            "end": 83.20487528344671,
+            "token": "okay"
+        },
+        {
+            "name": "spontE_073_yeah",
+            "start": 89.43,
+            "end": 89.99598639455783,
+            "token": "yeah"
+        },
+        {
+            "name": "spontE_005_okay",
+            "start": 94.1,
+            "end": 94.6502947845805,
+            "token": "okay"
+        }
+    ],
+    "context_end_new": 94.6502947845805
+}

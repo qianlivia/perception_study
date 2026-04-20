@@ -1,0 +1,58 @@
+{
+    "name": "fe_03_01834",
+    "context_channel": 1,
+    "context_text": "<A> i'm a psychology student { and } / <B> [ uh-huh ] / <A> i haven't seen any data to support that argument i would { have } / <B> [ really ] / <A> to see ah what i have seen are um is research to the contrary that it is helping students / <B> okay / <A> yeah so uh unless i see something that i guess because of my nature as a scientist i i have to see proof / <B> yeah / <A> before i believe it and i just don't believe that that's true i think that um that it may replace television time ah and i think that it's better than that television because it's more interactive i i don't think the television is bad either i don't think pbs is bad { for kids } / <B> [ mhm ] / <A> or the { discovery } / <B> [ really ] / <A> channel / <B> exactly / <A> but um especially what i've seen is that there is a lot of um programming for children with disabilities / <B> right",
+    "context_start": 378.31,
+    "context_end": 431.9,
+    "feedback": [
+        {
+            "name": "spontC_263_uh-huh",
+            "start": 380.04,
+            "end": 380.6377777777778,
+            "token": "uh-huh"
+        },
+        {
+            "name": "PS_019_really",
+            "start": 384.73,
+            "end": 385.5194784580499,
+            "token": "really"
+        },
+        {
+            "name": "spontB_195_okay",
+            "start": 394.18,
+            "end": 394.84938775510204,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_240_yeah",
+            "start": 403.82,
+            "end": 404.3897959183673,
+            "token": "yeah"
+        },
+        {
+            "name": "spontA_147_mhm",
+            "start": 421.73,
+            "end": 422.2031972789116,
+            "token": "mhm"
+        },
+        {
+            "name": "PS_070_really",
+            "start": 422.42,
+            "end": 423.10857142857145,
+            "token": "really"
+        },
+        {
+            "name": "sun_026_exactly",
+            "start": 423.75,
+            "end": 424.7794784580499,
+            "token": "exactly"
+        },
+        {
+            "name": "sun1_030_right",
+            "start": 431.5,
+            "end": 432.29356009070295,
+            "token": "right"
+        }
+    ],
+    "context_end_new": 432.29356009070295
+}

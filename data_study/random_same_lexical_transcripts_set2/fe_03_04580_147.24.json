@@ -1,0 +1,28 @@
+{
+    "name": "fe_03_04580",
+    "context_channel": 0,
+    "context_text": "<B> good special effects i don't know i might i might go check it out i'm i don't know i saw the first uh the last star wars movies / <A> mhm / <B> and i was kind of disappointed with them i { didn't think } / <A> [ okay ] / <B> they were they were as good as the original so if it's just all about the special effects { i'm not } / <A> [ yeah ]",
+    "context_start": 147.24,
+    "context_end": 159.73,
+    "feedback": [
+        {
+            "name": "spontB_191_mhm",
+            "start": 153.25,
+            "end": 153.9753514739229,
+            "token": "mhm"
+        },
+        {
+            "name": "spontA_198_okay",
+            "start": 155.12,
+            "end": 155.78961451247167,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_101_yeah",
+            "start": 159.3,
+            "end": 159.90829931972792,
+            "token": "yeah"
+        }
+    ],
+    "context_end_new": 159.90829931972792
+}

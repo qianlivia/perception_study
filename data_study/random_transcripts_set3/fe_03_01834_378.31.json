@@ -1,0 +1,58 @@
+{
+    "name": "fe_03_01834",
+    "context_channel": 1,
+    "context_text": "<A> i'm a psychology student { and } / <B> [ right ] / <A> i haven't seen any data to support that argument i would { have } / <B> [ wow ] / <A> to see ah what i have seen are um is research to the contrary that it is helping students / <B> mhm / <A> yeah so uh unless i see something that i guess because of my nature as a scientist i i have to see proof / <B> oh / <A> before i believe it and i just don't believe that that's true i think that um that it may replace television time ah and i think that it's better than that television because it's more interactive i i don't think the television is bad either i don't think pbs is bad { for kids } / <B> [ yeah ] / <A> or the { discovery } / <B> [ okay ] / <A> channel / <B> mhm / <A> but um especially what i've seen is that there is a lot of um programming for children with disabilities / <B> yeah",
+    "context_start": 378.31,
+    "context_end": 431.9,
+    "feedback": [
+        {
+            "name": "sun1_032_right",
+            "start": 380.04,
+            "end": 380.8833560090703,
+            "token": "right"
+        },
+        {
+            "name": "PS_164_wow",
+            "start": 384.73,
+            "end": 385.8691836734694,
+            "token": "wow"
+        },
+        {
+            "name": "spontA_286_mhm",
+            "start": 394.18,
+            "end": 394.79179138321996,
+            "token": "mhm"
+        },
+        {
+            "name": "spontD_032_oh",
+            "start": 403.82,
+            "end": 404.50657596371883,
+            "token": "oh"
+        },
+        {
+            "name": "spontC_323_yeah",
+            "start": 421.73,
+            "end": 422.5951247165533,
+            "token": "yeah"
+        },
+        {
+            "name": "sun1_017_okay",
+            "start": 422.42,
+            "end": 423.3327891156463,
+            "token": "okay"
+        },
+        {
+            "name": "spontD_038_mhm",
+            "start": 423.75,
+            "end": 424.2832879818594,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_225_yeah",
+            "start": 431.5,
+            "end": 432.09954648526076,
+            "token": "yeah"
+        }
+    ],
+    "context_end_new": 432.09954648526076
+}

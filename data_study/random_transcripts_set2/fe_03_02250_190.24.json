@@ -1,0 +1,28 @@
+{
+    "name": "fe_03_02250",
+    "context_channel": 1,
+    "context_text": "<A> 'cause a lot of the things that just um springtime you know the sun's out long / <B> really / <A> everything's in bloom you { know } / <B> [ exactly ] / <A> less cloudy days / <B> mhm",
+    "context_start": 190.24,
+    "context_end": 200.38,
+    "feedback": [
+        {
+            "name": "sun2_001_really",
+            "start": 195.61,
+            "end": 196.34061224489798,
+            "token": "really"
+        },
+        {
+            "name": "sun_038_exactly",
+            "start": 197.6,
+            "end": 198.68544217687074,
+            "token": "exactly"
+        },
+        {
+            "name": "spontA_107_mhm",
+            "start": 200.0,
+            "end": 200.5130612244898,
+            "token": "mhm"
+        }
+    ],
+    "context_end_new": 200.5130612244898
+}

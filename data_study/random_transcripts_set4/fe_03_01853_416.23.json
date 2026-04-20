@@ -1,0 +1,40 @@
+{
+    "name": "fe_03_01853",
+    "context_channel": 1,
+    "context_text": "<A> but it's another suburb of chicago and it's really there are a hundred and thirty thousand i think / <B> right / <A> i think it's the second biggest city in illinois but all the schools have computers like state-of-the-art computer labs the elementary schools and junior highs but i think it's because it's a huge city / <B> yeah / <A> and they have to and they have a lot of people contributing to the school board's budget / <B> right / <A> so everybody has to learn how to use it i'm even jealous of my students i teach freshmen and i'm teaching this semester how to write a research paper / <B> mhm / <A> and i wish i had done i had had this class when i was a freshman in college / <B> yeah",
+    "context_start": 416.23,
+    "context_end": 454.84,
+    "feedback": [
+        {
+            "name": "sun1_031_right",
+            "start": 421.06,
+            "end": 421.85424036281177,
+            "token": "right"
+        },
+        {
+            "name": "spontD_052_yeah",
+            "start": 434.16,
+            "end": 434.9219954648526,
+            "token": "yeah"
+        },
+        {
+            "name": "sun1_033_right",
+            "start": 439.58,
+            "end": 440.4330612244898,
+            "token": "right"
+        },
+        {
+            "name": "spontD_195_mhm",
+            "start": 449.41,
+            "end": 450.30551020408166,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_508_yeah",
+            "start": 454.55,
+            "end": 455.25952380952384,
+            "token": "yeah"
+        }
+    ],
+    "context_end_new": 455.25952380952384
+}

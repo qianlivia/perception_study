@@ -1,0 +1,34 @@
+{
+    "name": "fe_03_03551",
+    "context_channel": 1,
+    "context_text": "<A> yeah yeah well i'm myself i do nurses aid work and um home health { care and } / <B> [ okay ] / <A> i'm also working from home so { i'm } / <B> [ okay ] / <A> carrying two jobs and um / <B> wow / <A> got to you know / <B> mhm",
+    "context_start": 583.97,
+    "context_end": 597.43,
+    "feedback": [
+        {
+            "name": "spontC_401_okay",
+            "start": 590.79,
+            "end": 591.3193424036281,
+            "token": "okay"
+        },
+        {
+            "name": "spontF_643_okay",
+            "start": 593.11,
+            "end": 593.8178911564626,
+            "token": "okay"
+        },
+        {
+            "name": "PS_101_wow",
+            "start": 594.86,
+            "end": 595.7982766439909,
+            "token": "wow"
+        },
+        {
+            "name": "spontC_235_mhm",
+            "start": 597.01,
+            "end": 597.4616553287982,
+            "token": "mhm"
+        }
+    ],
+    "context_end_new": 597.4616553287982
+}

@@ -1,0 +1,34 @@
+{
+    "name": "fe_03_03022",
+    "context_channel": 0,
+    "context_text": "<B> good well what i recommend if you're gonna get a dog is to do a lot of research and make sure you get a breed that's gonna be that's gonna suit your lifestyle / <A> right / <B> um my cousin for instance got a jack russell terrier and it tore her house apart { because she } / <A> [ wow ] / <B> didn't give it they have a lot of energy like border collies have a lot of energy / <A> yeah / <B> uh a lot of the hunting dogs weimaraners things like that you have to walk 'em a lot i have a german shepherd / <A> mhm",
+    "context_start": 47.14,
+    "context_end": 75.16,
+    "feedback": [
+        {
+            "name": "PR_043_right",
+            "start": 57.19,
+            "end": 57.84990929705215,
+            "token": "right"
+        },
+        {
+            "name": "NegS_008_wow",
+            "start": 63.06,
+            "end": 64.01541950113379,
+            "token": "wow"
+        },
+        {
+            "name": "spontB_026_yeah",
+            "start": 68.12,
+            "end": 68.70938775510204,
+            "token": "yeah"
+        },
+        {
+            "name": "sun_039_mhm",
+            "start": 74.57,
+            "end": 75.26102040816326,
+            "token": "mhm"
+        }
+    ],
+    "context_end_new": 75.26102040816326
+}

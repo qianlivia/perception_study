@@ -1,0 +1,34 @@
+{
+    "name": "fe_03_03089",
+    "context_channel": 1,
+    "context_text": "<A> i did live i did live with a a girl in an apartment and she had a wired hair terrier / <B> really / <A> and it it was a in inside the house / <B> right / <A> and i ah was somewhat attached to that to her her name was patches um and she didn't hu she didn't bother my allergies because she had really short hair / <B> mhm / <A> so when when her hair got longer i could i could tell { because i'd } / <B> [ okay ]",
+    "context_start": 134.22,
+    "context_end": 160.47,
+    "feedback": [
+        {
+            "name": "NS_082_really",
+            "start": 139.45,
+            "end": 140.20224489795916,
+            "token": "really"
+        },
+        {
+            "name": "PR_048_right",
+            "start": 142.88,
+            "end": 143.5150113378685,
+            "token": "right"
+        },
+        {
+            "name": "spontB_212_mhm",
+            "start": 155.14,
+            "end": 155.91764172335598,
+            "token": "mhm"
+        },
+        {
+            "name": "spontF_280_okay",
+            "start": 160.01,
+            "end": 160.7315873015873,
+            "token": "okay"
+        }
+    ],
+    "context_end_new": 160.7315873015873
+}

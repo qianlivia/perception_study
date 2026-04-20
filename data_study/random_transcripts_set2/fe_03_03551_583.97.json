@@ -1,0 +1,34 @@
+{
+    "name": "fe_03_03551",
+    "context_channel": 1,
+    "context_text": "<A> yeah yeah well i'm myself i do nurses aid work and um home health { care and } / <B> [ exactly ] / <A> i'm also working from home so { i'm } / <B> [ right ] / <A> carrying two jobs and um / <B> okay / <A> got to you know / <B> yeah",
+    "context_start": 583.97,
+    "context_end": 597.43,
+    "feedback": [
+        {
+            "name": "sun_042_exactly",
+            "start": 590.79,
+            "end": 591.7472335600906,
+            "token": "exactly"
+        },
+        {
+            "name": "sun1_030_right",
+            "start": 593.11,
+            "end": 593.903560090703,
+            "token": "right"
+        },
+        {
+            "name": "spontE_005_okay",
+            "start": 594.86,
+            "end": 595.4102947845805,
+            "token": "okay"
+        },
+        {
+            "name": "spontD_172_yeah",
+            "start": 597.01,
+            "end": 597.8033786848073,
+            "token": "yeah"
+        }
+    ],
+    "context_end_new": 597.8033786848073
+}

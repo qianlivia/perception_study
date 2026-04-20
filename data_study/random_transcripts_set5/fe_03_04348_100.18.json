@@ -1,0 +1,40 @@
+{
+    "name": "fe_03_04348",
+    "context_channel": 1,
+    "context_text": "<A> a well see i i i've had a i've had a few in my lifetime / <B> okay / <A> but it depends for me it d would depend maybe on who the best friend might be / <B> uh-huh / <A> but / <B> right / <A> and in some ways i probably wouldn't because / <B> wow / <A> my i'm very loyal / <B> mhm",
+    "context_start": 100.18,
+    "context_end": 119.73,
+    "feedback": [
+        {
+            "name": "spontF_280_okay",
+            "start": 106.04,
+            "end": 106.76158730158731,
+            "token": "okay"
+        },
+        {
+            "name": "spontB_280_uh-huh",
+            "start": 111.36,
+            "end": 111.86222222222221,
+            "token": "uh-huh"
+        },
+        {
+            "name": "sun1_032_right",
+            "start": 112.25,
+            "end": 113.09335600907029,
+            "token": "right"
+        },
+        {
+            "name": "PS_178_wow",
+            "start": 115.88,
+            "end": 116.9728798185941,
+            "token": "wow"
+        },
+        {
+            "name": "sun1_006_mhm",
+            "start": 118.9,
+            "end": 119.60000000000001,
+            "token": "mhm"
+        }
+    ],
+    "context_end_new": 119.60000000000001
+}
