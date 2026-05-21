@@ -7,11 +7,12 @@ FILE_NAMES = [
 
 CONDITIONS = ["gt", "b_b", "c_b", "random_same_lexical", "random"]
 root = "data_study"
+root_opus = "data_study_opus"
 
 print("sparse-checkout: |")
 print("  index.html")
 for f_id in FILE_NAMES:
     print(f"\n  # --- Files for {f_id} ---")
     for cond in CONDITIONS:
-        print(f"  {root}/{cond}/{f_id}.wav")
+        print(f"  {root_opus}/{cond}/{f_id}.opus")
         print(f"  {root}/{cond}_transcripts/{f_id}.json")
