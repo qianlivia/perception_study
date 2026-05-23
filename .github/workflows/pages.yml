@@ -27,53 +27,29 @@ jobs:
           sparse-checkout: |
             index.html
 
-            # --- Files for fe_03_01905_330.02 ---
-            data_study_opus/gt/fe_03_01905_330.02.opus
-            data_study/gt_transcripts/fe_03_01905_330.02.json
-            data_study_opus/b_b/fe_03_01905_330.02.opus
-            data_study/b_b_transcripts/fe_03_01905_330.02.json
-            data_study_opus/c_b/fe_03_01905_330.02.opus
-            data_study/c_b_transcripts/fe_03_01905_330.02.json
-            data_study_opus/random_same_lexical/fe_03_01905_330.02.opus
-            data_study/random_same_lexical_transcripts/fe_03_01905_330.02.json
-            data_study_opus/random/fe_03_01905_330.02.opus
-            data_study/random_transcripts/fe_03_01905_330.02.json
+            # --- Files for fe_03_01596_319.92 ---
+            data_study_opus/gt/fe_03_01596_319.92.opus
+            data_study/gt_transcripts/fe_03_01596_319.92.json
+            data_study_opus/b_b/fe_03_01596_319.92.opus
+            data_study/b_b_transcripts/fe_03_01596_319.92.json
+            data_study_opus/c_b/fe_03_01596_319.92.opus
+            data_study/c_b_transcripts/fe_03_01596_319.92.json
+            data_study_opus/random_same_lexical_set3/fe_03_01596_319.92.opus
+            data_study/random_same_lexical_transcripts_set3/fe_03_01596_319.92.json
+            data_study_opus/random_set4/fe_03_01596_319.92.opus
+            data_study/random_transcripts_set4/fe_03_01596_319.92.json
 
-            # --- Files for fe_03_01695_351.42 ---
-            data_study_opus/gt/fe_03_01695_351.42.opus
-            data_study/gt_transcripts/fe_03_01695_351.42.json
-            data_study_opus/b_b/fe_03_01695_351.42.opus
-            data_study/b_b_transcripts/fe_03_01695_351.42.json
-            data_study_opus/c_b/fe_03_01695_351.42.opus
-            data_study/c_b_transcripts/fe_03_01695_351.42.json
-            data_study_opus/random_same_lexical/fe_03_01695_351.42.opus
-            data_study/random_same_lexical_transcripts/fe_03_01695_351.42.json
-            data_study_opus/random/fe_03_01695_351.42.opus
-            data_study/random_transcripts/fe_03_01695_351.42.json
-
-            # --- Files for fe_03_01415_141.07 ---
-            data_study_opus/gt/fe_03_01415_141.07.opus
-            data_study/gt_transcripts/fe_03_01415_141.07.json
-            data_study_opus/b_b/fe_03_01415_141.07.opus
-            data_study/b_b_transcripts/fe_03_01415_141.07.json
-            data_study_opus/c_b/fe_03_01415_141.07.opus
-            data_study/c_b_transcripts/fe_03_01415_141.07.json
-            data_study_opus/random_same_lexical/fe_03_01415_141.07.opus
-            data_study/random_same_lexical_transcripts/fe_03_01415_141.07.json
-            data_study_opus/random/fe_03_01415_141.07.opus
-            data_study/random_transcripts/fe_03_01415_141.07.json
-
-            # --- Files for fe_03_00010_333.58 ---
-            data_study_opus/gt/fe_03_00010_333.58.opus
-            data_study/gt_transcripts/fe_03_00010_333.58.json
-            data_study_opus/b_b/fe_03_00010_333.58.opus
-            data_study/b_b_transcripts/fe_03_00010_333.58.json
-            data_study_opus/c_b/fe_03_00010_333.58.opus
-            data_study/c_b_transcripts/fe_03_00010_333.58.json
-            data_study_opus/random_same_lexical/fe_03_00010_333.58.opus
-            data_study/random_same_lexical_transcripts/fe_03_00010_333.58.json
-            data_study_opus/random/fe_03_00010_333.58.opus
-            data_study/random_transcripts/fe_03_00010_333.58.json
+            # --- Files for fe_03_03206_178.3 ---
+            data_study_opus/gt/fe_03_03206_178.3.opus
+            data_study/gt_transcripts/fe_03_03206_178.3.json
+            data_study_opus/b_b/fe_03_03206_178.3.opus
+            data_study/b_b_transcripts/fe_03_03206_178.3.json
+            data_study_opus/c_b/fe_03_03206_178.3.opus
+            data_study/c_b_transcripts/fe_03_03206_178.3.json
+            data_study_opus/random_same_lexical_set2/fe_03_03206_178.3.opus
+            data_study/random_same_lexical_transcripts_set2/fe_03_03206_178.3.json
+            data_study_opus/random/fe_03_03206_178.3.opus
+            data_study/random_transcripts/fe_03_03206_178.3.json
 
             # --- Files for fe_03_00159_415.51 ---
             data_study_opus/gt/fe_03_00159_415.51.opus
@@ -82,34 +58,10 @@ jobs:
             data_study/b_b_transcripts/fe_03_00159_415.51.json
             data_study_opus/c_b/fe_03_00159_415.51.opus
             data_study/c_b_transcripts/fe_03_00159_415.51.json
-            data_study_opus/random_same_lexical/fe_03_00159_415.51.opus
-            data_study/random_same_lexical_transcripts/fe_03_00159_415.51.json
-            data_study_opus/random/fe_03_00159_415.51.opus
-            data_study/random_transcripts/fe_03_00159_415.51.json
-
-            # --- Files for fe_03_00271_344.65 ---
-            data_study_opus/gt/fe_03_00271_344.65.opus
-            data_study/gt_transcripts/fe_03_00271_344.65.json
-            data_study_opus/b_b/fe_03_00271_344.65.opus
-            data_study/b_b_transcripts/fe_03_00271_344.65.json
-            data_study_opus/c_b/fe_03_00271_344.65.opus
-            data_study/c_b_transcripts/fe_03_00271_344.65.json
-            data_study_opus/random_same_lexical/fe_03_00271_344.65.opus
-            data_study/random_same_lexical_transcripts/fe_03_00271_344.65.json
-            data_study_opus/random/fe_03_00271_344.65.opus
-            data_study/random_transcripts/fe_03_00271_344.65.json
-
-            # --- Files for fe_03_01398_170.67 ---
-            data_study_opus/gt/fe_03_01398_170.67.opus
-            data_study/gt_transcripts/fe_03_01398_170.67.json
-            data_study_opus/b_b/fe_03_01398_170.67.opus
-            data_study/b_b_transcripts/fe_03_01398_170.67.json
-            data_study_opus/c_b/fe_03_01398_170.67.opus
-            data_study/c_b_transcripts/fe_03_01398_170.67.json
-            data_study_opus/random_same_lexical/fe_03_01398_170.67.opus
-            data_study/random_same_lexical_transcripts/fe_03_01398_170.67.json
-            data_study_opus/random/fe_03_01398_170.67.opus
-            data_study/random_transcripts/fe_03_01398_170.67.json
+            data_study_opus/random_same_lexical_set2/fe_03_00159_415.51.opus
+            data_study/random_same_lexical_transcripts_set2/fe_03_00159_415.51.json
+            data_study_opus/random_set3/fe_03_00159_415.51.opus
+            data_study/random_transcripts_set3/fe_03_00159_415.51.json
 
           sparse-checkout-cone-mode: false
 

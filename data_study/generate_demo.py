@@ -3,17 +3,53 @@ import os
 import re
 
 # --- CONFIGURATION ---
-FILE_NAMES = ["fe_03_01905_330.02", "fe_03_01695_351.42", "fe_03_01415_141.07", "fe_03_00010_333.58", "fe_03_00159_415.51", "fe_03_00271_344.65", "fe_03_01398_170.67",]
+FILE_NAMES = [
+    "fe_03_01596_319.92",
+    "fe_03_03206_178.3",
+    "fe_03_00159_415.51",
+]
 root = "data_study"
 root_opus = "data_study_opus"
 
 CONDITIONS = [
-    "gt",
-    "b_b",
-    "c_b",
-    "random_same_lexical",
-    "random",
+    [
+        "gt{}",
+        "b_b{}",
+        "c_b{}",
+        "random_same_lexical{}_set3",
+        "random{}_set4",
+    ],
+    [
+        "gt{}",
+        "b_b{}",
+        "c_b{}",
+        "random_same_lexical{}_set2",
+        "random{}",
+    ],
+    [
+        "gt{}",
+        "b_b{}",
+        "c_b{}",
+        "random_same_lexical{}_set2",
+        "random{}_set3",
+    ],
 ]
+
+NAME_MAPPING = {
+    "gt": "Original",
+    "b_b": "Match_bc",
+    "c_b": "Match_ctx",
+    "random_same_lexical": "Rnd_same",
+    "random_same_lexical_set2": "Rnd_same",
+    "random_same_lexical_set3": "Rnd_same",
+    "random_same_lexical_set4": "Rnd_same",
+    "random_same_lexical_set5": "Rnd_same",
+    "random": "Random",
+    "random_set2": "Random",
+    "random_set3": "Random",
+    "random_set4": "Random",
+    "random_set5": "Random",
+}
 
 OUTPUT_HTML = "index.html"
 
@@ -90,17 +126,18 @@ def load_json_data(filepath):
 def main():
     compiled_data = {}
 
-    for file_id in FILE_NAMES:
+    for i, file_id in enumerate(FILE_NAMES):
         compiled_data[file_id] = {}
-        for cond in CONDITIONS:
+        for cond_temp in CONDITIONS[i]:
+            cond = cond_temp.format('')
             wav_relative_path = f"{root_opus}/{cond}/{file_id}.opus"
-            json_real_path = os.path.join(f"{root}/{cond}_transcripts", f"{file_id}.json")
+            json_real_path = os.path.join(f"{root}/{cond_temp.format('_transcripts')}", f"{file_id}.json")
             json_content = load_json_data(json_real_path)
             
             if json_content is not None:
                 safe_instance_id = sanitize_id(file_id, cond)
                 final_aligned_lines = align_transcript_timings(json_content, file_id, cond)
-                compiled_data[file_id][cond] = {
+                compiled_data[file_id][NAME_MAPPING[cond]] = {
                     "instance_id": safe_instance_id,
                     "audio_url": wav_relative_path,
                     "aligned_lines": final_aligned_lines,
